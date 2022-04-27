@@ -1,0 +1,2319 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Admin Panel
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Scheduled
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Notifications
+and_dashboard_pages_android_line58 === Devices
+and_dashboard_pages_contacts_line40 === Unsubscribed
+and_dashboard_pages_defailt_line37 === Gateway Rates
+and_dashboard_pages_default_line42 === Docs
+and_dashboard_pages_default_line58 === Messages
+and_dashboard_pages_default_line60 === Last 7 days
+and_dashboard_pages_default_line74 === Events
+and_dashboard_pages_default_line76 === Last 7 days
+and_dashboard_pages_default_line90 === Utilities
+and_dashboard_pages_default_line92 === Last 7 days
+and_dashboard_pages_default_line109 === Partners
+and_dashboard_pages_default_line117 === Earnings
+and_dashboard_pages_default_line131 === Payout
+and_dashboard_pages_default_line140 === Balance
+and_dashboard_pages_default_line148 === Credits
+and_dashboard_pages_default_line162 === Top up
+and_dashboard_pages_default_line170 === Delivery Ratio
+and_dash_pg_def_line178 === Success
+and_dash_pg_def_line190 === Failed
+and_dash_pg_def_line204 === Senders
+and_dash_pg_def_line209 === You are not subscribed to any of our premium packages!
+and_dash_pg_def_line217 === Devices
+and_dash_pg_def_line224 === Linked
+and_dash_pg_def_line232 === Accounts
+and_dash_pg_def_line239 === Linked
+and_dash_pg_def_line250 === Download and install our official app to get the best user experience
+and_dash_pg_doc_line10 === Documents
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooks
+and_dash_pg_doc_line40 === Actions
+and_dash_pg_doc_line46 === Devices
+and_dash_pg_doc_line52 === Partnership
+and_dash_pg_for_line29 === Cancel
+and_dash_pg_log_line14 === Login with Facebook
+and_dash_pg_log_line17 === Login with Google
+and_dash_pg_log_line20 === Login with VKontakte
+and_dash_pg_log_line54 === Create Account
+and_dash_pg_pay_line45 === We have received your order request, our system will automatically send you an email and apply the changes to your account once the payment transaction has been verified.
+and_dash_pg_rates_line10 === Gateway Rates
+and_dash_pg_rates_line39 === Partners
+and_dash_pg_reg_line15 === Register with Facebook
+and_dash_pg_reg_line20 === Register with Google
+and_dash_pg_reg_line25 === Register with VKontakte
+and_dash_pg_uns_line10 === Unsubscribed
+and_dash_pag_uns_line40 === Unsubscribed
+and_dash_pag_uns_line42 === You have unsubscribed from our sending list.
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Sent
+and_dash_pg_whats_line34 === Received
+and_dash_pg_whats_line40 === Scheduled
+and_dash_pg_whats_line46 === Accounts
+and_dash_api_line17 === Key name.
+and_dash_api_line19 === eg. For My Server
+and_dash_api_line24 === Key permissions.
+and_dash_auto_line17 === Action name.
+and_dash_auto_line19 === eg. Michael
+and_dash_auto_line24 === Source
+and_dash_auto_line24_1 === Source of receive event.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Respond keywords sepparated by commas. These keywords will be trigger the auto response if detected in the message content.
+and_dash_auto_line36 === eg. thank you, okay, subscribe, yes
+and_dash_auto_line41 === The message to be sent to the sender.
+and_dash_auto_line43 === eg. Your reply message here, shortcodes accepted
+and_dash_auto_line48 === Set of variables that you can use in your message.
+and_dash_con_line24 === Contact number.
+and_dash_con_line31 === Contact group.
+and_dash_con_line17 === Contact name.
+and_dash_cre_line28 === Purchase
+and_dash_gate_line17 === Name
+and_dash_gate_line17_1 === This is the gateway name that will be shown to your users.
+and_dash_gate_line19 === eg. Twilio
+and_dash_gate_line24 === Controller
+and_dash_gate_line24_1 === Select the gateway controller file, this will contain your gateway logic and code. It is recommended to check the documentation.
+and_dash_gate_line27 === Controller Boilerplate:
+and_dash_gate_line34 === Callback
+and_dash_gate_line34_1 === If enabled, messages will need to be verified using the callback feature of the 3rd party gateway for send status, otherwise, messages will be immediately marked as sent upon sending.
+and_dash_gate_line37 === Enable
+and_dash_gate_line38 === Disable
+and_dash_gate_line44 === Callback ID
+and_dash_gate_line44_1 === If callback is enabled, you must copy this ID and paste it to your controller so the system can identify the callbacks.
+and_dash_gate_line47 ===  Copy and paste for callback ID
+and_dash_gate_line54 === Pricing
+and_dash_gate_line54_1 === Your custom pricing table for this gateway. This will allow you to charge on top of the 3rd party prices. For example, if twilio charges 0.01 for a specified country, then you can charge 0.02 instead, currency is based on your system currency. Please follow the pricing format correctly.
+and_dash_gate_line57 === Sample JSON Pricing:
+and_dash_gate_line57_1 === Download
+and_dash_grp_line17 === Group name.
+and_dash_grp_line19 === eg. Friends
+and_dash_hook_line17 === Action name.
+and_dash_hook_line19 === eg. Test Action
+and_dash_hook_line24 === Source
+and_dash_hook_line24_1 === Source of event.
+and_dash_hook_line34 === Select the event where this hook will be invoked.
+and_dash_hook_line44 === Hook link structure, this is the url that will be invoked by the system. Only GET method is supported.
+and_dash_hook_line51 === Set of variables that you can use in your hook URL.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === On Send
+and_dash_hook_line38 === On Receive
+and_dash_lang_line17 === Language name.
+and_dash_lang_line19 === eg. Korean
+and_dash_lang_line24 === Country code.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === If enabled, language will be identified as right to left direction.
+and_dash_lang_line38 === Yes
+and_dash_lang_line39 === No
+and_dash_lang_line45 === Translation strings.
+and_dash_mail_line17 === Title
+and_dash_mail_line17_1 === Mail title.
+and_dash_mail_line19 === eg. Announcement
+and_dash_mail_line24 === Users
+and_dash_mail_line24_1 === Send by users.
+and_dash_mail_line36 === Roles
+and_dash_mail_line36_1 === Send by roles.
+and_dash_mail_line48 === Content
+and_dash_mail_line48_1 === Mail content, html allowed.
+and_dash_mail_line50 === Hello world!
+and_dash_not_line17 === Title
+and_dash_not_line17_1 === Notify title.
+and_dash_not_line19 === eg. Announcement
+and_dash_not_line24 === Message
+and_dash_not_line24_1 === Notify message.
+and_dash_not_line31 === Color
+and_dash_not_line31_1 === Notify color.
+and_dash_not_line35 === Success
+and_dash_not_line36 === Warning
+and_dash_not_line37 === Danger
+and_dash_not_line43 === Image
+and_dash_not_line43_1 === Notify image, this is optional.
+and_dash_not_line46 === Optional
+and_dash_not_line53 === Users
+and_dash_not_line53_1 === Broadcast by users.
+and_dash_not_line65 === Roles
+and_dash_not_line65_1 === Broadcast by roles.
+and_pack_line17 === Package name.
+and_pack_line19 === eg. VIP Package
+and_pack_line24 === Package price, this should follow the system currency. Float values are not allowed.
+and_pack_line29 === eg. 25
+and_pack_line34 === If enabled, messages and whatsapp chats will contain footer mark when received by recipients.
+and_pack_line44 === If enabled, package will be hidden from the package modal and homepage.
+and_pack_line58 === SMS Send Limit
+and_pack_line58_1 === The maximum number of messages that can be sent by the user before the reset. Enter 0 for unlimited.
+and_pack_line60 === eg. 300
+and_pack_line65 === SMS Receive Limit
+and_pack_line65_1 === The maximum number of messages that can be received by the user before the reset. Enter 0 for unlimited.
+and_pack_line67 === eg. 150
+and_pack_line72 === USSD Limit
+and_pack_line72_1 === The maximum number of ussd that can be requested by the user before the reset. Enter 0 for unlimited.
+and_pack_line74 === eg. 25
+and_pack_line79 === Notification Limit
+and_pack_line79_1 === The maximum number of notifications that can be received by the user before the reset. Enter 0 for unlimited.
+and_pack_line81 === eg. 1300
+and_pack_line86 === The maximum number of android devices that can be linked to user's account. Enter 0 for unlimited.
+and_pack_line88 === eg. 25
+and_pack_line92 === WhatsApp Settings
+and_pack_line97 === The maximum number of chats that can be sent by the user before the reset. Enter 0 for unlimited.
+and_pack_line99 === eg. 300
+and_pack_line104 === The maximum number of chats that can be received by the user before the reset. Enter 0 for unlimited.
+and_pack_line106 === eg. 150
+and_pack_line111 === Account Limit
+and_pack_line111_1 === The maximum number of WhatsApp accounts that can be linked to user's account. Enter 0 for unlimited.
+and_pack_line113 === eg. 10
+and_pack_line117 === Ultility Settings
+and_pack_line122 === The maximum number of contacts that can be saved by the user. Enter 0 for unlimited.
+and_pack_line124 === eg. 25
+and_pack_line129 === Scheduled Limit
+and_pack_line129_1 === The maximum number of scheduled messages/chats that can be saved by the user. Enter 0 for unlimited. This is combined for both sms and whatsapp.
+and_pack_line131 === eg. 25
+and_pack_line136 === The maximum number of API keys that can be created. Enter 0 for unlimited.
+and_pack_line138 === eg. 10
+and_pack_line143 === The maximum number of Webhooks that can be created. Enter 0 for unlimited.
+and_pack_line145 === eg. 5
+and_pack_line150 === Actions Limit
+and_pack_line150_1 === The maximum number of Actions that can be created. Enter 0 for unlimited.
+and_pack_line152 === eg. 5
+and_page_line17 === Page name.
+and_page_line24 === Only selected roles will be able to access this page.
+and_page_line35 === If enabled, page won't be accessible if not logged in.
+and_page_line45 === Page content. All html tags allowed, be careful when adding scripts from unknown sources!
+and_payout_line17 === Amount
+and_payout_line17_1 === Amount to withdraw, whole numbers only.
+and_payout_line19 === eg. 50
+and_payout_line24 === Provider
+and_payout_line24_1 === Select the payment provider you want to use for receiving the money.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Payment Address
+and_payout_line34_1 === Payment address or email, please check carefully to prevent payment issues.
+and_payout_line36 === eg. Your PayPal email
+and_payout_line43 === Request
+and_plug_line17 === Plugin File
+and_plug_line17_1 === Plugin zip file, please make sure to select the correct file.
+and_push_line17 === Title
+and_push_line17_1 === Push title.
+and_push_line19 === eg. Announcement
+and_push_line24 === Image
+and_push_line24_1 === Push image thumbnail, this is optional.
+and_push_line27 === Optional
+and_push_line34 === Message
+and_push_line34_1 === Push message.
+and_push_line41 === Users
+and_push_line41_1 === Broadcast by users.
+and_push_line53 === Roles
+and_push_line53_1 === Broadcast by roles.
+and_role_line17 === Role name.
+and_role_line19 === eg. Developer
+and_role_line24 === Select permissions and features you want to disable/enable for this role. Changes are applied in realtime, browser tabs of connected users with the role are automatically reloaded.
+and_short_line17 === Name
+and_short_line17_1 === Shortener name.
+and_short_line19 === eg. Bitly
+and_short_line24 === Controller
+and_short_line24_1 === Select the shortener controller file, this will contain your shortener logic and code. It is recommended to check the documentation.
+and_short_line27 === Controller Boilerplate:
+and_sms_line17 === Name of scheduled message.
+and_sms_line19 === eg. My Message
+and_sms_line24 === Select schedule date.
+and_sms_line26 === eg. 06/22/2020 12:00 AM
+and_sms_line31 === If enabled, the message will be scheduled every time the scheduled date is matched.
+and_sms_line42 === Multiple E.164 numbers separated by line break.
+and_sms_line55 === Select multiple contact groups
+and_sms_line67 === Shortener
+and_sms_line67_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_sms_line70 === Don't shorten links
+and_sms_line79 === Gateway Mode
+and_sms_line79_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
+and_sms_line82 === Devices
+and_sms_line83 === Credits
+and_sms_line88 === Sim card slot to use.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Your premade message templates.
+and_sms_line110 === Your linked devices, choose what you want to use for sending.
+and_sms_line121 === SMS Gateway
+and_sms_line121_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
+and_sms_line141 === Spintax
+and_sms_line144 === Example:
+and_sms_line144_1 === Tom is a
+and_sms_line144_2 === cat
+and_sms_line147 === The values
+and_sms_line147_1 === good
+and_sms_line147_2 === and
+and_sms_line147_3 === bad
+and_sms_line147_4 === will be used randomly.
+and_subs_line17 === User account.
+and_subs_line28 === Subscription package.
+and_subs_line41 === Subscription duration.
+and_subs_line43 === eg. 12
+and_temp_line17 === Template name.
+and_temp_line24 === Template format.
+and_temp_line31 === Spintax
+and_temp_line31_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_temp_line35 === Example:
+and_temp_line35_1 === Tom is a
+and_temp_line35_2 === cat
+and_temp_line38 === The values
+and_temp_line38_1 === good
+and_temp_line38_2 === bad
+and_temp_line38_3 === will be used randomly.
+and_temp_line43 === Set of variables that you can use in your messages.
+and_user_line17 === Full legal name.
+and_user_line19 === eg. Michael Cors
+and_user_line24 === Valid email address.
+and_user_line26 === eg. user@mail.com
+and_user_line31 === Enter user password.
+and_user_line38 === User location timezone, change this if they are in a different country. Timezone is used for date and time accuracy of the sent messages and other data.
+and_user_line49 === Country
+and_user_line49_1 === User country, this is used for payouts and phone number formatting.
+and_user_line60 === Notification Sounds
+and_user_line60_1 === If disabled, notifications will be silent.
+and_user_line70 === Select user role.
+and_user_line81 === Select user language.
+and_user_line92 === Partner Program
+and_user_line92_1 === If enabled, user will be able to use their devices as global devices which will allow them to earn money when other user send messages using their devices.
+and_ussd_line17 === USSD Code
+and_ussd_line17_1 === USSD request code.
+and_ussd_line19 === eg. *121#
+and_ussd_line24 === Sim card slot to use.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Your linked devices, choose what you want to use for ussd request.
+and_ussd_line47 === Request
+and_vouch_line17 === Voucher name.
+and_vouch_line19 === eg. Special
+and_vouch_line24 === The amount of vouchers you want to create. Max value is 1000!
+and_vouch_line26 === eg. 100
+and_vouch_line31 === Subscription duration.
+and_vouch_line33 === eg. 12
+and_vouch_line38 === Subscription package.
+and_web_line17 === Webhook name.
+and_web_line24 === Receive Events
+and_web_line24_1 === Select the receive events you need, they will be sent to your web hook url via POST method.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Notifications
+and_web_line36 === Your webhook url, all payload data will be sent here via POST method.
+and_web_line38 === eg. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Name of scheduled chat.
+and_whatssched_line19 === eg. My Message
+and_whatssched_line24 === Select schedule date.
+and_whatssched_line26 === eg. 06/22/2020 12:00 AM
+and_whatssched_line31 === If enabled, the chat will be scheduled every time the scheduled date is matched.
+and_whatssched_line42 === Multiple E.164 numbers separated by line break.
+and_whatssched_line55 === Select multiple contact groups
+and_whatssched_line67 === Shortener
+and_whatssched_line67_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_whatssched_line70 === Don't shorten links
+and_whatssched_line79 === Account
+and_whatssched_line79_1 === Select the WhatsApp account you want to use.
+and_whatsached_line88 === Your premade message templates.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_whatssched_line107 === Example:
+and_whatssched_line101_1 === Tom is a
+and_whatssched_line107_2 === cat
+and_whatssched_line110 === The values
+and_whatssched_line110_1 === good
+and_whatssched_line110_2 === and
+and_whatssched_line110_3 === bad
+and_whatssched_line110_4 === will be used randomly.
+and_whatssched_line115 === Set of variables that you can use in your messages.
+and_whatssched_line128 === Submit
+and_whatsapp_line15 === Connect your WhatsApp by clicking the button to display the QRCode then scan it via
+and_whatsapp_line15_1 === Link A Device
+and_whatsapp_line15_2 === button in the app. You only have 60 seconds to scan the QRCode.
+and_whatsapp_line16 === Link Account
+and_add_widget_line17 === Widget name.
+and_add_widget_line24 === Widget icon, for modals only. Please visit line awesome for icon reference.
+and_add_widget_line26 === eg. la la-info-circle
+and_add_widget_line31 === Widget type. Blocks are for placing to different parts of the templates, modals are for dynamic contents. Since v3, modals will only work in the dashboard.
+and_add_widget_line34 === Block
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Widget size, for modals only.
+and_add_widget_line53 === Widget position, for modals only.
+and_add_widget_line64 === Widget content. All html tags are allowed, be careful when adding scripts from unknown sources!
+and_add_widget_line66 === Hello world!
+and_admin_build_line16 === Application
+and_admin_build_line21 === App package name, it should be unique and follow a domain like format like com.yourdomain.yourapp, we recommend following your domain name to make it unique.
+and_admin_build_line23 === eg. com.gateway.sample
+and_admin_build_line28 === App name, this is shown in the app drawer and other parts of the app.
+and_admin_build_line30 === eg. Zender Gateway
+and_admin_build_line35 === App description, a short description of your app.
+and_admin_build_line42 === App Color Theme
+and_admin_build_line42_1 === App color theme, it is recommended to match this with your app logo and splash image colors.
+and_admin_build_line44 === eg. #000000
+and_admin_build_line49 === APK Version
+and_admin_build_line_49_1 === APK version, if you are re-building your app, please also update this field by incrementing the value, if the current value is 1, you should increment it to 2 before building your app. This is required to trigger the update feature in the app and will force the user to update.
+and_admin_build_line51 === eg. 1.0
+and_admin_build_line56 === Build Email
+and_admin_build_line_56_1 === Your valid email, please make sure to change this. The result of the build will be sent to this email!
+and_admin_build_line58 === eg. myvalidemail@mail.com
+and_admin_build_line62 === Credentials
+and_admin_build_line67 === Google Services
+and_admin_build_line67_1 === Your google services json file, this is required for FCM transactions in the gateway app.
+and_admin_build_line75 === Firebase Credentials
+and_admin_build_line75_1 === Your firebase admin credentials json file, this is required to allow the system to communicate with the app.
+and_admin_build_line82 === Assets
+and_admin_build_line87 === App image logo, this is the image shown in the app header. Recommended dimensions are 251x53 in px. A transaprent background is better.
+and_admin_build_line95 === App Login Logo
+and_admin_build_line95_1 === App login image logo, this is the image shown in the login modal. Recommended dimensions are 250x100 in px and dark font. A transaprent background is better.
+and_admin_build_line103 === App image icon, this is shown in the app drawer and android system. Recommended dimensions are 1024x1024 in px and png format.
+and_admin_build_line111 === App splashscreen image, this is shown when the user opens the app. Recommended dimensions are 2732x2732 in px and png format.
+and_admin_build_line118 === Structure
+and_admin_build_line123 === Custom JavaScript
+and_admin_build_line123_1 === If you want to use a custom javascript code, please add it here. This is loaded dynamically in the app.
+and_admin_build_line125 === eg., alert('Hello World!');
+and_admin_build_line130 === Custom CSS
+and_admin_build_line130_1 === If you want to use a custom css code, please add it here. This is loaded dynamically in the app.
+and_admin_build_line137 === Custom Layout
+and_admin_build_line137_1 === If you want to use a custom app structure, please modify the html content, if you don't know what you are doing, please leave the default value.
+and_admin_build_line139 === Hello World!
+and_settings_line21 === Site name, this is shown everywhere where branding is needed.
+and_settings_line23 === eg. Zender
+and_settings_line28 === Site description, this is for search engine optimization, so be creative.
+and_settings_line30 === eg. This is an awesome sms gateway service
+and_settings_line35 === Your envato purchase code, this is required to unlock some of the exclusive features of the script.
+and_settings_line37 === eg. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Your google analytics key, this is optional because the system already has built-in visitor statistics.
+and_settings_line44 === eg. UA-179148389-1
+and_settings_line49 === Your site protocol, please make sure you selected the correct one. If your site is using https, please select it, otherwise, select http.
+and_settings_line59 === Default system language, this is used when a new user visits your site.
+and_settings_line70 === If disabled, registrations via register page will not be allowed.
+and_settings_line80 === Package Reset Mode
+and_settings_line80_1 === The reset interval of limits such as send, receive, ussd and notiifications. This applies for both Android and WhatsApp features. Your selection here must also be applied in the cron setup.
+and_settings_line83 === Daily
+and_settings_line84 === Monthly
+and_settings_line90 === Free Model
+and_settings_line90_1 === If enabled, the default free package is automatically assigned to user after registration.
+and_settings_line100 === If disabled, the homepage will not be used. All visits in the root directory will be redirected to dashboard.
+and_settings_line110 === TAWK Chat Widget
+and_settings_line110_1 === If enabled, tawk chat widget will appear to users.
+and_settings_line120 === Your tawk chat widget link, this is required if you want to use tawk chat support.
+and_settings_line127 === Admin API
+and_settings_line127_1 === Select the admin API endpoints you want to enable. It is recommended that you only enable endpoints that you need.
+and_settings_line159 === This token must not be shared to anyone. This is used for security of cronjobs, system API and other external requests. If you think, your system token was compromised, please regenerate a new one, you will need to reconfigure your cronjobs, system API and other related settings after regenerating a new token.
+and_settings_line160 === Regenerate
+and_settings_line173 === If you want to use the built-in mail server, please select native, otherwise, select smtp then configure your mail credentials.
+and_settings_line183 === The smtp protocol to use, please select the supported protocol of your remote mail server.
+and_settings_line193 === Site email, this is the email name shown to recipients, it is recommended to use noreply@yoursite.com for branding purposes.
+and_settings_line195 === eg. noreply@domain.com
+and_settings_line200 === Your remote smtp server host address.
+and_settings_line205 === eg. smtp.gmail.com
+and_settings_line210 === Your remote smtp server port.
+and_settings_line215 === eg. 587
+and_settings_line220 === Your remote smtp server username.
+and_settings_line225 === eg. username@gmail.com
+and_settings_line230 === Your remote smtp server password.
+and_settings_line235 === Your gmail acount password
+and_settings_line244 === Your paypal business email.
+and_settings_line246 === eg. mail@domain.com
+and_settings_line251 === If enabled, all paypal transactions will be redirected to sandbox mode.
+and_settings_line261 === Your mollie api key.
+and_settings_line263 === eg. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === The system currency to use, this will be used as base when converting transactions to USD.
+and_settings_line279 === Select the payment providers you want to use.
+and_settings_line293 === Minimum characters for messages. This applies to both SMS and WhatsApp.
+and_settings_line295 === eg. 5
+and_settings_line300 === Maximum characters for messages. This applies to both SMS and WhatsApp. Enter 0 for infinite characters.
+and_settings_line302 === eg. 300
+and_settings_line307 === Message footer mark, this is appended to messages if their package has footer mark enabled.
+and_settings_line309 === eg. Sent from Zender System
+and_settings_line318 === The default number of rows to display in sent messages table. This applies to both SMS and WhatsApp.
+and_settings_line320 === eg. 10
+and_settings_line325 === The default number of rows to display in received messages table. This applies to both SMS and WhatsApp.
+and_settings_line327 === eg. 10
+and_settings_line336 === If enabled, visitors will be able to login using their social media accounts.
+and_settings_line346 === Select the social media providers you want to use.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook ID
+and_settings_line357_1 === The facebook app ID, please read the documentation for more information.
+and_settings_line359 === eg. 738812983731558
+and_settings_line364 === Facebook Secret
+and_settings_line364_1 === The facebook app secret, please read the documentation for more information.
+and_settings_line366 === eg. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === The google app ID, please read the documentation for more information.
+and_settings_line373 === eg. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Secret
+and_settings_line378_1 === The google app secret, please read the documentation for more information.
+and_settings_line380 === eg. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK ID
+and_settings_line385_1 === The vkontakte app ID, please read the documentation for more information.
+and_settings_line387 === eg. 7768236
+and_settings_line392 === VK Secret
+and_settings_line392_1 === The vkontakte app secret, please read the documentation for more information.
+and_settings_line394 === eg. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === If enabled, the recaptcha will also be shown in the login page. Please make sure you have configured your recaptcha key and recaptcha secret before enabling this feature or else you won't be able to login!
+and_settings_line413 === The recaptcha key, please read the documentation for more information.
+and_settings_line415 === eg. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === The recaptcha secret, please read the documentation for more information.
+and_settings_line422 === eg. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Light
+and_theme_line17_1 === Light logo image, this is shown in homepage and authentication pages when background element is dark. Recommended size is 250x50 in px.
+and_theme_line23 === Logo Dark
+and_theme_line223_1 === Dark logo image, this is shown in homepage and authentication pages when background element is light. Recommended size is 250x50 in px.
+and_theme_line29 === Site favicon image, this is shown in the browser tab. Recommended size is 50x50 in px.
+and_theme_line35 === Background Image
+and_theme_line35_1 === Site background image, this is shown everywhere. It is recommended to use a high resolution image.
+and_theme_line41 === Select the color theme you want to use for the site.
+and_theme_line46 === Select the highlight color for the texts.
+and_theme_line51 === Spinner Color
+and_theme_line51_1 === Select the color you want to use for the top ajax spinner.
+and_theme_line58 === Custom JavaScript
+and_theme_line58_1 === If you want to use a custom javascript code, please add it here. This is loaded dynamically in every page.
+and_theme_line60 === Hello World!
+and_theme_line63 === Custom CSS
+and_theme_line63_1 === If you want to change some css styles, you can do it here.
+and_apikey_line17 === Key name.
+and_apikey_line19 === eg. For My Server
+and_apikey_line24 === Key permissions.
+and_edit_auto_line17 === Action name.
+and_edit_auto_line19 === eg. Auto Respond
+and_edit_auto_line24 === Source
+and_edit_auto_line24_1 === Source of receive event.
+and_edit_auto_line34 === Respond keywords sepparated by commas. These keywords will be trigger the auto response if detected in the message content.
+and_edit_auto_line36 === eg. thank you, okay, subscribe, yes
+and_edit_auto_line41 === The message to be sent to the sender.
+and_edit_auto_line43 === eg. Your reply message here, shortcodes accepted
+and_edit_auto_line48 === Set of variables that you can use in your message.
+and_edit_con_line17 === Contact name.
+and_edit_con_line19 === eg. Michael
+and_edit_con_line24 === Contact number.
+and_edit_con_line31 === Contact group.
+and_edit_dev_line16 === Device Details
+and_edit_dev_line21 === Device name.
+and_edit_dev_line23 === eg. My Device
+and_edit_dev_line28 === If enabled, messages will be sent in random intervals between 2 values. You can configure them below.
+and_edit_dev_line38 === The minimum interval in seconds.
+and_edit_dev_line41 === eg. 5
+and_edit_dev_line46 === The maximum interval in seconds.
+and_edit_dev_line49 === eg. 20
+and_edit_dev_line53 === Notification Settings
+and_edit_dev_line58 === Applications
+and_edit_dev_line58_1 === Enter the package names of the apps you want to to get notifications from. Separate them by linebreaks.
+and_edit_dev_line65 === Partner Settings
+and_edit_dev_line70 === Rate
+and_edit_dev_line70_1 === The amount you want to charge per message, device country will be used as the base of currency. It float values are supported such as cents.
+and_edit_dev_line73 === eg. 0.50
+and_edit_dev_line78 === Global Status
+and_edit_dev_line78_1 === If disabled, the device won't be available as global sms gateway and you will not earn money. Please note that global devices cannot receive messages for security reasons.
+and_edit_dev_line89 === Country
+and_edit_dev_line89_1 === Country of the device, it is used to determine the phone numbers and as base currency of the rate field.
+and_edit_dev_line101 === Priority
+and_edit_dev_line101_1 === Global messages will be sent first before your own messages.
+and_edit_dev_line112 === SIM Slots
+and_edit_dev_line112_1 === Select the sim slots you want to use for sending, if you select both, messages will be sent in random slot.
+and_edit_email_line16 === Email Template
+and_edit_email_line18 === HTML allowed
+and_edit_gate_line17 === Name
+and_edit_gate_line17_1 === This is the gateway name that will be shown to your users.
+and_edit_gate_line19 === eg. Twilio
+and_edit_gate_line24 === Controller
+and_edit_gate_line24_1 === Select the gateway controller file, this will contain your gateway logic and code. It is recommended to check the documentation.
+and_edit_gate_line31 === Callback
+and_edit_gate_line31_1 === If enabled, messages will need to be verified using the callback feature of the 3rd party gateway for send status, otherwise, messages will be immediately marked as sent upon sending.
+and_edit_gate_line34 === Enable
+and_edit_gate_line35 === Disable
+and_edit_gate_line41 === Callback ID
+and_edit_gate_line41_1 === If callback is enabled, you must copy this ID and paste it to your controller so the system can identify the callbacks.
+and_edit_gate_line44 === Copy and paste for callback ID
+and_edit_gate_line51 === Pricing
+and_edit_gate_line51_1 === Your custom pricing table for this gateway. This will allow you to charge on top of the 3rd party prices. For example, if twilio charges 0.01 for a specified country, then you can charge 0.02 instead, currency is based on your system currency. Please follow the pricing format correctly.
+and_edit_gate_line54 === Sample JSON Pricing:
+and_edit_gate_line54_1 === Download
+and_edit_grp_line17 === Group name.
+and_edit_grp_line19 === eg. Friends
+and_edit_hook_line17 === Action name.
+and_edit_hook_line19 === eg. Test Action
+and_edit_hook_line24 === Source
+and_edit_hook_line24_1 === Source of event.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Select the event where this hook will be invoked.
+and_edit_hook_line37 === On Send
+and_edit_hook_line38 === On Receive
+and_edit_hook_line44 === Hook link structure, this is the url that will be invoked by the system. Only GET method is supported.
+and_edit_hook_line51 === Set of variables that you can use in your hook URL.
+and_edit_lang_line17 === eg. Korean
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Yes
+and_edit_lang_line33 === No
+and_edit_pack_line17 === Package name.
+and_edit_pack_line19 === eg. VIP Package
+and_edit_pack_line24 === Package price, this should follow the system currency. Float values are not allowed.
+and_edit_pack_line29 === eg. 25
+and_edit_pack_line34 === If enabled, messages and whatsapp chats will contain footer mark when received by recipients.
+and_edit_pack_line44 === If enabled, package will be hidden from the package modal and homepage.
+and_edit_pack_line53 === Android Settings
+and_edit_pack_line58 === SMS Send Limit
+and_edit_pack_line58_1 === The maximum number of messages that can be sent by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line60 === eg. 300
+and_edit_pack_line65 === SMS Receive Limit
+and_edit_pack_line65_1 === The maximum number of messages that can be received by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line67 === eg. 150
+and_edit_pack_line72 === USSD Limit
+and_edit_pack_line72_1 === The maximum number of ussd that can be requested by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line74 === eg. 25
+and_edit_pack_line79 === Notification Limit
+and_edit_pack_line79_1 === The maximum number of notifications that can be received by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line81 === eg. 1300
+and_edit_pack_line86 === The maximum number of android devices that can be linked to user's account. Enter 0 for unlimited.
+and_edit_pack_line88 === eg. 25
+and_edit_pack_line92 === WhatsApp Settings
+and_edit_pack_line97 === The maximum number of chats that can be sent by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line99 === eg. 300
+and_edit_pack_line104 === The maximum number of chats that can be received by the user before the reset. Enter 0 for unlimited.
+and_edit_pack_line106 === eg. 150
+and_edit_pack_line111 === Account Limit
+and_edit_pack_line111_1 === The maximum number of WhatsApp accounts that can be linked to user's account. Enter 0 for unlimited.
+and_edit_pack_line113 === eg. 10
+and_edit_pack_line117 === Ultility Settings
+and_edit_pack_line122 === The maximum number of contacts that can be saved by the user. Enter 0 for unlimited.
+and_edit_pack_line124 === eg. 25
+and_edit_pack_line129 === Scheduled Limit
+and_edit_pack_line129_1 === The maximum number of scheduled messages/chats that can be saved by the user. Enter 0 for unlimited. This is combined for both sms and whatsapp.
+and_edit_pack_line131 === eg. 25
+and_edit_pack_line136 === The maximum number of API keys that can be created. Enter 0 for unlimited.
+and_edit_pack_line138 === eg. 10
+and_edit_pack_line143 === The maximum number of Webhooks that can be created. Enter 0 for unlimited.
+and_edit_pack_line145 === eg. 5
+and_edit_pack_line150 === Actions Limit
+and_edit_pack_line150_1 === The maximum number of Actions that can be created. Enter 0 for unlimited.
+and_edit_pack_line152 === eg. 5
+and_edit_page_line17 === Page name.
+and_edit_page_line24 === Only selected roles will be able to access this page.
+and_edit_page_line35 === If enabled, page won't be accessible if not logged in.
+and_edit_page_line45 === Page content. All html tags allowed, be careful when adding scripts from unknown sources!
+and_edit_role_line17 === Role name.
+and_edit_role_line19 === eg. Developer
+and_edit_role_line24 === Select permissions and features you want to disable/enable for this role. Changes are applied in realtime, browser tabs of connected users with the role are automatically reloaded.
+and_edit_short_line17 === Name
+and_edit_short_line17_1 === Shortener name.
+and_edit_short_line19 === eg. Bitly
+and_edit_short_line24 === Controller
+and_edit_short_line24_1 === Select the shortener controller file, this will contain your shortener logic and code. It is recommended to check the documentation.
+and_edit_sms_line17 === Name of scheduled message.
+and_edit_sms_line19 === eg. My Message
+and_edit_sms_line24 === Select schedule date.
+and_edit_sms_line26 === eg. 06/22/2020 12:00 AM
+and_edit_sms_line31 === If enabled, the message will be scheduled every time the scheduled date is matched.
+and_edit_sms_line42 === Multiple E.164 numbers separated by line break.
+and_edit_sms_line55 === Select multiple contact groups
+and_edit_sms_line67 === Gateway Mode
+and_edit_sms_line67_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
+and_edit_sms_line70 === Devices
+and_edit_sms_line71 === Credits
+and_edit_sms_line76 === Sim card slot to use.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Your linked devices, choose what you want to use for sending.
+and_edit_sms_line99 === SMS Gateway
+and_edit_sms_line99_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Example:
+and_edit_sms_line122_1 === Tom is a
+and_edit_sms_line122_2 === cat
+and_edit_sms_line125 === The values
+and_edit_sms_line125_1 === good
+and_edit_sms_line125_2 === and
+and_edit_sms_line125_3 === bad
+and_edit_sms_line125_4 === will be used randomly.
+and_edit_temp_line17 === Template name.
+and_edit_temp_line24 === Template format.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_edit_temp_line35 === Example:
+and_edit_temp_line35_1 === Tom is a
+and_edit_temp_line35_2 === cat
+and_edit_temp_line38 === The values
+and_edit_temp_line38_1 === good
+and_edit_temp_line38_2 === and
+and_edit_temp_line38_3 === bad
+and_edit_temp_line38_4 === will be used randomly.
+and_edit_temp_line43 === Set of variables that you can use in your messages.
+and_eduse_line17 === Your full legal name, please note that using a fake name could get your account suspended.
+and_eduse_line19 === eg. Michael Cors
+and_eduse_line24 === Valid email address, ignore this field if you want to keep the current email address.
+and_eduse_line26 === eg. user@mail.com
+and_eduse_line31 === If you want to keep the current password, please ignore this field, otherwise, enter new password.
+and_eduse_line38 === Your location timezone, change this if you are in a different country. Timezone is used for date and time accuracy of your sent messages and other data.
+and_eduse_line49 === Country
+and_eduse_line49_1 === Your country, this is used for payouts and phone number formatting.
+and_eduse_line60 === Notification Sounds
+and_eduse_line60_1 === If disabled, notifications will be silent.
+and_eduse_line70 === Select user role.
+and_eduse_line81 === Select user language.
+and_eduse_line92 === Partner Program
+and_eduse_line92_1 === If enabled, user will be able to use their devices as global devices which will allow them to earn money when other user send messages using their devices.
+and_edweb_line17 === Webhook name.
+and_edweb_line24 === Receive Events
+and_edweb_line24_1 === Select the receive events you need, they will be sent to your web hook url via POST method.
+and_edweb_line30 === Notifications
+and_edweb_line36 === Your webhook url, all payload data will be sent here via POST method.
+and_edweb_line38 === eg. https://yourdomain.com/reply.php
+and_edwhat_line17 === Name of scheduled chat.
+and_edwhat_line19 === eg. My Message
+and_edwhat_line24 === Select schedule date.
+and_edwhat_line26 === eg. 06/22/2020 12:00 AM
+and_edwhat_line31 === If enabled, the chat will be scheduled every time the scheduled date is matched.
+and_edwhat_line42 === Multiple E.164 numbers separated by line break.
+and_edwhat_line55 === Select multiple contact groups
+and_edwhat_line67 === Account
+and_edwhat_line67_1 === Select the WhatsApp account you want to use.
+and_edwhat_line76 === Your premade message templates.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_edwhat_line95 === Example:
+and_edwhat_line95_1 === Tom is a
+and_edwhat_line95_2 === cat
+and_edwhat_line98 === The values
+and_edwhat_line98_1 === good
+and_edwhat_line98_2 === and
+and_edwhat_line98_3 === bad
+and_edwhat_line98_4 === will be used randomly.
+and_edwhat_line103 === Set of variables that you can use in your messages.
+and_edwhat_line116 === Submit
+and_edwid_line17 === Widget name.
+and_edwid_line24 === Widget icon, for modals only. Please visit line awesome for icon reference.
+and_edwid_line31 === Widget type. Blocks are for placing to different parts of the templates, modals are for dynamic contents. Since v3, modals will only work in the dashboard.
+and_edwid_line34 === Block
+and_edwid_line35 === Modal
+and_edwid_line41 === Widget size, for modals only.
+and_edwid_line53 === Widget position, for modals only.
+and_edwid_line64 === Widget content. All html tags are allowed, be careful when adding scripts from unknown sources!
+and_import_line17 === The excel file you want to import, please make sure to follow the required format.
+and_import_line20 === Sample File:
+and_import_line20_1 === Download
+and_package_line36 === SMS Receive
+and_package_line41 === WhatsApp Send
+and_package_line46 === WhatsApp Receive
+and_package_line51 === USSD
+and_package_line56 === Notifications
+and_package_line61 === Scheduled SMS/Chats
+and_package_line66 === Contacts
+and_package_line71 === API Keys
+and_package_line76 === Webhooks
+and_package_line81 === Actions
+and_package_line86 === Android Devices
+and_package_line91 === WhatsApp Accounts
+and_redeem_line18 === Redeem code.
+and_redeem_line20 === eg. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Multiple E.164 numbers separated by line break. Only 1 message will be sent to a number even if you selected groups where it was added.
+and_sms_bulk_31 === Select multiple contact groups. Only 1 message will be sent to a contact even if you selected multiple groups where it was added.
+and_sms_bulk_43 === Shortener
+and_sms_bulk_43_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_sms_bulk_46 === Don't shorten links
+and_sms_bulk_55 === Gateway Mode
+and_sms_bulk_55_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
+and_sms_bulk_58 === Devices
+and_sms_bulk_59 === Credits
+and_sms_bulk_64 === Sim card slot to use.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === If enabled, these messages will be sent before anything else.
+and_sms_bulk_81 === Your premade message templates.
+and_sms_bulk_94 === Your linked devices, choose what you want to use for sending.
+and_sms_bulk_105 === SMS Gateway
+and_sms_bulk_105_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them
+and_sms_bulk_126 === Translate the message.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_sms_bulk_135 === Example:
+and_sms_bulk_143 === Set of variables that you can use in your messages.
+and_sms_exe17 === The excel file you want to import, please make sure to follow the required format.
+and_sms_exe20 ===  Sample File:
+and_sms_exe20_1 === Download
+and_sms_exe27 === Shortener
+and_sms_exe27_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_sms_exe30 === Don't shorten links
+and_sms_exe39 ===  Gateway Mode
+and_sms_exe39_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
+and_sms_exe42 === Devices
+and_sms_exe43 === Credits
+and_sms_exe47 === Your premade message templates.
+and_sms_exe60 === Your linked devices, choose what you want to use for sending.
+and_sms_exe70 ===  SMS Gateway
+and_sms_exe70_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
+and_sms_exe92 === Translate the message.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_sms_exe109 === Set of variables that you can use in your messages.
+and_sms_quick17 === Recipient phone number.
+and_sms_quick24 === Gateway Mode
+and_sms_quick24_1 === The gateway mode you want to use. If you choose devices, your linked devices will be shown for sending, otherwise, 3rd party and partner gateways will be shown.
+and_sms_quick27 === Devices
+and_sms_quick28 === Credits
+and_sms_quick34 === Shortener
+and_sms_quick34_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_sms_quick37 === Don't shorten links
+and_sms_quick46 === Sim card slot to use.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === If enabled, these messages will be sent before anything else.
+and_sms_quick66 === Your linked devices, choose what you want to use for sending.
+and_sms_quick77 === SMS Gateway
+and_sms_quick77_1 === 3rd party and partner gateways, your credits will be used when you send messages using these gateways. We recommend that you check the gateway prices before using them.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_sysup17 === Update File
+and_sysup17_1 === Update zip file, please make sure to select the correct file.
+and_upplug17 === Update File
+and_upplug17_1 === Update zip file, please make sure to select the correct file.
+and_uset17 === Your profile avatar image.
+and_uset24 === Your full legal name, please note that using a fake name could get your account suspended.
+and_uset26 === eg. Michael Shmuck
+and_uset31 === Your valid email address, ignore this field if you want to keep your current email address.
+and_uset33 === eg. yourmail@mail.com
+and_uset38 === Your location timezone, change this if you are in a different country. Timezone is used for date and time accuracy of your sent messages and other data.
+and_uset49 === Country
+and_uset49_1 === Your country, this is used for payouts and phone number formatting.
+and_uset60 === Notification Sounds
+and_uset60_1 === If disabled, notifications will be silent.
+and_uset70 === If you want to keep your current password, please ignore this field, otherwise, enter your new password.
+and_usub23 === Valid until
+and_usub28 === SMS Send
+and_usub34 === SMS Receive
+and_usub40 === WhatsApp Send
+and_usub46 === WhatsApp Receive
+and_usub57 === USSD
+and_usub63 === Notifications
+and_usub69 === Scheduled SMS/Chats
+and_usub98 === Actions
+and_usub104 === Android Devices
+and_usub110 === WhatsApp Accounts
+and_view20 === Full View
+and_whatsbulk_18 === Multiple E.164 numbers separated by line break.
+and_whatsbulk_31 === Select multiple contact groups. Please note that if a contact has multiple groups, the message might be sent multiple times to it if you select the groups where it was included.
+and_whatsbulk_43 === Shortener
+and_whatsbulk_43_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_whatsbulk_46 === Don't shorten links
+and_whatsbulk_55 === Account
+and_whatsbulk_55_1 === Select the WhatsApp account you want to use.
+and_whatsbulk_64 === Your premade message templates.
+and_whatsbulk_79 === Translate the message.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_whatsbulk_96 === Set of variables that you can use in your messages.
+and_whatex17 === The excel file you want to import, please make sure to follow the required format.
+and_whatex20 === Sample File:
+and_whatex20_1 === Download
+and_whatex27 === Shortener
+and_whatex27_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_whatex30 === Don't shorten links
+and_whatex39 === Account
+and_whatex39_1 === Select the WhatsApp account you want to use.
+and_whatex48 === Your premade message templates.
+and_whatex63 === Translate the message.
+and_whatex68 === Spintax
+and_whatex68_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_whatex80 === Set of variables that you can use in your messages.
+and_whatquick_17 === E.164 recipient phone number.
+and_whatquick_24 === Shortener
+and_whatquick_24_1 === If enabled, the links in messages will be automatically shortened using the selected shortener.
+and_whatquick_27 === Don't shorten links
+and_whatquick_36 === Account
+and_whatquick_36_1 === Select the WhatsApp account you want to use.
+and_whatquick_50 === Translate the message.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === A feature that allows you to randomize words in your messages which effectively prevents spamming detections.
+and_admin_api_3 === Administration API
+and_admin_fileman_3 === Template Editor
+and_admin_gate_3 === SMS Gateways
+and_admin_gate_8 === Add Gateway
+and_admin_lang_6 === Re-order languages
+and_admin_mark_3 === Marketing
+and_admin_mark_6 === Delete selected items
+and_admin_mark_12 === Push
+and_admin_mark_17 === Notify
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Payout Requests
+and_admin_short_3 === Shorteners
+and_admin_short_8 === Add Shortener
+and_admin_subs_8 === Add Subscription
+and_admin_vouch_6 === Delete selected items
+and_droid_dev_3 === Android Devices
+and_droid_dev_6 === Read documentation
+and_droid_dev_8 === Docs
+and_droid_dev_11 === Apply to be a partner gateway provider
+and_droid_dev_13 === Partnership
+and_droid_dev_16 === Register a new android device
+and_droid_not_3 === Notifications
+and_droid_not_6 === Delete selected items
+and_droid_rev_3 === Received SMS
+and_droid_rev_6 === Delete selected messages
+and_droid_sched_6 === Delete selected items
+and_droid_sent_3 === Sent SMS
+and_droid_sent_6 === Delete selected items
+and_droid_sent_10 === Clear all pending messages
+and_droid_sent_14 === Send Quick SMS
+and_droid_sent_16 === Quick
+and_droid_sent_19 === Send Bulk SMS
+and_droid_sent_21 === Bulk
+and_droid_sent_24 === Send Bulk SMS via Excel
+and_droid_ussd_3 === USSD Requests
+and_droid_ussd_6 === Delete selected items
+and_droid_ussd_10 === Delete all pending requests
+and_droid_ussd_14 === New USSD Request
+and_droid_ussd_16 === Request
+and_con_grp_6 === Delete selected items
+and_con_grp_10 === Add new contact group
+and_con_sav_6 === Delete selected items
+and_con_sav_10 === Add new contact
+and_con_sav_15 === Import contacts from excel file
+and_con_unsub_3 === Unsubscribed
+and_con_unsub_6 === Delete selected items
+and_doc_act_3 === Actions
+and_doc_api_3 === API Documentation
+and_doc_dev_3 === Devices
+and_doc_partner_3 === Partnership
+and_doc_webhook_3 === Webhooks
+and_rate_gate_3 === Rates
+and_rate_gate_10 === Country
+and_rate_gate_11 === Per Message Rate
+and_rate_gate_22 === Other Countries
+and_rate_partner_3 === Partner Rates
+and_tool_act_3 === Actions
+and_tool_act_6 === Read documentation
+and_tool_act_8 === Docs
+and_tool_act_11 === Add new hook action
+and_tool_act_13 === Hook
+and_tool_act_16 === Add new autoreply action
+and_tool_act_18 === Autoreply
+and_tool_key_6 === Read documentation
+and_tool_key_8 === Docs
+and_tool_key_11 === Create a new API key
+and_tool_webhook_6 === Read documentation
+and_tool_webhook_8 === Docs
+and_what_accnt_6 === Connect a new account
+and_what_accnt_8 === Add Account
+and_what_attach_8 === Delete selected messages
+and_what_rev_3 === Received Chats
+and_what_rev_6 === Delete selected items
+and_what_sched_6 === Delete selected items
+and_what_sched_12 === Schedule Chat
+and_what_sent_3 === Sent Chats
+and_what_sent_6 === Delete selected items
+and_what_sent_10 === Send Quick Chat
+and_what_sent_12 === Quick
+and_what_sent_15 === Send Bulk Chats
+and_what_sent_17 === Bulk
+and_what_sent_20 === Send Bulk Chats via Excel
+and_def_f_blck_6 === Start Marketing
+and_def_f_blck_7 === Let's start and grow business together, register now and experience a high quality marketing platform!
+and_def_f_blck_8 === Join Us
+and_def_f_blck_35 === Get in Touch
+and_head_blck_21 === Home
+and_head_blck_24 === Features
+and_head_blck_27 === Pricing
+and_head_blck_30 === Clients
+and_head_blck_39 === Dashboard
+and_head_blck_42 === Logout
+and_pages_default_8 === SMS and WhatsApp marketing at it's finest
+and_pages_default_29 === SMS Messaging
+and_pages_default_31 === Use your android devices as SMS gateway, this is effectively cheaper than using third party gateways.
+and_pages_default_40 === WhatsApp Messaging
+and_pages_default_42 === Use WhatsApp for your marketing campaigns, our platform provides the tools to help you get started.
+and_pages_default_51 === Intuitive Tools
+and_pages_default_53 === We provide the tools to help you with you marketing tasks such as autoreply, webhooks and more.
+and_pages_default_62 === Earn Money
+and_pages_default_64 === Become one of our partners and use your android devices as gateway and earn money for every message sent.
+and_pages_default_73 === Why use our service?
+and_pages_default_74 === Here are some reasons why you should start using our service
+and_pages_default_84 === Quick and bulk sending
+and_pages_default_86 === Send tons of messages to different contact groups easily and you can also send quick messages for fast transactions. Our platform also includes live dashboard, get notifications when your messages are sent or received!
+and_pages_default_89 === Shortcodes
+and_pages_default_89_1 === for composing your messages with predefined data.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === for randomizing set of words to battle spamming issues.
+and_pages_default_91 === Translator
+and_pages_default_91_1 === for targeting audience based on their languages.
+and_pages_default_98 === Automated and smart tools
+and_pages_default_100 === Manage your business while we take care of the dirty work, our platform is smart and only needs the messages you want to send then we'll do the rest!
+and_pages_default_103 === Schedule
+and_pages_default_103_1 === your sms and whatsapp chats at any date you want.
+and_pages_default_104 === Webhooks
+and_pages_default_104_1 === for automating some tasks when you receive messages from both sms and whatsapp.
+and_pages_default_105 === Actions
+and_pages_default_105_1 === for creating auto response and quick data check of events.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === for doing network related requests such as checking balance from operator.
+and_pages_default_107 === Notifications
+and_pages_default_107_1 === from the connected android devices can also be used for automated tasks.
+and_pages_default_137 === We guarantee your business success with our strategic features
+and_pages_default_139 === Our platform is well crafted to meet the demands of ever growing marketing businesses, we want to make sure that every cent you spent to our service is well deserved and gives you 100% satisfaction!
+and_pages_default_145 === Easy to use and fluid platform
+and_pages_default_148 === Affordable but maintains quality service
+and_pages_default_156 === Intuitive tools and dashboard
+and_pages_default_159 === Fast and lag free experience while you market your products
+and_pages_default_171 === Service Pricing
+and_pages_default_187 === SMS Send
+and_pages_default_194 === SMS Receive
+and_pages_default_201 === WhatsApp Send
+and_pages_default_208 === WhatsApp Receive
+and_pages_default_215 === USSD
+and_pages_default_222 === Notifications
+and_pages_default_229 === Scheduled SMS/Chats
+and_pages_default_236 === Contacts
+and_pages_default_243 === API Keys
+and_pages_default_250 === Webhooks
+and_pages_default_257 === Actions
+and_pages_default_264 === Android Devices
+and_pages_default_271 === WhatsApp Accounts
+and_pages_default_287 === Our Customers
+and_pages_default_290 === Trusted by over 3,000+ customers. Start marketing your products and grow your business with us!
+landing_title_default === Android Mobile Devices as SMS Gateway
+landing_nav_login === Sign in
+landing_lead_desc === Utilize your network provider's unlimited sms plan, cheap and cost-effective solution for marketing, bulk sms and projects in your country. Use WhatsApp for an even larger audience reach, our platform provides the complete tools to help you get started.
+landing_footer_ourcomp === Out Company
+landing_footer_about === About
+landing_footer_tos === Terms of Service
+landing_footer_privacy === Privacy Policy
+landing_footer_links === Site Links
+landing_footer_login === Sign in
+landing_footer_register === Sign up
+landing_footer_copyright === All Rights Reserved
+dashboard_title_default === Dashboard
+dashboard_title_contacts === Contacts
+dashboard_title_tools === Tools
+dashboard_title_admin === Administration
+dashboard_nav_default === Dashboard
+dashboard_nav_contacts === Contacts
+dashboard_nav_tools === Tools
+dashboard_nav_menusubscription === Subscription
+dashboard_nav_menusettings === Settings
+dashboard_nav_menulogout === Logout
+dashboard_btn_addcontact === Add Contact
+dashboard_btn_adddevice === Add Device
+dashboard_btn_addgroup === Add Group
+dashboard_btn_addtemplate === Add Template
+dashboard_btn_addkey === Add Key
+dashboard_btn_addhook === Add Webhook
+dashboard_btn_build === Build
+dashboard_btn_buildsettings === Settings
+dashboard_btn_settings === System
+dashboard_btn_theme === Theme
+dashboard_btn_adduser === Add User
+dashboard_btn_addpackage === Add Package
+dashboard_btn_addwidget === Add Widget
+dashboard_btn_addlanguage === Add Language
+dashboard_footer_about === About
+dashboard_footer_terms === Terms of Service
+dashboard_footer_privacy === Privacy Policy
+dashboard_footer_copyright === All Rights Reserved
+dashboard_messages_menusent === Sent
+dashboard_messages_menureceived === Received
+dashboard_messages_menutemplates === Templates
+dashboard_messages_tabreceivedtitle === Received Messages
+dashboard_messages_tabtemplatestitle === Templates
+dashboard_messages_tablesentrecipient === Recipient
+dashboard_messages_tablesentmessage === Message
+dashboard_messages_tablesentcreated === Created
+dashboard_messages_tablesentoptions === Options
+dashboard_messages_tablereceivedsender === Sender
+dashboard_messages_tablereceivedmessage === Message
+dashboard_messages_tablereceivedreceived === Received
+dashboard_messages_tablereceivedoptions === Options
+dashboard_messages_tabletemplatesname === Template Name
+dashboard_messages_tabletemplatesformat === Template Format
+dashboard_messages_tabletemplatesoptions === Options
+dashboard_contacts_title === Contacts
+dashboard_contacts_menusaved === Saved
+dashboard_contacts_menugroups === Groups
+dashboard_contacts_tabsavedtitle === Saved Contacts
+dashboard_contacts_tabgroupstitle === Contact Groups
+dashboard_contacts_tablesavedname === Contact Name
+dashboard_contacts_tablesavednumber === Contact Number
+dashboard_contacts_tablesavedoptions === Options
+dashboard_contacts_tablegroupsname === Group Name
+dashboard_contacts_tablegroupsoptions === Options
+dashboard_devices_tableregisteredbrand === Manufacturer
+dashboard_devices_tableregisteredversion === Version
+dashboard_devices_tableregisteredadded === Registered
+dashboard_devices_tableregisteredoptions === Options
+dashboard_tools_title === Tools
+dashboard_tools_menukeys === API Keys
+dashboard_tools_menuhooks === Webhooks
+dashboard_tools_tabkeystitle === API Keys
+dashboard_tools_tabhookstitle === Webhooks
+dashboard_tools_tablekeysname === Name
+dashboard_tools_tablekeyspermissions === Permissions
+dashboard_tools_tablekeysoptions === Options
+dashboard_tools_tablehooksname === Name
+dashboard_tools_tablehooksurl === Webhook URL
+dashboard_tools_tablehooksoptions === Options
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Statistics
+dashboard_admin_menuusers === Users
+dashboard_admin_menupackages === Packages
+dashboard_admin_menusubscriptions === Subscriptions
+dashboard_admin_menutransactions === Transactions
+dashboard_admin_menuwidgets === Widgets
+dashboard_admin_menulanguages === Languages
+dashboard_admin_tabdefaultearningstitle === Earnings
+dashboard_admin_tabdefaultmessageslast === Last 30 Days
+dashboard_admin_tabuserstitle === Users
+dashboard_admin_tabpackagestitle === Packages
+dashboard_admin_tabsubscriptionstitle === Subscriptions
+dashboard_admin_tabtransactionstitle === Transactions
+dashboard_admin_tabwidgetstitle === Widgets
+dashboard_admin_tablanguagestitle === Languages
+dashboard_admin_tableusersname === Name
+dashboard_admin_tableusersemail === Email
+dashboard_admin_tableusersoptions === Options
+dashboard_admin_tablepackagesname === Name
+dashboard_admin_tablepackagesprice === Price
+dashboard_admin_tablepackagesoptions === Options
+dashboard_admin_tablesubscriptionsuser === User
+dashboard_admin_tablesubscriptionspackage === Package
+dashboard_admin_tablesubscriptionsprice === Price
+dashboard_admin_tablesubscriptionsexpire === Expire Date
+dashboard_admin_tablesubscriptionsoptions === Options
+dashboard_admin_tabletransactionscustomer === Customer
+dashboard_admin_tabletransactionsprovider === Provider
+dashboard_admin_tablewidgetsname === Widget Name
+dashboard_admin_tablewidgetstype === Type
+dashboard_admin_tablewidgetssize === Size
+dashboard_admin_tablewidgetsposition === Position
+dashboard_admin_tablewidgetsoptions === Options
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Language Name
+dashboard_admin_tablelanguagescreated === Created
+dashboard_admin_tablelanguagesoptions === Options
+table_search_text === Search
+table_search_placeholder === Enter keywords here...
+response_invalid === Invalid Request!
+response_went_wrong === Something went wrong!
+response_session_false === Session doesn't exist!
+response_session_true === Session already exist!
+response_invalid_emailpass === Invalid email/password!
+response_loggedin_success === Successfully logged in!
+response_loggedout_success === Successfully logged out!
+response_invalid_email === Invalid email address!
+response_retrieval_received === We received a request for account retrieval, ignore if wasn't requested by you.
+response_solve_captcha === Please solve the anti-bot challenge!
+response_register_false === Registrations are disabled!
+response_name_short === Name is too short!
+response_password_short === Password must be greater than 5 characters!
+response_password_notmatch === Passwords doesn't match!
+response_register_success === Registration successful!
+response_email_unavailable === Email address was already registered!
+response_upload_applogo === Please upload your app logo!
+response_upload_appsplash === Please upload your app splash!
+response_pcode_empty === Please enter you purchase code in system settings!
+response_buildserver_false === Can't connect to build server!
+response_invalid_number === Invalid mobile number!
+response_message_short === Message too short!
+response_message_queued === Message has been added to queue!
+response_message_bulkqueued === Bulk messages has been queued for sending!
+response_format_short === Format is too short!
+response_template_added === Template has been added!
+response_number_exist === Contact number already exist!
+response_contact_added === Contact has been added!
+response_group_added === Contact group has been added!
+response_permission_min === Please select at least 1 permission!
+response_key_added === API key has been added!
+response_invalid_webhookurl === Invalid Webhook URL!
+response_webhook_added === Webhook ahs been added!
+response_user_added === User has been added!
+response_package_added === Package has been added!
+response_widget_added === Widget has been added!
+response_language_added === Language has been added!
+response_avatar_invalid === Avatar cannot be uploaded!
+response_profile_updated === Profile has been updated!
+response_package_purchasedtitle === You've subscribed to a premium package, here's your receipt!
+response_package_purchased === Successfully subscribed to package!
+response_template_updated === Template has been updated!
+response_contact_updated === Contact has been updated!
+response_group_updated === Contact group has been updated!
+response_key_updated === API key has been updated!
+response_webhook_updated === Webhook has been updated!
+response_user_updated === User has been updated!
+response_package_updated === Package has been updated!
+response_widget_updated === Widget has been updated!
+response_language_updated === Language has been updated!
+response_builder_packagenameshort === Package name is too short!
+response_builder_appnameshort === App name is too short!
+response_builder_applogofail === App logo cannot be uploaded!
+response_builder_appsplashfail === App splash cannot be uploaded!
+response_builder_settingsupdated === Builder settings updated!
+response_theme_updated === Theme settings updated!
+response_system_settingsupdated === System settings updated!
+response_deleted_sent === Sent message has been deleted!
+response_deleted_received === Received message has been deleted!
+response_deleted_template === Template has been deleted!
+response_deleted_contact === Contact has been deleted!
+response_deleted_group === Contact group has been deleted!
+response_deleted_device === Device has been deleted!
+response_deleted_key === API key has been deleted!
+response_deleted_hook === Webhook has been deleted!
+response_deleted_defaultuserfalse === Default user cannot be deleted!
+response_deleted_user === User has been deleted!
+response_deleted_defaultpackagefalse === Default package cannot be deleted!
+response_deleted_package === Package has been deleted!
+response_deleted_subscription === Subscriptions has been deleted!
+response_deleted_widget === Widget has been deleted!
+response_deleted_defaultlangfalse === Default language cannot be deleted!
+response_deleted_language === Language has been deleted!
+response_lang_changed === Language has been changed!
+modal_usersettings_title === Settings
+modal_subscription_title === Subscription
+modal_packages_title === Packages
+modal_smsquick_title === Quick SMS
+modal_smsbulk_title === Bulk SMS
+modal_addtemplate_title === Add Template
+modal_edittemplate_title === Edit Template
+modal_addcontact_title === Add Contact
+modal_editcontact_title === Edit Contact
+modal_addgroup_title === Add Group
+modal_editgroup_title === Edit Group
+modal_adddevice_title === Add Device
+modal_addkey_title === Add API Key
+modal_editkey_title === Edit API Key
+modal_edithook_title === Edit Webhook
+modal_buildersettings_title === Builder Settings
+modal_themesettings_title === Theme Settings
+modal_systemsettings_title === System Settings
+modal_adduser_title === Add User
+modal_edituser_title === Edit User
+modal_addpackage_title === Add Package
+modal_editpackage_title === Edit Package
+modal_addwidget_title === Add Widget
+modal_editwidget_title === Edit Widget
+modal_addlanguage_title === Add language
+modal_editlanguage_title === Edit Language
+require_email === Email address
+require_password === Password
+require_name === Full name
+require_cpassword === Password confirmation
+require_phone === Phone number
+require_device === Device
+require_message === Message
+require_groups === Contact groups
+require_sim === Sim slot
+require_priority === Priority option
+require_api === API option
+require_templatename === Template name
+require_templateformat === Template format
+require_contactname === Contact name
+require_group === Contact group
+require_groupname === Group name
+require_apiname === API key name
+require_permissions === Permissions
+require_hookname === Webhook name
+require_hookurl === Webhook url
+require_appname === App name
+require_appcolor === App color
+require_packagename === Package name
+require_widgetname === Widget name
+require_widgetsize === Widget size
+require_widgetposition === Widget position
+require_widgettype === Widget type
+require_languagename === Language name
+require_languageiso === Language iso
+require_languagestr === Language translations
+btn_submit === Submit
+btn_download === Download
+btn_done === Done
+btn_purchase === Purchase
+btn_free === Free
+btn_send === Send
+btn_save === Save
+btn_packages === Packages
+btn_retrieve === Retrieve
+btn_signin === Sign in
+btn_signup === Sign up
+form_name === Name
+form_number === Phone Number
+form_group === Contact Group
+form_adddevice_one === Adding a new android device to your account is very easy, we made sure you can continue without wasting some of your precious time, follow these steps.
+form_adddevice_two === 1. Download & Install
+form_adddevice_three === First, download and install our gateway app by clicking this button.
+form_adddevice_four === 2. Register Device
+form_adddevice_five === Now open the gateway app and click the scan button then scan this qrcode.
+form_adddevice_six === 3. Done!
+form_adddevice_seven === The device has been added to your account, you can now start sending messages!
+form_permissions === Permissions
+form_countrycode === Country Code
+form_translations === Translation Strings
+form_translations_placeholder === Enter translations here...
+form_packageprice === Price
+form_packagesend === Send Limit
+form_packagereceive === Receive Limit
+form_packagedevice === Device Limit
+form_packagekey === Key Limit
+form_packagehook === Webhook Limit
+form_templatename_placeholder === Announcement
+form_templateformat === Format
+form_templateformat_placeholder === Enter your template format here...
+form_shortcodes === Shortcodes
+form_emailaddress === Email Address
+form_password === Password
+form_password_leave === Leave empty to keep current password
+form_language === Language
+form_webhookname_placeholder === Reply Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Terms of Service
+form_widgeticon === Icon
+form_widgettype === Type
+form_widgetsize === Size
+form_widgetsmall === Small
+form_widgetmedium === Medium
+form_widgetlarge === Large
+form_widgetxlarge === Extra Large
+form_widgetposition === Position
+form_widgetcenter === Center
+form_widgetleft === Left
+form_widgetright === Right
+form_widgetcontent === Content
+form_builderpackagename === Package Name
+form_builderappname === App Name
+form_builderappdesc === App Description
+form_builderappdesc_placeholder === This is an awesome app
+form_builderapplogo === App Logo
+form_builderappsplash === App Splashscreen
+form_uploaded === Uploaded
+form_notuploaded === None
+form_themebg === Background Color
+form_themetext === Highlight Color
+form_settingsite === Site
+form_settingssitename === Site Name
+form_settingssitedesc === Site Description
+form_settingspcode === Purchase Code
+form_settingsprotocol === Protocol
+form_settingsdeflang === Default Language
+form_settingsreg === Registrations
+form_settingsmailing === Mailing
+form_settingsmailfunc === Mail Function
+form_settingssitemail === Site Email
+form_settingssmtphost === SMTP Host
+form_settingssmtpport === SMTP Port
+form_settingssmtpusername === SMTP Username
+form_settingssmtppassword === SMTP Password
+form_settingssmtp_small === Required for remote SMTP
+form_settingspayments === Payments
+form_settingspaypaltest === Paypal Test Mode
+form_settingssecurity === Security
+form_settingsrecaptchakey === Recaptcha Site Key
+form_settingsrecaptchasecret === Recaptcha Secret Key
+form_enable === Enable
+form_disable === Disable
+form_native === Native
+form_remotesmtp === Remote SMTP
+form_device === Mobile Device
+form_sim === Sim Slot
+form_priority === Priority
+form_yes === Yes
+form_no === No
+form_freefor === Free Forever
+form_monthly === Monthly
+form_groups === Contact Groups
+form_template === Template
+form_none === None
+form_message === Message
+form_message_placeholder === Enter your message here...
+form_avatar === Avatar
+form_changepass === Change Password
+form_package === Package
+form_keys === API Keys
+form_hooks === Webhooks
+form_daily === daily
+form_forgotpass === Forgot Password
+form_fullname === Full Name
+form_cpassword === Confirm Password
+form_haveaccount === I Have An Account
+datatable_processing === Processing, please wait...
+datatable_length === Showing 88881 entries
+datatable_info === Showing 88882 to 88883 of 88884 entries
+datatable_empty === Showing 0 to 0 of 0 entries
+datatable_filtered === (filtered from 88885 total entries)
+datatable_loading === Loading, please wait...
+datatable_zero === We can't find anything matching your query!
+datatable_null === There are no data to display!
+datatable_first === First
+datatable_prev === Previous
+datatable_next === Next
+datatable_last === Last
+delete_title === Delete?
+delete_tagline === This action cannot be undone!
+validate_cannotemp === cannot be empty!
+alert_attention === Attention
+copy_data === Data copied to clipboard!
+date_today === Today
+date_yesterday === Yesterday
+date_7days === Last 7 Days
+date_30days === Last 30 Days
+date_month === This Month
+date_lmonth === Last Month
+date_custom === Custom Range
+unknown_action_method === Unknown action method!
+mollie_redirecting_page === Redirecting to mollie payment page...
+form_settingsmolliekey === Mollie API Key
+btn_confirm === Confirm
+btn_cancel === Cancel
+recaptcha_add_keys === Please add your recaptcha keys to enable this feature!
+pay_with_paypal === Pay with Paypal
+pay_with_mollie === Pay with Mollie
+form_settingsenabledproviders === Enabled Providers
+form_builderappicon === App Icon
+payment_transact_failed === Payment transaction failed!
+cookieconsent_message === We are using cookies to ensure that you are getting the best experience on our website.
+cookieconsent_link === Learn more
+role_added === Role has been added!
+role_updated === Role has been updated!
+role_deleted === Role has been deleted!
+role_default_update === Default role cannot be edited!
+role_default_delete === Default role cannot be deleted!
+voucher_added === Voucher has been added!
+form_voucher === Voucher Code
+btn_redeem === Redeem
+invalid_voucher_code === Invalid voucher code!
+voucher_deleted === Voucher has been deleted!
+form_title_addvoucher === Add Voucher
+form_title_addsubscription === Add Subscription
+form_adduser_role === Role
+require_pagename === Page Name
+require_pageroles === Allowed Roles
+form_pageroles === Allowed Roles
+require_vouchercode === Voucher code
+form_settingscurrency === Currency
+btn_bulkexcel === Excel
+response_leastprovider === Please select at least 1 payment provider!
+user_subscriptioncontacts === Contacts
+response_suspended === Your account has been suspended by the administrator!
+response_adminsuspend === Default account cannot be suspended!
+response_successsuspend === User has been suspended!
+response_successunsuspend === User has been unsuspended!
+suspend_user_title === Suspend User?
+suspend_user_desc === This user won't be able to login and use the services
+unsuspend_user_title === Unsuspend User?
+unsuspend_user_desc === This user will be able to login and use the services again
+all_languages === All Languages
+response_invalid_excel === Invalid excel file!
+response_contacts_imported === Contacts has been imported!
+table_role_name === Role Name
+table_role_permissions === Permissions
+table_voucher_name === Name
+table_voucher_package === Package
+table_page_name === Page Name
+table_page_require === Require Login
+table_page_roles === Allowed Roles
+import_btn === Import
+form_excelfile === Excel File
+form_hook_addtitle === Add Hook Action
+form_hook_edittitle === Edit Hook Action
+form_hook_event === Event
+form_hook_link === Link Structure
+form_autoreply_addtitle === Add Reply Action
+form_autoreply_edittitle === Edit Reply Action
+form_autoreply_keywords === Keywords
+form_autoreply_message === Reply Message
+require_action_name === Action name
+require_action_event === Event type
+require_action_link === Link structure
+require_action_keywords === Keywords
+require_action_message === Reply message
+response_invalid_linkstructure === Invalid link structure!
+response_hook_added === SMS hook action has been added!
+response_invalid_keywords === You must input at least 1 keyword!
+response_autoreply_added === SMS reply action has been added!
+response_hook_updated === SMS hook action has been updated!
+response_autoreply_updated === SMS reply action has been updated!
+response_action_deleted === SMS action has been deleted!
+table_action_name === Name
+form_scheduled_title === Schedule SMS
+response_scheduled_deleted === Scheduled message has been deleted!
+response_no_permission === You don't have permission for this action!
+response_builder_appiconfail === App icon cannot be uploaded!
+form_require_login === Require Login
+widget_addpage_title === Add Page
+widget_editpage_title === Edit Page
+require_subscription_user === User
+require_voucher_name === Voucher name
+require_voucher_package === Package
+widget_alllang_title === All Languages
+widget_smsexcel_title === Bulk SMS by Excel
+require_scheduled_name === Name
+require_scheduled_date === Schedule date
+widget_importcontacts_title === Import Contacts
+require_addrole_name === Role name
+require_addrole_permissions === Permissions
+widget_editrole_title === Edit Role
+response_page_added === Page has been added!
+response_page_updated === Page has been updated!
+response_page_deleted === Page has been deleted!
+table_scheduled_name === Name
+messages_scheduled_title === Scheduled
+messages_scheduled_schedule === Schedule SMS
+form_schedule_numbers === Mobile Numbers
+form_schedule_schedule === Schedule
+form_schedule_repeat === Repeat
+form_bulksms_numbers === Mobile Numbers
+dashboard_tools_menuactions === Actions
+dashboard_admin_menuroles === Roles
+dashboard_admin_menuvouchers === Vouchers
+dashboard_admin_menupages === Pages
+admin_gateway_title === Gateway
+admin_gateway_status === Status
+admin_gateway_notuploaded === Not Uploaded
+admin_gateway_uploaded === Uploaded
+dashboard_roles_title === User Roles
+dashboard_roles_addrole === Add Role
+dashboard_vouchers_title === Vouchers
+dashboard_vouchers_addrole === Add Voucher
+form_voucher_package === Package
+dashboard_pages_title === Pages
+dashboard_pages_addpage === Add Page
+form_theme_favicon === Favicon
+form_package_contactslimit === Contacts Limit
+response_limitation_send === You have reached the maximum allowed sending for today!
+response_limitation_contact === You have reached the maximum allowed contacts!
+response_limitation_key === You have reached the maximum allowed API keys!
+response_limitation_webhook === You have reached the maximum allowed webhooks!
+form_adminsettings_token === System Token
+response_upload_appicon === Please upload your app icon!
+app_status_gateway_running === Gateway is running!
+app_device_registered === Linked
+app_device_unregistered === Not Linked
+app_terminal_gateway_ready === Gateway is ready...
+app_terminal_gateway_register === Device is not yet linked...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Device has been linked...
+app_terminal_gateway_device === Device linking failed...
+app_terminal_gateway_connecterror === Error while connecting to server...
+app_terminal_gateway_started === Gateway has been started...
+app_terminal_gateway_stopped === Gateway has been stopped...
+app_terminal_gateway_unregistered === Can't start gateway, device is not yet linked to any account...
+app_terminal_feature_error === SMS feature error
+app_terminal_sms_sent === Message sent
+app_terminal_message_failed === Failed sending message
+app_dialog_wait === Please wait...
+app_dialog_exit === Exit Gateway
+app_dialog_exit_desc === Shutdown and exit gateway?
+app_camera_qrcode_inside === Place your QRCode inside
+app_ui_status === Status
+app_ui_exit === Exit
+require_voucher_count === Voucher count cannot be empty!
+form_voucher_count === Voucher Count
+cookieconsent_dismiss === Got it!
+title_payment_success === Order Confirmation
+title_payment_cancel === Order Cancelled
+header_payment_success === Order Confirmation
+header_payment_cancel === Order Cancelled
+body_payment_cancel === You have cancelled your order request.
+transaction_payment_success === Transaction ID:
+back_payment_page === Back to Dashboard
+form_settingspaypalemail === Paypal Business Email
+form_settingsanalytics === Google Analytics Key
+form_messagecounterchars === characters
+form_settingspagination === Pagination Limits
+form_settingssentpage === Sent Messages Per Page
+form_settingsreceivedpage === Received Messages Per Page
+form_settingsmessage === Message Settings
+form_settingsmessagemin === Minimum Characters
+form_settingsmessagemax === Maximum Characters
+form_settingsmessagemark === Message Footermark
+form_packagefootermark === Message Footermark
+form_settingssmtpsecure === SMTP Security
+form_durationtitle === Duration
+form_durationpackage === Your Package:
+form_durationpay === You will pay:
+form_durationmonth === Month Duration
+form_subscriptionmonth === Month Duration
+authenticate_fblogin === Logging in with facebook...
+authenticate_googlelogin === Logging in with google...
+authenticate_vklogin === Logging in with vkontakte...
+response_minplatforms === Please select at least 1 social platform!
+form_settingssocialtitle === Social Settings
+form_settingssocial === Social Authentication
+form_settingssocialplatforms === Enabled Platforms
+form_usertimezone === Timezone
+form_settingsloginrecaptcha === Login Recaptcha
+form_loginor === OR
+form_adddevicescandl === Download via QR Scan
+form_status_online === Online
+form_status_offline === Offline
+form_smsbulknonumbers === Please select a contact group or enter the recipient numbers!
+form_addsubscriptionuser === User
+form_addsubscriptionpackage === Package
+table_vouchersduration === Month Duration
+table_pluginsname === Plugin Name
+table_pluginsoptions === Options
+dashboard_admin_menuplugins === Plugins
+dashboard_admin_pluginstitle === Plugins
+dashboard_admin_pluginsadd === Add Plugin
+require_pluginfile === Plugin File
+modal_addplugin_title === Add Plugin
+response_pluginwentwrong === Something went wrong while uploading the plugin!
+response_plugininstalled === Plugin has been installed!
+dashboard_title_login === Login
+dashboard_title_forgot === Forgot Password
+dashboard_title_register === Register
+response_limitation_contact2 === You have reached the maximum number of contacts on your subscription, only _8880_ contacts has been imported!
+response_contacts_imported2 === _8880_ contacts has been imported successfully!
+form_systemsettingshomepage === Default Homepage
+app_dialog_update_desc === There is a new release version available for the gateway app, updating is required!
+app_dialog_update_download === Download
+app_gateway_build_text === Gateway Build
+response_gateway_available === Downloading gateway, please wait...
+response_gateway_unavailable === Gateway is not available, please contact the site administrator!
+response_gateway_randommax === Maximum send interval cannot be greater than 300 seconds!
+response_device_updated === Device has been updated!
+form_editdevice_devicename === Device Name
+form_editdevice_randomsend === Random Send Interval
+form_editdevice_randommin === Send Interval Min
+form_editdevice_randommax === Send Interval Max
+form_smsall_globalstatus === Global
+form_select_multinone === None
+form_package_hiddenselect === Hidden
+landing_footer_ourcompnew === Our Company
+form_smsschedule_submit === Schedule
+require_devicename === Device name
+require_randommin === Random minimum interval
+require_randommax === Random maximum interval
+admin_update_installed === Installed
+admin_update_btn === Update
+response_update_success === System has been updated!
+form_settings_tawkchatlink === Tawk Direct Chat Link
+model_title_editplugin === Edit Plugin
+btn_other_paymentmethods === Other Payment Methods
+dashboard_btn_support === Support
+pendingdelete_title === Delete Pending?
+pendingdelete_desc === Delete all pending messages? This action cannot be undone!
+dashboard_messages_tablefullmessage === Full Message
+administration_landing_btncache === Cache
+administration_landing_payouts === Payouts
+administration_landing_marketing === Marketing
+administration_landing_gateways === Gateways
+administration_landing_shorteners === Shorteners
+administration_landing_editor === Template Editor
+administration_landing_api === Admin API
+administration_landing_build === Build
+administration_landing_system === System
+requests_charts_smssent === SMS Sent
+requests_charts_smsreceived === SMS Received
+requests_charts_wasent === WhatsApp Sent
+requests_charts_wareceived === WhatsApp Received
+requests_charts_ussd === USSD
+requests_charts_notifications === Notifications
+requests_charts_credits === Credits
+administration_default_visitors === Visitors
+administration_default_countries === Countries
+administration_default_browsers === Browsers
+administration_default_os === Operating Systems
+administration_default_usages === Usages
+administration_default_messages === Messages
+administration_default_utilities === Utilities
+administration_default_subscriptions === Subscriptions
+administration_default_credits === Credits
+tables_users_registered === Registered
+tables_users_details === Details
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Gateway Rates
+dashboard_title_docs === Documentations
+app_status_gateway_touch === Touch here to open gateway
+app_dialog_downloading_update === Downloading Update
+app_dialog_interface_disabled === Interface is disabled, please update the app to the latest version!
+app_dialog_somethingwent_wrong === Oops, something went wrong!
+app_intro_level_1 === Thank you for using our platform, to maximize your experience and familiarize yourself with the app, let's explore and we will explain all of the essential functions you need to know.
+app_intro_level_2 === You will see the device name and the link status here.
+app_intro_level_3 === To link the device to your account, use this button to login or scan your QRCode for linking.
+app_intro_level_4 === Use this switch to turn the gateway on or off.
+app_intro_level_5 === Enabling this switch will make the gateway app to listen for new notifications which can then be programmatically managed in the platform. This is disabled by default.
+app_intro_level_6 === Use this button to shutdown and exit from the gateway app.
+app_intro_level_7 === This is the terminal, message transactions and other activity logs will be shown here.
+app_intro_level_8 === This is the floating action button, you can access some options and additional pages such as <b>Run in Background</b> here.
+app_dialog_tour_complete === You should now understand how the application works, for additional questions, please contact us!
+app_push_right_now === now
+app_device_detailes_updated === Device details has been updated!
+app_ussd_requests_notsupported === USSD requests not supported...
+app_notifications_listening_now === Listening for new notifications...
+app_button_ok === Confirm
+app_dialog_update_smoothperm === For smooth and efficient updates, please allow install permission from this app.
+app_dialog_logging_in === Logging in...
+app_dialog_invalid_email === You have entered an invalid email!
+app_dialog_invalid_password === Password is too short to be valid!
+app_dialog_notsupported_notinougat === Notifications are currently not supported for nougat and below, sorry for the inconvenience.
+app_dialog_notifications_permission === To access notifications programmatically, the app requires a special permission. Please select the app in the list then allow notification access.
+app_dialog_gateway_listennoti === Gateway will now listen for new notifications.
+app_dialog_gateway_notirestart === Gateway will restart and stop listening for new notifications.
+app_dialog_needto_link === You need to link the device to your account before you can use this feature.
+app_dialog_logoutfrom_device === Logout from this gateway device?
+app_document_runbackground === Run in Background
+app_document_input_email === Email Address
+app_document_input_password === Password
+app_document_btn_login === Login
+app_document_text_or === or
+app_document_btn_scan === Scan QRCode
+app_document_btn_cancel === Cancel
+app_intro_next_btn === Next
+app_intro_back_btn === Back
+response_token_generated === System token has been regenerated!
+response_trigger_done === Webhook has been triggered!
+response_build_gservicesfile === Please upload your google services file!
+response_build_fcredentialsfile === Please upload your firebase credentials file!
+response_build_loginlogo === Please upload your app login logo!
+response_whatsapp_notprem === Account is not subscribed to any premium package!
+response_whatsapp_maxaccounts === You have reached the maximum allowed WhatsApp accounts for your package!
+response_whatsapp_creatingqr === Creating WhatsApp QRCode
+response_whatsapp_noconnectserver === Unable to connect to WhatsApp servers!
+response_chart_dashsmssent === SMS Sent
+response_chart_dashsmsreceive === SMS Received
+response_chart_dashwasent === WA Sent
+response_chart_dashwareceive === WA Received
+response_chart_dashwebhooks === Webhooks
+response_chart_dashactions === Actions
+response_chart_dashussd === USSD
+response_chart_dashnoti === Notifications
+response_resend_queued === Message has been queued for sending!
+mail_title_payoutapproved === Your payout request has been paid!
+response_payout_confirmed === Payout has been confirmed!
+mail_title_payoutrejected === Your payout request has been rejected!
+response_payout_rejected === Payout has been rejected!
+response_translate_msgshort === Message is too short!
+response_clear_systemcleared === System cache files has been cleared!
+response_clear_smscleared === Pending messages has been cleared!
+response_clear_ussdcleared === Pending USSD requests has been cleared!
+response_reorder_languages === Languages has been reordered!
+response_trash_selectedremoved === Selected items has been deleted!
+response_voucher_redeemed === Voucher has been redeemed!
+response_payout_invalidamount === Invalid payout amount, it should not contain decimal values.
+response_payout_notenoughbal === Not enough earning balance to process request!
+response_payout_reqreceive === Your payout request has been received!
+response_payout_pendingreq === You still have a pending payout request!
+response_system_sysconfigerr === System configuration error!
+response_message_toolong === Your message is too long!
+response_package_nosubwarn === You don't have a package subscription!
+response_message_notenoughcredsend === Not enough credits to send this message!
+response_message_queuedforsend === Message has been queued for sending!
+response_message_sentsuccess === Message has been sent!
+response_message_unablesendmesg === We are unable to send your message!
+response_smsexcel_phonenotfound === The _8880_ column was not found in your excel file!
+response_smssched_queued === Message has been scheduled!
+response_ussd_maximumreq === Maximum number of USSD requests has been reached!
+response_ussd_queued === USSD request has been queued!
+response_whatsapp_reachedmaxchat === You already reached the maximum chats you can send!
+response_whatsapp_chatqueued === WhatsApp message has been queued for sending!
+response_whatsapp_unableconnectserv === Unable to connect to WhatsApp servers!
+response_whatsapp_bulkchatsqueued === WhatsApp bulk chats has been queued!
+response_whatsapp_excelphonecolnotfound === The _8880_ column was not found in your excel file!
+response_whatsapp_chatscheduled === Chat has been scheduled!
+response_importcontacts_phonenotfound === The _8880_ column was not found in your excel file!
+response_importcontacts_groupsnotfound === The _8880_ column was not found in your excel file!
+response_importcontacts_namenotfound === The _8880_ column was not found in your excel file!
+response_package_pricenotlessone === Package price cannot be less than 1!
+response_subscription_addedsuccess === Subscription has been created!
+response_push_selectatleastoneuser === Please select at least one user or role!
+response_push_mesgtooshort === Message is too short!
+response_push_titletooshort === Title is too short!
+response_push_imgfailed === Uploading image file failed!
+response_push_created === Push broadcast has been created!
+response_push_nousers === No users found for sending!
+response_notify_titletooshort === Title is too short!
+response_notify_mesgtooshort === Message is too short!
+response_notify_selectuserrole === Please select at least one user or role!
+response_notify_imgfailed === Uploading image file failed!
+response_notify_created === Notify broadcast has been created!
+response_notify_nousers === No users found for sending!
+response_mailer_titletooshort === Title is too short!
+response_mailer_contentooshort === Content is too short!
+response_mailer_nouserorrole === Please select at least one user or role!
+response_mailer_sendcounter === _8880_ out of _8881_ pending emails has been sent by mailer!
+response_mailer_mailprocessed === Mass mailing has been processed!
+response_mailer_nousersorrole === No users found for sending!
+response_gateway_controllercannotempty === Controller file cannot be empty!
+response_gateway_invalidcontroller === Invalid controller file!
+response_gateway_addeddcontroller === Gateway has been added!
+response_shortener_cannotempty === Controller file cannot be empty!
+response_shortener_invalidcontroller === Invalid controller file!
+response_shortener_addedcontroller === Shortener has been added!
+response_plugin_samenameinstalled === A plugin with the same name was already installed!
+response_smscheduled_editsuccess === Scheduled message has been updated!
+response_chatscheduled_editsuccess === Chat schedule has been updated!
+response_editdevice_invalidrate === Invalid rate value, it should be a valid float number!
+response_editdevice_nametooshort === Device name is too short!
+response_editdevice_nametoolong === Device name is too long!
+response_editdevice_invalidmaxinterval === Invalid max interval value!
+response_gateway_updatedsuccess === Gateway has been updated!
+response_shortener_editsuccess === Shortener has been updated!
+response_editplugin_success === Plugin settings has been updated!
+response_updatepluin_corrupted === Plugin update file is corrupted!
+response_updateplugin_updated === Plugin has been updated!
+response_builder_invalidgooglefile === Invalid google services credentials file!
+response_builder_invalidfirebasefile === Invalid firebase credentials file!
+response_theme_sitelogofailed === Site logo upload failed!
+response_theme_sitebgfailed === Site background upload failed!
+response_theme_sitefavfailed === Favicon image upload failed!
+response_notification_deletedsuccess === Notification has been deleted!
+response_whatsapp_sentdeletesuccess === Sent WhatsApp chat has been deleted!
+response_whatsapp_receivedeletesuccess === Received WhatsApp chat has been deleted!
+response_whatsapp_scheduleddeletesuccess === WhatsApp scheduled chat has been deleted!
+response_whatsapp_accountdeletesuccess === WhatsApp account has been deleted!
+response_unsibscribe_contactdeletedsuccess === Unsubscribed number has been deleted!
+response_marketing_logdeletedsuccess === Marketing log has been deleted!
+response_gateway_controllerdeletedsuccess === Gateway has been deleted!
+response_shortener_controllerdeletedsuccess === Shortener has been deleted!
+table_androidsent_clipcopy === Sent Clipboard Copy _8880_
+table_androidsent_excel === Sent Excel Export _8880_
+table_androidsent_pdf === Sent PDF Export _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Report
+table_unknown_data === Unknown
+table_androidsent_statuspending === Pending
+table_androidsent_statusqueued === Queued
+table_androidsent_statussent === Sent
+table_androidsent_statusfailed === Failed
+table_none_data === None
+table_yes_data === Yes
+table_no_data === No
+table_removed_data === Removed
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Status: _8880_, Mode: _8881_, Code: _8882_, Priority: _8883_, API Sent: _8884_, Sim Slot: SIM _8885_, Device: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Devices
+table_androidsent_modenamecredits === Credits
+table_androidsent_reportline1 === Status: _8880_
+table_androidsent_reportline2 === Mode: _8880_
+table_androidsent_reportline3 === Code: _8880_
+table_androidsent_reportline4 === Priority: _8880_
+table_androidsent_reportline5 === API Sent: _8880_
+table_androidsent_reportline6 === Sim Slot: SIM _8880_
+table_androidsent_reportline7 === Device: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Status: _8880_, Mode: _8881_, Gateway: _8882_
+table_androidsent_reportline9 === Status: _8880_
+table_androidsent_reportline10 === Mode: _8880_
+table_androidsent_reportline11 === Gateway: _8880_
+table_androidsent_exportthree === Status: _8880_, Mode: _8881_, Code: _8882_, API Sent: _8883_, Sim Slot: SIM _8884_, Gateway: _8885_
+table_androidsent_reportline12 === Status: _8880_
+table_androidsent_reportline13 === Mode: _8880_
+table_androidsent_reportline14 === Code: _8880_
+table_androidsent_reportline15 === API Sent: _8880_
+table_androidsent_reportline16 === Sim Slot: SIM _8880_
+table_androidsent_reportline17 === Gateway: _8880_
+table_androidsent_titleresend === Resend this message
+table_title_deletethisitem === Delete this item
+table_androidreceive_exportcopy === Received Clipboard Copy _8880_
+table_androidreceive_exportexcel === Received Excel Export _8880_
+table_androidreceive_exportpdf === Received PDF Export _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Report
+table_androidreceive_exportdata === Sim Slot: SIM _8880_, Device: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Sim Slot: SIM _8880_
+table_androidreceive_reportline2 === Device: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Reply to number
+table_androidscheduled_titleschedule === Schedule
+table_androidscheduled_titledetails === Details
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Mode: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Repeat: _8880_
+table_androidscheduled_detailsline4 === Device: _8880_
+table_androidscheduled_detailsgroupslabel === Groups:
+table_androidscheduled_detailsnumberslabel === Numbers:
+table_androidscheduled_detailsline5 === Mode: _8880_
+table_androidscheduled_detailsline6 === Repeat: _8880_
+table_androidscheduled_detailsline7 === Gateway: _8880_
+table_androidscheduled_detailsline8 === Mode: _8880_
+table_androidscheduled_detailsline9 === Repeat: _8880_
+table_androidscheduled_detailsline10 === Device: _8880_
+table_title_editthisitem === Edit this item
+table_whatsappsent_exportcopy === Sent Clipboard Copy
+table_whatsappsent_exportexcel === Sent Excel Export
+table_whatsappsent_exportpdf === Sent PDF Export
+table_whatsappsent_accounttitle === Account
+table_whatsappsent_recipienttitle === Recipient
+table_whatsappsent_msgtitle === Message
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Status
+table_ussd_exportcopy === USSD Clipboard Copy
+table_ussd_exportexcel === USSD Excel Export
+table_ussd_exportpdf === USSD PDF Export
+table_ussd_createdtitle === Created
+table_ussd_codetitle === Code
+table_ussd_responsetitle === Response
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Status
+table_ussd_devicetitle === Device
+table_ussd_optionstitle === Options
+table_ussd_pendingresponsetext === Pending Response
+table_empty_data === Empty
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Pending
+table_ussd_queuelabel === Queued
+table_ussd_completelabel === Completed
+table_ussd_detailsline1 === Device: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Notifications Clipboard Copy
+table_notifications_exportexcel === Notifications Excel Export
+table_notifications_exportpdf === Notifications PDF Export
+table_notifications_createdtitle === Created
+table_notifications_packagetitle === Package Name
+table_notifications_title === Title
+table_notification_texttitle === Text
+table_notification_devicetitle === Device
+table_notification_optiontitle === Options
+table_notification_devicelabel === Device:
+table_notification_oslabel === OS:
+table_devices_nametitle === Name
+table_devices_globaltitle === Global
+table_enabled_data === Enabled
+table_disabled_data === Disabled
+table_notifications_exportone === Device: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Pending
+table_whatsapp_queuelabel === Queued
+table_whatsapp_sentlabel === Sent
+table_whatsapp_failedlabel === Failed
+table_whatsappreceive_exportcopy === Received Clipboard Copy
+table_whatsappreceive_exportexcel === Received Excel Export
+table_whatsappreceive_exportpdf === Received PDF Export
+table_whatsappreceive_replytitle === Reply to number
+table_waschedule_scheduletitle === Schedule
+table_waschedule_detailstitle === Details
+table_waschedule_detailsline1 === Repeat: _8880_
+table_waschedule_detailsline2 === Account:
+table_waschedule_detailsline3 === Groups:
+table_waschedule_detailsline4 === Numbers:
+table_waaccounts_loggedtitle === Logged In
+device_login_usevalidemail === Please use a valid email address!
+device_login_accountsuspended === Sorry, your account is suspended!
+device_login_incorrectmailorpass === You entered an incorrect email or password!
+device_login_nosubscription === You don't have a package subscription!
+device_login_nomoredevice === You cannot register more devices!
+device_scan_qrcodeinvalid === Your QRCode is invalid!
+device_scan_nosub === You don't have a package subscription!
+device_scan_usersuspended === Sorry, your account is suspended!
+device_scan_nomoredevices === You cannot register more devices!
+device_report_smssentsuccess === Message _8880_ has been sent from _8881_
+device_report_smssentfailed === Sending message _8880_ have failed from _8881_
+device_received_smsreceived === New _8880_ has been received from _8881_
+requests_resend_devicenotexist === Device doesn't exist!
+device_ussd_responsereceive === USSD response received from _8880_
+device_notification_notireceive === New notification has been received from _8880_
+payment_success_unknowntx === Unknown
+payment_webhook_molliecreditsadded === Credits have been added to your account!
+payment_webhook_paypalcreditsadded === Credits have been added to your account!
+payment_webhook_unknowntn === Unknown
+mail_tpl_creditstitle === Hi there,
+mail_tpl_creditsdesc === You have purchased credits, we have credited a total of _8880_ to your account and you can use it immediately.
+mail_tpl_creditstnx === Thank you!
+mail_tpl_poweredby === Powered by _8880_
+forgot_response_recoverysent === Retrieval instructions has been sent to _8880_
+forgot_response_recoveryfail === We are unable to send you an email!
+cron_package_expired === Your package subscription has expired!
+cron_package_expiring === Expiring package subscription in 5 days!
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === Unique ID
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Groups Clipboard Copy _8880_
+table_contactssaved_exportexcel === Groups Excel Export _8880_
+table_contactssaved_exportpdf === Groups PDF Export _8880_
+table_contactssaved_grouptitle === Groups
+table_contactsgroups_gidtitle === Group ID
+table_contactsunsub_exportcopy === Unsubscribed Clipboard Copy _8880_
+table_contactsunsub_exportexcel === Unsubscribed Excel Export _8880_
+table_contactsunsub_exportpdf === Unsubscribed PDF Export _8880_
+table_toolskeys_createdtitle === Created
+table_toolskeys_copyapisecret === Copy API secret to clipboard
+table_toolswebhooks_createtitle === Created
+table_tootlswebhooks_eventstitle === Events
+table_toolswebhooks_simulatebtn === Trigger
+table_toolswebhooks_simulatedesc === Simulate webhook request
+table_toolswebhooks_copywebhooksecret === Copy webhook secret to clipboard
+table_toolsactions_createtitle === Created
+table_toolsactions_detailstitle === Details
+table_toolsactions_typehook === Hook
+table_toolsactions_typeautoreply === Autoreply
+table_toolsactions_source === Source: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Event: _8880_
+table_toolsactions_eventonsend === On Send
+table_toolsactions_eventonreceive === On Receive
+table_toolsactions_link === Link:
+table_toolsactions_keywords === Keywords:
+table_toolsactions_message === Message:
+table_toolsactions_type === Type: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Created
+table_ratespartners_countrytitle === Country
+table_ratespartners_detailstitle === Device Details
+table_ratespartners_ratetitle === Message Rate
+table_ratespartners_prioritytitle === Priority
+table_ratespartners_simtitle === Allowed SIM Slots
+table_ratespartners_name === Name:
+table_ratespartners_owner === Owner:
+table_ratespartners_localrate === Local Rate:
+table_ratespartners_convertedrate === Converted Rate:
+table_ratespartners_simdual === SIM 1 and SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Users Clipboard Copy _8880_
+table_adminusers_exportexcel === Users Excel Export _8880_
+table_adminusers_exportpdf === Users PDF Export _8880_
+table_adminusersexportdata === Role: _8880_, Country: _8881_, Language: _8882_, Timezone: _8883_, Earnings: _8884_, Credits: _8885_, Subscription: _8886_, Sounds: _8887_, Suspended: _8888_
+table_adminusers_exportdata1 === Role: _8880_
+table_adminusers_exportdata2 === Country: _8880_
+table_adminusers_exportdata3 === Language: _8880_
+table_adminusers_exportdata4 === Timezone:
+table_adminusers_exportdata5 === Earnings: _8880_
+table_adminusers_exportdata6 === Credits: _8880_
+table_adminusers_exportdata7 === Subscription:
+table_adminusers_exportdata8 === Sounds: _8880_
+table_adminusers_exportdata9 === Suspended: _8880_
+table_adminusers_unsuspendaccount === Unsuspend this account
+table_adminusers_suspendaccount === Suspend this account
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Created
+table_adminpackages_detailstitle === Package Details
+table_adminpackages_freelabel === Free
+table_unlimited_data === Unlimited
+table_adminpackages_labeldetails1 === Hidden:
+table_adminpackages_labeldetails2 === Footer Mark:
+table_adminpackages_labeldetails3 === SMS Send Limit:
+table_adminpackages_labeldetails4 === SMS Receive Limit:
+table_adminpackages_labeldetails5 === WhatsApp Send Limit:
+table_adminpackages_labeldetails6 === WhatsApp Receive Limit:
+table_adminpackages_labeldetails7 === WhatsApp Account Limit:
+table_adminpackages_labeldetails8 === USSD Limit:
+table_adminpackages_labeldetails9 === Notification Limit:
+table_adminpackages_labeldetails10 === Device Limit:
+table_adminpackages_labeldetails11 === Contact Limit:
+table_adminpackages_labeldetails12 === API Key Limit:
+table_adminpackages_labeldetails13 === Webhook Limit:
+table_adminpackages_labeldetails14 === Action Limit:
+table_adminpackages_labeldetails15 === Scheduled Limit:
+table_adminvouchers_exportcopy === Vouchers Clipboard Copy _8880_
+table_adminvouchers_exportexcel === Vouchers Excel Export _8880_
+table_adminvouchers_exportpdf === Vouchers PDF Export _8880_
+table_adminvouchers_createdtitle === Created
+table_adminvouchers_codetitle === Redeem Code
+table_adminvouchers_copycode === Copy voucher code to clipboard
+table_adminsubscriptions_createdtitle === Created
+table_admintransactions_createdtitle === Created
+table_admintransactions_itemtitle === Item
+table_admintransactions_amounttitle === Amount
+table_admintransactions_durationtitle === Duration
+table_admintransactions_creditslabel === Credits
+table_admintransactions_monthslabel === _8880_ months
+table_adminpayouts_createdtitle === Created
+table_adminpayouts_partnertitle === Partner
+table_adminpayouts_amounttitle === Amount
+table_adminpayouts_addresstitle === Payment Address
+table_adminpayouts_optionstitle === Options
+table_adminpayouts_approve === Mark payout request as paid
+table_adminpayouts_reject === Reject payout request
+table_adminwidgets_createdtitle === Created
+table_adminwidgets_typeblock === Block
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Copy widget hook to clipboard
+table_adminpages_createdtitle === Created
+table_adminpages_optionstitle === Options
+table_adminpages_copypagehook === Copy page hook to clipboard
+table_adminmarketing_createdtitle === Created
+table_adminmarketing_typetitle === Type
+table_adminmarketing_titletitle === Title
+table_adminmarketing_contenttitle === Content
+table_adminmarketing_recipientstitle === Recipients
+table_adminmarketing_optionstitle === Options
+table_adminmarketing_notifylabel === Notify
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === Push
+table_adminmarketing_roleslabel === Roles:
+table_adminmarketing_userslabel === Users:
+table_admingateways_createdtitle === Created
+table_admingateways_nametitle === Name
+table_admingateways_pricingtitle === Pricing
+table_admingateways_optionstitle === Options
+table_admingateways_invalidjson === Invalid JSON format!
+table_admingateways_defaultprice === Default Price: _8880_
+table_admingateways_percountryprcie === Pricing Per Country:
+table_adminshorteners_createdtitle === Created
+table_adminshorteners_nametitle === Name
+table_adminshorteners_optionstitle === Options
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Installed Version
+table_adminplugins_actionstitle === Actions
+table_adminplugins_updatedesc === Update this plugin
+table_adminplugins_editdesc === Edit plugin options
+table_adminplugins_removedesc === Uninstall this plugin
+whatsapp_sent_sentsuccess === WhatsApp chat _8880_ has been sent!
+whatsapp_sent_sentfailed === Sending chat _8880_ have failed!
+whatsapp_received_chat === New chat _8880_ has been received!
+widget_systemupdate_title === System Update
+widget_systemupdate_loader === Updating system
+widget_systemupdate_requireupdate === Update file cannot be empty!
+requests_systemupdate_faileduploadingfile === Failed uploading update file!
+widget_usersettings_loader === Saving account settings
+widget_payment_title === Payment
+widget_payment_creditamountnotless === Credit amount cannot be less than 10!
+widget_payment_creditslabel === Credits
+widget_view_contentremoved === Content has been removed!
+widget_redeem_title === Redeem
+widget_redeem_loader === Validating voucher code
+widget_addcredits_title === Add Credits
+widget_addpayout_title === Request Payout
+widget_addpayout_loader === Creating payout request
+widget_addpayout_requireamount === Amount cannot be empty!
+widget_addpayout_requireprovider === Payment provider cannot be empty!
+widget_addpayout_requireaddress === Payment address cannot be empty!
+widget_smsquick_loader === Adding message to queue
+widget_smsbulk_loader === Adding messages to queue
+widget_smsexcel_loader === Adding messages from excel file to queue
+widget_addsmsscheduled_loader === Saving your scheduled message
+widget_editscheduled_title === Edit Schedule
+widget_editscheduled_loader === Saving your scheduled message
+widget_addussd_title === USSD Request
+widget_addussd_loader === Adding ussd request to queue
+widget_editdevice_title === Edit Device
+widget_editdevice_loader === Saving device changes
+widget_waquick_title === Quick Chat
+widget_waquick_loader === Adding whatsapp chat to queue
+widget_waquick_requireaccount === WhatsApp account is required!
+widget_wabulk_title === Bulk Chat
+widget_wabulk_loader === Adding whatsapp chats to queue
+widget_waexcel_title === Bulk Chat by Excel
+widget_waexcel_loader === Adding whatsapp chats to queue
+widget_wascheduled_title === Schedule Chat
+widget_wascheduled_loader === Adding whatsapp chats to queue
+widget_wascheduled_requireaccount === WhatsApp account is required!
+widget_waeditscheduled_title === Edit Schedule
+widget_waeditscheduled_loader === Adding whatsapp chats to queue
+widget_waeditscheduled_requireaccount === WhatsApp account is required!
+widget_waaddaccount_title === Add Account
+widget_importcontacts_loaded === Importing contacts from excel file
+widget_addcontact_loader === Creating new contact entry
+default_pricecolumns_monthlabel === month
+default_pricecolumns_dailylabel === daily
+default_pricecolumns_monthlylabel === monthly
+default_pricecolumns_unlimitedlabel === Unlimited
+form_literal_spintaxdesc2 === The values _8880_ and _8881_ will be used randomly.
+dashboard_packagesmodal_smssend === SMS Send
+default_footerquote_obama === Becoming isn’t about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self. The journey doesn’t end.
+widgets_editcontact_loader === Saving contact changes
+widgets_addgroup_loader === Creating new group entry
+widgets_editgroup_loader === Saving group changes
+widgets_addapikey_loader === Creating new API key
+widgets_editapikey_loader === Saving API key changes
+widgets_addwebhook_title === Add Webhook
+widgets_addwebhook_loader === Creating new webhook
+widgets_addwebhook_requireevents === Events cannot be empty!
+widgets_editwebhook_loader === Saving webhook changes
+widgets_addhook_loader === Creating new hook action
+widgets_edithook_loader === Saving hook action changes
+widgets_addautoreply_loader === Creating new autoreply action
+widgets_editautoreply_loader === Saving autoreply action changes
+widgets_addtemplate_loader === Creating new message template
+widgets_edittemplate_loader === Saving template changes
+widgets_adminbuilder_loader === Saving builder settings
+widgets_adminsettings_loader === Saving system settings
+widgets_admintheme_loader === Saving theme settings
+widgets_adduser_loader === Creating new user account
+widgets_edituser_loader === Saving user account changes
+widgets_addrole_loader === Creating new user role
+widgets_addrole_title === Add Role
+widgets_editrole_loader === Saving user role changes
+widgets_addpackage_loader === Creating new system package
+widgets_editpackage_loader === Saving package changes
+widgets_addvoucher_loader === Creating new vouchers
+widgets_addsubscription_loader === Creating new user subscription
+widgets_addwidgets_loader === Creating new widget
+widgets_editwidget_loader === Saving widget changes
+widgets_addpage_loader === Creating new page
+widgets_editpage_loader === Saving page changes
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Broadcasting push notification
+widgets_addpush_requiretitle === Title cannot be empty!
+widgets_addpush_requiremessage === Message cannot be empty!
+widgets_addnotify_title === Notify Broadcast
+widgets_addnotify_loader === Broadcasting live notification
+widgets_addnotify_requiretitle === Title cannot be empty!
+widgets_addnotify_requiremessage === Message cannot be empty!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Sending email messages
+widgets_addmailer_requiretitle === Title cannot be empty!
+widgets_addlanguage_loader === Adding new language
+widgets_editlanguage_loader === Saving language changes
+widgets_addgateway_title === Add Gateway
+widgets_addgateway_loader === Adding new gateway
+widgets_addgateway_requirename === Gateway name cannot be empty!
+widgets_editgateway_title === Edit Gateway
+widgets_editgateway_loader === Saving gateway changes
+widgets_editgateway_requirename === Gateway name cannot be empty!
+widgets_addshortener_title === Add Shortener
+widgets_addshortener_loader === Adding new shortener
+widgets_addshortener_requirename === Shortener name cannot be empty!
+widgets_editshortener_title === Edit Shortener
+widgets_editshortener_loader === Saving shortener changes
+widgets_editshortener_requirename === Shortener name cannot be empty!
+widgets_addplugin_loader === Intalling new plugin to system
+widgets_editplugin_loader === Applying plugin changes to system
+widgets_updateplugin_title === Update Plugin
+widgets_updateplugin_loader === Updating plugin
+device_backgroundpage_line1 === Run in Background
+device_backgroundpage_line2 === Why does the Gateway App need to run in the background?
+device_backgroundpage_line3 === The app requires running in the background to keep listening for new messages to send and receive, this is also needed to process new notifications. If you don't need notifications, you can disable this in the app settings, disabling it will stop the system from receiving notification data from the device.
+device_backgroundpage_line4 === If you have third party security app such as Avast, Eset and others. Please add the gateway app to its exceptions.
+device_backgroundpage_line5 === Please read the appropriate guide for your phone brand in the following list.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Battery Saver
+device_backgroundpage_line8 === 1. Open Settings.
+device_backgroundpage_line9 === 2. Select "Battery & performance".
+device_backgroundpage_line10 === 3. Select "Choose apps".
+device_backgroundpage_line11 === 4. Find _8880_ and select "No restrictions" in background settings.
+device_backgroundpage_line12 === Lock the App
+device_backgroundpage_line13 === 1. Tap Menu button to enter Recents page.
+device_backgroundpage_line14 === 2. Select _8880_ card and lock it.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Battery Saver
+device_backgroundpage_line17 === 1. Open Settings.
+device_backgroundpage_line18 === 2. Select Advanced settings.
+device_backgroundpage_line19 === 3. Select Battery manager.
+device_backgroundpage_line20 === 4. Select Protected apps.
+device_backgroundpage_line21 === 5. Find _8880_ and turn on the switch.
+device_backgroundpage_line22 === If the EMUI version is updated recently, it's unnecessary to make changes in Settings.
+device_backgroundpage_line23 === Lock the App
+device_backgroundpage_line24 === 1. Tap Menu button, enter Recents page.
+device_backgroundpage_line25 === 2. Pull down _8880_ until a lock icon apprears.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Battery Saver
+device_backgroundpage_line28 === 1. Tap Smart Manager.
+device_backgroundpage_line29 === 2. Select Battery and tap to enter settings page.
+device_backgroundpage_line30 === 3. Tap Unmonitored apps, find _8880_ and tap to enter.
+device_backgroundpage_line31 === 4. Tap Battery and tap Optimize battery usage.
+device_backgroundpage_line32 === 5. Select All apps, find _8880_ and turn off the switch.
+device_backgroundpage_line33 === Lock the App
+device_backgroundpage_line34 === 1. Tap the Menu button and enter the recently opened program pages.
+device_backgroundpage_line35 === 2. Tap the More icon to select Lock apps.
+device_backgroundpage_line36 === 3. Tap the Lock icon of _8880_.
+device_backgroundpage_line37 === 4. Tap Done to complete the action.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Lock the App
+device_backgroundpage_line40 === 1. Swipe up on the left side of Home screen to enter "Recents".
+device_backgroundpage_line41 === 2. Press and hold _8880_ until a lock icon appears.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Battery Saver
+device_backgroundpage_line44 === 1. Open Settings and tap Battery.
+device_backgroundpage_line45 === 2. Tap Energy Saver.
+device_backgroundpage_line46 === 3. Find _8880_ to turn off Background Freeze and Abnormal Apps Optimization.
+device_backgroundpage_line47 === If you can't set after you complete the above steps, try the following:
+device_backgroundpage_line48 === 1. Open Phone Manager and find Clean Background.
+device_backgroundpage_line49 === 2. Tap to add app.
+device_backgroundpage_line50 === 3. Tick _8880_ and tap OK.
+device_backgroundpage_line51 === Lock the App
+device_backgroundpage_line52 === 1. Tap Menu button, enter Recents page.
+device_backgroundpage_line53 === 2. Pull down _8880_ until a lock icon apprears.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Battery Saver
+device_backgroundpage_line56 === 1. Open Manager and tap Power manager.
+device_backgroundpage_line57 === 2. Select Backstage power.
+device_backgroundpage_line58 === 3. Find _8880_ and turn on the switch.
+device_backgroundpage_line59 === Lock the App
+device_backgroundpage_line60 === 1. Tap Menu button, enter Recents page.
+device_backgroundpage_line61 === 2. Pull down _8880_ until a lock icon apprears.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Battery Saver
+device_backgroundpage_line64 === 1. Open Phone Manager.
+device_backgroundpage_line65 === 2. Tap App Battery Use Optimization.
+device_backgroundpage_line66 === 3. Find _8880_ and turn off the switch.
+device_backgroundpage_line67 === Lock the App
+device_backgroundpage_line68 === 1. Double-tap the Menu button, enter Recents page.
+device_backgroundpage_line69 === 2. Press and hold _8880_ until a pushpin icon appears.
+device_backgroundpage_line70 === Other Brands
+device_backgroundpage_line71 === 1. Lock _8880_ app in Recents.
+device_backgroundpage_line72 === 2. Add _8880_ to exceptions.
+device_backgroundpage_line73 === 3. If you've installed another startup manager, remove _8880_ from its blocklist.
+dashboard_adminmarketing_pushbtndesc === Broadcast push notification to devices
+dashboard_adminmarketing_notifybtndesc === Broadcast browser notification to users
+dashboard_adminmarketing_mailerbtndesc === Send bulk email to users
+js_loader_pleasewait === Please wait
+js_userstatus_online === Online
+js_userstatus_offline === Offline
+js_whatsapp_linksuccess === WhatsApp account has been linked successfully!
+js_whatsapp_linkfailed === WhatsApp account linking failed!
+js_whatsapp_linkexist === WhatsApp was already linked to your account!
+js_whatsapp_loaderprocessing === Processing request
+js_clearpending_title === Clear Pending?
+js_clearpending_desc === All items awaiting for sending will be cleared and deleted!
+js_clearpending_processing === Processing request
+js_authenticate_processing === Processing request
+js_actiontrigger_title === Simulate Webhook
+js_actiontrigger_typetitle === Data Type
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Notification
+js_actiontrigger_loader === Simulating webhook
+js_actiontranslator_title === Translator
+js_actiontranslator_from === Translate From
+js_actiontranslator_to === Translate To
+js_actiontranslator_loader === Translating message
+js_actionregen_title === Regenerate System Token?
+js_actionregen_desc === Creating a new system token is irreversible!
+js_actionregen_loader === Generating token
+js_actionclear_title === Clear Cache?
+js_actionclear_desc === All system cache data will be cleared!
+js_processing_dataloader === Processing request
+js_build_title === Build New APK?
+js_build_desc === Please make sure that you have configured your builder settings properly!
+js_build_btnbuild === Build
+js_reorder_title === Reorder Languages?
+js_reorder_desc === Languages will be reordered, this can't be undone!
+js_deletetrash_title === Delete Items?
+js_deletetrash_desc === Do you want to delete the selected items?
+js_tablesexport_copy === Clipboard
+js_tablesexport_excel === Export Excel
+js_tablesexport_pdf === Export PDF
+mail_expiredtpl_line1 === Hi there,
+mail_expiredtpl_line2 === You received this message because your active premium package subscription has already expired!
+mail_expiredtpl_line3 === Your subscription has been removed. To subscribe again to any premium package, just visit our site.
+mail_expiredtpl_line4 === For questions and issues, please don't hesitate to contact us!
+mail_expiredtpl_line5 === Thank you!
+mail_expiringtpl_line1 === Hi there,
+mail_expiringtpl_line2 === This is a friendly reminder your active premium package subscription will expire in 5 days!
+mail_expiringtpl_line3 === To prevent service interruptions, please don't forget to subscribe again to any premium package. Please visit our site to order again.
+mail_expiringtpl_line4 === For questions and issues, please don't hesitate to contact us!
+mail_expiringtpl_line5 === Thank you!
+mail_failedtpl_line1 === Hi there,
+mail_failedtpl_line2 === We are unable to process your payment transaction, please try again using a different provider or payment method.
+mail_failedtpl_line3 === Payment ID:
+mail_failedtpl_line4 === Sorry for the inconvenience.
+mail_forgottpl_line1 === Hi there,
+mail_forgottpl_line2 === We've received an account retrieval request for your account, please use this temporary password to login:
+mail_forgottpl_line3 === Don't forget to change your password after logging in!
+mail_forgottpl_line4 === The password will expire after 10 minutes, be quick. If you didn't requested this, please ignore this email.
+mail_forgottpl_line5 === Thank you! Hope it works.
+mail_payoutpaidtpl_line1 === Hi there,
+mail_payoutpaidtpl_line2 === Your payout request has been sent by our team to your address and selected payment provider.
+mail_payoutpaidtpl_line3 === Amount:
+mail_payoutpaidtpl_line4 === Happy spending!
+mail_payoutrejecttpl_line1 === Hi there,
+mail_payoutrejecttpl_line2 === We are unable to process your payout request, there might be an issue with your payment address. Please contact our team to know more.
+mail_payoutrejecttpl_line3 === Amount:
+mail_payoutrejecttpl_line4 === Sorry for the inconvenience.
+mail_subscribetpl_line1 === Hi there,
+mail_subscribetpl_line2 === Thank you for subscribing to one of our premium packages, here's a little run down of your purchase:
+mail_subscribetpl_line3 === _8880_ Package
+mail_subscribetpl_line4 === This subscription will expire after _8880_
+mail_subscribetpl_line5 === This will take effect immediately. For questions and issues, please don't hesitate to contact us!
+mail_subscribetpl_line6 === Thank you!

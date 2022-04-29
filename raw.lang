@@ -2317,3 +2317,6 @@ mail_subscribetpl_line3 === _8880_ Package
 mail_subscribetpl_line4 === This subscription will expire after _8880_
 mail_subscribetpl_line5 === This will take effect immediately. For questions and issues, please don't hesitate to contact us!
 mail_subscribetpl_line6 === Thank you!
+requests_build_submitrequest === Processing request
+requests_reorder_loader === Processing request
+requests_deleteitem_loader === Processing request

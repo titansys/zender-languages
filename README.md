@@ -9,7 +9,7 @@
 | Gateway | Status | Author |
 | ------ | ------ | ------ |
 | English | Released | Titan Systems |
-| Chinese | Released | yxcker |
+| Chinese | Released | [yxcker](https://codecanyon.net/user/yxcker) |
 
 
 # Translating

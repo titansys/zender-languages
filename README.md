@@ -6,9 +6,11 @@
 
 # Available Languages
 
-| Gateway | Status |
-| ------ | ------ |
-| English | Released |
+| Gateway | Status | Author |
+| ------ | ------ | ------ |
+| English | Released | Titan Systems |
+| Chinese | Released | yxcker |
+
 
 # Translating
 

@@ -2299,3 +2299,10 @@ mail_subscribetpl_line6 === 谢谢！
 requests_build_submitrequest === 处理请求
 requests_reorder_loader === 处理请求
 requests_deleteitem_loader === 处理请求
+requests_packageform_invalidint === 某些字段包含无效整数！
+widgets_viewbank_title === 银行转帐
+modal_paymentbtn_banktransfer === 银行转帐
+modal_adminsettings_banktransfer1 === 银行转账模板
+modal_adminsettings_banktransfer2 === 如果您在付款选项中启用了银行转帐，则应为其创建一个模板，这是用户单击按钮时将看到的内容。您可以在此处添加说明和银行地址。接受 HTML。
+modal_adminsettings_banktransfer3 === 您可以在银行转账模板中使用的一组变量。
+requests_delete_pluginssuccess === 插件已成功删除！

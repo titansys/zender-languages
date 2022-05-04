@@ -48,9 +48,6 @@ and_dash_pg_rates_line39 === Partners
 and_dash_pg_reg_line15 === Register with Facebook
 and_dash_pg_reg_line20 === Register with Google
 and_dash_pg_reg_line25 === Register with VKontakte
-and_dash_pg_uns_line10 === Unsubscribed
-and_dash_pag_uns_line40 === Unsubscribed
-and_dash_pag_uns_line42 === You have unsubscribed from our sending list.
 and_dash_pg_whats_line10 === WhatsApp
 and_dash_pg_whats_line10_1 === Beta
 and_dash_pg_whats_line28 === Sent
@@ -1333,10 +1330,10 @@ form_fullname === Full Name
 form_cpassword === Confirm Password
 form_haveaccount === I Have An Account
 datatable_processing === Processing, please wait...
-datatable_length === Showing 88881 entries
-datatable_info === Showing 88882 to 88883 of 88884 entries
+datatable_length === Showing _MENU_ entries
+datatable_info === Showing _START_ to _END_ of _TOTAL_ entries
 datatable_empty === Showing 0 to 0 of 0 entries
-datatable_filtered === (filtered from 88885 total entries)
+datatable_filtered === (filtered from _MAX_ total entries)
 datatable_loading === Loading, please wait...
 datatable_zero === We can't find anything matching your query!
 datatable_null === There are no data to display!
@@ -2320,3 +2317,10 @@ mail_subscribetpl_line6 === Thank you!
 requests_build_submitrequest === Processing request
 requests_reorder_loader === Processing request
 requests_deleteitem_loader === Processing request
+requests_packageform_invalidint === Some fields contain invalid integers!
+widgets_viewbank_title === Bank Transfer
+modal_paymentbtn_banktransfer === Bank Transfer
+modal_adminsettings_banktransfer1 === Bank Transfer Template
+modal_adminsettings_banktransfer2 === If you enabled bank transfer in the payment options, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
+modal_adminsettings_banktransfer3 === Set of variable you can use in the bank transfer template.
+requests_delete_pluginssuccess === Plugin has been successfully deleted!

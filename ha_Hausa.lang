@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Admin Panel
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === An tsara
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Sanarwa
+and_dashboard_pages_android_line58 === Na'urori
+and_dashboard_pages_contacts_line40 === Ba a yi rajista ba
+and_dashboard_pages_defailt_line37 === Ƙofar Ƙofar
+and_dashboard_pages_default_line42 === Docs
+and_dashboard_pages_default_line58 === Saƙonni
+and_dashboard_pages_default_line60 === Kwanaki 7 na ƙarshe
+and_dashboard_pages_default_line74 === Abubuwan da suka faru
+and_dashboard_pages_default_line76 === Kwanaki 7 na ƙarshe
+and_dashboard_pages_default_line90 === Abubuwan amfani
+and_dashboard_pages_default_line92 === Kwanaki 7 na ƙarshe
+and_dashboard_pages_default_line109 === Abokan hulɗa
+and_dashboard_pages_default_line117 === Abubuwan da ake samu
+and_dashboard_pages_default_line131 === Biya
+and_dashboard_pages_default_line140 === Ma'auni
+and_dashboard_pages_default_line148 === Kiredit
+and_dashboard_pages_default_line162 === Sama sama
+and_dashboard_pages_default_line170 === Rabon isarwa
+and_dash_pg_def_line178 === Nasara
+and_dash_pg_def_line190 === Ba a yi nasara ba
+and_dash_pg_def_line204 === Masu aikawa
+and_dash_pg_def_line209 === Ba a yi muku rajista ga kowane fakitinmu na ƙima ba!
+and_dash_pg_def_line217 === Na'urori
+and_dash_pg_def_line224 === An haɗa
+and_dash_pg_def_line232 === Asusu
+and_dash_pg_def_line239 === An haɗa
+and_dash_pg_def_line250 === Zazzage kuma shigar da aikace-aikacen mu na hukuma don samun mafi kyawun ƙwarewar mai amfani
+and_dash_pg_doc_line10 === Takardu
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooks
+and_dash_pg_doc_line40 === Ayyuka
+and_dash_pg_doc_line46 === Na'urori
+and_dash_pg_doc_line52 === Haɗin kai
+and_dash_pg_for_line29 === Soke
+and_dash_pg_log_line14 === Shiga tare da Facebook
+and_dash_pg_log_line17 === Shiga tare da Google
+and_dash_pg_log_line20 === Shiga tare da VKontakte
+and_dash_pg_log_line54 === Kirkira ajiya
+and_dash_pg_pay_line45 === Mun sami buƙatar odar ku, tsarin mu zai aiko muku da imel ta atomatik kuma zai yi amfani da canje-canje a asusunku da zarar an tabbatar da cinikin biyan kuɗi.
+and_dash_pg_rates_line10 === Ƙofar Ƙofar
+and_dash_pg_rates_line39 === Abokan hulɗa
+and_dash_pg_reg_line15 === Yi rijista da Facebook
+and_dash_pg_reg_line20 === Yi rijista da Google
+and_dash_pg_reg_line25 === Yi rajista tare da VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === An aika
+and_dash_pg_whats_line34 === An karɓa
+and_dash_pg_whats_line40 === An tsara
+and_dash_pg_whats_line46 === Asusu
+and_dash_api_line17 === Sunan mabuɗin.
+and_dash_api_line19 === misali. Domin Sabar Nawa
+and_dash_api_line24 === Maɓalli izini.
+and_dash_auto_line17 === Sunan aiki.
+and_dash_auto_line19 === misali. Michael
+and_dash_auto_line24 === Source
+and_dash_auto_line24_1 === Tushen karɓar taron.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Amsa kalmomin da aka raba ta waƙafi. Waɗannan kalmomin shiga za su haifar da amsa ta atomatik idan an gano su a cikin abun cikin saƙon.
+and_dash_auto_line36 === misali. na gode, okay, yi subscribing, iya
+and_dash_auto_line41 === Sakon da za a aika zuwa ga mai aikawa.
+and_dash_auto_line43 === misali. Sakon amsawar ku anan, gajerun lambobi sun karɓi
+and_dash_auto_line48 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonku.
+and_dash_con_line24 === Lambar tuntuɓar.
+and_dash_con_line31 === Ƙungiyar tuntuɓar juna.
+and_dash_con_line17 === Sunan tuntuɓar
+and_dash_cre_line28 === Sayi
+and_dash_gate_line17 === Suna
+and_dash_gate_line17_1 === Wannan shine sunan ƙofar da za a nuna wa masu amfani da ku.
+and_dash_gate_line19 === misali. Twilio
+and_dash_gate_line24 === Mai sarrafawa
+and_dash_gate_line24_1 === Zaɓi fayil ɗin mai sarrafa ƙofa, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
+and_dash_gate_line27 === Tushen Tufafin Mai Sarrafa:
+and_dash_gate_line34 === Komawa kira
+and_dash_gate_line34_1 === Idan an kunna, za a buƙaci tabbatar da saƙon ta amfani da fasalin dawo da kira na ƙofofin ƙofa na 3 don aikawa, in ba haka ba, saƙonnin za a yi alama nan da nan kamar yadda aka aiko lokacin aikawa.
+and_dash_gate_line37 === Kunna
+and_dash_gate_line38 === A kashe
+and_dash_gate_line44 === ID na dawowa
+and_dash_gate_line44_1 === Idan an kunna dawo da kira, dole ne ku kwafi wannan ID ɗin kuma ku liƙa zuwa ga mai sarrafa ku don tsarin zai iya gano abin da aka dawo da shi.
+and_dash_gate_line47 === Kwafi da liƙa don ID na dawowa
+and_dash_gate_line54 === Farashi
+and_dash_gate_line54_1 === Teburin farashin ku na al'ada don wannan ƙofar. Wannan zai ba ku damar yin caji a saman farashin ɓangare na uku. Misali, idan twilio yana cajin 0.01 don ƙayyadadden ƙasa, to zaku iya cajin 0.02 maimakon, kuɗin yana dogara ne akan tsarin kuɗin ku. Da fatan za a bi tsarin farashi daidai.
+and_dash_gate_line57 === Misalin Farashin JSON:
+and_dash_gate_line57_1 === Zazzagewa
+and_dash_grp_line17 === Sunan rukuni.
+and_dash_grp_line19 === misali. Abokai
+and_dash_hook_line17 === Sunan aiki.
+and_dash_hook_line19 === misali. Gwajin Aiki
+and_dash_hook_line24 === Source
+and_dash_hook_line24_1 === Tushen taron.
+and_dash_hook_line34 === Zaɓi taron da za a kira wannan ƙugiya.
+and_dash_hook_line44 === Tsarin hanyar haɗin ƙugiya, wannan shine url ɗin da tsarin zai kira. Hanyar GET kawai ake tallafawa.
+and_dash_hook_line51 === Saitin masu canji waɗanda za ku iya amfani da su a cikin URL ɗin ku.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Akan Aika
+and_dash_hook_line38 === Kan Karba
+and_dash_lang_line17 === Sunan harshe.
+and_dash_lang_line19 === misali. Yaren Koriya
+and_dash_lang_line24 === Lambar ƙasa.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Idan an kunna, za a gano harshe a matsayin dama zuwa hagu.
+and_dash_lang_line38 === Ee
+and_dash_lang_line39 === A'a
+and_dash_lang_line45 === Zaren fassara.
+and_dash_mail_line17 === Take
+and_dash_mail_line17_1 === Taken wasiku.
+and_dash_mail_line19 === misali. Sanarwa
+and_dash_mail_line24 === Masu amfani
+and_dash_mail_line24_1 === Aika ta masu amfani.
+and_dash_mail_line36 === Matsayi
+and_dash_mail_line36_1 === Aika ta hanyar ayyuka.
+and_dash_mail_line48 === Abun ciki
+and_dash_mail_line48_1 === Abun cikin saƙo, html an yarda.
+and_dash_mail_line50 === Sannu Duniya!
+and_dash_not_line17 === Take
+and_dash_not_line17_1 === Sanar da take.
+and_dash_not_line19 === misali. Sanarwa
+and_dash_not_line24 === Sako
+and_dash_not_line24_1 === Sanar da sako.
+and_dash_not_line31 === Launi
+and_dash_not_line31_1 === Sanar da launi.
+and_dash_not_line35 === Nasara
+and_dash_not_line36 === Gargadi
+and_dash_not_line37 === hadari
+and_dash_not_line43 === Hoto
+and_dash_not_line43_1 === Sanar da hoto, wannan zaɓi ne.
+and_dash_not_line46 === Na zaɓi
+and_dash_not_line53 === Masu amfani
+and_dash_not_line53_1 === Watsawa ta masu amfani.
+and_dash_not_line65 === Matsayi
+and_dash_not_line65_1 === Watsawa ta hanyar ayyuka.
+and_pack_line17 === Sunan kunshin
+and_pack_line19 === misali. Kunshin VIP
+and_pack_line24 === Farashin fakitin, wannan yakamata ya bi kudin tsarin. Ba a yarda da ƙimar masu iyo.
+and_pack_line29 === misali. 25
+and_pack_line34 === Idan an kunna, saƙonni da hirarrakin whatsapp zasu ƙunshi alamar ƙafa lokacin da masu karɓa suka karɓa.
+and_pack_line44 === Idan an kunna, za a ɓoye fakitin daga tsarin fakitin da shafin gida.
+and_pack_line58 === Iyakancin Aika SMS
+and_pack_line58_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line60 === misali. 300
+and_pack_line65 === Iyakar Karbar SMS
+and_pack_line65_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line67 === misali. 150
+and_pack_line72 === USSD iyaka
+and_pack_line72_1 === Matsakaicin adadin ussd wanda mai amfani zai iya nema kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line74 === misali. 25
+and_pack_line79 === Iyakar Sanarwa
+and_pack_line79_1 === Matsakaicin adadin sanarwar da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line81 === misali. 1300
+and_pack_line86 === Matsakaicin adadin na'urorin android waɗanda za a iya haɗa su zuwa asusun mai amfani. Shigar da 0 don mara iyaka.
+and_pack_line88 === misali. 25
+and_pack_line92 === Saitunan WhatsApp
+and_pack_line97 === Matsakaicin adadin taɗi wanda mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line99 === misali. 300
+and_pack_line104 === Matsakaicin adadin taɗi wanda mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_pack_line106 === misali. 150
+and_pack_line111 === Iyakar Asusu
+and_pack_line111_1 === Matsakaicin adadin asusun WhatsApp waɗanda za a iya haɗa su da asusun mai amfani. Shigar da 0 don mara iyaka.
+and_pack_line113 === misali. 10
+and_pack_line117 === Saitunan Utility
+and_pack_line122 === Matsakaicin adadin lambobin sadarwa waɗanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka.
+and_pack_line124 === misali. 25
+and_pack_line129 === Iyakar da aka tsara
+and_pack_line129_1 === Matsakaicin adadin saƙonnin da aka tsara/taɗi wanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka. Ana haɗa wannan don duka SMS da whatsapp.
+and_pack_line131 === misali. 25
+and_pack_line136 === Matsakaicin adadin maɓallan API waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_pack_line138 === misali. 10
+and_pack_line143 === Matsakaicin adadin Webhooks waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_pack_line145 === misali. 5
+and_pack_line150 === Iyakar Ayyuka
+and_pack_line150_1 === Matsakaicin adadin Ayyukan da za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_pack_line152 === misali. 5
+and_page_line17 === Sunan shafin.
+and_page_line24 === Ayyukan da aka zaɓa kawai za su sami damar shiga wannan shafin.
+and_page_line35 === Idan an kunna, ba za a sami damar shafi ba idan ba a shiga ba.
+and_page_line45 === Abun cikin shafi. An ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
+and_payout_line17 === Adadin
+and_payout_line17_1 === Adadin da za a cire, duka lambobi kawai.
+and_payout_line19 === misali. 50
+and_payout_line24 === Mai bayarwa
+and_payout_line24_1 === Zaɓi mai bada biyan kuɗi da kuke son amfani da shi don karɓar kuɗin.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Adireshin Biyan Kuɗi
+and_payout_line34_1 === Adireshin biyan kuɗi ko imel, da fatan za a bincika a hankali don hana al'amuran biyan kuɗi.
+and_payout_line36 === misali. Imel ɗin ku na PayPal
+and_payout_line43 === nema
+and_plug_line17 === Fayil ɗin plugin
+and_plug_line17_1 === Plugin zip file, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
+and_push_line17 === Take
+and_push_line17_1 === Tura take.
+and_push_line19 === misali. Sanarwa
+and_push_line24 === Hoto
+and_push_line24_1 === Tura hoton thumbnail, wannan zaɓi ne.
+and_push_line27 === Na zaɓi
+and_push_line34 === Sako
+and_push_line34_1 === Tura sako.
+and_push_line41 === Masu amfani
+and_push_line41_1 === Watsawa ta masu amfani.
+and_push_line53 === Matsayi
+and_push_line53_1 === Watsawa ta hanyar ayyuka.
+and_role_line17 === Sunan aikin.
+and_role_line19 === misali. Mai haɓakawa
+and_role_line24 === Zaɓi izini da fasalulluka da kuke son kashewa/kunna don wannan rawar. Ana amfani da canje-canje a ainihin lokacin, ana sake loda shafukan burauzar masu amfani da aka haɗa tare da rawar ta atomatik.
+and_short_line17 === Suna
+and_short_line17_1 === Sunan gajarta.
+and_short_line19 === misali. Dan kadan
+and_short_line24 === Mai sarrafawa
+and_short_line24_1 === Zaɓi fayil ɗin mai gajarta, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
+and_short_line27 === Tushen Tufafin Mai Sarrafa:
+and_sms_line17 === Sunan saƙon da aka tsara.
+and_sms_line19 === misali. Sakona
+and_sms_line24 === Zaɓi ranar jadawalin.
+and_sms_line26 === misali. 22/06/2020 12:00 na safe
+and_sms_line31 === Idan an kunna, za a tsara saƙon duk lokacin da aka tsara kwanan watan.
+and_sms_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
+and_sms_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
+and_sms_line67 === Shortener
+and_sms_line67_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_sms_line70 === Kar a rage hanyoyin sadarwa
+and_sms_line79 === Yanayin Ƙofar
+and_sms_line79_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
+and_sms_line82 === Na'urori
+and_sms_line83 === Kiredit
+and_sms_line88 === Ramin katin SIM don amfani.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Samfuran saƙonku da aka riga aka yi.
+and_sms_line110 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
+and_sms_line121 === SMS Gateway
+and_sms_line121_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
+and_sms_line141 === Spintax
+and_sms_line144 === Misali:
+and_sms_line144_1 === Tom a
+and_sms_line144_2 === cat
+and_sms_line147 === Da dabi'u
+and_sms_line147_1 === mai kyau
+and_sms_line147_2 === kuma
+and_sms_line147_3 === mara kyau
+and_sms_line147_4 === za a yi amfani da shi ba da gangan ba.
+and_subs_line17 === Asusun mai amfani.
+and_subs_line28 === Kunshin biyan kuɗi.
+and_subs_line41 === Tsawon lokacin biyan kuɗi.
+and_subs_line43 === misali. 12
+and_temp_line17 === Sunan samfuri.
+and_temp_line24 === Tsarin samfuri.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_temp_line35 === Misali:
+and_temp_line35_1 === Tom a
+and_temp_line35_2 === cat
+and_temp_line38 === Da dabi'u
+and_temp_line38_1 === mai kyau
+and_temp_line38_2 === mara kyau
+and_temp_line38_3 === za a yi amfani da shi ba da gangan ba.
+and_temp_line43 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_user_line17 === Cikakken suna na doka.
+and_user_line19 === misali. Michael Cors
+and_user_line24 === Adireshin imel ingantacce.
+and_user_line26 === misali. mai amfani @mail.com
+and_user_line31 === Shigar da kalmar wucewa ta mai amfani.
+and_user_line38 === Yankin lokacin wurin mai amfani, canza wannan idan suna cikin wata ƙasa daban. Ana amfani da yankin lokaci don daidaiton kwanan wata da lokaci na saƙonnin da aka aiko da sauran bayanai.
+and_user_line49 === Ƙasa
+and_user_line49_1 === Ƙasar mai amfani, ana amfani da wannan don biyan kuɗi da tsara lambar waya.
+and_user_line60 === Sanarwa Sauti
+and_user_line60_1 === Idan an kashe, sanarwar za ta yi shiru.
+and_user_line70 === Zaɓi rawar mai amfani.
+and_user_line81 === Zaɓi harshen mai amfani.
+and_user_line92 === Shirin Abokin Hulɗa
+and_user_line92_1 === Idan an kunna, mai amfani zai iya amfani da na'urorin su azaman na'urori na duniya wanda zai ba su damar samun kuɗi lokacin da sauran masu amfani ke aika saƙonni ta amfani da na'urorin su.
+and_ussd_line17 === USSD Code
+and_ussd_line17_1 === USSD code code.
+and_ussd_line19 === misali. *121#
+and_ussd_line24 === Ramin katin SIM don amfani.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Na'urorinku masu alaƙa, zaɓi abin da kuke son amfani da su don buƙatar ussd.
+and_ussd_line47 === nema
+and_vouch_line17 === Sunan baucan.
+and_vouch_line19 === misali. Na musamman
+and_vouch_line24 === Adadin baucan da kuke son ƙirƙirar. Matsakaicin darajar shine 1000!
+and_vouch_line26 === misali. 100
+and_vouch_line31 === Tsawon lokacin biyan kuɗi.
+and_vouch_line33 === misali. 12
+and_vouch_line38 === Kunshin biyan kuɗi.
+and_web_line17 === Sunan Webhook.
+and_web_line24 === Karɓi Events
+and_web_line24_1 === Zaɓi abubuwan karɓan da kuke buƙata, za a aika su zuwa url ƙugiya na gidan yanar gizon ku ta hanyar POST.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Sanarwa
+and_web_line36 === url na gidan yanar gizon ku, duk bayanan da aka biya za a aika su nan ta hanyar POST.
+and_web_line38 === misali. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Sunan tattaunawar da aka tsara.
+and_whatssched_line19 === misali. Sakona
+and_whatssched_line24 === Zaɓi ranar jadawalin.
+and_whatssched_line26 === misali. 22/06/2020 12:00 na safe
+and_whatssched_line31 === Idan an kunna, za a tsara taɗi a duk lokacin da aka tsara kwanan watan.
+and_whatssched_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
+and_whatssched_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
+and_whatssched_line67 === Shortener
+and_whatssched_line67_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_whatssched_line70 === Kar a rage hanyoyin sadarwa
+and_whatssched_line79 === Asusu
+and_whatssched_line79_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
+and_whatsached_line88 === Samfuran saƙonku da aka riga aka yi.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_whatssched_line107 === Misali:
+and_whatssched_line101_1 === Tom a
+and_whatssched_line107_2 === cat
+and_whatssched_line110 === Da dabi'u
+and_whatssched_line110_1 === mai kyau
+and_whatssched_line110_2 === kuma
+and_whatssched_line110_3 === mara kyau
+and_whatssched_line110_4 === za a yi amfani da shi ba da gangan ba.
+and_whatssched_line115 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_whatssched_line128 === Sallama
+and_whatsapp_line15 === Haɗa WhatsApp ɗin ku ta danna maɓallin don nuna QRCode sannan ku duba ta
+and_whatsapp_line15_1 === Link A Na'ura
+and_whatsapp_line15_2 === button a cikin app. Kuna da daƙiƙa 60 kawai don duba QRCode.
+and_whatsapp_line16 === Link Account
+and_add_widget_line17 === Sunan widget.
+and_add_widget_line24 === Alamar widget, don modal kawai. Da fatan za a ziyarci layi mai ban mamaki don alamar alamar.
+and_add_widget_line26 === misali. la la-info-circle
+and_add_widget_line31 === Nau'in widget. Tubalan don sanyawa zuwa sassa daban-daban na samfuri ne, ƙirar ƙira don abun ciki mai ƙarfi ne. Tun da v3, modals kawai za su yi aiki a cikin dashboard.
+and_add_widget_line34 === Toshe
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Girman widget, don modal kawai.
+and_add_widget_line53 === Matsayin widget, don modal kawai.
+and_add_widget_line64 === Abubuwan widget. Ana ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
+and_add_widget_line66 === Sannu Duniya!
+and_admin_build_line16 === Aikace-aikace
+and_admin_build_line21 === Sunan fakitin app, yakamata ya zama na musamman kuma ya bi yanki kamar tsari kamar com.yourdomain.yourapp, muna ba da shawarar bin sunan yankin ku don sanya shi na musamman.
+and_admin_build_line23 === misali. com.gateway.samfurin
+and_admin_build_line28 === Sunan app, ana nuna wannan a cikin aljihunan app da sauran sassan app.
+and_admin_build_line30 === misali. Zender Gateway
+and_admin_build_line35 === Bayanin app, taƙaitaccen bayanin app ɗin ku.
+and_admin_build_line42 === Jigon Launi na App
+and_admin_build_line42_1 === Jigon launi na aikace-aikacen, ana ba da shawarar dacewa da wannan tare da tambarin app ɗin ku da kuma fashe launukan hoto.
+and_admin_build_line44 === misali. #000000
+and_admin_build_line49 === Shafin APK
+and_admin_build_line_49_1 === Sigar APK, idan kuna sake gina ƙa'idar ku, da fatan za a sabunta wannan filin ta haɓaka ƙimar, idan ƙimar yanzu ta 1, yakamata ku ƙara shi zuwa 2 kafin gina app ɗin ku. Ana buƙatar wannan don kunna fasalin sabuntawa a cikin ƙa'idar kuma zai tilasta mai amfani ya ɗaukaka.
+and_admin_build_line51 === misali. 1.0
+and_admin_build_line56 === Gina Imel
+and_admin_build_line_56_1 === Imel ɗin ku mai aiki, da fatan za a tabbatar da canza wannan. Za a aika da sakamakon ginin zuwa wannan imel ɗin!
+and_admin_build_line58 === misali. myvalidemail@mail.com
+and_admin_build_line62 === Takaddun shaida
+and_admin_build_line67 === Ayyukan Google
+and_admin_build_line67_1 === Fayil ɗin ku na google services json, ana buƙatar wannan don ma'amalar FCM a cikin ƙa'idar ƙofa.
+and_admin_build_line75 === Takaddun shaida na Firebase
+and_admin_build_line75_1 === Fayil na mai sarrafa firebase json, ana buƙatar wannan don ba da damar tsarin sadarwa tare da app.
+and_admin_build_line82 === Kadari
+and_admin_build_line87 === Tambarin hoton app, wannan shine hoton da aka nuna a cikin taken app. Girman da aka ba da shawarar sune 251x53 a px. Bayanin bayyane ya fi kyau.
+and_admin_build_line95 === App Login Login
+and_admin_build_line95_1 === Tambarin hoton shiga app, wannan shine hoton da aka nuna a tsarin shiga. Girman da aka ba da shawarar sune 250x100 a px da rubutu mai duhu. Bayanin bayyane ya fi kyau.
+and_admin_build_line103 === Alamar hoton app, ana nuna wannan a cikin aljihunan app da tsarin android. Girman da aka ba da shawarar sune 1024x1024 a px da tsarin png.
+and_admin_build_line111 === Hoton splashscreen app, ana nuna wannan lokacin da mai amfani ya buɗe app ɗin. Girman da aka ba da shawarar sune 2732x2732 a px da tsarin png.
+and_admin_build_line118 === Tsarin
+and_admin_build_line123 === JavaScript na al'ada
+and_admin_build_line123_1 === Idan kuna son amfani da lambar javascript ta al'ada, da fatan za a ƙara ta nan. Ana ɗora wannan abu mai ƙarfi a cikin ƙa'idar.
+and_admin_build_line125 === misali., faɗakarwa ('Hello Duniya!');
+and_admin_build_line130 === CSS na al'ada
+and_admin_build_line130_1 === Idan kana son amfani da lambar css ta al'ada, da fatan za a ƙara ta nan. Ana ɗora wannan abu mai ƙarfi a cikin ƙa'idar.
+and_admin_build_line137 === Tsarin Al'ada
+and_admin_build_line137_1 === Idan kuna son yin amfani da tsarin ƙa'idar ta al'ada, da fatan za a canza abun cikin html, idan ba ku san abin da kuke yi ba, da fatan za a bar ƙimar da ta dace.
+and_admin_build_line139 === Sannu Duniya!
+and_settings_line21 === Sunan rukunin yanar gizon, ana nuna wannan a duk inda ake buƙatar yin alama.
+and_settings_line23 === misali. Zander
+and_settings_line28 === Bayanin rukunin yanar gizon, wannan don haɓaka injin bincike ne, don haka ku kasance masu kirkira.
+and_settings_line30 === misali. Wannan sabis ɗin ƙofar SMS ne mai ban sha'awa
+and_settings_line35 === Lambar siyan envato ɗin ku, ana buƙatar wannan don buɗe wasu keɓantattun fasalulluka na rubutun.
+and_settings_line37 === misali. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Maɓallin nazarin google ɗin ku, wannan zaɓin zaɓi ne saboda tsarin ya riga ya sami ginanniyar ƙididdiga na baƙi.
+and_settings_line44 === misali. Saukewa: UA-179148389-1
+and_settings_line49 === Ka'idar rukunin yanar gizon ku, da fatan za a tabbatar kun zaɓi daidai. Idan rukunin yanar gizon ku yana amfani da https, da fatan za a zaɓa shi, in ba haka ba, zaɓi http.
+and_settings_line59 === Tsohuwar harshen tsarin, ana amfani da wannan lokacin da sabon mai amfani ya ziyarci rukunin yanar gizon ku.
+and_settings_line70 === Idan an kashe, ba za a ba da izinin yin rajista ta shafin rajista ba.
+and_settings_line80 === Yanayin Sake saitin Kunshin
+and_settings_line80_1 === Tazarar sake saiti na iyakoki kamar aika, karɓa, ussd da sanarwa. Wannan ya shafi duka Android da WhatsApp fasali. Zaɓin ku anan dole ne kuma a yi amfani da shi a cikin saitin cron.
+and_settings_line83 === Kullum
+and_settings_line84 === kowane wata
+and_settings_line90 === Samfurin Kyauta
+and_settings_line90_1 === Idan an kunna, tsoho fakitin kyauta ana sanya shi ta atomatik ga mai amfani bayan rajista.
+and_settings_line100 === Idan an kashe, ba za a yi amfani da shafin gida ba. Duk ziyarce-ziyarcen da ke cikin tushen adireshin za a karkatar da su zuwa dashboard.
+and_settings_line110 === TAWK Widget din Taɗi
+and_settings_line110_1 === Idan an kunna tawk widget din tawk zai bayyana ga masu amfani.
+and_settings_line120 === Hanyar haɗin widget ɗin tawk ɗin ku, ana buƙatar wannan idan kuna son amfani da goyan bayan tawk taɗi.
+and_settings_line127 === API ɗin Admin
+and_settings_line127_1 === Zaɓi wuraren ƙarshen API ɗin mai gudanarwa da kuke son kunnawa. Ana ba da shawarar cewa ku kunna wuraren ƙarshen da kuke buƙata kawai.
+and_settings_line159 === Kada a raba wannan alamar ga kowa. Ana amfani da wannan don tsaro na cronjobs, tsarin API da sauran buƙatun waje. Idan kuna tunani, an lalata alamar tsarin ku, da fatan za a sake haifar da wani sabo, kuna buƙatar sake saita cronjobs ɗinku, API ɗin tsarin da sauran saitunan da ke da alaƙa bayan sabunta sabon alama.
+and_settings_line160 === Sake haɓakawa
+and_settings_line173 === Idan kuna son amfani da sabar saƙon da aka gina a ciki, da fatan za a zaɓi ɗan ƙasa, in ba haka ba, zaɓi smtp sannan ku daidaita bayanan saƙonku.
+and_settings_line183 === Ka'idar smtp don amfani, da fatan za a zaɓi ƙa'idar da ke goyan bayan sabar saƙon ku mai nisa.
+and_settings_line193 === Imel na rukunin yanar gizon, wannan shine sunan imel da aka nuna wa masu karɓa, ana ba da shawarar amfani da noreply@yoursite.com don dalilai masu alama.
+and_settings_line195 === misali. noreply@domain.com
+and_settings_line200 === Adireshin mai watsa shiri na sabar smtp na nesa.
+and_settings_line205 === misali. smtp.gmail.com
+and_settings_line210 === Tashar tashar sabar smtp mai nisa.
+and_settings_line215 === misali. 587
+and_settings_line220 === Sunan mai amfani na sabar smtp na nesa.
+and_settings_line225 === misali. username@gmail.com
+and_settings_line230 === kalmar sirrin sabar sabar smtp na nesa.
+and_settings_line235 === Lambar kalmar sirri ta asusun Gmail
+and_settings_line244 === Imel ɗin kasuwancin ku na PayPal.
+and_settings_line246 === misali. mail@domain.com
+and_settings_line251 === Idan an kunna, duk ma'amalolin PayPal za a karkatar da su zuwa yanayin sandbox.
+and_settings_line261 === Maɓallin API ɗin ku.
+and_settings_line263 === misali. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Kuɗin tsarin da za a yi amfani da shi, za a yi amfani da wannan azaman tushe lokacin canza ma'amaloli zuwa USD.
+and_settings_line279 === Zaɓi masu ba da biyan kuɗi da kuke son amfani da su.
+and_settings_line293 === Ƙananan haruffa don saƙonni. Wannan ya shafi duka SMS da WhatsApp.
+and_settings_line295 === misali. 5
+and_settings_line300 === Matsakaicin haruffa don saƙonni. Wannan ya shafi duka SMS da WhatsApp. Shigar da 0 don haruffa marasa iyaka.
+and_settings_line302 === misali. 300
+and_settings_line307 === Alamar saƙon saƙo, ana haɗa wannan ga saƙonni idan kunshin su yana da alamar ƙafar sa.
+and_settings_line309 === misali. An aika daga Tsarin Zender
+and_settings_line318 === Tsohuwar adadin layuka don nunawa a teburin saƙonnin da aka aika. Wannan ya shafi duka SMS da WhatsApp.
+and_settings_line320 === misali. 10
+and_settings_line325 === Tsohuwar adadin layuka don nunawa a teburin saƙonnin da aka karɓa. Wannan ya shafi duka SMS da WhatsApp.
+and_settings_line327 === misali. 10
+and_settings_line336 === Idan an kunna, baƙi za su iya shiga ta amfani da asusun kafofin watsa labarun su.
+and_settings_line346 === Zaɓi masu samar da kafofin watsa labarun da kuke son amfani da su.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook ID
+and_settings_line357_1 === ID na app na Facebook, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line359 === misali. 738812983731558
+and_settings_line364 === Sirrin Facebook
+and_settings_line364_1 === Sirrin app na facebook, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line366 === misali. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === ID ɗin app na google, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line373 === misali. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Sirrin Google
+and_settings_line378_1 === Sirrin app na google, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line380 === misali. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK ID
+and_settings_line385_1 === ID na app na vkontakte, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line387 === misali. 7768236
+and_settings_line392 === VK sirri
+and_settings_line392_1 === Sirrin app ɗin vkontakte, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line394 === misali. POScEXENvjuTXPQ6MAjI
+and_settings_line403 === Idan an kunna, za a kuma nuna recaptcha a cikin shafin shiga. Da fatan za a tabbatar kun saita maɓallin recaptcha da sake kama sirri kafin kunna wannan fasalin ko kuma ba za ku iya shiga ba!
+and_settings_line413 === Maɓallin recaptcha, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line415 === misali. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Sirrin recaptcha, da fatan za a karanta takaddun don ƙarin bayani.
+and_settings_line422 === misali. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Haske
+and_theme_line17_1 === Hoton tambarin haske, ana nuna wannan a cikin shafin gida da shafukan tantancewa lokacin da ɓangaren bango ya yi duhu. Girman da aka ba da shawarar shine 250x50 a px.
+and_theme_line23 === Logo Dark
+and_theme_line223_1 === Hoton tambarin duhu, ana nuna wannan a cikin shafin gida da kuma shafukan tantancewa lokacin da ɓangaren bango ya kasance haske. Girman da aka ba da shawarar shine 250x50 a px.
+and_theme_line29 === Hoton favicon na rukunin yanar gizon, ana nuna wannan a cikin shafin mai lilo. Girman da aka ba da shawarar shine 50x50 a px.
+and_theme_line35 === Hoton Baya
+and_theme_line35_1 === Hoton bayan gida, ana nuna wannan a ko'ina. Ana ba da shawarar yin amfani da hoto mai girma.
+and_theme_line41 === Zaɓi jigon launi da kuke son amfani da shi don rukunin yanar gizon.
+and_theme_line46 === Zaɓi launi mai haske don rubutun.
+and_theme_line51 === Launin Spinner
+and_theme_line51_1 === Zaɓi launi da kake son amfani da shi don saman ajax spinner.
+and_theme_line58 === JavaScript na al'ada
+and_theme_line58_1 === Idan kuna son amfani da lambar javascript ta al'ada, da fatan za a ƙara ta nan. Ana ɗora wannan abu mai ƙarfi a kowane shafi.
+and_theme_line60 === Sannu Duniya!
+and_theme_line63 === CSS na al'ada
+and_theme_line63_1 === Idan kuna son canza wasu salon css, kuna iya yin shi anan.
+and_apikey_line17 === Sunan mabuɗin.
+and_apikey_line19 === misali. Domin Sabar Nawa
+and_apikey_line24 === Maɓalli izini.
+and_edit_auto_line17 === Sunan aiki.
+and_edit_auto_line19 === misali. Amsa ta atomatik
+and_edit_auto_line24 === Source
+and_edit_auto_line24_1 === Tushen karɓar taron.
+and_edit_auto_line34 === Amsa kalmomin da aka raba ta waƙafi. Waɗannan kalmomin shiga za su haifar da amsa ta atomatik idan an gano su a cikin abun cikin saƙon.
+and_edit_auto_line36 === misali. na gode, okay, yi subscribing, iya
+and_edit_auto_line41 === Sakon da za a aika zuwa ga mai aikawa.
+and_edit_auto_line43 === misali. Sakon amsawar ku anan, gajerun lambobi sun karɓi
+and_edit_auto_line48 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonku.
+and_edit_con_line17 === Sunan tuntuɓar
+and_edit_con_line19 === misali. Michael
+and_edit_con_line24 === Lambar tuntuɓar.
+and_edit_con_line31 === Ƙungiyar tuntuɓar juna.
+and_edit_dev_line16 === Cikakkun na'ura
+and_edit_dev_line21 === Sunan na'ura.
+and_edit_dev_line23 === misali. Na'urara
+and_edit_dev_line28 === Idan an kunna, za a aika saƙonni a cikin tsaka-tsaki tsakanin ƙima biyu. Kuna iya saita su a ƙasa.
+and_edit_dev_line38 === Mafi ƙarancin tazara a cikin daƙiƙa.
+and_edit_dev_line41 === misali. 5
+and_edit_dev_line46 === Matsakaicin tazara a cikin daƙiƙa.
+and_edit_dev_line49 === misali. 20
+and_edit_dev_line53 === Saitunan Sanarwa
+and_edit_dev_line58 === Aikace-aikace
+and_edit_dev_line58_1 === Shigar da sunayen fakitin ƙa'idodin da kuke son samun sanarwa daga gare su. Raba su ta hanyar layi.
+and_edit_dev_line65 === Saitunan Abokin Hulɗa
+and_edit_dev_line70 === Rate
+and_edit_dev_line70_1 === Adadin da kuke son cajin kowane saƙo, ƙasar na'urar za a yi amfani da ita azaman tushen kuɗi. Ana goyan bayan kimar sa iyo kamar cents.
+and_edit_dev_line73 === misali. 0.50
+and_edit_dev_line78 === Matsayin Duniya
+and_edit_dev_line78_1 === Idan an kashe, na'urar ba za ta kasance a matsayin ƙofar SMS ta duniya ba kuma ba za ku sami kuɗi ba. Lura cewa na'urorin duniya ba za su iya karɓar saƙonni saboda dalilai na tsaro.
+and_edit_dev_line89 === Ƙasa
+and_edit_dev_line89_1 === Ƙasar na'urar, ana amfani da ita don ƙayyade lambobin waya da kuma matsayin kuɗin tushe na filin ƙimar.
+and_edit_dev_line101 === fifiko
+and_edit_dev_line101_1 === Za a fara aika saƙonnin duniya kafin saƙon ku.
+and_edit_dev_line112 === Ramin SIM
+and_edit_dev_line112_1 === Zaɓi ramukan sim ɗin da kuke son amfani da su don aikawa, idan kun zaɓi duka biyun, za a aika saƙonnin a cikin bazuwar Ramin.
+and_edit_email_line16 === Samfurin Imel
+and_edit_email_line18 === HTML an yarda
+and_edit_gate_line17 === Suna
+and_edit_gate_line17_1 === Wannan shine sunan ƙofar da za a nuna wa masu amfani da ku.
+and_edit_gate_line19 === misali. Twilio
+and_edit_gate_line24 === Mai sarrafawa
+and_edit_gate_line24_1 === Zaɓi fayil ɗin mai sarrafa ƙofa, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
+and_edit_gate_line31 === Komawa kira
+and_edit_gate_line31_1 === Idan an kunna, za a buƙaci tabbatar da saƙon ta amfani da fasalin dawo da kira na ƙofofin ƙofa na 3 don aikawa, in ba haka ba, saƙonnin za a yi alama nan da nan kamar yadda aka aiko lokacin aikawa.
+and_edit_gate_line34 === Kunna
+and_edit_gate_line35 === A kashe
+and_edit_gate_line41 === ID na dawowa
+and_edit_gate_line41_1 === Idan an kunna dawo da kira, dole ne ku kwafi wannan ID ɗin kuma ku liƙa zuwa ga mai sarrafa ku don tsarin zai iya gano abin da aka dawo da shi.
+and_edit_gate_line44 === Kwafi da liƙa don ID na dawowa
+and_edit_gate_line51 === Farashi
+and_edit_gate_line51_1 === Teburin farashin ku na al'ada don wannan ƙofar. Wannan zai ba ku damar yin caji a saman farashin ɓangare na uku. Misali, idan twilio yana cajin 0.01 don ƙayyadadden ƙasa, to zaku iya cajin 0.02 maimakon, kuɗin yana dogara ne akan tsarin kuɗin ku. Da fatan za a bi tsarin farashi daidai.
+and_edit_gate_line54 === Misalin Farashin JSON:
+and_edit_gate_line54_1 === Zazzagewa
+and_edit_grp_line17 === Sunan rukuni.
+and_edit_grp_line19 === misali. Abokai
+and_edit_hook_line17 === Sunan aiki.
+and_edit_hook_line19 === misali. Gwajin Aiki
+and_edit_hook_line24 === Source
+and_edit_hook_line24_1 === Tushen taron.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Zaɓi taron da za a kira wannan ƙugiya.
+and_edit_hook_line37 === Akan Aika
+and_edit_hook_line38 === Kan Karba
+and_edit_hook_line44 === Tsarin hanyar haɗin ƙugiya, wannan shine url ɗin da tsarin zai kira. Hanyar GET kawai ake tallafawa.
+and_edit_hook_line51 === Saitin masu canji waɗanda za ku iya amfani da su a cikin URL ɗin ku.
+and_edit_lang_line17 === misali. Yaren Koriya
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Ee
+and_edit_lang_line33 === A'a
+and_edit_pack_line17 === Sunan kunshin
+and_edit_pack_line19 === misali. Kunshin VIP
+and_edit_pack_line24 === Farashin fakitin, wannan yakamata ya bi kudin tsarin. Ba a yarda da ƙimar masu iyo.
+and_edit_pack_line29 === misali. 25
+and_edit_pack_line34 === Idan an kunna, saƙonni da hirarrakin whatsapp zasu ƙunshi alamar ƙafa lokacin da masu karɓa suka karɓa.
+and_edit_pack_line44 === Idan an kunna, za a ɓoye fakitin daga tsarin fakitin da shafin gida.
+and_edit_pack_line53 === Saitunan Android
+and_edit_pack_line58 === Iyakancin Aika SMS
+and_edit_pack_line58_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line60 === misali. 300
+and_edit_pack_line65 === Iyakar Karbar SMS
+and_edit_pack_line65_1 === Matsakaicin adadin saƙonnin da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line67 === misali. 150
+and_edit_pack_line72 === USSD iyaka
+and_edit_pack_line72_1 === Matsakaicin adadin ussd wanda mai amfani zai iya nema kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line74 === misali. 25
+and_edit_pack_line79 === Iyakar Sanarwa
+and_edit_pack_line79_1 === Matsakaicin adadin sanarwar da mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line81 === misali. 1300
+and_edit_pack_line86 === Matsakaicin adadin na'urorin android waɗanda za a iya haɗa su zuwa asusun mai amfani. Shigar da 0 don mara iyaka.
+and_edit_pack_line88 === misali. 25
+and_edit_pack_line92 === Saitunan WhatsApp
+and_edit_pack_line97 === Matsakaicin adadin taɗi wanda mai amfani zai iya aikawa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line99 === misali. 300
+and_edit_pack_line104 === Matsakaicin adadin taɗi wanda mai amfani zai iya karɓa kafin sake saiti. Shigar da 0 don mara iyaka.
+and_edit_pack_line106 === misali. 150
+and_edit_pack_line111 === Iyakar Asusu
+and_edit_pack_line111_1 === Matsakaicin adadin asusun WhatsApp waɗanda za a iya haɗa su da asusun mai amfani. Shigar da 0 don mara iyaka.
+and_edit_pack_line113 === misali. 10
+and_edit_pack_line117 === Saitunan Utility
+and_edit_pack_line122 === Matsakaicin adadin lambobin sadarwa waɗanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka.
+and_edit_pack_line124 === misali. 25
+and_edit_pack_line129 === Iyakar da aka tsara
+and_edit_pack_line129_1 === Matsakaicin adadin saƙonnin da aka tsara/taɗi wanda mai amfani zai iya ajiyewa. Shigar da 0 don mara iyaka. Ana haɗa wannan don duka SMS da whatsapp.
+and_edit_pack_line131 === misali. 25
+and_edit_pack_line136 === Matsakaicin adadin maɓallan API waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_edit_pack_line138 === misali. 10
+and_edit_pack_line143 === Matsakaicin adadin Webhooks waɗanda za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_edit_pack_line145 === misali. 5
+and_edit_pack_line150 === Iyakar Ayyuka
+and_edit_pack_line150_1 === Matsakaicin adadin Ayyukan da za a iya ƙirƙira. Shigar da 0 don mara iyaka.
+and_edit_pack_line152 === misali. 5
+and_edit_page_line17 === Sunan shafin.
+and_edit_page_line24 === Ayyukan da aka zaɓa kawai za su sami damar shiga wannan shafin.
+and_edit_page_line35 === Idan an kunna, ba za a sami damar shafi ba idan ba a shiga ba.
+and_edit_page_line45 === Abun cikin shafi. An ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
+and_edit_role_line17 === Sunan aikin.
+and_edit_role_line19 === misali. Mai haɓakawa
+and_edit_role_line24 === Zaɓi izini da fasalulluka da kuke son kashewa/kunna don wannan rawar. Ana amfani da canje-canje a ainihin lokacin, ana sake loda shafukan burauzar masu amfani da aka haɗa tare da rawar ta atomatik.
+and_edit_short_line17 === Suna
+and_edit_short_line17_1 === Sunan gajarta.
+and_edit_short_line19 === misali. Dan kadan
+and_edit_short_line24 === Mai sarrafawa
+and_edit_short_line24_1 === Zaɓi fayil ɗin mai gajarta, wannan zai ƙunshi dabaru da lambar ku. Ana ba da shawarar duba takaddun.
+and_edit_sms_line17 === Sunan saƙon da aka tsara.
+and_edit_sms_line19 === misali. Sakona
+and_edit_sms_line24 === Zaɓi ranar jadawalin.
+and_edit_sms_line26 === misali. 22/06/2020 12:00 na safe
+and_edit_sms_line31 === Idan an kunna, za a tsara saƙon duk lokacin da aka tsara kwanan watan.
+and_edit_sms_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
+and_edit_sms_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
+and_edit_sms_line67 === Yanayin Ƙofar
+and_edit_sms_line67_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
+and_edit_sms_line70 === Na'urori
+and_edit_sms_line71 === Kiredit
+and_edit_sms_line76 === Ramin katin SIM don amfani.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
+and_edit_sms_line99 === SMS Gateway
+and_edit_sms_line99_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Misali:
+and_edit_sms_line122_1 === Tom a
+and_edit_sms_line122_2 === cat
+and_edit_sms_line125 === Da dabi'u
+and_edit_sms_line125_1 === mai kyau
+and_edit_sms_line125_2 === kuma
+and_edit_sms_line125_3 === mara kyau
+and_edit_sms_line125_4 === za a yi amfani da shi ba da gangan ba.
+and_edit_temp_line17 === Sunan samfuri.
+and_edit_temp_line24 === Tsarin samfuri.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_edit_temp_line35 === Misali:
+and_edit_temp_line35_1 === Tom a
+and_edit_temp_line35_2 === cat
+and_edit_temp_line38 === Da dabi'u
+and_edit_temp_line38_1 === mai kyau
+and_edit_temp_line38_2 === kuma
+and_edit_temp_line38_3 === mara kyau
+and_edit_temp_line38_4 === za a yi amfani da shi ba da gangan ba.
+and_edit_temp_line43 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_eduse_line17 === Cikakken sunan ku na doka, lura cewa yin amfani da sunan karya na iya sa a dakatar da asusunku.
+and_eduse_line19 === misali. Michael Cors
+and_eduse_line24 === Ingantacciyar adireshin imel, yi watsi da wannan filin idan kuna son kiyaye adireshin imel na yanzu.
+and_eduse_line26 === misali. mai amfani @mail.com
+and_eduse_line31 === Idan kana son kiyaye kalmar sirri ta yanzu, da fatan za a yi watsi da wannan filin, in ba haka ba, shigar da sabon kalmar sirri.
+and_eduse_line38 === Yankin lokacin wurin ku, canza wannan idan kuna cikin wata ƙasa daban. Ana amfani da yankin lokaci don daidaiton kwanan wata da lokaci na saƙonnin da kuka aiko da sauran bayanai.
+and_eduse_line49 === Ƙasa
+and_eduse_line49_1 === Kasar ku, ana amfani da wannan don biyan kuɗi da tsara lambar waya.
+and_eduse_line60 === Sanarwa Sauti
+and_eduse_line60_1 === Idan an kashe, sanarwar za ta yi shiru.
+and_eduse_line70 === Zaɓi rawar mai amfani.
+and_eduse_line81 === Zaɓi harshen mai amfani.
+and_eduse_line92 === Shirin Abokin Hulɗa
+and_eduse_line92_1 === Idan an kunna, mai amfani zai iya amfani da na'urorin su azaman na'urori na duniya wanda zai ba su damar samun kuɗi lokacin da sauran masu amfani ke aika saƙonni ta amfani da na'urorin su.
+and_edweb_line17 === Sunan Webhook.
+and_edweb_line24 === Karɓi Events
+and_edweb_line24_1 === Zaɓi abubuwan karɓan da kuke buƙata, za a aika su zuwa url ƙugiya na gidan yanar gizon ku ta hanyar POST.
+and_edweb_line30 === Sanarwa
+and_edweb_line36 === url na gidan yanar gizon ku, duk bayanan da aka biya za a aika su nan ta hanyar POST.
+and_edweb_line38 === misali. https://yourdomain.com/reply.php
+and_edwhat_line17 === Sunan tattaunawar da aka tsara.
+and_edwhat_line19 === misali. Sakona
+and_edwhat_line24 === Zaɓi ranar jadawalin.
+and_edwhat_line26 === misali. 22/06/2020 12:00 na safe
+and_edwhat_line31 === Idan an kunna, za a tsara taɗi a duk lokacin da aka tsara kwanan watan.
+and_edwhat_line42 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
+and_edwhat_line55 === Zaɓi ƙungiyoyin sadarwa da yawa
+and_edwhat_line67 === Asusu
+and_edwhat_line67_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
+and_edwhat_line76 === Samfuran saƙonku da aka riga aka yi.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_edwhat_line95 === Misali:
+and_edwhat_line95_1 === Tom a
+and_edwhat_line95_2 === cat
+and_edwhat_line98 === Da dabi'u
+and_edwhat_line98_1 === mai kyau
+and_edwhat_line98_2 === kuma
+and_edwhat_line98_3 === mara kyau
+and_edwhat_line98_4 === za a yi amfani da shi ba da gangan ba.
+and_edwhat_line103 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_edwhat_line116 === Sallama
+and_edwid_line17 === Sunan widget.
+and_edwid_line24 === Alamar widget, don modal kawai. Da fatan za a ziyarci layi mai ban mamaki don alamar alamar.
+and_edwid_line31 === Nau'in widget. Tubalan don sanyawa zuwa sassa daban-daban na samfuri ne, ƙirar ƙira don abun ciki mai ƙarfi ne. Tun da v3, modals kawai za su yi aiki a cikin dashboard.
+and_edwid_line34 === Toshe
+and_edwid_line35 === Modal
+and_edwid_line41 === Girman widget, don modal kawai.
+and_edwid_line53 === Matsayin widget, don modal kawai.
+and_edwid_line64 === Abubuwan widget. Ana ba da izinin duk alamun html, yi hankali lokacin ƙara rubutun daga tushen da ba a sani ba!
+and_import_line17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
+and_import_line20 === Misalin Fayil:
+and_import_line20_1 === Zazzagewa
+and_package_line36 === Karɓi SMS
+and_package_line41 === WhatsApp Aika
+and_package_line46 === WhatsApp karba
+and_package_line51 === USSD
+and_package_line56 === Sanarwa
+and_package_line61 === SMS/Taɗi da aka tsara
+and_package_line66 === Lambobin sadarwa
+and_package_line71 === Maɓallan API
+and_package_line76 === Webhooks
+and_package_line81 === Ayyuka
+and_package_line86 === Na'urorin Android
+and_package_line91 === WhatsApp Accounts
+and_redeem_line18 === Maida lambar.
+and_redeem_line20 === misali. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi. Saƙo 1 kawai za a aika zuwa lamba ko da kun zaɓi ƙungiyoyin da aka saka.
+and_sms_bulk_31 === Zaɓi ƙungiyoyin sadarwa da yawa. Saƙo 1 kawai za a aika zuwa lamba koda kun zaɓi ƙungiyoyi da yawa inda aka ƙara shi.
+and_sms_bulk_43 === Shortener
+and_sms_bulk_43_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_sms_bulk_46 === Kar a rage hanyoyin sadarwa
+and_sms_bulk_55 === Yanayin Ƙofar
+and_sms_bulk_55_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
+and_sms_bulk_58 === Na'urori
+and_sms_bulk_59 === Kiredit
+and_sms_bulk_64 === Ramin katin SIM don amfani.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Idan an kunna, za a aika waɗannan saƙonni kafin wani abu.
+and_sms_bulk_81 === Samfuran saƙonku da aka riga aka yi.
+and_sms_bulk_94 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
+and_sms_bulk_105 === SMS Gateway
+and_sms_bulk_105_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su
+and_sms_bulk_126 === Fassara saƙon.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_sms_bulk_135 === Misali:
+and_sms_bulk_143 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_sms_exe17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
+and_sms_exe20 === Misalin Fayil:
+and_sms_exe20_1 === Zazzagewa
+and_sms_exe27 === Shortener
+and_sms_exe27_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_sms_exe30 === Kar a rage hanyoyin sadarwa
+and_sms_exe39 === Yanayin Ƙofar
+and_sms_exe39_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
+and_sms_exe42 === Na'urori
+and_sms_exe43 === Kiredit
+and_sms_exe47 === Samfuran saƙonku da aka riga aka yi.
+and_sms_exe60 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
+and_sms_exe70 === SMS Gateway
+and_sms_exe70_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
+and_sms_exe92 === Fassara saƙon.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_sms_exe109 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_sms_quick17 === Lambar wayar mai karɓa.
+and_sms_quick24 === Yanayin Ƙofar
+and_sms_quick24_1 === Yanayin ƙofa da kake son amfani da shi. Idan ka zaɓi na'urori, za a nuna na'urorin da aka haɗa don aikawa, in ba haka ba, za a nuna ƙofofin ɓangare na uku da abokan tarayya.
+and_sms_quick27 === Na'urori
+and_sms_quick28 === Kiredit
+and_sms_quick34 === Shortener
+and_sms_quick34_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_sms_quick37 === Kar a rage hanyoyin sadarwa
+and_sms_quick46 === Ramin katin SIM don amfani.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Idan an kunna, za a aika waɗannan saƙonni kafin wani abu.
+and_sms_quick66 === Na'urorin da aka haɗa ku, zaɓi abin da kuke son amfani da shi don aikawa.
+and_sms_quick77 === SMS Gateway
+and_sms_quick77_1 === Ƙofar ƙofa ta 3 da abokan haɗin gwiwa, za a yi amfani da kiredit ɗin ku lokacin da kuka aika saƙonni ta amfani da waɗannan ƙofofin. Muna ba da shawarar ku duba farashin ƙofa kafin amfani da su.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_sysup17 === Sabunta Fayil
+and_sysup17_1 === Sabunta fayil ɗin zip, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
+and_upplug17 === Sabunta Fayil
+and_upplug17_1 === Sabunta fayil ɗin zip, da fatan za a tabbatar da zaɓar fayil ɗin daidai.
+and_uset17 === Hoton bayanin martabarku.
+and_uset24 === Cikakken sunan ku na doka, lura cewa yin amfani da sunan karya na iya sa a dakatar da asusunku.
+and_uset26 === misali. Michael Shmuck
+and_uset31 === Ingantacciyar adireshin imel ɗinku, yi watsi da wannan filin idan kuna son kiyaye adireshin imel ɗinku na yanzu.
+and_uset33 === misali. yourmail@mail.com
+and_uset38 === Yankin lokacin wurin ku, canza wannan idan kuna cikin wata ƙasa daban. Ana amfani da yankin lokaci don daidaiton kwanan wata da lokaci na saƙonnin da kuka aiko da sauran bayanai.
+and_uset49 === Ƙasa
+and_uset49_1 === Kasar ku, ana amfani da wannan don biyan kuɗi da tsara lambar waya.
+and_uset60 === Sanarwa Sauti
+and_uset60_1 === Idan an kashe, sanarwar za ta yi shiru.
+and_uset70 === Idan kuna son kiyaye kalmar sirrinku ta yanzu, da fatan za a yi watsi da wannan filin, in ba haka ba, shigar da sabon kalmar sirrinku.
+and_usub23 === Yana aiki har zuwa
+and_usub28 === SMS Aika
+and_usub34 === Karɓi SMS
+and_usub40 === WhatsApp Aika
+and_usub46 === WhatsApp karba
+and_usub57 === USSD
+and_usub63 === Sanarwa
+and_usub69 === SMS/Taɗi da aka tsara
+and_usub98 === Ayyuka
+and_usub104 === Na'urorin Android
+and_usub110 === WhatsApp Accounts
+and_view20 === Cikakken Duba
+and_whatsbulk_18 === Lambobin E.164 da yawa sun rabu ta hanyar karya layi.
+and_whatsbulk_31 === Zaɓi ƙungiyoyin sadarwa da yawa. Lura cewa idan lambar sadarwa tana da ƙungiyoyi da yawa, ana iya aika saƙon sau da yawa zuwa gare shi idan kun zaɓi ƙungiyoyin da aka haɗa shi.
+and_whatsbulk_43 === Shortener
+and_whatsbulk_43_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_whatsbulk_46 === Kar a rage hanyoyin sadarwa
+and_whatsbulk_55 === Asusu
+and_whatsbulk_55_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
+and_whatsbulk_64 === Samfuran saƙonku da aka riga aka yi.
+and_whatsbulk_79 === Fassara saƙon.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_whatsbulk_96 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_whatex17 === Fayil ɗin Excel da kake son shigo da shi, da fatan za a tabbatar da bin tsarin da ake buƙata.
+and_whatex20 === Misalin Fayil:
+and_whatex20_1 === Zazzagewa
+and_whatex27 === Shortener
+and_whatex27_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_whatex30 === Kar a rage hanyoyin sadarwa
+and_whatex39 === Asusu
+and_whatex39_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
+and_whatex48 === Samfuran saƙonku da aka riga aka yi.
+and_whatex63 === Fassara saƙon.
+and_whatex68 === Spintax
+and_whatex68_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_whatex80 === Saitin masu canji waɗanda zaku iya amfani da su a cikin saƙonninku.
+and_whatquick_17 === E.164 lambar wayar mai karɓa.
+and_whatquick_24 === Shortener
+and_whatquick_24_1 === Idan an kunna, za a gajarta hanyoyin haɗin yanar gizo ta atomatik ta amfani da gajeriyar da aka zaɓa.
+and_whatquick_27 === Kar a rage hanyoyin sadarwa
+and_whatquick_36 === Asusu
+and_whatquick_36_1 === Zaɓi asusun WhatsApp ɗin da kuke son amfani da shi.
+and_whatquick_50 === Fassara saƙon.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Siffar da ke ba ku damar bazuwar kalmomi a cikin saƙonnin ku waɗanda ke hana gano ɓoyayyen ɓoyayyiya.
+and_admin_api_3 === API ɗin Gudanarwa
+and_admin_fileman_3 === Editan Samfura
+and_admin_gate_3 === SMS Gateways
+and_admin_gate_8 === Ƙara Ƙofar
+and_admin_lang_6 === Sake yin oda harsuna
+and_admin_mark_3 === Talla
+and_admin_mark_6 === Share abubuwan da aka zaɓa
+and_admin_mark_12 === Tura
+and_admin_mark_17 === Sanarwa
+and_admin_mark_22 === Mai aikawa
+and_admin_payout_3 === Buƙatun Biyan Kuɗi
+and_admin_short_3 === Masu gajarta
+and_admin_short_8 === Ƙara Shortener
+and_admin_subs_8 === Ƙara Biyan Kuɗi
+and_admin_vouch_6 === Share abubuwan da aka zaɓa
+and_droid_dev_3 === Na'urorin Android
+and_droid_dev_6 === Karanta takardun
+and_droid_dev_8 === Docs
+and_droid_dev_11 === Aiwatar don zama abokin tarayya mai ba da ƙofa
+and_droid_dev_13 === Haɗin kai
+and_droid_dev_16 === Yi rijistar sabuwar na'urar android
+and_droid_not_3 === Sanarwa
+and_droid_not_6 === Share abubuwan da aka zaɓa
+and_droid_rev_3 === An karɓi SMS
+and_droid_rev_6 === Share saƙonnin da aka zaɓa
+and_droid_sched_6 === Share abubuwan da aka zaɓa
+and_droid_sent_3 === An aika SMS
+and_droid_sent_6 === Share abubuwan da aka zaɓa
+and_droid_sent_10 === Share duk saƙonnin da ke jiran aiki
+and_droid_sent_14 === Aika SMS mai sauri
+and_droid_sent_16 === Mai sauri
+and_droid_sent_19 === Aika SMS mai girma
+and_droid_sent_21 === Girma
+and_droid_sent_24 === Aika SMS mai yawa ta hanyar Excel
+and_droid_ussd_3 === Buƙatun USSD
+and_droid_ussd_6 === Share abubuwan da aka zaɓa
+and_droid_ussd_10 === Share duk buƙatun da ke jira
+and_droid_ussd_14 === Sabuwar Neman USSD
+and_droid_ussd_16 === nema
+and_con_grp_6 === Share abubuwan da aka zaɓa
+and_con_grp_10 === Ƙara sabon rukunin lamba
+and_con_sav_6 === Share abubuwan da aka zaɓa
+and_con_sav_10 === Ƙara sabuwar lamba
+and_con_sav_15 === Shigo da lambobin sadarwa daga fayil na Excel
+and_con_unsub_3 === Ba a yi rajista ba
+and_con_unsub_6 === Share abubuwan da aka zaɓa
+and_doc_act_3 === Ayyuka
+and_doc_api_3 === Takardun API
+and_doc_dev_3 === Na'urori
+and_doc_partner_3 === Haɗin kai
+and_doc_webhook_3 === Webhooks
+and_rate_gate_3 === Farashin
+and_rate_gate_10 === Ƙasa
+and_rate_gate_11 === Yawan Saƙo
+and_rate_gate_22 === Sauran Kasashe
+and_rate_partner_3 === Adadin Abokan Hulɗa
+and_tool_act_3 === Ayyuka
+and_tool_act_6 === Karanta takardun
+and_tool_act_8 === Docs
+and_tool_act_11 === Ƙara sabon aikin ƙugiya
+and_tool_act_13 === Kugiya
+and_tool_act_16 === Ƙara sabon aikin amsa kai tsaye
+and_tool_act_18 === Amsa ta atomatik
+and_tool_key_6 === Karanta takardun
+and_tool_key_8 === Docs
+and_tool_key_11 === Ƙirƙiri sabon maɓallin API
+and_tool_webhook_6 === Karanta takardun
+and_tool_webhook_8 === Docs
+and_what_accnt_6 === Haɗa sabon asusu
+and_what_accnt_8 === Ƙara Account
+and_what_attach_8 === Share saƙonnin da aka zaɓa
+and_what_rev_3 === Hirar da aka karɓa
+and_what_rev_6 === Share abubuwan da aka zaɓa
+and_what_sched_6 === Share abubuwan da aka zaɓa
+and_what_sched_12 === Jadawalin Taɗi
+and_what_sent_3 === Aiko Hirarraki
+and_what_sent_6 === Share abubuwan da aka zaɓa
+and_what_sent_10 === Aika Taɗi mai Sauri
+and_what_sent_12 === Mai sauri
+and_what_sent_15 === Aika Babban Taɗi
+and_what_sent_17 === Girma
+and_what_sent_20 === Aika Bulk Hirarraki ta hanyar Excel
+and_def_f_blck_6 === Fara Talla
+and_def_f_blck_7 === Bari mu fara kuma mu haɓaka kasuwanci tare, yin rijista yanzu kuma mu sami ingantaccen dandamali na talla!
+and_def_f_blck_8 === Shiga Mu
+and_def_f_blck_35 === Shiga Tunawa
+and_head_blck_21 === Gida
+and_head_blck_24 === Siffofin
+and_head_blck_27 === Farashi
+and_head_blck_30 === Abokan ciniki
+and_head_blck_39 === Dashboard
+and_head_blck_42 === Fita
+and_pages_default_8 === SMS da WhatsApp marketing a mafi kyau
+and_pages_default_29 === Saƙon SMS
+and_pages_default_31 === Yi amfani da na'urorin android ɗinku azaman ƙofar SMS, wannan yana da arha sosai fiye da amfani da ƙofofin ɓangare na uku.
+and_pages_default_40 === WhatsApp Saƙon
+and_pages_default_42 === Yi amfani da WhatsApp don kamfen ɗin tallanku, dandalinmu yana ba da kayan aikin da za su taimaka muku farawa.
+and_pages_default_51 === Intuitive Tools
+and_pages_default_53 === Muna ba da kayan aikin don taimaka muku tare da ku ayyukan talla kamar amsa kai tsaye, mahaɗar yanar gizo da ƙari.
+and_pages_default_62 === Sami Kudi
+and_pages_default_64 === Kasance ɗaya daga cikin abokan aikinmu kuma ku yi amfani da na'urorin ku na android azaman ƙofa kuma ku sami kuɗi don kowane saƙon da aka aiko.
+and_pages_default_73 === Me yasa amfani da sabis ɗinmu?
+and_pages_default_74 === Ga wasu dalilan da ya sa ya kamata ka fara amfani da sabis ɗinmu
+and_pages_default_84 === Aiko da sauri da yawa
+and_pages_default_86 === Aika ɗimbin saƙonni zuwa ƙungiyoyin tuntuɓi daban-daban cikin sauƙi kuma kuna iya aika saƙonnin gaggawa don ma'amala cikin sauri. Dandalin mu kuma ya haɗa da dashboard kai tsaye, samun sanarwa lokacin da aka aika ko karɓan saƙonninku!
+and_pages_default_89 === Gajerun lambobi
+and_pages_default_89_1 === don tsara saƙonninku tare da bayanan da aka riga aka ƙayyade.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === don bazuwar saitin kalmomi don yaƙi al'amuran banza.
+and_pages_default_91 === Mai fassara
+and_pages_default_91_1 === don nisantar masu sauraro dangane da harsunansu.
+and_pages_default_98 === Kayan aikin atomatik da wayo
+and_pages_default_100 === Sarrafa kasuwancin ku yayin da muke kula da aikin ƙazanta, dandalin mu yana da wayo kuma kawai yana buƙatar saƙonnin da kuke son aikawa to za mu yi sauran!
+and_pages_default_103 === Jadawalin
+and_pages_default_103_1 === sms da whatsapp chats a kowace ranar da kuke so.
+and_pages_default_104 === Webhooks
+and_pages_default_104_1 === don sarrafa wasu ayyuka lokacin da kuka karɓi saƙonni daga SMS da whatsapp.
+and_pages_default_105 === Ayyuka
+and_pages_default_105_1 === don ƙirƙirar amsa ta atomatik da saurin bincika abubuwan da suka faru.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === don yin buƙatun masu alaƙa da hanyar sadarwa kamar duba ma'auni daga mai aiki.
+and_pages_default_107 === Sanarwa
+and_pages_default_107_1 === daga na'urorin android da aka haɗa kuma ana iya amfani da su don ayyuka na atomatik.
+and_pages_default_137 === Muna ba da garantin nasarar kasuwancin ku tare da dabarun dabarun mu
+and_pages_default_139 === Dandalin mu yana ƙera sosai don biyan buƙatun kasuwancin kasuwancin da ke haɓaka, muna son tabbatar da cewa kowane cent da kuka kashe don sabis ɗinmu ya cancanci da kyau kuma yana ba ku gamsuwa 100%!
+and_pages_default_145 === Sauƙi don amfani da dandamali mai ruwa
+and_pages_default_148 === Mai araha amma yana kula da sabis mai inganci
+and_pages_default_156 === Kayan aiki masu ban sha'awa da dashboard
+and_pages_default_159 === Ƙwarewa mai sauri da lalacewa yayin da kuke tallata samfuran ku
+and_pages_default_171 === Farashin Sabis
+and_pages_default_187 === SMS Aika
+and_pages_default_194 === Karɓi SMS
+and_pages_default_201 === WhatsApp Aika
+and_pages_default_208 === WhatsApp karba
+and_pages_default_215 === USSD
+and_pages_default_222 === Sanarwa
+and_pages_default_229 === SMS/Taɗi da aka tsara
+and_pages_default_236 === Lambobin sadarwa
+and_pages_default_243 === Maɓallan API
+and_pages_default_250 === Webhooks
+and_pages_default_257 === Ayyuka
+and_pages_default_264 === Na'urorin Android
+and_pages_default_271 === WhatsApp Accounts
+and_pages_default_287 === Abokan cinikinmu
+and_pages_default_290 === Amintattun abokan ciniki sama da 3,000+. Fara tallata samfuran ku kuma haɓaka kasuwancin ku tare da mu!
+landing_title_default === Na'urorin Wayar hannu ta Android azaman Kofar SMS
+landing_nav_login === Shiga
+landing_lead_desc === Yi amfani da shirin SMS mara iyaka na mai ba da hanyar sadarwar ku, arha kuma mai inganci mafita don talla, sms mai yawa da ayyuka a ƙasarku. Yi amfani da WhatsApp don isa ga masu sauraro mafi girma, dandalinmu yana ba da cikakkun kayan aiki don taimaka muku farawa.
+landing_footer_ourcomp === Out Company
+landing_footer_about === Game da
+landing_footer_tos === Sharuɗɗan Sabis
+landing_footer_privacy === takardar kebantawa
+landing_footer_links === Rukunan Yanar Gizo
+landing_footer_login === Shiga
+landing_footer_register === Yi rajista
+landing_footer_copyright === Duka Hakkoki
+dashboard_title_default === Dashboard
+dashboard_title_contacts === Lambobin sadarwa
+dashboard_title_tools === Kayan aiki
+dashboard_title_admin === Gudanarwa
+dashboard_nav_default === Dashboard
+dashboard_nav_contacts === Lambobin sadarwa
+dashboard_nav_tools === Kayan aiki
+dashboard_nav_menusubscription === Biyan kuɗi
+dashboard_nav_menusettings === Saituna
+dashboard_nav_menulogout === Fita
+dashboard_btn_addcontact === Ƙara lamba
+dashboard_btn_adddevice === Ƙara Na'ura
+dashboard_btn_addgroup === Ƙara Ƙungiya
+dashboard_btn_addtemplate === Ƙara Samfura
+dashboard_btn_addkey === Ƙara Maɓalli
+dashboard_btn_addhook === Ƙara Webhook
+dashboard_btn_build === Gina
+dashboard_btn_buildsettings === Saituna
+dashboard_btn_settings === Tsari
+dashboard_btn_theme === Jigo
+dashboard_btn_adduser === Ƙara Mai amfani
+dashboard_btn_addpackage === Ƙara Kunshin
+dashboard_btn_addwidget === Ƙara Widget
+dashboard_btn_addlanguage === Ƙara Harshe
+dashboard_footer_about === Game da
+dashboard_footer_terms === Sharuɗɗan Sabis
+dashboard_footer_privacy === takardar kebantawa
+dashboard_footer_copyright === Duka Hakkoki
+dashboard_messages_menusent === An aika
+dashboard_messages_menureceived === An karɓa
+dashboard_messages_menutemplates === Samfura
+dashboard_messages_tabreceivedtitle === Saƙonnin da aka karɓa
+dashboard_messages_tabtemplatestitle === Samfura
+dashboard_messages_tablesentrecipient === Mai karɓa
+dashboard_messages_tablesentmessage === Sako
+dashboard_messages_tablesentcreated === Ƙirƙiri
+dashboard_messages_tablesentoptions === Zabuka
+dashboard_messages_tablereceivedsender === Mai aikawa
+dashboard_messages_tablereceivedmessage === Sako
+dashboard_messages_tablereceivedreceived === An karɓa
+dashboard_messages_tablereceivedoptions === Zabuka
+dashboard_messages_tabletemplatesname === Sunan Samfura
+dashboard_messages_tabletemplatesformat === Tsarin Samfura
+dashboard_messages_tabletemplatesoptions === Zabuka
+dashboard_contacts_title === Lambobin sadarwa
+dashboard_contacts_menusaved === Ajiye
+dashboard_contacts_menugroups === Ƙungiyoyi
+dashboard_contacts_tabsavedtitle === Ajiye Lambobi
+dashboard_contacts_tabgroupstitle === Ƙungiyoyin Tuntuɓi
+dashboard_contacts_tablesavedname === Sunan Tuntuɓi
+dashboard_contacts_tablesavednumber === Lambar Tuntuɓa
+dashboard_contacts_tablesavedoptions === Zabuka
+dashboard_contacts_tablegroupsname === Sunan rukuni
+dashboard_contacts_tablegroupsoptions === Zabuka
+dashboard_devices_tableregisteredbrand === Mai ƙira
+dashboard_devices_tableregisteredversion === Sigar
+dashboard_devices_tableregisteredadded === Rajista
+dashboard_devices_tableregisteredoptions === Zabuka
+dashboard_tools_title === Kayan aiki
+dashboard_tools_menukeys === Maɓallan API
+dashboard_tools_menuhooks === Webhooks
+dashboard_tools_tabkeystitle === Maɓallan API
+dashboard_tools_tabhookstitle === Webhooks
+dashboard_tools_tablekeysname === Suna
+dashboard_tools_tablekeyspermissions === Izini
+dashboard_tools_tablekeysoptions === Zabuka
+dashboard_tools_tablehooksname === Suna
+dashboard_tools_tablehooksurl === Webhook URL
+dashboard_tools_tablehooksoptions === Zabuka
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Kididdiga
+dashboard_admin_menuusers === Masu amfani
+dashboard_admin_menupackages === Fakitin
+dashboard_admin_menusubscriptions === Biyan kuɗi
+dashboard_admin_menutransactions === Ma'amaloli
+dashboard_admin_menuwidgets === Widgets
+dashboard_admin_menulanguages === Harsuna
+dashboard_admin_tabdefaultearningstitle === Abubuwan da ake samu
+dashboard_admin_tabdefaultmessageslast === Kwanaki 30 na ƙarshe
+dashboard_admin_tabuserstitle === Masu amfani
+dashboard_admin_tabpackagestitle === Fakitin
+dashboard_admin_tabsubscriptionstitle === Biyan kuɗi
+dashboard_admin_tabtransactionstitle === Ma'amaloli
+dashboard_admin_tabwidgetstitle === Widgets
+dashboard_admin_tablanguagestitle === Harsuna
+dashboard_admin_tableusersname === Suna
+dashboard_admin_tableusersemail === Imel
+dashboard_admin_tableusersoptions === Zabuka
+dashboard_admin_tablepackagesname === Suna
+dashboard_admin_tablepackagesprice === Farashin
+dashboard_admin_tablepackagesoptions === Zabuka
+dashboard_admin_tablesubscriptionsuser === Mai amfani
+dashboard_admin_tablesubscriptionspackage === Kunshin
+dashboard_admin_tablesubscriptionsprice === Farashin
+dashboard_admin_tablesubscriptionsexpire === Ranar ƙarewa
+dashboard_admin_tablesubscriptionsoptions === Zabuka
+dashboard_admin_tabletransactionscustomer === Abokin ciniki
+dashboard_admin_tabletransactionsprovider === Mai bayarwa
+dashboard_admin_tablewidgetsname === Sunan Widget
+dashboard_admin_tablewidgetstype === Nau'in
+dashboard_admin_tablewidgetssize === Girman
+dashboard_admin_tablewidgetsposition === Matsayi
+dashboard_admin_tablewidgetsoptions === Zabuka
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Sunan Harshe
+dashboard_admin_tablelanguagescreated === Ƙirƙiri
+dashboard_admin_tablelanguagesoptions === Zabuka
+table_search_text === Bincika
+table_search_placeholder === Shigar da kalmomi a nan...
+response_invalid === Buƙatar mara inganci!
+response_went_wrong === Wani abu ya faru ba daidai ba!
+response_session_false === Babu zama!
+response_session_true === Zama ya riga ya wanzu!
+response_invalid_emailpass === Imel / kalmar sirri mara inganci!
+response_loggedin_success === An yi nasarar shiga!
+response_loggedout_success === An yi nasarar fita!
+response_invalid_email === Adireshin imel mara inganci!
+response_retrieval_received === Mun sami buƙatun dawo da asusu, yi watsi da idan ba ku nema ba.
+response_solve_captcha === Da fatan za a warware ƙalubalen anti-bot!
+response_register_false === An kashe rajista!
+response_name_short === Sunan ya yi guntu sosai!
+response_password_short === Dole ne kalmar wucewa ta fi haruffa 5!
+response_password_notmatch === Kalmomin sirri ba su dace ba!
+response_register_success === An yi nasara rajista!
+response_email_unavailable === An riga an yi rijista adireshin imel!
+response_upload_applogo === Da fatan za a loda tambarin app ɗin ku!
+response_upload_appsplash === Da fatan za a loda app ɗin ku!
+response_pcode_empty === Da fatan za a shigar da lambar siyan ku a cikin saitunan tsarin!
+response_buildserver_false === Ba za a iya haɗawa don gina uwar garken ba!
+response_invalid_number === Lambar wayar hannu mara inganci!
+response_message_short === Saƙo ya gajarta sosai!
+response_message_queued === An ƙara saƙo zuwa jerin gwano!
+response_message_bulkqueued === An jera manyan saƙonni don aikawa!
+response_format_short === Tsarin yayi guntu sosai!
+response_template_added === An ƙara samfuri!
+response_number_exist === Lambar tuntuɓa ta riga ta wanzu!
+response_contact_added === An ƙara lamba!
+response_group_added === An ƙara ƙungiyar tuntuɓar!
+response_permission_min === Da fatan za a zaɓi aƙalla izini 1!
+response_key_added === An ƙara maɓallin API!
+response_invalid_webhookurl === URL mara inganci!
+response_webhook_added === Webhook ahs an ƙara!
+response_user_added === An ƙara mai amfani!
+response_package_added === An ƙara fakitin!
+response_widget_added === An ƙara widget!
+response_language_added === An ƙara harshe!
+response_avatar_invalid === Ba za a iya loda Avatar ba!
+response_profile_updated === An sabunta bayanin martaba!
+response_package_purchasedtitle === Kun yi rajista ga fakitin ƙima, ga rasidin ku!
+response_package_purchased === An yi nasarar shiga cikin kunshin!
+response_template_updated === An sabunta samfuri!
+response_contact_updated === An sabunta lamba!
+response_group_updated === An sabunta rukunin tuntuɓar!
+response_key_updated === An sabunta maɓallin API!
+response_webhook_updated === An sabunta Webhook!
+response_user_updated === An sabunta mai amfani!
+response_package_updated === An sabunta fakitin!
+response_widget_updated === An sabunta widget!
+response_language_updated === An sabunta harshe!
+response_builder_packagenameshort === Sunan kunshin ya yi guntu sosai!
+response_builder_appnameshort === Sunan app ya yi guntu sosai!
+response_builder_applogofail === Ba za a iya loda tambarin app ba!
+response_builder_appsplashfail === Ba za a iya ɗora app ɗin ba!
+response_builder_settingsupdated === An sabunta saitunan magini!
+response_theme_updated === An sabunta saitunan jigo!
+response_system_settingsupdated === An sabunta saitunan tsarin!
+response_deleted_sent === An share sakon da aka aiko!
+response_deleted_received === An share saƙon da aka karɓa!
+response_deleted_template === An goge samfuri!
+response_deleted_contact === An share lamba!
+response_deleted_group === An share rukunin tuntuɓar!
+response_deleted_device === An share na'urar!
+response_deleted_key === An share maɓallin API!
+response_deleted_hook === An share Webhook!
+response_deleted_defaultuserfalse === Ba za a iya share tsohon mai amfani ba!
+response_deleted_user === An share mai amfani!
+response_deleted_defaultpackagefalse === Ba za a iya share tsoffin fakitin ba!
+response_deleted_package === An share fakitin!
+response_deleted_subscription === An share rajista!
+response_deleted_widget === An share widget!
+response_deleted_defaultlangfalse === Ba za a iya share tsoffin harshe ba!
+response_deleted_language === An share harshe!
+response_lang_changed === An canza harshe!
+modal_usersettings_title === Saituna
+modal_subscription_title === Biyan kuɗi
+modal_packages_title === Fakitin
+modal_smsquick_title === SMS mai sauri
+modal_smsbulk_title === Babban SMS
+modal_addtemplate_title === Ƙara Samfura
+modal_edittemplate_title === Gyara Samfura
+modal_addcontact_title === Ƙara lamba
+modal_editcontact_title === Gyara Tuntuɓi
+modal_addgroup_title === Ƙara Ƙungiya
+modal_editgroup_title === Gyara Rukuni
+modal_adddevice_title === Ƙara Na'ura
+modal_addkey_title === Ƙara Maɓallin API
+modal_editkey_title === Shirya Maɓallin API
+modal_edithook_title === Gyara Webhook
+modal_buildersettings_title === Saitunan Gine-gine
+modal_themesettings_title === Saitunan Jigo
+modal_systemsettings_title === Saitunan Tsari
+modal_adduser_title === Ƙara Mai amfani
+modal_edituser_title === Gyara Mai amfani
+modal_addpackage_title === Ƙara Kunshin
+modal_editpackage_title === Shirya Kunshin
+modal_addwidget_title === Ƙara Widget
+modal_editwidget_title === Gyara Widget
+modal_addlanguage_title === Ƙara harshe
+modal_editlanguage_title === Gyara Harshe
+require_email === Adireshin i-mel
+require_password === Kalmar wucewa
+require_name === Cikakken suna
+require_cpassword === Tabbatar da kalmar wucewa
+require_phone === Lambar tarho
+require_device === Na'ura
+require_message === Sako
+require_groups === Ƙungiyoyin tuntuɓar juna
+require_sim === Ramin Sim
+require_priority === Zaɓin fifiko
+require_api === Zaɓin API
+require_templatename === Sunan samfuri
+require_templateformat === Tsarin samfuri
+require_contactname === Sunan lamba
+require_group === Ƙungiyar tuntuɓar juna
+require_groupname === Sunan rukuni
+require_apiname === API key name
+require_permissions === Izini
+require_hookname === Sunan Webhook
+require_hookurl === Webhook url
+require_appname === Sunan app
+require_appcolor === Launi na app
+require_packagename === Sunan kunshin
+require_widgetname === Sunan widget
+require_widgetsize === Girman widget
+require_widgetposition === Matsayin widget
+require_widgettype === Nau'in widget
+require_languagename === Sunan harshe
+require_languageiso === Harshen iso
+require_languagestr === Fassarar harshe
+btn_submit === Sallama
+btn_download === Zazzagewa
+btn_done === Anyi
+btn_purchase === Sayi
+btn_free === Kyauta
+btn_send === Aika
+btn_save === Ajiye
+btn_packages === Fakitin
+btn_retrieve === Dawo
+btn_signin === Shiga
+btn_signup === Yi rajista
+form_name === Suna
+form_number === Lambar tarho
+form_group === Rukunin Tuntuɓi
+form_adddevice_one === Haɗa sabuwar na'urar android zuwa asusunku yana da sauƙi, mun tabbatar za ku iya ci gaba ba tare da ɓata lokaci mai daraja ba, bi waɗannan matakan.
+form_adddevice_two === 1. Zazzagewa & Shigar
+form_adddevice_three === Da farko, zazzage kuma shigar da app ɗin mu ta hanyar danna wannan maɓallin.
+form_adddevice_four === 2. Na'urar Rajista
+form_adddevice_five === Yanzu bude gateway app kuma danna maɓallin scan sannan ka duba wannan qrcode.
+form_adddevice_six === 3. Anyi!
+form_adddevice_seven === An ƙara na'urar zuwa asusunka, yanzu za ku iya fara aika saƙonni!
+form_permissions === Izini
+form_countrycode === Lambar Ƙasa
+form_translations === Fassarar Fassara
+form_translations_placeholder === Shigar da fassarorin nan...
+form_packageprice === Farashin
+form_packagesend === Aika Iyaka
+form_packagereceive === Karɓa Iyaka
+form_packagedevice === Iyakar na'ura
+form_packagekey === Iyakar Maɓalli
+form_packagehook === Webhook iyaka
+form_templatename_placeholder === Sanarwa
+form_templateformat === Tsarin
+form_templateformat_placeholder === Shigar da tsarin samfurin ku anan...
+form_shortcodes === Gajerun lambobi
+form_emailaddress === Adireshin i-mel
+form_password === Kalmar wucewa
+form_password_leave === Bar komai don kiyaye kalmar sirri ta yanzu
+form_language === Harshe
+form_webhookname_placeholder === Amsa Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Sharuɗɗan Sabis
+form_widgeticon === Ikon
+form_widgettype === Nau'in
+form_widgetsize === Girman
+form_widgetsmall === Karami
+form_widgetmedium === Matsakaici
+form_widgetlarge === Babba
+form_widgetxlarge === Mai Girma
+form_widgetposition === Matsayi
+form_widgetcenter === Cibiyar
+form_widgetleft === Hagu
+form_widgetright === Dama
+form_widgetcontent === Abun ciki
+form_builderpackagename === Sunan Kunshin
+form_builderappname === App Name
+form_builderappdesc === Bayanin App
+form_builderappdesc_placeholder === Wannan app ne mai ban mamaki
+form_builderapplogo === App Logo
+form_builderappsplash === App Splashscreen
+form_uploaded === An ɗora
+form_notuploaded === Babu
+form_themebg === Kalar Baya
+form_themetext === Haskaka Launi
+form_settingsite === Shafin
+form_settingssitename === Sunan Yanar Gizo
+form_settingssitedesc === Bayanin Yanar Gizo
+form_settingspcode === Lambar siyayya
+form_settingsprotocol === Yarjejeniya
+form_settingsdeflang === Tsoffin Harshe
+form_settingsreg === Rajista
+form_settingsmailing === Aika sako
+form_settingsmailfunc === Ayyukan Wasiku
+form_settingssitemail === Imel na Yanar Gizo
+form_settingssmtphost === Mai watsa shiri SMTP
+form_settingssmtpport === SMTP Port
+form_settingssmtpusername === SMTP Sunan mai amfani
+form_settingssmtppassword === Kalmar wucewa ta SMTP
+form_settingssmtp_small === Da ake buƙata don SMTP mai nisa
+form_settingspayments === Biyan kuɗi
+form_settingspaypaltest === Yanayin Gwajin Paypal
+form_settingssecurity === Tsaro
+form_settingsrecaptchakey === Maɓallin Yanar Gizo Recaptcha
+form_settingsrecaptchasecret === Maɓallin Sirrin Recaptcha
+form_enable === Kunna
+form_disable === A kashe
+form_native === Dan ƙasa
+form_remotesmtp === SMTP mai nisa
+form_device === Na'urar Waya
+form_sim === Sim Slot
+form_priority === fifiko
+form_yes === Ee
+form_no === A'a
+form_freefor === Kyauta Har abada
+form_monthly === kowane wata
+form_groups === Ƙungiyoyin Tuntuɓi
+form_template === Samfura
+form_none === Babu
+form_message === Sako
+form_message_placeholder === Shigar da sakon ku anan...
+form_avatar === Avatar
+form_changepass === Canza kalmar shiga
+form_package === Kunshin
+form_keys === Maɓallan API
+form_hooks === Webhooks
+form_daily === kullum
+form_forgotpass === Manta Kalmar wucewa
+form_fullname === Cikakken suna
+form_cpassword === tabbata kalmar shiga
+form_haveaccount === Ina da Account
+datatable_processing === Ana aiwatarwa, da fatan za a jira...
+datatable_length === Nuna shigarwar _MENU_
+datatable_info === Nuna _START_ zuwa _END_ na shigarwar _TOTAL_
+datatable_empty === Nuna 0 zuwa 0 na shigarwar 0
+datatable_filtered === (an tace daga jimlar shigarwar _MAX_)
+datatable_loading === Ana lodawa, da fatan za a jira...
+datatable_zero === Ba za mu iya samun wani abu da ya dace da tambayar ku ba!
+datatable_null === Babu bayanan da za a nuna!
+datatable_first === Na farko
+datatable_prev === A baya
+datatable_next === Na gaba
+datatable_last === Karshe
+delete_title === Share?
+delete_tagline === Ba za a iya soke wannan aikin ba!
+validate_cannotemp === ba zai iya zama fanko!
+alert_attention === Hankali
+copy_data === An kwafe bayanai zuwa allo!
+date_today === Yau
+date_yesterday === Jiya
+date_7days === Kwanaki 7 na ƙarshe
+date_30days === Kwanaki 30 na ƙarshe
+date_month === Wannan Watan
+date_lmonth === A watan da ya gabata
+date_custom === Range na Musamman
+unknown_action_method === Hanyar aikin da ba a sani ba!
+mollie_redirecting_page === Ana turawa zuwa shafin biyan kuɗi na mollie...
+form_settingsmolliekey === Maɓallin API Mollie
+btn_confirm === Tabbatar
+btn_cancel === Soke
+recaptcha_add_keys === Da fatan za a ƙara maɓallan recaptcha don kunna wannan fasalin!
+pay_with_paypal === Biya tare da Paypal
+pay_with_mollie === Biya tare da Mollie
+form_settingsenabledproviders === An kunna masu bayarwa
+form_builderappicon === Ikon app
+payment_transact_failed === Ma'amalar biyan kuɗi ta kasa!
+cookieconsent_message === Muna amfani da kukis don tabbatar da cewa kuna samun ƙwarewa mafi kyau akan gidan yanar gizon mu.
+cookieconsent_link === Ƙara koyo
+role_added === An ƙara rawa!
+role_updated === An sabunta rawar gani!
+role_deleted === An share aikin!
+role_default_update === Ba za a iya gyara tsohuwar rawar ba!
+role_default_delete === Ba za a iya share tsohuwar rawar ba!
+voucher_added === An ƙara baucan!
+form_voucher === Lambar Baucan
+btn_redeem === fanshi
+invalid_voucher_code === Lambar ba da inganci!
+voucher_deleted === An share baucan!
+form_title_addvoucher === Ƙara Baucan
+form_title_addsubscription === Ƙara Biyan Kuɗi
+form_adduser_role === Matsayi
+require_pagename === Sunan Shafi
+require_pageroles === Matsayin da aka yarda
+form_pageroles === Matsayin da aka yarda
+require_vouchercode === Lambar bauchi
+form_settingscurrency === Kudi
+btn_bulkexcel === Excel
+response_leastprovider === Da fatan za a zaɓi aƙalla mai bada biyan kuɗi 1!
+user_subscriptioncontacts === Lambobin sadarwa
+response_suspended === Mai gudanarwa ya dakatar da asusun ku!
+response_adminsuspend === Ba za a iya dakatar da asusun tsoho ba!
+response_successsuspend === An dakatar da mai amfani!
+response_successunsuspend === An daina dakatar da mai amfani!
+suspend_user_title === Dakatar da Mai amfani?
+suspend_user_desc === Wannan mai amfani ba zai iya shiga da amfani da ayyukan ba
+unsuspend_user_title === Mai amfani da ba a dakatar da shi ba?
+unsuspend_user_desc === Wannan mai amfani zai iya sake shiga da amfani da ayyukan
+all_languages === Duk Harsuna
+response_invalid_excel === Fayil na Excel mara inganci!
+response_contacts_imported === An shigo da adireshi!
+table_role_name === Sunan Matsayi
+table_role_permissions === Izini
+table_voucher_name === Suna
+table_voucher_package === Kunshin
+table_page_name === Sunan Shafi
+table_page_require === Bukatar Shiga
+table_page_roles === Matsayin da aka yarda
+import_btn === Shigo da
+form_excelfile === Fayil na Excel
+form_hook_addtitle === Ƙara Ayyukan ƙugiya
+form_hook_edittitle === Shirya Ayyukan Kugiya
+form_hook_event === Lamarin
+form_hook_link === Tsarin hanyar haɗi
+form_autoreply_addtitle === Ƙara Ayyukan Amsa
+form_autoreply_edittitle === Gyara Ayyukan Amsa
+form_autoreply_keywords === Mahimman kalmomi
+form_autoreply_message === Sakon Amsa
+require_action_name === Sunan aiki
+require_action_event === Nau'in taron
+require_action_link === Tsarin haɗin gwiwa
+require_action_keywords === Mahimman kalmomi
+require_action_message === Sakon amsa
+response_invalid_linkstructure === Tsarin hanyar haɗi mara inganci!
+response_hook_added === An ƙara aikin ƙugiya SMS!
+response_invalid_keywords === Dole ne ku shigar da aƙalla kalmar maɓalli 1!
+response_autoreply_added === An ƙara matakin amsa SMS!
+response_hook_updated === An sabunta aikin ƙugiya SMS!
+response_autoreply_updated === An sabunta matakin amsa SMS!
+response_action_deleted === An share aikin SMS!
+table_action_name === Suna
+form_scheduled_title === Jadawalin SMS
+response_scheduled_deleted === An share saƙon da aka tsara!
+response_no_permission === Ba ku da izinin wannan aikin!
+response_builder_appiconfail === Ba za a iya loda alamar app ba!
+form_require_login === Bukatar Shiga
+widget_addpage_title === Ƙara Shafi
+widget_editpage_title === Gyara Shafi
+require_subscription_user === Mai amfani
+require_voucher_name === Sunan baucan
+require_voucher_package === Kunshin
+widget_alllang_title === Duk Harsuna
+widget_smsexcel_title === Babban SMS ta Excel
+require_scheduled_name === Suna
+require_scheduled_date === Kwanan jadawalin
+widget_importcontacts_title === Shigo da Lambobi
+require_addrole_name === Sunan aikin
+require_addrole_permissions === Izini
+widget_editrole_title === Gyara Matsayi
+response_page_added === An ƙara shafi!
+response_page_updated === An sabunta shafi!
+response_page_deleted === An share shafi!
+table_scheduled_name === Suna
+messages_scheduled_title === An tsara
+messages_scheduled_schedule === Jadawalin SMS
+form_schedule_numbers === Lambobin Waya
+form_schedule_schedule === Jadawalin
+form_schedule_repeat === Maimaita
+form_bulksms_numbers === Lambobin Waya
+dashboard_tools_menuactions === Ayyuka
+dashboard_admin_menuroles === Matsayi
+dashboard_admin_menuvouchers === Bauchi
+dashboard_admin_menupages === Shafuka
+admin_gateway_title === Gateway
+admin_gateway_status === Matsayi
+admin_gateway_notuploaded === Ba a Loda ba
+admin_gateway_uploaded === An ɗora
+dashboard_roles_title === Matsayin Mai amfani
+dashboard_roles_addrole === Ƙara Matsayi
+dashboard_vouchers_title === Bauchi
+dashboard_vouchers_addrole === Ƙara Baucan
+form_voucher_package === Kunshin
+dashboard_pages_title === Shafuka
+dashboard_pages_addpage === Ƙara Shafi
+form_theme_favicon === Favicon
+form_package_contactslimit === Iyakar Lambobi
+response_limitation_send === Kun kai iyakar da aka yarda a aika na yau!
+response_limitation_contact === Kun kai matsakaicin lambobi masu izini!
+response_limitation_key === Kun kai matsakaicin maɓallan API ɗin da aka yarda!
+response_limitation_webhook === Kun kai madaidaicin ƙugiya da aka yarda!
+form_adminsettings_token === Tsarin Token
+response_upload_appicon === Da fatan za a loda alamar app ɗin ku!
+app_status_gateway_running === Gateway yana gudana!
+app_device_registered === An haɗa
+app_device_unregistered === Ba a Haɗe ba
+app_terminal_gateway_ready === An shirya Gateway...
+app_terminal_gateway_register === Har yanzu ba a haɗa na'urar ba...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === An haɗa na'urar...
+app_terminal_gateway_device === Haɗin na'ura ya gaza...
+app_terminal_gateway_connecterror === Kuskure yayin haɗi zuwa uwar garken...
+app_terminal_gateway_started === An fara ƙofa...
+app_terminal_gateway_stopped === An dakatar da Gateway...
+app_terminal_gateway_unregistered === Ba za a iya fara ƙofa ba, har yanzu ba a haɗa na'urar zuwa kowane asusu...
+app_terminal_feature_error === Kuskuren fasalin SMS
+app_terminal_sms_sent === An aika sako
+app_terminal_message_failed === An gaza aika saƙon
+app_dialog_wait === Don Allah jira...
+app_dialog_exit === Fita Gateway
+app_dialog_exit_desc === Kashewa da fita kofa?
+app_camera_qrcode_inside === Sanya QRCcode a ciki
+app_ui_status === Matsayi
+app_ui_exit === Fita
+require_voucher_count === Ƙididdiga ba zai iya zama fanko ba!
+form_voucher_count === Ƙididdigar Baucan
+cookieconsent_dismiss === Na samu!
+title_payment_success === Tabbatar da oda
+title_payment_cancel === An soke oda
+header_payment_success === Tabbatar da oda
+header_payment_cancel === An soke oda
+body_payment_cancel === Kun soke buƙatar odar ku.
+transaction_payment_success === ID na ciniki:
+back_payment_page === Komawa Dashboard
+form_settingspaypalemail === Paypal Business Email
+form_settingsanalytics === Maɓallin Nazarin Google
+form_messagecounterchars === haruffa
+form_settingspagination === Iyakokin Rubutu
+form_settingssentpage === Saƙonnin da aka Aiko Kowane Shafi
+form_settingsreceivedpage === Saƙonnin da Aka Karɓi Kowane Shafi
+form_settingsmessage === Saitunan saƙo
+form_settingsmessagemin === Ƙananan Haruffa
+form_settingsmessagemax === Matsakaicin Haruffa
+form_settingsmessagemark === Alamar saƙo
+form_packagefootermark === Alamar saƙo
+form_settingssmtpsecure === Tsaro na SMTP
+form_durationtitle === Tsawon lokaci
+form_durationpackage === Kunshin ku:
+form_durationpay === Za ku biya:
+form_durationmonth === Tsawon Watan
+form_subscriptionmonth === Tsawon Watan
+authenticate_fblogin === Shiga tare da facebook...
+authenticate_googlelogin === Shiga tare da google...
+authenticate_vklogin === Shiga tare da vkontakte...
+response_minplatforms === Da fatan za a zaɓi aƙalla dandalin zamantakewa 1!
+form_settingssocialtitle === Saitunan zamantakewa
+form_settingssocial === Tabbatar da zamantakewa
+form_settingssocialplatforms === Dandali da aka kunna
+form_usertimezone === Yankin lokaci
+form_settingsloginrecaptcha === Shiga Recaptcha
+form_loginor === KO
+form_adddevicescandl === Zazzagewa ta hanyar Scan QR
+form_status_online === Kan layi
+form_status_offline === Offline
+form_smsbulknonumbers === Da fatan za a zaɓi ƙungiyar tuntuɓar ko shigar da lambobin masu karɓa!
+form_addsubscriptionuser === Mai amfani
+form_addsubscriptionpackage === Kunshin
+table_vouchersduration === Tsawon Watan
+table_pluginsname === Sunan plugin
+table_pluginsoptions === Zabuka
+dashboard_admin_menuplugins === Plugins
+dashboard_admin_pluginstitle === Plugins
+dashboard_admin_pluginsadd === Ƙara Plugin
+require_pluginfile === Fayil ɗin plugin
+modal_addplugin_title === Ƙara Plugin
+response_pluginwentwrong === Wani abu ya yi kuskure yayin loda plugin ɗin!
+response_plugininstalled === An shigar da plugin!
+dashboard_title_login === Shiga
+dashboard_title_forgot === Manta Kalmar wucewa
+dashboard_title_register === Yi rijista
+response_limitation_contact2 === Kun kai madaidaicin adadin lambobin sadarwa akan biyan kuɗin ku, lambobi _8880_ kawai aka shigo da su!
+response_contacts_imported2 === _8880_ an shigo da adireshi cikin nasara!
+form_systemsettingshomepage === Tsohuwar Shafin Gida
+app_dialog_update_desc === Akwai sabon sigar saki don aikace-aikacen ƙofa, ana buƙatar sabuntawa!
+app_dialog_update_download === Zazzagewa
+app_gateway_build_text === Ƙofar Gina
+response_gateway_available === Ana zazzage ƙofa, da fatan za a jira...
+response_gateway_unavailable === Babu Ƙofar Gateway, da fatan za a tuntuɓi mai gudanar da rukunin yanar gizon!
+response_gateway_randommax === Matsakaicin tazarar aika ba zai iya zama sama da daƙiƙa 300 ba!
+response_device_updated === An sabunta na'urar!
+form_editdevice_devicename === Sunan na'ura
+form_editdevice_randomsend === Tazarar Aika Random
+form_editdevice_randommin === Aika Tazarar Min
+form_editdevice_randommax === Aika Tazara Max
+form_smsall_globalstatus === Duniya
+form_select_multinone === Babu
+form_package_hiddenselect === Boye
+landing_footer_ourcompnew === Kamfaninmu
+form_smsschedule_submit === Jadawalin
+require_devicename === Sunan na'ura
+require_randommin === Mafi ƙarancin tazara
+require_randommax === Matsakaicin tazara bazuwar
+admin_update_installed === An shigar
+admin_update_btn === Sabuntawa
+response_update_success === An sabunta tsarin!
+form_settings_tawkchatlink === Tawk Direct Chat Link
+model_title_editplugin === Gyara Plugin
+btn_other_paymentmethods === Sauran Hanyoyin Biyan Kuɗi
+dashboard_btn_support === Taimako
+pendingdelete_title === Share yana jiran?
+pendingdelete_desc === Share duk saƙonnin da ke jiran? Ba za a iya soke wannan aikin ba!
+dashboard_messages_tablefullmessage === Cikakken Saƙo
+administration_landing_btncache === Cache
+administration_landing_payouts === Biyan kuɗi
+administration_landing_marketing === Talla
+administration_landing_gateways === Ƙofar shiga
+administration_landing_shorteners === Masu gajarta
+administration_landing_editor === Editan Samfura
+administration_landing_api === API ɗin Admin
+administration_landing_build === Gina
+administration_landing_system === Tsari
+requests_charts_smssent === An aika SMS
+requests_charts_smsreceived === An Karɓi SMS
+requests_charts_wasent === WhatsApp An aiko
+requests_charts_wareceived === WhatsApp An Karba
+requests_charts_ussd === USSD
+requests_charts_notifications === Sanarwa
+requests_charts_credits === Kiredit
+administration_default_visitors === Baƙi
+administration_default_countries === Kasashe
+administration_default_browsers === Masu bincike
+administration_default_os === Tsarukan Aiki
+administration_default_usages === Amfani
+administration_default_messages === Saƙonni
+administration_default_utilities === Abubuwan amfani
+administration_default_subscriptions === Biyan kuɗi
+administration_default_credits === Kiredit
+tables_users_registered === Rajista
+tables_users_details === Cikakkun bayanai
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Ƙofar Ƙofar
+dashboard_title_docs === Takardu
+app_status_gateway_touch === Danna nan don buɗe ƙofa
+app_dialog_downloading_update === Ana saukewa
+app_dialog_interface_disabled === An kashe mu'amala, da fatan za a sabunta ƙa'idar zuwa sabon salo!
+app_dialog_somethingwent_wrong === Kash, wani abu ya faru ba daidai ba!
+app_intro_level_1 === Na gode don amfani da dandalinmu, don haɓaka ƙwarewar ku da sanin kanku da ƙa'idar, bari mu bincika kuma za mu bayyana duk mahimman ayyukan da kuke buƙatar sani.
+app_intro_level_2 === Za ku ga sunan na'urar da matsayin mahaɗin a nan.
+app_intro_level_3 === Don haɗa na'urar zuwa asusunku, yi amfani da wannan maɓallin don shiga ko bincika QRCode don haɗawa.
+app_intro_level_4 === Yi amfani da wannan maɓalli don kunna ko kashe ƙofa.
+app_intro_level_5 === Ƙaddamar da wannan canjin zai sa ƙa'idar ƙofar don sauraron sababbin sanarwa wanda za'a iya sarrafa shi ta hanyar tsari a cikin dandamali. An kashe wannan ta tsohuwa.
+app_intro_level_6 === Yi amfani da wannan maɓallin don rufewa da fita daga ƙa'idar ƙofa.
+app_intro_level_7 === Wannan ita ce tasha, za a nuna ma'amalar saƙo da sauran bayanan ayyukan anan.
+app_intro_level_8 === Wannan shine maɓallin aikin iyo, zaku iya samun dama ga wasu zaɓuɓɓuka da ƙarin shafuka kamar <b>Gudun a Baya</b> nan.
+app_dialog_tour_complete === Ya kamata ku fahimci yanzu yadda aikace-aikacen ke aiki, don ƙarin tambayoyi, da fatan za a tuntuɓe mu!
+app_push_right_now === yanzu
+app_device_detailes_updated === An sabunta bayanan na'urar!
+app_ussd_requests_notsupported === Ba a tallafawa buƙatun USSD...
+app_notifications_listening_now === Sauraron sabbin sanarwa...
+app_button_ok === Tabbatar
+app_dialog_update_smoothperm === Don sabuntawa masu santsi da inganci, da fatan za a ba da izinin shigar da wannan app.
+app_dialog_logging_in === Shiga...
+app_dialog_invalid_email === Kun shigar da imel mara inganci!
+app_dialog_invalid_password === Kalmar wucewa ta yi gajere don zama mai aiki!
+app_dialog_notsupported_notinougat === A halin yanzu ba a tallafawa sanarwar don nougat da ƙasa, hakuri da rashin jin daɗi.
+app_dialog_notifications_permission === Don samun damar sanarwa ta tsari, app ɗin yana buƙatar izini na musamman. Da fatan za a zaɓi ƙa'idar da ke cikin lissafin sannan ba da izinin shiga sanarwa.
+app_dialog_gateway_listennoti === Ƙofar yanzu za ta saurari sababbin sanarwa.
+app_dialog_gateway_notirestart === Ƙofar za ta sake farawa kuma ta daina sauraron sababbin sanarwa.
+app_dialog_needto_link === Kuna buƙatar haɗa na'urar zuwa asusunku kafin ku iya amfani da wannan fasalin.
+app_dialog_logoutfrom_device === Fita daga wannan na'urar ƙofa?
+app_document_runbackground === Gudu a Baya
+app_document_input_email === Adireshin i-mel
+app_document_input_password === Kalmar wucewa
+app_document_btn_login === Shiga
+app_document_text_or === ko
+app_document_btn_scan === Duba QRCcode
+app_document_btn_cancel === Soke
+app_intro_next_btn === Na gaba
+app_intro_back_btn === Baya
+response_token_generated === An sabunta alamar tsarin!
+response_trigger_done === An kunna Webhook!
+response_build_gservicesfile === Da fatan za a loda fayil ɗin sabis na google ɗinku!
+response_build_fcredentialsfile === Da fatan za a loda fayil ɗin takaddun shaida na firebase!
+response_build_loginlogo === Da fatan za a loda tambarin shiga app ɗin ku!
+response_whatsapp_notprem === Ba a yin rajistar asusu ga kowane fakitin ƙima!
+response_whatsapp_maxaccounts === Kun kai matsakaicin izinin asusun WhatsApp don kunshin ku!
+response_whatsapp_creatingqr === Ƙirƙirar WhatsApp QRCode
+response_whatsapp_noconnectserver === An kasa haɗawa da sabobin WhatsApp!
+response_chart_dashsmssent === An aika SMS
+response_chart_dashsmsreceive === An Karɓi SMS
+response_chart_dashwasent === WA Aiko
+response_chart_dashwareceive === WA ya karba
+response_chart_dashwebhooks === Webhooks
+response_chart_dashactions === Ayyuka
+response_chart_dashussd === USSD
+response_chart_dashnoti === Sanarwa
+response_resend_queued === An yi layi don aikawa!
+mail_title_payoutapproved === An biya bukatar ku ta biya!
+response_payout_confirmed === An tabbatar da biyan kuɗi!
+mail_title_payoutrejected === An ƙi buƙatar biyan kuɗin ku!
+response_payout_rejected === An ƙi biyan kuɗi!
+response_translate_msgshort === Saƙo ya yi guntu sosai!
+response_clear_systemcleared === An share fayilolin cache na tsarin!
+response_clear_smscleared === An share saƙonnin da ke jiran!
+response_clear_ussdcleared === An share buƙatun USSD masu jiran gado!
+response_reorder_languages === An sake yin odar harsuna!
+response_trash_selectedremoved === An goge abubuwan da aka zaɓa!
+response_voucher_redeemed === An karɓi baucan!
+response_payout_invalidamount === Adadin biyan kuɗi mara inganci, bai kamata ya ƙunshi ƙimar ƙima ba.
+response_payout_notenoughbal === Bai isa samun ma'auni don aiwatar da buƙata ba!
+response_payout_reqreceive === An karɓi buƙatar biya ku!
+response_payout_pendingreq === Har yanzu kuna da buƙatun biyan kuɗi da ake jira!
+response_system_sysconfigerr === Kuskuren tsarin tsari!
+response_message_toolong === Sakon ku yayi tsayi da yawa!
+response_package_nosubwarn === Ba ku da biyan kuɗin fakiti!
+response_message_notenoughcredsend === Bai isa yabo don aika wannan sakon ba!
+response_message_queuedforsend === An yi layi don aikawa!
+response_message_sentsuccess === An aika sako!
+response_message_unablesendmesg === Ba mu da ikon aika saƙon ku!
+response_smsexcel_phonenotfound === Ba a sami ginshiƙin _8880_ a cikin fayil ɗin ku na Excel ba!
+response_smssched_queued === An shirya sako!
+response_ussd_maximumreq === An kai madaidaicin adadin buƙatun USSD!
+response_ussd_queued === An yi layi da buƙatar USSD!
+response_whatsapp_reachedmaxchat === Kun riga kun kai matsakaicin taɗi da zaku iya aikawa!
+response_whatsapp_chatqueued === An yi layin aika saƙon WhatsApp don aikawa!
+response_whatsapp_unableconnectserv === An kasa haɗawa da sabobin WhatsApp!
+response_whatsapp_bulkchatsqueued === An yi jerin gwano mafi yawa ta WhatsApp!
+response_whatsapp_excelphonecolnotfound === Ba a sami ginshiƙin _8880_ a cikin fayil ɗin ku na Excel ba!
+response_whatsapp_chatscheduled === An tsara taɗi!
+response_importcontacts_phonenotfound === Ba a sami ginshiƙin _8880_ a cikin fayil ɗin ku na Excel ba!
+response_importcontacts_groupsnotfound === Ba a sami ginshiƙin _8880_ a cikin fayil ɗin ku na Excel ba!
+response_importcontacts_namenotfound === Ba a sami ginshiƙin _8880_ a cikin fayil ɗin ku na Excel ba!
+response_package_pricenotlessone === Farashin fakiti ba zai iya zama ƙasa da 1!
+response_subscription_addedsuccess === An ƙirƙiri rajista!
+response_push_selectatleastoneuser === Da fatan za a zaɓi aƙalla mai amfani ko rawa!
+response_push_mesgtooshort === Saƙo ya yi guntu sosai!
+response_push_titletooshort === Take ya yi guntu sosai!
+response_push_imgfailed === Loda fayil ɗin hoto ya kasa!
+response_push_created === An ƙirƙiri watsa shirye-shiryen turawa!
+response_push_nousers === Babu masu amfani da aka samo don aikawa!
+response_notify_titletooshort === Take ya yi guntu sosai!
+response_notify_mesgtooshort === Saƙo ya yi guntu sosai!
+response_notify_selectuserrole === Da fatan za a zaɓi aƙalla mai amfani ko rawa!
+response_notify_imgfailed === Loda fayil ɗin hoto ya kasa!
+response_notify_created === An ƙirƙiri sanarwar watsa shirye-shirye!
+response_notify_nousers === Babu masu amfani da aka samo don aikawa!
+response_mailer_titletooshort === Take ya yi guntu sosai!
+response_mailer_contentooshort === Abun ciki yayi gajere sosai!
+response_mailer_nouserorrole === Da fatan za a zaɓi aƙalla mai amfani ko rawa!
+response_mailer_sendcounter === _8880_ cikin _8881_ saƙon imel masu jiran aiki an aika ta wasiƙa!
+response_mailer_mailprocessed === An aiwatar da aika saƙonnin taro!
+response_mailer_nousersorrole === Babu masu amfani da aka samo don aikawa!
+response_gateway_controllercannotempty === Fayil mai sarrafawa ba zai iya zama fanko ba!
+response_gateway_invalidcontroller === Fayil mai sarrafawa mara inganci!
+response_gateway_addeddcontroller === An ƙara ƙofa!
+response_shortener_cannotempty === Fayil mai sarrafawa ba zai iya zama fanko ba!
+response_shortener_invalidcontroller === Fayil mai sarrafawa mara inganci!
+response_shortener_addedcontroller === An ƙara Shortener!
+response_plugin_samenameinstalled === An riga an shigar da plugin mai suna iri ɗaya!
+response_smscheduled_editsuccess === An sabunta saƙon da aka tsara!
+response_chatscheduled_editsuccess === An sabunta jadawalin taɗi!
+response_editdevice_invalidrate === Ƙimar ƙimar da ba ta aiki ba, yakamata ta zama lamba mai aiki mai aiki!
+response_editdevice_nametooshort === Sunan na'ura ya yi guntu sosai!
+response_editdevice_nametoolong === Sunan na'ura ya yi tsayi da yawa!
+response_editdevice_invalidmaxinterval === Ƙimar tazara mara inganci!
+response_gateway_updatedsuccess === An sabunta ƙofa!
+response_shortener_editsuccess === An sabunta Shortener!
+response_editplugin_success === An sabunta saitunan plugin!
+response_updatepluin_corrupted === Fayil ɗin sabunta plugin ɗin ya lalace!
+response_updateplugin_updated === An sabunta plugin!
+response_builder_invalidgooglefile === Fayil ɗin bayanan bayanan sabis na google mara inganci!
+response_builder_invalidfirebasefile === Fayil bayanan shaidar wuta mara inganci!
+response_theme_sitelogofailed === Loda tambarin rukunin yanar gizo ya kasa!
+response_theme_sitebgfailed === An kasa loda bayanan bayanan yanar gizo!
+response_theme_sitefavfailed === An kasa loda hoton Favicon!
+response_notification_deletedsuccess === An share sanarwar!
+response_whatsapp_sentdeletesuccess === An share tattaunawar da aka aiko ta WhatsApp!
+response_whatsapp_receivedeletesuccess === An share tattaunawar WhatsApp da aka karɓa!
+response_whatsapp_scheduleddeletesuccess === An share tattaunawar da aka tsara ta WhatsApp!
+response_whatsapp_accountdeletesuccess === An share asusun WhatsApp!
+response_unsibscribe_contactdeletedsuccess === An share lambar da ba a yi rajista ba!
+response_marketing_logdeletedsuccess === An share rajistan tallace-tallace!
+response_gateway_controllerdeletedsuccess === An share ƙofa!
+response_shortener_controllerdeletedsuccess === An share Shortener!
+table_androidsent_clipcopy === Kwafin Allo da Aka Aiko _8880_
+table_androidsent_excel === An aika Excel Export _8880_
+table_androidsent_pdf === An aika da Fitar da PDF _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Rahoton
+table_unknown_data === Ba a sani ba
+table_androidsent_statuspending === Ana jiran
+table_androidsent_statusqueued === An yi layi
+table_androidsent_statussent === An aika
+table_androidsent_statusfailed === Ba a yi nasara ba
+table_none_data === Babu
+table_yes_data === Ee
+table_no_data === A'a
+table_removed_data === An cire
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Matsayi: _8880_, Yanayin: _8881_, Lamba: _8882_, fifiko: _8883_, API An aika: _8884_, Ramin Sim: SIM _8885_, Na'ura: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Na'urori
+table_androidsent_modenamecredits === Kiredit
+table_androidsent_reportline1 === Matsayi: _8880_
+table_androidsent_reportline2 === Yanayin: _8880_
+table_androidsent_reportline3 === Lambar: _8880_
+table_androidsent_reportline4 === fifiko: _8880_
+table_androidsent_reportline5 === An aika API: _8880_
+table_androidsent_reportline6 === Ramin sim: SIM _8880_
+table_androidsent_reportline7 === Na'ura: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Matsayi: _8880_, Yanayin: _8881_, Ƙofar: _8882_
+table_androidsent_reportline9 === Matsayi: _8880_
+table_androidsent_reportline10 === Yanayin: _8880_
+table_androidsent_reportline11 === Ƙofar: _8880_
+table_androidsent_exportthree === Matsayi: _8880_, Yanayin: _8881_, Lamba: _8882_, An aika API: _8883_, Ramin Sim: SIM _8884_, Ƙofar: _8885_
+table_androidsent_reportline12 === Matsayi: _8880_
+table_androidsent_reportline13 === Yanayin: _8880_
+table_androidsent_reportline14 === Lambar: _8880_
+table_androidsent_reportline15 === An aika API: _8880_
+table_androidsent_reportline16 === Ramin sim: SIM _8880_
+table_androidsent_reportline17 === Ƙofar: _8880_
+table_androidsent_titleresend === Sake aika wannan sakon
+table_title_deletethisitem === Share wannan abun
+table_androidreceive_exportcopy === An Karɓi Kwafin Alloton _8880_
+table_androidreceive_exportexcel === An Karɓi Excel Export _8880_
+table_androidreceive_exportpdf === An Karɓi Fitar da PDF _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Rahoton
+table_androidreceive_exportdata === Ramin Sim: SIM _8880_, Na'ura: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Ramin sim: SIM _8880_
+table_androidreceive_reportline2 === Na'ura: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Amsa ga lamba
+table_androidscheduled_titleschedule === Jadawalin
+table_androidscheduled_titledetails === Cikakkun bayanai
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Yanayin: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Maimaita: _8880_
+table_androidscheduled_detailsline4 === Na'ura: _8880_
+table_androidscheduled_detailsgroupslabel === Ƙungiyoyi:
+table_androidscheduled_detailsnumberslabel === Lambobi:
+table_androidscheduled_detailsline5 === Yanayin: _8880_
+table_androidscheduled_detailsline6 === Maimaita: _8880_
+table_androidscheduled_detailsline7 === Ƙofar: _8880_
+table_androidscheduled_detailsline8 === Yanayin: _8880_
+table_androidscheduled_detailsline9 === Maimaita: _8880_
+table_androidscheduled_detailsline10 === Na'ura: _8880_
+table_title_editthisitem === Gyara wannan abun
+table_whatsappsent_exportcopy === Aiko Kwafin Clipboard
+table_whatsappsent_exportexcel === An aika Excel Export
+table_whatsappsent_exportpdf === An aika da Fitar da PDF
+table_whatsappsent_accounttitle === Asusu
+table_whatsappsent_recipienttitle === Mai karɓa
+table_whatsappsent_msgtitle === Sako
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Matsayi
+table_ussd_exportcopy === Kwafin Clipboard na USSD
+table_ussd_exportexcel === USSD Excel Export
+table_ussd_exportpdf === USSD PDF Export
+table_ussd_createdtitle === Ƙirƙiri
+table_ussd_codetitle === Lambar
+table_ussd_responsetitle === Martani
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Matsayi
+table_ussd_devicetitle === Na'ura
+table_ussd_optionstitle === Zabuka
+table_ussd_pendingresponsetext === Amsa mai jiran gado
+table_empty_data === Babu komai
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Ana jiran
+table_ussd_queuelabel === An yi layi
+table_ussd_completelabel === An kammala
+table_ussd_detailsline1 === Na'ura: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Kwafin allo na Fadakarwa
+table_notifications_exportexcel === Fadakarwa Excel Export
+table_notifications_exportpdf === Sanarwa da Fitar da PDF
+table_notifications_createdtitle === Ƙirƙiri
+table_notifications_packagetitle === Sunan Kunshin
+table_notifications_title === Take
+table_notification_texttitle === Rubutu
+table_notification_devicetitle === Na'ura
+table_notification_optiontitle === Zabuka
+table_notification_devicelabel === Na'ura:
+table_notification_oslabel === OS:
+table_devices_nametitle === Suna
+table_devices_globaltitle === Duniya
+table_enabled_data === An kunna
+table_disabled_data === An kashe
+table_notifications_exportone === Na'ura: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Ana jiran
+table_whatsapp_queuelabel === An yi layi
+table_whatsapp_sentlabel === An aika
+table_whatsapp_failedlabel === Ba a yi nasara ba
+table_whatsappreceive_exportcopy === An Karɓi Kwafin Clipboard
+table_whatsappreceive_exportexcel === An Karɓi Export na Excel
+table_whatsappreceive_exportpdf === An Karɓi Fitar da PDF
+table_whatsappreceive_replytitle === Amsa ga lamba
+table_waschedule_scheduletitle === Jadawalin
+table_waschedule_detailstitle === Cikakkun bayanai
+table_waschedule_detailsline1 === Maimaita: _8880_
+table_waschedule_detailsline2 === Asusu:
+table_waschedule_detailsline3 === Ƙungiyoyi:
+table_waschedule_detailsline4 === Lambobi:
+table_waaccounts_loggedtitle === Shiga
+device_login_usevalidemail === Da fatan za a yi amfani da ingantaccen adireshin imel!
+device_login_accountsuspended === Yi haƙuri, an dakatar da asusun ku!
+device_login_incorrectmailorpass === Ka shigar da imel ko kalmar sirri da ba daidai ba!
+device_login_nosubscription === Ba ku da biyan kuɗin fakiti!
+device_login_nomoredevice === Ba za ku iya yin rajistar ƙarin na'urori ba!
+device_scan_qrcodeinvalid === QRCcode ɗinku ba daidai bane!
+device_scan_nosub === Ba ku da biyan kuɗin fakiti!
+device_scan_usersuspended === Yi haƙuri, an dakatar da asusun ku!
+device_scan_nomoredevices === Ba za ku iya yin rajistar ƙarin na'urori ba!
+device_report_smssentsuccess === An aika sako _8880_ daga _8881_
+device_report_smssentfailed === Aika sako _8880_ ya kasa daga _8881_
+device_received_smsreceived === An karɓi sabon _8880_ daga _8881_
+requests_resend_devicenotexist === Babu na'ura!
+device_ussd_responsereceive === Amsar USSD ta samu daga _8880_
+device_notification_notireceive === An karɓi sabon sanarwa daga _8880_
+payment_success_unknowntx === Ba a sani ba
+payment_webhook_molliecreditsadded === An ƙara ƙididdiga zuwa asusun ku!
+payment_webhook_paypalcreditsadded === An ƙara ƙididdiga zuwa asusun ku!
+payment_webhook_unknowntn === Ba a sani ba
+mail_tpl_creditstitle === Sannu dai,
+mail_tpl_creditsdesc === Kun sayi kiredit, mun ƙididdige jimlar _8880_ zuwa asusun ku kuma kuna iya amfani da shi nan take.
+mail_tpl_creditstnx === Na gode!
+mail_tpl_poweredby === An ƙarfafa shi daga _8880_
+forgot_response_recoverysent === An aika umarnin dawowa zuwa _8880_
+forgot_response_recoveryfail === Ba za mu iya aiko muku da imel ba!
+cron_package_expired === Biyan kuɗin fakitinku ya ƙare!
+cron_package_expiring === Biyan kuɗin fakitin da ke ƙarewa a cikin kwanaki 5!
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === ID na musamman
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Kwafin allo na ƙungiyoyi _8880_
+table_contactssaved_exportexcel === Ƙungiyoyin Excel Export _8880_
+table_contactssaved_exportpdf === Ƙungiyoyin Fitar da PDF _8880_
+table_contactssaved_grouptitle === Ƙungiyoyi
+table_contactsgroups_gidtitle === ID na rukuni
+table_contactsunsub_exportcopy === Kwafi na allo mara rijista _8880_
+table_contactsunsub_exportexcel === Export na Excel mara rajista _8880_
+table_contactsunsub_exportpdf === Fitar da PDF mara rajista _8880_
+table_toolskeys_createdtitle === Ƙirƙiri
+table_toolskeys_copyapisecret === Kwafi sirrin API zuwa allo
+table_toolswebhooks_createtitle === Ƙirƙiri
+table_tootlswebhooks_eventstitle === Abubuwan da suka faru
+table_toolswebhooks_simulatebtn === Tasiri
+table_toolswebhooks_simulatedesc === A kwaikwayi bukatar webhook
+table_toolswebhooks_copywebhooksecret === Kwafi sirrin gidan yanar gizo zuwa allo
+table_toolsactions_createtitle === Ƙirƙiri
+table_toolsactions_detailstitle === Cikakkun bayanai
+table_toolsactions_typehook === Kugiya
+table_toolsactions_typeautoreply === Amsa ta atomatik
+table_toolsactions_source === Tushen: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Matsala: _8880_
+table_toolsactions_eventonsend === Akan Aika
+table_toolsactions_eventonreceive === Kan Karba
+table_toolsactions_link === mahada:
+table_toolsactions_keywords === Mahimman kalmomi:
+table_toolsactions_message === Sako:
+table_toolsactions_type === Nau'i: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Ƙirƙiri
+table_ratespartners_countrytitle === Ƙasa
+table_ratespartners_detailstitle === Cikakkun na'ura
+table_ratespartners_ratetitle === Yawan Saƙo
+table_ratespartners_prioritytitle === fifiko
+table_ratespartners_simtitle === Lambobin SIM da aka yarda
+table_ratespartners_name === Suna:
+table_ratespartners_owner === Mai shi:
+table_ratespartners_localrate === Ƙimar gida:
+table_ratespartners_convertedrate === Yawan Canza:
+table_ratespartners_simdual === SIM 1 da SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Kwafin Clipboard Masu Amfani _8880_
+table_adminusers_exportexcel === Masu amfani Excel Export _8880_
+table_adminusers_exportpdf === Masu amfani da PDF Export _8880_
+table_adminusersexportdata === Matsayi: _8880_, Ƙasa: _8881_, Harshe: _8882_, Shiyyar lokaci: _8883_, Abubuwan da aka samu: _8884_, Kiredit: _8885_, Biyan kuɗi: _8886_, Sauti: _8887_, An dakatar da: _888
+table_adminusers_exportdata1 === Matsayi: _8880_
+table_adminusers_exportdata2 === Kasar: _8880_
+table_adminusers_exportdata3 === Harshe: _8880_
+table_adminusers_exportdata4 === Yankin lokaci:
+table_adminusers_exportdata5 === Abubuwan da ake samu: _8880_
+table_adminusers_exportdata6 === Kiredit: _8880_
+table_adminusers_exportdata7 === Biyan kuɗi:
+table_adminusers_exportdata8 === Sauti: _8880_
+table_adminusers_exportdata9 === An dakatar: _8880_
+table_adminusers_unsuspendaccount === Cire wannan asusun
+table_adminusers_suspendaccount === Dakatar da wannan asusun
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Ƙirƙiri
+table_adminpackages_detailstitle === Cikakken Bayani
+table_adminpackages_freelabel === Kyauta
+table_unlimited_data === Unlimited
+table_adminpackages_labeldetails1 === Boye:
+table_adminpackages_labeldetails2 === Alamar Ƙafar:
+table_adminpackages_labeldetails3 === Iyakar Aika SMS:
+table_adminpackages_labeldetails4 === Iyakar Karbar SMS:
+table_adminpackages_labeldetails5 === Iyakar Aika WhatsApp:
+table_adminpackages_labeldetails6 === Iyakar Karbar WhatsApp:
+table_adminpackages_labeldetails7 === Iyakar Asusun WhatsApp:
+table_adminpackages_labeldetails8 === Iyakar USSD:
+table_adminpackages_labeldetails9 === Iyakar Sanarwa:
+table_adminpackages_labeldetails10 === Iyakar na'ura:
+table_adminpackages_labeldetails11 === Iyakar Tuntuɓa:
+table_adminpackages_labeldetails12 === Iyakar Maɓallin API:
+table_adminpackages_labeldetails13 === Iyakance Webhook:
+table_adminpackages_labeldetails14 === Iyakar Aiki:
+table_adminpackages_labeldetails15 === Iyakar da aka tsara:
+table_adminvouchers_exportcopy === Kwafi Clipboard Baucan _8880_
+table_adminvouchers_exportexcel === Baucan Excel Export _8880_
+table_adminvouchers_exportpdf === Baucan PDF Export _8880_
+table_adminvouchers_createdtitle === Ƙirƙiri
+table_adminvouchers_codetitle === Maida Code
+table_adminvouchers_copycode === Kwafi lambar baucan zuwa allo
+table_adminsubscriptions_createdtitle === Ƙirƙiri
+table_admintransactions_createdtitle === Ƙirƙiri
+table_admintransactions_itemtitle === Abu
+table_admintransactions_amounttitle === Adadin
+table_admintransactions_durationtitle === Tsawon lokaci
+table_admintransactions_creditslabel === Kiredit
+table_admintransactions_monthslabel === _8880_ watanni
+table_adminpayouts_createdtitle === Ƙirƙiri
+table_adminpayouts_partnertitle === Abokin tarayya
+table_adminpayouts_amounttitle === Adadin
+table_adminpayouts_addresstitle === Adireshin Biyan Kuɗi
+table_adminpayouts_optionstitle === Zabuka
+table_adminpayouts_approve === Alama bukatar biya kamar yadda aka biya
+table_adminpayouts_reject === ƙin neman biyan kuɗi
+table_adminwidgets_createdtitle === Ƙirƙiri
+table_adminwidgets_typeblock === Toshe
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Kwafi ƙugiya mai nuna dama cikin sauƙi zuwa allo
+table_adminpages_createdtitle === Ƙirƙiri
+table_adminpages_optionstitle === Zabuka
+table_adminpages_copypagehook === Kwafi ƙugiya shafi zuwa allo
+table_adminmarketing_createdtitle === Ƙirƙiri
+table_adminmarketing_typetitle === Nau'in
+table_adminmarketing_titletitle === Take
+table_adminmarketing_contenttitle === Abun ciki
+table_adminmarketing_recipientstitle === Masu karɓa
+table_adminmarketing_optionstitle === Zabuka
+table_adminmarketing_notifylabel === Sanarwa
+table_adminmarketing_mailerlabel === Mai aikawa
+table_adminmarketing_pushlabel === Tura
+table_adminmarketing_roleslabel === Matsayi:
+table_adminmarketing_userslabel === Masu amfani:
+table_admingateways_createdtitle === Ƙirƙiri
+table_admingateways_nametitle === Suna
+table_admingateways_pricingtitle === Farashi
+table_admingateways_optionstitle === Zabuka
+table_admingateways_invalidjson === Tsarin JSON mara inganci!
+table_admingateways_defaultprice === Farashi na asali: _8880_
+table_admingateways_percountryprcie === Farashin Kowane Ƙasa:
+table_adminshorteners_createdtitle === Ƙirƙiri
+table_adminshorteners_nametitle === Suna
+table_adminshorteners_optionstitle === Zabuka
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Sigar Shigar
+table_adminplugins_actionstitle === Ayyuka
+table_adminplugins_updatedesc === Sabunta wannan plugin ɗin
+table_adminplugins_editdesc === Gyara zaɓuɓɓukan plugin
+table_adminplugins_removedesc === Cire wannan plugin ɗin
+whatsapp_sent_sentsuccess === WhatsApp chat _8880_ an aika!
+whatsapp_sent_sentfailed === Aika hira _8880_ ya kasa!
+whatsapp_received_chat === An karɓi sabuwar hira _8880_!
+widget_systemupdate_title === Sabunta tsarin
+widget_systemupdate_loader === Tsarin sabuntawa
+widget_systemupdate_requireupdate === Ɗaukaka fayil ba zai iya zama fanko ba!
+requests_systemupdate_faileduploadingfile === Fayil ɗin ɗaukakawa ya gaza!
+widget_usersettings_loader === Ajiye saitunan asusu
+widget_payment_title === Biya
+widget_payment_creditamountnotless === Adadin kiredit ba zai iya zama ƙasa da 10 ba!
+widget_payment_creditslabel === Kiredit
+widget_view_contentremoved === An cire abun ciki!
+widget_redeem_title === fanshi
+widget_redeem_loader === Tabbatar da lambar bauchi
+widget_addcredits_title === Ƙara Kiredit
+widget_addpayout_title === Nemi Biyan Kuɗi
+widget_addpayout_loader === Ƙirƙirar buƙatar biyan kuɗi
+widget_addpayout_requireamount === Adadin ba zai iya zama fanko ba!
+widget_addpayout_requireprovider === Mai bada biyan kuɗi ba zai iya zama fanko ba!
+widget_addpayout_requireaddress === Adireshin biyan kuɗi ba zai zama fanko ba!
+widget_smsquick_loader === Ƙara sako zuwa jerin gwano
+widget_smsbulk_loader === Ƙara saƙonni zuwa jerin gwano
+widget_smsexcel_loader === Ƙara saƙonni daga fayil ɗin Excel zuwa jerin gwano
+widget_addsmsscheduled_loader === Ajiye saƙon da aka tsara
+widget_editscheduled_title === Shirya Jadawalin
+widget_editscheduled_loader === Ajiye saƙon da aka tsara
+widget_addussd_title === Neman USSD
+widget_addussd_loader === Ƙara buƙatar ussd don yin layi
+widget_editdevice_title === Gyara Na'ura
+widget_editdevice_loader === Ajiye na'urar yana canzawa
+widget_waquick_title === Hira da sauri
+widget_waquick_loader === Ƙara hira ta whatsapp zuwa layi
+widget_waquick_requireaccount === Ana buƙatar asusun WhatsApp!
+widget_wabulk_title === Babban Tattaunawa
+widget_wabulk_loader === Ƙara hira ta whatsapp zuwa layi
+widget_waexcel_title === Bulk Chat ta Excel
+widget_waexcel_loader === Ƙara hira ta whatsapp zuwa layi
+widget_wascheduled_title === Jadawalin Taɗi
+widget_wascheduled_loader === Ƙara hira ta whatsapp zuwa layi
+widget_wascheduled_requireaccount === Ana buƙatar asusun WhatsApp!
+widget_waeditscheduled_title === Shirya Jadawalin
+widget_waeditscheduled_loader === Ƙara hira ta whatsapp zuwa layi
+widget_waeditscheduled_requireaccount === Ana buƙatar asusun WhatsApp!
+widget_waaddaccount_title === Ƙara Account
+widget_importcontacts_loaded === Ana shigo da lambobi daga fayil ɗin Excel
+widget_addcontact_loader === Ƙirƙirar sabuwar shigarwar lamba
+default_pricecolumns_monthlabel === wata
+default_pricecolumns_dailylabel === kullum
+default_pricecolumns_monthlylabel === kowane wata
+default_pricecolumns_unlimitedlabel === Unlimited
+form_literal_spintaxdesc2 === Za a yi amfani da ƙimar _8880_ da _8881_ ba da gangan ba.
+dashboard_packagesmodal_smssend === SMS Aika
+default_footerquote_obama === Kasancewa ba game da isa wani wuri bane ko cimma wata manufa ba. Ina ganin a maimakon haka a matsayin motsi na gaba, hanyar haɓakawa, hanya ta ci gaba da kaiwa ga ingantacciyar kai. Tafiya ba ta ƙarewa.
+widgets_editcontact_loader === Ajiye canjin lamba
+widgets_addgroup_loader === Ƙirƙirar sabuwar shigar ƙungiya
+widgets_editgroup_loader === Ajiye canje-canjen rukuni
+widgets_addapikey_loader === Ƙirƙirar sabon maɓallin API
+widgets_editapikey_loader === Ajiye canje-canjen maɓallin API
+widgets_addwebhook_title === Ƙara Webhook
+widgets_addwebhook_loader === Ƙirƙirar sabon saƙon gidan yanar gizo
+widgets_addwebhook_requireevents === Abubuwan da ba za su iya zama fanko ba!
+widgets_editwebhook_loader === Ajiye canjin gidan yanar gizo
+widgets_addhook_loader === Ƙirƙirar sabon aikin ƙugiya
+widgets_edithook_loader === Ajiye ayyukan ƙugiya yana canzawa
+widgets_addautoreply_loader === Ƙirƙirar sabon aikin amsa kai tsaye
+widgets_editautoreply_loader === Ajiye canje-canjen amsawar kai tsaye
+widgets_addtemplate_loader === Ƙirƙirar sabon samfurin saƙo
+widgets_edittemplate_loader === Canje-canjen samfuri
+widgets_adminbuilder_loader === Ajiye saitunan magini
+widgets_adminsettings_loader === Ajiye saitunan tsarin
+widgets_admintheme_loader === Ajiye saitunan jigo
+widgets_adduser_loader === Ƙirƙirar sabon asusun mai amfani
+widgets_edituser_loader === Ajiye asusun mai amfani yana canzawa
+widgets_addrole_loader === Ƙirƙirar sabon rawar mai amfani
+widgets_addrole_title === Ƙara Matsayi
+widgets_editrole_loader === Ajiye rawar mai amfani yana canzawa
+widgets_addpackage_loader === Ƙirƙirar sabon kunshin tsarin
+widgets_editpackage_loader === Ajiye fakitin canje-canje
+widgets_addvoucher_loader === Ƙirƙirar sababbin takaddun shaida
+widgets_addsubscription_loader === Ƙirƙirar sabon biyan kuɗin mai amfani
+widgets_addwidgets_loader === Ƙirƙirar sabon widget din
+widgets_editwidget_loader === Ajiye widget din canje-canje
+widgets_addpage_loader === Ƙirƙirar sabon shafi
+widgets_editpage_loader === Ajiye canje-canjen shafi
+widgets_addpush_title === Tura Watsa shirye-shirye
+widgets_addpush_loader === Watsawa tura sanarwar
+widgets_addpush_requiretitle === Take ba zai iya zama fanko!
+widgets_addpush_requiremessage === Saƙo ba zai zama fanko ba!
+widgets_addnotify_title === Sanar da Watsa Labarai
+widgets_addnotify_loader === Watsawa kai tsaye sanarwa
+widgets_addnotify_requiretitle === Take ba zai iya zama fanko!
+widgets_addnotify_requiremessage === Saƙo ba zai zama fanko ba!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Aika saƙonnin imel
+widgets_addmailer_requiretitle === Take ba zai iya zama fanko!
+widgets_addlanguage_loader === Ƙara sabon harshe
+widgets_editlanguage_loader === Ajiye canjin harshe
+widgets_addgateway_title === Ƙara Ƙofar
+widgets_addgateway_loader === Ƙara sabuwar ƙofa
+widgets_addgateway_requirename === Sunan ƙofa ba zai zama fanko ba!
+widgets_editgateway_title === Gyara Gateway
+widgets_editgateway_loader === Ajiye canje-canjen ƙofa
+widgets_editgateway_requirename === Sunan ƙofa ba zai zama fanko ba!
+widgets_addshortener_title === Ƙara Shortener
+widgets_addshortener_loader === Ƙara sabon gajarta
+widgets_addshortener_requirename === Sunan gajarta ba zai zama fanko ba!
+widgets_editshortener_title === Gyara Shortener
+widgets_editshortener_loader === Ajiye canje-canje ga gajarta
+widgets_editshortener_requirename === Sunan gajarta ba zai zama fanko ba!
+widgets_editplugin_loader === Aiwatar da canje-canjen plugin zuwa tsarin
+widgets_updateplugin_title === Sabunta plugin
+widgets_updateplugin_loader === Ana ɗaukaka plugin
+device_backgroundpage_line1 === Gudu a Baya
+device_backgroundpage_line2 === Me yasa Gateway App ke buƙatar aiki a bango?
+device_backgroundpage_line3 === Manhajar tana buƙatar aiki a bango don ci gaba da sauraron sabbin saƙonni don aikawa da karɓa, wannan kuma ana buƙatar aiwatar da sabbin sanarwa. Idan baku buƙatar sanarwa, zaku iya kashe wannan a cikin saitunan app, kashe shi zai hana tsarin karɓar bayanan sanarwa daga na'urar.
+device_backgroundpage_line4 === Idan kana da app na tsaro na ɓangare na uku kamar Avast, Eset da sauransu. Da fatan za a ƙara app ɗin ƙofar zuwa keɓanta.
+device_backgroundpage_line5 === Da fatan za a karanta jagorar da ta dace don alamar wayar ku a cikin jeri mai zuwa.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Mai tanadin baturi
+device_backgroundpage_line8 === 1. Buɗe Saituna.
+device_backgroundpage_line9 === 2. Zaɓi "Batir & aiki".
+device_backgroundpage_line10 === 3. Zaɓi "Zaɓi apps".
+device_backgroundpage_line11 === 4. Nemo _8880_ kuma zaɓi "Babu ƙuntatawa" a cikin saitunan baya.
+device_backgroundpage_line12 === Kulle App
+device_backgroundpage_line13 === 1. Matsa maɓallin Menu don shigar da shafin Kwanan baya.
+device_backgroundpage_line14 === 2. Zaɓi katin _8880_ kuma ku kulle shi.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Mai tanadin baturi
+device_backgroundpage_line17 === 1. Buɗe Saituna.
+device_backgroundpage_line18 === 2. Zaɓi Advanced settings.
+device_backgroundpage_line19 === 3. Zaɓi Manajan baturi.
+device_backgroundpage_line20 === 4. Zaɓi Kariyar apps.
+device_backgroundpage_line21 === 5. Nemo _8880_ kuma kunna mai kunnawa.
+device_backgroundpage_line22 === Idan an sabunta sigar EMUI kwanan nan, ba lallai ba ne a yi canje-canje a Saitunan.
+device_backgroundpage_line23 === Kulle App
+device_backgroundpage_line24 === 1. Matsa maɓallin Menu, shigar da shafin kwanan nan.
+device_backgroundpage_line25 === 2. Ja ƙasa _8880_ har sai gunkin kulle ya bayyana.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Mai tanadin baturi
+device_backgroundpage_line28 === 1. Matsa Smart Manager.
+device_backgroundpage_line29 === 2. Zaɓi baturi kuma matsa don shigar da shafin saiti.
+device_backgroundpage_line30 === 3. Matsa aikace-aikacen da ba a kula da su ba, nemo _8880_ sannan ka matsa don shigar.
+device_backgroundpage_line31 === 4. Matsa baturi kuma matsa Haɓaka amfani da baturi.
+device_backgroundpage_line32 === 5. Zaɓi Duk aikace-aikacen, nemo _8880_ kuma kashe mai kunnawa.
+device_backgroundpage_line33 === Kulle App
+device_backgroundpage_line34 === 1. Matsa maɓallin Menu kuma shigar da shafukan shirin da aka buɗe kwanan nan.
+device_backgroundpage_line35 === 2. Matsa ƙarin gunkin don zaɓar Kulle apps.
+device_backgroundpage_line36 === 3. Matsa gunkin Kulle na _8880_.
+device_backgroundpage_line37 === 4. Matsa Anyi don kammala aikin.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Kulle App
+device_backgroundpage_line40 === 1. Doke sama a gefen hagu na Fuskar allo don shigar da "Recents".
+device_backgroundpage_line41 === 2. Latsa ka riƙe _8880_ har sai gunkin kulle ya bayyana.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Mai tanadin baturi
+device_backgroundpage_line44 === 1. Buɗe Saituna kuma danna Baturi.
+device_backgroundpage_line45 === 2. Matsa Energy Saver.
+device_backgroundpage_line46 === 3. Nemo _8880_ don kashe Daskarewar Bayan Fage da Ingantaccen ƙa'idodin ƙa'idodi.
+device_backgroundpage_line47 === Idan ba za ku iya saita bayan kun kammala matakan da ke sama ba, gwada waɗannan masu zuwa:
+device_backgroundpage_line48 === 1. Buɗe Manajan waya kuma nemo Bayani mai Tsafta.
+device_backgroundpage_line49 === 2. Matsa don ƙara app.
+device_backgroundpage_line50 === 3. Danna _8880_ sannan ka matsa Ok.
+device_backgroundpage_line51 === Kulle App
+device_backgroundpage_line52 === 1. Matsa maɓallin Menu, shigar da shafin kwanan nan.
+device_backgroundpage_line53 === 2. Ja ƙasa _8880_ har sai gunkin kulle ya bayyana.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Mai tanadin baturi
+device_backgroundpage_line56 === 1. Buɗe Manager kuma matsa Power Manager.
+device_backgroundpage_line57 === 2. Zaɓi ƙarfin baya.
+device_backgroundpage_line58 === 3. Nemo _8880_ kuma kunna mai kunnawa.
+device_backgroundpage_line59 === Kulle App
+device_backgroundpage_line60 === 1. Matsa maɓallin Menu, shigar da shafin kwanan nan.
+device_backgroundpage_line61 === 2. Ja ƙasa _8880_ har sai gunkin kulle ya bayyana.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Mai tanadin baturi
+device_backgroundpage_line64 === 1. Bude Manajan waya.
+device_backgroundpage_line65 === 2. Matsa Apparancin Amfani da Baturi.
+device_backgroundpage_line66 === 3. Nemo _8880_ kuma kashe mai kunnawa.
+device_backgroundpage_line67 === Kulle App
+device_backgroundpage_line68 === 1. Danna maɓallin Menu sau biyu, shigar da shafin kwanan nan.
+device_backgroundpage_line69 === 2. Latsa ka riƙe _8880_ har sai alamar turawa ta bayyana.
+device_backgroundpage_line70 === Sauran Alamomin
+device_backgroundpage_line71 === 1. Kulle _8880_ app a cikin Kwanan baya.
+device_backgroundpage_line72 === 2. Ƙara _8880_ zuwa keɓancewa.
+device_backgroundpage_line73 === 3. Idan ka shigar da wani Startup Manager, cire _8880_ daga blocklist.
+dashboard_adminmarketing_pushbtndesc === Watsawa tura sanarwar zuwa na'urori
+dashboard_adminmarketing_notifybtndesc === Watsa shirye-shiryen mai bincike ga masu amfani
+dashboard_adminmarketing_mailerbtndesc === Aika babban imel ga masu amfani
+js_loader_pleasewait === Don Allah jira
+js_userstatus_online === Kan layi
+js_userstatus_offline === Offline
+js_whatsapp_linksuccess === An haɗa asusun WhatsApp cikin nasara!
+js_whatsapp_linkfailed === Haɗin haɗin asusun WhatsApp ya kasa!
+js_whatsapp_linkexist === An riga an haɗa WhatsApp zuwa asusun ku!
+js_whatsapp_loaderprocessing === Buƙatun sarrafawa
+js_clearpending_title === Share Yana jiran?
+js_clearpending_desc === Duk abubuwan da ke jiran aikawa za a share su kuma za a share su!
+js_clearpending_processing === Buƙatun sarrafawa
+js_authenticate_processing === Buƙatun sarrafawa
+js_actiontrigger_title === Simulate Webhook
+js_actiontrigger_typetitle === Nau'in Bayanai
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Sanarwa
+js_actiontrigger_loader === Simulating webhook
+js_actiontranslator_title === Mai fassara
+js_actiontranslator_from === Fassara Daga
+js_actiontranslator_to === Fassara Zuwa
+js_actiontranslator_loader === Fassara sakon
+js_actionregen_title === Maimaita Tsarin Token?
+js_actionregen_desc === Ƙirƙirar sabon alamar tsarin ba zai iya jurewa ba!
+js_actionregen_loader === Samar da alamar
+js_actionclear_title === Share Cache?
+js_actionclear_desc === Za a share duk bayanan cache na tsarin!
+js_processing_dataloader === Buƙatun sarrafawa
+js_build_title === Gina Sabon apk?
+js_build_desc === Da fatan za a tabbatar cewa kun daidaita saitunan maginin ku da kyau!
+js_build_btnbuild === Gina
+js_reorder_title === Sake tsara Harsuna?
+js_reorder_desc === Harsuna za a sake yin oda, ba za a iya mayar da wannan ba!
+js_deletetrash_title === Share abubuwa?
+js_deletetrash_desc === Kuna son share abubuwan da aka zaɓa?
+js_tablesexport_copy === Allon allo
+js_tablesexport_excel === Export Excel
+js_tablesexport_pdf === Fitar da PDF
+mail_expiredtpl_line1 === Sannu dai,
+mail_expiredtpl_line2 === Kun karɓi wannan saƙon saboda biyan kuɗin fakitin ku mai aiki ya riga ya ƙare!
+mail_expiredtpl_line3 === An cire biyan kuɗin ku. Don sake biyan kuɗi zuwa kowane fakiti na ƙima, kawai ziyarci rukunin yanar gizon mu.
+mail_expiredtpl_line4 === Don tambayoyi da batutuwa, don Allah kar a yi shakka a tuntube mu!
+mail_expiredtpl_line5 === Na gode!
+mail_expiringtpl_line1 === Sannu dai,
+mail_expiringtpl_line2 === Wannan tunatarwa ce ta abokantaka biyan kuɗin fakitin ku mai aiki zai ƙare a cikin kwanaki 5!
+mail_expiringtpl_line3 === Don hana katsewar sabis, da fatan kar a manta da sake biyan kuɗi zuwa kowane fakiti na ƙima. Da fatan za a ziyarci rukunin yanar gizon mu don sake yin oda.
+mail_expiringtpl_line4 === Don tambayoyi da batutuwa, don Allah kar a yi shakka a tuntube mu!
+mail_expiringtpl_line5 === Na gode!
+mail_failedtpl_line1 === Sannu dai,
+mail_failedtpl_line2 === Ba za mu iya aiwatar da ma'amalar biyan kuɗin ku ba, da fatan za a sake gwadawa ta amfani da wata hanyar bayarwa ta daban ko hanyar biyan kuɗi.
+mail_failedtpl_line3 === ID na biyan kuɗi:
+mail_failedtpl_line4 === Yi hakuri da cikas.
+mail_forgottpl_line1 === Sannu dai,
+mail_forgottpl_line2 === Mun sami buƙatun dawo da asusu don asusunku, da fatan za a yi amfani da wannan kalmar sirri ta wucin gadi don shiga:
+mail_forgottpl_line3 === Kar ku manta da canza kalmar sirrinku bayan shiga!
+mail_forgottpl_line4 === Kalmar wucewa za ta ƙare bayan minti 10, yi sauri. Idan baku nemi wannan ba, da fatan za a yi watsi da wannan imel.
+mail_forgottpl_line5 === Na gode! Da fatan zai yi aiki.
+mail_payoutpaidtpl_line1 === Sannu dai,
+mail_payoutpaidtpl_line2 === Ƙungiyarmu ta aika da buƙatar biyan kuɗin ku zuwa adireshin ku da zaɓaɓɓen mai ba da biyan kuɗi.
+mail_payoutpaidtpl_line3 === Adadi:
+mail_payoutpaidtpl_line4 === Farin ciki ciyarwa!
+mail_payoutrejecttpl_line1 === Sannu dai,
+mail_payoutrejecttpl_line2 === Ba mu iya aiwatar da buƙatar biyan kuɗin ku ba, ƙila a sami matsala game da adireshin kuɗin ku. Da fatan za a tuntuɓi ƙungiyarmu don ƙarin sani.
+mail_payoutrejecttpl_line3 === Adadi:
+mail_payoutrejecttpl_line4 === Yi hakuri da cikas.
+mail_subscribetpl_line1 === Sannu dai,
+mail_subscribetpl_line2 === Mun gode don biyan kuɗin shiga ɗaya daga cikin fakiti masu ƙima, ga ɗan raguwar siyan ku:
+mail_subscribetpl_line3 === _8880_ Kunshin
+mail_subscribetpl_line4 === Wannan biyan kuɗin zai ƙare bayan _8880_
+mail_subscribetpl_line5 === Hakan zai fara aiki nan take. Don tambayoyi da batutuwa, don Allah kar a yi shakka a tuntube mu!
+mail_subscribetpl_line6 === Na gode!
+requests_build_submitrequest === Buƙatun sarrafawa
+requests_reorder_loader === Buƙatun sarrafawa
+requests_deleteitem_loader === Buƙatun sarrafawa
+requests_packageform_invalidint === Wasu filayen sun ƙunshi lamba marasa aiki!
+widgets_viewbank_title === Canja wurin Banki
+modal_paymentbtn_banktransfer === Canja wurin Banki
+modal_adminsettings_banktransfer1 === Samfurin Canja wurin Banki
+modal_adminsettings_banktransfer2 === Idan kun kunna canja wurin banki a cikin zaɓuɓɓukan biyan kuɗi, yakamata ku ƙirƙiri samfuri don shi, wannan shine abin da masu amfani zasu gani lokacin da suka danna maɓallin. Kuna iya ƙara umarni da adireshin banki anan. HTML karbabbu.
+modal_adminsettings_banktransfer3 === Saitin masu canji da zaku iya amfani da su a cikin samfurin canja wurin banki.
+requests_delete_pluginssuccess === An yi nasarar goge plugin!
+table_whatsappreceived_chattitle === Taɗi
+table_whatsappreceived_accounttitle === Asusu
+tabs_whatsappaccounts_titleheader === WhatsApp Accounts
+form_editwhatsapp_randominterval === Tazarar Aika Random
+form_editwhatsapp_randomintervalhelp === Idan an kunna, za a aika taɗi cikin tsaka-tsaki tsakanin ƙima biyu. Kuna iya saita su a ƙasa.
+form_editwhatsapp_randommin === Aika Tazarar Min
+form_editwhatsapp_randomminhelp === Mafi ƙarancin tazarar aika a cikin daƙiƙa.
+form_editwhatsapp_randommax === Aika Tazara Max
+form_editwhatsapp_randommaxhelp === Matsakaicin tazarar aika a cikin daƙiƙa.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Gyara WhatsApp
+widgets_editwhatsapp_loader === Ajiye canjin asusu na whatsapp
+mail_waunlink_title === An cire haɗin asusun ku na WhatsApp!
+mail_waunlink_contentline1 === Sannu dai!
+mail_waunlink_contentline2 === An cire ɗaya daga cikin asusun ku na WhatsApp da aka haɗa tare da ID na musamman mai zuwa:
+mail_waunlink_contentline3 === Wannan asusun ba a haɗa shi da tsarinmu kuma saboda abin da ya shafi WhatsApp, da fatan za a sake haɗa shi.
+mail_waunlink_contentline4 === Na gode!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Waya
+form_btnall_visitlink === Ziyarci
+unsubscribe_header_title === Cire rajista
+unsubscribe_content_title === Ba a yi rajista ba
+unsubscribe_content_desc === Kun cire rajista daga lissafin aika mu.
+requests_editwhatsapp_success === An sabunta asusun WhatsApp!
+form_addusertpl_credits === Kiredit
+form_addusertpl_creditsdesc === Fara ƙididdiga don wannan asusun mai amfani.
+form_addusertpl_creditsdesc2 === Gyara kiredit na wannan asusun mai amfani.
+form_registerconfirm_desc === An tabbatar da adireshin imel ɗinku cikin nasara. Kuna iya shiga cikin asusunku ta amfani da maɓallin da ke ƙasa.
+requests_loginnotverified_response === Har yanzu ba a tabbatar da adireshin imel ɗin ku ba. Mun aika hanyar haɗi zuwa ga wannan adireshin: _8880_
+requests_loginnotverified_response2 === An yi nasarar yin rijistar asusunku. Kafin kayi amfani da shi, kuna buƙatar tabbatar da adireshin imel ɗin ku. Mun aika hanyar haɗi zuwa ga wannan adireshin: _8880_
+requests_loginnotverified_responseunable === Ba mu iya aika tabbatar da imel ɗin ba!
+requests_loginnotverified_emailtitle === Barka da zuwa _8880_! Tabbatar da adireshin imel na asusun ku a nan.
+requests_loginnotverified_emaildesc1 === Sannu dai!
+requests_loginnotverified_emaildesc2 === Na gode don ƙirƙirar asusunku tare da mu, da fatan za a tabbatar da adireshin imel ɗin ku ta hanyar ziyartar wannan hanyar:
+requests_loginnotverified_emaildesc3 === Na gode!
+form_adminsettings_authredi === Juyar da Gaskiya
+form_adminsettings_authredidesc === Zaɓi wurin turawa bayan ingantaccen tabbaci.
+form_adminsettings_authredihomepage === Shafin gida
+form_adminsettings_authredidashboard === Dashboard
+form_adminsettings_defaultcoun === Ƙasar ta asali
+form_adminsettings_defaultcoundesc === Ƙasar da aka zaɓa ta asali akan fom ɗin rajistar mai amfani.
+form_adminsettings_defaulttimezo === Default Time Zone
+form_adminsettings_defaulttimezodesc === Tsohuwar zaɓin yankin lokaci akan fom ɗin rajistar mai amfani.
+form_adminsettings_mailingtrig === Abubuwan Haɓaka Saƙo
+form_adminsettings_mailingtrigdesc === Zaɓi abubuwan jawo aikawasiku don kunna.
+form_adminsettings_adminemail === Admin Imel
+form_adminsettings_adminemaildesc === Za a aika saƙonnin da aka jawo wa admin zuwa wannan adireshin imel. Waɗannan saƙonnin suna cikin Turanci kawai kuma ba za a iya fassara su ba.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Lokacin da aka kunna, za a nuna recaptcha zuwa takaddun shaida kamar rajista, shiga da kalmar sirri da aka manta.
+form_editdevice_receiveoptiontitle === Karɓi SMS
+form_editdevice_receiveoptiondesc === Idan an kashe, saƙonnin da aka karɓa daga akwatin saƙo na android ba za a adana su ta tsarin ba. Webhooks da sauran kayan aikin da ke da alaƙa ba za su yi aiki don na'urar ba lokacin da aka kashe wannan.
+form_editwhatsapp_receiveoptiontitle === Karɓi Taɗi
+form_editwhatsapp_receiveoptiondesc === Idan an kashe, karɓar taɗi daga asusun whatsapp ba za a adana ta tsarin ba. Webhooks da sauran kayan aikin da ke da alaƙa ba za su yi aiki don asusun WhatsApp ba lokacin da aka kashe wannan.
+js_calendarall_option === Duka
+js_calendarall_apply === Aiwatar
+js_calendarall_cancel === Soke
+js_calendarall_from === Daga
+js_calendarall_to === Zuwa
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Mu
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === Janairu
+js_calendarall_monfeb === Fabrairu
+js_calendarall_monmar === Maris
+js_calendarall_monapr === Afrilu
+js_calendarall_monmay === Mayu
+js_calendarall_monjun === Yuni
+js_calendarall_monjul === Yuli
+js_calendarall_monaug === Agusta
+js_calendarall_monsep === Satumba
+js_calendarall_monoct === Oktoba
+js_calendarall_monnov === Nuwamba
+js_calendarall_mondec === Disamba
+response_ussddelete_success === An share buƙatar USSD!
+response_titanecho_invaltoken === Kuskuren tsarin tsari!
+widgets_addplugin_loader === Shigar da sabon plugin zuwa tsarin

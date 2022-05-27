@@ -1,0 +1,7 @@
+requests_packageform_invalidint === Some fields contain invalid integers!
+widgets_viewbank_title === Bank Transfer
+modal_paymentbtn_banktransfer === Bank Transfer
+modal_adminsettings_banktransfer1 === Bank Transfer Template
+modal_adminsettings_banktransfer2 === If you enabled bank transfer in the payment options, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
+modal_adminsettings_banktransfer3 === Set of variable you can use in the bank transfer template.
+requests_delete_pluginssuccess === Plugin has been successfully deleted!

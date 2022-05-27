@@ -2145,7 +2145,6 @@ widgets_addshortener_requirename === 缩写名称不能为空！
 widgets_editshortener_title === 编辑缩短器
 widgets_editshortener_loader === 保存缩短器更改
 widgets_editshortener_requirename === 缩写名称不能为空！
-widgets_addplugin_loader === 将新插件安装到系统中
 widgets_editplugin_loader === 将插件更改应用到系统
 widgets_updateplugin_title === 更新插件
 widgets_updateplugin_loader === 更新插件
@@ -2305,4 +2304,169 @@ modal_paymentbtn_banktransfer === 银行转帐
 modal_adminsettings_banktransfer1 === 银行转账模板
 modal_adminsettings_banktransfer2 === 如果您在付款选项中启用了银行转帐，则应为其创建一个模板，这是用户单击按钮时将看到的内容。您可以在此处添加说明和银行地址。接受 HTML。
 modal_adminsettings_banktransfer3 === 您可以在银行转账模板中使用的一组变量。
-requests_delete_pluginssuccess === 插件已成功删除！
+requests_delete_pluginssuccess === 插件已成功删除！and_push_line17_1 === 推送标题。
+and_settings_line415 === 例如。 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_push_line17_1 === 推送标题。
+and_settings_line420 === recaptcha 秘密，请阅读文档以获取更多信息。
+and_settings_line422 === 例如。 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === 标志灯
+and_theme_line17_1 === 浅色标志图像，当背景元素较暗时，这会显示在主页和身份验证页面中。推荐尺寸为 250x50 像素。
+and_theme_line23 === 徽标深色
+and_theme_line223_1 === 深色徽标图像，当背景元素为浅色时，会在主页和身份验证页面中显示。推荐尺寸为 250x50 像素。
+and_theme_line29 === 站点图标图像，显示在浏览器选项卡中。推荐尺寸为 50x50 像素。
+and_theme_line35 === 背景图片
+and_theme_line35_1 === 网站背景图片，随处可见。建议使用高分辨率图像。
+and_theme_line41 === 选择要用于站点的颜色主题。
+and_theme_line46 === 选择文本的突出显示颜色。
+and_theme_line51 === 微调器颜色
+and_theme_line51_1 === 选择要用于顶部 ajax 微调器的颜色。
+and_theme_line58 === 自定义 JavaScript
+and_theme_line58_1 === 如果您想使用自定义 javascript 代码，请在此处添加。这是在每个页面中动态加载的。
+and_theme_line60 === 你好世界！
+and_theme_line63 === 自定义 CSS
+and_theme_line63_1 === 如果你想改变一些 css 样式，你可以在这里做。
+and_apikey_line17 === 键名。
+and_apikey_line19 === 例如。对于我的服务器
+and_apikey_line24 === 关键权限。
+and_edit_auto_line17 === 动作名称。
+and_edit_auto_line19 === 例如。自动回复
+and_edit_auto_line24 === 资源
+and_edit_auto_line24_1 === 接收事件的来源。
+and_edit_auto_line34 === 响应以逗号分隔的关键字。如果在消息内容中检测到这些关键字，将触发自动响应。
+and_edit_auto_line36 === 例如。谢谢，好的，订阅，是的
+and_edit_auto_line41 === 要发送给发件人的消息。
+and_edit_auto_line43 === 例如。您在此处回复消息，接受简码
+and_edit_auto_line48 === 您可以在消息中使用的一组变量。
+and_edit_con_line17 === 联系人姓名。
+and_edit_con_line19 === 例如。迈克尔
+and_edit_con_line24 === 联系电话。
+and_edit_con_line31 === 联络组。
+and_edit_dev_line16 === 设备详情
+and_edit_dev_line21 === 设备名称。
+and_edit_dev_line23 === 例如。我的设备
+and_edit_dev_line28 === 如果启用，消息将以 2 个值之间的随机间隔发送。您可以在下面配置它们。
+and_edit_dev_line38 === 以秒为单位的最小间隔。
+and_edit_dev_line41 === 例如。 5
+and_edit_dev_line46 === 以秒为单位的最大间隔。
+and_edit_dev_line49 === 例如。 20
+and_edit_dev_line53 === 通知设置
+and_edit_dev_line58 === 应用
+and_edit_dev_line58_1 === 输入要从中获取通知的应用程序的包名称。用换行符分隔它们。
+and_edit_dev_line65 === 合作伙伴设置
+and_edit_dev_line70 === 速度
+and_edit_dev_line70_1 === 您希望对每条消息收取的金额、设备国家/地区将用作货币基础。它支持浮点值，例如美分。
+and_edit_dev_line73 === 例如。 0.50
+and_edit_dev_line78 === 全球地位
+and_edit_dev_line78_1 === 如果禁用，该设备将无法用作全球短信网关，您将无法赚钱。请注意，出于安全原因，全球设备无法接收消息。
+and_edit_dev_line89 === 国家
+and_edit_dev_line89_1 === 设备所在国家/地区，用于确定电话号码并作为费率字段的基础货币。
+and_edit_dev_line101 === 优先
+and_edit_dev_line101_1 === 全局消息将在您自己的消息之前先发送。
+and_edit_dev_line112 === SIM 插槽
+and_edit_dev_line112_1 === 选择您要用于发送的 SIM 卡槽，如果您同时选择两者，则消息将在随机槽中发送。
+and_edit_email_line16 === 电子邮件模板
+and_edit_email_line18 === 允许 HTML
+and_edit_gate_line17 === 姓名
+and_edit_gate_line17_1 === 这是将向您的用户显示的网关名称。
+and_edit_gate_line19 === 例如。特维利奥
+and_edit_gate_line24 === 控制器
+and_edit_gate_line24_1 === 选择网关控制器文件，这将包含您的网关逻辑和代码。建议检查文档。
+and_edit_gate_line31 === 打回来
+and_edit_gate_line31_1 === 如果启用，则需要使用 3rd 方网关的回调功能来验证消息的发送状态，否则，消息将在发送时立即标记为已发送。
+and_edit_gate_line34 === 使能够
+and_edit_gate_line35 === 禁用
+and_edit_gate_line41 === 回调ID
+and_edit_gate_line41_1 === 如果启用了回调，您必须复制此 ID 并将其粘贴到您的控制器，以便系统可以识别回调。
+and_edit_gate_line44 === 复制并粘贴回调 ID
+and_edit_gate_line51 === 价钱
+and_edit_gate_line51_1 === 此网关的自定义定价表。这将允许您在 3rd 方价格之上收费。例如，如果 twilio 对指定国家/地区收取 0.01，那么您可以改为收取 0.02，货币基于您的系统货币。请正确遵循定价格式。
+and_edit_gate_line54 === 示例 JSON 定价：
+and_edit_gate_line54_1 === 下载
+and_edit_grp_line17 === 团队名字。
+and_edit_pack_line111 === 账户限额
+and_what_sent_6 === 删除所选项目
+landing_title_default === Android 移动设备作为 SMS 网关
+response_deleted_package === 包已被删除！
+landing_footer_ourcompnew === 我们公司
+table_whatsappreceived_chattitle === 聊天
+table_whatsappreceived_accounttitle === 帐户
+tabs_whatsappaccounts_titleheader === WhatsApp 帐户
+form_editwhatsapp_randominterval === 随机发送间隔
+form_editwhatsapp_randomintervalhelp === 如果启用，聊天将以 2 个值之间的随机间隔发送。您可以在下面配置它们。
+form_editwhatsapp_randommin === 发送间隔最小值
+form_editwhatsapp_randomminhelp === 以秒为单位的最小发送间隔。
+form_editwhatsapp_randommax === 发送间隔最大值
+form_editwhatsapp_randommaxhelp === 以秒为单位的最大发送间隔。
+dashpages_sms_headertitle === 短信
+dashnav_sms_navname === 短信
+widgets_editwhatsapp_title === 编辑 WhatsApp
+widgets_editwhatsapp_loader === 保存whatsapp帐户更改
+mail_waunlink_title === 您的 WhatsApp 帐户已取消关联！
+mail_waunlink_contentline1 === 你好呀！
+mail_waunlink_contentline2 === 您的其中一个关联的 WhatsApp 帐户已被删除，其唯一 ID 如下：
+mail_waunlink_contentline3 === 由于 WhatsApp 相关事件，此帐户不再与我们的系统关联，请重新关联。
+mail_waunlink_contentline4 === 谢谢！
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === 电话
+form_btnall_visitlink === 访问
+unsubscribe_header_title === 退订
+unsubscribe_content_title === 退订
+unsubscribe_content_desc === 您已取消订阅我们的发送列表。
+requests_editwhatsapp_success === WhatsApp 帐户已更新！
+form_addusertpl_credits === 学分
+form_addusertpl_creditsdesc === 此用户帐户的起始积分。
+form_addusertpl_creditsdesc2 === 修改此用户帐户的信用。
+form_registerconfirm_desc === 您的电子邮件地址已成功验证。您可以使用下面的按钮登录您的帐户。
+requests_loginnotverified_response === 您的帐户电子邮件地址尚未验证。我们已向此地址发送确认链接：_8880_
+requests_loginnotverified_response2 === 您的帐户已成功注册。在使用它之前，您需要验证您的电子邮件地址。我们已向此地址发送确认链接：_8880_
+requests_loginnotverified_responseunable === 我们无法发送电子邮件确认！
+requests_loginnotverified_emailtitle === 欢迎来到_8880_！在此处确认您帐户的电子邮件地址。
+requests_loginnotverified_emaildesc1 === 你好呀！
+requests_loginnotverified_emaildesc2 === 感谢您在我们这里创建帐户，请通过访问此链接验证您的电子邮件地址：
+requests_loginnotverified_emaildesc3 === 谢谢！
+form_adminsettings_authredi === 授权重定向
+form_adminsettings_authredidesc === 成功验证后选择重定向位置。
+form_adminsettings_authredihomepage === 主页
+form_adminsettings_authredidashboard === 仪表板
+form_adminsettings_defaultcoun === 默认国家
+form_adminsettings_defaultcoundesc === 用户注册表单上默认选择的国家。
+form_adminsettings_defaulttimezo === 默认时区
+form_adminsettings_defaulttimezodesc === 用户注册表单上默认选择的时区。
+form_adminsettings_mailingtrig === 邮件触发器
+form_adminsettings_mailingtrigdesc === 选择要启用的邮件触发器。
+form_adminsettings_adminemail === 管理员电子邮件
+form_adminsettings_adminemaildesc === 管理员的邮件触发消息将发送到此电子邮件地址。这些消息仅提供英文版本，无法翻译。
+form_adminsettings_recaptchatitle === 验证码
+form_adminsettings_recaptchadesc === 启用后，recaptcha 将显示在注册、登录和忘记密码等身份验证表单中。
+form_editdevice_receiveoptiontitle === 接收短信
+form_editdevice_receiveoptiondesc === 如果禁用，从安卓收件箱收到的消息将不会被系统保存。禁用此功能后，Webhooks 和其他相关工具将不适用于该设备。
+form_editwhatsapp_receiveoptiontitle === 接收聊天
+form_editwhatsapp_receiveoptiondesc === 如果禁用，系统不会保存从 whatsapp 帐户收到的聊天记录。禁用此功能后，Webhooks 和其他相关工具将不适用于 WhatsApp 帐户。
+js_calendarall_option === 全部
+js_calendarall_apply === 申请
+js_calendarall_cancel === 取消
+js_calendarall_from === 从
+js_calendarall_to === 至
+js_calendarall_week === W
+js_calendarall_daysu === 苏
+js_calendarall_daymo === 莫
+js_calendarall_daytu === 涂
+js_calendarall_daywe === 我们
+js_calendarall_dayth === 钍
+js_calendarall_dayfr === 神父
+js_calendarall_daysa === 萨
+js_calendarall_monjan === 一月
+js_calendarall_monfeb === 二月
+js_calendarall_monmar === 行进
+js_calendarall_monapr === 四月
+js_calendarall_monmay === 可能
+js_calendarall_monjun === 六月
+js_calendarall_monjul === 七月
+js_calendarall_monaug === 八月
+js_calendarall_monsep === 九月
+js_calendarall_monoct === 十月
+js_calendarall_monnov === 十一月
+js_calendarall_mondec === 十二月
+response_ussddelete_success === USSD 请求已被删除！
+response_titanecho_invaltoken === 系统配置错误！
+widgets_addplugin_loader === 将新插件安装到系统

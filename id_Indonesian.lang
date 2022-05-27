@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === Ada apa
+and_dashboard_modules_header_line45 === panel admin
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Terjadwal
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Pemberitahuan
+and_dashboard_pages_android_line58 === Perangkat
+and_dashboard_pages_contacts_line40 === Tidak berlangganan
+and_dashboard_pages_defailt_line37 === Tarif Gerbang
+and_dashboard_pages_default_line42 === dokumen
+and_dashboard_pages_default_line58 === Pesan
+and_dashboard_pages_default_line60 === 7 hari terakhir
+and_dashboard_pages_default_line74 === Acara
+and_dashboard_pages_default_line76 === 7 hari terakhir
+and_dashboard_pages_default_line90 === Keperluan
+and_dashboard_pages_default_line92 === 7 hari terakhir
+and_dashboard_pages_default_line109 === Mitra
+and_dashboard_pages_default_line117 === Pendapatan
+and_dashboard_pages_default_line131 === Pembayaran
+and_dashboard_pages_default_line140 === Keseimbangan
+and_dashboard_pages_default_line148 === kredit
+and_dashboard_pages_default_line162 === isi ulang
+and_dashboard_pages_default_line170 === Rasio Pengiriman
+and_dash_pg_def_line178 === Kesuksesan
+and_dash_pg_def_line190 === Gagal
+and_dash_pg_def_line204 === Pengirim
+and_dash_pg_def_line209 === Anda tidak berlangganan paket premium kami!
+and_dash_pg_def_line217 === Perangkat
+and_dash_pg_def_line224 === Tertaut
+and_dash_pg_def_line232 === Akun
+and_dash_pg_def_line239 === Tertaut
+and_dash_pg_def_line250 === Unduh dan instal aplikasi resmi kami untuk mendapatkan pengalaman pengguna terbaik
+and_dash_pg_doc_line10 === Dokumen
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhook
+and_dash_pg_doc_line40 === tindakan
+and_dash_pg_doc_line46 === Perangkat
+and_dash_pg_doc_line52 === Kemitraan
+and_dash_pg_for_line29 === Membatalkan
+and_dash_pg_log_line14 === Masuk dengan Facebook
+and_dash_pg_log_line17 === Masuk dengan Google
+and_dash_pg_log_line20 === Masuk dengan VKontakte
+and_dash_pg_log_line54 === Buat Akun
+and_dash_pg_pay_line45 === Kami telah menerima permintaan pesanan Anda, sistem kami akan secara otomatis mengirimkan email kepada Anda dan menerapkan perubahan ke akun Anda setelah transaksi pembayaran diverifikasi.
+and_dash_pg_rates_line10 === Tarif Gerbang
+and_dash_pg_rates_line39 === Mitra
+and_dash_pg_reg_line15 === Daftar dengan Facebook
+and_dash_pg_reg_line20 === Daftar dengan Google
+and_dash_pg_reg_line25 === Daftar dengan VKontakte
+and_dash_pg_whats_line10 === Ada apa
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Terkirim
+and_dash_pg_whats_line34 === Diterima
+and_dash_pg_whats_line40 === Terjadwal
+and_dash_pg_whats_line46 === Akun
+and_dash_api_line17 === Nama kunci.
+and_dash_api_line19 === misalnya. Untuk Server Saya
+and_dash_api_line24 === Izin kunci.
+and_dash_auto_line17 === Nama tindakan.
+and_dash_auto_line19 === misalnya. Michael
+and_dash_auto_line24 === Sumber
+and_dash_auto_line24_1 === Sumber acara terima.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === Ada apa
+and_dash_auto_line34 === Tanggapi kata kunci yang dipisahkan dengan koma. Kata kunci ini akan memicu respons otomatis jika terdeteksi dalam konten pesan.
+and_dash_auto_line36 === misalnya. terima kasih, oke, berlangganan, ya
+and_dash_auto_line41 === Pesan yang akan dikirim ke pengirim.
+and_dash_auto_line43 === misalnya. Pesan balasan Anda di sini, kode pendek diterima
+and_dash_auto_line48 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_dash_con_line24 === Nomor kontak.
+and_dash_con_line31 === Grup kontak.
+and_dash_con_line17 === Nama Kontak.
+and_dash_cre_line28 === Pembelian
+and_dash_gate_line17 === Nama
+and_dash_gate_line17_1 === Ini adalah nama gateway yang akan ditampilkan kepada pengguna Anda.
+and_dash_gate_line19 === misalnya. Twilio
+and_dash_gate_line24 === Pengontrol
+and_dash_gate_line24_1 === Pilih file pengontrol gateway, ini akan berisi logika dan kode gateway Anda. Disarankan untuk memeriksa dokumentasi.
+and_dash_gate_line27 === Pelat Ketel Pengontrol:
+and_dash_gate_line34 === panggilan balik
+and_dash_gate_line34_1 === Jika diaktifkan, pesan perlu diverifikasi menggunakan fitur panggilan balik gateway pihak ke-3 untuk status pengiriman, jika tidak, pesan akan segera ditandai sebagai terkirim saat dikirim.
+and_dash_gate_line37 === Memungkinkan
+and_dash_gate_line38 === Cacat
+and_dash_gate_line44 === ID panggilan balik
+and_dash_gate_line44_1 === Jika panggilan balik diaktifkan, Anda harus menyalin ID ini dan menempelkannya ke pengontrol Anda sehingga sistem dapat mengidentifikasi panggilan balik.
+and_dash_gate_line47 === Salin dan tempel untuk ID panggilan balik
+and_dash_gate_line54 === harga
+and_dash_gate_line54_1 === Tabel harga khusus Anda untuk gateway ini. Ini akan memungkinkan Anda untuk mengenakan biaya di atas harga pihak ke-3. Misalnya, jika twilio mengenakan biaya 0,01 untuk negara tertentu, maka Anda dapat mengenakan biaya 0,02 sebagai gantinya, mata uang didasarkan pada mata uang sistem Anda. Harap ikuti format harga dengan benar.
+and_dash_gate_line57 === Contoh Harga JSON:
+and_dash_gate_line57_1 === Unduh
+and_dash_grp_line17 === Nama grup.
+and_dash_grp_line19 === misalnya. Teman-teman
+and_dash_hook_line17 === Nama tindakan.
+and_dash_hook_line19 === misalnya. Tindakan Uji
+and_dash_hook_line24 === Sumber
+and_dash_hook_line24_1 === Sumber acara.
+and_dash_hook_line34 === Pilih acara di mana kait ini akan dipanggil.
+and_dash_hook_line44 === Struktur tautan kait, ini adalah url yang akan dipanggil oleh sistem. Hanya metode GET yang didukung.
+and_dash_hook_line51 === Kumpulan variabel yang dapat Anda gunakan di URL kait Anda.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === Ada apa
+and_dash_hook_line37 === Di Kirim
+and_dash_hook_line38 === Saat Menerima
+and_dash_lang_line17 === Nama bahasa.
+and_dash_lang_line19 === misalnya. Korea
+and_dash_lang_line24 === Kode negara.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Jika diaktifkan, bahasa akan diidentifikasi sebagai arah kanan ke kiri.
+and_dash_lang_line38 === Ya
+and_dash_lang_line39 === Tidak
+and_dash_lang_line45 === String terjemahan.
+and_dash_mail_line17 === Judul
+and_dash_mail_line17_1 === Judul surat.
+and_dash_mail_line19 === misalnya. Pengumuman
+and_dash_mail_line24 === Pengguna
+and_dash_mail_line24_1 === Kirim oleh pengguna.
+and_dash_mail_line36 === Peran
+and_dash_mail_line36_1 === Kirim berdasarkan peran.
+and_dash_mail_line48 === Isi
+and_dash_mail_line48_1 === Konten email, html diizinkan.
+and_dash_mail_line50 === Halo Dunia!
+and_dash_not_line17 === Judul
+and_dash_not_line17_1 === Beri tahu judul.
+and_dash_not_line19 === misalnya. Pengumuman
+and_dash_not_line24 === Pesan
+and_dash_not_line24_1 === Beritahu pesan.
+and_dash_not_line31 === Warna
+and_dash_not_line31_1 === Beritahu warna.
+and_dash_not_line35 === Kesuksesan
+and_dash_not_line36 === Peringatan
+and_dash_not_line37 === Bahaya
+and_dash_not_line43 === Gambar
+and_dash_not_line43_1 === Beri tahu gambar, ini opsional.
+and_dash_not_line46 === Opsional
+and_dash_not_line53 === Pengguna
+and_dash_not_line53_1 === Disiarkan oleh pengguna.
+and_dash_not_line65 === Peran
+and_dash_not_line65_1 === Disiarkan berdasarkan peran.
+and_pack_line17 === Nama paket.
+and_pack_line19 === misalnya. Paket VIP
+and_pack_line24 === Harga paket, ini harus mengikuti mata uang sistem. Nilai mengambang tidak diperbolehkan.
+and_pack_line29 === misalnya. 25
+and_pack_line34 === Jika diaktifkan, pesan dan obrolan whatsapp akan berisi tanda footer saat diterima oleh penerima.
+and_pack_line44 === Jika diaktifkan, paket akan disembunyikan dari modal paket dan beranda.
+and_pack_line58 === Batas Pengiriman SMS
+and_pack_line58_1 === Jumlah maksimum pesan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line60 === misalnya. 300
+and_pack_line65 === Batas Terima SMS
+and_pack_line65_1 === Jumlah maksimum pesan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line67 === misalnya. 150
+and_pack_line72 === Batas USSD
+and_pack_line72_1 === Jumlah maksimum ussd yang dapat diminta oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line74 === misalnya. 25
+and_pack_line79 === Batas Pemberitahuan
+and_pack_line79_1 === Jumlah maksimum notifikasi yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line81 === misalnya. 1300
+and_pack_line86 === Jumlah maksimum perangkat android yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
+and_pack_line88 === misalnya. 25
+and_pack_line92 === Pengaturan WhatsApp
+and_pack_line97 === Jumlah maksimum obrolan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line99 === misalnya. 300
+and_pack_line104 === Jumlah maksimum obrolan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_pack_line106 === misalnya. 150
+and_pack_line111 === Batas Akun
+and_pack_line111_1 === Jumlah maksimum akun WhatsApp yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
+and_pack_line113 === misalnya. 10
+and_pack_line117 === Pengaturan Utilitas
+and_pack_line122 === Jumlah maksimum kontak yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas.
+and_pack_line124 === misalnya. 25
+and_pack_line129 === Batas Terjadwal
+and_pack_line129_1 === Jumlah maksimum pesan/obrolan terjadwal yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas. Ini digabungkan untuk sms dan whatsapp.
+and_pack_line131 === misalnya. 25
+and_pack_line136 === Jumlah maksimum kunci API yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_pack_line138 === misalnya. 10
+and_pack_line143 === Jumlah maksimum Webhook yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_pack_line145 === misalnya. 5
+and_pack_line150 === Batas Tindakan
+and_pack_line150_1 === Jumlah maksimum Tindakan yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_pack_line152 === misalnya. 5
+and_page_line17 === Nama halaman.
+and_page_line24 === Hanya peran terpilih yang dapat mengakses halaman ini.
+and_page_line35 === Jika diaktifkan, halaman tidak akan dapat diakses jika tidak masuk.
+and_page_line45 === Konten halaman. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
+and_payout_line17 === Jumlah
+and_payout_line17_1 === Jumlah yang akan ditarik, hanya bilangan bulat.
+and_payout_line19 === misalnya. 50
+and_payout_line24 === Pemberi
+and_payout_line24_1 === Pilih penyedia pembayaran yang ingin Anda gunakan untuk menerima uang.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Alamat Pembayaran
+and_payout_line34_1 === Alamat pembayaran atau email, harap periksa dengan cermat untuk mencegah masalah pembayaran.
+and_payout_line36 === misalnya. Email PayPal Anda
+and_payout_line43 === Meminta
+and_plug_line17 === File Plugin
+and_plug_line17_1 === File zip plugin, pastikan untuk memilih file yang benar.
+and_push_line17 === Judul
+and_push_line17_1 === Judul dorong.
+and_push_line19 === misalnya. Pengumuman
+and_push_line24 === Gambar
+and_push_line24_1 === Dorong thumbnail gambar, ini opsional.
+and_push_line27 === Opsional
+and_push_line34 === Pesan
+and_push_line34_1 === Pesan dorong.
+and_push_line41 === Pengguna
+and_push_line41_1 === Disiarkan oleh pengguna.
+and_push_line53 === Peran
+and_push_line53_1 === Disiarkan berdasarkan peran.
+and_role_line17 === Nama peran.
+and_role_line19 === misalnya. Pengembang
+and_role_line24 === Pilih izin dan fitur yang ingin Anda nonaktifkan/aktifkan untuk peran ini. Perubahan diterapkan secara realtime, tab browser pengguna yang terhubung dengan peran dimuat ulang secara otomatis.
+and_short_line17 === Nama
+and_short_line17_1 === Nama penyingkat.
+and_short_line19 === misalnya. sedikit
+and_short_line24 === Pengontrol
+and_short_line24_1 === Pilih file pengontrol pemendek, ini akan berisi logika dan kode pemendek Anda. Disarankan untuk memeriksa dokumentasi.
+and_short_line27 === Pelat Ketel Pengontrol:
+and_sms_line17 === Nama pesan terjadwal.
+and_sms_line19 === misalnya. Pesanku
+and_sms_line24 === Pilih tanggal jadwal.
+and_sms_line26 === misalnya. 22/06/2020 12:00 WIB
+and_sms_line31 === Jika diaktifkan, pesan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
+and_sms_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
+and_sms_line55 === Pilih beberapa grup kontak
+and_sms_line67 === penyingkat
+and_sms_line67_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_sms_line70 === Jangan mempersingkat tautan
+and_sms_line79 === Mode Gerbang
+and_sms_line79_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
+and_sms_line82 === Perangkat
+and_sms_line83 === kredit
+and_sms_line88 === Slot kartu sim untuk digunakan.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Templat pesan Anda yang sudah jadi.
+and_sms_line110 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
+and_sms_line121 === SMS Gateway
+and_sms_line121_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
+and_sms_line141 === Spintax
+and_sms_line144 === Contoh:
+and_sms_line144_1 === Tom adalah seorang
+and_sms_line144_2 === kucing
+and_sms_line147 === Nilai
+and_sms_line147_1 === bagus
+and_sms_line147_2 === dan
+and_sms_line147_3 === buruk
+and_sms_line147_4 === akan digunakan secara acak.
+and_subs_line17 === Akun pengguna.
+and_subs_line28 === Paket berlangganan.
+and_subs_line41 === Durasi berlangganan.
+and_subs_line43 === misalnya. 12
+and_temp_line17 === Nama templat.
+and_temp_line24 === Format templat.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_temp_line35 === Contoh:
+and_temp_line35_1 === Tom adalah seorang
+and_temp_line35_2 === kucing
+and_temp_line38 === Nilai
+and_temp_line38_1 === bagus
+and_temp_line38_2 === buruk
+and_temp_line38_3 === akan digunakan secara acak.
+and_temp_line43 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_user_line17 === Nama lengkap resmi.
+and_user_line19 === misalnya. Michael Cors
+and_user_line24 === Alamat email yang sah.
+and_user_line26 === misalnya. pengguna@mail.com
+and_user_line31 === Masukkan kata sandi pengguna.
+and_user_line38 === Zona waktu lokasi pengguna, ubah ini jika mereka berada di negara yang berbeda. Zona waktu digunakan untuk akurasi tanggal dan waktu dari pesan yang dikirim dan data lainnya.
+and_user_line49 === Negara
+and_user_line49_1 === Negara pengguna, ini digunakan untuk pembayaran dan pemformatan nomor telepon.
+and_user_line60 === Suara Pemberitahuan
+and_user_line60_1 === Jika dinonaktifkan, notifikasi akan diam.
+and_user_line70 === Pilih peran pengguna.
+and_user_line81 === Pilih bahasa pengguna.
+and_user_line92 === Program Mitra
+and_user_line92_1 === Jika diaktifkan, pengguna akan dapat menggunakan perangkat mereka sebagai perangkat global yang memungkinkan mereka mendapatkan uang saat pengguna lain mengirim pesan menggunakan perangkat mereka.
+and_ussd_line17 === Kode USSD
+and_ussd_line17_1 === Kode permintaan USSD.
+and_ussd_line19 === misalnya. *121#
+and_ussd_line24 === Slot kartu sim untuk digunakan.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Perangkat tertaut Anda, pilih apa yang ingin Anda gunakan untuk permintaan ussd.
+and_ussd_line47 === Meminta
+and_vouch_line17 === Nama voucher.
+and_vouch_line19 === misalnya. Spesial
+and_vouch_line24 === Jumlah voucher yang ingin Anda buat. Nilai maksimalnya adalah 1000!
+and_vouch_line26 === misalnya. 100
+and_vouch_line31 === Durasi berlangganan.
+and_vouch_line33 === misalnya. 12
+and_vouch_line38 === Paket berlangganan.
+and_web_line17 === Nama webhook.
+and_web_line24 === Terima Acara
+and_web_line24_1 === Pilih acara terima yang Anda butuhkan, mereka akan dikirim ke url web hook Anda melalui metode POST.
+and_web_line27 === SMS
+and_web_line28 === Ada apa
+and_web_line29 === USSD
+and_web_line30 === Pemberitahuan
+and_web_line36 === Url webhook Anda, semua data payload akan dikirim ke sini melalui metode POST.
+and_web_line38 === misalnya. http://domainanda.com/hook_listen.php
+and_whatssched_line17 === Nama obrolan terjadwal.
+and_whatssched_line19 === misalnya. Pesanku
+and_whatssched_line24 === Pilih tanggal jadwal.
+and_whatssched_line26 === misalnya. 22/06/2020 12:00 WIB
+and_whatssched_line31 === Jika diaktifkan, obrolan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
+and_whatssched_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
+and_whatssched_line55 === Pilih beberapa grup kontak
+and_whatssched_line67 === penyingkat
+and_whatssched_line67_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_whatssched_line70 === Jangan mempersingkat tautan
+and_whatssched_line79 === Akun
+and_whatssched_line79_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
+and_whatsached_line88 === Templat pesan Anda yang sudah jadi.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_whatssched_line107 === Contoh:
+and_whatssched_line101_1 === Tom adalah seorang
+and_whatssched_line107_2 === kucing
+and_whatssched_line110 === Nilai
+and_whatssched_line110_1 === bagus
+and_whatssched_line110_2 === dan
+and_whatssched_line110_3 === buruk
+and_whatssched_line110_4 === akan digunakan secara acak.
+and_whatssched_line115 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_whatssched_line128 === Kirim
+and_whatsapp_line15 === Hubungkan WhatsApp Anda dengan mengklik tombol untuk menampilkan QRCode lalu pindai melalui
+and_whatsapp_line15_1 === Tautkan Perangkat
+and_whatsapp_line15_2 === tombol di aplikasi. Anda hanya memiliki waktu 60 detik untuk memindai QRCode.
+and_whatsapp_line16 === Tautkan Akun
+and_add_widget_line17 === Nama widget.
+and_add_widget_line24 === Ikon widget, hanya untuk modal. Silakan kunjungi baris mengagumkan untuk referensi ikon.
+and_add_widget_line26 === misalnya. la la-info-lingkaran
+and_add_widget_line31 === Jenis widget. Blok untuk ditempatkan ke berbagai bagian templat, modal untuk konten dinamis. Sejak v3, modals hanya akan berfungsi di dasbor.
+and_add_widget_line34 === Memblokir
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Ukuran widget, hanya untuk modal.
+and_add_widget_line53 === Posisi widget, hanya untuk modal.
+and_add_widget_line64 === Konten widget. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
+and_add_widget_line66 === Halo Dunia!
+and_admin_build_line16 === Aplikasi
+and_admin_build_line21 === Nama paket aplikasi, harus unik dan mengikuti format seperti domain seperti com.domainanda.aplikasianda, sebaiknya ikuti nama domain Anda untuk membuatnya unik.
+and_admin_build_line23 === misalnya. com.gateway.sample
+and_admin_build_line28 === Nama aplikasi, ini ditampilkan di laci aplikasi dan bagian lain dari aplikasi.
+and_admin_build_line30 === misalnya. Gerbang Zender
+and_admin_build_line35 === Deskripsi aplikasi, deskripsi singkat tentang aplikasi Anda.
+and_admin_build_line42 === Tema Warna Aplikasi
+and_admin_build_line42_1 === Tema warna aplikasi, disarankan untuk mencocokkannya dengan logo aplikasi Anda dan warna gambar percikan.
+and_admin_build_line44 === misalnya. #000000
+and_admin_build_line49 === Versi APK
+and_admin_build_line_49_1 === Versi APK, jika Anda sedang membangun kembali aplikasi Anda, harap perbarui juga bidang ini dengan menambah nilainya, jika nilai saat ini adalah 1, Anda harus menambahkannya menjadi 2 sebelum membangun aplikasi Anda. Ini diperlukan untuk memicu fitur pembaruan di aplikasi dan akan memaksa pengguna untuk memperbarui.
+and_admin_build_line51 === misalnya. 1.0
+and_admin_build_line56 === Bangun Email
+and_admin_build_line_56_1 === Email Anda yang valid, pastikan untuk mengubahnya. Hasil build akan dikirim ke email ini!
+and_admin_build_line58 === misalnya. myvalidemail@mail.com
+and_admin_build_line62 === Kredensial
+and_admin_build_line67 === Layanan Google
+and_admin_build_line67_1 === File json layanan google Anda, ini diperlukan untuk transaksi FCM di aplikasi gateway.
+and_admin_build_line75 === Kredensial Firebase
+and_admin_build_line75_1 === File json kredensial admin firebase Anda, ini diperlukan untuk memungkinkan sistem berkomunikasi dengan aplikasi.
+and_admin_build_line82 === Aktiva
+and_admin_build_line87 === Logo gambar aplikasi, ini adalah gambar yang ditampilkan di header aplikasi. Dimensi yang disarankan adalah 251x53 dalam piksel. Latar belakang transparan lebih baik.
+and_admin_build_line95 === Logo Masuk Aplikasi
+and_admin_build_line95_1 === Logo gambar login aplikasi, ini adalah gambar yang ditampilkan di modal login. Dimensi yang disarankan adalah 250x100 dalam piksel dan font gelap. Latar belakang transparan lebih baik.
+and_admin_build_line103 === Ikon gambar aplikasi, ini ditampilkan di laci aplikasi dan sistem android. Dimensi yang disarankan adalah 1024x1024 dalam format px dan png.
+and_admin_build_line111 === Gambar splashscreen aplikasi, ini ditampilkan saat pengguna membuka aplikasi. Dimensi yang disarankan adalah 2732x2732 dalam format px dan png.
+and_admin_build_line118 === Struktur
+and_admin_build_line123 === JavaScript khusus
+and_admin_build_line123_1 === Jika Anda ingin menggunakan kode javascript khusus, tambahkan di sini. Ini dimuat secara dinamis di aplikasi.
+and_admin_build_line125 === mis., alert('Halo Dunia!');
+and_admin_build_line130 === CSS khusus
+and_admin_build_line130_1 === Jika Anda ingin menggunakan kode css khusus, silakan tambahkan di sini. Ini dimuat secara dinamis di aplikasi.
+and_admin_build_line137 === Tata Letak Khusus
+and_admin_build_line137_1 === Jika Anda ingin menggunakan struktur aplikasi khusus, harap ubah konten html, jika Anda tidak tahu apa yang Anda lakukan, silakan tinggalkan nilai default.
+and_admin_build_line139 === Halo Dunia!
+and_settings_line21 === Nama situs, ini ditampilkan di mana-mana di mana branding diperlukan.
+and_settings_line23 === misalnya. Zender
+and_settings_line28 === Deskripsi situs, ini untuk optimasi mesin pencari, jadi kreatiflah.
+and_settings_line30 === misalnya. Ini adalah layanan sms gateway yang luar biasa
+and_settings_line35 === Kode pembelian envato Anda, ini diperlukan untuk membuka kunci beberapa fitur eksklusif skrip.
+and_settings_line37 === misalnya. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Kunci google analytics Anda, ini opsional karena sistem sudah memiliki statistik pengunjung bawaan.
+and_settings_line44 === misalnya. UA-179148389-1
+and_settings_line49 === Protokol situs Anda, pastikan Anda memilih yang benar. Jika situs Anda menggunakan https, silakan pilih, jika tidak, pilih http.
+and_settings_line59 === Bahasa sistem default, ini digunakan saat pengguna baru mengunjungi situs Anda.
+and_settings_line70 === Jika dinonaktifkan, pendaftaran melalui halaman daftar tidak akan diizinkan.
+and_settings_line80 === Mode Atur Ulang Paket
+and_settings_line80_1 === Interval reset batas seperti mengirim, menerima, ussd, dan pemberitahuan. Ini berlaku untuk fitur Android dan WhatsApp. Pilihan Anda di sini juga harus diterapkan dalam pengaturan cron.
+and_settings_line83 === Sehari-hari
+and_settings_line84 === Bulanan
+and_settings_line90 === Model Gratis
+and_settings_line90_1 === Jika diaktifkan, paket gratis default secara otomatis diberikan kepada pengguna setelah pendaftaran.
+and_settings_line100 === Jika dinonaktifkan, beranda tidak akan digunakan. Semua kunjungan di direktori root akan dialihkan ke dasbor.
+and_settings_line110 === Widget Obrolan TAWK
+and_settings_line110_1 === Jika diaktifkan, widget obrolan tawk akan muncul kepada pengguna.
+and_settings_line120 === Tautan widget obrolan tawk Anda, ini diperlukan jika Anda ingin menggunakan dukungan obrolan tawk.
+and_settings_line127 === API Admin
+and_settings_line127_1 === Pilih titik akhir API admin yang ingin Anda aktifkan. Disarankan agar Anda hanya mengaktifkan titik akhir yang Anda perlukan.
+and_settings_line159 === Token ini tidak boleh dibagikan kepada siapa pun. Ini digunakan untuk keamanan cronjobs, API sistem, dan permintaan eksternal lainnya. Jika menurut Anda, token sistem Anda telah disusupi, harap buat ulang token baru, Anda perlu mengonfigurasi ulang cronjobs, API sistem, dan pengaturan terkait lainnya setelah membuat token baru.
+and_settings_line160 === Diperbarui
+and_settings_line173 === Jika Anda ingin menggunakan server email bawaan, silakan pilih asli, jika tidak, pilih smtp lalu konfigurasikan kredensial email Anda.
+and_settings_line183 === Protokol smtp yang akan digunakan, silakan pilih protokol yang didukung dari server email jarak jauh Anda.
+and_settings_line193 === Email situs, ini adalah nama email yang ditunjukkan kepada penerima, disarankan untuk menggunakan noreply@situsanda.com untuk tujuan branding.
+and_settings_line195 === misalnya. noreply@domain.com
+and_settings_line200 === Alamat host server smtp jarak jauh Anda.
+and_settings_line205 === misalnya. smtp.gmail.com
+and_settings_line210 === Port server smtp jarak jauh Anda.
+and_settings_line215 === misalnya. 587
+and_settings_line220 === Nama pengguna server smtp jarak jauh Anda.
+and_settings_line225 === misalnya. namapengguna@gmail.com
+and_settings_line230 === Kata sandi server smtp jarak jauh Anda.
+and_settings_line235 === Kata sandi akun gmail Anda
+and_settings_line244 === Email bisnis paypal Anda.
+and_settings_line246 === misalnya. email@domain.com
+and_settings_line251 === Jika diaktifkan, semua transaksi paypal akan dialihkan ke mode sandbox.
+and_settings_line261 === Kunci api mollie Anda.
+and_settings_line263 === misalnya. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Mata uang sistem yang digunakan, ini akan digunakan sebagai dasar saat mengonversi transaksi ke USD.
+and_settings_line279 === Pilih penyedia pembayaran yang ingin Anda gunakan.
+and_settings_line293 === Karakter minimum untuk pesan. Ini berlaku untuk SMS dan WhatsApp.
+and_settings_line295 === misalnya. 5
+and_settings_line300 === Karakter maksimum untuk pesan. Ini berlaku untuk SMS dan WhatsApp. Masukkan 0 untuk karakter tak terbatas.
+and_settings_line302 === misalnya. 300
+and_settings_line307 === Tanda footer pesan, ini ditambahkan ke pesan jika paketnya memiliki tanda footer yang diaktifkan.
+and_settings_line309 === misalnya. Dikirim dari Sistem Zender
+and_settings_line318 === Jumlah baris default untuk ditampilkan dalam tabel pesan terkirim. Ini berlaku untuk SMS dan WhatsApp.
+and_settings_line320 === misalnya. 10
+and_settings_line325 === Jumlah baris default untuk ditampilkan dalam tabel pesan yang diterima. Ini berlaku untuk SMS dan WhatsApp.
+and_settings_line327 === misalnya. 10
+and_settings_line336 === Jika diaktifkan, pengunjung akan dapat login menggunakan akun media sosial mereka.
+and_settings_line346 === Pilih penyedia media sosial yang ingin Anda gunakan.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === ID Facebook
+and_settings_line357_1 === ID aplikasi facebook, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line359 === misalnya. 738812983731558
+and_settings_line364 === Rahasia Facebook
+and_settings_line364_1 === Rahasia aplikasi facebook, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line366 === misalnya. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === ID Google
+and_settings_line371_1 === ID aplikasi google, harap baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line373 === misalnya. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Rahasia Google
+and_settings_line378_1 === Rahasia aplikasi google, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line380 === misalnya. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === ID VK
+and_settings_line385_1 === ID aplikasi vkontakte, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line387 === misalnya. 7768236
+and_settings_line392 === Rahasia VK
+and_settings_line392_1 === Rahasia aplikasi vkontakte, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line394 === misalnya. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Jika diaktifkan, recaptcha juga akan ditampilkan di halaman login. Pastikan Anda telah mengonfigurasi kunci recaptcha dan rahasia recaptcha Anda sebelum mengaktifkan fitur ini atau Anda tidak akan bisa login!
+and_settings_line413 === Kunci recaptcha, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line415 === misalnya. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Rahasia recaptcha, silakan baca dokumentasi untuk informasi lebih lanjut.
+and_settings_line422 === misalnya. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Cahaya Logo
+and_theme_line17_1 === Gambar logo terang, ini ditampilkan di halaman beranda dan halaman otentikasi saat elemen latar belakang gelap. Ukuran yang disarankan adalah 250x50 dalam piksel.
+and_theme_line23 === Logo Gelap
+and_theme_line223_1 === Gambar logo gelap, ini ditampilkan di halaman beranda dan halaman otentikasi ketika elemen latar belakang terang. Ukuran yang disarankan adalah 250x50 dalam piksel.
+and_theme_line29 === Gambar favicon situs, ini ditampilkan di tab browser. Ukuran yang disarankan adalah 50x50 dalam piksel.
+and_theme_line35 === Gambar latar belakang
+and_theme_line35_1 === Gambar latar situs, ini ditampilkan di mana-mana. Disarankan untuk menggunakan gambar beresolusi tinggi.
+and_theme_line41 === Pilih tema warna yang ingin Anda gunakan untuk situs.
+and_theme_line46 === Pilih warna highlight untuk teks.
+and_theme_line51 === Warna Pemintal
+and_theme_line51_1 === Pilih warna yang ingin Anda gunakan untuk pemintal ajax teratas.
+and_theme_line58 === JavaScript khusus
+and_theme_line58_1 === Jika Anda ingin menggunakan kode javascript khusus, tambahkan di sini. Ini dimuat secara dinamis di setiap halaman.
+and_theme_line60 === Halo Dunia!
+and_theme_line63 === CSS khusus
+and_theme_line63_1 === Jika Anda ingin mengubah beberapa gaya css, Anda dapat melakukannya di sini.
+and_apikey_line17 === Nama kunci.
+and_apikey_line19 === misalnya. Untuk Server Saya
+and_apikey_line24 === Izin kunci.
+and_edit_auto_line17 === Nama tindakan.
+and_edit_auto_line19 === misalnya. Respons Otomatis
+and_edit_auto_line24 === Sumber
+and_edit_auto_line24_1 === Sumber acara terima.
+and_edit_auto_line34 === Tanggapi kata kunci yang dipisahkan dengan koma. Kata kunci ini akan memicu respons otomatis jika terdeteksi dalam konten pesan.
+and_edit_auto_line36 === misalnya. terima kasih, oke, berlangganan, ya
+and_edit_auto_line41 === Pesan yang akan dikirim ke pengirim.
+and_edit_auto_line43 === misalnya. Pesan balasan Anda di sini, kode pendek diterima
+and_edit_auto_line48 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_edit_con_line17 === Nama Kontak.
+and_edit_con_line19 === misalnya. Michael
+and_edit_con_line24 === Nomor kontak.
+and_edit_con_line31 === Grup kontak.
+and_edit_dev_line16 === Detail Perangkat
+and_edit_dev_line21 === Nama perangkat.
+and_edit_dev_line23 === misalnya. Perangkat Saya
+and_edit_dev_line28 === Jika diaktifkan, pesan akan dikirim dalam interval acak antara 2 nilai. Anda dapat mengonfigurasinya di bawah ini.
+and_edit_dev_line38 === Interval minimum dalam detik.
+and_edit_dev_line41 === misalnya. 5
+and_edit_dev_line46 === Interval maksimum dalam detik.
+and_edit_dev_line49 === misalnya. 20
+and_edit_dev_line53 === Pengaturan pemberitahuan
+and_edit_dev_line58 === Aplikasi
+and_edit_dev_line58_1 === Masukkan nama paket aplikasi yang ingin Anda dapatkan notifikasinya. Pisahkan mereka dengan linebreak.
+and_edit_dev_line65 === Pengaturan Mitra
+and_edit_dev_line70 === Kecepatan
+and_edit_dev_line70_1 === Jumlah yang ingin Anda kenakan per pesan, negara perangkat akan digunakan sebagai basis mata uang. Nilai float didukung seperti sen.
+and_edit_dev_line73 === misalnya. 0,50
+and_edit_dev_line78 === Status Global
+and_edit_dev_line78_1 === Jika dinonaktifkan, perangkat tidak akan tersedia sebagai gateway sms global dan Anda tidak akan mendapatkan uang. Harap dicatat bahwa perangkat global tidak dapat menerima pesan karena alasan keamanan.
+and_edit_dev_line89 === Negara
+and_edit_dev_line89_1 === Negara perangkat, digunakan untuk menentukan nomor telepon dan sebagai mata uang dasar bidang tarif.
+and_edit_dev_line101 === Prioritas
+and_edit_dev_line101_1 === Pesan global akan dikirim terlebih dahulu sebelum pesan Anda sendiri.
+and_edit_dev_line112 === Slot SIM
+and_edit_dev_line112_1 === Pilih slot sim yang ingin Anda gunakan untuk mengirim, jika Anda memilih keduanya, pesan akan dikirim secara acak.
+and_edit_email_line16 === Template Email
+and_edit_email_line18 === HTML diperbolehkan
+and_edit_gate_line17 === Nama
+and_edit_gate_line17_1 === Ini adalah nama gateway yang akan ditampilkan kepada pengguna Anda.
+and_edit_gate_line19 === misalnya. Twilio
+and_edit_gate_line24 === Pengontrol
+and_edit_gate_line24_1 === Pilih file pengontrol gateway, ini akan berisi logika dan kode gateway Anda. Disarankan untuk memeriksa dokumentasi.
+and_edit_gate_line31 === panggilan balik
+and_edit_gate_line31_1 === Jika diaktifkan, pesan perlu diverifikasi menggunakan fitur panggilan balik gateway pihak ke-3 untuk status pengiriman, jika tidak, pesan akan segera ditandai sebagai terkirim saat dikirim.
+and_edit_gate_line34 === Memungkinkan
+and_edit_gate_line35 === Cacat
+and_edit_gate_line41 === ID panggilan balik
+and_edit_gate_line41_1 === Jika panggilan balik diaktifkan, Anda harus menyalin ID ini dan menempelkannya ke pengontrol Anda sehingga sistem dapat mengidentifikasi panggilan balik.
+and_edit_gate_line44 === Salin dan tempel untuk ID panggilan balik
+and_edit_gate_line51 === harga
+and_edit_gate_line51_1 === Tabel harga khusus Anda untuk gateway ini. Ini akan memungkinkan Anda untuk mengenakan biaya di atas harga pihak ke-3. Misalnya, jika twilio mengenakan biaya 0,01 untuk negara tertentu, maka Anda dapat mengenakan biaya 0,02 sebagai gantinya, mata uang didasarkan pada mata uang sistem Anda. Harap ikuti format harga dengan benar.
+and_edit_gate_line54 === Contoh Harga JSON:
+and_edit_gate_line54_1 === Unduh
+and_edit_grp_line17 === Nama grup.
+and_edit_grp_line19 === misalnya. Teman-teman
+and_edit_hook_line17 === Nama tindakan.
+and_edit_hook_line19 === misalnya. Tindakan Uji
+and_edit_hook_line24 === Sumber
+and_edit_hook_line24_1 === Sumber acara.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === Ada apa
+and_edit_hook_line34 === Pilih acara di mana kait ini akan dipanggil.
+and_edit_hook_line37 === Di Kirim
+and_edit_hook_line38 === Saat Menerima
+and_edit_hook_line44 === Struktur tautan kait, ini adalah url yang akan dipanggil oleh sistem. Hanya metode GET yang didukung.
+and_edit_hook_line51 === Kumpulan variabel yang dapat Anda gunakan di URL kait Anda.
+and_edit_lang_line17 === misalnya. Korea
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Ya
+and_edit_lang_line33 === Tidak
+and_edit_pack_line17 === Nama paket.
+and_edit_pack_line19 === misalnya. Paket VIP
+and_edit_pack_line24 === Harga paket, ini harus mengikuti mata uang sistem. Nilai mengambang tidak diperbolehkan.
+and_edit_pack_line29 === misalnya. 25
+and_edit_pack_line34 === Jika diaktifkan, pesan dan obrolan whatsapp akan berisi tanda footer saat diterima oleh penerima.
+and_edit_pack_line44 === Jika diaktifkan, paket akan disembunyikan dari modal paket dan beranda.
+and_edit_pack_line53 === Pengaturan Android
+and_edit_pack_line58 === Batas Pengiriman SMS
+and_edit_pack_line58_1 === Jumlah maksimum pesan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line60 === misalnya. 300
+and_edit_pack_line65 === Batas Terima SMS
+and_edit_pack_line65_1 === Jumlah maksimum pesan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line67 === misalnya. 150
+and_edit_pack_line72 === Batas USSD
+and_edit_pack_line72_1 === Jumlah maksimum ussd yang dapat diminta oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line74 === misalnya. 25
+and_edit_pack_line79 === Batas Pemberitahuan
+and_edit_pack_line79_1 === Jumlah maksimum notifikasi yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line81 === misalnya. 1300
+and_edit_pack_line86 === Jumlah maksimum perangkat android yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line88 === misalnya. 25
+and_edit_pack_line92 === Pengaturan WhatsApp
+and_edit_pack_line97 === Jumlah maksimum obrolan yang dapat dikirim oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line99 === misalnya. 300
+and_edit_pack_line104 === Jumlah maksimum obrolan yang dapat diterima oleh pengguna sebelum reset. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line106 === misalnya. 150
+and_edit_pack_line111 === Batas Akun
+and_edit_pack_line111_1 === Jumlah maksimum akun WhatsApp yang dapat ditautkan ke akun pengguna. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line113 === misalnya. 10
+and_edit_pack_line117 === Pengaturan Utilitas
+and_edit_pack_line122 === Jumlah maksimum kontak yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line124 === misalnya. 25
+and_edit_pack_line129 === Batas Terjadwal
+and_edit_pack_line129_1 === Jumlah maksimum pesan/obrolan terjadwal yang dapat disimpan oleh pengguna. Masukkan 0 untuk tidak terbatas. Ini digabungkan untuk sms dan whatsapp.
+and_edit_pack_line131 === misalnya. 25
+and_edit_pack_line136 === Jumlah maksimum kunci API yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line138 === misalnya. 10
+and_edit_pack_line143 === Jumlah maksimum Webhook yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line145 === misalnya. 5
+and_edit_pack_line150 === Batas Tindakan
+and_edit_pack_line150_1 === Jumlah maksimum Tindakan yang dapat dibuat. Masukkan 0 untuk tidak terbatas.
+and_edit_pack_line152 === misalnya. 5
+and_edit_page_line17 === Nama halaman.
+and_edit_page_line24 === Hanya peran terpilih yang dapat mengakses halaman ini.
+and_edit_page_line35 === Jika diaktifkan, halaman tidak akan dapat diakses jika tidak masuk.
+and_edit_page_line45 === Konten halaman. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
+and_edit_role_line17 === Nama peran.
+and_edit_role_line19 === misalnya. Pengembang
+and_edit_role_line24 === Pilih izin dan fitur yang ingin Anda nonaktifkan/aktifkan untuk peran ini. Perubahan diterapkan secara realtime, tab browser pengguna yang terhubung dengan peran dimuat ulang secara otomatis.
+and_edit_short_line17 === Nama
+and_edit_short_line17_1 === Nama penyingkat.
+and_edit_short_line19 === misalnya. sedikit
+and_edit_short_line24 === Pengontrol
+and_edit_short_line24_1 === Pilih file pengontrol pemendek, ini akan berisi logika dan kode pemendek Anda. Disarankan untuk memeriksa dokumentasi.
+and_edit_sms_line17 === Nama pesan terjadwal.
+and_edit_sms_line19 === misalnya. Pesanku
+and_edit_sms_line24 === Pilih tanggal jadwal.
+and_edit_sms_line26 === misalnya. 22/06/2020 12:00 WIB
+and_edit_sms_line31 === Jika diaktifkan, pesan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
+and_edit_sms_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
+and_edit_sms_line55 === Pilih beberapa grup kontak
+and_edit_sms_line67 === Mode Gerbang
+and_edit_sms_line67_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
+and_edit_sms_line70 === Perangkat
+and_edit_sms_line71 === kredit
+and_edit_sms_line76 === Slot kartu sim untuk digunakan.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
+and_edit_sms_line99 === SMS Gateway
+and_edit_sms_line99_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Contoh:
+and_edit_sms_line122_1 === Tom adalah seorang
+and_edit_sms_line122_2 === kucing
+and_edit_sms_line125 === Nilai
+and_edit_sms_line125_1 === bagus
+and_edit_sms_line125_2 === dan
+and_edit_sms_line125_3 === buruk
+and_edit_sms_line125_4 === akan digunakan secara acak.
+and_edit_temp_line17 === Nama templat.
+and_edit_temp_line24 === Format templat.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_edit_temp_line35 === Contoh:
+and_edit_temp_line35_1 === Tom adalah seorang
+and_edit_temp_line35_2 === kucing
+and_edit_temp_line38 === Nilai
+and_edit_temp_line38_1 === bagus
+and_edit_temp_line38_2 === dan
+and_edit_temp_line38_3 === buruk
+and_edit_temp_line38_4 === akan digunakan secara acak.
+and_edit_temp_line43 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_eduse_line17 === Nama lengkap resmi Anda, harap perhatikan bahwa menggunakan nama palsu dapat membuat akun Anda ditangguhkan.
+and_eduse_line19 === misalnya. Michael Cors
+and_eduse_line24 === Alamat email yang valid, abaikan bidang ini jika Anda ingin menyimpan alamat email saat ini.
+and_eduse_line26 === misalnya. pengguna@mail.com
+and_eduse_line31 === Jika Anda ingin menyimpan kata sandi saat ini, abaikan bidang ini, jika tidak, masukkan kata sandi baru.
+and_eduse_line38 === Zona waktu lokasi Anda, ubah ini jika Anda berada di negara lain. Zona waktu digunakan untuk akurasi tanggal dan waktu dari pesan terkirim dan data lainnya.
+and_eduse_line49 === Negara
+and_eduse_line49_1 === Negara Anda, ini digunakan untuk pembayaran dan pemformatan nomor telepon.
+and_eduse_line60 === Suara Pemberitahuan
+and_eduse_line60_1 === Jika dinonaktifkan, notifikasi akan diam.
+and_eduse_line70 === Pilih peran pengguna.
+and_eduse_line81 === Pilih bahasa pengguna.
+and_eduse_line92 === Program Mitra
+and_eduse_line92_1 === Jika diaktifkan, pengguna akan dapat menggunakan perangkat mereka sebagai perangkat global yang memungkinkan mereka mendapatkan uang saat pengguna lain mengirim pesan menggunakan perangkat mereka.
+and_edweb_line17 === Nama webhook.
+and_edweb_line24 === Terima Acara
+and_edweb_line24_1 === Pilih acara terima yang Anda butuhkan, mereka akan dikirim ke url web hook Anda melalui metode POST.
+and_edweb_line30 === Notifikasi
+and_edweb_line36 === Url webhook Anda, semua data payload akan dikirim ke sini melalui metode POST.
+and_edweb_line38 === misalnya. https://domainanda.com/reply.php
+and_edwhat_line17 === Nama obrolan terjadwal.
+and_edwhat_line19 === misalnya. Pesanku
+and_edwhat_line24 === Pilih tanggal jadwal.
+and_edwhat_line26 === misalnya. 22/06/2020 12:00 WIB
+and_edwhat_line31 === Jika diaktifkan, obrolan akan dijadwalkan setiap kali tanggal yang dijadwalkan cocok.
+and_edwhat_line42 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
+and_edwhat_line55 === Pilih beberapa grup kontak
+and_edwhat_line67 === Akun
+and_edwhat_line67_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
+and_edwhat_line76 === Templat pesan Anda yang sudah jadi.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_edwhat_line95 === Contoh:
+and_edwhat_line95_1 === Tom adalah seorang
+and_edwhat_line95_2 === kucing
+and_edwhat_line98 === Nilai
+and_edwhat_line98_1 === bagus
+and_edwhat_line98_2 === dan
+and_edwhat_line98_3 === buruk
+and_edwhat_line98_4 === akan digunakan secara acak.
+and_edwhat_line103 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_edwhat_line116 === Kirim
+and_edwid_line17 === Nama widget.
+and_edwid_line24 === Ikon widget, hanya untuk modal. Silakan kunjungi baris mengagumkan untuk referensi ikon.
+and_edwid_line31 === Jenis widget. Blok untuk ditempatkan ke berbagai bagian templat, modal untuk konten dinamis. Sejak v3, modals hanya akan berfungsi di dasbor.
+and_edwid_line34 === Memblokir
+and_edwid_line35 === Modal
+and_edwid_line41 === Ukuran widget, hanya untuk modal.
+and_edwid_line53 === Posisi widget, hanya untuk modal.
+and_edwid_line64 === Konten widget. Semua tag html diperbolehkan, berhati-hatilah saat menambahkan skrip dari sumber yang tidak dikenal!
+and_import_line17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
+and_import_line20 === Contoh File:
+and_import_line20_1 === Unduh
+and_package_line36 === Terima SMS
+and_package_line41 === Kirim WhatsApp
+and_package_line46 === Terima WhatsApp
+and_package_line51 === USSD
+and_package_line56 === Notifikasi
+and_package_line61 === SMS/Obrolan Terjadwal
+and_package_line66 === Kontak
+and_package_line71 === Kunci API
+and_package_line76 === Webhook
+and_package_line81 === tindakan
+and_package_line86 === Perangkat Android
+and_package_line91 === Akun WhatsApp
+and_redeem_line18 === Menebus kode.
+and_redeem_line20 === misalnya. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Beberapa nomor E.164 dipisahkan oleh jeda baris. Hanya 1 pesan yang akan dikirim ke nomor meskipun Anda memilih grup yang menambahkannya.
+and_sms_bulk_31 === Pilih beberapa grup kontak. Hanya 1 pesan yang akan dikirim ke kontak meskipun Anda memilih beberapa grup yang menambahkannya.
+and_sms_bulk_43 === penyingkat
+and_sms_bulk_43_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_sms_bulk_46 === Jangan mempersingkat tautan
+and_sms_bulk_55 === Mode Gerbang
+and_sms_bulk_55_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
+and_sms_bulk_58 === Perangkat
+and_sms_bulk_59 === kredit
+and_sms_bulk_64 === Slot kartu sim untuk digunakan.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Jika diaktifkan, pesan ini akan dikirim sebelum pesan lainnya.
+and_sms_bulk_81 === Templat pesan Anda yang sudah jadi.
+and_sms_bulk_94 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
+and_sms_bulk_105 === SMS Gateway
+and_sms_bulk_105_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya
+and_sms_bulk_126 === Terjemahkan pesan.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_sms_bulk_135 === Contoh:
+and_sms_bulk_143 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_sms_exe17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
+and_sms_exe20 === Contoh File:
+and_sms_exe20_1 === Unduh
+and_sms_exe27 === penyingkat
+and_sms_exe27_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_sms_exe30 === Jangan mempersingkat tautan
+and_sms_exe39 === Mode Gerbang
+and_sms_exe39_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
+and_sms_exe42 === Perangkat
+and_sms_exe43 === kredit
+and_sms_exe47 === Templat pesan Anda yang sudah jadi.
+and_sms_exe60 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
+and_sms_exe70 === SMS Gateway
+and_sms_exe70_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
+and_sms_exe92 === Terjemahkan pesan.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_sms_exe109 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_sms_quick17 === Nomor telepon penerima.
+and_sms_quick24 === Mode Gerbang
+and_sms_quick24_1 === Mode gerbang yang ingin Anda gunakan. Jika Anda memilih perangkat, perangkat tertaut Anda akan ditampilkan untuk dikirim, jika tidak, gateway pihak ketiga dan mitra akan ditampilkan.
+and_sms_quick27 === Perangkat
+and_sms_quick28 === kredit
+and_sms_quick34 === penyingkat
+and_sms_quick34_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_sms_quick37 === Jangan mempersingkat tautan
+and_sms_quick46 === Slot kartu sim untuk digunakan.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Jika diaktifkan, pesan ini akan dikirim sebelum pesan lainnya.
+and_sms_quick66 === Perangkat Anda yang tertaut, pilih apa yang ingin Anda gunakan untuk mengirim.
+and_sms_quick77 === SMS Gateway
+and_sms_quick77_1 === Gateway pihak ketiga dan mitra, kredit Anda akan digunakan saat Anda mengirim pesan menggunakan gateway ini. Kami menyarankan Anda memeriksa harga gateway sebelum menggunakannya.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_sysup17 === Perbarui File
+and_sysup17_1 === Perbarui file zip, pastikan untuk memilih file yang benar.
+and_upplug17 === Perbarui File
+and_upplug17_1 === Perbarui file zip, pastikan untuk memilih file yang benar.
+and_uset17 === Gambar avatar profil Anda.
+and_uset24 === Nama lengkap resmi Anda, harap perhatikan bahwa menggunakan nama palsu dapat membuat akun Anda ditangguhkan.
+and_uset26 === misalnya. Michael Shmuck
+and_uset31 === Alamat email Anda yang valid, abaikan bidang ini jika Anda ingin menyimpan alamat email Anda saat ini.
+and_uset33 === misalnya. emailanda@mail.com
+and_uset38 === Zona waktu lokasi Anda, ubah ini jika Anda berada di negara lain. Zona waktu digunakan untuk akurasi tanggal dan waktu dari pesan terkirim dan data lainnya.
+and_uset49 === Negara
+and_uset49_1 === Negara Anda, ini digunakan untuk pembayaran dan pemformatan nomor telepon.
+and_uset60 === Suara Pemberitahuan
+and_uset60_1 === Jika dinonaktifkan, notifikasi akan diam.
+and_uset70 === Jika Anda ingin menyimpan kata sandi Anda saat ini, abaikan bidang ini, jika tidak, masukkan kata sandi baru Anda.
+and_usub23 === Berlaku hingga
+and_usub28 === Kirim SMS
+and_usub34 === Terima SMS
+and_usub40 === Kirim WhatsApp
+and_usub46 === Terima WhatsApp
+and_usub57 === USSD
+and_usub63 === Notifikasi
+and_usub69 === SMS/Obrolan Terjadwal
+and_usub98 === tindakan
+and_usub104 === Perangkat Android
+and_usub110 === Akun WhatsApp
+and_view20 === Tampilan penuh
+and_whatsbulk_18 === Beberapa nomor E.164 dipisahkan oleh jeda baris.
+and_whatsbulk_31 === Pilih beberapa grup kontak. Harap perhatikan bahwa jika kontak memiliki beberapa grup, pesan mungkin dikirim beberapa kali ke kontak tersebut jika Anda memilih grup yang menyertakannya.
+and_whatsbulk_43 === penyingkat
+and_whatsbulk_43_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_whatsbulk_46 === Jangan mempersingkat tautan
+and_whatsbulk_55 === Akun
+and_whatsbulk_55_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
+and_whatsbulk_64 === Templat pesan Anda yang sudah jadi.
+and_whatsbulk_79 === Terjemahkan pesan.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_whatsbulk_96 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_whatex17 === File excel yang ingin Anda impor, pastikan untuk mengikuti format yang diperlukan.
+and_whatex20 === Contoh File:
+and_whatex20_1 === Unduh
+and_whatex27 === penyingkat
+and_whatex27_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_whatex30 === Jangan mempersingkat tautan
+and_whatex39 === Akun
+and_whatex39_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
+and_whatex48 === Templat pesan Anda yang sudah jadi.
+and_whatex63 === Terjemahkan pesan.
+and_whatex68 === Spintax
+and_whatex68_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_whatex80 === Kumpulan variabel yang dapat Anda gunakan dalam pesan Anda.
+and_whatquick_17 === E.164 nomor telepon penerima.
+and_whatquick_24 === penyingkat
+and_whatquick_24_1 === Jika diaktifkan, tautan dalam pesan akan dipersingkat secara otomatis menggunakan pemendek yang dipilih.
+and_whatquick_27 === Jangan mempersingkat tautan
+and_whatquick_36 === Akun
+and_whatquick_36_1 === Pilih akun WhatsApp yang ingin Anda gunakan.
+and_whatquick_50 === Terjemahkan pesan.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Sebuah fitur yang memungkinkan Anda untuk mengacak kata dalam pesan Anda yang secara efektif mencegah deteksi spam.
+and_admin_api_3 === API Administrasi
+and_admin_fileman_3 === Editor Templat
+and_admin_gate_3 === SMS Gateway
+and_admin_gate_8 === Tambahkan Gerbang
+and_admin_lang_6 === Urutkan ulang bahasa
+and_admin_mark_3 === Pemasaran
+and_admin_mark_6 === Hapus item yang dipilih
+and_admin_mark_12 === Dorongan
+and_admin_mark_17 === Memberitahukan
+and_admin_mark_22 === Pengirim
+and_admin_payout_3 === Permintaan Pembayaran
+and_admin_short_3 === pemendek
+and_admin_short_8 === Tambahkan Shortener
+and_admin_subs_8 === Tambahkan Berlangganan
+and_admin_vouch_6 === Hapus item yang dipilih
+and_droid_dev_3 === Perangkat Android
+and_droid_dev_6 === Baca dokumentasi
+and_droid_dev_8 === dokumen
+and_droid_dev_11 === Terapkan untuk menjadi penyedia gateway mitra
+and_droid_dev_13 === Kemitraan
+and_droid_dev_16 === Daftarkan perangkat android baru
+and_droid_not_3 === Notifikasi
+and_droid_not_6 === Hapus item yang dipilih
+and_droid_rev_3 === SMS yang diterima
+and_droid_rev_6 === Hapus pesan yang dipilih
+and_droid_sched_6 === Hapus item yang dipilih
+and_droid_sent_3 === SMS terkirim
+and_droid_sent_6 === Hapus item yang dipilih
+and_droid_sent_10 === Hapus semua pesan yang tertunda
+and_droid_sent_14 === Kirim SMS Cepat
+and_droid_sent_16 === Cepat
+and_droid_sent_19 === Kirim SMS Massal
+and_droid_sent_21 === Dalam jumlah besar
+and_droid_sent_24 === Kirim SMS Massal melalui Excel
+and_droid_ussd_3 === Permintaan USSD
+and_droid_ussd_6 === Hapus item yang dipilih
+and_droid_ussd_10 === Hapus semua permintaan yang tertunda
+and_droid_ussd_14 === Permintaan USSD Baru
+and_droid_ussd_16 === Meminta
+and_con_grp_6 === Hapus item yang dipilih
+and_con_grp_10 === Tambahkan grup kontak baru
+and_con_sav_6 === Hapus item yang dipilih
+and_con_sav_10 === Tambahkan kontak baru
+and_con_sav_15 === Impor kontak dari file excel
+and_con_unsub_3 === Tidak berlangganan
+and_con_unsub_6 === Hapus item yang dipilih
+and_doc_act_3 === tindakan
+and_doc_api_3 === Dokumentasi API
+and_doc_dev_3 === Perangkat
+and_doc_partner_3 === Kemitraan
+and_doc_webhook_3 === Webhook
+and_rate_gate_3 === Tarif
+and_rate_gate_10 === Negara
+and_rate_gate_11 === Tarif Per Pesan
+and_rate_gate_22 === Negara-negara lain
+and_rate_partner_3 === Tarif Mitra
+and_tool_act_3 === tindakan
+and_tool_act_6 === Baca dokumentasi
+and_tool_act_8 === dokumen
+and_tool_act_11 === Tambahkan aksi kait baru
+and_tool_act_13 === Kait
+and_tool_act_16 === Tambahkan tindakan balasan otomatis baru
+and_tool_act_18 === Balasan otomatis
+and_tool_key_6 === Baca dokumentasi
+and_tool_key_8 === dokumen
+and_tool_key_11 === Buat kunci API baru
+and_tool_webhook_6 === Baca dokumentasi
+and_tool_webhook_8 === dokumen
+and_what_accnt_6 === Hubungkan akun baru
+and_what_accnt_8 === Menambahkan akun
+and_what_attach_8 === Hapus pesan yang dipilih
+and_what_rev_3 === Obrolan yang Diterima
+and_what_rev_6 === Hapus item yang dipilih
+and_what_sched_6 === Hapus item yang dipilih
+and_what_sched_12 === Jadwalkan Obrolan
+and_what_sent_3 === Obrolan Terkirim
+and_what_sent_6 === Hapus item yang dipilih
+and_what_sent_10 === Kirim Obrolan Cepat
+and_what_sent_12 === Cepat
+and_what_sent_15 === Kirim Obrolan Massal
+and_what_sent_17 === Dalam jumlah besar
+and_what_sent_20 === Kirim Obrolan Massal melalui Excel
+and_def_f_blck_6 === Mulai Pemasaran
+and_def_f_blck_7 === Mari mulai dan kembangkan bisnis bersama, daftar sekarang dan rasakan platform pemasaran berkualitas tinggi!
+and_def_f_blck_8 === Bergabunglah dengan kami
+and_def_f_blck_35 === Berhubungan
+and_head_blck_21 === Rumah
+and_head_blck_24 === Fitur
+and_head_blck_27 === harga
+and_head_blck_30 === klien
+and_head_blck_39 === Dasbor
+and_head_blck_42 === Keluar
+and_pages_default_8 === Pemasaran SMS dan WhatsApp yang terbaik
+and_pages_default_29 === Pesan SMS
+and_pages_default_31 === Gunakan perangkat android Anda sebagai gateway SMS, ini secara efektif lebih murah daripada menggunakan gateway pihak ketiga.
+and_pages_default_40 === Pesan WhatsApp
+and_pages_default_42 === Gunakan WhatsApp untuk kampanye pemasaran Anda, platform kami menyediakan alat untuk membantu Anda memulai.
+and_pages_default_51 === Alat Intuitif
+and_pages_default_53 === Kami menyediakan alat untuk membantu Anda melakukan tugas pemasaran seperti balasan otomatis, webhook, dan lainnya.
+and_pages_default_62 === Menghasilkan uang
+and_pages_default_64 === Jadilah salah satu mitra kami dan gunakan perangkat android Anda sebagai gerbang dan dapatkan uang untuk setiap pesan yang dikirim.
+and_pages_default_73 === Mengapa menggunakan layanan kami?
+and_pages_default_74 === Berikut adalah beberapa alasan mengapa Anda harus mulai menggunakan layanan kami
+and_pages_default_84 === Pengiriman cepat dan massal
+and_pages_default_86 === Kirim banyak pesan ke grup kontak yang berbeda dengan mudah dan Anda juga dapat mengirim pesan cepat untuk transaksi cepat. Platform kami juga menyertakan dasbor langsung, dapatkan notifikasi saat pesan Anda dikirim atau diterima!
+and_pages_default_89 === Kode pendek
+and_pages_default_89_1 === untuk menulis pesan Anda dengan data yang telah ditentukan.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === untuk mengacak rangkaian kata untuk memerangi masalah spamming.
+and_pages_default_91 === Penerjemah
+and_pages_default_91_1 === untuk menargetkan audiens berdasarkan bahasa mereka.
+and_pages_default_98 === Alat otomatis dan cerdas
+and_pages_default_100 === Kelola bisnis Anda sementara kami menangani pekerjaan kotor, platform kami cerdas dan hanya membutuhkan pesan yang ingin Anda kirim, lalu kami akan melakukan sisanya!
+and_pages_default_103 === Jadwal
+and_pages_default_103_1 === obrolan sms dan whatsapp Anda kapan saja Anda inginkan.
+and_pages_default_104 === Webhook
+and_pages_default_104_1 === untuk mengotomatiskan beberapa tugas saat Anda menerima pesan dari sms dan whatsapp.
+and_pages_default_105 === tindakan
+and_pages_default_105_1 === untuk membuat respons otomatis dan pemeriksaan data cepat acara.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === untuk melakukan permintaan terkait jaringan seperti memeriksa saldo dari operator.
+and_pages_default_107 === Notifikasi
+and_pages_default_107_1 === dari perangkat android yang terhubung juga dapat digunakan untuk tugas-tugas otomatis.
+and_pages_default_137 === Kami menjamin kesuksesan bisnis Anda dengan fitur strategis kami
+and_pages_default_139 === Platform kami dibuat dengan baik untuk memenuhi tuntutan bisnis pemasaran yang terus berkembang, kami ingin memastikan bahwa setiap sen yang Anda habiskan untuk layanan kami layak dan memberi Anda kepuasan 100%!
+and_pages_default_145 === Platform yang mudah digunakan dan cair
+and_pages_default_148 === Terjangkau tetapi mempertahankan kualitas layanan
+and_pages_default_156 === Alat dan dasbor intuitif
+and_pages_default_159 === Pengalaman cepat dan bebas lag saat Anda memasarkan produk Anda
+and_pages_default_171 === Harga Layanan
+and_pages_default_187 === Kirim SMS
+and_pages_default_194 === Terima SMS
+and_pages_default_201 === Kirim WhatsApp
+and_pages_default_208 === Terima WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === Notifikasi
+and_pages_default_229 === SMS/Obrolan Terjadwal
+and_pages_default_236 === Kontak
+and_pages_default_243 === Kunci API
+and_pages_default_250 === Webhook
+and_pages_default_257 === tindakan
+and_pages_default_264 === Perangkat Android
+and_pages_default_271 === Akun WhatsApp
+and_pages_default_287 === Pelanggan kami
+and_pages_default_290 === Dipercaya oleh lebih dari 3.000+ pelanggan. Mulai pemasaran produk Anda dan kembangkan bisnis Anda bersama kami!
+landing_title_default === Perangkat Seluler Android sebagai SMS Gateway
+landing_nav_login === Masuk
+landing_lead_desc === Manfaatkan paket sms tak terbatas penyedia jaringan Anda, solusi murah dan hemat biaya untuk pemasaran, sms massal, dan proyek di negara Anda. Gunakan WhatsApp untuk jangkauan audiens yang lebih luas, platform kami menyediakan alat lengkap untuk membantu Anda memulai.
+landing_footer_ourcomp === Perusahaan Keluar
+landing_footer_about === Tentang
+landing_footer_tos === Persyaratan Layanan
+landing_footer_privacy === Kebijakan pribadi
+landing_footer_links === Tautan Situs
+landing_footer_login === Masuk
+landing_footer_register === Daftar
+landing_footer_copyright === Seluruh hak cipta
+dashboard_title_default === Dasbor
+dashboard_title_contacts === Kontak
+dashboard_title_tools === Peralatan
+dashboard_title_admin === Administrasi
+dashboard_nav_default === Dasbor
+dashboard_nav_contacts === Kontak
+dashboard_nav_tools === Peralatan
+dashboard_nav_menusubscription === Berlangganan
+dashboard_nav_menusettings === Pengaturan
+dashboard_nav_menulogout === Keluar
+dashboard_btn_addcontact === Tambah kontak
+dashboard_btn_adddevice === Tambahkan Perangkat
+dashboard_btn_addgroup === Tambahkan Grup
+dashboard_btn_addtemplate === Tambahkan Template
+dashboard_btn_addkey === Tambahkan Kunci
+dashboard_btn_addhook === Tambahkan Webhook
+dashboard_btn_build === Membangun
+dashboard_btn_buildsettings === Pengaturan
+dashboard_btn_settings === Sistem
+dashboard_btn_theme === Tema
+dashboard_btn_adduser === Tambahkan pengguna
+dashboard_btn_addpackage === Tambahkan Paket
+dashboard_btn_addwidget === Tambahkan Widget
+dashboard_btn_addlanguage === Tambahkan Bahasa
+dashboard_footer_about === Tentang
+dashboard_footer_terms === Persyaratan Layanan
+dashboard_footer_privacy === Kebijakan pribadi
+dashboard_footer_copyright === Seluruh hak cipta
+dashboard_messages_menusent === Terkirim
+dashboard_messages_menureceived === Diterima
+dashboard_messages_menutemplates === Template
+dashboard_messages_tabreceivedtitle === Pesan yang diterima
+dashboard_messages_tabtemplatestitle === Template
+dashboard_messages_tablesentrecipient === Penerima
+dashboard_messages_tablesentmessage === Pesan
+dashboard_messages_tablesentcreated === Dibuat
+dashboard_messages_tablesentoptions === Pilihan
+dashboard_messages_tablereceivedsender === Pengirim
+dashboard_messages_tablereceivedmessage === Pesan
+dashboard_messages_tablereceivedreceived === Diterima
+dashboard_messages_tablereceivedoptions === Pilihan
+dashboard_messages_tabletemplatesname === Nama Templat
+dashboard_messages_tabletemplatesformat === Format Templat
+dashboard_messages_tabletemplatesoptions === Pilihan
+dashboard_contacts_title === Kontak
+dashboard_contacts_menusaved === Diselamatkan
+dashboard_contacts_menugroups === Grup
+dashboard_contacts_tabsavedtitle === Kontak Tersimpan
+dashboard_contacts_tabgroupstitle === Grup Kontak
+dashboard_contacts_tablesavedname === Nama Kontak
+dashboard_contacts_tablesavednumber === Nomor kontak
+dashboard_contacts_tablesavedoptions === Pilihan
+dashboard_contacts_tablegroupsname === Nama grup
+dashboard_contacts_tablegroupsoptions === Pilihan
+dashboard_devices_tableregisteredbrand === Pabrikan
+dashboard_devices_tableregisteredversion === Versi: kapan
+dashboard_devices_tableregisteredadded === Terdaftar
+dashboard_devices_tableregisteredoptions === Pilihan
+dashboard_tools_title === Peralatan
+dashboard_tools_menukeys === Kunci API
+dashboard_tools_menuhooks === Webhook
+dashboard_tools_tabkeystitle === Kunci API
+dashboard_tools_tabhookstitle === Webhook
+dashboard_tools_tablekeysname === Nama
+dashboard_tools_tablekeyspermissions === Izin
+dashboard_tools_tablekeysoptions === Pilihan
+dashboard_tools_tablehooksname === Nama
+dashboard_tools_tablehooksurl === URL webhook
+dashboard_tools_tablehooksoptions === Pilihan
+dashboard_admin_title === admin
+dashboard_admin_menustats === Statistik
+dashboard_admin_menuusers === Pengguna
+dashboard_admin_menupackages === Paket
+dashboard_admin_menusubscriptions === Langganan
+dashboard_admin_menutransactions === Transaksi
+dashboard_admin_menuwidgets === Widget
+dashboard_admin_menulanguages === Bahasa
+dashboard_admin_tabdefaultearningstitle === Pendapatan
+dashboard_admin_tabdefaultmessageslast === 30 hari terakhir
+dashboard_admin_tabuserstitle === Pengguna
+dashboard_admin_tabpackagestitle === Paket
+dashboard_admin_tabsubscriptionstitle === Langganan
+dashboard_admin_tabtransactionstitle === Transaksi
+dashboard_admin_tabwidgetstitle === Widget
+dashboard_admin_tablanguagestitle === Bahasa
+dashboard_admin_tableusersname === Nama
+dashboard_admin_tableusersemail === Surel
+dashboard_admin_tableusersoptions === Pilihan
+dashboard_admin_tablepackagesname === Nama
+dashboard_admin_tablepackagesprice === Harga
+dashboard_admin_tablepackagesoptions === Pilihan
+dashboard_admin_tablesubscriptionsuser === Pengguna
+dashboard_admin_tablesubscriptionspackage === Kemasan
+dashboard_admin_tablesubscriptionsprice === Harga
+dashboard_admin_tablesubscriptionsexpire === Tanggal kadaluarsa
+dashboard_admin_tablesubscriptionsoptions === Pilihan
+dashboard_admin_tabletransactionscustomer === Pelanggan
+dashboard_admin_tabletransactionsprovider === Pemberi
+dashboard_admin_tablewidgetsname === Nama Widget
+dashboard_admin_tablewidgetstype === Jenis
+dashboard_admin_tablewidgetssize === Ukuran
+dashboard_admin_tablewidgetsposition === Posisi
+dashboard_admin_tablewidgetsoptions === Pilihan
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === nama bahasa
+dashboard_admin_tablelanguagescreated === Dibuat
+dashboard_admin_tablelanguagesoptions === Pilihan
+table_search_text === Mencari
+table_search_placeholder === Masukkan kata kunci di sini...
+response_invalid === Permintaan Tidak Valid!
+response_went_wrong === Ada yang salah!
+response_session_false === Sesi tidak ada!
+response_session_true === Sesi sudah ada!
+response_invalid_emailpass === Email/kata sandi salah!
+response_loggedin_success === Berhasil masuk!
+response_loggedout_success === Berhasil logout!
+response_invalid_email === Alamat email salah!
+response_retrieval_received === Kami menerima permintaan untuk pengambilan akun, abaikan jika tidak diminta oleh Anda.
+response_solve_captcha === Tolong selesaikan tantangan anti-bot!
+response_register_false === Pendaftaran dinonaktifkan!
+response_name_short === Nama terlalu pendek!
+response_password_short === Kata sandi harus lebih dari 5 karakter!
+response_password_notmatch === Kata sandi tidak cocok!
+response_register_success === Registrasi berhasil!
+response_email_unavailable === Alamat email sudah terdaftar!
+response_upload_applogo === Harap unggah logo aplikasi Anda!
+response_upload_appsplash === Harap unggah percikan aplikasi Anda!
+response_pcode_empty === Silakan masukkan kode pembelian Anda di pengaturan sistem!
+response_buildserver_false === Tidak dapat terhubung untuk membangun server!
+response_invalid_number === Nomor ponsel tidak valid!
+response_message_short === Pesan terlalu pendek!
+response_message_queued === Pesan telah ditambahkan ke antrian!
+response_message_bulkqueued === Pesan massal telah diantrekan untuk dikirim!
+response_format_short === Formatnya terlalu pendek!
+response_template_added === Templat telah ditambahkan!
+response_number_exist === Nomor kontak sudah ada!
+response_contact_added === Kontak telah ditambahkan!
+response_group_added === Grup kontak telah ditambahkan!
+response_permission_min === Silakan pilih setidaknya 1 izin!
+response_key_added === Kunci API telah ditambahkan!
+response_invalid_webhookurl === URL Webhook tidak valid!
+response_webhook_added === Webhook ah telah ditambahkan!
+response_user_added === Pengguna telah ditambahkan!
+response_package_added === Paket telah ditambahkan!
+response_widget_added === Widget telah ditambahkan!
+response_language_added === Bahasa telah ditambahkan!
+response_avatar_invalid === Avatar tidak dapat diunggah!
+response_profile_updated === Profil telah diperbarui!
+response_package_purchasedtitle === Anda sudah berlangganan paket premium, ini struknya!
+response_package_purchased === Berhasil berlangganan paket!
+response_template_updated === Template telah diperbarui!
+response_contact_updated === Kontak telah diperbarui!
+response_group_updated === Grup kontak telah diperbarui!
+response_key_updated === Kunci API telah diperbarui!
+response_webhook_updated === Webhook telah diperbarui!
+response_user_updated === Pengguna telah diperbarui!
+response_package_updated === Paket telah diperbarui!
+response_widget_updated === Widget telah diperbarui!
+response_language_updated === Bahasa telah diperbarui!
+response_builder_packagenameshort === Nama paket terlalu pendek!
+response_builder_appnameshort === Nama aplikasi terlalu pendek!
+response_builder_applogofail === Logo aplikasi tidak dapat diunggah!
+response_builder_appsplashfail === Percikan aplikasi tidak dapat diunggah!
+response_builder_settingsupdated === Setelan pembuat diperbarui!
+response_theme_updated === Pengaturan tema diperbarui!
+response_system_settingsupdated === Pengaturan sistem diperbarui!
+response_deleted_sent === Pesan terkirim telah dihapus!
+response_deleted_received === Pesan yang diterima telah dihapus!
+response_deleted_template === Templat telah dihapus!
+response_deleted_contact === Kontak telah dihapus!
+response_deleted_group === Grup kontak telah dihapus!
+response_deleted_device === Perangkat telah dihapus!
+response_deleted_key === Kunci API telah dihapus!
+response_deleted_hook === Webhook telah dihapus!
+response_deleted_defaultuserfalse === Pengguna default tidak dapat dihapus!
+response_deleted_user === Pengguna telah dihapus!
+response_deleted_defaultpackagefalse === Paket default tidak dapat dihapus!
+response_deleted_package === Paket telah dihapus!
+response_deleted_subscription === Langganan telah dihapus!
+response_deleted_widget === Widget telah dihapus!
+response_deleted_defaultlangfalse === Bahasa default tidak dapat dihapus!
+response_deleted_language === Bahasa telah dihapus!
+response_lang_changed === Bahasa telah diubah!
+modal_usersettings_title === Pengaturan
+modal_subscription_title === Berlangganan
+modal_packages_title === Paket
+modal_smsquick_title === SMS cepat
+modal_smsbulk_title === SMS massal
+modal_addtemplate_title === Tambahkan Template
+modal_edittemplate_title === Sunting Template
+modal_addcontact_title === Tambah kontak
+modal_editcontact_title === Sunting Kontak
+modal_addgroup_title === Tambahkan Grup
+modal_editgroup_title === Edit Grup
+modal_adddevice_title === Tambahkan Perangkat
+modal_addkey_title === Tambahkan Kunci API
+modal_editkey_title === Edit Kunci API
+modal_edithook_title === Sunting Webhook
+modal_buildersettings_title === Pengaturan Pembuat
+modal_themesettings_title === Pengaturan tema
+modal_systemsettings_title === Pengaturan sistem
+modal_adduser_title === Tambahkan pengguna
+modal_edituser_title === Edit Pengguna
+modal_addpackage_title === Tambahkan Paket
+modal_editpackage_title === Sunting Paket
+modal_addwidget_title === Tambahkan Widget
+modal_editwidget_title === Edit Widget
+modal_addlanguage_title === Tambahkan bahasa
+modal_editlanguage_title === Edit Bahasa
+require_email === Alamat email
+require_password === Kata sandi
+require_name === Nama lengkap
+require_cpassword === konfirmasi kata kunci
+require_phone === Nomor telepon
+require_device === Perangkat
+require_message === Pesan
+require_groups === Grup kontak
+require_sim === slot sim
+require_priority === Pilihan prioritas
+require_api === opsi API
+require_templatename === Nama template
+require_templateformat === Format template
+require_contactname === Nama Kontak
+require_group === Grup kontak
+require_groupname === Nama grup
+require_apiname === Nama kunci API
+require_permissions === Izin
+require_hookname === Nama webhook
+require_hookurl === URL webhook
+require_appname === Nama aplikasi
+require_appcolor === Warna aplikasi
+require_packagename === Nama paket
+require_widgetname === Nama widget
+require_widgetsize === Ukuran widget
+require_widgetposition === Posisi widget
+require_widgettype === Jenis widget
+require_languagename === Nama bahasa
+require_languageiso === bahasa iso
+require_languagestr === Terjemahan bahasa
+btn_submit === Kirim
+btn_download === Unduh
+btn_done === Selesai
+btn_purchase === Pembelian
+btn_free === Gratis
+btn_send === Kirim
+btn_save === Menyimpan
+btn_packages === Paket
+btn_retrieve === Mengambil
+btn_signin === Masuk
+btn_signup === Daftar
+form_name === Nama
+form_number === Nomor telepon
+form_group === Grup Kontak
+form_adddevice_one === Menambahkan perangkat android baru ke akun Anda sangat mudah, kami memastikan Anda dapat melanjutkan tanpa membuang waktu berharga Anda, ikuti langkah-langkah ini.
+form_adddevice_two === 1. Unduh & Instal
+form_adddevice_three === Pertama, unduh dan instal aplikasi gateway kami dengan mengklik tombol ini.
+form_adddevice_four === 2. Daftarkan Perangkat
+form_adddevice_five === Sekarang buka aplikasi gateway dan klik tombol pindai lalu pindai qrcode ini.
+form_adddevice_six === 3. Selesai!
+form_adddevice_seven === Perangkat telah ditambahkan ke akun Anda, sekarang Anda dapat mulai mengirim pesan!
+form_permissions === Izin
+form_countrycode === Kode negara
+form_translations === String Terjemahan
+form_translations_placeholder === Masukkan terjemahan di sini...
+form_packageprice === Harga
+form_packagesend === Batas Kirim
+form_packagereceive === Terima Batas
+form_packagedevice === Batas Perangkat
+form_packagekey === Batas Kunci
+form_packagehook === Batas Webhook
+form_templatename_placeholder === Pengumuman
+form_templateformat === Format
+form_templateformat_placeholder === Masukkan format template Anda di sini...
+form_shortcodes === Kode pendek
+form_emailaddress === Alamat email
+form_password === Kata sandi
+form_password_leave === Biarkan kosong untuk menyimpan kata sandi saat ini
+form_language === Bahasa
+form_webhookname_placeholder === Balas Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Persyaratan Layanan
+form_widgeticon === ikon
+form_widgettype === Jenis
+form_widgetsize === Ukuran
+form_widgetsmall === Kecil
+form_widgetmedium === Medium
+form_widgetlarge === Besar
+form_widgetxlarge === Ekstra besar
+form_widgetposition === Posisi
+form_widgetcenter === Tengah
+form_widgetleft === Kiri
+form_widgetright === Benar
+form_widgetcontent === Isi
+form_builderpackagename === Nama paket
+form_builderappname === Nama aplikasi
+form_builderappdesc === Deskripsi Aplikasi
+form_builderappdesc_placeholder === Ini adalah aplikasi yang luar biasa
+form_builderapplogo === Logo Aplikasi
+form_builderappsplash === Layar Splash Aplikasi
+form_uploaded === Diunggah
+form_notuploaded === Tidak ada
+form_themebg === Warna latar belakang
+form_themetext === Sorot Warna
+form_settingsite === Lokasi
+form_settingssitename === Nama situs
+form_settingssitedesc === Deskripsi situs
+form_settingspcode === Kode Pembelian
+form_settingsprotocol === Protokol
+form_settingsdeflang === Bahasa Bawaan
+form_settingsreg === Pendaftaran
+form_settingsmailing === pengiriman surat
+form_settingsmailfunc === Fungsi Surat
+form_settingssitemail === Email Situs
+form_settingssmtphost === Tuan Rumah SMTP
+form_settingssmtpport === Pelabuhan SMTP
+form_settingssmtpusername === Nama Pengguna SMTP
+form_settingssmtppassword === Kata Sandi SMTP
+form_settingssmtp_small === Diperlukan untuk SMTP jarak jauh
+form_settingspayments === Pembayaran
+form_settingspaypaltest === Modus Uji Paypal
+form_settingssecurity === Keamanan
+form_settingsrecaptchakey === Kunci Situs Recaptcha
+form_settingsrecaptchasecret === Kunci Rahasia Recaptcha
+form_enable === Memungkinkan
+form_disable === Cacat
+form_native === Warga asli
+form_remotesmtp === SMTP jarak jauh
+form_device === Perangkat Seluler
+form_sim === Slot SIM
+form_priority === Prioritas
+form_yes === Ya
+form_no === Tidak
+form_freefor === Bebas selamanya
+form_monthly === Bulanan
+form_groups === Grup Kontak
+form_template === Templat
+form_none === Tidak ada
+form_message === Pesan
+form_message_placeholder === Masukkan pesan Anda di sini...
+form_avatar === Avatar
+form_changepass === Ganti kata sandi
+form_package === Kemasan
+form_keys === Kunci API
+form_hooks === Webhook
+form_daily === sehari-hari
+form_forgotpass === Tidak ingat kata sandi
+form_fullname === Nama lengkap
+form_cpassword === konfirmasi sandi
+form_haveaccount === Aku memiliki sebuah akun
+datatable_processing === Memproses ... tunggu sebentar...
+datatable_length === Menampilkan _MENU_ entri
+datatable_info === Menampilkan _START_ hingga _END_ dari _TOTAL_ entri
+datatable_empty === Menampilkan 0 hingga 0 dari 0 entri
+datatable_filtered === (difilter dari total _MAX_ entri)
+datatable_loading === Sedang memuat, harap tunggu...
+datatable_zero === Kami tidak dapat menemukan apa pun yang cocok dengan kueri Anda!
+datatable_null === Tidak ada data untuk ditampilkan!
+datatable_first === Pertama
+datatable_prev === Sebelumnya
+datatable_next === Berikutnya
+datatable_last === Terakhir
+delete_title === Menghapus?
+delete_tagline === Tindakan ini tidak bisa dibatalkan!
+validate_cannotemp === tidak boleh kosong!
+alert_attention === Perhatian
+copy_data === Data disalin ke papan klip!
+date_today === Hari ini
+date_yesterday === Kemarin
+date_7days === 7 Hari Terakhir
+date_30days === 30 hari terakhir
+date_month === Bulan ini
+date_lmonth === Bulan lalu
+date_custom === Rentang Kustom
+unknown_action_method === Metode tindakan tidak diketahui!
+mollie_redirecting_page === Mengarahkan ke halaman pembayaran mollie...
+form_settingsmolliekey === Kunci API Mollie
+btn_confirm === Mengonfirmasi
+btn_cancel === Membatalkan
+recaptcha_add_keys === Silakan tambahkan kunci recaptcha Anda untuk mengaktifkan fitur ini!
+pay_with_paypal === Bayar dengan Paypal
+pay_with_mollie === Bayar dengan Mollie
+form_settingsenabledproviders === Penyedia yang Diaktifkan
+form_builderappicon === Ikon Aplikasi
+payment_transact_failed === Transaksi pembayaran gagal!
+cookieconsent_message === Kami menggunakan cookie untuk memastikan Anda mendapatkan pengalaman terbaik di situs web kami.
+cookieconsent_link === Belajarlah lagi
+role_added === Peran telah ditambahkan!
+role_updated === Peran telah diperbarui!
+role_deleted === Peran telah dihapus!
+role_default_update === Peran default tidak dapat diedit!
+role_default_delete === Peran default tidak dapat dihapus!
+voucher_added === Voucher telah ditambahkan!
+form_voucher === Kode Voucher
+btn_redeem === Menukarkan
+invalid_voucher_code === Kode voucher tidak valid!
+voucher_deleted === Voucher telah dihapus!
+form_title_addvoucher === Tambah Voucher
+form_title_addsubscription === Tambahkan Berlangganan
+form_adduser_role === Peran
+require_pagename === Nama halaman
+require_pageroles === Peran yang Diizinkan
+form_pageroles === Peran yang Diizinkan
+require_vouchercode === Kode Voucher
+form_settingscurrency === Mata uang
+btn_bulkexcel === Unggul
+response_leastprovider === Silakan pilih setidaknya 1 penyedia pembayaran!
+user_subscriptioncontacts === Kontak
+response_suspended === Akun Anda telah ditangguhkan oleh administrator!
+response_adminsuspend === Akun default tidak dapat ditangguhkan!
+response_successsuspend === Pengguna telah ditangguhkan!
+response_successunsuspend === Pengguna telah dibatalkan penangguhannya!
+suspend_user_title === Tangguhkan Pengguna?
+suspend_user_desc === Pengguna ini tidak akan dapat masuk dan menggunakan layanan
+unsuspend_user_title === Batalkan Penangguhan Pengguna?
+unsuspend_user_desc === Pengguna ini akan dapat masuk dan menggunakan layanan lagi
+all_languages === Semua bahasa
+response_invalid_excel === File excel tidak valid!
+response_contacts_imported === Kontak telah diimpor!
+table_role_name === Nama peran
+table_role_permissions === Izin
+table_voucher_name === Nama
+table_voucher_package === Kemasan
+table_page_name === Nama halaman
+table_page_require === Perlu Masuk
+table_page_roles === Peran yang Diizinkan
+import_btn === Impor
+form_excelfile === Berkas Excel
+form_hook_addtitle === Tambahkan Aksi Kait
+form_hook_edittitle === Edit Aksi Kait
+form_hook_event === Peristiwa
+form_hook_link === Struktur Tautan
+form_autoreply_addtitle === Tambahkan Tindakan Balasan
+form_autoreply_edittitle === Edit Tindakan Balasan
+form_autoreply_keywords === Kata kunci
+form_autoreply_message === Balas Pesan
+require_action_name === Nama tindakan
+require_action_event === Jenis acara
+require_action_link === Struktur tautan
+require_action_keywords === Kata kunci
+require_action_message === Balas pesan
+response_invalid_linkstructure === Struktur tautan tidak valid!
+response_hook_added === Tindakan kait SMS telah ditambahkan!
+response_invalid_keywords === Anda harus memasukkan setidaknya 1 kata kunci!
+response_autoreply_added === Tindakan balasan SMS telah ditambahkan!
+response_hook_updated === Tindakan kait SMS telah diperbarui!
+response_autoreply_updated === Tindakan balasan SMS telah diperbarui!
+response_action_deleted === Tindakan SMS telah dihapus!
+table_action_name === Nama
+form_scheduled_title === Jadwalkan SMS
+response_scheduled_deleted === Pesan terjadwal telah dihapus!
+response_no_permission === Anda tidak memiliki izin untuk tindakan ini!
+response_builder_appiconfail === Ikon aplikasi tidak dapat diunggah!
+form_require_login === Perlu Masuk
+widget_addpage_title === Tambah halaman
+widget_editpage_title === Sunting Halaman
+require_subscription_user === Pengguna
+require_voucher_name === Nama voucher
+require_voucher_package === Kemasan
+widget_alllang_title === Semua bahasa
+widget_smsexcel_title === SMS massal oleh Excel
+require_scheduled_name === Nama
+require_scheduled_date === Tanggal jadwal
+widget_importcontacts_title === Impor Kontak
+require_addrole_name === Nama peran
+require_addrole_permissions === Izin
+widget_editrole_title === Sunting Peran
+response_page_added === Halaman telah ditambahkan!
+response_page_updated === Halaman telah diperbarui!
+response_page_deleted === Halaman telah dihapus!
+table_scheduled_name === Nama
+messages_scheduled_title === Terjadwal
+messages_scheduled_schedule === Jadwalkan SMS
+form_schedule_numbers === Nomor Ponsel
+form_schedule_schedule === Jadwal
+form_schedule_repeat === Ulang
+form_bulksms_numbers === Nomor Ponsel
+dashboard_tools_menuactions === tindakan
+dashboard_admin_menuroles === Peran
+dashboard_admin_menuvouchers === Voucher
+dashboard_admin_menupages === halaman
+admin_gateway_title === Gerbang
+admin_gateway_status === Status
+admin_gateway_notuploaded === Tidak Diunggah
+admin_gateway_uploaded === Diunggah
+dashboard_roles_title === Peran Pengguna
+dashboard_roles_addrole === Tambahkan Peran
+dashboard_vouchers_title === Voucher
+dashboard_vouchers_addrole === Tambah Voucher
+form_voucher_package === Kemasan
+dashboard_pages_title === halaman
+dashboard_pages_addpage === Tambah halaman
+form_theme_favicon === favicon
+form_package_contactslimit === Batas Kontak
+response_limitation_send === Anda telah mencapai pengiriman maksimum yang diizinkan untuk hari ini!
+response_limitation_contact === Anda telah mencapai kontak maksimum yang diizinkan!
+response_limitation_key === Anda telah mencapai kunci API maksimum yang diizinkan!
+response_limitation_webhook === Anda telah mencapai webhook maksimum yang diizinkan!
+form_adminsettings_token === Token Sistem
+response_upload_appicon === Harap unggah ikon aplikasi Anda!
+app_status_gateway_running === Gerbang sedang berjalan!
+app_device_registered === Tertaut
+app_device_unregistered === Tidak Tertaut
+app_terminal_gateway_ready === Gerbang sudah siap...
+app_terminal_gateway_register === Perangkat belum ditautkan...
+app_terminal_gateway_hash === hash
+app_terminal_gateway_registered === Perangkat telah ditautkan...
+app_terminal_gateway_device === Penautan perangkat gagal...
+app_terminal_gateway_connecterror === Kesalahan saat menghubungkan ke server...
+app_terminal_gateway_started === Gerbang telah dimulai...
+app_terminal_gateway_stopped === Gerbang telah dihentikan...
+app_terminal_gateway_unregistered === Tidak dapat memulai gateway, perangkat belum ditautkan ke akun mana pun...
+app_terminal_feature_error === kesalahan fitur SMS
+app_terminal_sms_sent === Pesan terkirim
+app_terminal_message_failed === Gagal mengirim pesan
+app_dialog_wait === Mohon tunggu...
+app_dialog_exit === Pintu Keluar
+app_dialog_exit_desc === Matikan dan keluar dari gateway?
+app_camera_qrcode_inside === Tempatkan QRCode Anda di dalam
+app_ui_status === Status
+app_ui_exit === KELUAR
+require_voucher_count === Jumlah voucher tidak boleh kosong!
+form_voucher_count === Jumlah Voucher
+cookieconsent_dismiss === Mengerti!
+title_payment_success === Konfirmasi pesanan
+title_payment_cancel === Pesanan Dibatalkan
+header_payment_success === Konfirmasi pesanan
+header_payment_cancel === Pesanan Dibatalkan
+body_payment_cancel === Anda telah membatalkan permintaan pesanan Anda.
+transaction_payment_success === ID transaksi:
+back_payment_page === Kembali ke Dasbor
+form_settingspaypalemail === Email Bisnis Paypal
+form_settingsanalytics === Kunci Google Analytics
+form_messagecounterchars === karakter
+form_settingspagination === Batas Paginasi
+form_settingssentpage === Pesan Terkirim Per Halaman
+form_settingsreceivedpage === Pesan yang Diterima Per Halaman
+form_settingsmessage === Pengaturan Pesan
+form_settingsmessagemin === Karakter Minimum
+form_settingsmessagemax === Karakter Maksimum
+form_settingsmessagemark === Pesan Footermark
+form_packagefootermark === Pesan Footermark
+form_settingssmtpsecure === Keamanan SMTP
+form_durationtitle === Durasi
+form_durationpackage === Paket Anda:
+form_durationpay === Anda akan membayar:
+form_durationmonth === Durasi Bulan
+form_subscriptionmonth === Durasi Bulan
+authenticate_fblogin === Masuk dengan facebook...
+authenticate_googlelogin === Masuk dengan google...
+authenticate_vklogin === Masuk dengan vkontakte...
+response_minplatforms === Silakan pilih setidaknya 1 platform sosial!
+form_settingssocialtitle === Pengaturan Sosial
+form_settingssocial === Otentikasi Sosial
+form_settingssocialplatforms === Platform yang Diaktifkan
+form_usertimezone === Zona waktu
+form_settingsloginrecaptcha === Masuk Recaptcha
+form_loginor === ATAU
+form_adddevicescandl === Unduh melalui Pemindaian QR
+form_status_online === On line
+form_status_offline === Offline
+form_smsbulknonumbers === Silakan pilih grup kontak atau masukkan nomor penerima!
+form_addsubscriptionuser === Pengguna
+form_addsubscriptionpackage === Kemasan
+table_vouchersduration === Durasi Bulan
+table_pluginsname === Nama Plugin
+table_pluginsoptions === Pilihan
+dashboard_admin_menuplugins === Plugin
+dashboard_admin_pluginstitle === Plugin
+dashboard_admin_pluginsadd === Tambahkan Plugin
+require_pluginfile === File Plugin
+modal_addplugin_title === Tambahkan Plugin
+response_pluginwentwrong === Terjadi masalah saat mengunggah plugin!
+response_plugininstalled === Plugin telah diinstal!
+dashboard_title_login === Gabung
+dashboard_title_forgot === Tidak ingat kata sandi
+dashboard_title_register === Daftar
+response_limitation_contact2 === Anda telah mencapai jumlah maksimum kontak pada langganan Anda, hanya _8880_ kontak yang telah diimpor!
+response_contacts_imported2 === _8880_ kontak telah berhasil diimpor!
+form_systemsettingshomepage === Beranda Default
+app_dialog_update_desc === Ada versi rilis baru yang tersedia untuk aplikasi gateway, pembaruan diperlukan!
+app_dialog_update_download === Unduh
+app_gateway_build_text === Pembangunan Gerbang
+response_gateway_available === Mengunduh gateway, harap tunggu...
+response_gateway_unavailable === Gateway tidak tersedia, silakan hubungi administrator situs!
+response_gateway_randommax === Interval pengiriman maksimum tidak boleh lebih dari 300 detik!
+response_device_updated === Perangkat telah diperbarui!
+form_editdevice_devicename === Nama perangkat
+form_editdevice_randomsend === Interval Pengiriman Acak
+form_editdevice_randommin === Kirim Interval Min
+form_editdevice_randommax === Kirim Interval Maks
+form_smsall_globalstatus === Global
+form_select_multinone === Tidak ada
+form_package_hiddenselect === Tersembunyi
+landing_footer_ourcompnew === Perusahaan kita
+form_smsschedule_submit === Jadwal
+require_devicename === Nama perangkat
+require_randommin === Interval minimum acak
+require_randommax === Interval maksimum acak
+admin_update_installed === Terpasang
+admin_update_btn === Memperbarui
+response_update_success === Sistem telah diperbarui!
+form_settings_tawkchatlink === Tawk Tawk Obrolan Langsung
+model_title_editplugin === Sunting Plugin
+btn_other_paymentmethods === Metode Pembayaran Lainnya
+dashboard_btn_support === Mendukung
+pendingdelete_title === Hapus Tertunda?
+pendingdelete_desc === Hapus semua pesan tertunda? Tindakan ini tidak bisa dibatalkan!
+dashboard_messages_tablefullmessage === Pesan Lengkap
+administration_landing_btncache === Cache
+administration_landing_payouts === Pembayaran
+administration_landing_marketing === Pemasaran
+administration_landing_gateways === Gerbang
+administration_landing_shorteners === pemendek
+administration_landing_editor === Editor Templat
+administration_landing_api === API Admin
+administration_landing_build === Membangun
+administration_landing_system === Sistem
+requests_charts_smssent === SMS Terkirim
+requests_charts_smsreceived === SMS Diterima
+requests_charts_wasent === WhatsApp Terkirim
+requests_charts_wareceived === WhatsApp Diterima
+requests_charts_ussd === USSD
+requests_charts_notifications === Notifikasi
+requests_charts_credits === kredit
+administration_default_visitors === pengunjung
+administration_default_countries === negara
+administration_default_browsers === Browser
+administration_default_os === Sistem operasi
+administration_default_usages === penggunaan
+administration_default_messages === Pesan
+administration_default_utilities === Keperluan
+administration_default_subscriptions === Langganan
+administration_default_credits === kredit
+tables_users_registered === Terdaftar
+tables_users_details === rincian
+dashboard_title_android === Android
+dashboard_title_whatsapp === Ada apa
+dashboard_title_gatewayrates === Tarif Gerbang
+dashboard_title_docs === Dokumentasi
+app_status_gateway_touch === Sentuh di sini untuk membuka gerbang
+app_dialog_downloading_update === Mengunduh Pembaruan
+app_dialog_interface_disabled === Antarmuka dinonaktifkan, perbarui aplikasi ke versi terbaru!
+app_dialog_somethingwent_wrong === Ups! Ada yang tidak beres!
+app_intro_level_1 === Terima kasih telah menggunakan platform kami, untuk memaksimalkan pengalaman Anda dan membiasakan diri dengan aplikasi, mari kita jelajahi dan kami akan menjelaskan semua fungsi penting yang perlu Anda ketahui.
+app_intro_level_2 === Anda akan melihat nama perangkat dan status tautan di sini.
+app_intro_level_3 === Untuk menautkan perangkat ke akun Anda, gunakan tombol ini untuk masuk atau pindai QRCode Anda untuk ditautkan.
+app_intro_level_4 === Gunakan sakelar ini untuk menghidupkan atau mematikan gateway.
+app_intro_level_5 === Mengaktifkan sakelar ini akan membuat aplikasi gateway mendengarkan notifikasi baru yang kemudian dapat dikelola secara terprogram di platform. Ini dinonaktifkan secara default.
+app_intro_level_6 === Gunakan tombol ini untuk mematikan dan keluar dari aplikasi gateway.
+app_intro_level_7 === Ini adalah terminal, transaksi pesan dan log aktivitas lainnya akan ditampilkan di sini.
+app_intro_level_8 === Ini adalah tombol aksi mengambang, Anda dapat mengakses beberapa opsi dan halaman tambahan seperti <b>Jalankan di Latar Belakang</b> di sini.
+app_dialog_tour_complete === Anda sekarang harus memahami cara kerja aplikasi, untuk pertanyaan tambahan, silakan hubungi kami!
+app_push_right_now === sekarang
+app_device_detailes_updated === Detail perangkat telah diperbarui!
+app_ussd_requests_notsupported === Permintaan USSD tidak didukung...
+app_notifications_listening_now === Mendengarkan notifikasi baru...
+app_button_ok === Mengonfirmasi
+app_dialog_update_smoothperm === Untuk pembaruan yang lancar dan efisien, izinkan pemasangan izin dari aplikasi ini.
+app_dialog_logging_in === Masuk...
+app_dialog_invalid_email === Anda telah memasukkan email yang tidak valid!
+app_dialog_invalid_password === Kata sandi terlalu pendek untuk valid!
+app_dialog_notsupported_notinougat === Pemberitahuan saat ini tidak didukung untuk nougat dan di bawahnya, maaf atas ketidaknyamanannya.
+app_dialog_notifications_permission === Untuk mengakses notifikasi secara terprogram, aplikasi memerlukan izin khusus. Silakan pilih aplikasi dalam daftar lalu izinkan akses notifikasi.
+app_dialog_gateway_listennoti === Gateway sekarang akan mendengarkan notifikasi baru.
+app_dialog_gateway_notirestart === Gateway akan memulai ulang dan berhenti mendengarkan notifikasi baru.
+app_dialog_needto_link === Anda perlu menautkan perangkat ke akun Anda sebelum dapat menggunakan fitur ini.
+app_dialog_logoutfrom_device === Logout dari perangkat gateway ini?
+app_document_runbackground === Jalankan di Latar Belakang
+app_document_input_email === Alamat email
+app_document_input_password === Kata sandi
+app_document_btn_login === Gabung
+app_document_text_or === atau
+app_document_btn_scan === Pindai kode QR
+app_document_btn_cancel === Membatalkan
+app_intro_next_btn === Berikutnya
+app_intro_back_btn === Kembali
+response_token_generated === Token sistem telah dibuat ulang!
+response_trigger_done === Webhook telah dipicu!
+response_build_gservicesfile === Silakan unggah file layanan google Anda!
+response_build_fcredentialsfile === Harap unggah file kredensial firebase Anda!
+response_build_loginlogo === Harap unggah logo masuk aplikasi Anda!
+response_whatsapp_notprem === Akun tidak berlangganan paket premium apa pun!
+response_whatsapp_maxaccounts === Anda telah mencapai jumlah maksimum akun WhatsApp yang diizinkan untuk paket Anda!
+response_whatsapp_creatingqr === Membuat QRCode WhatsApp
+response_whatsapp_noconnectserver === Tidak dapat terhubung ke server WhatsApp!
+response_chart_dashsmssent === SMS Terkirim
+response_chart_dashsmsreceive === SMS Diterima
+response_chart_dashwasent === WA Terkirim
+response_chart_dashwareceive === WA Diterima
+response_chart_dashwebhooks === Webhook
+response_chart_dashactions === tindakan
+response_chart_dashussd === USSD
+response_chart_dashnoti === Notifikasi
+response_resend_queued === Pesan telah diantrekan untuk dikirim!
+mail_title_payoutapproved === Permintaan pembayaran Anda telah dibayar!
+response_payout_confirmed === Pembayaran telah dikonfirmasi!
+mail_title_payoutrejected === Permintaan pembayaran Anda telah ditolak!
+response_payout_rejected === Pembayaran telah ditolak!
+response_translate_msgshort === Pesan terlalu pendek!
+response_clear_systemcleared === File cache sistem telah dihapus!
+response_clear_smscleared === Pesan yang tertunda telah dihapus!
+response_clear_ussdcleared === Permintaan USSD yang tertunda telah dihapus!
+response_reorder_languages === Bahasa telah disusun ulang!
+response_trash_selectedremoved === Item yang dipilih telah dihapus!
+response_voucher_redeemed === Voucher telah ditukarkan!
+response_payout_invalidamount === Jumlah pembayaran tidak valid, tidak boleh berisi nilai desimal.
+response_payout_notenoughbal === Saldo penghasilan tidak cukup untuk memproses permintaan!
+response_payout_reqreceive === Permintaan pembayaran Anda telah diterima!
+response_payout_pendingreq === Anda masih memiliki permintaan pembayaran yang tertunda!
+response_system_sysconfigerr === Kesalahan konfigurasi sistem!
+response_message_toolong === Pesan Anda terlalu panjang!
+response_package_nosubwarn === Anda tidak memiliki langganan paket!
+response_message_notenoughcredsend === Kredit tidak cukup untuk mengirim pesan ini!
+response_message_queuedforsend === Pesan telah diantrekan untuk dikirim!
+response_message_sentsuccess === Pesan telah terkirim!
+response_message_unablesendmesg === Kami tidak dapat mengirim pesan Anda!
+response_smsexcel_phonenotfound === Kolom _8880_ tidak ditemukan di file excel Anda!
+response_smssched_queued === Pesan telah dijadwalkan!
+response_ussd_maximumreq === Jumlah maksimum permintaan USSD telah tercapai!
+response_ussd_queued === Permintaan USSD telah diantrekan!
+response_whatsapp_reachedmaxchat === Anda telah mencapai obrolan maksimum yang dapat Anda kirim!
+response_whatsapp_chatqueued === Pesan WhatsApp telah diantrekan untuk dikirim!
+response_whatsapp_unableconnectserv === Tidak dapat terhubung ke server WhatsApp!
+response_whatsapp_bulkchatsqueued === Obrolan massal WhatsApp telah diantrekan!
+response_whatsapp_excelphonecolnotfound === Kolom _8880_ tidak ditemukan di file excel Anda!
+response_whatsapp_chatscheduled === Obrolan telah dijadwalkan!
+response_importcontacts_phonenotfound === Kolom _8880_ tidak ditemukan di file excel Anda!
+response_importcontacts_groupsnotfound === Kolom _8880_ tidak ditemukan di file excel Anda!
+response_importcontacts_namenotfound === Kolom _8880_ tidak ditemukan di file excel Anda!
+response_package_pricenotlessone === Harga paket tidak boleh kurang dari 1!
+response_subscription_addedsuccess === Langganan telah dibuat!
+response_push_selectatleastoneuser === Silakan pilih setidaknya satu pengguna atau peran!
+response_push_mesgtooshort === Pesan terlalu pendek!
+response_push_titletooshort === Judul terlalu pendek!
+response_push_imgfailed === Gagal mengunggah file gambar!
+response_push_created === Siaran push telah dibuat!
+response_push_nousers === Tidak ada pengguna yang ditemukan untuk mengirim!
+response_notify_titletooshort === Judul terlalu pendek!
+response_notify_mesgtooshort === Pesan terlalu pendek!
+response_notify_selectuserrole === Silakan pilih setidaknya satu pengguna atau peran!
+response_notify_imgfailed === Gagal mengunggah file gambar!
+response_notify_created === Beritahukan siaran telah dibuat!
+response_notify_nousers === Tidak ada pengguna yang ditemukan untuk mengirim!
+response_mailer_titletooshort === Judul terlalu pendek!
+response_mailer_contentooshort === Konten terlalu pendek!
+response_mailer_nouserorrole === Silakan pilih setidaknya satu pengguna atau peran!
+response_mailer_sendcounter === _8880_ dari _8881_ email tertunda telah dikirim oleh pengirim!
+response_mailer_mailprocessed === Surat massal telah diproses!
+response_mailer_nousersorrole === Tidak ada pengguna yang ditemukan untuk mengirim!
+response_gateway_controllercannotempty === File pengontrol tidak boleh kosong!
+response_gateway_invalidcontroller === File pengontrol tidak valid!
+response_gateway_addeddcontroller === Gerbang telah ditambahkan!
+response_shortener_cannotempty === File pengontrol tidak boleh kosong!
+response_shortener_invalidcontroller === File pengontrol tidak valid!
+response_shortener_addedcontroller === Shortener telah ditambahkan!
+response_plugin_samenameinstalled === Sebuah plugin dengan nama yang sama telah diinstal!
+response_smscheduled_editsuccess === Pesan terjadwal telah diperbarui!
+response_chatscheduled_editsuccess === Jadwal obrolan telah diperbarui!
+response_editdevice_invalidrate === Nilai tarif tidak valid, itu harus berupa angka float yang valid!
+response_editdevice_nametooshort === Nama perangkat terlalu pendek!
+response_editdevice_nametoolong === Nama perangkat terlalu panjang!
+response_editdevice_invalidmaxinterval === Nilai interval maks tidak valid!
+response_gateway_updatedsuccess === Gerbang telah diperbarui!
+response_shortener_editsuccess === Shortener telah diperbarui!
+response_editplugin_success === Pengaturan plugin telah diperbarui!
+response_updatepluin_corrupted === File pembaruan plugin rusak!
+response_updateplugin_updated === Plugin telah diperbarui!
+response_builder_invalidgooglefile === File kredensial layanan google tidak valid!
+response_builder_invalidfirebasefile === File kredensial firebase tidak valid!
+response_theme_sitelogofailed === Unggahan logo situs gagal!
+response_theme_sitebgfailed === Unggahan latar belakang situs gagal!
+response_theme_sitefavfailed === Unggahan gambar Favicon gagal!
+response_notification_deletedsuccess === Pemberitahuan telah dihapus!
+response_whatsapp_sentdeletesuccess === Obrolan WhatsApp yang dikirim telah dihapus!
+response_whatsapp_receivedeletesuccess === Obrolan WhatsApp yang diterima telah dihapus!
+response_whatsapp_scheduleddeletesuccess === Obrolan terjadwal WhatsApp telah dihapus!
+response_whatsapp_accountdeletesuccess === Akun WhatsApp telah dihapus!
+response_unsibscribe_contactdeletedsuccess === Nomor berhenti berlangganan telah dihapus!
+response_marketing_logdeletedsuccess === Log pemasaran telah dihapus!
+response_gateway_controllerdeletedsuccess === Gerbang telah dihapus!
+response_shortener_controllerdeletedsuccess === Shortener telah dihapus!
+table_androidsent_clipcopy === Salinan Clipboard terkirim _8880_
+table_androidsent_excel === Ekspor Excel Terkirim _8880_
+table_androidsent_pdf === Ekspor PDF Terkirim _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Laporan
+table_unknown_data === Tidak dikenal
+table_androidsent_statuspending === Tertunda
+table_androidsent_statusqueued === antri
+table_androidsent_statussent === Terkirim
+table_androidsent_statusfailed === Gagal
+table_none_data === Tidak ada
+table_yes_data === Ya
+table_no_data === Tidak
+table_removed_data === DIHAPUS
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lolipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Status: _8880_, Mode: _8881_, Kode: _8882_, Prioritas: _8883_, API Terkirim: _8884_, Slot Sim: SIM _8885_, Perangkat: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Perangkat
+table_androidsent_modenamecredits === kredit
+table_androidsent_reportline1 === Status: _8880_
+table_androidsent_reportline2 === Modus: _8880_
+table_androidsent_reportline3 === Kode: _8880_
+table_androidsent_reportline4 === Prioritas: _8880_
+table_androidsent_reportline5 === API Terkirim: _8880_
+table_androidsent_reportline6 === Slot SIM: SIM _8880_
+table_androidsent_reportline7 === Perangkat: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Status: _8880_, Mode: _8881_, Gerbang: _8882_
+table_androidsent_reportline9 === Status: _8880_
+table_androidsent_reportline10 === Modus: _8880_
+table_androidsent_reportline11 === Gerbang: _8880_
+table_androidsent_exportthree === Status: _8880_, Mode: _8881_, Kode: _8882_, API Terkirim: _8883_, Slot Sim: SIM _8884_, Gerbang: _8885_
+table_androidsent_reportline12 === Status: _8880_
+table_androidsent_reportline13 === Modus: _8880_
+table_androidsent_reportline14 === Kode: _8880_
+table_androidsent_reportline15 === API Terkirim: _8880_
+table_androidsent_reportline16 === Slot SIM: SIM _8880_
+table_androidsent_reportline17 === Gerbang: _8880_
+table_androidsent_titleresend === Kirim ulang pesan ini
+table_title_deletethisitem === Hapus item ini
+table_androidreceive_exportcopy === Salinan Clipboard yang diterima _8880_
+table_androidreceive_exportexcel === Menerima Ekspor Excel _8880_
+table_androidreceive_exportpdf === Menerima Ekspor PDF _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Laporan
+table_androidreceive_exportdata === Slot Sim: SIM _8882_, Perangkat: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Slot SIM: SIM _8880_
+table_androidreceive_reportline2 === Perangkat: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Balas ke nomor
+table_androidscheduled_titleschedule === Jadwal
+table_androidscheduled_titledetails === rincian
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Modus: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Ulangi: _8880_
+table_androidscheduled_detailsline4 === Perangkat: _8880_
+table_androidscheduled_detailsgroupslabel === Grup:
+table_androidscheduled_detailsnumberslabel === Nomor:
+table_androidscheduled_detailsline5 === Modus: _8880_
+table_androidscheduled_detailsline6 === Ulangi: _8880_
+table_androidscheduled_detailsline7 === Gerbang: _8880_
+table_androidscheduled_detailsline8 === Modus: _8880_
+table_androidscheduled_detailsline9 === Ulangi: _8880_
+table_androidscheduled_detailsline10 === Perangkat: _8880_
+table_title_editthisitem === Sunting item ini
+table_whatsappsent_exportcopy === Salinan Papan Klip Terkirim
+table_whatsappsent_exportexcel === Ekspor Excel Terkirim
+table_whatsappsent_exportpdf === Ekspor PDF Terkirim
+table_whatsappsent_accounttitle === Akun
+table_whatsappsent_recipienttitle === Penerima
+table_whatsappsent_msgtitle === Pesan
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Status
+table_ussd_exportcopy === Salinan Papan Klip USSD
+table_ussd_exportexcel === Ekspor Excel USSD
+table_ussd_exportpdf === Ekspor PDF USSD
+table_ussd_createdtitle === Dibuat
+table_ussd_codetitle === Kode
+table_ussd_responsetitle === Tanggapan
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Status
+table_ussd_devicetitle === Perangkat
+table_ussd_optionstitle === Pilihan
+table_ussd_pendingresponsetext === Respon Tertunda
+table_empty_data === Kosong
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Tertunda
+table_ussd_queuelabel === antri
+table_ussd_completelabel === Lengkap
+table_ussd_detailsline1 === Perangkat: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Salinan Papan Klip Pemberitahuan
+table_notifications_exportexcel === Pemberitahuan Ekspor Excel
+table_notifications_exportpdf === Pemberitahuan Ekspor PDF
+table_notifications_createdtitle === Dibuat
+table_notifications_packagetitle === Nama paket
+table_notifications_title === Judul
+table_notification_texttitle === Teks
+table_notification_devicetitle === Perangkat
+table_notification_optiontitle === Pilihan
+table_notification_devicelabel === Perangkat:
+table_notification_oslabel === OS:
+table_devices_nametitle === Nama
+table_devices_globaltitle === Global
+table_enabled_data === Diaktifkan
+table_disabled_data === Dengan disabilitas
+table_notifications_exportone === Perangkat: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Tertunda
+table_whatsapp_queuelabel === antri
+table_whatsapp_sentlabel === Terkirim
+table_whatsapp_failedlabel === Gagal
+table_whatsappreceive_exportcopy === Salinan Papan Klip yang diterima
+table_whatsappreceive_exportexcel === Menerima Ekspor Excel
+table_whatsappreceive_exportpdf === Menerima Ekspor PDF
+table_whatsappreceive_replytitle === Balas ke nomor
+table_waschedule_scheduletitle === Jadwal
+table_waschedule_detailstitle === rincian
+table_waschedule_detailsline1 === Ulangi: _8880_
+table_waschedule_detailsline2 === Akun:
+table_waschedule_detailsline3 === Grup:
+table_waschedule_detailsline4 === Nomor:
+table_waaccounts_loggedtitle === Masuk
+device_login_usevalidemail === Harap gunakan alamat email yang valid!
+device_login_accountsuspended === Maaf, akun Anda ditangguhkan!
+device_login_incorrectmailorpass === Anda memasukkan email atau kata sandi yang salah!
+device_login_nosubscription === Anda tidak memiliki langganan paket!
+device_login_nomoredevice === Anda tidak dapat mendaftarkan lebih banyak perangkat!
+device_scan_qrcodeinvalid === QRCode Anda tidak valid!
+device_scan_nosub === Anda tidak memiliki langganan paket!
+device_scan_usersuspended === Maaf, akun Anda ditangguhkan!
+device_scan_nomoredevices === Anda tidak dapat mendaftarkan lebih banyak perangkat!
+device_report_smssentsuccess === Pesan _8880_ telah dikirim dari _8881_
+device_report_smssentfailed === Mengirim pesan _8880_ gagal dari _8881_
+device_received_smsreceived === _8880_ baru telah diterima dari _8881_
+requests_resend_devicenotexist === Perangkat tidak ada!
+device_ussd_responsereceive === Tanggapan USSD diterima dari _8880_
+device_notification_notireceive === Notifikasi baru telah diterima dari _8880_
+payment_success_unknowntx === Tidak dikenal
+payment_webhook_molliecreditsadded === Kredit telah ditambahkan ke akun Anda!
+payment_webhook_paypalcreditsadded === Kredit telah ditambahkan ke akun Anda!
+payment_webhook_unknowntn === Tidak dikenal
+mail_tpl_creditstitle === Hai, yang di sana,
+mail_tpl_creditsdesc === Anda telah membeli kredit, kami telah mengkreditkan total _8880_ ke akun Anda dan Anda dapat segera menggunakannya.
+mail_tpl_creditstnx === Terima kasih!
+mail_tpl_poweredby === Didukung oleh _8880_
+forgot_response_recoverysent === Instruksi pengambilan telah dikirim ke _8880_
+forgot_response_recoveryfail === Kami tidak dapat mengirimkan email kepada Anda!
+cron_package_expired === Langganan paket Anda telah kedaluwarsa!
+cron_package_expiring === Berlangganan paket kedaluwarsa dalam 5 hari!
+table_waaccounts_waidtitle === ID WhatsApp
+table_waaccounts_wauniquetitle === Identitas unik
+table_contactssaved_idtitle === PENGENAL
+table_contactssaved_exportcopy === Salin Papan Klip Grup _8880_
+table_contactssaved_exportexcel === Ekspor Excel Grup _8880_
+table_contactssaved_exportpdf === Ekspor PDF Grup _8880_
+table_contactssaved_grouptitle === Grup
+table_contactsgroups_gidtitle === ID grup
+table_contactsunsub_exportcopy === Salinan Clipboard berhenti berlangganan _8880_
+table_contactsunsub_exportexcel === Ekspor Excel berhenti berlangganan _8880_
+table_contactsunsub_exportpdf === Ekspor PDF berhenti berlangganan _8880_
+table_toolskeys_createdtitle === Dibuat
+table_toolskeys_copyapisecret === Salin rahasia API ke papan klip
+table_toolswebhooks_createtitle === Dibuat
+table_tootlswebhooks_eventstitle === Acara
+table_toolswebhooks_simulatebtn === Pemicu
+table_toolswebhooks_simulatedesc === Simulasikan permintaan webhook
+table_toolswebhooks_copywebhooksecret === Salin rahasia webhook ke papan klip
+table_toolsactions_createtitle === Dibuat
+table_toolsactions_detailstitle === rincian
+table_toolsactions_typehook === Kait
+table_toolsactions_typeautoreply === Balasan otomatis
+table_toolsactions_source === Sumber: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === Ada apa
+table_toolsactions_event === Acara: _8880_
+table_toolsactions_eventonsend === Di Kirim
+table_toolsactions_eventonreceive === Saat Menerima
+table_toolsactions_link === Tautan:
+table_toolsactions_keywords === Kata kunci:
+table_toolsactions_message === Pesan:
+table_toolsactions_type === Jenis: _8880_
+table_toolstemplates_idtitle === PENGENAL
+table_ratespartners_createdtitle === Dibuat
+table_ratespartners_countrytitle === Negara
+table_ratespartners_detailstitle === Detail Perangkat
+table_ratespartners_ratetitle === Tingkat Pesan
+table_ratespartners_prioritytitle === Prioritas
+table_ratespartners_simtitle === Slot SIM yang Diizinkan
+table_ratespartners_name === Nama:
+table_ratespartners_owner === Pemilik:
+table_ratespartners_localrate === Tarif Lokal:
+table_ratespartners_convertedrate === Tingkat Konversi:
+table_ratespartners_simdual === SIM 1 dan SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Salin Papan Klip Pengguna _8880_
+table_adminusers_exportexcel === Ekspor Pengguna Excel _8880_
+table_adminusers_exportpdf === Ekspor PDF Pengguna _8880_
+table_adminusersexportdata === Peran: _8880_, Negara: _8881_, Bahasa: _8882_, Zona Waktu: _8883_, Penghasilan: _8884_, Kredit: _8885_, Langganan: _8886_, Suara: _8887_, Ditangguhkan: _8888_
+table_adminusers_exportdata1 === Peran: _8880_
+table_adminusers_exportdata2 === Negara: _8880_
+table_adminusers_exportdata3 === Bahasa: _8880_
+table_adminusers_exportdata4 === Zona waktu:
+table_adminusers_exportdata5 === Penghasilan: _8880_
+table_adminusers_exportdata6 === Kredit: _8880_
+table_adminusers_exportdata7 === Berlangganan:
+table_adminusers_exportdata8 === Suara: _8880_
+table_adminusers_exportdata9 === Ditangguhkan: _8880_
+table_adminusers_unsuspendaccount === Batalkan penangguhan akun ini
+table_adminusers_suspendaccount === Tangguhkan akun ini
+table_adminroles_idtitle === PENGENAL
+table_adminpackages_createdtitle === Dibuat
+table_adminpackages_detailstitle === Rincian paket
+table_adminpackages_freelabel === Gratis
+table_unlimited_data === Tak terbatas
+table_adminpackages_labeldetails1 === Tersembunyi:
+table_adminpackages_labeldetails2 === Tanda Kaki:
+table_adminpackages_labeldetails3 === Batas Pengiriman SMS:
+table_adminpackages_labeldetails4 === Batas Terima SMS:
+table_adminpackages_labeldetails5 === Batas Pengiriman WhatsApp:
+table_adminpackages_labeldetails6 === Batas Terima WhatsApp:
+table_adminpackages_labeldetails7 === Batas Akun WhatsApp:
+table_adminpackages_labeldetails8 === Batas USSD:
+table_adminpackages_labeldetails9 === Batas Pemberitahuan:
+table_adminpackages_labeldetails10 === Batas Perangkat:
+table_adminpackages_labeldetails11 === Batas Kontak:
+table_adminpackages_labeldetails12 === Batas Kunci API:
+table_adminpackages_labeldetails13 === Batas Webhook:
+table_adminpackages_labeldetails14 === Batas Tindakan:
+table_adminpackages_labeldetails15 === Batas Terjadwal:
+table_adminvouchers_exportcopy === Salinan Clipboard Voucher _8880_
+table_adminvouchers_exportexcel === Voucher Ekspor Excel _8880_
+table_adminvouchers_exportpdf === Voucher Ekspor PDF _8880_
+table_adminvouchers_createdtitle === Dibuat
+table_adminvouchers_codetitle === Menebus kode
+table_adminvouchers_copycode === Salin kode voucher ke papan klip
+table_adminsubscriptions_createdtitle === Dibuat
+table_admintransactions_createdtitle === Dibuat
+table_admintransactions_itemtitle === Barang
+table_admintransactions_amounttitle === Jumlah
+table_admintransactions_durationtitle === Durasi
+table_admintransactions_creditslabel === kredit
+table_admintransactions_monthslabel === _8880_ bulan
+table_adminpayouts_createdtitle === Dibuat
+table_adminpayouts_partnertitle === Mitra
+table_adminpayouts_amounttitle === Jumlah
+table_adminpayouts_addresstitle === Alamat Pembayaran
+table_adminpayouts_optionstitle === Pilihan
+table_adminpayouts_approve === Tandai permintaan pembayaran sebagai dibayar
+table_adminpayouts_reject === Tolak permintaan pembayaran
+table_adminwidgets_createdtitle === Dibuat
+table_adminwidgets_typeblock === Memblokir
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Salin kait widget ke papan klip
+table_adminpages_createdtitle === Dibuat
+table_adminpages_optionstitle === Pilihan
+table_adminpages_copypagehook === Salin kait halaman ke papan klip
+table_adminmarketing_createdtitle === Dibuat
+table_adminmarketing_typetitle === Jenis
+table_adminmarketing_titletitle === Judul
+table_adminmarketing_contenttitle === Isi
+table_adminmarketing_recipientstitle === Penerima
+table_adminmarketing_optionstitle === Pilihan
+table_adminmarketing_notifylabel === Memberitahukan
+table_adminmarketing_mailerlabel === Pengirim
+table_adminmarketing_pushlabel === Dorongan
+table_adminmarketing_roleslabel === Peran:
+table_adminmarketing_userslabel === Pengguna:
+table_admingateways_createdtitle === Dibuat
+table_admingateways_nametitle === Nama
+table_admingateways_pricingtitle === harga
+table_admingateways_optionstitle === Pilihan
+table_admingateways_invalidjson === Format JSON tidak valid!
+table_admingateways_defaultprice === Harga Standar: _8880_
+table_admingateways_percountryprcie === Harga Per Negara:
+table_adminshorteners_createdtitle === Dibuat
+table_adminshorteners_nametitle === Nama
+table_adminshorteners_optionstitle === Pilihan
+table_adminplugins_idtitle === PENGENAL
+table_adminplugins_versiontitle === Versi Terinstal
+table_adminplugins_actionstitle === tindakan
+table_adminplugins_updatedesc === Perbarui plugin ini
+table_adminplugins_editdesc === Edit opsi plugin
+table_adminplugins_removedesc === Copot pemasangan plugin ini
+whatsapp_sent_sentsuccess === Obrolan WhatsApp _8880_ telah dikirim!
+whatsapp_sent_sentfailed === Mengirim obrolan _8880_ gagal!
+whatsapp_received_chat === Obrolan baru _8880_ telah diterima!
+widget_systemupdate_title === Pembaruan sistem
+widget_systemupdate_loader === Memperbarui sistem
+widget_systemupdate_requireupdate === File pembaruan tidak boleh kosong!
+requests_systemupdate_faileduploadingfile === Gagal mengunggah file pembaruan!
+widget_usersettings_loader === Menyimpan pengaturan akun
+widget_payment_title === Pembayaran
+widget_payment_creditamountnotless === Jumlah kredit tidak boleh kurang dari 10!
+widget_payment_creditslabel === kredit
+widget_view_contentremoved === Konten telah dihapus!
+widget_redeem_title === Menukarkan
+widget_redeem_loader === Memvalidasi kode voucher
+widget_addcredits_title === Tambahkan Kredit
+widget_addpayout_title === Minta Pembayaran
+widget_addpayout_loader === Membuat permintaan pembayaran
+widget_addpayout_requireamount === Jumlah tidak boleh kosong!
+widget_addpayout_requireprovider === Penyedia pembayaran tidak boleh kosong!
+widget_addpayout_requireaddress === Alamat pembayaran tidak boleh kosong!
+widget_smsquick_loader === Menambahkan pesan ke antrian
+widget_smsbulk_loader === Menambahkan pesan ke antrian
+widget_smsexcel_loader === Menambahkan pesan dari file excel ke antrian
+widget_addsmsscheduled_loader === Menyimpan pesan terjadwal Anda
+widget_editscheduled_title === Sunting Jadwal
+widget_editscheduled_loader === Menyimpan pesan terjadwal Anda
+widget_addussd_title === Permintaan USSD
+widget_addussd_loader === Menambahkan permintaan ussd ke antrian
+widget_editdevice_title === Edit Perangkat
+widget_editdevice_loader === Menyimpan perubahan perangkat
+widget_waquick_title === Obrolan Cepat
+widget_waquick_loader === Menambahkan obrolan whatsapp ke antrian
+widget_waquick_requireaccount === Akun WhatsApp diperlukan!
+widget_wabulk_title === Obrolan Massal
+widget_wabulk_loader === Menambahkan obrolan whatsapp ke antrian
+widget_waexcel_title === Obrolan Massal dengan Excel
+widget_waexcel_loader === Menambahkan obrolan whatsapp ke antrian
+widget_wascheduled_title === Jadwalkan Obrolan
+widget_wascheduled_loader === Menambahkan obrolan whatsapp ke antrian
+widget_wascheduled_requireaccount === Akun WhatsApp diperlukan!
+widget_waeditscheduled_title === Sunting Jadwal
+widget_waeditscheduled_loader === Menambahkan obrolan whatsapp ke antrian
+widget_waeditscheduled_requireaccount === Akun WhatsApp diperlukan!
+widget_waaddaccount_title === Menambahkan akun
+widget_importcontacts_loaded === Mengimpor kontak dari file excel
+widget_addcontact_loader === Membuat entri kontak baru
+default_pricecolumns_monthlabel === bulan
+default_pricecolumns_dailylabel === sehari-hari
+default_pricecolumns_monthlylabel === bulanan
+default_pricecolumns_unlimitedlabel === Tak terbatas
+form_literal_spintaxdesc2 === Nilai _8880_ dan _8881_ akan digunakan secara acak.
+dashboard_packagesmodal_smssend === Kirim SMS
+default_footerquote_obama === Menjadi bukan tentang tiba di suatu tempat atau mencapai tujuan tertentu. Saya melihatnya sebagai gerak maju, sarana berkembang, cara untuk terus menerus mencapai diri yang lebih baik. Perjalanan tidak berakhir.
+widgets_editcontact_loader === Menyimpan perubahan kontak
+widgets_addgroup_loader === Membuat entri grup baru
+widgets_editgroup_loader === Menyimpan perubahan grup
+widgets_addapikey_loader === Membuat kunci API baru
+widgets_editapikey_loader === Menyimpan perubahan kunci API
+widgets_addwebhook_title === Tambahkan Webhook
+widgets_addwebhook_loader === Membuat webhook baru
+widgets_addwebhook_requireevents === Acara tidak boleh kosong!
+widgets_editwebhook_loader === Menyimpan perubahan webhook
+widgets_addhook_loader === Membuat aksi kait baru
+widgets_edithook_loader === Menyimpan perubahan tindakan kait
+widgets_addautoreply_loader === Membuat tindakan balasan otomatis baru
+widgets_editautoreply_loader === Menyimpan perubahan tindakan balasan otomatis
+widgets_addtemplate_loader === Membuat template pesan baru
+widgets_edittemplate_loader === Menyimpan perubahan template
+widgets_adminbuilder_loader === Menyimpan pengaturan pembuat
+widgets_adminsettings_loader === Menyimpan pengaturan sistem
+widgets_admintheme_loader === Menyimpan pengaturan tema
+widgets_adduser_loader === Membuat akun pengguna baru
+widgets_edituser_loader === Menyimpan perubahan akun pengguna
+widgets_addrole_loader === Membuat peran pengguna baru
+widgets_addrole_title === Tambahkan Peran
+widgets_editrole_loader === Menyimpan perubahan peran pengguna
+widgets_addpackage_loader === Membuat paket sistem baru
+widgets_editpackage_loader === Menyimpan perubahan paket
+widgets_addvoucher_loader === Membuat voucher baru
+widgets_addsubscription_loader === Membuat langganan pengguna baru
+widgets_addwidgets_loader === Membuat widget baru
+widgets_editwidget_loader === Menyimpan perubahan widget
+widgets_addpage_loader === Membuat halaman baru
+widgets_editpage_loader === Menyimpan perubahan halaman
+widgets_addpush_title === Siaran Dorong
+widgets_addpush_loader === Menyiarkan pemberitahuan push
+widgets_addpush_requiretitle === Judul tidak boleh kosong!
+widgets_addpush_requiremessage === Pesan tidak boleh kosong!
+widgets_addnotify_title === Beritahu Siaran
+widgets_addnotify_loader === Menyiarkan pemberitahuan langsung
+widgets_addnotify_requiretitle === Judul tidak boleh kosong!
+widgets_addnotify_requiremessage === Pesan tidak boleh kosong!
+widgets_addmailer_title === Mailer Massal
+widgets_addmailer_loader === Mengirim pesan email
+widgets_addmailer_requiretitle === Judul tidak boleh kosong!
+widgets_addlanguage_loader === Menambahkan bahasa baru
+widgets_editlanguage_loader === Menyimpan perubahan bahasa
+widgets_addgateway_title === Tambahkan Gerbang
+widgets_addgateway_loader === Menambahkan gerbang baru
+widgets_addgateway_requirename === Nama gerbang tidak boleh kosong!
+widgets_editgateway_title === Sunting Gerbang
+widgets_editgateway_loader === Menyimpan perubahan gerbang
+widgets_editgateway_requirename === Nama gerbang tidak boleh kosong!
+widgets_addshortener_title === Tambahkan Shortener
+widgets_addshortener_loader === Menambahkan pemendek baru
+widgets_addshortener_requirename === Nama penyingkat wajib diisi!
+widgets_editshortener_title === Edit Pendekar
+widgets_editshortener_loader === Menyimpan perubahan pemendek
+widgets_editshortener_requirename === Nama penyingkat wajib diisi!
+widgets_editplugin_loader === Menerapkan perubahan plugin ke sistem
+widgets_updateplugin_title === Perbarui Plugin
+widgets_updateplugin_loader === Memperbarui plugin
+device_backgroundpage_line1 === Jalankan di Latar Belakang
+device_backgroundpage_line2 === Mengapa Aplikasi Gateway harus berjalan di latar belakang?
+device_backgroundpage_line3 === Aplikasi ini membutuhkan berjalan di latar belakang untuk terus mendengarkan pesan baru untuk dikirim dan diterima, ini juga diperlukan untuk memproses notifikasi baru. Jika Anda tidak memerlukan notifikasi, Anda dapat menonaktifkannya di pengaturan aplikasi, menonaktifkannya akan menghentikan sistem menerima data notifikasi dari perangkat.
+device_backgroundpage_line4 === Jika Anda memiliki aplikasi keamanan pihak ketiga seperti Avast, Eset, dan lainnya. Harap tambahkan aplikasi gateway ke pengecualiannya.
+device_backgroundpage_line5 === Silakan baca panduan yang sesuai untuk merek ponsel Anda dalam daftar berikut.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Penghemat baterai
+device_backgroundpage_line8 === 1. Buka Pengaturan.
+device_backgroundpage_line9 === 2. Pilih "Baterai & kinerja".
+device_backgroundpage_line10 === 3. Pilih "Pilih aplikasi".
+device_backgroundpage_line11 === 4. Temukan _8880_ dan pilih "Tidak ada batasan" di pengaturan latar belakang.
+device_backgroundpage_line12 === Kunci Aplikasi
+device_backgroundpage_line13 === 1. Ketuk tombol Menu untuk masuk ke halaman Terbaru.
+device_backgroundpage_line14 === 2. Pilih kartu _8880_ dan kunci.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Penghemat baterai
+device_backgroundpage_line17 === 1. Buka Pengaturan.
+device_backgroundpage_line18 === 2. Pilih Pengaturan lanjutan.
+device_backgroundpage_line19 === 3. Pilih Manajer baterai.
+device_backgroundpage_line20 === 4. Pilih Aplikasi yang dilindungi.
+device_backgroundpage_line21 === 5. Temukan _8880_ dan hidupkan sakelar.
+device_backgroundpage_line22 === Jika versi EMUI diperbarui baru-baru ini, Anda tidak perlu melakukan perubahan di Pengaturan.
+device_backgroundpage_line23 === Kunci Aplikasi
+device_backgroundpage_line24 === 1. Ketuk tombol Menu, masuk ke halaman Terbaru.
+device_backgroundpage_line25 === 2. Tarik ke bawah _8880_ hingga ikon kunci muncul.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Penghemat baterai
+device_backgroundpage_line28 === 1. Ketuk Manajer Cerdas.
+device_backgroundpage_line29 === 2. Pilih Baterai dan ketuk untuk masuk ke halaman pengaturan.
+device_backgroundpage_line30 === 3. Ketuk Aplikasi yang tidak dipantau, temukan _8880_ dan ketuk untuk masuk.
+device_backgroundpage_line31 === 4. Ketuk Baterai dan ketuk Optimalkan penggunaan baterai.
+device_backgroundpage_line32 === 5. Pilih Semua aplikasi, temukan _8880_ dan matikan sakelar.
+device_backgroundpage_line33 === Kunci Aplikasi
+device_backgroundpage_line34 === 1. Ketuk tombol Menu dan masuk ke halaman program yang baru saja dibuka.
+device_backgroundpage_line35 === 2. Ketuk ikon Lainnya untuk memilih Kunci aplikasi.
+device_backgroundpage_line36 === 3. Ketuk ikon Kunci _8880_.
+device_backgroundpage_line37 === 4. Ketuk Selesai untuk menyelesaikan tindakan.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Kunci Aplikasi
+device_backgroundpage_line40 === 1. Geser ke atas di sisi kiri layar Beranda untuk masuk ke "Terbaru".
+device_backgroundpage_line41 === 2. Tekan dan tahan _8880_ hingga ikon kunci muncul.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Penghemat baterai
+device_backgroundpage_line44 === 1. Buka Pengaturan dan ketuk Baterai.
+device_backgroundpage_line45 === 2. Ketuk Penghemat Energi.
+device_backgroundpage_line46 === 3. Temukan _8880_ untuk menonaktifkan Pembekuan Latar Belakang dan Pengoptimalan Aplikasi Abnormal.
+device_backgroundpage_line47 === Jika Anda tidak dapat menyetel setelah menyelesaikan langkah-langkah di atas, coba yang berikut ini:
+device_backgroundpage_line48 === 1. Buka Manajer Telepon dan temukan Latar Belakang Bersih.
+device_backgroundpage_line49 === 2. Ketuk untuk menambahkan aplikasi.
+device_backgroundpage_line50 === 3. Centang _8880_ dan ketuk OK.
+device_backgroundpage_line51 === Kunci Aplikasi
+device_backgroundpage_line52 === 1. Ketuk tombol Menu, masuk ke halaman Terbaru.
+device_backgroundpage_line53 === 2. Tarik ke bawah _8880_ hingga ikon kunci muncul.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Penghemat baterai
+device_backgroundpage_line56 === 1. Buka Manajer dan ketuk Manajer daya.
+device_backgroundpage_line57 === 2. Pilih Kekuatan di belakang panggung.
+device_backgroundpage_line58 === 3. Temukan _8880_ dan hidupkan sakelar.
+device_backgroundpage_line59 === Kunci Aplikasi
+device_backgroundpage_line60 === 1. Ketuk tombol Menu, masuk ke halaman Terbaru.
+device_backgroundpage_line61 === 2. Tarik ke bawah _8880_ hingga ikon kunci muncul.
+device_backgroundpage_line62 === OS Smartisan
+device_backgroundpage_line63 === Penghemat baterai
+device_backgroundpage_line64 === 1. Buka Manajer Telepon.
+device_backgroundpage_line65 === 2. Ketuk Pengoptimalan Penggunaan Baterai Aplikasi.
+device_backgroundpage_line66 === 3. Temukan _8880_ dan matikan sakelar.
+device_backgroundpage_line67 === Kunci Aplikasi
+device_backgroundpage_line68 === 1. Ketuk dua kali tombol Menu, masuk ke halaman Terbaru.
+device_backgroundpage_line69 === 2. Tekan dan tahan _8880_ hingga ikon pushpin muncul.
+device_backgroundpage_line70 === Merek lain
+device_backgroundpage_line71 === 1. Kunci aplikasi _8880_ di Terbaru.
+device_backgroundpage_line72 === 2. Tambahkan _8880_ ke pengecualian.
+device_backgroundpage_line73 === 3. Jika Anda telah menginstal manajer startup lain, hapus _8880_ dari daftar blokirnya.
+dashboard_adminmarketing_pushbtndesc === Siarkan pemberitahuan push ke perangkat
+dashboard_adminmarketing_notifybtndesc === Siarkan pemberitahuan browser kepada pengguna
+dashboard_adminmarketing_mailerbtndesc === Kirim email massal ke pengguna
+js_loader_pleasewait === Mohon tunggu
+js_userstatus_online === On line
+js_userstatus_offline === Offline
+js_whatsapp_linksuccess === Akun WhatsApp telah berhasil ditautkan!
+js_whatsapp_linkfailed === Penautan akun WhatsApp gagal!
+js_whatsapp_linkexist === WhatsApp sudah ditautkan ke akun Anda!
+js_whatsapp_loaderprocessing === Memproses permintaan
+js_clearpending_title === Hapus Tertunda?
+js_clearpending_desc === Semua item yang menunggu untuk dikirim akan dihapus dan dihapus!
+js_clearpending_processing === Memproses permintaan
+js_authenticate_processing === Memproses permintaan
+js_actiontrigger_title === Simulasikan Webhook
+js_actiontrigger_typetitle === Tipe data
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === Ada apa
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Pemberitahuan
+js_actiontrigger_loader === Mensimulasikan webhook
+js_actiontranslator_title === Penerjemah
+js_actiontranslator_from === Diterjemahkan dari
+js_actiontranslator_to === Terjemahkan ke
+js_actiontranslator_loader === Menerjemahkan pesan
+js_actionregen_title === Regenerasi Token Sistem?
+js_actionregen_desc === Membuat token sistem baru tidak dapat diubah!
+js_actionregen_loader === Menghasilkan token
+js_actionclear_title === Hapus Tembolok?
+js_actionclear_desc === Semua data cache sistem akan dihapus!
+js_processing_dataloader === Memproses permintaan
+js_build_title === Buat APK Baru?
+js_build_desc === Harap pastikan bahwa Anda telah mengonfigurasi pengaturan pembuat Anda dengan benar!
+js_build_btnbuild === Membangun
+js_reorder_title === Susun Ulang Bahasa?
+js_reorder_desc === Bahasa akan diatur ulang, ini tidak dapat diurungkan!
+js_deletetrash_title === Hapus Item?
+js_deletetrash_desc === Apakah Anda ingin menghapus item yang dipilih?
+js_tablesexport_copy === Papan klip
+js_tablesexport_excel === Ekspor Excel
+js_tablesexport_pdf === Ekspor PDF
+mail_expiredtpl_line1 === Hai, yang di sana,
+mail_expiredtpl_line2 === Anda menerima pesan ini karena langganan paket premium aktif Anda telah kedaluwarsa!
+mail_expiredtpl_line3 === Langganan Anda telah dihapus. Untuk berlangganan lagi ke paket premium apa pun, cukup kunjungi situs kami.
+mail_expiredtpl_line4 === Untuk pertanyaan dan masalah, jangan ragu untuk menghubungi kami!
+mail_expiredtpl_line5 === Terima kasih!
+mail_expiringtpl_line1 === Hai, yang di sana,
+mail_expiringtpl_line2 === Ini adalah pengingat ramah langganan paket premium aktif Anda akan berakhir dalam 5 hari!
+mail_expiringtpl_line3 === Untuk mencegah gangguan layanan, jangan lupa untuk berlangganan kembali paket premium apa pun. Silakan kunjungi situs kami untuk memesan lagi.
+mail_expiringtpl_line4 === Untuk pertanyaan dan masalah, jangan ragu untuk menghubungi kami!
+mail_expiringtpl_line5 === Terima kasih!
+mail_failedtpl_line1 === Hai, yang di sana,
+mail_failedtpl_line2 === Kami tidak dapat memproses transaksi pembayaran Anda, harap coba lagi menggunakan penyedia atau metode pembayaran yang berbeda.
+mail_failedtpl_line3 === ID pembayaran:
+mail_failedtpl_line4 === Maaf untuk ketidaknyamanannya.
+mail_forgottpl_line1 === Hai, yang di sana,
+mail_forgottpl_line2 === Kami telah menerima permintaan pengambilan akun untuk akun Anda, harap gunakan kata sandi sementara ini untuk masuk:
+mail_forgottpl_line3 === Jangan lupa untuk mengubah kata sandi Anda setelah masuk!
+mail_forgottpl_line4 === Kata sandi akan kedaluwarsa setelah 10 menit, cepatlah. Jika Anda tidak meminta ini, abaikan email ini.
+mail_forgottpl_line5 === Terima kasih! Semoga berhasil.
+mail_payoutpaidtpl_line1 === Hai, yang di sana,
+mail_payoutpaidtpl_line2 === Permintaan pembayaran Anda telah dikirim oleh tim kami ke alamat Anda dan penyedia pembayaran yang dipilih.
+mail_payoutpaidtpl_line3 === Jumlah:
+mail_payoutpaidtpl_line4 === Selamat berbelanja!
+mail_payoutrejecttpl_line1 === Hai, yang di sana,
+mail_payoutrejecttpl_line2 === Kami tidak dapat memproses permintaan pembayaran Anda, mungkin ada masalah dengan alamat pembayaran Anda. Silahkan hubungi tim kami untuk mengetahui lebih lanjut.
+mail_payoutrejecttpl_line3 === Jumlah:
+mail_payoutrejecttpl_line4 === Maaf untuk ketidaknyamanannya.
+mail_subscribetpl_line1 === Hai, yang di sana,
+mail_subscribetpl_line2 === Terima kasih telah berlangganan salah satu paket premium kami, berikut sedikit rundown pembelian Anda:
+mail_subscribetpl_line3 === _8880_ Paket
+mail_subscribetpl_line4 === Langganan ini akan kedaluwarsa setelah _8880_
+mail_subscribetpl_line5 === Ini akan segera berlaku. Untuk pertanyaan dan masalah, jangan ragu untuk menghubungi kami!
+mail_subscribetpl_line6 === Terima kasih!
+requests_build_submitrequest === Memproses permintaan
+requests_reorder_loader === Memproses permintaan
+requests_deleteitem_loader === Memproses permintaan
+requests_packageform_invalidint === Beberapa bidang berisi bilangan bulat yang tidak valid!
+widgets_viewbank_title === Transfer Bank
+modal_paymentbtn_banktransfer === Transfer Bank
+modal_adminsettings_banktransfer1 === Templat Transfer Bank
+modal_adminsettings_banktransfer2 === Jika Anda mengaktifkan transfer bank di opsi pembayaran, Anda harus membuat template untuk itu, inilah yang akan dilihat pengguna ketika mereka mengklik tombol. Anda dapat menambahkan instruksi dan alamat bank di sini. HTML diterima.
+modal_adminsettings_banktransfer3 === Kumpulan variabel yang dapat Anda gunakan dalam templat transfer bank.
+requests_delete_pluginssuccess === Plugin telah berhasil dihapus!
+table_whatsappreceived_chattitle === Mengobrol
+table_whatsappreceived_accounttitle === Akun
+tabs_whatsappaccounts_titleheader === Akun WhatsApp
+form_editwhatsapp_randominterval === Interval Pengiriman Acak
+form_editwhatsapp_randomintervalhelp === Jika diaktifkan, obrolan akan dikirim dalam interval acak antara 2 nilai. Anda dapat mengonfigurasinya di bawah ini.
+form_editwhatsapp_randommin === Kirim Interval Min
+form_editwhatsapp_randomminhelp === Interval pengiriman minimum dalam hitungan detik.
+form_editwhatsapp_randommax === Kirim Interval Maks
+form_editwhatsapp_randommaxhelp === Interval pengiriman maksimum dalam hitungan detik.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Sunting WhatsApp
+widgets_editwhatsapp_loader === Menyimpan perubahan akun whatsapp
+mail_waunlink_title === Akun WhatsApp Anda telah dibatalkan tautannya!
+mail_waunlink_contentline1 === Hai, yang di sana!
+mail_waunlink_contentline2 === Salah satu akun WhatsApp Anda yang tertaut telah dihapus dengan ID unik berikut:
+mail_waunlink_contentline3 === Akun ini tidak terhubung ke sistem kami lagi karena acara terkait WhatsApp, harap tautkan lagi.
+mail_waunlink_contentline4 === Terima kasih!
+table_contactsunsubscribed_idtitle === PENGENAL
+table_contactsunsubscribed_phonetitle === Telepon
+form_btnall_visitlink === Mengunjungi
+unsubscribe_header_title === Berhenti berlangganan
+unsubscribe_content_title === Tidak berlangganan
+unsubscribe_content_desc === Anda telah berhenti berlangganan dari daftar pengiriman kami.
+requests_editwhatsapp_success === Akun WhatsApp telah diperbarui!
+form_addusertpl_credits === kredit
+form_addusertpl_creditsdesc === Kredit awal untuk akun pengguna ini.
+form_addusertpl_creditsdesc2 === Ubah kredit akun pengguna ini.
+form_registerconfirm_desc === Alamat email Anda telah berhasil diverifikasi. Anda dapat masuk ke akun Anda menggunakan tombol di bawah ini.
+requests_loginnotverified_response === Alamat email akun Anda belum diverifikasi. Kami telah mengirimkan link konfirmasi ke alamat ini: _8880_
+requests_loginnotverified_response2 === Akun Anda telah berhasil didaftarkan. Sebelum Anda dapat menggunakannya, Anda perlu memverifikasi alamat email Anda. Kami telah mengirimkan link konfirmasi ke alamat ini: _8880_
+requests_loginnotverified_responseunable === Kami tidak dapat mengirim email konfirmasi!
+requests_loginnotverified_emailtitle === Selamat datang di _8880_! Konfirmasikan alamat email akun Anda di sini.
+requests_loginnotverified_emaildesc1 === Hai, yang di sana!
+requests_loginnotverified_emaildesc2 === Terima kasih telah membuat akun Anda bersama kami, harap verifikasi alamat email Anda dengan mengunjungi tautan ini:
+requests_loginnotverified_emaildesc3 === Terima kasih!
+form_adminsettings_authredi === Pengalihan Otentikasi
+form_adminsettings_authredidesc === Pilih lokasi pengalihan setelah otentikasi berhasil.
+form_adminsettings_authredihomepage === Beranda
+form_adminsettings_authredidashboard === Dasbor
+form_adminsettings_defaultcoun === Negara Default
+form_adminsettings_defaultcoundesc === Negara yang dipilih secara default pada formulir pendaftaran pengguna.
+form_adminsettings_defaulttimezo === Zona Waktu Default
+form_adminsettings_defaulttimezodesc === Zona waktu default yang dipilih pada formulir pendaftaran pengguna.
+form_adminsettings_mailingtrig === Pemicu Surat
+form_adminsettings_mailingtrigdesc === Pilih pemicu surat untuk diaktifkan.
+form_adminsettings_adminemail === Email Admin
+form_adminsettings_adminemaildesc === Mailing memicu pesan untuk admin akan dikirim ke alamat email ini. Pesan-pesan ini hanya tersedia dalam bahasa Inggris dan tidak dapat diterjemahkan.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Saat diaktifkan, recaptcha akan ditampilkan ke formulir otentikasi seperti mendaftar, login, dan lupa kata sandi.
+form_editdevice_receiveoptiontitle === Terima SMS
+form_editdevice_receiveoptiondesc === Jika dinonaktifkan, pesan yang diterima dari kotak masuk android tidak akan disimpan oleh sistem. Webhook dan alat terkait lainnya tidak akan berfungsi untuk perangkat saat ini dinonaktifkan.
+form_editwhatsapp_receiveoptiontitle === Terima Obrolan
+form_editwhatsapp_receiveoptiondesc === Jika dinonaktifkan, obrolan yang diterima dari akun whatsapp tidak akan disimpan oleh sistem. Webhook dan alat terkait lainnya tidak akan berfungsi untuk akun WhatsApp saat ini dinonaktifkan.
+js_calendarall_option === Semua
+js_calendarall_apply === Menerapkan
+js_calendarall_cancel === Membatalkan
+js_calendarall_from === Dari
+js_calendarall_to === Ke
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Kami
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === Januari
+js_calendarall_monfeb === Februari
+js_calendarall_monmar === Berbaris
+js_calendarall_monapr === April
+js_calendarall_monmay === Boleh
+js_calendarall_monjun === Juni
+js_calendarall_monjul === Juli
+js_calendarall_monaug === Agustus
+js_calendarall_monsep === September
+js_calendarall_monoct === Oktober
+js_calendarall_monnov === November
+js_calendarall_mondec === Desember
+response_ussddelete_success === Permintaan USSD telah dihapus!
+response_titanecho_invaltoken === Kesalahan konfigurasi sistem!
+widgets_addplugin_loader === Memasang plugin baru ke sistem

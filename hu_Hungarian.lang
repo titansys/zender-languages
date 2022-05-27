@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Adminisztrációs Panel
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Ütemezett
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Értesítések
+and_dashboard_pages_android_line58 === Eszközök
+and_dashboard_pages_contacts_line40 === Leiratkozott
+and_dashboard_pages_defailt_line37 === Átjáró árak
+and_dashboard_pages_default_line42 === Dokumentumok
+and_dashboard_pages_default_line58 === üzenetek
+and_dashboard_pages_default_line60 === Az elmúlt 7 nap
+and_dashboard_pages_default_line74 === Események
+and_dashboard_pages_default_line76 === Az elmúlt 7 nap
+and_dashboard_pages_default_line90 === segédprogramok
+and_dashboard_pages_default_line92 === Az elmúlt 7 nap
+and_dashboard_pages_default_line109 === Partnerek
+and_dashboard_pages_default_line117 === Kereset
+and_dashboard_pages_default_line131 === Kifizetés
+and_dashboard_pages_default_line140 === Egyensúly
+and_dashboard_pages_default_line148 === Kredit
+and_dashboard_pages_default_line162 === Feltölt
+and_dashboard_pages_default_line170 === Szállítási arány
+and_dash_pg_def_line178 === Siker
+and_dash_pg_def_line190 === nem sikerült
+and_dash_pg_def_line204 === Feladók
+and_dash_pg_def_line209 === Nem vagy előfizetve egyik prémium csomagunkra sem!
+and_dash_pg_def_line217 === Eszközök
+and_dash_pg_def_line224 === Összekapcsolva
+and_dash_pg_def_line232 === Fiókok
+and_dash_pg_def_line239 === Összekapcsolva
+and_dash_pg_def_line250 === Töltse le és telepítse hivatalos alkalmazásunkat a legjobb felhasználói élmény elérése érdekében
+and_dash_pg_doc_line10 === Dokumentumok
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhookok
+and_dash_pg_doc_line40 === Akciók
+and_dash_pg_doc_line46 === Eszközök
+and_dash_pg_doc_line52 === Partnerség
+and_dash_pg_for_line29 === Megszünteti
+and_dash_pg_log_line14 === Jelentkezz be facebookal
+and_dash_pg_log_line17 === Jelentkezzen be a Google-lal
+and_dash_pg_log_line20 === Jelentkezzen be a VKontakte segítségével
+and_dash_pg_log_line54 === Fiók létrehozása
+and_dash_pg_pay_line45 === Megkaptuk rendelési kérelmét, rendszerünk automatikusan e-mailt küld Önnek, és a módosításokat a fizetési tranzakció ellenőrzése után alkalmazza fiókjában.
+and_dash_pg_rates_line10 === Átjáró árak
+and_dash_pg_rates_line39 === Partnerek
+and_dash_pg_reg_line15 === Regisztrálj a Facebookon
+and_dash_pg_reg_line20 === Regisztráljon a Google-nál
+and_dash_pg_reg_line25 === Regisztráljon a VKontakte-nál
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Béta
+and_dash_pg_whats_line28 === Küldött
+and_dash_pg_whats_line34 === Megkapta
+and_dash_pg_whats_line40 === Ütemezett
+and_dash_pg_whats_line46 === Fiókok
+and_dash_api_line17 === Kulcsnév.
+and_dash_api_line19 === például. Saját szerverhez
+and_dash_api_line24 === Kulcsengedélyek.
+and_dash_auto_line17 === Művelet neve.
+and_dash_auto_line19 === például. Michael
+and_dash_auto_line24 === Forrás
+and_dash_auto_line24_1 === Az esemény fogadásának forrása.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Válaszoljon a kulcsszavakra vesszővel elválasztva. Ezek a kulcsszavak váltják ki az automatikus választ, ha észlelik őket az üzenet tartalmában.
+and_dash_auto_line36 === például. köszönöm, oké, iratkozz fel, igen
+and_dash_auto_line41 === A feladónak küldendő üzenet.
+and_dash_auto_line43 === például. Válaszüzenete itt, rövid kódok elfogadva
+and_dash_auto_line48 === Az üzenetben használható változók halmaza.
+and_dash_con_line24 === Elérhetőség.
+and_dash_con_line31 === Kapcsolattartó csoport.
+and_dash_con_line17 === Kapcsolattartó neve.
+and_dash_cre_line28 === Vásárlás
+and_dash_gate_line17 === Név
+and_dash_gate_line17_1 === Ez az átjáró neve, amely megjelenik a felhasználók számára.
+and_dash_gate_line19 === például. Twilio
+and_dash_gate_line24 === Vezérlő
+and_dash_gate_line24_1 === Válassza ki az átjáróvezérlő fájlt, ez tartalmazza az átjáró logikáját és kódját. Javasoljuk, hogy ellenőrizze a dokumentációt.
+and_dash_gate_line27 === Vezérlő kazánlemez:
+and_dash_gate_line34 === Visszahív
+and_dash_gate_line34_1 === Ha engedélyezve van, az üzeneteket a harmadik fél átjárójának visszahívási funkciójával kell ellenőrizni a küldés állapotához, ellenkező esetben az üzeneteket a rendszer azonnal elküldöttként jelöli meg elküldéskor.
+and_dash_gate_line37 === Engedélyezze
+and_dash_gate_line38 === Letiltás
+and_dash_gate_line44 === Visszahívási azonosító
+and_dash_gate_line44_1 === Ha a visszahívás engedélyezve van, másolja ezt az azonosítót, és illessze be a vezérlőbe, hogy a rendszer azonosítani tudja a visszahívásokat.
+and_dash_gate_line47 === Másolja és illessze be a visszahívási azonosítóhoz
+and_dash_gate_line54 === Árazás
+and_dash_gate_line54_1 === Az Ön egyéni ártáblázata ehhez az átjáróhoz. Ez lehetővé teszi, hogy a harmadik fél árain felül számoljon fel. Például, ha a twilio 0,01-et számít fel egy adott országban, akkor ehelyett 0,02-t számíthat fel, a pénznem a rendszer pénznemén alapul. Kérjük, kövesse az árformátumot helyesen.
+and_dash_gate_line57 === Minta JSON árképzés:
+and_dash_gate_line57_1 === Letöltés
+and_dash_grp_line17 === Csoport név.
+and_dash_grp_line19 === például. Barátok
+and_dash_hook_line17 === Művelet neve.
+and_dash_hook_line19 === például. Tesztművelet
+and_dash_hook_line24 === Forrás
+and_dash_hook_line24_1 === Az esemény forrása.
+and_dash_hook_line34 === Válassza ki az eseményt, ahol ez a horog meghívásra kerül.
+and_dash_hook_line44 === Hook link szerkezet, ez az url, amelyet a rendszer hív meg. Csak a GET módszer támogatott.
+and_dash_hook_line51 === Változókészlet, amelyet a hook URL-jében használhat.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Küldéskor
+and_dash_hook_line38 === Fogadáskor
+and_dash_lang_line17 === Nyelv neve.
+and_dash_lang_line19 === például. koreai
+and_dash_lang_line24 === Ország kód.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Ha engedélyezve van, a nyelv jobbról balra irányul.
+and_dash_lang_line38 === Igen
+and_dash_lang_line39 === Nem
+and_dash_lang_line45 === Fordítási karakterláncok.
+and_dash_mail_line17 === Cím
+and_dash_mail_line17_1 === Levél címe.
+and_dash_mail_line19 === például. Közlemény
+and_dash_mail_line24 === Felhasználók
+and_dash_mail_line24_1 === Felhasználók küldik.
+and_dash_mail_line36 === Szerepek
+and_dash_mail_line36_1 === Küldés szerepek szerint.
+and_dash_mail_line48 === Tartalom
+and_dash_mail_line48_1 === Levéltartalom, html engedélyezett.
+and_dash_mail_line50 === Helló Világ!
+and_dash_not_line17 === Cím
+and_dash_not_line17_1 === Cím értesítése.
+and_dash_not_line19 === például. Közlemény
+and_dash_not_line24 === Üzenet
+and_dash_not_line24_1 === Értesítési üzenet.
+and_dash_not_line31 === Szín
+and_dash_not_line31_1 === Értesítés színe.
+and_dash_not_line35 === Siker
+and_dash_not_line36 === Figyelem
+and_dash_not_line37 === Veszély
+and_dash_not_line43 === Kép
+and_dash_not_line43_1 === Értesítés a képről, ez nem kötelező.
+and_dash_not_line46 === Választható
+and_dash_not_line53 === Felhasználók
+and_dash_not_line53_1 === A felhasználók által sugárzott.
+and_dash_not_line65 === Szerepek
+and_dash_not_line65_1 === Szerepek szerint közvetítve.
+and_pack_line17 === Csomag név.
+and_pack_line19 === például. VIP csomag
+and_pack_line24 === Csomag ára, ennek követnie kell a rendszer pénznemét. A lebegő értékek nem megengedettek.
+and_pack_line29 === például. 25
+and_pack_line34 === Ha engedélyezve van, az üzenetek és a WhatsApp-csevegések láblécjelet tartalmaznak, amikor a címzettek megkapják.
+and_pack_line44 === Ha engedélyezve van, a csomag el lesz rejtve a csomag modális és a kezdőlap elől.
+and_pack_line58 === SMS küldési limit
+and_pack_line58_1 === A felhasználó által a visszaállítás előtt elküldhető üzenetek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line60 === például. 300
+and_pack_line65 === SMS fogadási limit
+and_pack_line65_1 === A felhasználó által a visszaállítás előtt fogadható üzenetek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line67 === például. 150
+and_pack_line72 === USSD limit
+and_pack_line72_1 === A felhasználó által a visszaállítás előtt kérhető ussd maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line74 === például. 25
+and_pack_line79 === Értesítési korlát
+and_pack_line79_1 === A felhasználó által a visszaállítás előtt fogadható értesítések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line81 === például. 1300
+and_pack_line86 === A felhasználói fiókhoz kapcsolható Android-eszközök maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line88 === például. 25
+and_pack_line92 === WhatsApp beállításai
+and_pack_line97 === A felhasználó által a visszaállítás előtt elküldhető csevegések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line99 === például. 300
+and_pack_line104 === A felhasználó által a visszaállítás előtt fogadható csevegések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line106 === például. 150
+and_pack_line111 === Számlakorlát
+and_pack_line111_1 === A felhasználói fiókhoz kapcsolható WhatsApp-fiókok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line113 === például. 10
+and_pack_line117 === Segédprogram beállításai
+and_pack_line122 === A felhasználó által menthető névjegyek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line124 === például. 25
+and_pack_line129 === Ütemezett limit
+and_pack_line129_1 === A felhasználó által menthető ütemezett üzenetek/csevegések maximális száma. Írjon be 0-t a korlátlan számhoz. Ez kombinálva van sms-ben és WhatsApp-ban is.
+and_pack_line131 === például. 25
+and_pack_line136 === A létrehozható API-kulcsok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line138 === például. 10
+and_pack_line143 === A létrehozható Webhookok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line145 === például. 5
+and_pack_line150 === Akciók korlátja
+and_pack_line150_1 === A létrehozható műveletek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_pack_line152 === például. 5
+and_page_line17 === Az oldal neve.
+and_page_line24 === Csak a kiválasztott szerepkörök férhetnek hozzá ehhez az oldalhoz.
+and_page_line35 === Ha engedélyezve van, az oldal nem lesz elérhető, ha nincs bejelentkezve.
+and_page_line45 === Az oldal tartalma. Minden html tag megengedett, legyen óvatos, amikor ismeretlen forrásból származó szkripteket ad hozzá!
+and_payout_line17 === Összeg
+and_payout_line17_1 === Kivehető összeg, csak egész számok.
+and_payout_line19 === például. 50
+and_payout_line24 === Szolgáltató
+and_payout_line24_1 === Válassza ki a fizetéshez használni kívánt fizetési szolgáltatót.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Fizetési cím
+and_payout_line34_1 === Fizetési cím vagy e-mail, kérjük, alaposan ellenőrizze, hogy elkerülje a fizetési problémákat.
+and_payout_line36 === például. Az Ön PayPal e-mailje
+and_payout_line43 === Kérés
+and_plug_line17 === Plugin fájl
+and_plug_line17_1 === Plugin zip fájl, kérjük, győződjön meg róla, hogy a megfelelő fájlt válassza ki.
+and_push_line17 === Cím
+and_push_line17_1 === Nyomja meg a címet.
+and_push_line19 === például. Közlemény
+and_push_line24 === Kép
+and_push_line24_1 === Push kép indexképe, ez nem kötelező.
+and_push_line27 === Választható
+and_push_line34 === Üzenet
+and_push_line34_1 === Push üzenet.
+and_push_line41 === Felhasználók
+and_push_line41_1 === A felhasználók által sugárzott.
+and_push_line53 === Szerepek
+and_push_line53_1 === Szerepek szerint közvetítve.
+and_role_line17 === Szerepnév.
+and_role_line19 === például. Fejlesztő
+and_role_line24 === Válassza ki az ehhez a szerepkörhöz letiltani/engedélyezni kívánt engedélyeket és szolgáltatásokat. A változtatások valós időben kerülnek alkalmazásra, a szerepkörrel rendelkező kapcsolódó felhasználók böngészőlapjai automatikusan újratöltésre kerülnek.
+and_short_line17 === Név
+and_short_line17_1 === Rövidítő név.
+and_short_line19 === például. Bitly
+and_short_line24 === Vezérlő
+and_short_line24_1 === Válassza ki a rövidítő vezérlő fájlt, ez tartalmazza a rövidítő logikáját és kódját. Javasoljuk, hogy ellenőrizze a dokumentációt.
+and_short_line27 === Vezérlő kazánlemez:
+and_sms_line17 === Ütemezett üzenet neve.
+and_sms_line19 === például. Üzenetem
+and_sms_line24 === Válassza ki az ütemezés dátumát.
+and_sms_line26 === például. 2020. 06. 22. 12:00
+and_sms_line31 === Ha engedélyezve van, az üzenet minden alkalommal ütemezésre kerül, amikor az ütemezett dátum megegyezik.
+and_sms_line42 === Több E.164 szám sortöréssel elválasztva.
+and_sms_line55 === Válasszon ki több névjegycsoportot
+and_sms_line67 === Rövidítő
+and_sms_line67_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_sms_line70 === Ne rövidítse le a hivatkozásokat
+and_sms_line79 === Átjáró mód
+and_sms_line79_1 === A használni kívánt átjáró mód. Ha eszközöket választ, a csatolt eszközei megjelennek küldéshez, ellenkező esetben a harmadik fél és a partner átjárói jelennek meg.
+and_sms_line82 === Eszközök
+and_sms_line83 === Kredit
+and_sms_line88 === Sim kártya foglalat használható.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Az előre elkészített üzenetsablonok.
+and_sms_line110 === A kapcsolt eszközök, válassza ki, hogy mit szeretne használni a küldéshez.
+and_sms_line121 === SMS átjáró
+and_sms_line121_1 === Harmadik féltől származó és partnerátjárók esetén a jóváírásokat akkor használjuk fel, amikor üzeneteket küld ezeken az átjárókon. Javasoljuk, hogy használat előtt ellenőrizze az átjáró árakat.
+and_sms_line141 === Spintax
+and_sms_line144 === Példa:
+and_sms_line144_1 === Tom egy
+and_sms_line144_2 === macska
+and_sms_line147 === Az értékek
+and_sms_line147_1 === jó
+and_sms_line147_2 === és
+and_sms_line147_3 === rossz
+and_sms_line147_4 === véletlenszerűen kerül felhasználásra.
+and_subs_line17 === Felhasználói fiók.
+and_subs_line28 === Előfizetési csomag.
+and_subs_line41 === Előfizetés időtartama.
+and_subs_line43 === például. 12
+and_temp_line17 === Sablonnév.
+and_temp_line24 === Sablon formátum.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_temp_line35 === Példa:
+and_temp_line35_1 === Tom egy
+and_temp_line35_2 === macska
+and_temp_line38 === Az értékek
+and_temp_line38_1 === jó
+and_temp_line38_2 === rossz
+and_temp_line38_3 === véletlenszerűen kerül felhasználásra.
+and_temp_line43 === Az üzenetekben használható változók halmaza.
+and_user_line17 === Teljes hivatalos név.
+and_user_line19 === például. Michael Cors
+and_user_line24 === Valós email-cím.
+and_user_line26 === például. user@mail.com
+and_user_line31 === Adja meg a felhasználói jelszót.
+and_user_line38 === A felhasználó helyének időzónája, módosítsa ezt, ha egy másik országban tartózkodik. Az időzóna az elküldött üzenetek és egyéb adatok dátum- és időpontosságára szolgál.
+and_user_line49 === Ország
+and_user_line49_1 === Felhasználói ország, ez a kifizetések és a telefonszámok formázására szolgál.
+and_user_line60 === Értesítési hangok
+and_user_line60_1 === Ha le van tiltva, az értesítések némák lesznek.
+and_user_line70 === Válassza ki a felhasználói szerepet.
+and_user_line81 === Válassza ki a felhasználói nyelvet.
+and_user_line92 === Partnerprogram
+and_user_line92_1 === Ha engedélyezve van, a felhasználó globális eszközként használhatja eszközeit, amely lehetővé teszi számukra, hogy pénzt keressenek, amikor más felhasználók üzeneteket küldenek az eszközükön.
+and_ussd_line17 === USSD kód
+and_ussd_line17_1 === USSD kérési kód.
+and_ussd_line19 === például. *121#
+and_ussd_line24 === Sim kártya foglalat használható.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Az összekapcsolt eszközök, válassza ki, hogy mit szeretne használni az ussd kéréshez.
+and_ussd_line47 === Kérés
+and_vouch_line17 === Az utalvány neve.
+and_vouch_line19 === például. Különleges
+and_vouch_line24 === A létrehozni kívánt utalványok mennyisége. Maximális érték 1000!
+and_vouch_line26 === például. 100
+and_vouch_line31 === Előfizetés időtartama.
+and_vouch_line33 === például. 12
+and_vouch_line38 === Előfizetési csomag.
+and_web_line17 === Webhook neve.
+and_web_line24 === Események fogadása
+and_web_line24_1 === Válassza ki a kívánt fogadási eseményeket, amelyek POST-módszerrel elküldésre kerülnek a webhook URL-címére.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Értesítések
+and_web_line36 === Az Ön webhook URL-je, az összes hasznos adat POST-módszerrel kerül elküldésre ide.
+and_web_line38 === például. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Ütemezett csevegés neve.
+and_whatssched_line19 === például. Üzenetem
+and_whatssched_line24 === Válassza ki az ütemezés dátumát.
+and_whatssched_line26 === például. 2020. 06. 22. 12:00
+and_whatssched_line31 === Ha engedélyezve van, a csevegés minden alkalommal ütemezve lesz, amikor az ütemezett dátum megegyezik.
+and_whatssched_line42 === Több E.164 szám sortöréssel elválasztva.
+and_whatssched_line55 === Válasszon ki több névjegycsoportot
+and_whatssched_line67 === Rövidítő
+and_whatssched_line67_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_whatssched_line70 === Ne rövidítse le a hivatkozásokat
+and_whatssched_line79 === fiók
+and_whatssched_line79_1 === Válassza ki a használni kívánt WhatsApp-fiókot.
+and_whatsached_line88 === Az előre elkészített üzenetsablonok.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_whatssched_line107 === Példa:
+and_whatssched_line101_1 === Tom egy
+and_whatssched_line107_2 === macska
+and_whatssched_line110 === Az értékek
+and_whatssched_line110_1 === jó
+and_whatssched_line110_2 === és
+and_whatssched_line110_3 === rossz
+and_whatssched_line110_4 === véletlenszerűen kerül felhasználásra.
+and_whatssched_line115 === Az üzenetekben használható változók halmaza.
+and_whatssched_line128 === Beküldés
+and_whatsapp_line15 === Csatlakoztassa WhatsApp-ját a gombra kattintva a QRCode megjelenítéséhez, majd szkennelje be ezen keresztül
+and_whatsapp_line15_1 === Eszköz összekapcsolása
+and_whatsapp_line15_2 === gombot az alkalmazásban. Csak 60 másodperce van a QRCode beolvasására.
+and_whatsapp_line16 === Fiók összekapcsolása lehetőségre
+and_add_widget_line17 === Widget neve.
+and_add_widget_line24 === Widget ikon, csak modálisokhoz. Kérjük, látogasson el a félelmetes sorba az ikonra való hivatkozásért.
+and_add_widget_line26 === például. la la-info-kör
+and_add_widget_line31 === Widget típusa. A blokkok a sablonok különböző részeihez, a modálok a dinamikus tartalmakhoz valók. A v3 óta a modálisok csak az irányítópulton működnek.
+and_add_widget_line34 === Blokk
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Widget mérete, csak modálisokhoz.
+and_add_widget_line53 === Widget pozíció, csak modálisok számára.
+and_add_widget_line64 === Widget tartalom. Minden html tag megengedett, legyen óvatos, amikor ismeretlen forrásból származó szkripteket ad hozzá!
+and_add_widget_line66 === Helló Világ!
+and_admin_build_line16 === Alkalmazás
+and_admin_build_line21 === Az alkalmazáscsomag nevének egyedinek kell lennie, és domain-szerű formátumot kell követnie, például com.yourdomain.yourapp. Javasoljuk, hogy kövesse a domain nevét, hogy egyedivé tegye.
+and_admin_build_line23 === például. com.gateway.sample
+and_admin_build_line28 === Alkalmazás neve, ez megjelenik az alkalmazásfiókban és az alkalmazás más részein.
+and_admin_build_line30 === például. Zender Gateway
+and_admin_build_line35 === Alkalmazásleírás, az alkalmazás rövid leírása.
+and_admin_build_line42 === App Színes téma
+and_admin_build_line42_1 === Az alkalmazás színtéma, javasoljuk, hogy ezt párosítsa az alkalmazás logójával és a splash kép színeivel.
+and_admin_build_line44 === például. #000000
+and_admin_build_line49 === APK verzió
+and_admin_build_line_49_1 === APK-verzió, ha újból építi fel az alkalmazást, kérjük, frissítse ezt a mezőt is az érték növelésével. Ha az aktuális érték 1, akkor az alkalmazás elkészítése előtt növelje meg 2-re. Ez szükséges a frissítési funkció aktiválásához az alkalmazásban, és a felhasználó frissítésre kényszeríti.
+and_admin_build_line51 === például. 1.0
+and_admin_build_line56 === E-mail létrehozása
+and_admin_build_line_56_1 === Érvényes e-mail-címe, kérjük, mindenképpen módosítsa ezt. A felépítés eredményét erre az e-mailre küldjük!
+and_admin_build_line58 === például. myvalidemail@mail.com
+and_admin_build_line62 === Hitelesítő adatok
+and_admin_build_line67 === Google szolgáltatások
+and_admin_build_line67_1 === Az Ön Google Services JSON-fájlja, ez szükséges az FCM-tranzakciókhoz az átjáróalkalmazásban.
+and_admin_build_line75 === Firebase hitelesítő adatok
+and_admin_build_line75_1 === A Firebase rendszergazdai hitelesítő adatok json-fájlja, ez szükséges ahhoz, hogy a rendszer kommunikálhasson az alkalmazással.
+and_admin_build_line82 === Eszközök
+and_admin_build_line87 === Az alkalmazás képének logója, ez az alkalmazás fejlécében látható kép. Az ajánlott méret 251x53 képpont. Az átlátszó háttér jobb.
+and_admin_build_line95 === Az alkalmazás bejelentkezési logója
+and_admin_build_line95_1 === Az alkalmazás bejelentkezési képének logója, ez a bejelentkezési módban látható kép. Az ajánlott méretek 250x100 px és sötét betűtípus. Az átlátszó háttér jobb.
+and_admin_build_line103 === Az alkalmazás képének ikonja, ez az alkalmazásfiókban és az Android rendszeren látható. Az ajánlott méretek 1024x1024 px és png formátumban.
+and_admin_build_line111 === Alkalmazás indítóképernyője, ez akkor jelenik meg, amikor a felhasználó megnyitja az alkalmazást. Az ajánlott méretek 2732x2732 px és png formátumban.
+and_admin_build_line118 === Szerkezet
+and_admin_build_line123 === Egyéni JavaScript
+and_admin_build_line123_1 === Ha egyéni javascript kódot szeretne használni, kérjük, adja hozzá ide. Ez dinamikusan betöltődik az alkalmazásba.
+and_admin_build_line125 === pl., alert('Hello World!');
+and_admin_build_line130 === Egyedi CSS
+and_admin_build_line130_1 === Ha egyéni css kódot szeretne használni, kérjük, adja hozzá ide. Ez dinamikusan betöltődik az alkalmazásba.
+and_admin_build_line137 === Egyedi elrendezés
+and_admin_build_line137_1 === Ha egyéni alkalmazásstruktúrát szeretne használni, módosítsa a html tartalmat, ha nem tudja, mit csinál, hagyja meg az alapértelmezett értéket.
+and_admin_build_line139 === Helló Világ!
+and_settings_line21 === Webhely neve, ez mindenhol megjelenik, ahol márkaépítésre van szükség.
+and_settings_line23 === például. Zender
+and_settings_line28 === Az oldal leírása, ez a keresőoptimalizáláshoz készült, ezért legyen kreatív.
+and_settings_line30 === például. Ez egy nagyszerű SMS-átjáró szolgáltatás
+and_settings_line35 === Az Ön envato vásárlási kódja, ez szükséges a szkript néhány exkluzív funkciójának feloldásához.
+and_settings_line37 === például. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Az Ön google analytics kulcsa, ez nem kötelező, mert a rendszer már rendelkezik beépített látogatói statisztikákkal.
+and_settings_line44 === például. UA-179148389-1
+and_settings_line49 === A webhely protokollja, kérjük, győződjön meg arról, hogy a megfelelőt választotta. Ha webhelye https-t használ, kérjük, válassza ki, ellenkező esetben válassza a http lehetőséget.
+and_settings_line59 === Alapértelmezett rendszernyelv, ez akkor használatos, amikor új felhasználó keresi fel webhelyét.
+and_settings_line70 === Ha le van tiltva, a regisztrációs oldalon keresztül nem lehet regisztrálni.
+and_settings_line80 === Csomag visszaállítási mód
+and_settings_line80_1 === A korlátok (például küldés, fogadás, ussd és értesítések) alaphelyzetbe állítása. Ez mind az Android, mind a WhatsApp funkciókra vonatkozik. Az itt megadott választást a cron beállításban is alkalmazni kell.
+and_settings_line83 === Napi
+and_settings_line84 === Havi
+and_settings_line90 === Ingyenes modell
+and_settings_line90_1 === Ha engedélyezve van, az alapértelmezett ingyenes csomag automatikusan hozzárendelődik a felhasználóhoz a regisztráció után.
+and_settings_line100 === Ha le van tiltva, a kezdőlap nem kerül felhasználásra. A gyökérkönyvtárban lévő összes látogatás át lesz irányítva az irányítópultra.
+and_settings_line110 === TAWK Chat Widget
+and_settings_line110_1 === Ha engedélyezve van, a tawk chat widget megjelenik a felhasználók számára.
+and_settings_line120 === A tawk chat widget linkje, ez szükséges, ha használni szeretné a tawk chat támogatást.
+and_settings_line127 === Admin API
+and_settings_line127_1 === Válassza ki az engedélyezni kívánt rendszergazdai API-végpontokat. Javasoljuk, hogy csak azokat a végpontokat engedélyezze, amelyekre szüksége van.
+and_settings_line159 === Ezt a tokent nem szabad megosztani senkivel. Ezt a cronjobok, a rendszer API és más külső kérések biztonságára használják. Ha úgy gondolja, hogy rendszerjogkivonatát feltörték, hozzon létre egy újat. Új token újragenerálása után újra kell konfigurálnia a cronjobokat, a rendszer API-t és az egyéb kapcsolódó beállításokat.
+and_settings_line160 === Regenerátum
+and_settings_line173 === Ha a beépített levelezőszervert szeretné használni, válassza a natív lehetőséget, ellenkező esetben válassza az smtp-t, majd konfigurálja a levelezési hitelesítő adatait.
+and_settings_line183 === A használandó smtp protokoll, kérjük, válassza ki a távoli levelezőszerver támogatott protokollját.
+and_settings_line193 === Webhely e-mail címe, ez az e-mail cím jelenik meg a címzetteknek, javasolt a noreply@yoursite.com használata márkaépítési célokra.
+and_settings_line195 === például. noreply@domain.com
+and_settings_line200 === Távoli smtp szerver gazdagép címe.
+and_settings_line205 === például. smtp.gmail.com
+and_settings_line210 === Távoli smtp szerver portja.
+and_settings_line215 === például. 587
+and_settings_line220 === Távoli smtp szerver felhasználóneve.
+and_settings_line225 === például. felhasználónév@gmail.com
+and_settings_line230 === Távoli smtp szerver jelszava.
+and_settings_line235 === A gmail fiókod jelszava
+and_settings_line244 === Az Ön paypal üzleti e-mail címe.
+and_settings_line246 === például. mail@domain.com
+and_settings_line251 === Ha engedélyezve van, az összes Paypal-tranzakció sandbox módba kerül.
+and_settings_line261 === Mollie api kulcsod.
+and_settings_line263 === például. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === A rendszer használandó pénzneme, ez lesz az alap a tranzakciók USD-re konvertálásakor.
+and_settings_line279 === Válassza ki a használni kívánt fizetési szolgáltatókat.
+and_settings_line293 === Az üzenetek minimális karakterszáma. Ez vonatkozik az SMS-ekre és a WhatsApp-ra is.
+and_settings_line295 === például. 5
+and_settings_line300 === Az üzenetek maximális karakterszáma. Ez vonatkozik az SMS-ekre és a WhatsApp-ra is. Végtelen karakterek esetén írjon be 0-t.
+and_settings_line302 === például. 300
+and_settings_line307 === Üzenet láblécjel, ez hozzá van fűzve az üzenetekhez, ha a csomagban engedélyezve van a lábléc jelölés.
+and_settings_line309 === például. A Zender Systemtől küldve
+and_settings_line318 === Az elküldött üzenetek táblázatában megjelenítendő sorok alapértelmezett száma. Ez vonatkozik az SMS-ekre és a WhatsApp-ra is.
+and_settings_line320 === például. 10
+and_settings_line325 === A fogadott üzenetek táblázatában megjelenítendő sorok alapértelmezett száma. Ez vonatkozik az SMS-ekre és a WhatsApp-ra is.
+and_settings_line327 === például. 10
+and_settings_line336 === Ha engedélyezve van, a látogatók a közösségi média fiókjukon keresztül tudnak bejelentkezni.
+and_settings_line346 === Válassza ki a használni kívánt közösségi média szolgáltatókat.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook azonosító
+and_settings_line357_1 === A facebook alkalmazás azonosítója, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line359 === például. 738812983731558
+and_settings_line364 === Facebook titok
+and_settings_line364_1 === A Facebook alkalmazás titkos, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line366 === például. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === A Google alkalmazás azonosítója, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line373 === például. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google titkos
+and_settings_line378_1 === A Google alkalmazás titka, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line380 === például. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK azonosító
+and_settings_line385_1 === A vkontakte alkalmazásazonosító, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line387 === például. 7768236
+and_settings_line392 === VK Secret
+and_settings_line392_1 === A vkontakte alkalmazás titka, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line394 === például. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Ha engedélyezve van, a recaptcha a bejelentkezési oldalon is megjelenik. Kérjük, győződjön meg arról, hogy konfigurálta a recaptcha kulcsot és a recaptcha titkos kulcsot, mielőtt engedélyezi ezt a funkciót, különben nem fog tudni bejelentkezni!
+and_settings_line413 === A recaptcha kulcs, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line415 === például. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === A recaptcha titok, kérjük, olvassa el a dokumentációt további információkért.
+and_settings_line422 === például. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Light
+and_theme_line17_1 === Világos logókép, ez látható a kezdőlapon és a hitelesítési oldalakon, ha a háttérelem sötét. Az ajánlott méret 250x50 képpont.
+and_theme_line23 === Sötét logó
+and_theme_line223_1 === Sötét logókép, ez látható a kezdőlapon és a hitelesítési oldalakon, ha a háttér világos. Az ajánlott méret 250x50 képpont.
+and_theme_line29 === Webhely favicon képe, ez a böngésző lapon látható. Az ajánlott méret 50x50 px.
+and_theme_line35 === Háttérkép
+and_theme_line35_1 === Webhely háttérképe, ez mindenhol látható. Javasoljuk, hogy nagy felbontású képet használjon.
+and_theme_line41 === Válassza ki a webhelyen használni kívánt színtémát.
+and_theme_line46 === Válassza ki a szövegek kiemelési színét.
+and_theme_line51 === Spinner Color
+and_theme_line51_1 === Válassza ki a felső ajax fonóhoz használni kívánt színt.
+and_theme_line58 === Egyéni JavaScript
+and_theme_line58_1 === Ha egyéni javascript kódot szeretne használni, kérjük, adja hozzá ide. Ez minden oldalon dinamikusan betöltődik.
+and_theme_line60 === Helló Világ!
+and_theme_line63 === Egyedi CSS
+and_theme_line63_1 === Ha meg szeretne változtatni néhány css stílust, itt megteheti.
+and_apikey_line17 === Kulcsnév.
+and_apikey_line19 === például. Saját szerverhez
+and_apikey_line24 === Kulcsengedélyek.
+and_edit_auto_line17 === Művelet neve.
+and_edit_auto_line19 === például. Automatikus válasz
+and_edit_auto_line24 === Forrás
+and_edit_auto_line24_1 === Az esemény fogadásának forrása.
+and_edit_auto_line34 === Válaszoljon a kulcsszavakra vesszővel elválasztva. Ezek a kulcsszavak váltják ki az automatikus választ, ha észlelik őket az üzenet tartalmában.
+and_edit_auto_line36 === például. köszönöm, oké, iratkozz fel, igen
+and_edit_auto_line41 === A feladónak küldendő üzenet.
+and_edit_auto_line43 === például. Válaszüzenete itt, rövid kódok elfogadva
+and_edit_auto_line48 === Az üzenetben használható változók halmaza.
+and_edit_con_line17 === Kapcsolattartó neve.
+and_edit_con_line19 === például. Michael
+and_edit_con_line24 === Elérhetőség.
+and_edit_con_line31 === Kapcsolattartó csoport.
+and_edit_dev_line16 === Eszköz részletei
+and_edit_dev_line21 === Eszköz neve.
+and_edit_dev_line23 === például. Az én eszközöm
+and_edit_dev_line28 === Ha engedélyezve van, az üzenetek véletlenszerű időközönként kerülnek elküldésre 2 érték között. Az alábbiakban konfigurálhatja őket.
+and_edit_dev_line38 === A minimális intervallum másodpercben.
+and_edit_dev_line41 === például. 5
+and_edit_dev_line46 === A maximális intervallum másodpercben.
+and_edit_dev_line49 === például. 20
+and_edit_dev_line53 === Értesítési beállítások
+and_edit_dev_line58 === Alkalmazások
+and_edit_dev_line58_1 === Adja meg azoknak az alkalmazásoknak a csomagneveit, amelyekről értesítéseket szeretne kapni. Sortöréssel válassza el őket.
+and_edit_dev_line65 === Partnerbeállítások
+and_edit_dev_line70 === Mérték
+and_edit_dev_line70_1 === A pénznem alapja az üzenetenként felszámítani kívánt összeg, az eszköz országa. A lebegő értékek, például a centek támogatottak.
+and_edit_dev_line73 === például. 0,50
+and_edit_dev_line78 === Globális állapot
+and_edit_dev_line78_1 === Ha le van tiltva, az eszköz nem lesz elérhető globális SMS-átjáróként, és Ön nem fog pénzt keresni. Felhívjuk figyelmét, hogy a globális eszközök biztonsági okokból nem tudnak üzeneteket fogadni.
+and_edit_dev_line89 === Ország
+and_edit_dev_line89_1 === Az eszköz országa, a telefonszámok meghatározására és az árfolyammező alappénznemeként szolgál.
+and_edit_dev_line101 === Kiemelten fontos
+and_edit_dev_line101_1 === A globális üzeneteket a rendszer először a saját üzenetei előtt küldi el.
+and_edit_dev_line112 === SIM-nyílások
+and_edit_dev_line112_1 === Válassza ki a küldéshez használni kívánt sim slotokat, ha mindkettőt kiválasztja, az üzenetek véletlenszerű slotban kerülnek elküldésre.
+and_edit_email_line16 === E-mail sablon
+and_edit_email_line18 === HTML engedélyezett
+and_edit_gate_line17 === Név
+and_edit_gate_line17_1 === Ez az átjáró neve, amely megjelenik a felhasználók számára.
+and_edit_gate_line19 === például. Twilio
+and_edit_gate_line24 === Vezérlő
+and_edit_gate_line24_1 === Válassza ki az átjáróvezérlő fájlt, ez tartalmazza az átjáró logikáját és kódját. Javasoljuk, hogy ellenőrizze a dokumentációt.
+and_edit_gate_line31 === Visszahív
+and_edit_gate_line31_1 === Ha engedélyezve van, az üzeneteket a harmadik fél átjárójának visszahívási funkciójával kell ellenőrizni a küldés állapotához, ellenkező esetben az üzeneteket a rendszer azonnal elküldöttként jelöli meg elküldéskor.
+and_edit_gate_line34 === Engedélyezze
+and_edit_gate_line35 === Letiltás
+and_edit_gate_line41 === Visszahívási azonosító
+and_edit_gate_line41_1 === Ha a visszahívás engedélyezve van, másolja ezt az azonosítót, és illessze be a vezérlőbe, hogy a rendszer azonosítani tudja a visszahívásokat.
+and_edit_gate_line44 === Másolja és illessze be a visszahívási azonosítóhoz
+and_edit_gate_line51 === Árazás
+and_edit_gate_line51_1 === Az Ön egyéni ártáblázata ehhez az átjáróhoz. Ez lehetővé teszi, hogy a harmadik fél árain felül számoljon fel. Például, ha a twilio 0,01-et számít fel egy adott országban, akkor ehelyett 0,02-t számíthat fel, a pénznem a rendszer pénznemén alapul. Kérjük, kövesse az árformátumot helyesen.
+and_edit_gate_line54 === Minta JSON árképzés:
+and_edit_gate_line54_1 === Letöltés
+and_edit_grp_line17 === Csoport név.
+and_edit_grp_line19 === például. Barátok
+and_edit_hook_line17 === Művelet neve.
+and_edit_hook_line19 === például. Tesztművelet
+and_edit_hook_line24 === Forrás
+and_edit_hook_line24_1 === Az esemény forrása.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Válassza ki az eseményt, ahol ez a horog meghívásra kerül.
+and_edit_hook_line37 === Küldéskor
+and_edit_hook_line38 === Fogadáskor
+and_edit_hook_line44 === Hook link szerkezet, ez az url, amelyet a rendszer hív meg. Csak a GET módszer támogatott.
+and_edit_hook_line51 === Változókészlet, amelyet a hook URL-jében használhat.
+and_edit_lang_line17 === például. koreai
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Igen
+and_edit_lang_line33 === Nem
+and_edit_pack_line17 === Csomag név.
+and_edit_pack_line19 === például. VIP csomag
+and_edit_pack_line24 === Csomag ára, ennek követnie kell a rendszer pénznemét. A lebegő értékek nem megengedettek.
+and_edit_pack_line29 === például. 25
+and_edit_pack_line34 === Ha engedélyezve van, az üzenetek és a WhatsApp-csevegések láblécjelet tartalmaznak, amikor a címzettek megkapják.
+and_edit_pack_line44 === Ha engedélyezve van, a csomag el lesz rejtve a csomag modális és a kezdőlap elől.
+and_edit_pack_line53 === Android beállítások
+and_edit_pack_line58 === SMS küldési limit
+and_edit_pack_line58_1 === A felhasználó által a visszaállítás előtt elküldhető üzenetek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line60 === például. 300
+and_edit_pack_line65 === SMS fogadási limit
+and_edit_pack_line65_1 === A felhasználó által a visszaállítás előtt fogadható üzenetek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line67 === például. 150
+and_edit_pack_line72 === USSD limit
+and_edit_pack_line72_1 === A felhasználó által a visszaállítás előtt kérhető ussd maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line74 === például. 25
+and_edit_pack_line79 === Értesítési korlát
+and_edit_pack_line79_1 === A felhasználó által a visszaállítás előtt fogadható értesítések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line81 === például. 1300
+and_edit_pack_line86 === A felhasználói fiókhoz kapcsolható Android-eszközök maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line88 === például. 25
+and_edit_pack_line92 === WhatsApp beállításai
+and_edit_pack_line97 === A felhasználó által a visszaállítás előtt elküldhető csevegések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line99 === például. 300
+and_edit_pack_line104 === A felhasználó által a visszaállítás előtt fogadható csevegések maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line106 === például. 150
+and_edit_pack_line111 === Számlakorlát
+and_edit_pack_line111_1 === A felhasználói fiókhoz kapcsolható WhatsApp-fiókok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line113 === például. 10
+and_edit_pack_line117 === Segédprogram beállításai
+and_edit_pack_line122 === A felhasználó által menthető névjegyek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line124 === például. 25
+and_edit_pack_line129 === Ütemezett limit
+and_edit_pack_line129_1 === A felhasználó által menthető ütemezett üzenetek/csevegések maximális száma. Írjon be 0-t a korlátlan számhoz. Ez kombinálva van sms-ben és WhatsApp-ban is.
+and_edit_pack_line131 === például. 25
+and_edit_pack_line136 === A létrehozható API-kulcsok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line138 === például. 10
+and_edit_pack_line143 === A létrehozható Webhookok maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line145 === például. 5
+and_edit_pack_line150 === Akciók korlátja
+and_edit_pack_line150_1 === A létrehozható műveletek maximális száma. Írjon be 0-t a korlátlan számhoz.
+and_edit_pack_line152 === például. 5
+and_edit_page_line17 === Az oldal neve.
+and_edit_page_line24 === Csak a kiválasztott szerepkörök férhetnek hozzá ehhez az oldalhoz.
+and_edit_page_line35 === Ha engedélyezve van, az oldal nem lesz elérhető, ha nincs bejelentkezve.
+and_edit_page_line45 === Az oldal tartalma. Minden html tag megengedett, legyen óvatos, amikor ismeretlen forrásból származó szkripteket ad hozzá!
+and_edit_role_line17 === Szerepnév.
+and_edit_role_line19 === például. Fejlesztő
+and_edit_role_line24 === Válassza ki az ehhez a szerepkörhöz letiltani/engedélyezni kívánt engedélyeket és szolgáltatásokat. A változtatások valós időben kerülnek alkalmazásra, a szerepkörrel rendelkező kapcsolódó felhasználók böngészőlapjai automatikusan újratöltésre kerülnek.
+and_edit_short_line17 === Név
+and_edit_short_line17_1 === Rövidítő név.
+and_edit_short_line19 === például. Bitly
+and_edit_short_line24 === Vezérlő
+and_edit_short_line24_1 === Válassza ki a rövidítő vezérlő fájlt, ez tartalmazza a rövidítő logikáját és kódját. Javasoljuk, hogy ellenőrizze a dokumentációt.
+and_edit_sms_line17 === Ütemezett üzenet neve.
+and_edit_sms_line19 === például. Üzenetem
+and_edit_sms_line24 === Válassza ki az ütemezés dátumát.
+and_edit_sms_line26 === például. 2020. 06. 22. 12:00
+and_edit_sms_line31 === Ha engedélyezve van, az üzenet minden alkalommal ütemezésre kerül, amikor az ütemezett dátum megegyezik.
+and_edit_sms_line42 === Több E.164 szám sortöréssel elválasztva.
+and_edit_sms_line55 === Válasszon ki több névjegycsoportot
+and_edit_sms_line67 === Átjáró mód
+and_edit_sms_line67_1 === A használni kívánt átjáró mód. Ha eszközöket választ, a csatolt eszközei megjelennek küldéshez, ellenkező esetben a harmadik fél és a partner átjárói jelennek meg.
+and_edit_sms_line70 === Eszközök
+and_edit_sms_line71 === Kredit
+and_edit_sms_line76 === Sim kártya foglalat használható.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === A kapcsolt eszközök, válassza ki, hogy mit szeretne használni a küldéshez.
+and_edit_sms_line99 === SMS átjáró
+and_edit_sms_line99_1 === Harmadik féltől származó és partnerátjárók esetén a jóváírásokat akkor használjuk fel, amikor üzeneteket küld ezeken az átjárókon. Javasoljuk, hogy használat előtt ellenőrizze az átjáró árakat.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Példa:
+and_edit_sms_line122_1 === Tom egy
+and_edit_sms_line122_2 === macska
+and_edit_sms_line125 === Az értékek
+and_edit_sms_line125_1 === jó
+and_edit_sms_line125_2 === és
+and_edit_sms_line125_3 === rossz
+and_edit_sms_line125_4 === véletlenszerűen kerül felhasználásra.
+and_edit_temp_line17 === Sablonnév.
+and_edit_temp_line24 === Sablon formátum.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_edit_temp_line35 === Példa:
+and_edit_temp_line35_1 === Tom egy
+and_edit_temp_line35_2 === macska
+and_edit_temp_line38 === Az értékek
+and_edit_temp_line38_1 === jó
+and_edit_temp_line38_2 === és
+and_edit_temp_line38_3 === rossz
+and_edit_temp_line38_4 === véletlenszerűen kerül felhasználásra.
+and_edit_temp_line43 === Az üzenetekben használható változók halmaza.
+and_eduse_line17 === Az Ön teljes hivatalos neve. Kérjük, vegye figyelembe, hogy hamis név használata esetén fiókja felfüggeszthető.
+and_eduse_line19 === például. Michael Cors
+and_eduse_line24 === Érvényes e-mail cím, hagyja figyelmen kívül ezt a mezőt, ha meg szeretné tartani a jelenlegi e-mail címet.
+and_eduse_line26 === például. user@mail.com
+and_eduse_line31 === Ha meg szeretné tartani a jelenlegi jelszót, kérjük, hagyja figyelmen kívül ezt a mezőt, ellenkező esetben írjon be új jelszót.
+and_eduse_line38 === A tartózkodási hely időzónája, módosítsa ezt, ha egy másik országban tartózkodik. Az időzóna az elküldött üzenetek és egyéb adatok dátum- és időpontosságára szolgál.
+and_eduse_line49 === Ország
+and_eduse_line49_1 === Az Ön országa, ezt a rendszer a kifizetésekhez és a telefonszámok formázásához használja.
+and_eduse_line60 === Értesítési hangok
+and_eduse_line60_1 === Ha le van tiltva, az értesítések némák lesznek.
+and_eduse_line70 === Válassza ki a felhasználói szerepet.
+and_eduse_line81 === Válassza ki a felhasználói nyelvet.
+and_eduse_line92 === Partnerprogram
+and_eduse_line92_1 === Ha engedélyezve van, a felhasználó globális eszközként használhatja eszközeit, amely lehetővé teszi számukra, hogy pénzt keressenek, amikor más felhasználók üzeneteket küldenek az eszközükön.
+and_edweb_line17 === Webhook neve.
+and_edweb_line24 === Események fogadása
+and_edweb_line24_1 === Válassza ki a kívánt fogadási eseményeket, amelyek POST-módszerrel elküldésre kerülnek a webhook URL-címére.
+and_edweb_line30 === Értesítések
+and_edweb_line36 === Az Ön webhook URL-je, az összes hasznos adat POST-módszerrel kerül elküldésre ide.
+and_edweb_line38 === például. https://yourdomain.com/reply.php
+and_edwhat_line17 === Ütemezett csevegés neve.
+and_edwhat_line19 === például. Üzenetem
+and_edwhat_line24 === Válassza ki az ütemezés dátumát.
+and_edwhat_line26 === például. 2020. 06. 22. 12:00
+and_edwhat_line31 === Ha engedélyezve van, a csevegés minden alkalommal ütemezve lesz, amikor az ütemezett dátum megegyezik.
+and_edwhat_line42 === Több E.164 szám sortöréssel elválasztva.
+and_edwhat_line55 === Válasszon ki több névjegycsoportot
+and_edwhat_line67 === fiók
+and_edwhat_line67_1 === Válassza ki a használni kívánt WhatsApp-fiókot.
+and_edwhat_line76 === Az előre elkészített üzenetsablonok.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_edwhat_line95 === Példa:
+and_edwhat_line95_1 === Tom egy
+and_edwhat_line95_2 === macska
+and_edwhat_line98 === Az értékek
+and_edwhat_line98_1 === jó
+and_edwhat_line98_2 === és
+and_edwhat_line98_3 === rossz
+and_edwhat_line98_4 === véletlenszerűen kerül felhasználásra.
+and_edwhat_line103 === Az üzenetekben használható változók halmaza.
+and_edwhat_line116 === Beküldés
+and_edwid_line17 === Widget neve.
+and_edwid_line24 === Widget ikon, csak modálisokhoz. Kérjük, látogasson el a félelmetes sorba az ikonra való hivatkozásért.
+and_edwid_line31 === Widget típusa. A blokkok a sablonok különböző részeihez, a modálok a dinamikus tartalmakhoz valók. A v3 óta a modálisok csak az irányítópulton működnek.
+and_edwid_line34 === Blokk
+and_edwid_line35 === Modal
+and_edwid_line41 === Widget mérete, csak modálisokhoz.
+and_edwid_line53 === Widget pozíció, csak modálisok számára.
+and_edwid_line64 === Widget tartalom. Minden html tag megengedett, legyen óvatos, amikor ismeretlen forrásból származó szkripteket ad hozzá!
+and_import_line17 === Az importálni kívánt Excel fájlt, kérjük, kövesse a szükséges formátumot.
+and_import_line20 === Mintafájl:
+and_import_line20_1 === Letöltés
+and_package_line36 === SMS fogadás
+and_package_line41 === WhatsApp küldés
+and_package_line46 === WhatsApp fogadás
+and_package_line51 === USSD
+and_package_line56 === Értesítések
+and_package_line61 === Ütemezett SMS/csevegés
+and_package_line66 === Kapcsolatok
+and_package_line71 === API kulcsok
+and_package_line76 === Webhookok
+and_package_line81 === Akciók
+and_package_line86 === Android-eszközök
+and_package_line91 === WhatsApp fiókok
+and_redeem_line18 === Kód beváltása.
+and_redeem_line20 === például. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Több E.164 szám sortöréssel elválasztva. Egy számra csak 1 üzenet kerül elküldésre, még akkor is, ha olyan csoportokat választott ki, amelyekhez hozzáadta.
+and_sms_bulk_31 === Válasszon ki több névjegycsoportot. Csak 1 üzenet kerül elküldésre egy névjegynek, még akkor is, ha több csoportot választott ki, ahová felvették.
+and_sms_bulk_43 === Rövidítő
+and_sms_bulk_43_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_sms_bulk_46 === Ne rövidítse le a hivatkozásokat
+and_sms_bulk_55 === Átjáró mód
+and_sms_bulk_55_1 === A használni kívánt átjáró mód. Ha eszközöket választ, a csatolt eszközei megjelennek küldéshez, ellenkező esetben a harmadik fél és a partner átjárói jelennek meg.
+and_sms_bulk_58 === Eszközök
+and_sms_bulk_59 === Kredit
+and_sms_bulk_64 === Sim kártya foglalat használható.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Ha engedélyezve van, ezek az üzenetek minden más előtt elküldésre kerülnek.
+and_sms_bulk_81 === Az előre elkészített üzenetsablonok.
+and_sms_bulk_94 === A kapcsolt eszközök, válassza ki, hogy mit szeretne használni a küldéshez.
+and_sms_bulk_105 === SMS átjáró
+and_sms_bulk_105_1 === Harmadik féltől származó és partnerátjárók esetén a jóváírásokat akkor használjuk fel, amikor üzeneteket küld ezeken az átjárókon. Javasoljuk, hogy használat előtt ellenőrizze az átjáró árakat
+and_sms_bulk_126 === Fordítsa le az üzenetet.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_sms_bulk_135 === Példa:
+and_sms_bulk_143 === Az üzenetekben használható változók halmaza.
+and_sms_exe17 === Az importálni kívánt Excel fájlt, kérjük, kövesse a szükséges formátumot.
+and_sms_exe20 === Mintafájl:
+and_sms_exe20_1 === Letöltés
+and_sms_exe27 === Rövidítő
+and_sms_exe27_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_sms_exe30 === Ne rövidítse le a hivatkozásokat
+and_sms_exe39 === Átjáró mód
+and_sms_exe39_1 === A használni kívánt átjáró mód. Ha eszközöket választ, a csatolt eszközei megjelennek küldéshez, ellenkező esetben a harmadik fél és a partner átjárói jelennek meg.
+and_sms_exe42 === Eszközök
+and_sms_exe43 === Kredit
+and_sms_exe47 === Az előre elkészített üzenetsablonok.
+and_sms_exe60 === A kapcsolt eszközök, válassza ki, hogy mit szeretne használni a küldéshez.
+and_sms_exe70 === SMS átjáró
+and_sms_exe70_1 === Harmadik féltől származó és partnerátjárók esetén a jóváírásokat akkor használjuk fel, amikor üzeneteket küld ezeken az átjárókon. Javasoljuk, hogy használat előtt ellenőrizze az átjáró árakat.
+and_sms_exe92 === Fordítsa le az üzenetet.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_sms_exe109 === Az üzenetekben használható változók halmaza.
+and_sms_quick17 === Címzett telefonszáma.
+and_sms_quick24 === Átjáró mód
+and_sms_quick24_1 === A használni kívánt átjáró mód. Ha eszközöket választ, a csatolt eszközei megjelennek küldéshez, ellenkező esetben a harmadik fél és a partner átjárói jelennek meg.
+and_sms_quick27 === Eszközök
+and_sms_quick28 === Kredit
+and_sms_quick34 === Rövidítő
+and_sms_quick34_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_sms_quick37 === Ne rövidítse le a hivatkozásokat
+and_sms_quick46 === Sim kártya foglalat használható.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Ha engedélyezve van, ezek az üzenetek minden más előtt elküldésre kerülnek.
+and_sms_quick66 === A kapcsolt eszközök, válassza ki, hogy mit szeretne használni a küldéshez.
+and_sms_quick77 === SMS átjáró
+and_sms_quick77_1 === Harmadik féltől származó és partnerátjárók esetén a jóváírásokat akkor használjuk fel, amikor üzeneteket küld ezeken az átjárókon. Javasoljuk, hogy használat előtt ellenőrizze az átjáró árakat.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_sysup17 === Fájl frissítése
+and_sysup17_1 === Frissítse a zip fájlt, győződjön meg róla, hogy a megfelelő fájlt választotta ki.
+and_upplug17 === Fájl frissítése
+and_upplug17_1 === Frissítse a zip fájlt, győződjön meg róla, hogy a megfelelő fájlt választotta ki.
+and_uset17 === A profil avatar képe.
+and_uset24 === Az Ön teljes hivatalos neve. Kérjük, vegye figyelembe, hogy hamis név használata esetén fiókja felfüggeszthető.
+and_uset26 === például. Michael Shmuck
+and_uset31 === Érvényes e-mail címe, hagyja figyelmen kívül ezt a mezőt, ha meg szeretné tartani jelenlegi e-mail címét.
+and_uset33 === például. sajatmail@mail.com
+and_uset38 === A tartózkodási hely időzónája, módosítsa ezt, ha egy másik országban tartózkodik. Az időzóna az elküldött üzenetek és egyéb adatok dátum- és időpontosságára szolgál.
+and_uset49 === Ország
+and_uset49_1 === Az Ön országa, ezt a rendszer a kifizetésekhez és a telefonszámok formázásához használja.
+and_uset60 === Értesítési hangok
+and_uset60_1 === Ha le van tiltva, az értesítések némák lesznek.
+and_uset70 === Ha meg szeretné tartani jelenlegi jelszavát, kérjük, hagyja figyelmen kívül ezt a mezőt, ellenkező esetben írja be az új jelszavát.
+and_usub23 === Ig érvényes
+and_usub28 === SMS küldés
+and_usub34 === SMS fogadás
+and_usub40 === WhatsApp küldés
+and_usub46 === WhatsApp fogadás
+and_usub57 === USSD
+and_usub63 === Értesítések
+and_usub69 === Ütemezett SMS/csevegés
+and_usub98 === Akciók
+and_usub104 === Android-eszközök
+and_usub110 === WhatsApp fiókok
+and_view20 === Teljes nézet
+and_whatsbulk_18 === Több E.164 szám sortöréssel elválasztva.
+and_whatsbulk_31 === Válasszon ki több névjegycsoportot. Kérjük, vegye figyelembe, hogy ha egy névjegyhez több csoport tartozik, akkor előfordulhat, hogy az üzenet többször is elküldésre kerül, ha kiválasztja azokat a csoportokat, amelyekben szerepel.
+and_whatsbulk_43 === Rövidítő
+and_whatsbulk_43_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_whatsbulk_46 === Ne rövidítse le a hivatkozásokat
+and_whatsbulk_55 === fiók
+and_whatsbulk_55_1 === Válassza ki a használni kívánt WhatsApp-fiókot.
+and_whatsbulk_64 === Az előre elkészített üzenetsablonok.
+and_whatsbulk_79 === Fordítsa le az üzenetet.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_whatsbulk_96 === Az üzenetekben használható változók halmaza.
+and_whatex17 === Az importálni kívánt Excel fájlt, kérjük, kövesse a szükséges formátumot.
+and_whatex20 === Mintafájl:
+and_whatex20_1 === Letöltés
+and_whatex27 === Rövidítő
+and_whatex27_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_whatex30 === Ne rövidítse le a hivatkozásokat
+and_whatex39 === fiók
+and_whatex39_1 === Válassza ki a használni kívánt WhatsApp-fiókot.
+and_whatex48 === Az előre elkészített üzenetsablonok.
+and_whatex63 === Fordítsa le az üzenetet.
+and_whatex68 === Spintax
+and_whatex68_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_whatex80 === Az üzenetekben használható változók halmaza.
+and_whatquick_17 === E.164 címzett telefonszáma.
+and_whatquick_24 === Rövidítő
+and_whatquick_24_1 === Ha engedélyezve van, az üzenetekben lévő hivatkozások automatikusan lerövidülnek a kiválasztott rövidítővel.
+and_whatquick_27 === Ne rövidítse le a hivatkozásokat
+and_whatquick_36 === fiók
+and_whatquick_36_1 === Válassza ki a használni kívánt WhatsApp-fiókot.
+and_whatquick_50 === Fordítsa le az üzenetet.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Egy funkció, amely lehetővé teszi a szavak véletlenszerű sorrendbe állítását az üzenetekben, amely hatékonyan megakadályozza a spam észlelését.
+and_admin_api_3 === Adminisztrációs API
+and_admin_fileman_3 === Sablonszerkesztő
+and_admin_gate_3 === SMS átjárók
+and_admin_gate_8 === Adja hozzá az átjárót
+and_admin_lang_6 === Nyelvek átrendezése
+and_admin_mark_3 === Marketing
+and_admin_mark_6 === A kijelölt elemek törlése
+and_admin_mark_12 === Nyom
+and_admin_mark_17 === Értesítés
+and_admin_mark_22 === Postázó
+and_admin_payout_3 === Kifizetési kérelmek
+and_admin_short_3 === Rövidítők
+and_admin_short_8 === Adjon hozzá Rövidítőt
+and_admin_subs_8 === Előfizetés hozzáadása
+and_admin_vouch_6 === A kijelölt elemek törlése
+and_droid_dev_3 === Android-eszközök
+and_droid_dev_6 === Olvassa el a dokumentációt
+and_droid_dev_8 === Dokumentumok
+and_droid_dev_11 === Jelentkezzen partnerátjáró-szolgáltatónak
+and_droid_dev_13 === Partnerség
+and_droid_dev_16 === Regisztráljon egy új Android-eszközt
+and_droid_not_3 === Értesítések
+and_droid_not_6 === A kijelölt elemek törlése
+and_droid_rev_3 === Fogadott SMS
+and_droid_rev_6 === A kiválasztott üzenetek törlése
+and_droid_sched_6 === A kijelölt elemek törlése
+and_droid_sent_3 === SMS küldve
+and_droid_sent_6 === A kijelölt elemek törlése
+and_droid_sent_10 === Törölje az összes függőben lévő üzenetet
+and_droid_sent_14 === Gyors SMS küldése
+and_droid_sent_16 === Gyors
+and_droid_sent_19 === Tömeges SMS küldése
+and_droid_sent_21 === Tömeges
+and_droid_sent_24 === Tömeges SMS küldése Excelen keresztül
+and_droid_ussd_3 === USSD kérések
+and_droid_ussd_6 === A kijelölt elemek törlése
+and_droid_ussd_10 === Törölje az összes függőben lévő kérést
+and_droid_ussd_14 === Új USSD-kérés
+and_droid_ussd_16 === Kérés
+and_con_grp_6 === A kijelölt elemek törlése
+and_con_grp_10 === Új névjegycsoport hozzáadása
+and_con_sav_6 === A kijelölt elemek törlése
+and_con_sav_10 === Új névjegy hozzáadása
+and_con_sav_15 === Névjegyek importálása Excel fájlból
+and_con_unsub_3 === Leiratkozott
+and_con_unsub_6 === A kijelölt elemek törlése
+and_doc_act_3 === Akciók
+and_doc_api_3 === API dokumentáció
+and_doc_dev_3 === Eszközök
+and_doc_partner_3 === Partnerség
+and_doc_webhook_3 === Webhookok
+and_rate_gate_3 === Árak
+and_rate_gate_10 === Ország
+and_rate_gate_11 === Üzenetenkénti arány
+and_rate_gate_22 === Más országok
+and_rate_partner_3 === Partner árak
+and_tool_act_3 === Akciók
+and_tool_act_6 === Olvassa el a dokumentációt
+and_tool_act_8 === Dokumentumok
+and_tool_act_11 === Új horog művelet hozzáadása
+and_tool_act_13 === Horog
+and_tool_act_16 === Új automatikus válaszművelet hozzáadása
+and_tool_act_18 === Autómatikus válasz
+and_tool_key_6 === Olvassa el a dokumentációt
+and_tool_key_8 === Dokumentumok
+and_tool_key_11 === Hozzon létre egy új API-kulcsot
+and_tool_webhook_6 === Olvassa el a dokumentációt
+and_tool_webhook_8 === Dokumentumok
+and_what_accnt_6 === Csatlakoztasson egy új fiókot
+and_what_accnt_8 === Fiók hozzáadása
+and_what_attach_8 === A kiválasztott üzenetek törlése
+and_what_rev_3 === Fogadott csevegések
+and_what_rev_6 === A kijelölt elemek törlése
+and_what_sched_6 === A kijelölt elemek törlése
+and_what_sched_12 === Ütemezze be a csevegést
+and_what_sent_3 === Elküldött csevegéseket
+and_what_sent_6 === A kijelölt elemek törlése
+and_what_sent_10 === Gyors chat küldése
+and_what_sent_12 === Gyors
+and_what_sent_15 === Tömeges csevegés küldése
+and_what_sent_17 === Tömeges
+and_what_sent_20 === Tömeges csevegéseket küldhet Excelen keresztül
+and_def_f_blck_6 === Kezdje el a marketinget
+and_def_f_blck_7 === Indítsuk be és bővítsük együtt az üzletet, regisztráljon most, és tapasztalja meg a kiváló minőségű marketing platformot!
+and_def_f_blck_8 === Csatlakozz hozzánk
+and_def_f_blck_35 === Felveszi a kapcsolatot
+and_head_blck_21 === itthon
+and_head_blck_24 === Jellemzők
+and_head_blck_27 === Árazás
+and_head_blck_30 === Ügyfelek
+and_head_blck_39 === Irányítópult
+and_head_blck_42 === Kijelentkezés
+and_pages_default_8 === SMS és WhatsApp marketing a legjobban
+and_pages_default_29 === SMS üzenetküldés
+and_pages_default_31 === Használja Android-eszközeit SMS-átjáróként, ez gyakorlatilag olcsóbb, mint a harmadik féltől származó átjárók használata.
+and_pages_default_40 === WhatsApp üzenetküldés
+and_pages_default_42 === Használja a WhatsApp-ot marketingkampányaihoz, platformunk biztosítja az eszközöket az induláshoz.
+and_pages_default_51 === Intuitív eszközök
+and_pages_default_53 === Mi biztosítjuk azokat az eszközöket, amelyek segíthetnek Önnek olyan marketingfeladatokban, mint az automatikus válasz, a webhook és egyebek.
+and_pages_default_62 === Pénzt keresni
+and_pages_default_64 === Legyen az egyik partnerünk, és használja Android-eszközeit átjáróként, és keressen pénzt minden elküldött üzenetért.
+and_pages_default_73 === Miért használja szolgáltatásunkat?
+and_pages_default_74 === Íme néhány ok, amiért érdemes elkezdenie használni szolgáltatásunkat
+and_pages_default_84 === Gyors és tömeges küldés
+and_pages_default_86 === Könnyedén küldhet rengeteg üzenetet különböző kapcsolati csoportoknak, és gyors üzeneteket is küldhet a gyors tranzakciókhoz. Platformunk élő irányítópultot is tartalmaz, értesítést kaphat az üzenetek elküldéséről vagy fogadásáról!
+and_pages_default_89 === Rövid kódok
+and_pages_default_89_1 === az üzenetek előre meghatározott adatokkal történő összeállításához.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === a szavak véletlenszerű összeállításához a spam-problémák leküzdésére.
+and_pages_default_91 === Fordító
+and_pages_default_91_1 === a célközönség nyelvük alapján történő megcélzásához.
+and_pages_default_98 === Automatizált és intelligens eszközök
+and_pages_default_100 === Irányítsa vállalkozását, miközben mi gondoskodunk a piszkos munkáról, platformunk intelligens, és csak az Ön által elküldeni kívánt üzenetekre van szüksége, a többit mi intézzük!
+and_pages_default_103 === Menetrend
+and_pages_default_103_1 === SMS- és WhatsApp-csevegéseidet a kívánt időpontban.
+and_pages_default_104 === Webhookok
+and_pages_default_104_1 === bizonyos feladatok automatizálására, amikor SMS-ből és WhatsApp-ból is kap üzeneteket.
+and_pages_default_105 === Akciók
+and_pages_default_105_1 === automatikus válasz létrehozásához és események gyors adatellenőrzéséhez.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === hálózattal kapcsolatos kérések elvégzésére, például az egyenleg ellenőrzésére a szolgáltatótól.
+and_pages_default_107 === Értesítések
+and_pages_default_107_1 === a csatlakoztatott Android készülékekről automatizált feladatokra is használható.
+and_pages_default_137 === Stratégiai jellemzőinkkel garantáljuk üzleti sikerét
+and_pages_default_139 === Platformunkat úgy alakítottuk ki, hogy megfeleljen az egyre növekvő marketingvállalkozások igényeinek. Biztosak akarunk lenni abban, hogy minden egyes cent, amit szolgáltatásunkra költött, jól megérdemelt, és 100%-os elégedettséget jelent!
+and_pages_default_145 === Könnyen használható és folyékony platform
+and_pages_default_148 === Megfizethető, de minőségi szolgáltatást nyújt
+and_pages_default_156 === Intuitív eszközök és műszerfal
+and_pages_default_159 === Gyors és késedelemmentes élmény, miközben forgalmazza termékeit
+and_pages_default_171 === Szolgáltatási díjszabás
+and_pages_default_187 === SMS küldés
+and_pages_default_194 === SMS fogadás
+and_pages_default_201 === WhatsApp küldés
+and_pages_default_208 === WhatsApp fogadás
+and_pages_default_215 === USSD
+and_pages_default_222 === Értesítések
+and_pages_default_229 === Ütemezett SMS/csevegés
+and_pages_default_236 === Kapcsolatok
+and_pages_default_243 === API kulcsok
+and_pages_default_250 === Webhookok
+and_pages_default_257 === Akciók
+and_pages_default_264 === Android-eszközök
+and_pages_default_271 === WhatsApp fiókok
+and_pages_default_287 === A vásárlóink
+and_pages_default_290 === Több mint 3000 ügyfél bízik meg benne. Kezdje el termékeinek marketingjét és fejlessze velünk vállalkozását!
+landing_title_default === Android mobileszközök SMS-átjáróként
+landing_nav_login === Bejelentkezés
+landing_lead_desc === Használja hálózati szolgáltatója korlátlan sms-csomagját, olcsó és költséghatékony megoldást marketinghez, tömeges sms-ekhez és projektekhez országában. Használja a WhatsApp-ot a még nagyobb közönség eléréséhez, platformunk a teljes eszközöket biztosítja az induláshoz.
+landing_footer_ourcomp === Out Company
+landing_footer_about === Ról ről
+landing_footer_tos === Szolgáltatási feltételek
+landing_footer_privacy === Adatvédelmi irányelvek
+landing_footer_links === Webhely linkek
+landing_footer_login === Bejelentkezés
+landing_footer_register === Regisztrálj
+landing_footer_copyright === Minden jog fenntartva
+dashboard_title_default === Irányítópult
+dashboard_title_contacts === Kapcsolatok
+dashboard_title_tools === Eszközök
+dashboard_title_admin === Adminisztráció
+dashboard_nav_default === Irányítópult
+dashboard_nav_contacts === Kapcsolatok
+dashboard_nav_tools === Eszközök
+dashboard_nav_menusubscription === Feliratkozás
+dashboard_nav_menusettings === Beállítások
+dashboard_nav_menulogout === Kijelentkezés
+dashboard_btn_addcontact === Kapcsolat hozzáadása
+dashboard_btn_adddevice === Eszköz hozzáadása
+dashboard_btn_addgroup === Csoport hozzáadása lehetőségre
+dashboard_btn_addtemplate === Sablon hozzáadása
+dashboard_btn_addkey === Kulcs hozzáadása
+dashboard_btn_addhook === Webhook hozzáadása
+dashboard_btn_build === Épít
+dashboard_btn_buildsettings === Beállítások
+dashboard_btn_settings === Rendszer
+dashboard_btn_theme === Téma
+dashboard_btn_adduser === Felhasználó hozzáadása
+dashboard_btn_addpackage === Csomag hozzáadása lehetőségre
+dashboard_btn_addwidget === Widget hozzáadása
+dashboard_btn_addlanguage === Nyelv hozzáadása elemre
+dashboard_footer_about === Ról ről
+dashboard_footer_terms === Szolgáltatási feltételek
+dashboard_footer_privacy === Adatvédelmi irányelvek
+dashboard_footer_copyright === Minden jog fenntartva
+dashboard_messages_menusent === Küldött
+dashboard_messages_menureceived === Megkapta
+dashboard_messages_menutemplates === Sablonok
+dashboard_messages_tabreceivedtitle === Fogadott üzenetek
+dashboard_messages_tabtemplatestitle === Sablonok
+dashboard_messages_tablesentrecipient === Befogadó
+dashboard_messages_tablesentmessage === Üzenet
+dashboard_messages_tablesentcreated === Létrehozva
+dashboard_messages_tablesentoptions === Lehetőségek
+dashboard_messages_tablereceivedsender === Feladó
+dashboard_messages_tablereceivedmessage === Üzenet
+dashboard_messages_tablereceivedreceived === Megkapta
+dashboard_messages_tablereceivedoptions === Lehetőségek
+dashboard_messages_tabletemplatesname === Sablonnév
+dashboard_messages_tabletemplatesformat === Sablon formátum
+dashboard_messages_tabletemplatesoptions === Lehetőségek
+dashboard_contacts_title === Kapcsolatok
+dashboard_contacts_menusaved === Mentett
+dashboard_contacts_menugroups === Csoportok
+dashboard_contacts_tabsavedtitle === Mentett névjegyek
+dashboard_contacts_tabgroupstitle === Kapcsolatfelvételi csoportok
+dashboard_contacts_tablesavedname === Kapcsolattartó neve
+dashboard_contacts_tablesavednumber === Elérhetőség
+dashboard_contacts_tablesavedoptions === Lehetőségek
+dashboard_contacts_tablegroupsname === Csoport név
+dashboard_contacts_tablegroupsoptions === Lehetőségek
+dashboard_devices_tableregisteredbrand === Gyártó
+dashboard_devices_tableregisteredversion === Változat
+dashboard_devices_tableregisteredadded === Bejegyzett
+dashboard_devices_tableregisteredoptions === Lehetőségek
+dashboard_tools_title === Eszközök
+dashboard_tools_menukeys === API kulcsok
+dashboard_tools_menuhooks === Webhookok
+dashboard_tools_tabkeystitle === API kulcsok
+dashboard_tools_tabhookstitle === Webhookok
+dashboard_tools_tablekeysname === Név
+dashboard_tools_tablekeyspermissions === Engedélyek
+dashboard_tools_tablekeysoptions === Lehetőségek
+dashboard_tools_tablehooksname === Név
+dashboard_tools_tablehooksurl === Webhook URL
+dashboard_tools_tablehooksoptions === Lehetőségek
+dashboard_admin_title === Adminisztrátor
+dashboard_admin_menustats === Statisztika
+dashboard_admin_menuusers === Felhasználók
+dashboard_admin_menupackages === Csomagok
+dashboard_admin_menusubscriptions === Előfizetések
+dashboard_admin_menutransactions === Tranzakciók
+dashboard_admin_menuwidgets === Widgetek
+dashboard_admin_menulanguages === Nyelvek
+dashboard_admin_tabdefaultearningstitle === Kereset
+dashboard_admin_tabdefaultmessageslast === Az elmúlt 30 nap
+dashboard_admin_tabuserstitle === Felhasználók
+dashboard_admin_tabpackagestitle === Csomagok
+dashboard_admin_tabsubscriptionstitle === Előfizetések
+dashboard_admin_tabtransactionstitle === Tranzakciók
+dashboard_admin_tabwidgetstitle === Widgetek
+dashboard_admin_tablanguagestitle === Nyelvek
+dashboard_admin_tableusersname === Név
+dashboard_admin_tableusersemail === Email
+dashboard_admin_tableusersoptions === Lehetőségek
+dashboard_admin_tablepackagesname === Név
+dashboard_admin_tablepackagesprice === Ár
+dashboard_admin_tablepackagesoptions === Lehetőségek
+dashboard_admin_tablesubscriptionsuser === Felhasználó
+dashboard_admin_tablesubscriptionspackage === Csomag
+dashboard_admin_tablesubscriptionsprice === Ár
+dashboard_admin_tablesubscriptionsexpire === Lejárati dátum
+dashboard_admin_tablesubscriptionsoptions === Lehetőségek
+dashboard_admin_tabletransactionscustomer === Vevő
+dashboard_admin_tabletransactionsprovider === Szolgáltató
+dashboard_admin_tablewidgetsname === Widget neve
+dashboard_admin_tablewidgetstype === típus
+dashboard_admin_tablewidgetssize === Méret
+dashboard_admin_tablewidgetsposition === Pozíció
+dashboard_admin_tablewidgetsoptions === Lehetőségek
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Nyelv neve
+dashboard_admin_tablelanguagescreated === Létrehozva
+dashboard_admin_tablelanguagesoptions === Lehetőségek
+table_search_text === Keresés
+table_search_placeholder === Írja be ide a kulcsszavakat...
+response_invalid === Érvénytelen kérelem!
+response_went_wrong === Valami elromlott!
+response_session_false === A munkamenet nem létezik!
+response_session_true === A munkamenet már létezik!
+response_invalid_emailpass === Érvénytelen email/jelszó!
+response_loggedin_success === Sikeres bejelentkezés!
+response_loggedout_success === Sikeresen kijelentkezett!
+response_invalid_email === Érvénytelen e-mail cím!
+response_retrieval_received === Kaptunk egy fiók-visszaállítási kérelmet, hagyja figyelmen kívül, ha nem Ön kérte.
+response_solve_captcha === Kérjük, oldja meg az anti-bot kihívást!
+response_register_false === A regisztráció le van tiltva!
+response_name_short === A név túl rövid!
+response_password_short === A jelszónak 5 karakternél hosszabbnak kell lennie!
+response_password_notmatch === A jelszavak nem egyeznek!
+response_register_success === Sikeres regisztráció!
+response_email_unavailable === Az e-mail cím már regisztrálva volt!
+response_upload_applogo === Kérjük, töltse fel az alkalmazás logóját!
+response_upload_appsplash === Kérjük, töltse fel app splash-jét!
+response_pcode_empty === Kérjük, adja meg a vásárlási kódot a rendszerbeállításokban!
+response_buildserver_false === Nem lehet csatlakozni a szerverépítéshez!
+response_invalid_number === Érvénytelen telefonszám!
+response_message_short === Az üzenet túl rövid!
+response_message_queued === Az üzenet felkerült a sorba!
+response_message_bulkqueued === A tömeges üzenetek sorba kerültek küldésre!
+response_format_short === A formátum túl rövid!
+response_template_added === Sablon hozzáadva!
+response_number_exist === A telefonszám már létezik!
+response_contact_added === Kapcsolatfelvétel hozzáadva!
+response_group_added === Kapcsolattartó csoport hozzáadva!
+response_permission_min === Kérjük, válasszon legalább 1 engedélyt!
+response_key_added === API kulcs hozzáadva!
+response_invalid_webhookurl === Érvénytelen Webhook URL!
+response_webhook_added === Webhook ahs hozzáadva!
+response_user_added === Felhasználó hozzáadva!
+response_package_added === A csomag hozzáadva!
+response_widget_added === Widget hozzáadva!
+response_language_added === Nyelv hozzáadva!
+response_avatar_invalid === Az avatar nem tölthető fel!
+response_profile_updated === A profil frissült!
+response_package_purchasedtitle === Prémium csomagra előfizettél, itt a nyugta!
+response_package_purchased === Sikeresen előfizetett a csomagra!
+response_template_updated === A sablon frissült!
+response_contact_updated === Az elérhetőség frissítve!
+response_group_updated === A kapcsolattartó csoport frissült!
+response_key_updated === Az API kulcs frissítve!
+response_webhook_updated === A Webhook frissítése megtörtént!
+response_user_updated === A felhasználó frissítve!
+response_package_updated === A csomag frissült!
+response_widget_updated === A widget frissítve!
+response_language_updated === A nyelv frissítve lett!
+response_builder_packagenameshort === A csomag neve túl rövid!
+response_builder_appnameshort === Az alkalmazás neve túl rövid!
+response_builder_applogofail === Az alkalmazás logója nem tölthető fel!
+response_builder_appsplashfail === App splash nem tölthető fel!
+response_builder_settingsupdated === A Builder beállításai frissítve!
+response_theme_updated === A téma beállításai frissítve!
+response_system_settingsupdated === Rendszerbeállítások frissítve!
+response_deleted_sent === Az elküldött üzenet törölve lett!
+response_deleted_received === A beérkezett üzenet törölve lett!
+response_deleted_template === A sablon törölve!
+response_deleted_contact === A névjegy törölve!
+response_deleted_group === Kapcsolattartó csoport törölve!
+response_deleted_device === Az eszközt törölték!
+response_deleted_key === Az API-kulcs törölve!
+response_deleted_hook === A Webhook törölve!
+response_deleted_defaultuserfalse === Az alapértelmezett felhasználó nem törölhető!
+response_deleted_user === Felhasználó törölve!
+response_deleted_defaultpackagefalse === Az alapértelmezett csomag nem törölhető!
+response_deleted_package === A csomag törölve lett!
+response_deleted_subscription === Az előfizetések törölve!
+response_deleted_widget === A widget törölve lett!
+response_deleted_defaultlangfalse === Az alapértelmezett nyelv nem törölhető!
+response_deleted_language === A nyelv törölve lett!
+response_lang_changed === A nyelv megváltozott!
+modal_usersettings_title === Beállítások
+modal_subscription_title === Feliratkozás
+modal_packages_title === Csomagok
+modal_smsquick_title === Gyors SMS
+modal_smsbulk_title === Tömeges SMS
+modal_addtemplate_title === Sablon hozzáadása
+modal_edittemplate_title === Sablon szerkesztése
+modal_addcontact_title === Kapcsolat hozzáadása
+modal_editcontact_title === Kapcsolat szerkesztése
+modal_addgroup_title === Csoport hozzáadása lehetőségre
+modal_editgroup_title === Csoport szerkesztése
+modal_adddevice_title === Eszköz hozzáadása
+modal_addkey_title === API-kulcs hozzáadása
+modal_editkey_title === Szerkessze az API-kulcsot
+modal_edithook_title === Webhook szerkesztése
+modal_buildersettings_title === Builder beállításai
+modal_themesettings_title === Téma beállítások
+modal_systemsettings_title === Rendszerbeállítások
+modal_adduser_title === Felhasználó hozzáadása
+modal_edituser_title === Felhasználó szerkesztése
+modal_addpackage_title === Csomag hozzáadása lehetőségre
+modal_editpackage_title === Csomag szerkesztése
+modal_addwidget_title === Widget hozzáadása
+modal_editwidget_title === Widget szerkesztése
+modal_addlanguage_title === Nyelv hozzáadása
+modal_editlanguage_title === Nyelv szerkesztése
+require_email === Email cím
+require_password === Jelszó
+require_name === Teljes név
+require_cpassword === Jelszó megerősítése
+require_phone === Telefonszám
+require_device === Eszköz
+require_message === Üzenet
+require_groups === Kapcsolatfelvételi csoportok
+require_sim === Sim slot
+require_priority === Elsőbbségi lehetőség
+require_api === API opció
+require_templatename === Sablonnév
+require_templateformat === Sablon formátum
+require_contactname === Kapcsolattartó neve
+require_group === Kapcsolattartó csoport
+require_groupname === Csoport név
+require_apiname === API kulcs neve
+require_permissions === Engedélyek
+require_hookname === Webhook neve
+require_hookurl === Webhook url
+require_appname === App név
+require_appcolor === Alkalmazás színe
+require_packagename === Csomag név
+require_widgetname === Widget neve
+require_widgetsize === Widget mérete
+require_widgetposition === Widget pozíció
+require_widgettype === Widget típusa
+require_languagename === Nyelv neve
+require_languageiso === Nyelv iso
+require_languagestr === Nyelvi fordítások
+btn_submit === Beküldés
+btn_download === Letöltés
+btn_done === Kész
+btn_purchase === Vásárlás
+btn_free === Ingyenes
+btn_send === Küld
+btn_save === Megment
+btn_packages === Csomagok
+btn_retrieve === Visszahoz
+btn_signin === Bejelentkezés
+btn_signup === Regisztrálj
+form_name === Név
+form_number === Telefonszám
+form_group === Kapcsolatfelvételi csoport
+form_adddevice_one === Új Android-eszköz hozzáadása a fiókjához nagyon egyszerű, gondoskodtunk arról, hogy anélkül tudjon folytatni, hogy értékes idejét vesztegeti. Kövesse ezeket a lépéseket.
+form_adddevice_two === 1. Letöltés és telepítés
+form_adddevice_three === Először töltse le és telepítse az átjáró alkalmazásunkat erre a gombra kattintva.
+form_adddevice_four === 2. Regisztrálja az eszközt
+form_adddevice_five === Most nyissa meg az átjáró alkalmazást, kattintson a beolvasás gombra, majd olvassa be ezt a qrcode-ot.
+form_adddevice_six === 3. Kész!
+form_adddevice_seven === Az eszközt hozzáadtuk a fiókjához, most már megkezdheti az üzenetek küldését!
+form_permissions === Engedélyek
+form_countrycode === Ország kód
+form_translations === Fordítási karakterláncok
+form_translations_placeholder === Írja be a fordításokat ide...
+form_packageprice === Ár
+form_packagesend === Limit küldése
+form_packagereceive === Fogadási korlát
+form_packagedevice === Eszközkorlát
+form_packagekey === Kulcskorlát
+form_packagehook === Webhook Limit
+form_templatename_placeholder === Közlemény
+form_templateformat === Formátum
+form_templateformat_placeholder === Ide írja be a sablon formátumát...
+form_shortcodes === Rövid kódok
+form_emailaddress === Email cím
+form_password === Jelszó
+form_password_leave === Hagyja üresen a jelenlegi jelszó megtartásához
+form_language === Nyelv
+form_webhookname_placeholder === Válasz Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Szolgáltatási feltételek
+form_widgeticon === Ikon
+form_widgettype === típus
+form_widgetsize === Méret
+form_widgetsmall === Kicsi
+form_widgetmedium === Közepes
+form_widgetlarge === Nagy
+form_widgetxlarge === Extra nagy
+form_widgetposition === Pozíció
+form_widgetcenter === Központ
+form_widgetleft === Bal
+form_widgetright === Jobb
+form_widgetcontent === Tartalom
+form_builderpackagename === Csomag név
+form_builderappname === App név
+form_builderappdesc === Alkalmazás leírása
+form_builderappdesc_placeholder === Ez egy fantasztikus alkalmazás
+form_builderapplogo === Az alkalmazás logója
+form_builderappsplash === Alkalmazás indítóképernyője
+form_uploaded === Feltöltve
+form_notuploaded === Egyik sem
+form_themebg === Háttérszín
+form_themetext === Jelölje ki a Színt
+form_settingsite === Webhely
+form_settingssitename === Webhely neve
+form_settingssitedesc === Oldal Leírás
+form_settingspcode === Vásárlási kód
+form_settingsprotocol === Jegyzőkönyv
+form_settingsdeflang === Alapértelmezett nyelv
+form_settingsreg === Regisztrációk
+form_settingsmailing === Levelezés
+form_settingsmailfunc === Levelezési funkció
+form_settingssitemail === Webhely e-mail
+form_settingssmtphost === SMTP gazdagép
+form_settingssmtpport === SMTP port
+form_settingssmtpusername === SMTP felhasználónév
+form_settingssmtppassword === SMTP jelszó
+form_settingssmtp_small === Távoli SMTP-hez szükséges
+form_settingspayments === Kifizetések
+form_settingspaypaltest === Paypal teszt mód
+form_settingssecurity === Biztonság
+form_settingsrecaptchakey === Recaptcha webhelykulcs
+form_settingsrecaptchasecret === Recaptcha titkos kulcs
+form_enable === Engedélyezze
+form_disable === Letiltás
+form_native === Anyanyelvi
+form_remotesmtp === Távoli SMTP
+form_device === Mobil eszköz
+form_sim === Sim Slot
+form_priority === Kiemelten fontos
+form_yes === Igen
+form_no === Nem
+form_freefor === Ingyenes Forever
+form_monthly === Havi
+form_groups === Kapcsolatfelvételi csoportok
+form_template === Sablon
+form_none === Egyik sem
+form_message === Üzenet
+form_message_placeholder === Írja be üzenetét ide...
+form_avatar === Avatar
+form_changepass === Jelszó módosítása
+form_package === Csomag
+form_keys === API kulcsok
+form_hooks === Webhookok
+form_daily === napi
+form_forgotpass === Elfelejtett jelszó
+form_fullname === Teljes név
+form_cpassword === Jelszó megerősítése
+form_haveaccount === Van fiókom
+datatable_processing === Feldolgozás, kérem várjon...
+datatable_length === _MENU_ bejegyzés látható
+datatable_info === _TOTAL_ bejegyzésből _START_-_END_
+datatable_empty === 0 bejegyzésből 0-tól 0-ig
+datatable_filtered === (_MAX_ összesen bejegyzésből szűrve)
+datatable_loading === Betöltés; kérem várjon...
+datatable_zero === Nem találunk semmit, ami megfelelne a lekérdezésének!
+datatable_null === Nincsenek megjeleníthető adatok!
+datatable_first === Első
+datatable_prev === Előző
+datatable_next === Következő
+datatable_last === Utolsó
+delete_title === Töröl?
+delete_tagline === Ez a művelet nem visszavonható!
+validate_cannotemp === nem lehet üres!
+alert_attention === Figyelem
+copy_data === Az adatok a vágólapra másolva!
+date_today === Ma
+date_yesterday === Tegnap
+date_7days === Utolsó 7 nap
+date_30days === Az elmúlt 30 nap
+date_month === Ebben a hónapban
+date_lmonth === Múlt hónap
+date_custom === Egyedi tartomány
+unknown_action_method === Ismeretlen cselekvési mód!
+mollie_redirecting_page === Átirányítás a mollie fizetési oldalra...
+form_settingsmolliekey === Mollie API kulcs
+btn_confirm === megerősít
+btn_cancel === Megszünteti
+recaptcha_add_keys === Kérjük, adja hozzá a recaptcha kulcsait a funkció engedélyezéséhez!
+pay_with_paypal === Fizess Paypallal
+pay_with_mollie === Fizessen Mollie-val
+form_settingsenabledproviders === Engedélyezett szolgáltatók
+form_builderappicon === Alkalmazásikon
+payment_transact_failed === A fizetési tranzakció sikertelen!
+cookieconsent_message === Sütiket (cookie-kat) használunk, hogy a lehető legjobb élményt nyújthassuk weboldalunkon.
+cookieconsent_link === Tudj meg többet
+role_added === Szerep hozzáadva!
+role_updated === A szerepkör frissítve!
+role_deleted === A szerepkör törölve!
+role_default_update === Az alapértelmezett szerepkör nem szerkeszthető!
+role_default_delete === Az alapértelmezett szerepkör nem törölhető!
+voucher_added === Az utalvány hozzáadva!
+form_voucher === Kupon kód
+btn_redeem === Beváltani
+invalid_voucher_code === Érvénytelen kuponkód!
+voucher_deleted === Az utalvány törölve!
+form_title_addvoucher === Utalvány hozzáadása
+form_title_addsubscription === Előfizetés hozzáadása
+form_adduser_role === Szerep
+require_pagename === Oldal neve
+require_pageroles === Engedélyezett szerepek
+form_pageroles === Engedélyezett szerepek
+require_vouchercode === Kupon kód
+form_settingscurrency === Valuta
+btn_bulkexcel === Excel
+response_leastprovider === Kérjük, válasszon legalább 1 fizetési szolgáltatót!
+user_subscriptioncontacts === Kapcsolatok
+response_suspended === Fiókját az adminisztrátor felfüggesztette!
+response_adminsuspend === Az alapértelmezett fiók nem függeszthető fel!
+response_successsuspend === A felhasználót felfüggesztettük!
+response_successunsuspend === A felhasználó felfüggesztése megtörtént!
+suspend_user_title === Felfüggeszti a felhasználót?
+suspend_user_desc === Ez a felhasználó nem tud majd bejelentkezni és használni a szolgáltatásokat
+unsuspend_user_title === Feloldja a felhasználó felfüggesztését?
+unsuspend_user_desc === Ez a felhasználó újra bejelentkezhet és használhatja a szolgáltatásokat
+all_languages === Összes nyelv
+response_invalid_excel === Érvénytelen excel fájl!
+response_contacts_imported === A névjegyek importálva!
+table_role_name === Szerep neve
+table_role_permissions === Engedélyek
+table_voucher_name === Név
+table_voucher_package === Csomag
+table_page_name === Oldal neve
+table_page_require === Bejelentkezés szükséges
+table_page_roles === Engedélyezett szerepek
+import_btn === Importálás
+form_excelfile === Excel fájl
+form_hook_addtitle === Hook-művelet hozzáadása
+form_hook_edittitle === Szerkessze a horogműveletet
+form_hook_event === Esemény
+form_hook_link === Link szerkezete
+form_autoreply_addtitle === Válaszművelet hozzáadása
+form_autoreply_edittitle === Válaszművelet szerkesztése
+form_autoreply_keywords === Kulcsszavak
+form_autoreply_message === Válasz üzenet
+require_action_name === Művelet neve
+require_action_event === Esemény típus
+require_action_link === Link szerkezet
+require_action_keywords === Kulcsszavak
+require_action_message === Válasz üzenet
+response_invalid_linkstructure === Érvénytelen linkstruktúra!
+response_hook_added === SMS hook akció hozzáadva!
+response_invalid_keywords === Legalább 1 kulcsszót kell megadnod!
+response_autoreply_added === SMS-válasz művelet hozzáadva!
+response_hook_updated === SMS hook akció frissítve!
+response_autoreply_updated === Az SMS-válasz művelet frissítve!
+response_action_deleted === SMS-művelet törölve!
+table_action_name === Név
+form_scheduled_title === Ütemezzen SMS-t
+response_scheduled_deleted === Az ütemezett üzenet törölve!
+response_no_permission === Nincs engedélye ehhez a művelethez!
+response_builder_appiconfail === Az alkalmazás ikonja nem tölthető fel!
+form_require_login === Bejelentkezés szükséges
+widget_addpage_title === Oldal hozzáadása
+widget_editpage_title === Oldal szerkesztése
+require_subscription_user === Felhasználó
+require_voucher_name === Az utalvány neve
+require_voucher_package === Csomag
+widget_alllang_title === Összes nyelv
+widget_smsexcel_title === Tömeges SMS-ek Excelben
+require_scheduled_name === Név
+require_scheduled_date === Ütemezési dátum
+widget_importcontacts_title === Névjegyek importálása
+require_addrole_name === Szerepnév
+require_addrole_permissions === Engedélyek
+widget_editrole_title === Szerep szerkesztése
+response_page_added === Az oldal hozzáadva!
+response_page_updated === Az oldal frissült!
+response_page_deleted === Az oldal törölve lett!
+table_scheduled_name === Név
+messages_scheduled_title === Ütemezett
+messages_scheduled_schedule === Ütemezzen SMS-t
+form_schedule_numbers === Mobilszámok
+form_schedule_schedule === Menetrend
+form_schedule_repeat === Ismétlés
+form_bulksms_numbers === Mobilszámok
+dashboard_tools_menuactions === Akciók
+dashboard_admin_menuroles === Szerepek
+dashboard_admin_menuvouchers === Utalványok
+dashboard_admin_menupages === Oldalak
+admin_gateway_title === Átjáró
+admin_gateway_status === Állapot
+admin_gateway_notuploaded === Nincs feltöltve
+admin_gateway_uploaded === Feltöltve
+dashboard_roles_title === Felhasználói szerepkörök
+dashboard_roles_addrole === Szerep hozzáadása
+dashboard_vouchers_title === Utalványok
+dashboard_vouchers_addrole === Utalvány hozzáadása
+form_voucher_package === Csomag
+dashboard_pages_title === Oldalak
+dashboard_pages_addpage === Oldal hozzáadása
+form_theme_favicon === Favicon
+form_package_contactslimit === Contacts Limit
+response_limitation_send === Elérted a mai napon engedélyezett küldések maximális számát!
+response_limitation_contact === Elérte a maximálisan engedélyezett névjegyek számát!
+response_limitation_key === Elérte a maximálisan engedélyezett API-kulcsokat!
+response_limitation_webhook === Elérte a maximálisan engedélyezett webhoook számát!
+form_adminsettings_token === System Token
+response_upload_appicon === Kérjük, töltse fel az alkalmazás ikonját!
+app_status_gateway_running === Az átjáró fut!
+app_device_registered === Összekapcsolva
+app_device_unregistered === Nincs linkelve
+app_terminal_gateway_ready === Az átjáró készen áll...
+app_terminal_gateway_register === Az eszköz még nincs összekapcsolva...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Az eszköz összekapcsolva...
+app_terminal_gateway_device === Az eszköz összekapcsolása nem sikerült...
+app_terminal_gateway_connecterror === Hiba a szerverhez való csatlakozáskor...
+app_terminal_gateway_started === Az átjáró elindult...
+app_terminal_gateway_stopped === Az átjárót leállították...
+app_terminal_gateway_unregistered === Az átjáró nem indítható, az eszköz még nincs összekapcsolva egyetlen fiókkal sem...
+app_terminal_feature_error === SMS funkció hiba
+app_terminal_sms_sent === Üzenet elküldve
+app_terminal_message_failed === Nem sikerült elküldeni az üzenetet
+app_dialog_wait === Kérlek várj...
+app_dialog_exit === Lépjen ki az átjáróból
+app_dialog_exit_desc === Leállítás és kilépés az átjáróból?
+app_camera_qrcode_inside === Helyezze be a QR-kódot
+app_ui_status === Állapot
+app_ui_exit === Kijárat
+require_voucher_count === Az utalványok száma nem lehet üres!
+form_voucher_count === Az utalványok száma
+cookieconsent_dismiss === Megvan!
+title_payment_success === Megrendelés visszaigazolása
+title_payment_cancel === Megrendelés törölve
+header_payment_success === Megrendelés visszaigazolása
+header_payment_cancel === Megrendelés törölve
+body_payment_cancel === Ön törölte rendelési kérelmét.
+transaction_payment_success === Tranzakció azonosítója:
+back_payment_page === Vissza az irányítópultra
+form_settingspaypalemail === Paypal üzleti e-mail
+form_settingsanalytics === Google Analytics kulcs
+form_messagecounterchars === karakterek
+form_settingspagination === Lapozási korlátok
+form_settingssentpage === Elküldött üzenetek oldalanként
+form_settingsreceivedpage === Fogadott üzenetek oldalanként
+form_settingsmessage === Üzenetbeállítások
+form_settingsmessagemin === Minimum karakterek
+form_settingsmessagemax === Maximum karakterek
+form_settingsmessagemark === Message Footermark
+form_packagefootermark === Message Footermark
+form_settingssmtpsecure === SMTP biztonság
+form_durationtitle === Időtartam
+form_durationpackage === Az Ön csomagja:
+form_durationpay === Fizetni fogsz:
+form_durationmonth === Hónap időtartam
+form_subscriptionmonth === Hónap időtartam
+authenticate_fblogin === Bejelentkezés facebookon...
+authenticate_googlelogin === Bejelentkezés google-val...
+authenticate_vklogin === Bejelentkezés a vkontakte segítségével...
+response_minplatforms === Kérjük, válasszon legalább 1 közösségi platformot!
+form_settingssocialtitle === Közösségi beállítások
+form_settingssocial === Közösségi hitelesítés
+form_settingssocialplatforms === Engedélyezett platformok
+form_usertimezone === Időzóna
+form_settingsloginrecaptcha === Bejelentkezés Recaptcha
+form_loginor === VAGY
+form_adddevicescandl === Letöltés QR Scan segítségével
+form_status_online === Online
+form_status_offline === Offline
+form_smsbulknonumbers === Kérjük, válasszon kapcsolati csoportot, vagy adja meg a címzettek számát!
+form_addsubscriptionuser === Felhasználó
+form_addsubscriptionpackage === Csomag
+table_vouchersduration === Hónap időtartam
+table_pluginsname === Beépülő modul neve
+table_pluginsoptions === Lehetőségek
+dashboard_admin_menuplugins === Beépülő modulok
+dashboard_admin_pluginstitle === Beépülő modulok
+dashboard_admin_pluginsadd === Plugin hozzáadása
+require_pluginfile === Plugin fájl
+modal_addplugin_title === Plugin hozzáadása
+response_pluginwentwrong === Hiba történt a bővítmény feltöltésekor!
+response_plugininstalled === A bővítmény telepítve van!
+dashboard_title_login === Belépés
+dashboard_title_forgot === Elfelejtett jelszó
+dashboard_title_register === Regisztráció
+response_limitation_contact2 === Elérte a névjegyek maximális számát az előfizetésében, csak _8880_ névjegy importálva lett!
+response_contacts_imported2 === A _8880_ névjegyek importálása sikeresen megtörtént!
+form_systemsettingshomepage === Alapértelmezett kezdőlap
+app_dialog_update_desc === Új kiadású verzió érhető el az átjáró alkalmazáshoz, frissítés szükséges!
+app_dialog_update_download === Letöltés
+app_gateway_build_text === Gateway Build
+response_gateway_available === Átjáró letöltése, kérjük, várjon...
+response_gateway_unavailable === Az átjáró nem elérhető, kérjük, forduljon az oldal adminisztrátorához!
+response_gateway_randommax === A maximális küldési intervallum nem lehet hosszabb 300 másodpercnél!
+response_device_updated === A készülék frissítve lett!
+form_editdevice_devicename === Eszköz neve
+form_editdevice_randomsend === Véletlenszerű küldési időköz
+form_editdevice_randommin === Küldési intervallum min
+form_editdevice_randommax === Küldési intervallum max
+form_smsall_globalstatus === Globális
+form_select_multinone === Egyik sem
+form_package_hiddenselect === Rejtett
+landing_footer_ourcompnew === Cégünk
+form_smsschedule_submit === Menetrend
+require_devicename === Eszköz neve
+require_randommin === Véletlenszerű minimális intervallum
+require_randommax === Véletlenszerű maximális intervallum
+admin_update_installed === Telepítve
+admin_update_btn === Frissítés
+response_update_success === A rendszer frissítve lett!
+form_settings_tawkchatlink === Tawk Közvetlen Chat Link
+model_title_editplugin === Beépülő modul szerkesztése
+btn_other_paymentmethods === Egyéb fizetési módok
+dashboard_btn_support === Támogatás
+pendingdelete_title === Törli függőben?
+pendingdelete_desc === Törli az összes függőben lévő üzenetet? Ez a művelet nem visszavonható!
+dashboard_messages_tablefullmessage === Teljes üzenet
+administration_landing_btncache === Gyorsítótár
+administration_landing_payouts === Kifizetések
+administration_landing_marketing === Marketing
+administration_landing_gateways === Átjárók
+administration_landing_shorteners === Rövidítők
+administration_landing_editor === Sablonszerkesztő
+administration_landing_api === Admin API
+administration_landing_build === Épít
+administration_landing_system === Rendszer
+requests_charts_smssent === SMS elküldve
+requests_charts_smsreceived === SMS érkezett
+requests_charts_wasent === WhatsApp elküldve
+requests_charts_wareceived === WhatsApp érkezett
+requests_charts_ussd === USSD
+requests_charts_notifications === Értesítések
+requests_charts_credits === Kredit
+administration_default_visitors === Látogatók
+administration_default_countries === Országok
+administration_default_browsers === Böngészők
+administration_default_os === Operációs rendszer
+administration_default_usages === Felhasználások
+administration_default_messages === üzenetek
+administration_default_utilities === segédprogramok
+administration_default_subscriptions === Előfizetések
+administration_default_credits === Kredit
+tables_users_registered === Bejegyzett
+tables_users_details === Részletek
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Átjáró árak
+dashboard_title_docs === Dokumentációk
+app_status_gateway_touch === Érintse meg ezt az átjáró megnyitásához
+app_dialog_downloading_update === Frissítés letöltése
+app_dialog_interface_disabled === Az interfész le van tiltva, kérjük, frissítse az alkalmazást a legújabb verzióra!
+app_dialog_somethingwent_wrong === Hoppá! Valami rosszul sült el!
+app_intro_level_1 === Köszönjük, hogy platformunkat használja, hogy maximalizálja az élményt és megismerje az alkalmazást, nézzük meg, és elmagyarázzuk az összes alapvető funkciót, amelyet tudnia kell.
+app_intro_level_2 === Itt láthatja az eszköz nevét és a link állapotát.
+app_intro_level_3 === Az eszköz fiókjához való kapcsolásához használja ezt a gombot a bejelentkezéshez, vagy szkennelje be QR-kódját az összekapcsoláshoz.
+app_intro_level_4 === Ezzel a kapcsolóval kapcsolhatja be vagy ki az átjárót.
+app_intro_level_5 === Ha engedélyezi ezt a kapcsolót, az átjáró alkalmazás figyelni fogja az új értesítéseket, amelyeket aztán programozottan lehet kezelni a platformon. Ez alapértelmezés szerint le van tiltva.
+app_intro_level_6 === Ezzel a gombbal leállíthatja és kiléphet az átjáró alkalmazásból.
+app_intro_level_7 === Ez a terminál, itt jelennek meg az üzenettranzakciók és egyéb tevékenységnaplók.
+app_intro_level_8 === Ez a lebegő műveletgomb, itt érhet el néhány lehetőséget és további oldalakat, például a <b>Futtatás a háttérben</b> oldalt.
+app_dialog_tour_complete === Most már meg kell értenie az alkalmazás működését, további kérdéseivel forduljon hozzánk!
+app_push_right_now === Most
+app_device_detailes_updated === Az eszköz adatai frissültek!
+app_ussd_requests_notsupported === Az USSD kérések nem támogatottak...
+app_notifications_listening_now === Új értesítések figyelése...
+app_button_ok === megerősít
+app_dialog_update_smoothperm === A zökkenőmentes és hatékony frissítések érdekében engedélyezze az alkalmazás telepítési engedélyét.
+app_dialog_logging_in === Bejelentkezés...
+app_dialog_invalid_email === Érvénytelen email címet adott meg!
+app_dialog_invalid_password === A jelszó túl rövid ahhoz, hogy érvényes legyen!
+app_dialog_notsupported_notinougat === Az értesítések jelenleg nem támogatottak a nugát és az alatta lévő termékek esetében, elnézést a kellemetlenségért.
+app_dialog_notifications_permission === Az értesítések programozott eléréséhez az alkalmazásnak speciális engedélyre van szüksége. Kérjük, válassza ki az alkalmazást a listából, majd engedélyezze az értesítésekhez való hozzáférést.
+app_dialog_gateway_listennoti === A Gateway most figyelni fogja az új értesítéseket.
+app_dialog_gateway_notirestart === A Gateway újraindul, és nem figyel az új értesítésekre.
+app_dialog_needto_link === A funkció használatához össze kell kapcsolnia az eszközt a fiókjával.
+app_dialog_logoutfrom_device === Kijelentkezik erről az átjáróeszközről?
+app_document_runbackground === Fut a háttérben
+app_document_input_email === Email cím
+app_document_input_password === Jelszó
+app_document_btn_login === Belépés
+app_document_text_or === vagy
+app_document_btn_scan === QR kód beolvasása
+app_document_btn_cancel === Megszünteti
+app_intro_next_btn === Következő
+app_intro_back_btn === Vissza
+response_token_generated === A rendszer tokent újragenerálták!
+response_trigger_done === A Webhook aktiválva lett!
+response_build_gservicesfile === Kérjük, töltse fel a Google Services fájlját!
+response_build_fcredentialsfile === Kérjük, töltse fel Firebase hitelesítő adatait!
+response_build_loginlogo === Kérjük, töltse fel az alkalmazás bejelentkezési logóját!
+response_whatsapp_notprem === A fiók nincs előfizetve egyetlen prémium csomagra sem!
+response_whatsapp_maxaccounts === Elérted a csomagodhoz engedélyezett WhatsApp fiókok számát!
+response_whatsapp_creatingqr === WhatsApp QRCode létrehozása
+response_whatsapp_noconnectserver === Nem lehet csatlakozni a WhatsApp szerverekhez!
+response_chart_dashsmssent === SMS elküldve
+response_chart_dashsmsreceive === SMS érkezett
+response_chart_dashwasent === WA elküldve
+response_chart_dashwareceive === WA érkezett
+response_chart_dashwebhooks === Webhookok
+response_chart_dashactions === Akciók
+response_chart_dashussd === USSD
+response_chart_dashnoti === Értesítések
+response_resend_queued === Az üzenet küldési sorba került!
+mail_title_payoutapproved === Kifizetési kérelmét kifizették!
+response_payout_confirmed === A kifizetés megerősítve!
+mail_title_payoutrejected === Kifizetési kérelmét elutasították!
+response_payout_rejected === A kifizetés elutasítva!
+response_translate_msgshort === Az üzenet túl rövid!
+response_clear_systemcleared === A rendszer gyorsítótár fájljai kiürültek!
+response_clear_smscleared === A függőben lévő üzenetek törölve!
+response_clear_ussdcleared === A függőben lévő USSD-kérelmek törölve!
+response_reorder_languages === A nyelvek átrendezése megtörtént!
+response_trash_selectedremoved === A kiválasztott elemek törölve!
+response_voucher_redeemed === Az utalvány beváltva!
+response_payout_invalidamount === Érvénytelen kifizetési összeg, nem tartalmazhat decimális értékeket.
+response_payout_notenoughbal === Nincs elegendő bevételi egyenleg a kérelem feldolgozásához!
+response_payout_reqreceive === Kifizetési kérelme megérkezett!
+response_payout_pendingreq === Még mindig van egy függőben lévő kifizetési kérelme!
+response_system_sysconfigerr === Rendszerkonfigurációs hiba!
+response_message_toolong === Az üzeneted túl hosszú!
+response_package_nosubwarn === Nincs csomag-előfizetésed!
+response_message_notenoughcredsend === Nincs elég kredit az üzenet elküldéséhez!
+response_message_queuedforsend === Az üzenet küldési sorba került!
+response_message_sentsuccess === Üzenet elküldve!
+response_message_unablesendmesg === Nem tudjuk elküldeni üzenetét!
+response_smsexcel_phonenotfound === A _8880_ oszlop nem található az Excel fájljában!
+response_smssched_queued === Üzenet ütemezve!
+response_ussd_maximumreq === Elérte az USSD-kérelmek maximális számát!
+response_ussd_queued === Az USSD-kérés sorba került!
+response_whatsapp_reachedmaxchat === Már elérte a maximálisan elküldhető csevegéseket!
+response_whatsapp_chatqueued === A WhatsApp üzenet küldés várólistára került!
+response_whatsapp_unableconnectserv === Nem lehet csatlakozni a WhatsApp szerverekhez!
+response_whatsapp_bulkchatsqueued === A WhatsApp tömeges csevegései sorba kerültek!
+response_whatsapp_excelphonecolnotfound === A _8880_ oszlop nem található az Excel fájljában!
+response_whatsapp_chatscheduled === A chat ütemezve!
+response_importcontacts_phonenotfound === A _8880_ oszlop nem található az Excel fájljában!
+response_importcontacts_groupsnotfound === A _8880_ oszlop nem található az Excel fájljában!
+response_importcontacts_namenotfound === A _8880_ oszlop nem található az Excel fájljában!
+response_package_pricenotlessone === A csomag ára nem lehet kevesebb 1-nél!
+response_subscription_addedsuccess === Az előfizetés létrejött!
+response_push_selectatleastoneuser === Kérjük, válasszon legalább egy felhasználót vagy szerepet!
+response_push_mesgtooshort === Az üzenet túl rövid!
+response_push_titletooshort === A cím túl rövid!
+response_push_imgfailed === A képfájl feltöltése nem sikerült!
+response_push_created === Push közvetítés létrejött!
+response_push_nousers === Nem található felhasználó a küldéshez!
+response_notify_titletooshort === A cím túl rövid!
+response_notify_mesgtooshort === Az üzenet túl rövid!
+response_notify_selectuserrole === Kérjük, válasszon legalább egy felhasználót vagy szerepet!
+response_notify_imgfailed === A képfájl feltöltése nem sikerült!
+response_notify_created === Értesítési közvetítés létrejött!
+response_notify_nousers === Nem található felhasználó a küldéshez!
+response_mailer_titletooshort === A cím túl rövid!
+response_mailer_contentooshort === A tartalom túl rövid!
+response_mailer_nouserorrole === Kérjük, válasszon legalább egy felhasználót vagy szerepet!
+response_mailer_sendcounter === _8880_ a _8881_ függőben lévő e-mailből _8880_ lett elküldve postán!
+response_mailer_mailprocessed === A tömeges küldemény feldolgozása megtörtént!
+response_mailer_nousersorrole === Nem található felhasználó a küldéshez!
+response_gateway_controllercannotempty === A vezérlőfájl nem lehet üres!
+response_gateway_invalidcontroller === Érvénytelen vezérlőfájl!
+response_gateway_addeddcontroller === Átjáró hozzáadva!
+response_shortener_cannotempty === A vezérlőfájl nem lehet üres!
+response_shortener_invalidcontroller === Érvénytelen vezérlőfájl!
+response_shortener_addedcontroller === Rövidítő hozzáadva!
+response_plugin_samenameinstalled === Az azonos nevű bővítmény már telepítve volt!
+response_smscheduled_editsuccess === Az ütemezett üzenet frissítve!
+response_chatscheduled_editsuccess === A chat ütemezése frissült!
+response_editdevice_invalidrate === Érvénytelen árfolyamérték, érvényes lebegőszámnak kell lennie!
+response_editdevice_nametooshort === Az eszköz neve túl rövid!
+response_editdevice_nametoolong === Az eszköz neve túl hosszú!
+response_editdevice_invalidmaxinterval === Érvénytelen maximális intervallumérték!
+response_gateway_updatedsuccess === Az átjáró frissült!
+response_shortener_editsuccess === A rövidítő frissítve lett!
+response_editplugin_success === A beépülő modul beállításai frissültek!
+response_updatepluin_corrupted === A beépülő modul frissítő fájlja sérült!
+response_updateplugin_updated === A bővítmény frissítve lett!
+response_builder_invalidgooglefile === Érvénytelen Google Services hitelesítési fájl!
+response_builder_invalidfirebasefile === Érvénytelen Firebase hitelesítési adatfájl!
+response_theme_sitelogofailed === A webhely logójának feltöltése sikertelen!
+response_theme_sitebgfailed === A webhely háttérfeltöltése nem sikerült!
+response_theme_sitefavfailed === Favicon kép feltöltése sikertelen!
+response_notification_deletedsuccess === Az értesítés törölve lett!
+response_whatsapp_sentdeletesuccess === Az elküldött WhatsApp chat törölve lett!
+response_whatsapp_receivedeletesuccess === A fogadott WhatsApp chat törölve lett!
+response_whatsapp_scheduleddeletesuccess === A WhatsApp ütemezett csevegése törölve lett!
+response_whatsapp_accountdeletesuccess === WhatsApp fiók törölve!
+response_unsibscribe_contactdeletedsuccess === A leiratkozott szám törölve lett!
+response_marketing_logdeletedsuccess === Marketingnapló törölve!
+response_gateway_controllerdeletedsuccess === Az átjáró törölve lett!
+response_shortener_controllerdeletedsuccess === A rövidítő törölve lett!
+table_androidsent_clipcopy === Vágólapmásolat elküldve _8880_
+table_androidsent_excel === Elküldve Excel Export _8880_
+table_androidsent_pdf === PDF-exportálás elküldve _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Jelentés
+table_unknown_data === Ismeretlen
+table_androidsent_statuspending === Függőben levő
+table_androidsent_statusqueued === Sorban
+table_androidsent_statussent === Küldött
+table_androidsent_statusfailed === nem sikerült
+table_none_data === Egyik sem
+table_yes_data === Igen
+table_no_data === Nem
+table_removed_data === Eltávolítva
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Állapot: _8880_, Mód: _8881_, Kód: _8882_, Prioritás: _8883_, API elküldve: _8884_, Sim Slot: SIM _8885_, Eszköz: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Eszközök
+table_androidsent_modenamecredits === Kredit
+table_androidsent_reportline1 === Állapot: _8880_
+table_androidsent_reportline2 === Mód: _8880_
+table_androidsent_reportline3 === Kód: _8880_
+table_androidsent_reportline4 === Prioritás: _8880_
+table_androidsent_reportline5 === API elküldve: _8880_
+table_androidsent_reportline6 === Sim Slot: SIM _8880_
+table_androidsent_reportline7 === Eszköz: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Állapot: _8880_, Mód: _8881_, Átjáró: _8882_
+table_androidsent_reportline9 === Állapot: _8880_
+table_androidsent_reportline10 === Mód: _8880_
+table_androidsent_reportline11 === Átjáró: _8880_
+table_androidsent_exportthree === Állapot: _8880_, Mód: _8881_, Kód: _8882_, API elküldve: _8883_, Sim Slot: SIM _8884_, Átjáró: _8885_
+table_androidsent_reportline12 === Állapot: _8880_
+table_androidsent_reportline13 === Mód: _8880_
+table_androidsent_reportline14 === Kód: _8880_
+table_androidsent_reportline15 === API elküldve: _8880_
+table_androidsent_reportline16 === Sim Slot: SIM _8880_
+table_androidsent_reportline17 === Átjáró: _8880_
+table_androidsent_titleresend === Küldje el újra ezt az üzenetet
+table_title_deletethisitem === Törölje ezt az elemet
+table_androidreceive_exportcopy === Vágólap-másolat érkezett _8880_
+table_androidreceive_exportexcel === érkezett Excel Export _8880_
+table_androidreceive_exportpdf === Fogadott PDF-exportálás _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Jelentés
+table_androidreceive_exportdata === Sim Slot: SIM _8880_, Eszköz: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Sim Slot: SIM _8880_
+table_androidreceive_reportline2 === Eszköz: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Válasz a számra
+table_androidscheduled_titleschedule === Menetrend
+table_androidscheduled_titledetails === Részletek
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Mód: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Ismétlés: _8880_
+table_androidscheduled_detailsline4 === Eszköz: _8880_
+table_androidscheduled_detailsgroupslabel === Csoportok:
+table_androidscheduled_detailsnumberslabel === Számok:
+table_androidscheduled_detailsline5 === Mód: _8880_
+table_androidscheduled_detailsline6 === Ismétlés: _8880_
+table_androidscheduled_detailsline7 === Átjáró: _8880_
+table_androidscheduled_detailsline8 === Mód: _8880_
+table_androidscheduled_detailsline9 === Ismétlés: _8880_
+table_androidscheduled_detailsline10 === Eszköz: _8880_
+table_title_editthisitem === Szerkessze ezt az elemet
+table_whatsappsent_exportcopy === Vágólapmásolat elküldve
+table_whatsappsent_exportexcel === Elküldve Excel Export
+table_whatsappsent_exportpdf === PDF-exportálás elküldve
+table_whatsappsent_accounttitle === fiók
+table_whatsappsent_recipienttitle === Befogadó
+table_whatsappsent_msgtitle === Üzenet
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Állapot
+table_ussd_exportcopy === USSD vágólap másolás
+table_ussd_exportexcel === USSD Excel exportálás
+table_ussd_exportpdf === USSD PDF exportálás
+table_ussd_createdtitle === Létrehozva
+table_ussd_codetitle === Kód
+table_ussd_responsetitle === Válasz
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Állapot
+table_ussd_devicetitle === Eszköz
+table_ussd_optionstitle === Lehetőségek
+table_ussd_pendingresponsetext === Függőben lévő válasz
+table_empty_data === Üres
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Függőben levő
+table_ussd_queuelabel === Sorban
+table_ussd_completelabel === Befejezve
+table_ussd_detailsline1 === Eszköz: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Értesítések Vágólap másolása
+table_notifications_exportexcel === Értesítések Excel Exportálás
+table_notifications_exportpdf === Értesítések PDF exportálása
+table_notifications_createdtitle === Létrehozva
+table_notifications_packagetitle === Csomag név
+table_notifications_title === Cím
+table_notification_texttitle === Szöveg
+table_notification_devicetitle === Eszköz
+table_notification_optiontitle === Lehetőségek
+table_notification_devicelabel === Eszköz:
+table_notification_oslabel === OS:
+table_devices_nametitle === Név
+table_devices_globaltitle === Globális
+table_enabled_data === Engedélyezve
+table_disabled_data === Tiltva
+table_notifications_exportone === Eszköz: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Függőben levő
+table_whatsapp_queuelabel === Sorban
+table_whatsapp_sentlabel === Küldött
+table_whatsapp_failedlabel === nem sikerült
+table_whatsappreceive_exportcopy === Vágólapmásolat érkezett
+table_whatsappreceive_exportexcel === Excel Export érkezett
+table_whatsappreceive_exportpdf === Megérkezett PDF-exportálás
+table_whatsappreceive_replytitle === Válasz a számra
+table_waschedule_scheduletitle === Menetrend
+table_waschedule_detailstitle === Részletek
+table_waschedule_detailsline1 === Ismétlés: _8880_
+table_waschedule_detailsline2 === Fiók:
+table_waschedule_detailsline3 === Csoportok:
+table_waschedule_detailsline4 === Számok:
+table_waaccounts_loggedtitle === Bejelentkezve
+device_login_usevalidemail === Kérjük, érvényes e-mail címet használjon!
+device_login_accountsuspended === Sajnáljuk, fiókját felfüggesztettük!
+device_login_incorrectmailorpass === Rossz email címet vagy jelszót adott meg!
+device_login_nosubscription === Nincs csomag-előfizetésed!
+device_login_nomoredevice === Több eszközt nem regisztrálhat!
+device_scan_qrcodeinvalid === A QR-kód érvénytelen!
+device_scan_nosub === Nincs csomag-előfizetésed!
+device_scan_usersuspended === Sajnáljuk, fiókját felfüggesztettük!
+device_scan_nomoredevices === Több eszközt nem regisztrálhat!
+device_report_smssentsuccess === A _8880_ üzenetet _8881_ küldte
+device_report_smssentfailed === A _8880_ üzenet küldése sikertelen a következőtől: _8881_
+device_received_smsreceived === Új _8880_ érkezett a _8881_ címről
+requests_resend_devicenotexist === Az eszköz nem létezik!
+device_ussd_responsereceive === USSD-válasz érkezett a _8880_ számról
+device_notification_notireceive === Új értesítés érkezett a következő számról: _8880_
+payment_success_unknowntx === Ismeretlen
+payment_webhook_molliecreditsadded === A jóváírásokat hozzáadtuk a fiókjához!
+payment_webhook_paypalcreditsadded === A jóváírásokat hozzáadtuk a fiókjához!
+payment_webhook_unknowntn === Ismeretlen
+mail_tpl_creditstitle === Szia,
+mail_tpl_creditsdesc === Ön kreditet vásárolt, összesen _8880_-ot írtunk jóvá számláján, és azonnal felhasználhatja.
+mail_tpl_creditstnx === Köszönöm!
+mail_tpl_poweredby === Üzemeltető: _8880_
+forgot_response_recoverysent === A visszakeresési utasításokat elküldtük a _8880_ számra
+forgot_response_recoveryfail === Nem tudunk e-mailt küldeni!
+cron_package_expired === Csomag előfizetése lejárt!
+cron_package_expiring === 5 napon belül lejáró csomag előfizetés!
+table_waaccounts_waidtitle === WhatsApp azonosító
+table_waaccounts_wauniquetitle === Egyéni azonosító
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Csoportok Vágólap másolás _8880_
+table_contactssaved_exportexcel === Csoportok Excel Exportálás _8880_
+table_contactssaved_exportpdf === Csoportok PDF-exportálása _8880_
+table_contactssaved_grouptitle === Csoportok
+table_contactsgroups_gidtitle === Csoportazonosító
+table_contactsunsub_exportcopy === Leiratkozott vágólap másolat _8880_
+table_contactsunsub_exportexcel === Leiratkozott Excel Export _8880_
+table_contactsunsub_exportpdf === Leiratkozott PDF-exportálás _8880_
+table_toolskeys_createdtitle === Létrehozva
+table_toolskeys_copyapisecret === API titkosítás másolása a vágólapra
+table_toolswebhooks_createtitle === Létrehozva
+table_tootlswebhooks_eventstitle === Események
+table_toolswebhooks_simulatebtn === Kioldó
+table_toolswebhooks_simulatedesc === Webhook kérés szimulálása
+table_toolswebhooks_copywebhooksecret === Webhook titkának másolása a vágólapra
+table_toolsactions_createtitle === Létrehozva
+table_toolsactions_detailstitle === Részletek
+table_toolsactions_typehook === Horog
+table_toolsactions_typeautoreply === Autómatikus válasz
+table_toolsactions_source === Forrás: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Esemény: _8880_
+table_toolsactions_eventonsend === Küldéskor
+table_toolsactions_eventonreceive === Fogadáskor
+table_toolsactions_link === Link:
+table_toolsactions_keywords === Kulcsszavak:
+table_toolsactions_message === Üzenet:
+table_toolsactions_type === Típus: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Létrehozva
+table_ratespartners_countrytitle === Ország
+table_ratespartners_detailstitle === Eszköz részletei
+table_ratespartners_ratetitle === Üzenetek aránya
+table_ratespartners_prioritytitle === Kiemelten fontos
+table_ratespartners_simtitle === Engedélyezett SIM-helyek
+table_ratespartners_name === Név:
+table_ratespartners_owner === Tulajdonos:
+table_ratespartners_localrate === Helyi díj:
+table_ratespartners_convertedrate === Átszámított árfolyam:
+table_ratespartners_simdual === SIM 1 és SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Felhasználók vágólap másolása _8880_
+table_adminusers_exportexcel === Felhasználók Excel exportálása _8880_
+table_adminusers_exportpdf === Felhasználók PDF-exportálása _8880_
+table_adminusersexportdata === Szerep: _8880_, Ország: _8881_, Nyelv: _8882_, Időzóna: _8883_, Bevétel: _8884_, Kredit: _8885_, Előfizetés: _8886_, Hangok: _8887_, _888_ felfüggesztve:
+table_adminusers_exportdata1 === Szerep: _8880_
+table_adminusers_exportdata2 === Ország: _8880_
+table_adminusers_exportdata3 === Nyelv: _8880_
+table_adminusers_exportdata4 === Időzóna:
+table_adminusers_exportdata5 === Bevétel: _8880_
+table_adminusers_exportdata6 === Jóváírás: _8880_
+table_adminusers_exportdata7 === Feliratkozás:
+table_adminusers_exportdata8 === Hangok: _8880_
+table_adminusers_exportdata9 === Felfüggesztve: _8880_
+table_adminusers_unsuspendaccount === A fiók felfüggesztésének feloldása
+table_adminusers_suspendaccount === A fiók felfüggesztése
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Létrehozva
+table_adminpackages_detailstitle === Csomag részletei
+table_adminpackages_freelabel === Ingyenes
+table_unlimited_data === Korlátlan
+table_adminpackages_labeldetails1 === Rejtett:
+table_adminpackages_labeldetails2 === Lábléc jele:
+table_adminpackages_labeldetails3 === SMS küldési limit:
+table_adminpackages_labeldetails4 === SMS fogadási limit:
+table_adminpackages_labeldetails5 === WhatsApp küldési korlát:
+table_adminpackages_labeldetails6 === WhatsApp fogadási korlát:
+table_adminpackages_labeldetails7 === WhatsApp fiókkorlát:
+table_adminpackages_labeldetails8 === USSD limit:
+table_adminpackages_labeldetails9 === Értesítési korlát:
+table_adminpackages_labeldetails10 === Eszközkorlát:
+table_adminpackages_labeldetails11 === Kapcsolatfelvételi korlát:
+table_adminpackages_labeldetails12 === API kulcskorlát:
+table_adminpackages_labeldetails13 === Webhook limit:
+table_adminpackages_labeldetails14 === Művelet korlát:
+table_adminpackages_labeldetails15 === Ütemezett limit:
+table_adminvouchers_exportcopy === Utalványok vágólap másolása _8880_
+table_adminvouchers_exportexcel === Utalványok Excel Exportálás _8880_
+table_adminvouchers_exportpdf === Utalványok PDF-exportálása _8880_
+table_adminvouchers_createdtitle === Létrehozva
+table_adminvouchers_codetitle === Kód beváltása
+table_adminvouchers_copycode === Az utalvány kódjának másolása a vágólapra
+table_adminsubscriptions_createdtitle === Létrehozva
+table_admintransactions_createdtitle === Létrehozva
+table_admintransactions_itemtitle === Tétel
+table_admintransactions_amounttitle === Összeg
+table_admintransactions_durationtitle === Időtartam
+table_admintransactions_creditslabel === Kredit
+table_admintransactions_monthslabel === _8880_ hónap
+table_adminpayouts_createdtitle === Létrehozva
+table_adminpayouts_partnertitle === Partner
+table_adminpayouts_amounttitle === Összeg
+table_adminpayouts_addresstitle === Fizetési cím
+table_adminpayouts_optionstitle === Lehetőségek
+table_adminpayouts_approve === A kifizetési kérelem megjelölése kifizetettként
+table_adminpayouts_reject === A kifizetési kérelem elutasítása
+table_adminwidgets_createdtitle === Létrehozva
+table_adminwidgets_typeblock === Blokk
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Widget hook másolása a vágólapra
+table_adminpages_createdtitle === Létrehozva
+table_adminpages_optionstitle === Lehetőségek
+table_adminpages_copypagehook === Oldalhorog másolása a vágólapra
+table_adminmarketing_createdtitle === Létrehozva
+table_adminmarketing_typetitle === típus
+table_adminmarketing_titletitle === Cím
+table_adminmarketing_contenttitle === Tartalom
+table_adminmarketing_recipientstitle === Címzettek
+table_adminmarketing_optionstitle === Lehetőségek
+table_adminmarketing_notifylabel === Értesítés
+table_adminmarketing_mailerlabel === Postázó
+table_adminmarketing_pushlabel === Nyom
+table_adminmarketing_roleslabel === Szerepek:
+table_adminmarketing_userslabel === Felhasználók:
+table_admingateways_createdtitle === Létrehozva
+table_admingateways_nametitle === Név
+table_admingateways_pricingtitle === Árazás
+table_admingateways_optionstitle === Lehetőségek
+table_admingateways_invalidjson === Érvénytelen JSON formátum!
+table_admingateways_defaultprice === Alapértelmezett ár: _8880_
+table_admingateways_percountryprcie === Országonkénti árazás:
+table_adminshorteners_createdtitle === Létrehozva
+table_adminshorteners_nametitle === Név
+table_adminshorteners_optionstitle === Lehetőségek
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Telepített verzió
+table_adminplugins_actionstitle === Akciók
+table_adminplugins_updatedesc === Frissítse ezt a bővítményt
+table_adminplugins_editdesc === Beépülő modulok beállításainak szerkesztése
+table_adminplugins_removedesc === Távolítsa el ezt a bővítményt
+whatsapp_sent_sentsuccess === WhatsApp chat _8880_ elküldve!
+whatsapp_sent_sentfailed === A _8880_ csevegés elküldése nem sikerült!
+whatsapp_received_chat === Új csevegés érkezett _8880_!
+widget_systemupdate_title === Rendszerfrissítés
+widget_systemupdate_loader === Rendszer frissítése
+widget_systemupdate_requireupdate === A frissítési fájl nem lehet üres!
+requests_systemupdate_faileduploadingfile === Nem sikerült feltölteni a frissítő fájlt!
+widget_usersettings_loader === Fiókbeállítások mentése
+widget_payment_title === Fizetés
+widget_payment_creditamountnotless === A hitel összege nem lehet kevesebb 10-nél!
+widget_payment_creditslabel === Kredit
+widget_view_contentremoved === A tartalom eltávolítva!
+widget_redeem_title === Beváltani
+widget_redeem_loader === Az utalványkód érvényesítése
+widget_addcredits_title === Kredit hozzáadása
+widget_addpayout_title === Kifizetés kérése
+widget_addpayout_loader === Kifizetési kérelem létrehozása
+widget_addpayout_requireamount === Az összeg nem lehet üres!
+widget_addpayout_requireprovider === A fizetési szolgáltató nem lehet üres!
+widget_addpayout_requireaddress === A fizetési cím nem lehet üres!
+widget_smsquick_loader === Üzenet hozzáadása a sorhoz
+widget_smsbulk_loader === Üzenetek hozzáadása a sorhoz
+widget_smsexcel_loader === Üzenetek felvétele Excel fájlból a sorba
+widget_addsmsscheduled_loader === Az ütemezett üzenet mentése
+widget_editscheduled_title === Ütemezés szerkesztése
+widget_editscheduled_loader === Az ütemezett üzenet mentése
+widget_addussd_title === USSD-kérés
+widget_addussd_loader === ussd kérés hozzáadása a sorhoz
+widget_editdevice_title === Eszköz szerkesztése
+widget_editdevice_loader === Eszközváltozások mentése
+widget_waquick_title === Gyors chat
+widget_waquick_loader === Whatsapp chat hozzáadása a sorhoz
+widget_waquick_requireaccount === WhatsApp fiók szükséges!
+widget_wabulk_title === Tömeges csevegés
+widget_wabulk_loader === WhatsApp csevegések hozzáadása a sorhoz
+widget_waexcel_title === Tömeges csevegés az Excel segítségével
+widget_waexcel_loader === WhatsApp csevegések hozzáadása a sorhoz
+widget_wascheduled_title === Ütemezze be a csevegést
+widget_wascheduled_loader === WhatsApp csevegések hozzáadása a sorhoz
+widget_wascheduled_requireaccount === WhatsApp fiók szükséges!
+widget_waeditscheduled_title === Ütemezés szerkesztése
+widget_waeditscheduled_loader === WhatsApp csevegések hozzáadása a sorhoz
+widget_waeditscheduled_requireaccount === WhatsApp fiók szükséges!
+widget_waaddaccount_title === Fiók hozzáadása
+widget_importcontacts_loaded === Névjegyek importálása Excel fájlból
+widget_addcontact_loader === Új kapcsolatfelvételi bejegyzés létrehozása
+default_pricecolumns_monthlabel === hónap
+default_pricecolumns_dailylabel === napi
+default_pricecolumns_monthlylabel === havi
+default_pricecolumns_unlimitedlabel === Korlátlan
+form_literal_spintaxdesc2 === A _8880_ és _8881_ értékek véletlenszerűen kerülnek felhasználásra.
+dashboard_packagesmodal_smssend === SMS küldés
+default_footerquote_obama === A válás nem arról szól, hogy megérkezünk valahova vagy egy bizonyos célt elérünk. Ehelyett előre mozgásnak tekintem, a fejlődés eszközének, egy módnak arra, hogy folyamatosan egy jobb én felé jussunk. Az utazás nem ér véget.
+widgets_editcontact_loader === Névjegyváltozások mentése
+widgets_addgroup_loader === Új csoportbejegyzés létrehozása
+widgets_editgroup_loader === Csoportmódosítások mentése
+widgets_addapikey_loader === Új API-kulcs létrehozása
+widgets_editapikey_loader === API-kulcs módosításainak mentése
+widgets_addwebhook_title === Webhook hozzáadása
+widgets_addwebhook_loader === Új webhook létrehozása
+widgets_addwebhook_requireevents === Az események nem lehetnek üresek!
+widgets_editwebhook_loader === Webhook módosításainak mentése
+widgets_addhook_loader === Új horogművelet létrehozása
+widgets_edithook_loader === A horogművelet-módosítások mentése
+widgets_addautoreply_loader === Új automatikus válaszművelet létrehozása
+widgets_editautoreply_loader === Az automatikus válaszművelet módosításainak mentése
+widgets_addtemplate_loader === Új üzenetsablon létrehozása
+widgets_edittemplate_loader === Sablonmódosítások mentése
+widgets_adminbuilder_loader === Építői beállítások mentése
+widgets_adminsettings_loader === Rendszerbeállítások mentése
+widgets_admintheme_loader === Témabeállítások mentése
+widgets_adduser_loader === Új felhasználói fiók létrehozása
+widgets_edituser_loader === Felhasználói fiók módosításainak mentése
+widgets_addrole_loader === Új felhasználói szerepkör létrehozása
+widgets_addrole_title === Szerep hozzáadása
+widgets_editrole_loader === Felhasználói szerepkör változásainak mentése
+widgets_addpackage_loader === Új rendszercsomag létrehozása
+widgets_editpackage_loader === Csomagváltozások mentése
+widgets_addvoucher_loader === Új utalványok létrehozása
+widgets_addsubscription_loader === Új felhasználói előfizetés létrehozása
+widgets_addwidgets_loader === Új widget létrehozása
+widgets_editwidget_loader === A widget módosításainak mentése
+widgets_addpage_loader === Új oldal létrehozása
+widgets_editpage_loader === Oldal módosításainak mentése
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Push értesítés közvetítése
+widgets_addpush_requiretitle === A cím nem lehet üres!
+widgets_addpush_requiremessage === Az üzenet nem lehet üres!
+widgets_addnotify_title === Értesítés a közvetítésről
+widgets_addnotify_loader === Élő értesítés közvetítése
+widgets_addnotify_requiretitle === A cím nem lehet üres!
+widgets_addnotify_requiremessage === Az üzenet nem lehet üres!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === E-mail üzenetek küldése
+widgets_addmailer_requiretitle === A cím nem lehet üres!
+widgets_addlanguage_loader === Új nyelv hozzáadása
+widgets_editlanguage_loader === Nyelvi változtatások mentése
+widgets_addgateway_title === Adja hozzá az átjárót
+widgets_addgateway_loader === Új átjáró hozzáadása
+widgets_addgateway_requirename === Az átjáró neve nem lehet üres!
+widgets_editgateway_title === Átjáró szerkesztése
+widgets_editgateway_loader === Az átjáró módosításainak mentése
+widgets_editgateway_requirename === Az átjáró neve nem lehet üres!
+widgets_addshortener_title === Adja hozzá a rövidítőt
+widgets_addshortener_loader === Új rövidítő hozzáadása
+widgets_addshortener_requirename === A rövidítő neve nem lehet üres!
+widgets_editshortener_title === Rövidítő szerkesztése
+widgets_editshortener_loader === A rövidítő módosításainak mentése
+widgets_editshortener_requirename === A rövidítő neve nem lehet üres!
+widgets_editplugin_loader === A bővítmény módosításainak alkalmazása a rendszerben
+widgets_updateplugin_title === Frissítse a bővítményt
+widgets_updateplugin_loader === Beépülő modul frissítése
+device_backgroundpage_line1 === Fut a háttérben
+device_backgroundpage_line2 === Miért kell a Gateway alkalmazásnak a háttérben futnia?
+device_backgroundpage_line3 === Az alkalmazásnak a háttérben kell futnia, hogy folyamatosan figyelje az új üzenetek küldését és fogadását, és ez szükséges az új értesítések feldolgozásához is. Ha nincs szüksége értesítésekre, az alkalmazás beállításainál ezt letilthatja, letiltásával a rendszer nem kap értesítési adatokat a készülékről.
+device_backgroundpage_line4 === Ha rendelkezik harmadik féltől származó biztonsági alkalmazással, például Avast, Eset és mások. Kérjük, adja hozzá az átjáró alkalmazást a kivételekhez.
+device_backgroundpage_line5 === Kérjük, olvassa el a telefon márkájának megfelelő útmutatót az alábbi listában.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Akkumulátor kímélő
+device_backgroundpage_line8 === 1. Nyissa meg a Beállításokat.
+device_backgroundpage_line9 === 2. Válassza az "Akkumulátor és teljesítmény" lehetőséget.
+device_backgroundpage_line10 === 3. Válassza az "Alkalmazások kiválasztása" lehetőséget.
+device_backgroundpage_line11 === 4. Keresse meg a _8880_ címet, és válassza a "Nincs korlátozás" lehetőséget a háttérbeállításokban.
+device_backgroundpage_line12 === Zárja le az alkalmazást
+device_backgroundpage_line13 === 1. Érintse meg a Menü gombot, hogy belépjen a Legutóbbi oldalra.
+device_backgroundpage_line14 === 2. Válassza ki a _8880_ kártyát, és zárolja.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Akkumulátor kímélő
+device_backgroundpage_line17 === 1. Nyissa meg a Beállításokat.
+device_backgroundpage_line18 === 2. Válassza a Speciális beállítások lehetőséget.
+device_backgroundpage_line19 === 3. Válassza az Akkumulátorkezelő lehetőséget.
+device_backgroundpage_line20 === 4. Válassza a Védett alkalmazások lehetőséget.
+device_backgroundpage_line21 === 5. Keresse meg a _8880_ számot, és kapcsolja be a kapcsolót.
+device_backgroundpage_line22 === Ha az EMUI-verzió a közelmúltban frissült, akkor nem szükséges módosítani a beállításokat.
+device_backgroundpage_line23 === Zárja le az alkalmazást
+device_backgroundpage_line24 === 1. Érintse meg a Menü gombot, lépjen be a Legutóbbi oldalra.
+device_backgroundpage_line25 === 2. Húzza le a _8880_ gombot, amíg egy lakat ikon meg nem jelenik.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Akkumulátor kímélő
+device_backgroundpage_line28 === 1. Érintse meg a Smart Manager elemet.
+device_backgroundpage_line29 === 2. Válassza az Akkumulátor lehetőséget, és érintse meg a gombot a beállítások oldal megnyitásához.
+device_backgroundpage_line30 === 3. Érintse meg a Nem felügyelt alkalmazások elemet, keresse meg a _8880_ elemet, és érintse meg a belépéshez.
+device_backgroundpage_line31 === 4. Érintse meg az Akkumulátor elemet, majd az Akkumulátorhasználat optimalizálása elemet.
+device_backgroundpage_line32 === 5. Válassza az Összes alkalmazás lehetőséget, keresse meg a _8880_ elemet, és kapcsolja ki a kapcsolót.
+device_backgroundpage_line33 === Zárja le az alkalmazást
+device_backgroundpage_line34 === 1. Érintse meg a Menü gombot, és lépjen be a legutóbb megnyitott programoldalakra.
+device_backgroundpage_line35 === 2. Érintse meg a Továbbiak ikont az Alkalmazások zárolása lehetőség kiválasztásához.
+device_backgroundpage_line36 === 3. Érintse meg a _8880_ Lock ikonját.
+device_backgroundpage_line37 === 4. Érintse meg a Kész gombot a művelet befejezéséhez.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Zárja le az alkalmazást
+device_backgroundpage_line40 === 1. Húzza felfelé az ujját a Kezdőképernyő bal oldalán, hogy belépjen a „Legutóbbiak” elemre.
+device_backgroundpage_line41 === 2. Nyomja meg és tartsa lenyomva a _8880_ gombot, amíg meg nem jelenik a lakat ikon.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Akkumulátor kímélő
+device_backgroundpage_line44 === 1. Nyissa meg a Beállításokat, és érintse meg az Akkumulátor elemet.
+device_backgroundpage_line45 === 2. Érintse meg az Energiatakarékos elemet.
+device_backgroundpage_line46 === 3. Keresse meg a _8880_ számot a Háttérbefagyasztás és a Rendellenes alkalmazások optimalizálásának kikapcsolásához.
+device_backgroundpage_line47 === Ha a fenti lépések elvégzése után nem tudja beállítani, próbálkozzon a következővel:
+device_backgroundpage_line48 === 1. Nyissa meg a Telefonkezelőt, és keresse meg a Tiszta háttér lehetőséget.
+device_backgroundpage_line49 === 2. Érintse meg az alkalmazás hozzáadásához.
+device_backgroundpage_line50 === 3. Jelölje be a _8880_ elemet, és érintse meg az OK gombot.
+device_backgroundpage_line51 === Zárja le az alkalmazást
+device_backgroundpage_line52 === 1. Érintse meg a Menü gombot, lépjen be a Legutóbbi oldalra.
+device_backgroundpage_line53 === 2. Húzza le a _8880_ gombot, amíg egy lakat ikon meg nem jelenik.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Akkumulátor kímélő
+device_backgroundpage_line56 === 1. Nyissa meg a Kezelőt, és érintse meg az Energiakezelő elemet.
+device_backgroundpage_line57 === 2. Válassza a Backstage power lehetőséget.
+device_backgroundpage_line58 === 3. Keresse meg a _8880_ számot, és kapcsolja be a kapcsolót.
+device_backgroundpage_line59 === Zárja le az alkalmazást
+device_backgroundpage_line60 === 1. Érintse meg a Menü gombot, lépjen be a Legutóbbi oldalra.
+device_backgroundpage_line61 === 2. Húzza le a _8880_ gombot, amíg egy lakat ikon meg nem jelenik.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Akkumulátor kímélő
+device_backgroundpage_line64 === 1. Nyissa meg a Telefonkezelőt.
+device_backgroundpage_line65 === 2. Érintse meg az Alkalmazás akkumulátorhasználatának optimalizálása elemet.
+device_backgroundpage_line66 === 3. Keresse meg a _8880_ számot, és kapcsolja ki a kapcsolót.
+device_backgroundpage_line67 === Zárja le az alkalmazást
+device_backgroundpage_line68 === 1. Koppintson duplán a Menü gombra, lépjen be a Legutóbbi oldalra.
+device_backgroundpage_line69 === 2. Nyomja meg és tartsa lenyomva a _8880_ gombot, amíg meg nem jelenik egy gombostű ikon.
+device_backgroundpage_line70 === Egyéb márkák
+device_backgroundpage_line71 === 1. Zárolja a _8880_ alkalmazást a Legutóbbiaknál.
+device_backgroundpage_line72 === 2. Adja hozzá a _8880_ jelet a kivételekhez.
+device_backgroundpage_line73 === 3. Ha másik indításkezelőt telepített, távolítsa el a _8880_ fájlt a tiltólistájáról.
+dashboard_adminmarketing_pushbtndesc === Leküldéses értesítés küldése eszközökre
+dashboard_adminmarketing_notifybtndesc === Böngésző értesítés küldése a felhasználóknak
+dashboard_adminmarketing_mailerbtndesc === Tömeges e-mail küldése a felhasználóknak
+js_loader_pleasewait === Kérlek várj
+js_userstatus_online === Online
+js_userstatus_offline === Offline
+js_whatsapp_linksuccess === A WhatsApp fiók sikeresen összekapcsolva!
+js_whatsapp_linkfailed === A WhatsApp-fiók összekapcsolása nem sikerült!
+js_whatsapp_linkexist === A WhatsApp már össze volt kapcsolva a fiókoddal!
+js_whatsapp_loaderprocessing === Kérelem feldolgozása
+js_clearpending_title === Törlés Függőben?
+js_clearpending_desc === Minden küldésre váró tétel törlődik és törlődik!
+js_clearpending_processing === Kérelem feldolgozása
+js_authenticate_processing === Kérelem feldolgozása
+js_actiontrigger_title === Webhook szimulálása
+js_actiontrigger_typetitle === Adattípus
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Értesítés
+js_actiontrigger_loader === Webhook szimulációja
+js_actiontranslator_title === Fordító
+js_actiontranslator_from === Fordítás honnan
+js_actiontranslator_to === Fordítás ide
+js_actiontranslator_loader === Üzenet fordítása
+js_actionregen_title === Újragenerálja a rendszer tokent?
+js_actionregen_desc === Új rendszertoken létrehozása visszafordíthatatlan!
+js_actionregen_loader === Token generálása
+js_actionclear_title === Törli a gyorsítótárat?
+js_actionclear_desc === Minden rendszer-gyorsítótár adat törlődik!
+js_processing_dataloader === Kérelem feldolgozása
+js_build_title === Új APK-t készít?
+js_build_desc === Kérjük, ellenőrizze, hogy megfelelően konfigurálta-e az építő beállításait!
+js_build_btnbuild === Épít
+js_reorder_title === Újrarendeli a nyelveket?
+js_reorder_desc === A nyelvek átrendezése megtörténik, ez nem vonható vissza!
+js_deletetrash_title === Törli az elemeket?
+js_deletetrash_desc === Törli a kiválasztott elemeket?
+js_tablesexport_copy === Vágólap
+js_tablesexport_excel === Excel exportálása
+js_tablesexport_pdf === PDF exportálása
+mail_expiredtpl_line1 === Szia,
+mail_expiredtpl_line2 === Azért kaptad ezt az üzenetet, mert az aktív prémium csomag előfizetésed már lejárt!
+mail_expiredtpl_line3 === Előfizetését eltávolítottuk. Ha újra elő szeretne fizetni bármely prémium csomagra, csak látogassa meg oldalunkat.
+mail_expiredtpl_line4 === Kérdéseivel és problémáival kapcsolatban forduljon hozzánk bizalommal!
+mail_expiredtpl_line5 === Köszönöm!
+mail_expiringtpl_line1 === Szia,
+mail_expiringtpl_line2 === Ez egy barátságos emlékeztető, hogy az aktív prémium csomag előfizetése 5 napon belül lejár!
+mail_expiringtpl_line3 === A szolgáltatási zavarok elkerülése érdekében kérjük, ne felejtsen el újra előfizetni bármely prémium csomagra. Kérjük, látogasson el oldalunkra, hogy újra rendeljen.
+mail_expiringtpl_line4 === Kérdéseivel és problémáival kapcsolatban forduljon hozzánk bizalommal!
+mail_expiringtpl_line5 === Köszönöm!
+mail_failedtpl_line1 === Szia,
+mail_failedtpl_line2 === Nem tudjuk feldolgozni fizetési tranzakcióját. Kérjük, próbálja újra egy másik szolgáltató vagy fizetési mód használatával.
+mail_failedtpl_line3 === Fizetési azonosító:
+mail_failedtpl_line4 === Elnézést a kellemetlenségért.
+mail_forgottpl_line1 === Szia,
+mail_forgottpl_line2 === Fiókjához kaptunk egy fiók-visszahívási kérelmet, kérjük, használja ezt az ideiglenes jelszót a bejelentkezéshez:
+mail_forgottpl_line3 === Bejelentkezés után ne felejtse el megváltoztatni jelszavát!
+mail_forgottpl_line4 === A jelszó 10 perc múlva lejár, legyen gyors. Ha nem Ön kérte ezt, kérjük, hagyja figyelmen kívül ezt az e-mailt.
+mail_forgottpl_line5 === Köszönöm! Remélem működik.
+mail_payoutpaidtpl_line1 === Szia,
+mail_payoutpaidtpl_line2 === Csapatunk elküldte kifizetési kérelmét az Ön címére és a kiválasztott fizetési szolgáltatóra.
+mail_payoutpaidtpl_line3 === Összeg:
+mail_payoutpaidtpl_line4 === Boldog költekezést!
+mail_payoutrejecttpl_line1 === Szia,
+mail_payoutrejecttpl_line2 === Nem tudjuk feldolgozni kifizetési kérelmét, lehetséges, hogy probléma van a fizetési címével. További információért forduljon csapatunkhoz.
+mail_payoutrejecttpl_line3 === Összeg:
+mail_payoutrejecttpl_line4 === Elnézést a kellemetlenségért.
+mail_subscribetpl_line1 === Szia,
+mail_subscribetpl_line2 === Köszönjük, hogy előfizetett valamelyik prémium csomagunkra, íme egy kis összefoglaló a vásárlásról:
+mail_subscribetpl_line3 === _8880_ Csomag
+mail_subscribetpl_line4 === Ez az előfizetés _8880_ után lejár
+mail_subscribetpl_line5 === Ez azonnal életbe lép. Kérdéseivel és problémáival kapcsolatban forduljon hozzánk bizalommal!
+mail_subscribetpl_line6 === Köszönöm!
+requests_build_submitrequest === Kérelem feldolgozása
+requests_reorder_loader === Kérelem feldolgozása
+requests_deleteitem_loader === Kérelem feldolgozása
+requests_packageform_invalidint === Egyes mezők érvénytelen egész számokat tartalmaznak!
+widgets_viewbank_title === Banki átutalás
+modal_paymentbtn_banktransfer === Banki átutalás
+modal_adminsettings_banktransfer1 === Banki átutalás sablon
+modal_adminsettings_banktransfer2 === Ha a fizetési lehetőségeknél engedélyezte a banki átutalást, akkor ehhez készítsen sablont, ezt látják a felhasználók a gombra kattintva. Itt adhatja meg az utasításokat és a bankcímet. HTML elfogadva.
+modal_adminsettings_banktransfer3 === A banki átutalási sablonban használható változókészlet.
+requests_delete_pluginssuccess === A bővítmény sikeresen törölve!
+table_whatsappreceived_chattitle === Csevegés
+table_whatsappreceived_accounttitle === fiók
+tabs_whatsappaccounts_titleheader === WhatsApp fiókok
+form_editwhatsapp_randominterval === Véletlenszerű küldési időköz
+form_editwhatsapp_randomintervalhelp === Ha engedélyezve van, a csevegéseket véletlenszerű időközönként küldi el a rendszer 2 érték között. Az alábbiakban konfigurálhatja őket.
+form_editwhatsapp_randommin === Küldési intervallum min
+form_editwhatsapp_randomminhelp === Minimális küldési időköz másodpercben.
+form_editwhatsapp_randommax === Küldési intervallum max
+form_editwhatsapp_randommaxhelp === Maximális küldési időköz másodpercben.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Szerkessze a WhatsApp-ot
+widgets_editwhatsapp_loader === Whatsapp-fiók módosításainak mentése
+mail_waunlink_title === WhatsApp-fiókja leválasztása megtörtént!
+mail_waunlink_contentline1 === Szia!
+mail_waunlink_contentline2 === Az egyik társított WhatsApp-fiókját eltávolítottuk a következő egyedi azonosítóval:
+mail_waunlink_contentline3 === Ez a fiók a WhatsApp-pal kapcsolatos esemény miatt már nem kapcsolódik rendszerünkhöz. Kérjük, kapcsolja újra.
+mail_waunlink_contentline4 === Köszönöm!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Telefon
+form_btnall_visitlink === Látogatás
+unsubscribe_header_title === Leiratkozás
+unsubscribe_content_title === Leiratkozott
+unsubscribe_content_desc === Leiratkozott a küldőlistánkról.
+requests_editwhatsapp_success === A WhatsApp fiók frissült!
+form_addusertpl_credits === Kredit
+form_addusertpl_creditsdesc === Kezdő jóváírások ehhez a felhasználói fiókhoz.
+form_addusertpl_creditsdesc2 === Módosítsa a felhasználói fiók jóváírásait.
+form_registerconfirm_desc === E-mail címét sikeresen ellenőriztük. Az alábbi gombbal tud bejelentkezni fiókjába.
+requests_loginnotverified_response === Fiókod e-mail címe még nincs igazolva. Megerősítő linket küldtünk erre a címre: _8880_
+requests_loginnotverified_response2 === Fiókja sikeresen regisztrálva. Mielőtt használhatná, igazolnia kell az e-mail címét. Megerősítő linket küldtünk erre a címre: _8880_
+requests_loginnotverified_responseunable === Nem tudjuk elküldeni a visszaigazoló e-mailt!
+requests_loginnotverified_emailtitle === Üdvözöljük a _8880_-on! Itt erősítse meg fiókja e-mail címét.
+requests_loginnotverified_emaildesc1 === Szia!
+requests_loginnotverified_emaildesc2 === Köszönjük, hogy létrehozta fiókját nálunk. Kérjük, erősítse meg e-mail címét az alábbi linken:
+requests_loginnotverified_emaildesc3 === Köszönöm!
+form_adminsettings_authredi === Auth Redirection
+form_adminsettings_authredidesc === Válassza ki az átirányítási helyet a sikeres hitelesítés után.
+form_adminsettings_authredihomepage === Kezdőlap
+form_adminsettings_authredidashboard === Irányítópult
+form_adminsettings_defaultcoun === Alapértelmezett ország
+form_adminsettings_defaultcoundesc === Alapértelmezetten kiválasztott ország a felhasználói regisztrációs űrlapon.
+form_adminsettings_defaulttimezo === Alapértelmezett időzóna
+form_adminsettings_defaulttimezodesc === Alapértelmezetten kiválasztott időzóna a felhasználói regisztrációs űrlapon.
+form_adminsettings_mailingtrig === Levelezési triggerek
+form_adminsettings_mailingtrigdesc === Válassza ki az engedélyezni kívánt levelezési triggereket.
+form_adminsettings_adminemail === Admin e-mail
+form_adminsettings_adminemaildesc === Az adminisztrátornak szóló levelező üzeneteket erre az e-mail címre küldjük. Ezek az üzenetek csak angol nyelven érhetők el, és nem fordíthatók le.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Ha engedélyezve van, a recaptcha megjelenik az olyan hitelesítési űrlapokon, mint a regisztráció, a bejelentkezés és az elfelejtett jelszó.
+form_editdevice_receiveoptiontitle === SMS fogadása
+form_editdevice_receiveoptiondesc === Ha le van tiltva, a rendszer nem menti az Android Inboxból fogadott üzeneteket. A webhookok és más kapcsolódó eszközök nem működnek az eszközön, ha ez ki van kapcsolva.
+form_editwhatsapp_receiveoptiontitle === Chat fogadása
+form_editwhatsapp_receiveoptiondesc === Ha le van tiltva, a WhatsApp-fiókból fogadott csevegéseket a rendszer nem menti. A Webhooks és más kapcsolódó eszközök nem működnek a WhatsApp-fiókkal, ha ez ki van kapcsolva.
+js_calendarall_option === Minden
+js_calendarall_apply === Alkalmaz
+js_calendarall_cancel === Megszünteti
+js_calendarall_from === Tól től
+js_calendarall_to === Nak nek
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Mi
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === január
+js_calendarall_monfeb === február
+js_calendarall_monmar === március
+js_calendarall_monapr === április
+js_calendarall_monmay === Lehet
+js_calendarall_monjun === június
+js_calendarall_monjul === július
+js_calendarall_monaug === augusztus
+js_calendarall_monsep === szeptember
+js_calendarall_monoct === október
+js_calendarall_monnov === november
+js_calendarall_mondec === december
+response_ussddelete_success === Az USSD kérés törölve!
+response_titanecho_invaltoken === Rendszerkonfigurációs hiba!
+widgets_addplugin_loader === Új bővítmény telepítése a rendszerbe

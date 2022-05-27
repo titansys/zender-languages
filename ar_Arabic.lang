@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === ذكري المظهر
+and_dashboard_modules_header_line25 === ال WhatsApp
+and_dashboard_modules_header_line45 === لوحة الادارة
+and_dashboard_pages_android_line10 === ذكري المظهر
+and_dashboard_pages_android_line40 === المقرر
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === إشعارات
+and_dashboard_pages_android_line58 === الأجهزة
+and_dashboard_pages_contacts_line40 === غير مشترك
+and_dashboard_pages_defailt_line37 === أسعار البوابة
+and_dashboard_pages_default_line42 === المستندات
+and_dashboard_pages_default_line58 === رسائل
+and_dashboard_pages_default_line60 === اخر 7 ايام
+and_dashboard_pages_default_line74 === الأحداث
+and_dashboard_pages_default_line76 === اخر 7 ايام
+and_dashboard_pages_default_line90 === خدمات
+and_dashboard_pages_default_line92 === اخر 7 ايام
+and_dashboard_pages_default_line109 === شركاء
+and_dashboard_pages_default_line117 === أرباح
+and_dashboard_pages_default_line131 === سيصرف
+and_dashboard_pages_default_line140 === الرصيد
+and_dashboard_pages_default_line148 === الاعتمادات
+and_dashboard_pages_default_line162 === فوق حتى
+and_dashboard_pages_default_line170 === نسبة التسليم
+and_dash_pg_def_line178 === نجاح
+and_dash_pg_def_line190 === باءت بالفشل
+and_dash_pg_def_line204 === المرسلون
+and_dash_pg_def_line209 === أنت غير مشترك في أي من باقاتنا المميزة!
+and_dash_pg_def_line217 === الأجهزة
+and_dash_pg_def_line224 === مرتبط
+and_dash_pg_def_line232 === حسابات
+and_dash_pg_def_line239 === مرتبط
+and_dash_pg_def_line250 === قم بتنزيل تطبيقنا الرسمي وتثبيته للحصول على أفضل تجربة للمستخدم
+and_dash_pg_doc_line10 === وثائق
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === ويب هوك
+and_dash_pg_doc_line40 === أجراءات
+and_dash_pg_doc_line46 === الأجهزة
+and_dash_pg_doc_line52 === شراكة
+and_dash_pg_for_line29 === يلغي
+and_dash_pg_log_line14 === تسجيل الدخول باستخدام الفيسبوك
+and_dash_pg_log_line17 === تسجيل الدخول عبر جوجل
+and_dash_pg_log_line20 === تسجيل الدخول مع فكونتاكتي
+and_dash_pg_log_line54 === إنشاء حساب
+and_dash_pg_pay_line45 === لقد تلقينا طلب طلبك ، وسيقوم نظامنا تلقائيًا بإرسال بريد إلكتروني إليك وتطبيق التغييرات على حسابك بمجرد التحقق من معاملة الدفع.
+and_dash_pg_rates_line10 === أسعار البوابة
+and_dash_pg_rates_line39 === شركاء
+and_dash_pg_reg_line15 === سجل في الفيسبوك
+and_dash_pg_reg_line20 === سجل مع جوجل
+and_dash_pg_reg_line25 === سجل مع فكونتاكتي
+and_dash_pg_whats_line10 === ال WhatsApp
+and_dash_pg_whats_line10_1 === بيتا
+and_dash_pg_whats_line28 === أرسلت
+and_dash_pg_whats_line34 === تم الاستلام
+and_dash_pg_whats_line40 === المقرر
+and_dash_pg_whats_line46 === حسابات
+and_dash_api_line17 === اسم المفتاح.
+and_dash_api_line19 === على سبيل المثال لخادمي
+and_dash_api_line24 === أذونات المفتاح.
+and_dash_auto_line17 === اسم الإجراء.
+and_dash_auto_line19 === على سبيل المثال ميخائيل
+and_dash_auto_line24 === مصدر
+and_dash_auto_line24_1 === مصدر حدث الاستلام.
+and_dash_auto_line27 === رسالة قصيرة
+and_dash_auto_line28 === ال WhatsApp
+and_dash_auto_line34 === استجب للكلمات الرئيسية مفصولة بفواصل. ستطلق هذه الكلمات الرئيسية الاستجابة التلقائية إذا تم اكتشافها في محتوى الرسالة.
+and_dash_auto_line36 === على سبيل المثال شكرا لك حسنا الاشتراك نعم
+and_dash_auto_line41 === الرسالة المراد إرسالها إلى المرسل.
+and_dash_auto_line43 === على سبيل المثال رسالة الرد الخاصة بك هنا ، الرموز القصيرة مقبولة
+and_dash_auto_line48 === مجموعة من المتغيرات التي يمكنك استخدامها في رسالتك.
+and_dash_con_line24 === رقم الاتصال.
+and_dash_con_line31 === مجموعة الاتصال.
+and_dash_con_line17 === اسم جهة الاتصال.
+and_dash_cre_line28 === شراء
+and_dash_gate_line17 === اسم
+and_dash_gate_line17_1 === هذا هو اسم البوابة الذي سيظهر للمستخدمين.
+and_dash_gate_line19 === على سبيل المثال تويليو
+and_dash_gate_line24 === مراقب
+and_dash_gate_line24_1 === حدد ملف وحدة تحكم البوابة ، وسيحتوي هذا على منطق البوابة وكودها. من المستحسن التحقق من الوثائق.
+and_dash_gate_line27 === تحكم Boilerplate:
+and_dash_gate_line34 === أتصل مرة أخرى
+and_dash_gate_line34_1 === في حالة التمكين ، يجب التحقق من الرسائل باستخدام ميزة رد الاتصال لبوابة الطرف الثالث لمعرفة حالة الإرسال ، وإلا فسيتم وضع علامة على الرسائل على الفور على أنها مرسلة عند الإرسال.
+and_dash_gate_line37 === ممكن
+and_dash_gate_line38 === إبطال
+and_dash_gate_line44 === معرف رد الاتصال
+and_dash_gate_line44_1 === إذا تم تمكين رد الاتصال ، يجب عليك نسخ هذا المعرف ولصقه في وحدة التحكم الخاصة بك حتى يتمكن النظام من تحديد عمليات الاسترجاعات.
+and_dash_gate_line47 === نسخ ولصق لمعرف رد الاتصال
+and_dash_gate_line54 === التسعير
+and_dash_gate_line54_1 === جدول التسعير المخصص الخاص بك لهذه البوابة. سيسمح لك ذلك بفرض رسوم على أسعار الجهات الخارجية. على سبيل المثال ، إذا فرضت twilio رسومًا بقيمة 0.01 لبلد معين ، فيمكنك حينئذٍ تحصيل 0.02 بدلاً من ذلك ، وتعتمد العملة على عملة نظامك. يرجى اتباع صيغة التسعير بشكل صحيح.
+and_dash_gate_line57 === نموذج تسعير JSON:
+and_dash_gate_line57_1 === تحميل
+and_dash_grp_line17 === أسم المجموعة.
+and_dash_grp_line19 === على سبيل المثال اصحاب
+and_dash_hook_line17 === اسم الإجراء.
+and_dash_hook_line19 === على سبيل المثال إجراء الاختبار
+and_dash_hook_line24 === مصدر
+and_dash_hook_line24_1 === مصدر الحدث.
+and_dash_hook_line34 === حدد الحدث الذي سيتم استدعاء هذا الخطاف فيه.
+and_dash_hook_line44 === هيكل رابط الخطاف ، هذا هو عنوان url الذي سيتم استدعاؤه بواسطة النظام. يتم دعم طريقة GET فقط.
+and_dash_hook_line51 === مجموعة من المتغيرات التي يمكنك استخدامها في رابط URL الخاص بك.
+and_dash_hook_line27 === رسالة قصيرة
+and_dash_hook_line28 === ال WhatsApp
+and_dash_hook_line37 === عند الإرسال
+and_dash_hook_line38 === عند الاستلام
+and_dash_lang_line17 === اسم اللغة.
+and_dash_lang_line19 === على سبيل المثال الكورية
+and_dash_lang_line24 === الرقم الدولي.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === في حالة التمكين ، سيتم تحديد اللغة على أنها اتجاه من اليمين إلى اليسار.
+and_dash_lang_line38 === نعم
+and_dash_lang_line39 === لا
+and_dash_lang_line45 === سلاسل الترجمة.
+and_dash_mail_line17 === عنوان
+and_dash_mail_line17_1 === عنوان البريد.
+and_dash_mail_line19 === على سبيل المثال إعلان
+and_dash_mail_line24 === المستخدمون
+and_dash_mail_line24_1 === أرسل بواسطة المستخدمين.
+and_dash_mail_line36 === الأدوار
+and_dash_mail_line36_1 === أرسل بالأدوار.
+and_dash_mail_line48 === المحتوى
+and_dash_mail_line48_1 === محتوى البريد ، أتش تي أم أل مسموح به.
+and_dash_mail_line50 === مرحبا بالعالم!
+and_dash_not_line17 === عنوان
+and_dash_not_line17_1 === إخطار العنوان.
+and_dash_not_line19 === على سبيل المثال إعلان
+and_dash_not_line24 === رسالة
+and_dash_not_line24_1 === إخطار الرسالة.
+and_dash_not_line31 === اللون
+and_dash_not_line31_1 === يخطر اللون.
+and_dash_not_line35 === نجاح
+and_dash_not_line36 === تحذير
+and_dash_not_line37 === خطر
+and_dash_not_line43 === صورة
+and_dash_not_line43_1 === إخطار الصورة ، هذا اختياري.
+and_dash_not_line46 === اختياري
+and_dash_not_line53 === المستخدمون
+and_dash_not_line53_1 === البث من قبل المستخدمين.
+and_dash_not_line65 === الأدوار
+and_dash_not_line65_1 === بث حسب الأدوار.
+and_pack_line17 === اسم الحزمة.
+and_pack_line19 === على سبيل المثال باقة VIP
+and_pack_line24 === سعر الحزمة ، يجب أن يتبع عملة النظام. القيم العائمة غير مسموح بها.
+and_pack_line29 === على سبيل المثال 25
+and_pack_line34 === في حالة التمكين ، ستحتوي الرسائل ومحادثات whatsapp على علامة تذييل عند استلامها من قبل المستلمين.
+and_pack_line44 === في حالة التمكين ، سيتم إخفاء الحزمة من نموذج الحزمة والصفحة الرئيسية.
+and_pack_line58 === حد إرسال الرسائل القصيرة
+and_pack_line58_1 === الحد الأقصى لعدد الرسائل التي يمكن للمستخدم إرسالها قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line60 === على سبيل المثال 300
+and_pack_line65 === حد تلقي الرسائل القصيرة
+and_pack_line65_1 === الحد الأقصى لعدد الرسائل التي يمكن أن يتلقاها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line67 === على سبيل المثال 150
+and_pack_line72 === حد USSD
+and_pack_line72_1 === أقصى عدد من دولارات الولايات المتحدة يمكن أن يطلبه المستخدم قبل إعادة الضبط. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line74 === على سبيل المثال 25
+and_pack_line79 === حد الإخطار
+and_pack_line79_1 === أقصى عدد من الإشعارات التي يمكن أن يتلقاها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line81 === على سبيل المثال 1300
+and_pack_line86 === الحد الأقصى لعدد أجهزة Android التي يمكن ربطها بحساب المستخدم. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line88 === على سبيل المثال 25
+and_pack_line92 === إعدادات WhatsApp
+and_pack_line97 === الحد الأقصى لعدد الدردشات التي يمكن للمستخدم إرسالها قبل إعادة الضبط. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line99 === على سبيل المثال 300
+and_pack_line104 === الحد الأقصى لعدد الدردشات التي يمكن أن يستقبلها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line106 === على سبيل المثال 150
+and_pack_line111 === حد الحساب
+and_pack_line111_1 === الحد الأقصى لعدد حسابات WhatsApp التي يمكن ربطها بحساب المستخدم. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line113 === على سبيل المثال 10
+and_pack_line117 === إعدادات Ultility
+and_pack_line122 === الحد الأقصى لعدد جهات الاتصال التي يمكن للمستخدم حفظها. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line124 === على سبيل المثال 25
+and_pack_line129 === الحد المقرر
+and_pack_line129_1 === الحد الأقصى لعدد الرسائل / الدردشات المجدولة التي يمكن للمستخدم حفظها. أدخل 0 للحصول على عدد غير محدود. يتم الجمع بين هذا لكل من الرسائل القصيرة والواتس اب.
+and_pack_line131 === على سبيل المثال 25
+and_pack_line136 === الحد الأقصى لعدد مفاتيح API التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line138 === على سبيل المثال 10
+and_pack_line143 === الحد الأقصى لعدد Webhooks التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line145 === على سبيل المثال 5
+and_pack_line150 === حد الإجراءات
+and_pack_line150_1 === الحد الأقصى لعدد الإجراءات التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_pack_line152 === على سبيل المثال 5
+and_page_line17 === اسم الصفحة.
+and_page_line24 === فقط الأدوار المختارة ستكون قادرة على الوصول إلى هذه الصفحة.
+and_page_line35 === إذا تم التمكين ، فلن يمكن الوصول إلى الصفحة إذا لم يتم تسجيل الدخول.
+and_page_line45 === محتوى الصفحة. جميع علامات html مسموح بها ، كن حذرًا عند إضافة نصوص من مصادر غير معروفة!
+and_payout_line17 === مقدار
+and_payout_line17_1 === المبلغ المطلوب سحبه ، أعداد صحيحة فقط.
+and_payout_line19 === على سبيل المثال 50
+and_payout_line24 === مزود
+and_payout_line24_1 === حدد مزود الدفع الذي تريد استخدامه لتلقي الأموال.
+and_payout_line27 === باي بال
+and_payout_line28 === بايونير
+and_payout_line34 === عنوان الدفع
+and_payout_line34_1 === عنوان الدفع أو البريد الإلكتروني ، يرجى التحقق بعناية لمنع مشاكل الدفع.
+and_payout_line36 === على سبيل المثال بريدك الإلكتروني في PayPal
+and_payout_line43 === طلب
+and_plug_line17 === ملف البرنامج المساعد
+and_plug_line17_1 === ملف مضغوط للمكون الإضافي ، يرجى التأكد من تحديد الملف الصحيح.
+and_push_line17 === عنوان
+and_push_line17_1 === دفع العنوان.
+and_push_line19 === على سبيل المثال إعلان
+and_push_line24 === صورة
+and_push_line24_1 === دفع مصغر للصورة ، هذا اختياري.
+and_push_line27 === اختياري
+and_push_line34 === رسالة
+and_push_line34_1 === رسالة دفع.
+and_push_line41 === المستخدمون
+and_push_line41_1 === البث من قبل المستخدمين.
+and_push_line53 === الأدوار
+and_push_line53_1 === بث حسب الأدوار.
+and_role_line17 === اسم الدور.
+and_role_line19 === على سبيل المثال مطور
+and_role_line24 === حدد الأذونات والميزات التي تريد تعطيلها / تمكينها لهذا الدور. يتم تطبيق التغييرات في الوقت الفعلي ، ويتم إعادة تحميل علامات تبويب المتصفح للمستخدمين المتصلين مع الدور تلقائيًا.
+and_short_line17 === اسم
+and_short_line17_1 === اسم المُقصر.
+and_short_line19 === على سبيل المثال قليلا
+and_short_line24 === مراقب
+and_short_line24_1 === حدد ملف وحدة تحكم الاختصار ، وسيحتوي هذا على منطق الاختصار ورمزه. من المستحسن التحقق من الوثائق.
+and_short_line27 === تحكم Boilerplate:
+and_sms_line17 === اسم الرسالة المجدولة.
+and_sms_line19 === على سبيل المثال رسالتي
+and_sms_line24 === حدد تاريخ الجدول.
+and_sms_line26 === على سبيل المثال 06/22/2020 12:00 ص
+and_sms_line31 === في حالة التمكين ، ستتم جدولة الرسالة في كل مرة يتم فيها مطابقة التاريخ المجدول.
+and_sms_line42 === عدة أرقام E.164 مفصولة بفاصل أسطر.
+and_sms_line55 === حدد مجموعات اتصال متعددة
+and_sms_line67 === مقلل
+and_sms_line67_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_sms_line70 === لا تقصر الروابط
+and_sms_line79 === وضع البوابة
+and_sms_line79_1 === وضع البوابة الذي تريد استخدامه. إذا اخترت الأجهزة ، فسيتم عرض أجهزتك المرتبطة للإرسال ، وإلا فسيتم عرض بوابات الطرف الثالث والشريك.
+and_sms_line82 === الأجهزة
+and_sms_line83 === الاعتمادات
+and_sms_line88 === فتحة لبطاقة SIM للاستخدام.
+and_sms_line91 === بطاقة SIM1
+and_sms_line92 === بطاقة SIM2
+and_sms_line97 === قوالب الرسائل المعدة مسبقًا.
+and_sms_line110 === أجهزتك المرتبطة ، اختر ما تريد استخدامه للإرسال.
+and_sms_line121 === بوابة الرسائل القصيرة
+and_sms_line121_1 === بوابات الطرف الثالث والشريك ، سيتم استخدام أرصدةك عند إرسال رسائل باستخدام هذه البوابات. نوصي بالتحقق من أسعار البوابة قبل استخدامها.
+and_sms_line141 === سبينتاكس
+and_sms_line144 === مثال:
+and_sms_line144_1 === توم هو
+and_sms_line144_2 === قطة
+and_sms_line147 === القيم
+and_sms_line147_1 === جيد
+and_sms_line147_2 === و
+and_sms_line147_3 === سيئ
+and_sms_line147_4 === سيتم استخدامها بشكل عشوائي.
+and_subs_line17 === حساب المستخدم.
+and_subs_line28 === باقة الاشتراك.
+and_subs_line41 === مدة الاشتراك.
+and_subs_line43 === على سبيل المثال 12
+and_temp_line17 === اسم القالب.
+and_temp_line24 === تنسيق القالب.
+and_temp_line31 === سبينتاكس
+and_temp_line31_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_temp_line35 === مثال:
+and_temp_line35_1 === توم هو
+and_temp_line35_2 === قطة
+and_temp_line38 === القيم
+and_temp_line38_1 === جيد
+and_temp_line38_2 === سيئ
+and_temp_line38_3 === سيتم استخدامها بشكل عشوائي.
+and_temp_line43 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_user_line17 === الاسم القانوني الكامل.
+and_user_line19 === على سبيل المثال مايكل كورس
+and_user_line24 === عنوان بريد الكتروني مفعّل.
+and_user_line26 === على سبيل المثال user@mail.com
+and_user_line31 === أدخل كلمة مرور المستخدم.
+and_user_line38 === المنطقة الزمنية لموقع المستخدم ، قم بتغيير هذا إذا كانوا في بلد مختلف. يتم استخدام المنطقة الزمنية لدقة التاريخ والوقت للرسائل المرسلة والبيانات الأخرى.
+and_user_line49 === دولة
+and_user_line49_1 === بلد المستخدم ، يتم استخدامه للدفع وتنسيق رقم الهاتف.
+and_user_line60 === أصوات الإخطار
+and_user_line60_1 === في حالة التعطيل ، ستكون الإخطارات صامتة.
+and_user_line70 === حدد دور المستخدم.
+and_user_line81 === حدد لغة المستخدم.
+and_user_line92 === برنامج الشريك
+and_user_line92_1 === في حالة التمكين ، سيتمكن المستخدم من استخدام أجهزته كأجهزة عالمية تتيح له كسب المال عندما يرسل مستخدم آخر رسائل باستخدام أجهزته.
+and_ussd_line17 === كود USSD
+and_ussd_line17_1 === رمز طلب USSD.
+and_ussd_line19 === على سبيل المثال * 121 #
+and_ussd_line24 === فتحة لبطاقة SIM للاستخدام.
+and_ussd_line27 === بطاقة SIM1
+and_ussd_line28 === بطاقة SIM2
+and_ussd_line34 === أجهزتك المرتبطة ، اختر ما تريد استخدامه لطلب ussd.
+and_ussd_line47 === طلب
+and_vouch_line17 === اسم القسيمة.
+and_vouch_line19 === على سبيل المثال مميز
+and_vouch_line24 === مقدار القسائم التي تريد إنشاءها. الحد الأقصى للقيمة 1000!
+and_vouch_line26 === على سبيل المثال 100
+and_vouch_line31 === مدة الاشتراك.
+and_vouch_line33 === على سبيل المثال 12
+and_vouch_line38 === باقة الاشتراك.
+and_web_line17 === اسم الرد التلقائي على الويب.
+and_web_line24 === تلقي الأحداث
+and_web_line24_1 === حدد أحداث الاستلام التي تحتاجها ، وسيتم إرسالها إلى عنوان URL لربط الويب الخاص بك عبر طريقة POST.
+and_web_line27 === رسالة قصيرة
+and_web_line28 === ال WhatsApp
+and_web_line29 === USSD
+and_web_line30 === إشعارات
+and_web_line36 === عنوان url الخاص بـ webhook ، سيتم إرسال جميع بيانات الحمولة هنا عبر طريقة POST.
+and_web_line38 === على سبيل المثال http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === اسم الدردشة المجدولة.
+and_whatssched_line19 === على سبيل المثال رسالتي
+and_whatssched_line24 === حدد تاريخ الجدول.
+and_whatssched_line26 === على سبيل المثال 06/22/2020 12:00 ص
+and_whatssched_line31 === في حالة التمكين ، ستتم جدولة الدردشة في كل مرة يتم فيها مطابقة التاريخ المجدول.
+and_whatssched_line42 === عدة أرقام E.164 مفصولة بفاصل أسطر.
+and_whatssched_line55 === حدد مجموعات اتصال متعددة
+and_whatssched_line67 === مقلل
+and_whatssched_line67_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_whatssched_line70 === لا تقصر الروابط
+and_whatssched_line79 === الحساب
+and_whatssched_line79_1 === حدد حساب WhatsApp الذي تريد استخدامه.
+and_whatsached_line88 === قوالب الرسائل المعدة مسبقًا.
+and_whatssched_line103 === سبينتاكس
+and_whatssched_line103_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_whatssched_line107 === مثال:
+and_whatssched_line101_1 === توم هو
+and_whatssched_line107_2 === قطة
+and_whatssched_line110 === القيم
+and_whatssched_line110_1 === جيد
+and_whatssched_line110_2 === و
+and_whatssched_line110_3 === سيئ
+and_whatssched_line110_4 === سيتم استخدامها بشكل عشوائي.
+and_whatssched_line115 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_whatssched_line128 === إرسال
+and_whatsapp_line15 === قم بتوصيل WhatsApp الخاص بك عن طريق النقر فوق الزر لعرض رمز QRC ثم مسحه ضوئيًا عبر
+and_whatsapp_line15_1 === ربط جهاز
+and_whatsapp_line15_2 === زر في التطبيق. لديك 60 ثانية فقط لمسح رمز QRCode.
+and_whatsapp_line16 === حساب الارتباط
+and_add_widget_line17 === اسم التطبيق المصغر.
+and_add_widget_line24 === رمز القطعة ، للشروط فقط. يرجى زيارة line awesome للإشارة إلى الرمز.
+and_add_widget_line26 === على سبيل المثال لا لا معلومات الدائرة
+and_add_widget_line31 === نوع القطعة. الكتل مخصصة للوضع في أجزاء مختلفة من القوالب ، أما النماذج فهي للمحتويات الديناميكية. منذ الإصدار 3 ، ستعمل النماذج فقط في لوحة القيادة.
+and_add_widget_line34 === منع
+and_add_widget_line35 === مشروط
+and_add_widget_line41 === حجم القطعة ، للشروط فقط.
+and_add_widget_line53 === موضع القطعة ، للشروط فقط.
+and_add_widget_line64 === محتوى القطعة. جميع علامات html مسموح بها ، كن حذرًا عند إضافة نصوص من مصادر غير معروفة!
+and_add_widget_line66 === مرحبا بالعالم!
+and_admin_build_line16 === تطبيق
+and_admin_build_line21 === اسم حزمة التطبيق ، يجب أن يكون فريدًا ويتبع نطاقًا مثل تنسيق com.yourdomain.yourapp ، نوصي باتباع اسم المجال الخاص بك لجعله فريدًا.
+and_admin_build_line23 === على سبيل المثال com.gateway.sample
+and_admin_build_line28 === اسم التطبيق ، يظهر هذا في درج التطبيق وأجزاء أخرى من التطبيق.
+and_admin_build_line30 === على سبيل المثال بوابة زندر
+and_admin_build_line35 === وصف التطبيق ، وصف موجز لتطبيقك.
+and_admin_build_line42 === سمة لون التطبيق
+and_admin_build_line42_1 === سمة ألوان التطبيق ، يوصى بمطابقة ذلك مع شعار التطبيق وألوان صورة البداية.
+and_admin_build_line44 === على سبيل المثال # 000000
+and_admin_build_line49 === إصدار APK
+and_admin_build_line_49_1 === إصدار APK ، إذا كنت تعيد إنشاء تطبيقك ، فيرجى أيضًا تحديث هذا الحقل عن طريق زيادة القيمة ، إذا كانت القيمة الحالية 1 ، فيجب زيادتها إلى 2 قبل إنشاء التطبيق الخاص بك. هذا مطلوب لتشغيل ميزة التحديث في التطبيق وسيفرض على المستخدم التحديث.
+and_admin_build_line51 === على سبيل المثال 1.0
+and_admin_build_line56 === بناء البريد الإلكتروني
+and_admin_build_line_56_1 === بريدك الإلكتروني الصحيح ، يرجى التأكد من تغيير هذا. سيتم إرسال نتيجة البناء إلى هذا البريد الإلكتروني!
+and_admin_build_line58 === على سبيل المثال myvalidemail@mail.com
+and_admin_build_line62 === شهاداته
+and_admin_build_line67 === خدمات جوجل
+and_admin_build_line67_1 === ملف json الخاص بخدمات google ، هذا مطلوب لمعاملات FCM في تطبيق البوابة.
+and_admin_build_line75 === بيانات اعتماد Firebase
+and_admin_build_line75_1 === ملف json لبيانات اعتماد مسؤول Firebase ، فهذا مطلوب للسماح للنظام بالاتصال بالتطبيق.
+and_admin_build_line82 === أصول
+and_admin_build_line87 === شعار صورة التطبيق ، هذه هي الصورة المعروضة في عنوان التطبيق. الأبعاد الموصى بها هي 251 × 53 بكسل. الخلفية الشفافة أفضل.
+and_admin_build_line95 === شعار تسجيل الدخول للتطبيق
+and_admin_build_line95_1 === شعار صورة تسجيل الدخول للتطبيق ، هذه هي الصورة المعروضة في نموذج تسجيل الدخول. الأبعاد الموصى بها هي 250 × 100 بالبكسل والخط الداكن. الخلفية الشفافة أفضل.
+and_admin_build_line103 === أيقونة صورة التطبيق ، تظهر في درج التطبيق ونظام android. الأبعاد الموصى بها هي 1024 × 1024 بتنسيق بكسل و png.
+and_admin_build_line111 === صورة شاشة البداية للتطبيق ، تظهر عندما يفتح المستخدم التطبيق. الأبعاد الموصى بها هي 2732 × 2732 بتنسيق بكسل و png.
+and_admin_build_line118 === بنية
+and_admin_build_line123 === جافا سكريبت مخصص
+and_admin_build_line123_1 === إذا كنت تريد استخدام رمز جافا سكريبت مخصص ، فيرجى إضافته هنا. يتم تحميل هذا ديناميكيًا في التطبيق.
+and_admin_build_line125 === على سبيل المثال ، تنبيه ("Hello World!") ؛
+and_admin_build_line130 === لغة تنسيق ويب حسب الطلب
+and_admin_build_line130_1 === إذا كنت تريد استخدام رمز css مخصص ، فيرجى إضافته هنا. يتم تحميل هذا ديناميكيًا في التطبيق.
+and_admin_build_line137 === تخطيط مخصص
+and_admin_build_line137_1 === إذا كنت تريد استخدام هيكل تطبيق مخصص ، فالرجاء تعديل محتوى html ، وإذا كنت لا تعرف ما تفعله ، فالرجاء ترك القيمة الافتراضية.
+and_admin_build_line139 === مرحبا بالعالم!
+and_settings_line21 === اسم الموقع ، يظهر هذا في كل مكان حيث تكون العلامة التجارية مطلوبة.
+and_settings_line23 === على سبيل المثال زندر
+and_settings_line28 === وصف الموقع ، هذا لتحسين محرك البحث ، لذا كن مبدعًا.
+and_settings_line30 === على سبيل المثال هذه خدمة بوابة الرسائل القصيرة رائعة
+and_settings_line35 === كود الشراء envato الخاص بك ، هذا مطلوب لفتح بعض الميزات الحصرية للبرنامج النصي.
+and_settings_line37 === على سبيل المثال e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === مفتاح تحليلات google الخاص بك ، هذا اختياري لأن النظام يحتوي بالفعل على إحصائيات الزوار المضمنة.
+and_settings_line44 === على سبيل المثال UA-179148389-1
+and_settings_line49 === بروتوكول موقعك ، يرجى التأكد من تحديد البروتوكول الصحيح. إذا كان موقعك يستخدم https ، فيرجى تحديده ، وإلا فحدد http.
+and_settings_line59 === لغة النظام الافتراضية ، يتم استخدامها عندما يزور مستخدم جديد موقعك.
+and_settings_line70 === في حالة التعطيل ، لن يتم السماح بالتسجيلات عبر صفحة التسجيل.
+and_settings_line80 === وضع إعادة الحزمة
+and_settings_line80_1 === فترة إعادة تعيين الحدود مثل الإرسال والاستلام و ussd والإخطارات. هذا ينطبق على كل من ميزات Android و WhatsApp. يجب أيضًا تطبيق اختيارك هنا في إعداد cron.
+and_settings_line83 === يوميًا
+and_settings_line84 === شهريا
+and_settings_line90 === موديل مجاني
+and_settings_line90_1 === في حالة التمكين ، يتم تعيين الحزمة المجانية الافتراضية تلقائيًا للمستخدم بعد التسجيل.
+and_settings_line100 === إذا تم تعطيله ، فلن يتم استخدام الصفحة الرئيسية. سيتم إعادة توجيه جميع الزيارات في الدليل الجذر إلى لوحة القيادة.
+and_settings_line110 === أداة الدردشة TAWK
+and_settings_line110_1 === في حالة التمكين ، ستظهر أداة tawk chat للمستخدمين.
+and_settings_line120 === رابط تطبيق tawk chat الخاص بك ، هذا مطلوب إذا كنت تريد استخدام دعم tawk chat.
+and_settings_line127 === واجهة برمجة تطبيقات المشرف
+and_settings_line127_1 === حدد نقاط نهاية API الإدارية التي تريد تمكينها. من المستحسن أن تقوم فقط بتمكين نقاط النهاية التي تحتاجها.
+and_settings_line159 === يجب عدم مشاركة هذا الرمز مع أي شخص. يستخدم هذا لأمان cronjobs ، وواجهة برمجة تطبيقات النظام والطلبات الخارجية الأخرى. إذا كنت تعتقد أن رمز النظام الخاص بك قد تعرض للاختراق ، فالرجاء إعادة إنشاء رمز جديد ، وسوف تحتاج إلى إعادة تكوين وظائف cronjobs الخاصة بك وواجهة برمجة تطبيقات النظام والإعدادات الأخرى ذات الصلة بعد إعادة إنشاء رمز مميز جديد.
+and_settings_line160 === تجديد
+and_settings_line173 === إذا كنت تريد استخدام خادم البريد المدمج ، فالرجاء تحديد أصلي ، وإلا فحدد smtp ثم قم بتهيئة بيانات اعتماد بريدك.
+and_settings_line183 === بروتوكول smtp المراد استخدامه ، يرجى تحديد البروتوكول المدعوم لخادم البريد البعيد الخاص بك.
+and_settings_line193 === البريد الإلكتروني للموقع ، هذا هو اسم البريد الإلكتروني الذي يظهر للمستلمين ، يوصى باستخدام noreply@yoursite.com لأغراض العلامات التجارية.
+and_settings_line195 === على سبيل المثال noreply@domain.com
+and_settings_line200 === عنوان مضيف خادم SMTP البعيد الخاص بك.
+and_settings_line205 === على سبيل المثال smtp.gmail.com
+and_settings_line210 === منفذ خادم SMTP البعيد الخاص بك.
+and_settings_line215 === على سبيل المثال 587
+and_settings_line220 === اسم مستخدم خادم SMTP البعيد الخاص بك.
+and_settings_line225 === على سبيل المثال username@gmail.com
+and_settings_line230 === كلمة مرور خادم SMTP البعيد.
+and_settings_line235 === كلمة مرور حساب Gmail الخاص بك
+and_settings_line244 === بريدك الإلكتروني التجاري على paypal.
+and_settings_line246 === على سبيل المثال mail@domain.com
+and_settings_line251 === في حالة التمكين ، سيتم إعادة توجيه جميع معاملات paypal إلى وضع الحماية.
+and_settings_line261 === مفتاح mollie api الخاص بك.
+and_settings_line263 === على سبيل المثال test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === عملة النظام المراد استخدامها ، سيتم استخدامها كأساس عند تحويل المعاملات إلى الدولار الأمريكي.
+and_settings_line279 === حدد موفري الدفع الذين تريد استخدامهم.
+and_settings_line293 === الحد الأدنى من الأحرف للرسائل. هذا ينطبق على كل من الرسائل القصيرة و WhatsApp.
+and_settings_line295 === على سبيل المثال 5
+and_settings_line300 === أقصى عدد من الأحرف للرسائل. هذا ينطبق على كل من الرسائل القصيرة و WhatsApp. أدخل 0 للأحرف اللانهائية.
+and_settings_line302 === على سبيل المثال 300
+and_settings_line307 === علامة تذييل الرسالة ، يتم إلحاق هذا بالرسائل إذا تم تمكين علامة تذييل الحزمة الخاصة بهم.
+and_settings_line309 === على سبيل المثال مرسل من نظام زندر
+and_settings_line318 === العدد الافتراضي للصفوف المراد عرضها في جدول الرسائل المرسلة. هذا ينطبق على كل من الرسائل القصيرة و WhatsApp.
+and_settings_line320 === على سبيل المثال 10
+and_settings_line325 === العدد الافتراضي للصفوف المراد عرضها في جدول الرسائل المستلمة. هذا ينطبق على كل من الرسائل القصيرة و WhatsApp.
+and_settings_line327 === على سبيل المثال 10
+and_settings_line336 === في حالة التمكين ، سيتمكن الزوار من تسجيل الدخول باستخدام حسابات وسائل التواصل الاجتماعي الخاصة بهم.
+and_settings_line346 === حدد موفري وسائل التواصل الاجتماعي الذين تريد استخدامهم.
+and_settings_line349 === فيسبوك
+and_settings_line350 === جوجل
+and_settings_line351 === فكونتاكتي
+and_settings_line357 === معرف الفيسبوك
+and_settings_line357_1 === معرف تطبيق facebook ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line359 === على سبيل المثال 738812983731558
+and_settings_line364 === سر الفيسبوك
+and_settings_line364_1 === سر تطبيق facebook ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line366 === على سبيل المثال 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === معرف جوجل
+and_settings_line371_1 === معرّف تطبيق google ، يرجى قراءة الوثائق للحصول على مزيد من المعلومات.
+and_settings_line373 === على سبيل المثال 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === سر جوجل
+and_settings_line378_1 === سر تطبيق google ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line380 === على سبيل المثال O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === معرف VK
+and_settings_line385_1 === معرّف تطبيق vkontakte ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line387 === على سبيل المثال 7768236
+and_settings_line392 === سر VK
+and_settings_line392_1 === سر تطبيق vkontakte ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line394 === على سبيل المثال pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === في حالة التمكين ، سيتم عرض recaptcha أيضًا في صفحة تسجيل الدخول. يرجى التأكد من تكوين مفتاح recaptcha وسر recaptcha قبل تمكين هذه الميزة وإلا فلن تتمكن من تسجيل الدخول!
+and_settings_line413 === مفتاح recaptcha ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line415 === على سبيل المثال 6LdUnjsUAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === سر recaptcha ، يرجى قراءة الوثائق لمزيد من المعلومات.
+and_settings_line422 === على سبيل المثال 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === ضوء الشعار
+and_theme_line17_1 === صورة شعار فاتحة ، تظهر في الصفحة الرئيسية وصفحات المصادقة عندما يكون عنصر الخلفية معتمًا. الحجم الموصى به هو 250 × 50 بكسل.
+and_theme_line23 === شعار غامق
+and_theme_line223_1 === صورة شعار داكنة ، تظهر في الصفحة الرئيسية وصفحات المصادقة عندما يكون عنصر الخلفية فاتحًا. الحجم الموصى به هو 250 × 50 بكسل.
+and_theme_line29 === صورة الأيقونة المفضلة للموقع ، تظهر في علامة تبويب المتصفح. الحجم الموصى به هو 50 × 50 بكسل.
+and_theme_line35 === الصورة الخلفية
+and_theme_line35_1 === صورة خلفية الموقع ، تظهر في كل مكان. يوصى باستخدام صورة عالية الدقة.
+and_theme_line41 === حدد سمة اللون التي تريد استخدامها للموقع.
+and_theme_line46 === حدد لون التمييز للنصوص.
+and_theme_line51 === لون سبينر
+and_theme_line51_1 === حدد اللون الذي تريد استخدامه لأعلى دوار أجاكس.
+and_theme_line58 === جافا سكريبت مخصص
+and_theme_line58_1 === إذا كنت تريد استخدام رمز جافا سكريبت مخصص ، فيرجى إضافته هنا. يتم تحميل هذا ديناميكيًا في كل صفحة.
+and_theme_line60 === مرحبا بالعالم!
+and_theme_line63 === لغة تنسيق ويب حسب الطلب
+and_theme_line63_1 === إذا كنت تريد تغيير بعض أنماط css ، فيمكنك القيام بذلك هنا.
+and_apikey_line17 === اسم المفتاح.
+and_apikey_line19 === على سبيل المثال لخادمي
+and_apikey_line24 === أذونات المفتاح.
+and_edit_auto_line17 === اسم الإجراء.
+and_edit_auto_line19 === على سبيل المثال الرد التلقائي
+and_edit_auto_line24 === مصدر
+and_edit_auto_line24_1 === مصدر حدث الاستلام.
+and_edit_auto_line34 === استجب للكلمات الرئيسية مفصولة بفواصل. ستطلق هذه الكلمات الرئيسية الاستجابة التلقائية إذا تم اكتشافها في محتوى الرسالة.
+and_edit_auto_line36 === على سبيل المثال شكرا لك حسنا الاشتراك نعم
+and_edit_auto_line41 === الرسالة المراد إرسالها إلى المرسل.
+and_edit_auto_line43 === على سبيل المثال رسالة الرد الخاصة بك هنا ، الرموز القصيرة مقبولة
+and_edit_auto_line48 === مجموعة من المتغيرات التي يمكنك استخدامها في رسالتك.
+and_edit_con_line17 === اسم جهة الاتصال.
+and_edit_con_line19 === على سبيل المثال ميخائيل
+and_edit_con_line24 === رقم الاتصال.
+and_edit_con_line31 === مجموعة الاتصال.
+and_edit_dev_line16 === تفاصيل الجهاز
+and_edit_dev_line21 === اسم الجهاز.
+and_edit_dev_line23 === على سبيل المثال جهازي
+and_edit_dev_line28 === في حالة التمكين ، سيتم إرسال الرسائل في فترات عشوائية بين قيمتين. يمكنك تكوين لهم أدناه.
+and_edit_dev_line38 === الحد الأدنى للفترة بالثواني.
+and_edit_dev_line41 === على سبيل المثال 5
+and_edit_dev_line46 === أقصى فاصل بالثواني.
+and_edit_dev_line49 === على سبيل المثال 20
+and_edit_dev_line53 === إعدادات الإشعار
+and_edit_dev_line58 === التطبيقات
+and_edit_dev_line58_1 === أدخل أسماء حزم التطبيقات التي تريد الحصول على إشعارات منها. افصل بينها بفواصل الأسطر.
+and_edit_dev_line65 === إعدادات الشريك
+and_edit_dev_line70 === معدل
+and_edit_dev_line70_1 === المبلغ الذي تريد تحصيله لكل رسالة ، سيتم استخدام بلد الجهاز كأساس للعملة. يتم دعم القيم العائمة مثل السنتات.
+and_edit_dev_line73 === على سبيل المثال 0.50
+and_edit_dev_line78 === الوضع العالمي
+and_edit_dev_line78_1 === إذا تم تعطيله ، فلن يكون الجهاز متاحًا كبوابة رسائل SMS عالمية ولن تكسب المال. يرجى ملاحظة أن الأجهزة العالمية لا يمكنها تلقي الرسائل لأسباب أمنية.
+and_edit_dev_line89 === دولة
+and_edit_dev_line89_1 === بلد الجهاز ، يتم استخدامه لتحديد أرقام الهواتف وكعملة أساسية لحقل السعر.
+and_edit_dev_line101 === أفضلية
+and_edit_dev_line101_1 === سيتم إرسال الرسائل العالمية أولاً قبل رسائلك الخاصة.
+and_edit_dev_line112 === فتحات SIM
+and_edit_dev_line112_1 === حدد فتحات sim التي تريد استخدامها للإرسال ، إذا قمت بتحديد كليهما ، فسيتم إرسال الرسائل في فتحة عشوائية.
+and_edit_email_line16 === نموذج البريد الإلكتروني
+and_edit_email_line18 === يسمح HTML
+and_edit_gate_line17 === اسم
+and_edit_gate_line17_1 === هذا هو اسم البوابة الذي سيظهر للمستخدمين.
+and_edit_gate_line19 === على سبيل المثال تويليو
+and_edit_gate_line24 === مراقب
+and_edit_gate_line24_1 === حدد ملف وحدة تحكم البوابة ، وسيحتوي هذا على منطق البوابة وكودها. من المستحسن التحقق من الوثائق.
+and_edit_gate_line31 === أتصل مرة أخرى
+and_edit_gate_line31_1 === في حالة التمكين ، يجب التحقق من الرسائل باستخدام ميزة رد الاتصال لبوابة الطرف الثالث لمعرفة حالة الإرسال ، وإلا فسيتم وضع علامة على الرسائل على الفور على أنها مرسلة عند الإرسال.
+and_edit_gate_line34 === ممكن
+and_edit_gate_line35 === إبطال
+and_edit_gate_line41 === معرف رد الاتصال
+and_edit_gate_line41_1 === إذا تم تمكين رد الاتصال ، يجب عليك نسخ هذا المعرف ولصقه في وحدة التحكم الخاصة بك حتى يتمكن النظام من تحديد عمليات الاسترجاعات.
+and_edit_gate_line44 === نسخ ولصق لمعرف رد الاتصال
+and_edit_gate_line51 === التسعير
+and_edit_gate_line51_1 === جدول التسعير المخصص الخاص بك لهذه البوابة. سيسمح لك ذلك بفرض رسوم على أسعار الجهات الخارجية. على سبيل المثال ، إذا فرضت twilio رسومًا بقيمة 0.01 لبلد معين ، فيمكنك حينئذٍ تحصيل 0.02 بدلاً من ذلك ، وتعتمد العملة على عملة نظامك. يرجى اتباع صيغة التسعير بشكل صحيح.
+and_edit_gate_line54 === نموذج تسعير JSON:
+and_edit_gate_line54_1 === تحميل
+and_edit_grp_line17 === أسم المجموعة.
+and_edit_grp_line19 === على سبيل المثال اصحاب
+and_edit_hook_line17 === اسم الإجراء.
+and_edit_hook_line19 === على سبيل المثال إجراء الاختبار
+and_edit_hook_line24 === مصدر
+and_edit_hook_line24_1 === مصدر الحدث.
+and_edit_hook_line27 === رسالة قصيرة
+and_edit_hook_line28 === ال WhatsApp
+and_edit_hook_line34 === حدد الحدث الذي سيتم استدعاء هذا الخطاف فيه.
+and_edit_hook_line37 === عند الإرسال
+and_edit_hook_line38 === عند الاستلام
+and_edit_hook_line44 === هيكل رابط الخطاف ، هذا هو عنوان url الذي سيتم استدعاؤه بواسطة النظام. يتم دعم طريقة GET فقط.
+and_edit_hook_line51 === مجموعة من المتغيرات التي يمكنك استخدامها في رابط URL الخاص بك.
+and_edit_lang_line17 === على سبيل المثال الكورية
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === نعم
+and_edit_lang_line33 === لا
+and_edit_pack_line17 === اسم الحزمة.
+and_edit_pack_line19 === على سبيل المثال باقة VIP
+and_edit_pack_line24 === سعر الحزمة ، يجب أن يتبع عملة النظام. القيم العائمة غير مسموح بها.
+and_edit_pack_line29 === على سبيل المثال 25
+and_edit_pack_line34 === في حالة التمكين ، ستحتوي الرسائل ومحادثات whatsapp على علامة تذييل عند استلامها من قبل المستلمين.
+and_edit_pack_line44 === في حالة التمكين ، سيتم إخفاء الحزمة من نموذج الحزمة والصفحة الرئيسية.
+and_edit_pack_line53 === إعدادات Android
+and_edit_pack_line58 === حد إرسال الرسائل القصيرة
+and_edit_pack_line58_1 === الحد الأقصى لعدد الرسائل التي يمكن للمستخدم إرسالها قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line60 === على سبيل المثال 300
+and_edit_pack_line65 === حد تلقي الرسائل القصيرة
+and_edit_pack_line65_1 === الحد الأقصى لعدد الرسائل التي يمكن أن يتلقاها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line67 === على سبيل المثال 150
+and_edit_pack_line72 === حد USSD
+and_edit_pack_line72_1 === أقصى عدد من دولارات الولايات المتحدة يمكن أن يطلبه المستخدم قبل إعادة الضبط. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line74 === على سبيل المثال 25
+and_edit_pack_line79 === حد الإخطار
+and_edit_pack_line79_1 === أقصى عدد من الإشعارات التي يمكن أن يتلقاها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line81 === على سبيل المثال 1300
+and_edit_pack_line86 === الحد الأقصى لعدد أجهزة Android التي يمكن ربطها بحساب المستخدم. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line88 === على سبيل المثال 25
+and_edit_pack_line92 === إعدادات WhatsApp
+and_edit_pack_line97 === الحد الأقصى لعدد الدردشات التي يمكن للمستخدم إرسالها قبل إعادة الضبط. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line99 === على سبيل المثال 300
+and_edit_pack_line104 === الحد الأقصى لعدد الدردشات التي يمكن أن يستقبلها المستخدم قبل إعادة التعيين. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line106 === على سبيل المثال 150
+and_edit_pack_line111 === حد الحساب
+and_edit_pack_line111_1 === الحد الأقصى لعدد حسابات WhatsApp التي يمكن ربطها بحساب المستخدم. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line113 === على سبيل المثال 10
+and_edit_pack_line117 === إعدادات Ultility
+and_edit_pack_line122 === الحد الأقصى لعدد جهات الاتصال التي يمكن للمستخدم حفظها. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line124 === على سبيل المثال 25
+and_edit_pack_line129 === الحد المقرر
+and_edit_pack_line129_1 === الحد الأقصى لعدد الرسائل / الدردشات المجدولة التي يمكن للمستخدم حفظها. أدخل 0 للحصول على عدد غير محدود. يتم الجمع بين هذا لكل من الرسائل القصيرة والواتس اب.
+and_edit_pack_line131 === على سبيل المثال 25
+and_edit_pack_line136 === الحد الأقصى لعدد مفاتيح API التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line138 === على سبيل المثال 10
+and_edit_pack_line143 === الحد الأقصى لعدد Webhooks التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line145 === على سبيل المثال 5
+and_edit_pack_line150 === حد الإجراءات
+and_edit_pack_line150_1 === الحد الأقصى لعدد الإجراءات التي يمكن إنشاؤها. أدخل 0 للحصول على عدد غير محدود.
+and_edit_pack_line152 === على سبيل المثال 5
+and_edit_page_line17 === اسم الصفحة.
+and_edit_page_line24 === فقط الأدوار المختارة ستكون قادرة على الوصول إلى هذه الصفحة.
+and_edit_page_line35 === إذا تم التمكين ، فلن يمكن الوصول إلى الصفحة إذا لم يتم تسجيل الدخول.
+and_edit_page_line45 === محتوى الصفحة. جميع علامات html مسموح بها ، كن حذرًا عند إضافة نصوص من مصادر غير معروفة!
+and_edit_role_line17 === اسم الدور.
+and_edit_role_line19 === على سبيل المثال مطور
+and_edit_role_line24 === حدد الأذونات والميزات التي تريد تعطيلها / تمكينها لهذا الدور. يتم تطبيق التغييرات في الوقت الفعلي ، ويتم إعادة تحميل علامات تبويب المتصفح للمستخدمين المتصلين مع الدور تلقائيًا.
+and_edit_short_line17 === اسم
+and_edit_short_line17_1 === اسم المُقصر.
+and_edit_short_line19 === على سبيل المثال قليلا
+and_edit_short_line24 === مراقب
+and_edit_short_line24_1 === حدد ملف وحدة تحكم الاختصار ، وسيحتوي هذا على منطق الاختصار ورمزه. من المستحسن التحقق من الوثائق.
+and_edit_sms_line17 === اسم الرسالة المجدولة.
+and_edit_sms_line19 === على سبيل المثال رسالتي
+and_edit_sms_line24 === حدد تاريخ الجدول.
+and_edit_sms_line26 === على سبيل المثال 06/22/2020 12:00 ص
+and_edit_sms_line31 === في حالة التمكين ، ستتم جدولة الرسالة في كل مرة يتم فيها مطابقة التاريخ المجدول.
+and_edit_sms_line42 === عدة أرقام E.164 مفصولة بفاصل أسطر.
+and_edit_sms_line55 === حدد مجموعات اتصال متعددة
+and_edit_sms_line67 === وضع البوابة
+and_edit_sms_line67_1 === وضع البوابة الذي تريد استخدامه. إذا اخترت الأجهزة ، فسيتم عرض أجهزتك المرتبطة للإرسال ، وإلا فسيتم عرض بوابات الطرف الثالث والشريك.
+and_edit_sms_line70 === الأجهزة
+and_edit_sms_line71 === الاعتمادات
+and_edit_sms_line76 === فتحة لبطاقة SIM للاستخدام.
+and_edit_sms_line79 === بطاقة SIM1
+and_edit_sms_line80 === بطاقة SIM2
+and_edit_sms_line88 === أجهزتك المرتبطة ، اختر ما تريد استخدامه للإرسال.
+and_edit_sms_line99 === بوابة الرسائل القصيرة
+and_edit_sms_line99_1 === بوابات الطرف الثالث والشريك ، سيتم استخدام أرصدةك عند إرسال رسائل باستخدام هذه البوابات. نوصي بالتحقق من أسعار البوابة قبل استخدامها.
+and_edit_sms_line119 === سبينتاكس
+and_edit_sms_line122 === مثال:
+and_edit_sms_line122_1 === توم هو
+and_edit_sms_line122_2 === قطة
+and_edit_sms_line125 === القيم
+and_edit_sms_line125_1 === جيد
+and_edit_sms_line125_2 === و
+and_edit_sms_line125_3 === سيئ
+and_edit_sms_line125_4 === سيتم استخدامها بشكل عشوائي.
+and_edit_temp_line17 === اسم القالب.
+and_edit_temp_line24 === تنسيق القالب.
+and_edit_temp_line31 === سبينتاكس
+and_edit_temp_line31_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_edit_temp_line35 === مثال:
+and_edit_temp_line35_1 === توم هو
+and_edit_temp_line35_2 === قطة
+and_edit_temp_line38 === القيم
+and_edit_temp_line38_1 === جيد
+and_edit_temp_line38_2 === و
+and_edit_temp_line38_3 === سيئ
+and_edit_temp_line38_4 === سيتم استخدامها بشكل عشوائي.
+and_edit_temp_line43 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_eduse_line17 === اسمك القانوني الكامل ، يرجى ملاحظة أن استخدام اسم مزيف قد يؤدي إلى تعليق حسابك.
+and_eduse_line19 === على سبيل المثال مايكل كورس
+and_eduse_line24 === عنوان بريد إلكتروني صالح ، تجاهل هذا الحقل إذا كنت تريد الاحتفاظ بعنوان البريد الإلكتروني الحالي.
+and_eduse_line26 === على سبيل المثال user@mail.com
+and_eduse_line31 === إذا كنت تريد الاحتفاظ بكلمة المرور الحالية ، يرجى تجاهل هذا الحقل ، وإلا أدخل كلمة مرور جديدة.
+and_eduse_line38 === المنطقة الزمنية لموقعك ، قم بتغيير هذا إذا كنت في بلد مختلف. يتم استخدام المنطقة الزمنية لدقة التاريخ والوقت للرسائل المرسلة والبيانات الأخرى.
+and_eduse_line49 === دولة
+and_eduse_line49_1 === بلدك ، يتم استخدام هذا في تنسيق المدفوعات وأرقام الهاتف.
+and_eduse_line60 === أصوات الإخطار
+and_eduse_line60_1 === في حالة التعطيل ، ستكون الإخطارات صامتة.
+and_eduse_line70 === حدد دور المستخدم.
+and_eduse_line81 === حدد لغة المستخدم.
+and_eduse_line92 === برنامج الشريك
+and_eduse_line92_1 === في حالة التمكين ، سيتمكن المستخدم من استخدام أجهزته كأجهزة عالمية تتيح له كسب المال عندما يرسل مستخدم آخر رسائل باستخدام أجهزته.
+and_edweb_line17 === اسم الرد التلقائي على الويب.
+and_edweb_line24 === تلقي الأحداث
+and_edweb_line24_1 === حدد أحداث الاستلام التي تحتاجها ، وسيتم إرسالها إلى عنوان URL لربط الويب الخاص بك عبر طريقة POST.
+and_edweb_line30 === إشعارات
+and_edweb_line36 === عنوان url الخاص بـ webhook ، سيتم إرسال جميع بيانات الحمولة هنا عبر طريقة POST.
+and_edweb_line38 === على سبيل المثال https://yourdomain.com/reply.php
+and_edwhat_line17 === اسم الدردشة المجدولة.
+and_edwhat_line19 === على سبيل المثال رسالتي
+and_edwhat_line24 === حدد تاريخ الجدول.
+and_edwhat_line26 === على سبيل المثال 06/22/2020 12:00 ص
+and_edwhat_line31 === في حالة التمكين ، ستتم جدولة الدردشة في كل مرة يتم فيها مطابقة التاريخ المجدول.
+and_edwhat_line42 === عدة أرقام E.164 مفصولة بفاصل أسطر.
+and_edwhat_line55 === حدد مجموعات اتصال متعددة
+and_edwhat_line67 === الحساب
+and_edwhat_line67_1 === حدد حساب WhatsApp الذي تريد استخدامه.
+and_edwhat_line76 === قوالب الرسائل المعدة مسبقًا.
+and_edwhat_line91 === سبينتاكس
+and_edwhat_line91_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_edwhat_line95 === مثال:
+and_edwhat_line95_1 === توم هو
+and_edwhat_line95_2 === قطة
+and_edwhat_line98 === القيم
+and_edwhat_line98_1 === جيد
+and_edwhat_line98_2 === و
+and_edwhat_line98_3 === سيئ
+and_edwhat_line98_4 === سيتم استخدامها بشكل عشوائي.
+and_edwhat_line103 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_edwhat_line116 === إرسال
+and_edwid_line17 === اسم التطبيق المصغر.
+and_edwid_line24 === رمز القطعة ، للشروط فقط. يرجى زيارة line awesome للإشارة إلى الرمز.
+and_edwid_line31 === نوع القطعة. الكتل مخصصة للوضع في أجزاء مختلفة من القوالب ، أما النماذج فهي للمحتويات الديناميكية. منذ الإصدار 3 ، ستعمل النماذج فقط في لوحة القيادة.
+and_edwid_line34 === منع
+and_edwid_line35 === مشروط
+and_edwid_line41 === حجم القطعة ، للشروط فقط.
+and_edwid_line53 === موضع القطعة ، للشروط فقط.
+and_edwid_line64 === محتوى القطعة. جميع علامات html مسموح بها ، كن حذرًا عند إضافة نصوص من مصادر غير معروفة!
+and_import_line17 === ملف Excel الذي تريد استيراده ، يرجى التأكد من اتباع التنسيق المطلوب.
+and_import_line20 === ملف عينة:
+and_import_line20_1 === تحميل
+and_package_line36 === استقبال الرسائل القصيرة
+and_package_line41 === إرسال WhatsApp
+and_package_line46 === تلقي WhatsApp
+and_package_line51 === USSD
+and_package_line56 === إشعارات
+and_package_line61 === مجدولة الرسائل القصيرة / الدردشات
+and_package_line66 === جهات الاتصال
+and_package_line71 === مفاتيح API
+and_package_line76 === ويب هوك
+and_package_line81 === أجراءات
+and_package_line86 === أجهزة أندرويد
+and_package_line91 === حسابات WhatsApp
+and_redeem_line18 === استرداد الرمز.
+and_redeem_line20 === على سبيل المثال 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === عدة أرقام E.164 مفصولة بفاصل أسطر. سيتم إرسال رسالة واحدة فقط إلى رقم حتى إذا قمت بتحديد المجموعات التي تمت إضافتها إليها.
+and_sms_bulk_31 === حدد مجموعات اتصال متعددة. سيتم إرسال رسالة واحدة فقط إلى جهة اتصال حتى إذا قمت بتحديد مجموعات متعددة حيث تمت إضافتها.
+and_sms_bulk_43 === مقلل
+and_sms_bulk_43_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_sms_bulk_46 === لا تقصر الروابط
+and_sms_bulk_55 === وضع البوابة
+and_sms_bulk_55_1 === وضع البوابة الذي تريد استخدامه. إذا اخترت الأجهزة ، فسيتم عرض أجهزتك المرتبطة للإرسال ، وإلا فسيتم عرض بوابات الطرف الثالث والشريك.
+and_sms_bulk_58 === الأجهزة
+and_sms_bulk_59 === الاعتمادات
+and_sms_bulk_64 === فتحة لبطاقة SIM للاستخدام.
+and_sms_bulk_67 === بطاقة SIM1
+and_sms_bulk_68 === بطاقة SIM2
+and_sms_bulk_72 === في حالة التمكين ، سيتم إرسال هذه الرسائل قبل أي شيء آخر.
+and_sms_bulk_81 === قوالب الرسائل المعدة مسبقًا.
+and_sms_bulk_94 === أجهزتك المرتبطة ، اختر ما تريد استخدامه للإرسال.
+and_sms_bulk_105 === بوابة الرسائل القصيرة
+and_sms_bulk_105_1 === بوابات الطرف الثالث والشريك ، سيتم استخدام أرصدةك عند إرسال رسائل باستخدام هذه البوابات. نوصي بالتحقق من أسعار البوابة قبل استخدامها
+and_sms_bulk_126 === ترجم الرسالة.
+and_sms_bulk_131 === سبينتاكس
+and_sms_bulk_131_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_sms_bulk_135 === مثال:
+and_sms_bulk_143 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_sms_exe17 === ملف Excel الذي تريد استيراده ، يرجى التأكد من اتباع التنسيق المطلوب.
+and_sms_exe20 === ملف عينة:
+and_sms_exe20_1 === تحميل
+and_sms_exe27 === مقلل
+and_sms_exe27_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_sms_exe30 === لا تقصر الروابط
+and_sms_exe39 === وضع البوابة
+and_sms_exe39_1 === وضع البوابة الذي تريد استخدامه. إذا اخترت الأجهزة ، فسيتم عرض أجهزتك المرتبطة للإرسال ، وإلا فسيتم عرض بوابات الطرف الثالث والشريك.
+and_sms_exe42 === الأجهزة
+and_sms_exe43 === الاعتمادات
+and_sms_exe47 === قوالب الرسائل المعدة مسبقًا.
+and_sms_exe60 === أجهزتك المرتبطة ، اختر ما تريد استخدامه للإرسال.
+and_sms_exe70 === بوابة الرسائل القصيرة
+and_sms_exe70_1 === بوابات الطرف الثالث والشريك ، سيتم استخدام أرصدةك عند إرسال رسائل باستخدام هذه البوابات. نوصي بالتحقق من أسعار البوابة قبل استخدامها.
+and_sms_exe92 === ترجم الرسالة.
+and_sms_exe97 === سبينتاكس
+and_sms_exe97_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_sms_exe109 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_sms_quick17 === رقم هاتف المستلم.
+and_sms_quick24 === وضع البوابة
+and_sms_quick24_1 === وضع البوابة الذي تريد استخدامه. إذا اخترت الأجهزة ، فسيتم عرض أجهزتك المرتبطة للإرسال ، وإلا فسيتم عرض بوابات الطرف الثالث والشريك.
+and_sms_quick27 === الأجهزة
+and_sms_quick28 === الاعتمادات
+and_sms_quick34 === مقلل
+and_sms_quick34_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_sms_quick37 === لا تقصر الروابط
+and_sms_quick46 === فتحة لبطاقة SIM للاستخدام.
+and_sms_quick49 === بطاقة SIM1
+and_sms_quick50 === بطاقة SIM2
+and_sms_quick56 === في حالة التمكين ، سيتم إرسال هذه الرسائل قبل أي شيء آخر.
+and_sms_quick66 === أجهزتك المرتبطة ، اختر ما تريد استخدامه للإرسال.
+and_sms_quick77 === بوابة الرسائل القصيرة
+and_sms_quick77_1 === بوابات الطرف الثالث والشريك ، سيتم استخدام أرصدةك عند إرسال رسائل باستخدام هذه البوابات. نوصي بالتحقق من أسعار البوابة قبل استخدامها.
+and_sms_quick104 === سبينتاكس
+and_sms_quick104_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_sysup17 === ملف التحديث
+and_sysup17_1 === تحديث ملف مضغوط ، يرجى التأكد من تحديد الملف الصحيح.
+and_upplug17 === ملف التحديث
+and_upplug17_1 === تحديث ملف مضغوط ، يرجى التأكد من تحديد الملف الصحيح.
+and_uset17 === الصورة الرمزية لملفك الشخصي.
+and_uset24 === اسمك القانوني الكامل ، يرجى ملاحظة أن استخدام اسم مزيف قد يؤدي إلى تعليق حسابك.
+and_uset26 === على سبيل المثال مايكل شموك
+and_uset31 === عنوان بريدك الإلكتروني الصحيح ، تجاهل هذا الحقل إذا كنت تريد الاحتفاظ بعنوان بريدك الإلكتروني الحالي.
+and_uset33 === على سبيل المثال yourmail@mail.com
+and_uset38 === المنطقة الزمنية لموقعك ، قم بتغيير هذا إذا كنت في بلد مختلف. يتم استخدام المنطقة الزمنية لدقة التاريخ والوقت للرسائل المرسلة والبيانات الأخرى.
+and_uset49 === دولة
+and_uset49_1 === بلدك ، يتم استخدام هذا في تنسيق المدفوعات وأرقام الهاتف.
+and_uset60 === أصوات الإخطار
+and_uset60_1 === في حالة التعطيل ، ستكون الإخطارات صامتة.
+and_uset70 === إذا كنت تريد الاحتفاظ بكلمة المرور الحالية ، فيرجى تجاهل هذا الحقل ، وإلا أدخل كلمة المرور الجديدة.
+and_usub23 === صالح حتى
+and_usub28 === إرسال الرسائل القصيرة
+and_usub34 === استقبال الرسائل القصيرة
+and_usub40 === إرسال WhatsApp
+and_usub46 === تلقي WhatsApp
+and_usub57 === USSD
+and_usub63 === إشعارات
+and_usub69 === مجدولة الرسائل القصيرة / الدردشات
+and_usub98 === أجراءات
+and_usub104 === أجهزة أندرويد
+and_usub110 === حسابات WhatsApp
+and_view20 === عرض كامل
+and_whatsbulk_18 === عدة أرقام E.164 مفصولة بفاصل أسطر.
+and_whatsbulk_31 === حدد مجموعات اتصال متعددة. يرجى ملاحظة أنه إذا كان لدى جهة اتصال مجموعات متعددة ، فقد يتم إرسال الرسالة عدة مرات إليها إذا قمت بتحديد المجموعات التي تم تضمينها فيها.
+and_whatsbulk_43 === مقلل
+and_whatsbulk_43_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_whatsbulk_46 === لا تقصر الروابط
+and_whatsbulk_55 === الحساب
+and_whatsbulk_55_1 === حدد حساب WhatsApp الذي تريد استخدامه.
+and_whatsbulk_64 === قوالب الرسائل المعدة مسبقًا.
+and_whatsbulk_79 === ترجم الرسالة.
+and_whatsbulk_84 === سبينتاكس
+and_whatsbulk_84_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_whatsbulk_96 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_whatex17 === ملف Excel الذي تريد استيراده ، يرجى التأكد من اتباع التنسيق المطلوب.
+and_whatex20 === ملف عينة:
+and_whatex20_1 === تحميل
+and_whatex27 === مقلل
+and_whatex27_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_whatex30 === لا تقصر الروابط
+and_whatex39 === الحساب
+and_whatex39_1 === حدد حساب WhatsApp الذي تريد استخدامه.
+and_whatex48 === قوالب الرسائل المعدة مسبقًا.
+and_whatex63 === ترجم الرسالة.
+and_whatex68 === سبينتاكس
+and_whatex68_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_whatex80 === مجموعة من المتغيرات التي يمكنك استخدامها في رسائلك.
+and_whatquick_17 === E.164 رقم هاتف المستلم.
+and_whatquick_24 === مقلل
+and_whatquick_24_1 === في حالة التمكين ، سيتم تقصير الروابط الموجودة في الرسائل تلقائيًا باستخدام الاختصار المحدد.
+and_whatquick_27 === لا تقصر الروابط
+and_whatquick_36 === الحساب
+and_whatquick_36_1 === حدد حساب WhatsApp الذي تريد استخدامه.
+and_whatquick_50 === ترجم الرسالة.
+and_whatquick_55 === سبينتاكس
+and_whatquick_55_1 === ميزة تسمح لك بترتيب الكلمات عشوائيًا في رسائلك مما يمنع بشكل فعال عمليات اكتشاف البريد العشوائي.
+and_admin_api_3 === واجهة برمجة تطبيقات الإدارة
+and_admin_fileman_3 === محرر القوالب
+and_admin_gate_3 === بوابات الرسائل القصيرة
+and_admin_gate_8 === إضافة بوابة
+and_admin_lang_6 === أعد ترتيب اللغات
+and_admin_mark_3 === تسويق
+and_admin_mark_6 === حذف العناصر المحددة
+and_admin_mark_12 === يدفع
+and_admin_mark_17 === يخطر
+and_admin_mark_22 === مراسل رقمي
+and_admin_payout_3 === طلبات الدفع
+and_admin_short_3 === أقصر
+and_admin_short_8 === أضف المُقصر
+and_admin_subs_8 === إضافة اشتراك
+and_admin_vouch_6 === حذف العناصر المحددة
+and_droid_dev_3 === أجهزة أندرويد
+and_droid_dev_6 === اقرأ الوثائق
+and_droid_dev_8 === المستندات
+and_droid_dev_11 === تقدم بطلب لتصبح مزود بوابة شريك
+and_droid_dev_13 === شراكة
+and_droid_dev_16 === تسجيل جهاز android جديد
+and_droid_not_3 === إشعارات
+and_droid_not_6 === حذف العناصر المحددة
+and_droid_rev_3 === تلقى الرسائل القصيرة
+and_droid_rev_6 === حذف الرسائل المختارة
+and_droid_sched_6 === حذف العناصر المحددة
+and_droid_sent_3 === أرسلت SMS
+and_droid_sent_6 === حذف العناصر المحددة
+and_droid_sent_10 === مسح كافة الرسائل المعلقة
+and_droid_sent_14 === إرسال رسائل قصيرة سريعة
+and_droid_sent_16 === سريع
+and_droid_sent_19 === إرسال رسائل نصية مجمعة
+and_droid_sent_21 === حجم
+and_droid_sent_24 === إرسال رسائل نصية مجمعة عبر Excel
+and_droid_ussd_3 === طلبات USSD
+and_droid_ussd_6 === حذف العناصر المحددة
+and_droid_ussd_10 === حذف كافة الطلبات المعلقة
+and_droid_ussd_14 === طلب USSD الجديد
+and_droid_ussd_16 === طلب
+and_con_grp_6 === حذف العناصر المحددة
+and_con_grp_10 === إضافة مجموعة اتصال جديدة
+and_con_sav_6 === حذف العناصر المحددة
+and_con_sav_10 === إضافة جهة اتصال جديدة
+and_con_sav_15 === استيراد جهات الاتصال من ملف اكسل
+and_con_unsub_3 === غير مشترك
+and_con_unsub_6 === حذف العناصر المحددة
+and_doc_act_3 === أجراءات
+and_doc_api_3 === وثائق API
+and_doc_dev_3 === الأجهزة
+and_doc_partner_3 === شراكة
+and_doc_webhook_3 === ويب هوك
+and_rate_gate_3 === معدلات
+and_rate_gate_10 === دولة
+and_rate_gate_11 === معدل لكل رسالة
+and_rate_gate_22 === بلدان اخرى
+and_rate_partner_3 === أسعار الشريك
+and_tool_act_3 === أجراءات
+and_tool_act_6 === اقرأ الوثائق
+and_tool_act_8 === المستندات
+and_tool_act_11 === أضف إجراء ربط جديد
+and_tool_act_13 === خُطَّاف
+and_tool_act_16 === إضافة إجراء رد تلقائي جديد
+and_tool_act_18 === رد آلي
+and_tool_key_6 === اقرأ الوثائق
+and_tool_key_8 === المستندات
+and_tool_key_11 === إنشاء مفتاح API جديد
+and_tool_webhook_6 === اقرأ الوثائق
+and_tool_webhook_8 === المستندات
+and_what_accnt_6 === ربط حساب جديد
+and_what_accnt_8 === إنشاء حساب
+and_what_attach_8 === حذف الرسائل المختارة
+and_what_rev_3 === استقبل الدردشات
+and_what_rev_6 === حذف العناصر المحددة
+and_what_sched_6 === حذف العناصر المحددة
+and_what_sched_12 === جدولة الدردشة
+and_what_sent_3 === أرسل الدردشات
+and_what_sent_6 === حذف العناصر المحددة
+and_what_sent_10 === أرسل محادثة سريعة
+and_what_sent_12 === سريع
+and_what_sent_15 === إرسال الدردشات المجمعة
+and_what_sent_17 === حجم
+and_what_sent_20 === إرسال الدردشات المجمعة عبر Excel
+and_def_f_blck_6 === ابدأ التسويق
+and_def_f_blck_7 === لنبدأ وننمو الأعمال معًا ، سجل الآن ونجرب منصة تسويق عالية الجودة!
+and_def_f_blck_8 === انضم إلينا
+and_def_f_blck_35 === ابقى على تواصل
+and_head_blck_21 === مسكن
+and_head_blck_24 === سمات
+and_head_blck_27 === التسعير
+and_head_blck_30 === العملاء
+and_head_blck_39 === لوحة القيادة
+and_head_blck_42 === تسجيل خروج
+and_pages_default_8 === التسويق عبر الرسائل النصية القصيرة والواتس آب في أفضل حالاته
+and_pages_default_29 === رسائل SMS
+and_pages_default_31 === استخدم أجهزة Android كبوابة للرسائل القصيرة ، فهذا أرخص بشكل فعال من استخدام بوابات الطرف الثالث.
+and_pages_default_40 === رسائل WhatsApp
+and_pages_default_42 === استخدم WhatsApp لحملاتك التسويقية ، توفر منصتنا الأدوات لمساعدتك على البدء.
+and_pages_default_51 === أدوات بديهية
+and_pages_default_53 === نحن نقدم الأدوات التي تساعدك في مهام التسويق مثل الرد التلقائي وخطاف الويب والمزيد.
+and_pages_default_62 === يكتسب نقود
+and_pages_default_64 === كن أحد شركائنا واستخدم أجهزة Android الخاصة بك كبوابة واكسب المال مقابل كل رسالة يتم إرسالها.
+and_pages_default_73 === لماذا تستخدم خدمتنا؟
+and_pages_default_74 === فيما يلي بعض الأسباب التي تجعلك تبدأ في استخدام خدمتنا
+and_pages_default_84 === إرسال سريع ومجمّع
+and_pages_default_86 === أرسل الكثير من الرسائل إلى مجموعات جهات اتصال مختلفة بسهولة ويمكنك أيضًا إرسال رسائل سريعة للمعاملات السريعة. تتضمن منصتنا أيضًا لوحة تحكم مباشرة ، احصل على إشعارات عندما يتم إرسال رسائلك أو استلامها!
+and_pages_default_89 === الرموز القصيرة
+and_pages_default_89_1 === لإنشاء رسائلك ببيانات محددة مسبقًا.
+and_pages_default_90 === سبينتاكس
+and_pages_default_90_1 === لاختيار عشوائي لمجموعة من الكلمات لمحاربة مشكلات البريد العشوائي.
+and_pages_default_91 === مترجم
+and_pages_default_91_1 === لاستهداف الجمهور بناءً على لغاتهم.
+and_pages_default_98 === أدوات آلية وذكية
+and_pages_default_100 === قم بإدارة أعمالك أثناء قيامنا بالعمل القذر ، فإن منصتنا ذكية وتحتاج فقط إلى الرسائل التي تريد إرسالها ، ثم سنقوم بالباقي!
+and_pages_default_103 === جدول
+and_pages_default_103_1 === رسائل SMS و whatsapp الخاصة بك في أي تاريخ تريده.
+and_pages_default_104 === ويب هوك
+and_pages_default_104_1 === لأتمتة بعض المهام عند تلقي رسائل من كل من الرسائل القصيرة والواتس اب.
+and_pages_default_105 === أجراءات
+and_pages_default_105_1 === لإنشاء استجابة تلقائية وفحص بيانات سريع للأحداث.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === للقيام بالطلبات المتعلقة بالشبكة مثل التحقق من الرصيد من المشغل.
+and_pages_default_107 === إشعارات
+and_pages_default_107_1 === من أجهزة android المتصلة ، يمكن أيضًا استخدامها للمهام الآلية.
+and_pages_default_137 === نحن نضمن نجاح عملك مع ميزاتنا الاستراتيجية
+and_pages_default_139 === تم تصميم منصتنا بشكل جيد لتلبية متطلبات الأعمال التسويقية المتزايدة باستمرار ، ونريد التأكد من أن كل سنت تنفقه على خدمتنا مستحق جيدًا ويمنحك إرضاءًا بنسبة 100٪!
+and_pages_default_145 === منصة سهلة الاستخدام وسلسة
+and_pages_default_148 === بأسعار معقولة ولكن تحافظ على جودة الخدمة
+and_pages_default_156 === أدوات بديهية ولوحة معلومات
+and_pages_default_159 === تجربة سريعة وخالية من التأخير أثناء تسويق منتجاتك
+and_pages_default_171 === تسعير الخدمة
+and_pages_default_187 === إرسال الرسائل القصيرة
+and_pages_default_194 === استقبال الرسائل القصيرة
+and_pages_default_201 === إرسال WhatsApp
+and_pages_default_208 === تلقي WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === إشعارات
+and_pages_default_229 === مجدولة الرسائل القصيرة / الدردشات
+and_pages_default_236 === جهات الاتصال
+and_pages_default_243 === مفاتيح API
+and_pages_default_250 === ويب هوك
+and_pages_default_257 === أجراءات
+and_pages_default_264 === أجهزة أندرويد
+and_pages_default_271 === حسابات WhatsApp
+and_pages_default_287 === عملائنا
+and_pages_default_290 === موثوق به من قبل أكثر من 3000 عميل. ابدأ في تسويق منتجاتك وطور عملك معنا!
+landing_title_default === أجهزة Android المحمولة كبوابة الرسائل القصيرة
+landing_nav_login === تسجيل الدخول
+landing_lead_desc === استفد من خطة الرسائل القصيرة غير المحدودة الخاصة بمزود الشبكة ، والحل الرخيص والفعال من حيث التكلفة للتسويق ، والرسائل القصيرة الجماعية ، والمشاريع في بلدك. استخدم WhatsApp للوصول إلى جمهور أكبر ، حيث توفر منصتنا الأدوات الكاملة لمساعدتك على البدء.
+landing_footer_ourcomp === خارج الشركة
+landing_footer_about === عن
+landing_footer_tos === شروط الخدمة
+landing_footer_privacy === سياسة الخصوصية
+landing_footer_links === روابط الموقع
+landing_footer_login === تسجيل الدخول
+landing_footer_register === اشتراك
+landing_footer_copyright === كل الحقوق محفوظة
+dashboard_title_default === لوحة القيادة
+dashboard_title_contacts === جهات الاتصال
+dashboard_title_tools === أدوات
+dashboard_title_admin === إدارة
+dashboard_nav_default === لوحة القيادة
+dashboard_nav_contacts === جهات الاتصال
+dashboard_nav_tools === أدوات
+dashboard_nav_menusubscription === الاشتراك
+dashboard_nav_menusettings === إعدادات
+dashboard_nav_menulogout === تسجيل خروج
+dashboard_btn_addcontact === إضافة جهة اتصال
+dashboard_btn_adddevice === اضف جهاز
+dashboard_btn_addgroup === أضف مجموعة
+dashboard_btn_addtemplate === أضف قالبًا
+dashboard_btn_addkey === أضف مفتاح
+dashboard_btn_addhook === إضافة Webhook
+dashboard_btn_build === يبني
+dashboard_btn_buildsettings === إعدادات
+dashboard_btn_settings === نظام
+dashboard_btn_theme === سمة
+dashboard_btn_adduser === إضافة المستخدم
+dashboard_btn_addpackage === أضف الحزمة
+dashboard_btn_addwidget === إضافة القطعة
+dashboard_btn_addlanguage === إضافة لغة
+dashboard_footer_about === عن
+dashboard_footer_terms === شروط الخدمة
+dashboard_footer_privacy === سياسة الخصوصية
+dashboard_footer_copyright === كل الحقوق محفوظة
+dashboard_messages_menusent === أرسلت
+dashboard_messages_menureceived === تم الاستلام
+dashboard_messages_menutemplates === القوالب
+dashboard_messages_tabreceivedtitle === الرسائل المستلمة
+dashboard_messages_tabtemplatestitle === القوالب
+dashboard_messages_tablesentrecipient === متلقي
+dashboard_messages_tablesentmessage === رسالة
+dashboard_messages_tablesentcreated === مخلوق
+dashboard_messages_tablesentoptions === خيارات
+dashboard_messages_tablereceivedsender === مرسل
+dashboard_messages_tablereceivedmessage === رسالة
+dashboard_messages_tablereceivedreceived === تم الاستلام
+dashboard_messages_tablereceivedoptions === خيارات
+dashboard_messages_tabletemplatesname === اسم القالب
+dashboard_messages_tabletemplatesformat === تنسيق القالب
+dashboard_messages_tabletemplatesoptions === خيارات
+dashboard_contacts_title === جهات الاتصال
+dashboard_contacts_menusaved === أنقذ
+dashboard_contacts_menugroups === مجموعات
+dashboard_contacts_tabsavedtitle === جهات الاتصال المحفوظة
+dashboard_contacts_tabgroupstitle === مجموعات الاتصال
+dashboard_contacts_tablesavedname === اسم جهة الاتصال
+dashboard_contacts_tablesavednumber === رقم الاتصال
+dashboard_contacts_tablesavedoptions === خيارات
+dashboard_contacts_tablegroupsname === أسم المجموعة
+dashboard_contacts_tablegroupsoptions === خيارات
+dashboard_devices_tableregisteredbrand === الصانع
+dashboard_devices_tableregisteredversion === الإصدار
+dashboard_devices_tableregisteredadded === مسجل
+dashboard_devices_tableregisteredoptions === خيارات
+dashboard_tools_title === أدوات
+dashboard_tools_menukeys === مفاتيح API
+dashboard_tools_menuhooks === ويب هوك
+dashboard_tools_tabkeystitle === مفاتيح API
+dashboard_tools_tabhookstitle === ويب هوك
+dashboard_tools_tablekeysname === اسم
+dashboard_tools_tablekeyspermissions === أذونات
+dashboard_tools_tablekeysoptions === خيارات
+dashboard_tools_tablehooksname === اسم
+dashboard_tools_tablehooksurl === عنوان URL للويب هوك
+dashboard_tools_tablehooksoptions === خيارات
+dashboard_admin_title === مسؤل
+dashboard_admin_menustats === إحصائيات
+dashboard_admin_menuusers === المستخدمون
+dashboard_admin_menupackages === الحزم
+dashboard_admin_menusubscriptions === الاشتراكات
+dashboard_admin_menutransactions === المعاملات
+dashboard_admin_menuwidgets === الحاجيات
+dashboard_admin_menulanguages === اللغات
+dashboard_admin_tabdefaultearningstitle === أرباح
+dashboard_admin_tabdefaultmessageslast === آخر 30 يومًا
+dashboard_admin_tabuserstitle === المستخدمون
+dashboard_admin_tabpackagestitle === الحزم
+dashboard_admin_tabsubscriptionstitle === الاشتراكات
+dashboard_admin_tabtransactionstitle === المعاملات
+dashboard_admin_tabwidgetstitle === الحاجيات
+dashboard_admin_tablanguagestitle === اللغات
+dashboard_admin_tableusersname === اسم
+dashboard_admin_tableusersemail === بريد الالكتروني
+dashboard_admin_tableusersoptions === خيارات
+dashboard_admin_tablepackagesname === اسم
+dashboard_admin_tablepackagesprice === السعر
+dashboard_admin_tablepackagesoptions === خيارات
+dashboard_admin_tablesubscriptionsuser === مستخدم
+dashboard_admin_tablesubscriptionspackage === طَرد
+dashboard_admin_tablesubscriptionsprice === السعر
+dashboard_admin_tablesubscriptionsexpire === تاريخ انتهاء الصلاحية
+dashboard_admin_tablesubscriptionsoptions === خيارات
+dashboard_admin_tabletransactionscustomer === عميل
+dashboard_admin_tabletransactionsprovider === مزود
+dashboard_admin_tablewidgetsname === اسم التطبيق المصغر
+dashboard_admin_tablewidgetstype === يكتب
+dashboard_admin_tablewidgetssize === مقاس
+dashboard_admin_tablewidgetsposition === موقع
+dashboard_admin_tablewidgetsoptions === خيارات
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === اسم اللغة
+dashboard_admin_tablelanguagescreated === مخلوق
+dashboard_admin_tablelanguagesoptions === خيارات
+table_search_text === بحث
+table_search_placeholder === أدخل الكلمات الأساسية هنا ...
+response_invalid === طلب غير صالح!
+response_went_wrong === هناك خطأ ما!
+response_session_false === الجلسة غير موجودة!
+response_session_true === الجلسة موجودة بالفعل!
+response_invalid_emailpass === البريد الإلكتروني / كلمة المرور غير صحيحة!
+response_loggedin_success === تم تسجيل الدخول بنجاح!
+response_loggedout_success === تم تسجيل الخروج بنجاح!
+response_invalid_email === عنوان البريد الإلكتروني غير صالح!
+response_retrieval_received === لقد تلقينا طلبًا لاسترداد الحساب ، وتجاهل إذا لم تطلبه.
+response_solve_captcha === يرجى حل تحدي مكافحة الروبوتات!
+response_register_false === التسجيلات معطلة!
+response_name_short === الإسم قصير جدا!
+response_password_short === يجب أن تكون كلمة المرور أكبر من 5 أحرف!
+response_password_notmatch === كلمات المرور غير متطابقة!
+response_register_success === تم التسجيل بنجاح!
+response_email_unavailable === تم تسجيل عنوان البريد الإلكتروني بالفعل!
+response_upload_applogo === يرجى تحميل شعار التطبيق الخاص بك!
+response_upload_appsplash === يرجى تحميل سبلاش التطبيق الخاص بك!
+response_pcode_empty === الرجاء إدخال رمز الشراء في إعدادات النظام!
+response_buildserver_false === لا يمكن الاتصال لبناء الخادم!
+response_invalid_number === رقم الجوال غير صالح!
+response_message_short === الرسالة قصيرة جدا!
+response_message_queued === تمت إضافة الرسالة إلى قائمة الانتظار!
+response_message_bulkqueued === تم وضع الرسائل المجمعة في قائمة الانتظار لإرسالها!
+response_format_short === التنسيق قصير جدًا!
+response_template_added === تمت إضافة النموذج!
+response_number_exist === رقم الاتصال موجود بالفعل!
+response_contact_added === تمت إضافة جهة الاتصال!
+response_group_added === تمت إضافة مجموعة الاتصال!
+response_permission_min === الرجاء تحديد إذن واحد على الأقل!
+response_key_added === تمت إضافة مفتاح API!
+response_invalid_webhookurl === عنوان URL للويب هوك غير صالح!
+response_webhook_added === تمت إضافة Webhook ahs!
+response_user_added === تمت إضافة المستخدم!
+response_package_added === تمت إضافة الحزمة!
+response_widget_added === تمت إضافة القطعة!
+response_language_added === تمت إضافة اللغة!
+response_avatar_invalid === لا يمكن تحميل الصورة الرمزية!
+response_profile_updated === تم تحديث الملف الشخصي!
+response_package_purchasedtitle === لقد اشتركت في باقة مميزة ، ها هو إيصالك!
+response_package_purchased === تم الاشتراك بنجاح في الحزمة!
+response_template_updated === تم تحديث النموذج!
+response_contact_updated === تم تحديث جهة الاتصال!
+response_group_updated === تم تحديث مجموعة الاتصال!
+response_key_updated === تم تحديث مفتاح API!
+response_webhook_updated === تم تحديث Webhook!
+response_user_updated === تم تحديث المستخدم!
+response_package_updated === تم تحديث الحزمة!
+response_widget_updated === تم تحديث القطعة!
+response_language_updated === تم تحديث اللغة!
+response_builder_packagenameshort === اسم الحزمة قصير جدًا!
+response_builder_appnameshort === اسم التطبيق قصير جدًا!
+response_builder_applogofail === لا يمكن تحميل شعار التطبيق!
+response_builder_appsplashfail === لا يمكن تحميل دفقة التطبيق!
+response_builder_settingsupdated === تم تحديث إعدادات المنشئ!
+response_theme_updated === تم تحديث إعدادات المظهر!
+response_system_settingsupdated === تم تحديث إعدادات النظام!
+response_deleted_sent === تم حذف الرسالة المرسلة!
+response_deleted_received === تم حذف الرسالة المستلمة!
+response_deleted_template === تم حذف النموذج!
+response_deleted_contact === تم حذف جهة الاتصال!
+response_deleted_group === تم حذف مجموعة الاتصال!
+response_deleted_device === تم حذف الجهاز!
+response_deleted_key === تم حذف مفتاح API!
+response_deleted_hook === تم حذف الرد التلقائي على الويب!
+response_deleted_defaultuserfalse === لا يمكن حذف المستخدم الافتراضي!
+response_deleted_user === تم حذف المستخدم!
+response_deleted_defaultpackagefalse === لا يمكن حذف الحزمة الافتراضية!
+response_deleted_package === تم حذف الحزمة!
+response_deleted_subscription === تم حذف الاشتراكات!
+response_deleted_widget === تم حذف القطعة!
+response_deleted_defaultlangfalse === لا يمكن حذف اللغة الافتراضية!
+response_deleted_language === تم حذف اللغة!
+response_lang_changed === تم تغيير اللغة!
+modal_usersettings_title === إعدادات
+modal_subscription_title === الاشتراك
+modal_packages_title === الحزم
+modal_smsquick_title === رسائل قصيرة سريعة
+modal_smsbulk_title === الرسائل القصيرة بالجملة
+modal_addtemplate_title === أضف قالبًا
+modal_edittemplate_title === تحرير القالب
+modal_addcontact_title === إضافة جهة اتصال
+modal_editcontact_title === تحرير جهة الاتصال
+modal_addgroup_title === أضف مجموعة
+modal_editgroup_title === تحرير المجموعة
+modal_adddevice_title === اضف جهاز
+modal_addkey_title === أضف مفتاح API
+modal_editkey_title === تحرير مفتاح API
+modal_edithook_title === تحرير Webhook
+modal_buildersettings_title === إعدادات البناء
+modal_themesettings_title === إعدادات الموضوع
+modal_systemsettings_title === اعدادات النظام
+modal_adduser_title === إضافة المستخدم
+modal_edituser_title === تحرير العضو
+modal_addpackage_title === أضف الحزمة
+modal_editpackage_title === تحرير الحزمة
+modal_addwidget_title === إضافة القطعة
+modal_editwidget_title === تحرير القطعة
+modal_addlanguage_title === إضافة لغة
+modal_editlanguage_title === تحرير اللغة
+require_email === عنوان بريد الكتروني
+require_password === كلمه السر
+require_name === الاسم الكامل
+require_cpassword === تأكيد كلمة المرور
+require_phone === رقم الهاتف
+require_device === جهاز
+require_message === رسالة
+require_groups === مجموعات الاتصال
+require_sim === فتحة سيم
+require_priority === خيار الأولوية
+require_api === خيار API
+require_templatename === اسم القالب
+require_templateformat === تنسيق القالب
+require_contactname === اسم جهة الاتصال
+require_group === مجموعة الاتصال
+require_groupname === أسم المجموعة
+require_apiname === اسم مفتاح API
+require_permissions === أذونات
+require_hookname === اسم الرد التلقائي على الويب
+require_hookurl === عنوان url للخطاف على الويب
+require_appname === اسم التطبيق
+require_appcolor === لون التطبيق
+require_packagename === اسم الحزمة
+require_widgetname === اسم التطبيق المصغر
+require_widgetsize === حجم القطعة
+require_widgetposition === موقف القطعة
+require_widgettype === نوع القطعة
+require_languagename === اسم اللغة
+require_languageiso === لغة iso
+require_languagestr === ترجمات اللغة
+btn_submit === إرسال
+btn_download === تحميل
+btn_done === منتهي
+btn_purchase === شراء
+btn_free === حر
+btn_send === يرسل
+btn_save === يحفظ
+btn_packages === الحزم
+btn_retrieve === يسترد
+btn_signin === تسجيل الدخول
+btn_signup === اشتراك
+form_name === اسم
+form_number === رقم الهاتف
+form_group === مجموعة الاتصال
+form_adddevice_one === تعد إضافة جهاز android جديد إلى حسابك أمرًا سهلاً للغاية ، فنحن نتأكد من أنه يمكنك المتابعة دون إضاعة بعض وقتك الثمين ، اتبع هذه الخطوات.
+form_adddevice_two === 1. تنزيل وتثبيت
+form_adddevice_three === أولاً ، قم بتنزيل وتثبيت تطبيق البوابة الخاص بنا بالنقر فوق هذا الزر.
+form_adddevice_four === 2. تسجيل الجهاز
+form_adddevice_five === افتح الآن تطبيق البوابة وانقر على زر المسح ثم امسح رمز الاستجابة السريعة هذا ضوئيًا.
+form_adddevice_six === 3. انتهى!
+form_adddevice_seven === تمت إضافة الجهاز إلى حسابك ، يمكنك الآن البدء في إرسال الرسائل!
+form_permissions === أذونات
+form_countrycode === الرقم الدولي
+form_translations === سلاسل الترجمة
+form_translations_placeholder === أدخل الترجمات هنا ...
+form_packageprice === السعر
+form_packagesend === حد الإرسال
+form_packagereceive === حد الاستلام
+form_packagedevice === حد الجهاز
+form_packagekey === حد المفتاح
+form_packagehook === حد Webhook
+form_templatename_placeholder === إعلان
+form_templateformat === صيغة
+form_templateformat_placeholder === أدخل تنسيق القالب الخاص بك هنا ...
+form_shortcodes === الرموز القصيرة
+form_emailaddress === عنوان بريد الكتروني
+form_password === كلمه السر
+form_password_leave === اتركه فارغًا للاحتفاظ بكلمة المرور الحالية
+form_language === لغة
+form_webhookname_placeholder === رد بوت
+form_webhookurl === URL
+form_widgetname_placeholder === شروط الخدمة
+form_widgeticon === أيقونة
+form_widgettype === يكتب
+form_widgetsize === مقاس
+form_widgetsmall === صغير
+form_widgetmedium === متوسط
+form_widgetlarge === كبير
+form_widgetxlarge === كبير جدا
+form_widgetposition === موقع
+form_widgetcenter === مركز
+form_widgetleft === اليسار
+form_widgetright === حق
+form_widgetcontent === المحتوى
+form_builderpackagename === اسم الحزمة
+form_builderappname === اسم التطبيق
+form_builderappdesc === وصف التطبيق
+form_builderappdesc_placeholder === هذا هو التطبيق رهيبة
+form_builderapplogo === شعار التطبيق
+form_builderappsplash === تطبيق Splashscreen
+form_uploaded === تم الرفع
+form_notuploaded === لا أحد
+form_themebg === لون الخلفية
+form_themetext === تسليط الضوء على اللون
+form_settingsite === موقع
+form_settingssitename === اسم الموقع
+form_settingssitedesc === وصف الموقع
+form_settingspcode === كود شراء
+form_settingsprotocol === بروتوكول
+form_settingsdeflang === اللغة الافتراضية
+form_settingsreg === التسجيلات
+form_settingsmailing === المراسلات
+form_settingsmailfunc === وظيفة البريد
+form_settingssitemail === البريد الإلكتروني للموقع
+form_settingssmtphost === مضيف SMTP
+form_settingssmtpport === منفذ SMTP
+form_settingssmtpusername === اسم مستخدم SMTP
+form_settingssmtppassword === كلمة مرور SMTP
+form_settingssmtp_small === مطلوب ل SMTP البعيد
+form_settingspayments === المدفوعات
+form_settingspaypaltest === وضع اختبار Paypal
+form_settingssecurity === حماية
+form_settingsrecaptchakey === مفتاح موقع Recaptcha
+form_settingsrecaptchasecret === مفتاح Recaptcha السري
+form_enable === ممكن
+form_disable === إبطال
+form_native === محلي
+form_remotesmtp === SMTP البعيد
+form_device === جهاز محمول
+form_sim === فتحة SIM
+form_priority === أفضلية
+form_yes === نعم
+form_no === لا
+form_freefor === حر للابد
+form_monthly === شهريا
+form_groups === مجموعات الاتصال
+form_template === نموذج
+form_none === لا أحد
+form_message === رسالة
+form_message_placeholder === أدخل رسالتك هنا...
+form_avatar === الصورة الرمزية
+form_changepass === غير كلمة السر
+form_package === طَرد
+form_keys === مفاتيح API
+form_hooks === ويب هوك
+form_daily === يوميًا
+form_forgotpass === هل نسيت كلمة السر
+form_fullname === الاسم الكامل
+form_cpassword === تأكيد كلمة المرور
+form_haveaccount === لدي حساب
+datatable_processing === جارى المعالجة .. انتظر من فضلك...
+datatable_length === إظهار _MENU_ إدخالات
+datatable_info === إظهار _START_ إلى _END_ من أصل _TOTAL_ إدخال
+datatable_empty === إظهار 0 إلى 0 من 0 مدخلات
+datatable_filtered === (تمت تصفيته من إجمالي _MAX_ مدخلات)
+datatable_loading === جاري التحميل انتظر من فضلك...
+datatable_zero === لا يمكننا العثور على أي شيء يطابق استفسارك!
+datatable_null === لا توجد بيانات لعرضها!
+datatable_first === أولاً
+datatable_prev === سابق
+datatable_next === التالي
+datatable_last === آخر
+delete_title === حذف؟
+delete_tagline === لا يمكن التراجع عن هذا الإجراء!
+validate_cannotemp === لايمكن ان يكون فارغا!
+alert_attention === انتباه
+copy_data === نسخ البيانات إلى الحافظة!
+date_today === اليوم
+date_yesterday === أمس
+date_7days === اخر 7 ايام
+date_30days === آخر 30 يومًا
+date_month === هذا الشهر
+date_lmonth === الشهر الماضي
+date_custom === نطاق مخصص
+unknown_action_method === طريقة عمل غير معروفة!
+mollie_redirecting_page === إعادة التوجيه إلى صفحة الدفع mollie ...
+form_settingsmolliekey === مفتاح Mollie API
+btn_confirm === يتأكد
+btn_cancel === يلغي
+recaptcha_add_keys === يرجى إضافة مفاتيح recaptcha الخاصة بك لتمكين هذه الميزة!
+pay_with_paypal === الدفع بواسط باى بال
+pay_with_mollie === ادفع مع مولي
+form_settingsenabledproviders === الموفرون الممكّنون
+form_builderappicon === أيقونة التطبيق
+payment_transact_failed === فشلت معاملة الدفع!
+cookieconsent_message === نحن نستخدم ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا.
+cookieconsent_link === يتعلم أكثر
+role_added === تمت إضافة الدور!
+role_updated === تم تحديث الدور!
+role_deleted === تم حذف الدور!
+role_default_update === لا يمكن تحرير الدور الافتراضي!
+role_default_delete === لا يمكن حذف الدور الافتراضي!
+voucher_added === تمت إضافة القسيمة!
+form_voucher === رمز القسيمة
+btn_redeem === يسترد
+invalid_voucher_code === رمز قسيمة غير صالح!
+voucher_deleted === تم حذف القسيمة!
+form_title_addvoucher === أضف قسيمة
+form_title_addsubscription === إضافة اشتراك
+form_adduser_role === دور
+require_pagename === اسم الصفحة
+require_pageroles === الأدوار المسموح بها
+form_pageroles === الأدوار المسموح بها
+require_vouchercode === كود القسيمة
+form_settingscurrency === عملة
+btn_bulkexcel === اكسل
+response_leastprovider === الرجاء تحديد مزود دفع واحد على الأقل!
+user_subscriptioncontacts === جهات الاتصال
+response_suspended === تم تعليق حسابك من قبل المسؤول!
+response_adminsuspend === لا يمكن تعليق الحساب الافتراضي!
+response_successsuspend === تم تعليق المستخدم!
+response_successunsuspend === تم إلغاء تعليق المستخدم!
+suspend_user_title === تعليق المستخدم؟
+suspend_user_desc === لن يتمكن هذا المستخدم من تسجيل الدخول واستخدام الخدمات
+unsuspend_user_title === مستخدم Unsuspend؟
+unsuspend_user_desc === سيتمكن هذا المستخدم من تسجيل الدخول واستخدام الخدمات مرة أخرى
+all_languages === كل اللغات
+response_invalid_excel === ملف اكسل غير صالح!
+response_contacts_imported === تم استيراد جهات الاتصال!
+table_role_name === اسم الدور
+table_role_permissions === أذونات
+table_voucher_name === اسم
+table_voucher_package === طَرد
+table_page_name === اسم الصفحة
+table_page_require === يتطلب تسجيل الدخول
+table_page_roles === الأدوار المسموح بها
+import_btn === يستورد
+form_excelfile === ملف اكسل
+form_hook_addtitle === أضف إجراء ربط
+form_hook_edittitle === تحرير إجراء الخطاف
+form_hook_event === حدث
+form_hook_link === هيكل الارتباط
+form_autoreply_addtitle === أضف رد الفعل
+form_autoreply_edittitle === تحرير إجراء الرد
+form_autoreply_keywords === الكلمات الدالة
+form_autoreply_message === رسالة الرد
+require_action_name === اسم الإجراء
+require_action_event === نوع الحدث
+require_action_link === هيكل الارتباط
+require_action_keywords === الكلمات الدالة
+require_action_message === رسالة الرد
+response_invalid_linkstructure === بنية الارتباط غير صالحة!
+response_hook_added === تمت إضافة إجراء ربط الرسائل القصيرة!
+response_invalid_keywords === يجب عليك إدخال كلمة رئيسية واحدة على الأقل!
+response_autoreply_added === تمت إضافة إجراء الرد على الرسائل القصيرة!
+response_hook_updated === تم تحديث إجراء ربط الرسائل القصيرة!
+response_autoreply_updated === تم تحديث إجراء الرد على الرسائل القصيرة!
+response_action_deleted === تم حذف إجراء SMS!
+table_action_name === اسم
+form_scheduled_title === جدولة الرسائل القصيرة
+response_scheduled_deleted === تم حذف الرسالة المجدولة!
+response_no_permission === ليس لديك إذن للقيام بهذا الإجراء!
+response_builder_appiconfail === لا يمكن تحميل أيقونة التطبيق!
+form_require_login === يتطلب تسجيل الدخول
+widget_addpage_title === إضافة صفحة
+widget_editpage_title === تعديل الصفحة
+require_subscription_user === مستخدم
+require_voucher_name === اسم القسيمة
+require_voucher_package === طَرد
+widget_alllang_title === كل اللغات
+widget_smsexcel_title === رسائل نصية مجمعة بواسطة Excel
+require_scheduled_name === اسم
+require_scheduled_date === تاريخ الجدول الزمني
+widget_importcontacts_title === استيراد جهات الاتصال
+require_addrole_name === اسم الدور
+require_addrole_permissions === أذونات
+widget_editrole_title === تحرير الدور
+response_page_added === تمت إضافة الصفحة!
+response_page_updated === تم تحديث الصفحة!
+response_page_deleted === تم حذف الصفحة!
+table_scheduled_name === اسم
+messages_scheduled_title === المقرر
+messages_scheduled_schedule === جدولة الرسائل القصيرة
+form_schedule_numbers === أرقام الهواتف المحمولة
+form_schedule_schedule === جدول
+form_schedule_repeat === يكرر
+form_bulksms_numbers === أرقام الهواتف المحمولة
+dashboard_tools_menuactions === أجراءات
+dashboard_admin_menuroles === الأدوار
+dashboard_admin_menuvouchers === القسائم
+dashboard_admin_menupages === الصفحات
+admin_gateway_title === بوابة
+admin_gateway_status === حالة
+admin_gateway_notuploaded === لم يتم الرفع
+admin_gateway_uploaded === تم الرفع
+dashboard_roles_title === أدوار المستخدمين
+dashboard_roles_addrole === أضف دورًا
+dashboard_vouchers_title === القسائم
+dashboard_vouchers_addrole === أضف قسيمة
+form_voucher_package === طَرد
+dashboard_pages_title === الصفحات
+dashboard_pages_addpage === إضافة صفحة
+form_theme_favicon === فافيكون
+form_package_contactslimit === حد جهات الاتصال
+response_limitation_send === لقد وصلت إلى الحد الأقصى المسموح به للإرسال اليوم!
+response_limitation_contact === لقد وصلت إلى الحد الأقصى المسموح به من جهات الاتصال!
+response_limitation_key === لقد وصلت إلى الحد الأقصى المسموح به من مفاتيح API!
+response_limitation_webhook === لقد وصلت إلى الحد الأقصى المسموح به من خطاطيف الويب!
+form_adminsettings_token === رمز النظام
+response_upload_appicon === يرجى تحميل أيقونة التطبيق الخاص بك!
+app_status_gateway_running === البوابة قيد التشغيل!
+app_device_registered === مرتبط
+app_device_unregistered === غير مرتبط
+app_terminal_gateway_ready === البوابة جاهزة ...
+app_terminal_gateway_register === الجهاز غير مرتبط بعد ...
+app_terminal_gateway_hash === تجزئة
+app_terminal_gateway_registered === تم ربط الجهاز ...
+app_terminal_gateway_device === فشل ربط الجهاز ...
+app_terminal_gateway_connecterror === خطأ أثناء الاتصال بالخادم ...
+app_terminal_gateway_started === تم بدء تشغيل البوابة ...
+app_terminal_gateway_stopped === تم إيقاف البوابة ...
+app_terminal_gateway_unregistered === لا يمكن بدء البوابة ، الجهاز غير مرتبط بأي حساب بعد ...
+app_terminal_feature_error === خطأ في ميزة الرسائل القصيرة
+app_terminal_sms_sent === تم الارسال
+app_terminal_message_failed === فشل إرسال الرسالة
+app_dialog_wait === ارجوك انتظر...
+app_dialog_exit === بوابة الخروج
+app_dialog_exit_desc === الاغلاق والخروج من البوابة؟
+app_camera_qrcode_inside === ضع رمز الاستجابة السريعة الخاص بك في الداخل
+app_ui_status === حالة
+app_ui_exit === مخرج
+require_voucher_count === لا يمكن أن يكون عدد القسائم فارغًا!
+form_voucher_count === عدد القسائم
+cookieconsent_dismiss === فهمتك!
+title_payment_success === تأكيد الطلب
+title_payment_cancel === تم الغاء الأمر او الطلب
+header_payment_success === تأكيد الطلب
+header_payment_cancel === تم الغاء الأمر او الطلب
+body_payment_cancel === لقد ألغيت طلبك.
+transaction_payment_success === رقم المعاملة:
+back_payment_page === رجوع إلى لوحة القيادة
+form_settingspaypalemail === البريد الإلكتروني للأعمال Paypal
+form_settingsanalytics === مفتاح Google Analytics
+form_messagecounterchars === الشخصيات
+form_settingspagination === حدود ترقيم الصفحات
+form_settingssentpage === الرسائل المرسلة في كل صفحة
+form_settingsreceivedpage === تلقي الرسائل في كل صفحة
+form_settingsmessage === إعدادات الرسالة
+form_settingsmessagemin === الحد الأدنى من الأحرف
+form_settingsmessagemax === أقصى عدد من الأحرف
+form_settingsmessagemark === علامة سفلية للرسالة
+form_packagefootermark === علامة سفلية للرسالة
+form_settingssmtpsecure === أمان SMTP
+form_durationtitle === مدة
+form_durationpackage === مجموعتك:
+form_durationpay === سوف تدفع:
+form_durationmonth === مدة الشهر
+form_subscriptionmonth === مدة الشهر
+authenticate_fblogin === تسجيل الدخول عن طريق الفيسبوك ...
+authenticate_googlelogin === تسجيل الدخول باستخدام جوجل ...
+authenticate_vklogin === تسجيل الدخول مع فكونتاكتي ...
+response_minplatforms === الرجاء تحديد منصة اجتماعية واحدة على الأقل!
+form_settingssocialtitle === الوضع الاجتماعي
+form_settingssocial === المصادقة الاجتماعية
+form_settingssocialplatforms === المنصات الممكّنة
+form_usertimezone === وحدة زمنية
+form_settingsloginrecaptcha === تسجيل الدخول Recaptcha
+form_loginor === أو
+form_adddevicescandl === تنزيل عبر QR Scan
+form_status_online === متصل
+form_status_offline === غير متصل على الانترنت
+form_smsbulknonumbers === يرجى تحديد مجموعة جهات اتصال أو إدخال أرقام المستلمين!
+form_addsubscriptionuser === مستخدم
+form_addsubscriptionpackage === طَرد
+table_vouchersduration === مدة الشهر
+table_pluginsname === اسم البرنامج المساعد
+table_pluginsoptions === خيارات
+dashboard_admin_menuplugins === الإضافات
+dashboard_admin_pluginstitle === الإضافات
+dashboard_admin_pluginsadd === إضافة البرنامج المساعد
+require_pluginfile === ملف البرنامج المساعد
+modal_addplugin_title === إضافة البرنامج المساعد
+response_pluginwentwrong === حدث خطأ ما أثناء تحميل البرنامج المساعد!
+response_plugininstalled === تم تثبيت البرنامج المساعد!
+dashboard_title_login === تسجيل الدخول
+dashboard_title_forgot === هل نسيت كلمة السر
+dashboard_title_register === يسجل
+response_limitation_contact2 === لقد وصلت إلى الحد الأقصى لعدد جهات الاتصال في اشتراكك ، تم استيراد _8880_ جهة اتصال فقط!
+response_contacts_imported2 === _8880_ تم استيراد جهات الاتصال بنجاح!
+form_systemsettingshomepage === الصفحة الرئيسية الافتراضية
+app_dialog_update_desc === هناك إصدار جديد متاح لتطبيق البوابة ، التحديث مطلوب!
+app_dialog_update_download === تحميل
+app_gateway_build_text === بناء البوابة
+response_gateway_available === جاري تحميل البوابة ، برجاء الانتظار ...
+response_gateway_unavailable === البوابة غير متوفرة ، يرجى الاتصال بمسؤول الموقع!
+response_gateway_randommax === لا يمكن أن يكون الحد الأقصى لفاصل الإرسال أكبر من 300 ثانية!
+response_device_updated === تم تحديث الجهاز!
+form_editdevice_devicename === اسم الجهاز
+form_editdevice_randomsend === فاصل إرسال عشوائي
+form_editdevice_randommin === إرسال الفاصل الزمني دقيقة
+form_editdevice_randommax === إرسال الفاصل الزمني كحد أقصى
+form_smsall_globalstatus === عالمي
+form_select_multinone === لا أحد
+form_package_hiddenselect === مختفي
+landing_footer_ourcompnew === شركتنا
+form_smsschedule_submit === جدول
+require_devicename === اسم الجهاز
+require_randommin === الحد الأدنى للفاصل الزمني العشوائي
+require_randommax === أقصى فترة عشوائية
+admin_update_installed === المثبتة
+admin_update_btn === تحديث
+response_update_success === تم تحديث النظام!
+form_settings_tawkchatlink === رابط الدردشة المباشرة Tawk
+model_title_editplugin === تحرير البرنامج المساعد
+btn_other_paymentmethods === طرق الدفع الأخرى
+dashboard_btn_support === يدعم
+pendingdelete_title === هل تريد الحذف في انتظار المراجعة؟
+pendingdelete_desc === هل تريد حذف كافة الرسائل المعلقة؟ لا يمكن التراجع عن هذا الإجراء!
+dashboard_messages_tablefullmessage === الرسالة كاملة
+administration_landing_btncache === مخبأ
+administration_landing_payouts === المدفوعات
+administration_landing_marketing === تسويق
+administration_landing_gateways === بوابات
+administration_landing_shorteners === أقصر
+administration_landing_editor === محرر القوالب
+administration_landing_api === واجهة برمجة تطبيقات المشرف
+administration_landing_build === يبني
+administration_landing_system === نظام
+requests_charts_smssent === تم إرسال الرسائل القصيرة
+requests_charts_smsreceived === تم استلام الرسائل القصيرة
+requests_charts_wasent === تم إرسال WhatsApp
+requests_charts_wareceived === تلقى WhatsApp
+requests_charts_ussd === USSD
+requests_charts_notifications === إشعارات
+requests_charts_credits === الاعتمادات
+administration_default_visitors === الزائرين
+administration_default_countries === بلدان
+administration_default_browsers === المتصفحات
+administration_default_os === أنظمة التشغيل
+administration_default_usages === الأعراف
+administration_default_messages === رسائل
+administration_default_utilities === خدمات
+administration_default_subscriptions === الاشتراكات
+administration_default_credits === الاعتمادات
+tables_users_registered === مسجل
+tables_users_details === تفاصيل
+dashboard_title_android === ذكري المظهر
+dashboard_title_whatsapp === ال WhatsApp
+dashboard_title_gatewayrates === أسعار البوابة
+dashboard_title_docs === التوثيق
+app_status_gateway_touch === المس هنا لفتح البوابة
+app_dialog_downloading_update === تحميل التحديث
+app_dialog_interface_disabled === الواجهة معطلة ، يرجى تحديث التطبيق إلى أحدث إصدار!
+app_dialog_somethingwent_wrong === تبا شيء ما حدث بشكل خاطئ!
+app_intro_level_1 === شكرًا لك على استخدام منصتنا ، لزيادة تجربتك والتعرف على التطبيق ، دعنا نستكشف وسنشرح جميع الوظائف الأساسية التي تحتاج إلى معرفتها.
+app_intro_level_2 === سترى اسم الجهاز وحالة الارتباط هنا.
+app_intro_level_3 === لربط الجهاز بحسابك ، استخدم هذا الزر لتسجيل الدخول أو مسح رمز QRCode الخاص بك للربط.
+app_intro_level_4 === استخدم مفتاح التبديل هذا لتشغيل البوابة أو إيقاف تشغيلها.
+app_intro_level_5 === سيؤدي تمكين هذا المفتاح إلى جعل تطبيق البوابة يستمع إلى الإشعارات الجديدة التي يمكن إدارتها برمجيًا في النظام الأساسي. تم تعطيل هذا افتراضيا.
+app_intro_level_6 === استخدم هذا الزر لإيقاف تشغيل تطبيق البوابة والخروج منه.
+app_intro_level_7 === هذه هي المحطة ، سيتم عرض معاملات الرسائل وسجلات الأنشطة الأخرى هنا.
+app_intro_level_8 === هذا هو زر الإجراء العائم ، يمكنك الوصول إلى بعض الخيارات والصفحات الإضافية مثل <b> تشغيل في الخلفية </ b> هنا.
+app_dialog_tour_complete === يجب أن تفهم الآن كيفية عمل التطبيق ، لطرح أسئلة إضافية ، يرجى الاتصال بنا!
+app_push_right_now === الآن
+app_device_detailes_updated === تم تحديث تفاصيل الجهاز!
+app_ussd_requests_notsupported === طلبات USSD غير مدعومة ...
+app_notifications_listening_now === جاري الاستماع لإشعارات جديدة ...
+app_button_ok === يتأكد
+app_dialog_update_smoothperm === للحصول على تحديثات سلسة وفعالة ، يرجى السماح بإذن التثبيت من هذا التطبيق.
+app_dialog_logging_in === تسجيل الدخول...
+app_dialog_invalid_email === لقد أدخلت بريدًا إلكترونيًا غير صالح!
+app_dialog_invalid_password === كلمة المرور أقصر من أن تكون صالحة!
+app_dialog_notsupported_notinougat === التنبيهات غير مدعومة حاليًا لإصدار Nougat والإصدارات الأقدم ، نأسف للإزعاج.
+app_dialog_notifications_permission === للوصول إلى الإشعارات برمجيًا ، يتطلب التطبيق إذنًا خاصًا. يرجى تحديد التطبيق في القائمة ثم السماح بالوصول إلى الإشعارات.
+app_dialog_gateway_listennoti === سوف Gateway الآن الاستماع إلى الإخطارات الجديدة.
+app_dialog_gateway_notirestart === ستتم إعادة تشغيل البوابة وتتوقف عن الاستماع إلى الإشعارات الجديدة.
+app_dialog_needto_link === تحتاج إلى ربط الجهاز بحسابك قبل أن تتمكن من استخدام هذه الميزة.
+app_dialog_logoutfrom_device === تسجيل الخروج من جهاز البوابة هذا؟
+app_document_runbackground === تشغيل في الخلفية
+app_document_input_email === عنوان بريد الكتروني
+app_document_input_password === كلمه السر
+app_document_btn_login === تسجيل الدخول
+app_document_text_or === أو
+app_document_btn_scan === مسح رمز QRC
+app_document_btn_cancel === يلغي
+app_intro_next_btn === التالي
+app_intro_back_btn === خلف
+response_token_generated === تم إعادة إنشاء رمز النظام!
+response_trigger_done === تم تشغيل Webhook!
+response_build_gservicesfile === يرجى تحميل ملف خدمات جوجل الخاص بك!
+response_build_fcredentialsfile === يرجى تحميل ملف بيانات اعتماد Firebase الخاص بك!
+response_build_loginlogo === يرجى تحميل شعار تسجيل الدخول للتطبيق الخاص بك!
+response_whatsapp_notprem === الحساب غير مشترك في أي باقة مميزة!
+response_whatsapp_maxaccounts === لقد وصلت إلى الحد الأقصى المسموح به من حسابات WhatsApp لحزمتك!
+response_whatsapp_creatingqr === إنشاء WhatsApp QRCode
+response_whatsapp_noconnectserver === غير قادر على الاتصال بخوادم WhatsApp!
+response_chart_dashsmssent === تم إرسال الرسائل القصيرة
+response_chart_dashsmsreceive === تم استلام الرسائل القصيرة
+response_chart_dashwasent === تم إرسال WA
+response_chart_dashwareceive === استقبل WA
+response_chart_dashwebhooks === ويب هوك
+response_chart_dashactions === أجراءات
+response_chart_dashussd === USSD
+response_chart_dashnoti === إشعارات
+response_resend_queued === تم وضع الرسالة في قائمة الانتظار لإرسالها!
+mail_title_payoutapproved === تم دفع طلب الدفع الخاص بك!
+response_payout_confirmed === تم تأكيد الدفع!
+mail_title_payoutrejected === تم رفض طلب الدفع الخاص بك!
+response_payout_rejected === تم رفض الدفع!
+response_translate_msgshort === الرسالة قصيرة جدا!
+response_clear_systemcleared === تم مسح ملفات ذاكرة التخزين المؤقت للنظام!
+response_clear_smscleared === تم مسح الرسائل المعلقة!
+response_clear_ussdcleared === تم مسح طلبات USSD المعلقة!
+response_reorder_languages === تمت إعادة ترتيب اللغات!
+response_trash_selectedremoved === تم حذف العناصر المحددة!
+response_voucher_redeemed === تم استرداد القسيمة!
+response_payout_invalidamount === مبلغ العائد غير صالح ، يجب ألا يحتوي على قيم عشرية.
+response_payout_notenoughbal === لا يوجد رصيد ربح كافٍ لمعالجة الطلب!
+response_payout_reqreceive === تم استلام طلب الدفع الخاص بك!
+response_payout_pendingreq === لا يزال لديك طلب عائد معلق!
+response_system_sysconfigerr === خطأ في تكوين النظام!
+response_message_toolong === رسالتك طويلة جدا!
+response_package_nosubwarn === ليس لديك اشتراك باقه!
+response_message_notenoughcredsend === لا توجد اعتمادات كافية لإرسال هذه الرسالة!
+response_message_queuedforsend === تم وضع الرسالة في قائمة الانتظار لإرسالها!
+response_message_sentsuccess === تم ارسال الرسالة!
+response_message_unablesendmesg === نحن غير قادرين على إرسال رسالتك!
+response_smsexcel_phonenotfound === لم يتم العثور على العمود _8880_ في ملف Excel الخاص بك!
+response_smssched_queued === تم جدولة الرسالة!
+response_ussd_maximumreq === تم الوصول إلى الحد الأقصى لعدد طلبات USSD!
+response_ussd_queued === تم وضع طلب USSD في قائمة الانتظار!
+response_whatsapp_reachedmaxchat === لقد وصلت بالفعل إلى الحد الأقصى من الدردشات التي يمكنك إرسالها!
+response_whatsapp_chatqueued === تم وضع رسالة WhatsApp في قائمة الانتظار لإرسالها!
+response_whatsapp_unableconnectserv === غير قادر على الاتصال بخوادم WhatsApp!
+response_whatsapp_bulkchatsqueued === تم وضع محادثات WhatsApp الجماعية في قائمة الانتظار!
+response_whatsapp_excelphonecolnotfound === لم يتم العثور على العمود _8880_ في ملف Excel الخاص بك!
+response_whatsapp_chatscheduled === تم تحديد موعد الدردشة!
+response_importcontacts_phonenotfound === لم يتم العثور على العمود _8880_ في ملف Excel الخاص بك!
+response_importcontacts_groupsnotfound === لم يتم العثور على العمود _8880_ في ملف Excel الخاص بك!
+response_importcontacts_namenotfound === لم يتم العثور على العمود _8880_ في ملف Excel الخاص بك!
+response_package_pricenotlessone === لا يمكن أن يكون سعر الباقة أقل من 1!
+response_subscription_addedsuccess === تم إنشاء الاشتراك!
+response_push_selectatleastoneuser === الرجاء تحديد مستخدم أو دور واحد على الأقل!
+response_push_mesgtooshort === الرسالة قصيرة جدا!
+response_push_titletooshort === العنوان قصير جدًا!
+response_push_imgfailed === فشل تحميل ملف الصورة!
+response_push_created === تم إنشاء بث الدفع!
+response_push_nousers === لم يتم العثور على مستخدمين للإرسال!
+response_notify_titletooshort === العنوان قصير جدًا!
+response_notify_mesgtooshort === الرسالة قصيرة جدا!
+response_notify_selectuserrole === الرجاء تحديد مستخدم أو دور واحد على الأقل!
+response_notify_imgfailed === فشل تحميل ملف الصورة!
+response_notify_created === تم إنشاء إعلام البث!
+response_notify_nousers === لم يتم العثور على مستخدمين للإرسال!
+response_mailer_titletooshort === العنوان قصير جدًا!
+response_mailer_contentooshort === المحتوى قصير جدًا!
+response_mailer_nouserorrole === الرجاء تحديد مستخدم أو دور واحد على الأقل!
+response_mailer_sendcounter === _8880_ من _8881_ تم إرسال رسائل بريد إلكتروني معلقة بواسطة مرسل بريد!
+response_mailer_mailprocessed === تمت معالجة المراسلات الجماعية!
+response_mailer_nousersorrole === لم يتم العثور على مستخدمين للإرسال!
+response_gateway_controllercannotempty === لا يمكن أن يكون ملف التحكم فارغًا!
+response_gateway_invalidcontroller === ملف تحكم غير صالح!
+response_gateway_addeddcontroller === تمت إضافة البوابة!
+response_shortener_cannotempty === لا يمكن أن يكون ملف التحكم فارغًا!
+response_shortener_invalidcontroller === ملف تحكم غير صالح!
+response_shortener_addedcontroller === تمت إضافة المُقصر!
+response_plugin_samenameinstalled === تم بالفعل تثبيت مكون إضافي بنفس الاسم!
+response_smscheduled_editsuccess === تم تحديث الرسالة المجدولة!
+response_chatscheduled_editsuccess === تم تحديث جدول الدردشة!
+response_editdevice_invalidrate === قيمة معدل غير صالحة ، يجب أن تكون رقمًا عائمًا صالحًا!
+response_editdevice_nametooshort === اسم الجهاز قصير جدا!
+response_editdevice_nametoolong === اسم الجهاز طويل جدًا!
+response_editdevice_invalidmaxinterval === قيمة الحد الأقصى للفاصل الزمني غير صالحة!
+response_gateway_updatedsuccess === تم تحديث البوابة!
+response_shortener_editsuccess === تم تحديث أداة التقصير!
+response_editplugin_success === تم تحديث إعدادات البرنامج المساعد!
+response_updatepluin_corrupted === ملف تحديث البرنامج المساعد تالف!
+response_updateplugin_updated === تم تحديث البرنامج المساعد!
+response_builder_invalidgooglefile === ملف بيانات اعتماد خدمات Google غير صالح!
+response_builder_invalidfirebasefile === ملف بيانات اعتماد firebase غير صالح!
+response_theme_sitelogofailed === فشل تحميل شعار الموقع!
+response_theme_sitebgfailed === فشل تحميل خلفية الموقع!
+response_theme_sitefavfailed === فشل تحميل الصورة المفضلة!
+response_notification_deletedsuccess === تم حذف الإخطار!
+response_whatsapp_sentdeletesuccess === تم حذف دردشة WhatsApp المرسلة!
+response_whatsapp_receivedeletesuccess === تم حذف دردشة WhatsApp المستلمة!
+response_whatsapp_scheduleddeletesuccess === تم حذف الدردشة المجدولة WhatsApp!
+response_whatsapp_accountdeletesuccess === تم حذف حساب WhatsApp!
+response_unsibscribe_contactdeletedsuccess === تم حذف الرقم غير المشترك!
+response_marketing_logdeletedsuccess === تم حذف سجل التسويق!
+response_gateway_controllerdeletedsuccess === تم حذف البوابة!
+response_shortener_controllerdeletedsuccess === تم حذف أداة التقصير!
+table_androidsent_clipcopy === تم إرسال نسخة الحافظة _8880_
+table_androidsent_excel === إرسال Excel Export _8880_
+table_androidsent_pdf === تصدير ملف PDF المرسل _8880_
+table_androidsent_sms === رسالة قصيرة
+table_androidsend_report === تقرير
+table_unknown_data === مجهول
+table_androidsent_statuspending === قيد الانتظار
+table_androidsent_statusqueued === في قائمة الانتظار
+table_androidsent_statussent === أرسلت
+table_androidsent_statusfailed === باءت بالفشل
+table_none_data === لا أحد
+table_yes_data === نعم
+table_no_data === لا
+table_removed_data === إزالة
+table_androidver_kitkat === أندرويد كيت كات
+table_androidver_lollipop === أندرويد لوليبوب
+table_androidver_marshmallow === أندرويد مارشميلو
+table_androidver_nougat === أندرويد نوجا
+table_androidver_oreo === أندرويد أوريو
+table_androidver_pie === Android فطيرة
+table_androidver_10 === أندرويد 10
+table_androidver_11 === أندرويد 11
+table_androidver_12 === أندرويد 12
+table_androidsent_exportone === الحالة: _8880_ ، الوضع: _8881_ ، الرمز: _8882_ ، الأولوية: _8883_ ، API المرسلة: _8884_ ، فتحة الشريحة: SIM _8885_ ، الجهاز: _8886_ ، نظام التشغيل: _8887_
+table_androidsent_modenamedevice === الأجهزة
+table_androidsent_modenamecredits === الاعتمادات
+table_androidsent_reportline1 === الحالة: _8880_
+table_androidsent_reportline2 === الوضع: _8880_
+table_androidsent_reportline3 === الكود: _8880_
+table_androidsent_reportline4 === الأولوية: _8880_
+table_androidsent_reportline5 === API المرسلة: _8880_
+table_androidsent_reportline6 === فتحة الشريحة: SIM _8880_
+table_androidsent_reportline7 === الجهاز: _8880_
+table_androidsent_reportline8 === نظام التشغيل: _8880_
+table_androidsent_exporttwo === الحالة: _8880_، الوضع: _8881_، البوابة: _8882_
+table_androidsent_reportline9 === الحالة: _8880_
+table_androidsent_reportline10 === الوضع: _8880_
+table_androidsent_reportline11 === البوابة: _8880_
+table_androidsent_exportthree === الحالة: _8880_ ، الوضع: _8881_ ، الرمز: _8882_ ، API المرسلة: _8883_ ، فتحة الشريحة: SIM _8884_ ، البوابة: _8885_
+table_androidsent_reportline12 === الحالة: _8880_
+table_androidsent_reportline13 === الوضع: _8880_
+table_androidsent_reportline14 === الكود: _8880_
+table_androidsent_reportline15 === API المرسلة: _8880_
+table_androidsent_reportline16 === فتحة الشريحة: SIM _8880_
+table_androidsent_reportline17 === البوابة: _8880_
+table_androidsent_titleresend === أعد إرسال هذه الرسالة
+table_title_deletethisitem === حذف هذا العنصر
+table_androidreceive_exportcopy === تم استلام نسخة الحافظة _8880_
+table_androidreceive_exportexcel === تم استلام تصدير Excel _8880_
+table_androidreceive_exportpdf === تم استلام _8880_ بتنسيق PDF
+table_androidreceive_smstitle === رسالة قصيرة
+table_androidreceive_reporttitle === تقرير
+table_androidreceive_exportdata === فتحة الشريحة: SIM _8880_ ، الجهاز: _8881_ ، نظام التشغيل: _8882_
+table_androidreceive_reportline1 === فتحة الشريحة: SIM _8880_
+table_androidreceive_reportline2 === الجهاز: _8880_
+table_androidreceive_reportline3 === نظام التشغيل: _8880_
+table_androidreceive_titlereply === الرد على الرقم
+table_androidscheduled_titleschedule === جدول
+table_androidscheduled_titledetails === تفاصيل
+table_androidscheduled_sim1 === بطاقة SIM 1
+table_androidscheduled_sim2 === بطاقة SIM 2
+table_androidscheduled_detailsline1 === الوضع: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === كرر: _8880_
+table_androidscheduled_detailsline4 === الجهاز: _8880_
+table_androidscheduled_detailsgroupslabel === مجموعات:
+table_androidscheduled_detailsnumberslabel === أعداد:
+table_androidscheduled_detailsline5 === الوضع: _8880_
+table_androidscheduled_detailsline6 === كرر: _8880_
+table_androidscheduled_detailsline7 === البوابة: _8880_
+table_androidscheduled_detailsline8 === الوضع: _8880_
+table_androidscheduled_detailsline9 === كرر: _8880_
+table_androidscheduled_detailsline10 === الجهاز: _8880_
+table_title_editthisitem === قم بتحرير هذا العنصر
+table_whatsappsent_exportcopy === تم إرسال نسخ الحافظة
+table_whatsappsent_exportexcel === إرسال Excel تصدير
+table_whatsappsent_exportpdf === تصدير PDF المرسلة
+table_whatsappsent_accounttitle === الحساب
+table_whatsappsent_recipienttitle === متلقي
+table_whatsappsent_msgtitle === رسالة
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === حالة
+table_ussd_exportcopy === نسخ الحافظة USSD
+table_ussd_exportexcel === USSD Excel Export
+table_ussd_exportpdf === تصدير USSD PDF
+table_ussd_createdtitle === مخلوق
+table_ussd_codetitle === شفرة
+table_ussd_responsetitle === إجابة
+table_ussd_simtitle === بطاقة SIM
+table_ussd_statustitle === حالة
+table_ussd_devicetitle === جهاز
+table_ussd_optionstitle === خيارات
+table_ussd_pendingresponsetext === في انتظار الرد
+table_empty_data === فارغة
+table_ussd_sim1 === بطاقة SIM 1
+table_ussd_sim2 === بطاقة SIM 2
+table_ussd_pendinglabel === قيد الانتظار
+table_ussd_queuelabel === في قائمة الانتظار
+table_ussd_completelabel === مكتمل
+table_ussd_detailsline1 === الجهاز: _8880_
+table_ussd_detailsline2 === نظام التشغيل: _8880_
+table_notifications_exportcopy === نسخ حافظة الإخطارات
+table_notifications_exportexcel === تصدير الإخطارات Excel
+table_notifications_exportpdf === تصدير إخطارات PDF
+table_notifications_createdtitle === مخلوق
+table_notifications_packagetitle === اسم الحزمة
+table_notifications_title === عنوان
+table_notification_texttitle === نص
+table_notification_devicetitle === جهاز
+table_notification_optiontitle === خيارات
+table_notification_devicelabel === جهاز:
+table_notification_oslabel === نظام التشغيل:
+table_devices_nametitle === اسم
+table_devices_globaltitle === عالمي
+table_enabled_data === ممكن
+table_disabled_data === معاق
+table_notifications_exportone === الجهاز: _8880_ ، نظام التشغيل: _8881_
+table_whatsapp_pendinglabel === قيد الانتظار
+table_whatsapp_queuelabel === في قائمة الانتظار
+table_whatsapp_sentlabel === أرسلت
+table_whatsapp_failedlabel === باءت بالفشل
+table_whatsappreceive_exportcopy === تم استلام نسخة الحافظة
+table_whatsappreceive_exportexcel === تم استلام تصدير Excel
+table_whatsappreceive_exportpdf === تم استلام تصدير PDF
+table_whatsappreceive_replytitle === الرد على الرقم
+table_waschedule_scheduletitle === جدول
+table_waschedule_detailstitle === تفاصيل
+table_waschedule_detailsline1 === كرر: _8880_
+table_waschedule_detailsline2 === الحساب:
+table_waschedule_detailsline3 === مجموعات:
+table_waschedule_detailsline4 === أعداد:
+table_waaccounts_loggedtitle === مسجّل الدخول
+device_login_usevalidemail === يرجى استخدام عنوان بريد إلكتروني صالح!
+device_login_accountsuspended === عذرا ، تم تعليق حسابك!
+device_login_incorrectmailorpass === لقد أدخلت بريدًا إلكترونيًا أو كلمة مرور غير صحيحة!
+device_login_nosubscription === ليس لديك اشتراك باقه!
+device_login_nomoredevice === لا يمكنك تسجيل المزيد من الأجهزة!
+device_scan_qrcodeinvalid === رمز الاستجابة السريعة الخاص بك غير صالح!
+device_scan_nosub === ليس لديك اشتراك باقه!
+device_scan_usersuspended === عذرا ، تم تعليق حسابك!
+device_scan_nomoredevices === لا يمكنك تسجيل المزيد من الأجهزة!
+device_report_smssentsuccess === تم إرسال الرسالة _8880_ من _8881_
+device_report_smssentfailed === إرسال رسالة _8880_ فشلت من _8881_
+device_received_smsreceived === تم استلام _8880_ جديد من _8881_
+requests_resend_devicenotexist === الجهاز غير موجود!
+device_ussd_responsereceive === تم استلام استجابة USSD من _8880_
+device_notification_notireceive === تم استلام إشعار جديد من _8880_
+payment_success_unknowntx === مجهول
+payment_webhook_molliecreditsadded === تمت إضافة الاعتمادات إلى حسابك!
+payment_webhook_paypalcreditsadded === تمت إضافة الاعتمادات إلى حسابك!
+payment_webhook_unknowntn === مجهول
+mail_tpl_creditstitle === أهلاً،
+mail_tpl_creditsdesc === لقد اشتريت أرصدة ، وقمنا بإيداع إجمالي _8880_ في حسابك ويمكنك استخدامه على الفور.
+mail_tpl_creditstnx === شكرًا لك!
+mail_tpl_poweredby === بدعم من _8880_
+forgot_response_recoverysent === تم إرسال تعليمات الاسترجاع إلى _8880_
+forgot_response_recoveryfail === نحن غير قادرين على إرسال بريد إلكتروني لك!
+cron_package_expired === لقد انتهى اشتراك باقتك!
+cron_package_expiring === اشتراك الباقة ينتهي في 5 أيام!
+table_waaccounts_waidtitle === معرف WhatsApp
+table_waaccounts_wauniquetitle === هوية مميزة
+table_contactssaved_idtitle === بطاقة تعريف
+table_contactssaved_exportcopy === نسخ حافظة المجموعات _8880_
+table_contactssaved_exportexcel === تصدير مجموعات Excel _8880_
+table_contactssaved_exportpdf === تصدير مجموعات PDF _8880_
+table_contactssaved_grouptitle === مجموعات
+table_contactsgroups_gidtitle === معرف مجموعة
+table_contactsunsub_exportcopy === نسخة الحافظة لغير المشتركين _8880_
+table_contactsunsub_exportexcel === تصدير Excel غير المشترك _8880_
+table_contactsunsub_exportpdf === تصدير ملفات PDF غير المشتركين _8880_
+table_toolskeys_createdtitle === مخلوق
+table_toolskeys_copyapisecret === نسخ سر API إلى الحافظة
+table_toolswebhooks_createtitle === مخلوق
+table_tootlswebhooks_eventstitle === الأحداث
+table_toolswebhooks_simulatebtn === مشغل
+table_toolswebhooks_simulatedesc === طلب محاكاة الويب هوك
+table_toolswebhooks_copywebhooksecret === نسخ webhook secret إلى الحافظة
+table_toolsactions_createtitle === مخلوق
+table_toolsactions_detailstitle === تفاصيل
+table_toolsactions_typehook === خُطَّاف
+table_toolsactions_typeautoreply === رد آلي
+table_toolsactions_source === المصدر: _8880_
+table_toolsactions_sourcesms === رسالة قصيرة
+table_toolsactions_sourcewa === ال WhatsApp
+table_toolsactions_event === الحدث: _8880_
+table_toolsactions_eventonsend === عند الإرسال
+table_toolsactions_eventonreceive === عند الاستلام
+table_toolsactions_link === وصلة:
+table_toolsactions_keywords === الكلمات الدالة:
+table_toolsactions_message === رسالة:
+table_toolsactions_type === النوع: _8880_
+table_toolstemplates_idtitle === بطاقة تعريف
+table_ratespartners_createdtitle === مخلوق
+table_ratespartners_countrytitle === دولة
+table_ratespartners_detailstitle === تفاصيل الجهاز
+table_ratespartners_ratetitle === معدل الرسالة
+table_ratespartners_prioritytitle === أفضلية
+table_ratespartners_simtitle === فتحات SIM المسموح بها
+table_ratespartners_name === اسم:
+table_ratespartners_owner === صاحب:
+table_ratespartners_localrate === السعر المحلي:
+table_ratespartners_convertedrate === المعدل المحول:
+table_ratespartners_simdual === بطاقة SIM 1 و SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === نسخ الحافظة للمستخدمين _8880_
+table_adminusers_exportexcel === تصدير Excel للمستخدمين _8880_
+table_adminusers_exportpdf === تصدير ملفات PDF للمستخدمين _8880_
+table_adminusersexportdata === الدور: _8880_، البلد: _8881_، اللغة: _8882_، المنطقة الزمنية: _8883_، الأرباح: _8884_، الاعتمادات: _8885_، الاشتراك: _8886_، الأصوات: _8887_، معلق: _8888_
+table_adminusers_exportdata1 === الدور: _8880_
+table_adminusers_exportdata2 === البلد: _8880_
+table_adminusers_exportdata3 === اللغة: _8880_
+table_adminusers_exportdata4 === وحدة زمنية:
+table_adminusers_exportdata5 === الأرباح: _8880_
+table_adminusers_exportdata6 === الاعتمادات: _8880_
+table_adminusers_exportdata7 === الاشتراك:
+table_adminusers_exportdata8 === الأصوات: _8880_
+table_adminusers_exportdata9 === معلق: _8880_
+table_adminusers_unsuspendaccount === إلغاء تعليق هذا الحساب
+table_adminusers_suspendaccount === تعليق هذا الحساب
+table_adminroles_idtitle === بطاقة تعريف
+table_adminpackages_createdtitle === مخلوق
+table_adminpackages_detailstitle === حزمة من التفاصيل
+table_adminpackages_freelabel === حر
+table_unlimited_data === غير محدود
+table_adminpackages_labeldetails1 === مختفي:
+table_adminpackages_labeldetails2 === علامة التذييل:
+table_adminpackages_labeldetails3 === حد إرسال الرسائل القصيرة:
+table_adminpackages_labeldetails4 === حد استقبال الرسائل القصيرة:
+table_adminpackages_labeldetails5 === حد إرسال WhatsApp:
+table_adminpackages_labeldetails6 === حد تلقي WhatsApp:
+table_adminpackages_labeldetails7 === حد حساب WhatsApp:
+table_adminpackages_labeldetails8 === حد USSD:
+table_adminpackages_labeldetails9 === حد الإخطار:
+table_adminpackages_labeldetails10 === حد الجهاز:
+table_adminpackages_labeldetails11 === حد الاتصال:
+table_adminpackages_labeldetails12 === حد مفتاح API:
+table_adminpackages_labeldetails13 === حد الويب هوك:
+table_adminpackages_labeldetails14 === حد العمل:
+table_adminpackages_labeldetails15 === الحد المقرر:
+table_adminvouchers_exportcopy === نسخ حافظة القسائم _8880_
+table_adminvouchers_exportexcel === قسائم Excel Export _8880_
+table_adminvouchers_exportpdf === تصدير القسائم بتنسيق PDF _8880_
+table_adminvouchers_createdtitle === مخلوق
+table_adminvouchers_codetitle === استرداد الرمز
+table_adminvouchers_copycode === نسخ رمز القسيمة إلى الحافظة
+table_adminsubscriptions_createdtitle === مخلوق
+table_admintransactions_createdtitle === مخلوق
+table_admintransactions_itemtitle === بند
+table_admintransactions_amounttitle === مقدار
+table_admintransactions_durationtitle === مدة
+table_admintransactions_creditslabel === الاعتمادات
+table_admintransactions_monthslabel === _8880_ شهر
+table_adminpayouts_createdtitle === مخلوق
+table_adminpayouts_partnertitle === شريك
+table_adminpayouts_amounttitle === مقدار
+table_adminpayouts_addresstitle === عنوان الدفع
+table_adminpayouts_optionstitle === خيارات
+table_adminpayouts_approve === وضع علامة على طلب الدفع على أنه مدفوع
+table_adminpayouts_reject === رفض طلب الدفع
+table_adminwidgets_createdtitle === مخلوق
+table_adminwidgets_typeblock === منع
+table_adminwidgets_typemodal === مشروط
+table_adminwidgets_copywidgethook === نسخ ربط القطعة إلى الحافظة
+table_adminpages_createdtitle === مخلوق
+table_adminpages_optionstitle === خيارات
+table_adminpages_copypagehook === نسخ ربط الصفحة إلى الحافظة
+table_adminmarketing_createdtitle === مخلوق
+table_adminmarketing_typetitle === يكتب
+table_adminmarketing_titletitle === عنوان
+table_adminmarketing_contenttitle === المحتوى
+table_adminmarketing_recipientstitle === المستلمون
+table_adminmarketing_optionstitle === خيارات
+table_adminmarketing_notifylabel === يخطر
+table_adminmarketing_mailerlabel === مراسل رقمي
+table_adminmarketing_pushlabel === يدفع
+table_adminmarketing_roleslabel === الأدوار:
+table_adminmarketing_userslabel === المستخدمون:
+table_admingateways_createdtitle === مخلوق
+table_admingateways_nametitle === اسم
+table_admingateways_pricingtitle === التسعير
+table_admingateways_optionstitle === خيارات
+table_admingateways_invalidjson === تنسيق JSON غير صالح!
+table_admingateways_defaultprice === السعر الافتراضي: _8880_
+table_admingateways_percountryprcie === التسعير حسب الدولة:
+table_adminshorteners_createdtitle === مخلوق
+table_adminshorteners_nametitle === اسم
+table_adminshorteners_optionstitle === خيارات
+table_adminplugins_idtitle === بطاقة تعريف
+table_adminplugins_versiontitle === الإصدار المثبت
+table_adminplugins_actionstitle === أجراءات
+table_adminplugins_updatedesc === قم بتحديث هذا البرنامج المساعد
+table_adminplugins_editdesc === تحرير خيارات البرنامج المساعد
+table_adminplugins_removedesc === قم بإلغاء تثبيت هذا البرنامج المساعد
+whatsapp_sent_sentsuccess === تم إرسال دردشة WhatsApp _8880_!
+whatsapp_sent_sentfailed === فشل إرسال الدردشة _8880_!
+whatsapp_received_chat === تم استلام دردشة جديدة _8880_!
+widget_systemupdate_title === تحديث النظام
+widget_systemupdate_loader === نظام التحديث
+widget_systemupdate_requireupdate === لا يمكن أن يكون ملف التحديث فارغًا!
+requests_systemupdate_faileduploadingfile === فشل تحميل ملف التحديث!
+widget_usersettings_loader === إعدادات حساب التوفير
+widget_payment_title === قسط
+widget_payment_creditamountnotless === لا يمكن أن يكون مبلغ الائتمان أقل من 10!
+widget_payment_creditslabel === الاعتمادات
+widget_view_contentremoved === تمت إزالة المحتوى!
+widget_redeem_title === يسترد
+widget_redeem_loader === التحقق من صحة رمز القسيمة
+widget_addcredits_title === إضافة الاعتمادات
+widget_addpayout_title === طلب الدفع
+widget_addpayout_loader === إنشاء طلب الدفع
+widget_addpayout_requireamount === لا يمكن أن يكون المبلغ فارغًا!
+widget_addpayout_requireprovider === لا يمكن أن يكون مزود الدفع فارغًا!
+widget_addpayout_requireaddress === لا يمكن أن يكون عنوان الدفع فارغًا!
+widget_smsquick_loader === إضافة رسالة إلى قائمة الانتظار
+widget_smsbulk_loader === إضافة رسائل إلى قائمة الانتظار
+widget_smsexcel_loader === إضافة رسائل من ملف Excel إلى قائمة الانتظار
+widget_addsmsscheduled_loader === حفظ رسالتك المجدولة
+widget_editscheduled_title === تحرير الجدول
+widget_editscheduled_loader === حفظ رسالتك المجدولة
+widget_addussd_title === طلب USSD
+widget_addussd_loader === إضافة طلب الدولار الأمريكي إلى قائمة الانتظار
+widget_editdevice_title === تحرير الجهاز
+widget_editdevice_loader === حفظ تغييرات الجهاز
+widget_waquick_title === دردشة سريعة
+widget_waquick_loader === إضافة دردشة whatsapp إلى قائمة الانتظار
+widget_waquick_requireaccount === مطلوب حساب WhatsApp!
+widget_wabulk_title === الدردشة الجماعية
+widget_wabulk_loader === إضافة محادثات whatsapp إلى قائمة الانتظار
+widget_waexcel_title === دردشة مجمعة بواسطة Excel
+widget_waexcel_loader === إضافة محادثات whatsapp إلى قائمة الانتظار
+widget_wascheduled_title === جدولة الدردشة
+widget_wascheduled_loader === إضافة محادثات whatsapp إلى قائمة الانتظار
+widget_wascheduled_requireaccount === مطلوب حساب WhatsApp!
+widget_waeditscheduled_title === تحرير الجدول
+widget_waeditscheduled_loader === إضافة محادثات whatsapp إلى قائمة الانتظار
+widget_waeditscheduled_requireaccount === مطلوب حساب WhatsApp!
+widget_waaddaccount_title === إنشاء حساب
+widget_importcontacts_loaded === استيراد جهات الاتصال من ملف اكسل
+widget_addcontact_loader === إنشاء إدخال جهة اتصال جديدة
+default_pricecolumns_monthlabel === شهر
+default_pricecolumns_dailylabel === يوميًا
+default_pricecolumns_monthlylabel === شهريا
+default_pricecolumns_unlimitedlabel === غير محدود
+form_literal_spintaxdesc2 === سيتم استخدام القيمتين _8880_ و _8881_ بشكل عشوائي.
+dashboard_packagesmodal_smssend === إرسال الرسائل القصيرة
+default_footerquote_obama === أن تصبح لا يعني الوصول إلى مكان ما أو تحقيق هدف معين. أنا أراها بدلاً من ذلك كحركة أمامية ، ووسيلة للتطور ، وطريقة للوصول باستمرار إلى ذات أفضل. الرحلة لا تنتهي.
+widgets_editcontact_loader === حفظ تغييرات جهات الاتصال
+widgets_addgroup_loader === إنشاء إدخال مجموعة جديد
+widgets_editgroup_loader === حفظ تغييرات المجموعة
+widgets_addapikey_loader === إنشاء مفتاح API جديد
+widgets_editapikey_loader === حفظ تغييرات مفتاح API
+widgets_addwebhook_title === إضافة Webhook
+widgets_addwebhook_loader === إنشاء خطاف ويب جديد
+widgets_addwebhook_requireevents === لا يمكن أن تكون الأحداث فارغة!
+widgets_editwebhook_loader === حفظ تغييرات webhook
+widgets_addhook_loader === خلق عمل هوك جديد
+widgets_edithook_loader === حفظ تغييرات إجراء الخطاف
+widgets_addautoreply_loader === إنشاء إجراء رد تلقائي جديد
+widgets_editautoreply_loader === حفظ تغييرات إجراء الرد التلقائي
+widgets_addtemplate_loader === إنشاء قالب رسالة جديد
+widgets_edittemplate_loader === حفظ تغييرات النموذج
+widgets_adminbuilder_loader === حفظ إعدادات المنشئ
+widgets_adminsettings_loader === حفظ إعدادات النظام
+widgets_admintheme_loader === حفظ إعدادات السمة
+widgets_adduser_loader === إنشاء حساب مستخدم جديد
+widgets_edituser_loader === حفظ تغييرات حساب المستخدم
+widgets_addrole_loader === خلق دور مستخدم جديد
+widgets_addrole_title === أضف دورًا
+widgets_editrole_loader === حفظ تغييرات دور المستخدم
+widgets_addpackage_loader === إنشاء حزمة نظام جديدة
+widgets_editpackage_loader === حفظ تغييرات الحزمة
+widgets_addvoucher_loader === إنشاء قسائم جديدة
+widgets_addsubscription_loader === إنشاء اشتراك مستخدم جديد
+widgets_addwidgets_loader === إنشاء عنصر واجهة مستخدم جديد
+widgets_editwidget_loader === حفظ تغييرات القطعة
+widgets_addpage_loader === إنشاء صفحة جديدة
+widgets_editpage_loader === حفظ تغييرات الصفحة
+widgets_addpush_title === بث الدفع
+widgets_addpush_loader === بث إعلام الدفع
+widgets_addpush_requiretitle === لا يمكن أن يكون العنوان فارغًا!
+widgets_addpush_requiremessage === لا يمكن أن تكون الرسالة فارغة!
+widgets_addnotify_title === يخطر البث
+widgets_addnotify_loader === بث الإخطار الحي
+widgets_addnotify_requiretitle === لا يمكن أن يكون العنوان فارغًا!
+widgets_addnotify_requiremessage === لا يمكن أن تكون الرسالة فارغة!
+widgets_addmailer_title === قداس الارسال
+widgets_addmailer_loader === إرسال رسائل البريد الإلكتروني
+widgets_addmailer_requiretitle === لا يمكن أن يكون العنوان فارغًا!
+widgets_addlanguage_loader === إضافة لغة جديدة
+widgets_editlanguage_loader === حفظ تغييرات اللغة
+widgets_addgateway_title === إضافة بوابة
+widgets_addgateway_loader === إضافة بوابة جديدة
+widgets_addgateway_requirename === لا يمكن أن يكون اسم البوابة فارغًا!
+widgets_editgateway_title === تحرير البوابة
+widgets_editgateway_loader === حفظ تغييرات البوابة
+widgets_editgateway_requirename === لا يمكن أن يكون اسم البوابة فارغًا!
+widgets_addshortener_title === أضف المُقصر
+widgets_addshortener_loader === إضافة تقصير جديد
+widgets_addshortener_requirename === لا يمكن أن يكون اسم الاختصار فارغًا!
+widgets_editshortener_title === تحرير Shortener
+widgets_editshortener_loader === حفظ تغييرات تقصير
+widgets_editshortener_requirename === لا يمكن أن يكون اسم الاختصار فارغًا!
+widgets_editplugin_loader === تطبيق تغييرات البرنامج المساعد على النظام
+widgets_updateplugin_title === تحديث البرنامج المساعد
+widgets_updateplugin_loader === تحديث البرنامج المساعد
+device_backgroundpage_line1 === تشغيل في الخلفية
+device_backgroundpage_line2 === لماذا يجب تشغيل تطبيق Gateway في الخلفية؟
+device_backgroundpage_line3 === يتطلب التطبيق التشغيل في الخلفية لمواصلة الاستماع إلى الرسائل الجديدة لإرسالها واستلامها ، وهذا ضروري أيضًا لمعالجة الإشعارات الجديدة. إذا لم تكن بحاجة إلى إشعارات ، فيمكنك تعطيل هذا في إعدادات التطبيق ، وسيؤدي تعطيله إلى إيقاف النظام من تلقي بيانات الإشعارات من الجهاز.
+device_backgroundpage_line4 === إذا كان لديك تطبيق أمان تابع لجهة خارجية مثل Avast و Eset وغيرها. يرجى إضافة تطبيق البوابة إلى استثناءاته.
+device_backgroundpage_line5 === يرجى قراءة الدليل المناسب لماركة هاتفك في القائمة التالية.
+device_backgroundpage_line6 === شاومي MIUI
+device_backgroundpage_line7 === حافظ البطارية
+device_backgroundpage_line8 === 1. افتح الإعدادات.
+device_backgroundpage_line9 === 2. حدد "البطارية والأداء".
+device_backgroundpage_line10 === 3. حدد "اختيار التطبيقات".
+device_backgroundpage_line11 === 4. ابحث عن _8880_ وحدد "بلا قيود" في إعدادات الخلفية.
+device_backgroundpage_line12 === قفل التطبيق
+device_backgroundpage_line13 === 1. اضغط على زر القائمة للدخول إلى صفحة الأخيرة.
+device_backgroundpage_line14 === 2. حدد بطاقة _8880_ وقم بقفلها.
+device_backgroundpage_line15 === هواوي EMUI
+device_backgroundpage_line16 === حافظ البطارية
+device_backgroundpage_line17 === 1. افتح الإعدادات.
+device_backgroundpage_line18 === 2. حدد الإعدادات المتقدمة.
+device_backgroundpage_line19 === 3. حدد مدير البطارية.
+device_backgroundpage_line20 === 4. حدد التطبيقات المحمية.
+device_backgroundpage_line21 === 5. ابحث عن _8880_ وقم بتشغيل المفتاح.
+device_backgroundpage_line22 === إذا تم تحديث إصدار EMUI مؤخرًا ، فليس من الضروري إجراء تغييرات في الإعدادات.
+device_backgroundpage_line23 === قفل التطبيق
+device_backgroundpage_line24 === 1. اضغط على زر القائمة ، أدخل صفحة الأخيرة.
+device_backgroundpage_line25 === 2. اسحب _8880_ لأسفل حتى تظهر أيقونة القفل.
+device_backgroundpage_line26 === سامسونج
+device_backgroundpage_line27 === حافظ البطارية
+device_backgroundpage_line28 === 1. اضغط على المدير الذكي.
+device_backgroundpage_line29 === 2. حدد البطارية وانقر للدخول إلى صفحة الإعدادات.
+device_backgroundpage_line30 === 3. انقر فوق التطبيقات غير المراقبة ، وابحث عن _8880_ وانقر للدخول.
+device_backgroundpage_line31 === 4. اضغط على البطارية وانقر على تحسين استخدام البطارية.
+device_backgroundpage_line32 === 5. حدد جميع التطبيقات ، وابحث عن _8880_ وأوقف تشغيل المفتاح.
+device_backgroundpage_line33 === قفل التطبيق
+device_backgroundpage_line34 === 1. اضغط على زر القائمة وادخل إلى صفحات البرنامج التي تم فتحها مؤخرًا.
+device_backgroundpage_line35 === 2. اضغط على أيقونة المزيد لتحديد قفل التطبيقات.
+device_backgroundpage_line36 === 3. اضغط على أيقونة القفل _8880_.
+device_backgroundpage_line37 === 4. انقر فوق تم لإكمال الإجراء.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === قفل التطبيق
+device_backgroundpage_line40 === 1. اسحب لأعلى على الجانب الأيسر من الشاشة الرئيسية للدخول إلى "Recents".
+device_backgroundpage_line41 === 2. اضغط مع الاستمرار على _8880_ حتى تظهر أيقونة القفل.
+device_backgroundpage_line42 === ممن لهم ColorOS
+device_backgroundpage_line43 === حافظ البطارية
+device_backgroundpage_line44 === 1. افتح الإعدادات وانقر على البطارية.
+device_backgroundpage_line45 === 2. اضغط على توفير الطاقة.
+device_backgroundpage_line46 === 3. ابحث عن _8880_ لإيقاف تجميد الخلفية وتحسين التطبيقات غير الطبيعية.
+device_backgroundpage_line47 === إذا لم تتمكن من التعيين بعد إكمال الخطوات المذكورة أعلاه ، فجرّب ما يلي:
+device_backgroundpage_line48 === 1. افتح مدير الهاتف وابحث عن خلفية نظيفة.
+device_backgroundpage_line49 === 2. انقر لإضافة التطبيق.
+device_backgroundpage_line50 === 3. ضع علامة على _8880_ ثم انقر فوق موافق.
+device_backgroundpage_line51 === قفل التطبيق
+device_backgroundpage_line52 === 1. اضغط على زر القائمة ، أدخل صفحة الأخيرة.
+device_backgroundpage_line53 === 2. اسحب _8880_ لأسفل حتى تظهر أيقونة القفل.
+device_backgroundpage_line54 === فيفو FuntouchOS
+device_backgroundpage_line55 === حافظ البطارية
+device_backgroundpage_line56 === 1. افتح مدير وانقر على مدير الطاقة.
+device_backgroundpage_line57 === 2. حدد قوة Backstage.
+device_backgroundpage_line58 === 3. ابحث عن _8880_ وقم بتشغيل المفتاح.
+device_backgroundpage_line59 === قفل التطبيق
+device_backgroundpage_line60 === 1. اضغط على زر القائمة ، أدخل صفحة الأخيرة.
+device_backgroundpage_line61 === 2. اسحب _8880_ لأسفل حتى تظهر أيقونة القفل.
+device_backgroundpage_line62 === نظام التشغيل Smartisan
+device_backgroundpage_line63 === حافظ البطارية
+device_backgroundpage_line64 === 1. افتح مدير الهاتف.
+device_backgroundpage_line65 === 2. اضغط على تطبيق Battery Use Optimization.
+device_backgroundpage_line66 === 3. ابحث عن _8880_ وأوقف تشغيل المفتاح.
+device_backgroundpage_line67 === قفل التطبيق
+device_backgroundpage_line68 === 1. انقر نقرًا مزدوجًا فوق زر القائمة ، وادخل إلى صفحة الأخيرة.
+device_backgroundpage_line69 === 2. اضغط مع الاستمرار على _8880_ حتى تظهر أيقونة دبوس التثبيت.
+device_backgroundpage_line70 === ماركات أخرى
+device_backgroundpage_line71 === 1. قفل التطبيق _8880_ في Recents.
+device_backgroundpage_line72 === 2. أضف _8880_ إلى الاستثناءات.
+device_backgroundpage_line73 === 3. إذا قمت بتثبيت مدير بدء تشغيل آخر ، فقم بإزالة _8880_ من قائمة الحظر الخاصة به.
+dashboard_adminmarketing_pushbtndesc === بث دفع الإخطار إلى الأجهزة
+dashboard_adminmarketing_notifybtndesc === مستعرض البث إخطار للمستخدمين
+dashboard_adminmarketing_mailerbtndesc === إرسال بريد إلكتروني جماعي للمستخدمين
+js_loader_pleasewait === ارجوك انتظر
+js_userstatus_online === متصل
+js_userstatus_offline === غير متصل على الانترنت
+js_whatsapp_linksuccess === تم ربط حساب WhatsApp بنجاح!
+js_whatsapp_linkfailed === فشل ربط حساب WhatsApp!
+js_whatsapp_linkexist === WhatsApp كان مرتبطًا بالفعل بحسابك!
+js_whatsapp_loaderprocessing === طلب المعالجة
+js_clearpending_title === مسح معلق؟
+js_clearpending_desc === سيتم مسح وحذف جميع العناصر التي تنتظر الإرسال!
+js_clearpending_processing === طلب المعالجة
+js_authenticate_processing === طلب المعالجة
+js_actiontrigger_title === محاكاة Webhook
+js_actiontrigger_typetitle === نوع البيانات
+js_actiontrigger_typesms === رسالة قصيرة
+js_actiontrigger_typewa === ال WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === إشعار
+js_actiontrigger_loader === محاكاة webhook
+js_actiontranslator_title === مترجم
+js_actiontranslator_from === الترجمة من
+js_actiontranslator_to === ترجمة الى
+js_actiontranslator_loader === ترجمة الرسالة
+js_actionregen_title === إعادة إنشاء رمز النظام؟
+js_actionregen_desc === إنشاء رمز نظام جديد لا رجوع فيه!
+js_actionregen_loader === إنشاء رمز مميز
+js_actionclear_title === مسح ذاكرة التخزين المؤقت؟
+js_actionclear_desc === سيتم مسح جميع بيانات ذاكرة التخزين المؤقت للنظام!
+js_processing_dataloader === طلب المعالجة
+js_build_title === إنشاء ملف APK جديد؟
+js_build_desc === يرجى التأكد من تكوين إعدادات المنشئ بشكل صحيح!
+js_build_btnbuild === يبني
+js_reorder_title === إعادة ترتيب اللغات؟
+js_reorder_desc === ستتم إعادة ترتيب اللغات ، ولا يمكن التراجع عن ذلك!
+js_deletetrash_title === حذف العناصر؟
+js_deletetrash_desc === هل تريد حذف العناصر المختارة؟
+js_tablesexport_copy === الحافظة
+js_tablesexport_excel === تصدير Excel
+js_tablesexport_pdf === تصدير ملف PDF
+mail_expiredtpl_line1 === أهلاً،
+mail_expiredtpl_line2 === لقد تلقيت هذه الرسالة لأن اشتراكك النشط في الحزمة المميزة قد انتهى بالفعل!
+mail_expiredtpl_line3 === تمت إزالة اشتراكك. للاشتراك مرة أخرى في أي باقة مميزة ، ما عليك سوى زيارة موقعنا.
+mail_expiredtpl_line4 === للأسئلة والقضايا ، من فضلك لا تتردد في الاتصال بنا!
+mail_expiredtpl_line5 === شكرًا لك!
+mail_expiringtpl_line1 === أهلاً،
+mail_expiringtpl_line2 === هذا تذكير ودي سوف ينتهي اشتراكك النشط في الحزمة المميزة خلال 5 أيام!
+mail_expiringtpl_line3 === لمنع انقطاع الخدمة ، من فضلك لا تنسى الاشتراك مرة أخرى في أي باقة مميزة. يرجى زيارة موقعنا لطلب مرة أخرى.
+mail_expiringtpl_line4 === للأسئلة والقضايا ، من فضلك لا تتردد في الاتصال بنا!
+mail_expiringtpl_line5 === شكرًا لك!
+mail_failedtpl_line1 === أهلاً،
+mail_failedtpl_line2 === لا يمكننا معالجة معاملة الدفع الخاصة بك ، يرجى المحاولة مرة أخرى باستخدام مزود أو طريقة دفع مختلفة.
+mail_failedtpl_line3 === معرف الدفع:
+mail_failedtpl_line4 === نأسف للإزعاج.
+mail_forgottpl_line1 === أهلاً،
+mail_forgottpl_line2 === لقد تلقينا طلب استرداد حساب لحسابك ، يرجى استخدام كلمة المرور المؤقتة لتسجيل الدخول:
+mail_forgottpl_line3 === لا تنس تغيير كلمة المرور الخاصة بك بعد تسجيل الدخول!
+mail_forgottpl_line4 === ستنتهي صلاحية كلمة المرور بعد 10 دقائق ، كن سريعًا. إذا لم تطلب هذا ، يرجى تجاهل هذا البريد الإلكتروني.
+mail_forgottpl_line5 === شكرًا لك! نأمل أن يعمل.
+mail_payoutpaidtpl_line1 === أهلاً،
+mail_payoutpaidtpl_line2 === أرسل فريقنا طلب الدفع الخاص بك إلى عنوانك وموفر الدفع المحدد.
+mail_payoutpaidtpl_line3 === مقدار:
+mail_payoutpaidtpl_line4 === إنفاق سعيد!
+mail_payoutrejecttpl_line1 === أهلاً،
+mail_payoutrejecttpl_line2 === لا يمكننا معالجة طلب الدفع الخاص بك ، فقد تكون هناك مشكلة في عنوان الدفع الخاص بك. يرجى الاتصال بفريقنا لمعرفة المزيد.
+mail_payoutrejecttpl_line3 === مقدار:
+mail_payoutrejecttpl_line4 === نأسف للإزعاج.
+mail_subscribetpl_line1 === أهلاً،
+mail_subscribetpl_line2 === شكرًا لك على الاشتراك في إحدى باقاتنا المتميزة ، إليك بعض الخطوات القليلة لعملية الشراء:
+mail_subscribetpl_line3 === _8880_ العبوة
+mail_subscribetpl_line4 === ستنتهي صلاحية هذا الاشتراك بعد _8880_
+mail_subscribetpl_line5 === سيصبح هذا ساري المفعول على الفور. للأسئلة والقضايا ، من فضلك لا تتردد في الاتصال بنا!
+mail_subscribetpl_line6 === شكرًا لك!
+requests_build_submitrequest === طلب المعالجة
+requests_reorder_loader === طلب المعالجة
+requests_deleteitem_loader === طلب المعالجة
+requests_packageform_invalidint === تحتوي بعض الحقول على أعداد صحيحة غير صالحة!
+widgets_viewbank_title === حوالة بنكية
+modal_paymentbtn_banktransfer === حوالة بنكية
+modal_adminsettings_banktransfer1 === نموذج التحويل المصرفي
+modal_adminsettings_banktransfer2 === إذا قمت بتمكين التحويل المصرفي في خيارات الدفع ، فيجب عليك إنشاء نموذج له ، وهذا ما سيراه المستخدمون عند النقر فوق الزر. يمكنك إضافة التعليمات وعنوان البنك هنا. تم قبول HTML.
+modal_adminsettings_banktransfer3 === مجموعة من المتغيرات التي يمكنك استخدامها في قالب التحويل المصرفي.
+requests_delete_pluginssuccess === تم حذف البرنامج المساعد بنجاح!
+table_whatsappreceived_chattitle === محادثة
+table_whatsappreceived_accounttitle === الحساب
+tabs_whatsappaccounts_titleheader === حسابات WhatsApp
+form_editwhatsapp_randominterval === فاصل إرسال عشوائي
+form_editwhatsapp_randomintervalhelp === في حالة التمكين ، سيتم إرسال الدردشات في فترات عشوائية بين قيمتين. يمكنك تكوين لهم أدناه.
+form_editwhatsapp_randommin === إرسال الفاصل الزمني دقيقة
+form_editwhatsapp_randomminhelp === أدنى فترة إرسال بالثواني.
+form_editwhatsapp_randommax === إرسال الفاصل الزمني كحد أقصى
+form_editwhatsapp_randommaxhelp === أقصى فترة إرسال بالثواني.
+dashpages_sms_headertitle === رسالة قصيرة
+dashnav_sms_navname === رسالة قصيرة
+widgets_editwhatsapp_title === تحرير WhatsApp
+widgets_editwhatsapp_loader === حفظ تغييرات حساب whatsapp
+mail_waunlink_title === تم إلغاء ربط حساب WhatsApp الخاص بك!
+mail_waunlink_contentline1 === أهلاً!
+mail_waunlink_contentline2 === تمت إزالة أحد حسابات WhatsApp المرتبطة بالمعرف الفريد التالي:
+mail_waunlink_contentline3 === هذا الحساب غير متصل بنظامنا بعد الآن بسبب حدث متعلق بواتساب ، يرجى ربطه مرة أخرى.
+mail_waunlink_contentline4 === شكرًا لك!
+table_contactsunsubscribed_idtitle === بطاقة تعريف
+table_contactsunsubscribed_phonetitle === هاتف
+form_btnall_visitlink === زيارة
+unsubscribe_header_title === إلغاء الاشتراك
+unsubscribe_content_title === غير مشترك
+unsubscribe_content_desc === لقد ألغيت الاشتراك من قائمة الإرسال لدينا.
+requests_editwhatsapp_success === تم تحديث حساب WhatsApp!
+form_addusertpl_credits === الاعتمادات
+form_addusertpl_creditsdesc === بدء الاعتمادات لحساب المستخدم هذا.
+form_addusertpl_creditsdesc2 === تعديل اعتمادات حساب المستخدم هذا.
+form_registerconfirm_desc === تم التحقق من عنوان بريدك الإلكتروني بنجاح. يمكنك تسجيل الدخول إلى حسابك باستخدام الزر أدناه.
+requests_loginnotverified_response === لم يتم التحقق من عنوان البريد الإلكتروني لحسابك. لقد أرسلنا رابط تأكيد إلى هذا العنوان: _8880_
+requests_loginnotverified_response2 === تم تسجيل حسابك بنجاح. قبل أن تتمكن من استخدامه ، ستحتاج إلى التحقق من عنوان بريدك الإلكتروني. لقد أرسلنا رابط تأكيد إلى هذا العنوان: _8880_
+requests_loginnotverified_responseunable === نحن غير قادرين على إرسال تأكيد البريد الإلكتروني!
+requests_loginnotverified_emailtitle === مرحبًا بك في _8880_! قم بتأكيد عنوان البريد الإلكتروني الخاص بحسابك هنا.
+requests_loginnotverified_emaildesc1 === أهلاً!
+requests_loginnotverified_emaildesc2 === شكرًا لك على إنشاء حسابك معنا ، يرجى التحقق من عنوان بريدك الإلكتروني من خلال زيارة هذا الرابط:
+requests_loginnotverified_emaildesc3 === شكرًا لك!
+form_adminsettings_authredi === إعادة توجيه المصادقة
+form_adminsettings_authredidesc === اختر موقع إعادة التوجيه بعد مصادقة ناجحة.
+form_adminsettings_authredihomepage === الصفحة الرئيسية
+form_adminsettings_authredidashboard === لوحة القيادة
+form_adminsettings_defaultcoun === البلد الافتراضي
+form_adminsettings_defaultcoundesc === البلد المحدد الافتراضي في استمارة تسجيل المستخدم.
+form_adminsettings_defaulttimezo === المنطقة الزمنية الافتراضية
+form_adminsettings_defaulttimezodesc === المنطقة الزمنية المحددة الافتراضية في نموذج تسجيل المستخدم.
+form_adminsettings_mailingtrig === مشغلات البريد
+form_adminsettings_mailingtrigdesc === حدد مشغلات البريد للتمكين.
+form_adminsettings_adminemail === البريد الإلكتروني للمسؤول
+form_adminsettings_adminemaildesc === سيتم إرسال الرسائل التي يتم تشغيلها عبر البريد الخاصة بالمسؤول إلى عنوان البريد الإلكتروني هذا. هذه الرسائل متوفرة فقط باللغة الإنجليزية ولا يمكن ترجمتها.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === عند التمكين ، سيتم عرض recaptcha في نماذج المصادقة مثل التسجيل وتسجيل الدخول ونسيان كلمة المرور.
+form_editdevice_receiveoptiontitle === تلقي الرسائل القصيرة
+form_editdevice_receiveoptiondesc === إذا تم تعطيله ، فلن يقوم النظام بحفظ الرسائل المستلمة من صندوق الوارد في android. لن تعمل Webhooks والأدوات الأخرى ذات الصلة مع الجهاز عند تعطيل ذلك.
+form_editwhatsapp_receiveoptiontitle === تلقي الدردشات
+form_editwhatsapp_receiveoptiondesc === إذا تم تعطيله ، فلن يتم حفظ الدردشات المستلمة من حساب whatsapp بواسطة النظام. لن تعمل Webhooks والأدوات الأخرى ذات الصلة لحساب WhatsApp عند تعطيل هذا.
+js_calendarall_option === الجميع
+js_calendarall_apply === يتقدم
+js_calendarall_cancel === يلغي
+js_calendarall_from === من عند
+js_calendarall_to === ل
+js_calendarall_week === دبليو
+js_calendarall_daysu === سو
+js_calendarall_daymo === مو
+js_calendarall_daytu === تو
+js_calendarall_daywe === نحن
+js_calendarall_dayth === ذ
+js_calendarall_dayfr === الاب
+js_calendarall_daysa === سا
+js_calendarall_monjan === يناير
+js_calendarall_monfeb === شهر فبراير
+js_calendarall_monmar === يمشي
+js_calendarall_monapr === أبريل
+js_calendarall_monmay === مايو
+js_calendarall_monjun === يونيه
+js_calendarall_monjul === يوليو
+js_calendarall_monaug === أغسطس
+js_calendarall_monsep === سبتمبر
+js_calendarall_monoct === اكتوبر
+js_calendarall_monnov === شهر نوفمبر
+js_calendarall_mondec === ديسمبر
+response_ussddelete_success === تم حذف طلب USSD!
+response_titanecho_invaltoken === خطأ في تكوين النظام!
+widgets_addplugin_loader === تثبيت البرنامج المساعد الجديد للنظام

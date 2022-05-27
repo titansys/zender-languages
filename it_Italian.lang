@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === Androide
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Pannello di Amministrazione
+and_dashboard_pages_android_line10 === Androide
+and_dashboard_pages_android_line40 === Programmato
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Notifiche
+and_dashboard_pages_android_line58 === Dispositivi
+and_dashboard_pages_contacts_line40 === Iscrizione annullata
+and_dashboard_pages_defailt_line37 === Tariffe d'ingresso
+and_dashboard_pages_default_line42 === documenti
+and_dashboard_pages_default_line58 === Messaggi
+and_dashboard_pages_default_line60 === Ultimi 7 giorni
+and_dashboard_pages_default_line74 === Eventi
+and_dashboard_pages_default_line76 === Ultimi 7 giorni
+and_dashboard_pages_default_line90 === Utilità
+and_dashboard_pages_default_line92 === Ultimi 7 giorni
+and_dashboard_pages_default_line109 === Partner
+and_dashboard_pages_default_line117 === Guadagno
+and_dashboard_pages_default_line131 === Pagamento
+and_dashboard_pages_default_line140 === Bilancia
+and_dashboard_pages_default_line148 === Crediti
+and_dashboard_pages_default_line162 === Riempire
+and_dashboard_pages_default_line170 === Rapporto di consegna
+and_dash_pg_def_line178 === Successo
+and_dash_pg_def_line190 === fallito
+and_dash_pg_def_line204 === Mittenti
+and_dash_pg_def_line209 === Non sei iscritto a nessuno dei nostri pacchetti premium!
+and_dash_pg_def_line217 === Dispositivi
+and_dash_pg_def_line224 === Collegato
+and_dash_pg_def_line232 === Conti
+and_dash_pg_def_line239 === Collegato
+and_dash_pg_def_line250 === Scarica e installa la nostra app ufficiale per ottenere la migliore esperienza utente
+and_dash_pg_doc_line10 === Documenti
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhook
+and_dash_pg_doc_line40 === Azioni
+and_dash_pg_doc_line46 === Dispositivi
+and_dash_pg_doc_line52 === Associazione
+and_dash_pg_for_line29 === Annulla
+and_dash_pg_log_line14 === Fai il login con facebook
+and_dash_pg_log_line17 === Accedi con Google
+and_dash_pg_log_line20 === Accedi con VKontakte
+and_dash_pg_log_line54 === Creare un account
+and_dash_pg_pay_line45 === Abbiamo ricevuto la tua richiesta d'ordine, il nostro sistema ti invierà automaticamente un'e-mail e applicherà le modifiche al tuo account una volta verificata la transazione di pagamento.
+and_dash_pg_rates_line10 === Tariffe d'ingresso
+and_dash_pg_rates_line39 === Partner
+and_dash_pg_reg_line15 === Registrati con Facebook
+and_dash_pg_reg_line20 === Registrati con Google
+and_dash_pg_reg_line25 === Registrati con VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Spedito
+and_dash_pg_whats_line34 === Ricevuto
+and_dash_pg_whats_line40 === Programmato
+and_dash_pg_whats_line46 === Conti
+and_dash_api_line17 === Nome chiave.
+and_dash_api_line19 === per esempio. Per il mio server
+and_dash_api_line24 === Autorizzazioni chiave.
+and_dash_auto_line17 === Nome dell'azione.
+and_dash_auto_line19 === per esempio. Michael
+and_dash_auto_line24 === Fonte
+and_dash_auto_line24_1 === Origine dell'evento di ricezione.
+and_dash_auto_line27 === sms
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Rispondi alle parole chiave separate da virgole. Queste parole chiave attiveranno la risposta automatica se rilevate nel contenuto del messaggio.
+and_dash_auto_line36 === per esempio. grazie, ok, iscriviti, sì
+and_dash_auto_line41 === Il messaggio da inviare al mittente.
+and_dash_auto_line43 === per esempio. Il tuo messaggio di risposta qui, shortcode accettati
+and_dash_auto_line48 === Insieme di variabili che puoi utilizzare nel tuo messaggio.
+and_dash_con_line24 === Numero di contatto.
+and_dash_con_line31 === Gruppo di contatto.
+and_dash_con_line17 === Nome del contatto.
+and_dash_cre_line28 === Acquistare
+and_dash_gate_line17 === Nome
+and_dash_gate_line17_1 === Questo è il nome del gateway che verrà mostrato ai tuoi utenti.
+and_dash_gate_line19 === per esempio. Twilio
+and_dash_gate_line24 === Controllore
+and_dash_gate_line24_1 === Seleziona il file del controller del gateway, questo conterrà la logica e il codice del gateway. Si consiglia di controllare la documentazione.
+and_dash_gate_line27 === Piastra della caldaia del controller:
+and_dash_gate_line34 === Richiama
+and_dash_gate_line34_1 === Se abilitato, i messaggi dovranno essere verificati utilizzando la funzione di richiamata del gateway di terze parti per lo stato di invio, altrimenti i messaggi verranno immediatamente contrassegnati come inviati al momento dell'invio.
+and_dash_gate_line37 === Abilitare
+and_dash_gate_line38 === disattivare
+and_dash_gate_line44 === ID richiamata
+and_dash_gate_line44_1 === Se la richiamata è abilitata, è necessario copiare questo ID e incollarlo sul controller in modo che il sistema possa identificare le richiamate.
+and_dash_gate_line47 === Copia e incolla per l'ID di richiamata
+and_dash_gate_line54 === Prezzo
+and_dash_gate_line54_1 === La tua tabella dei prezzi personalizzata per questo gateway. Ciò ti consentirà di addebitare in aggiunta ai prezzi di terze parti. Ad esempio, se twilio addebita 0,01 per un paese specifico, puoi invece addebitare 0,02, la valuta si basa sulla valuta del tuo sistema. Si prega di seguire correttamente il formato dei prezzi.
+and_dash_gate_line57 === Esempio di prezzo JSON:
+and_dash_gate_line57_1 === Scarica
+and_dash_grp_line17 === Nome del gruppo.
+and_dash_grp_line19 === per esempio. Amici
+and_dash_hook_line17 === Nome dell'azione.
+and_dash_hook_line19 === per esempio. Azione di prova
+and_dash_hook_line24 === Fonte
+and_dash_hook_line24_1 === Fonte dell'evento.
+and_dash_hook_line34 === Seleziona l'evento in cui verrà invocato questo hook.
+and_dash_hook_line44 === Hook link struttura, questo è l'URL che verrà invocato dal sistema. È supportato solo il metodo GET.
+and_dash_hook_line51 === Insieme di variabili che puoi utilizzare nel tuo hook URL.
+and_dash_hook_line27 === sms
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === All'invio
+and_dash_hook_line38 === Alla ricezione
+and_dash_lang_line17 === Nome della lingua.
+and_dash_lang_line19 === per esempio. coreano
+and_dash_lang_line24 === Prefisso internazionale.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Se abilitata, la lingua verrà identificata come da destra a sinistra.
+and_dash_lang_line38 === sì
+and_dash_lang_line39 === No
+and_dash_lang_line45 === Stringhe di traduzione.
+and_dash_mail_line17 === Titolo
+and_dash_mail_line17_1 === Titolo della posta.
+and_dash_mail_line19 === per esempio. Annuncio
+and_dash_mail_line24 === Utenti
+and_dash_mail_line24_1 === Invia da utenti.
+and_dash_mail_line36 === Ruoli
+and_dash_mail_line36_1 === Invia per ruoli.
+and_dash_mail_line48 === Contenuto
+and_dash_mail_line48_1 === Contenuto della posta, html consentito.
+and_dash_mail_line50 === Ciao mondo!
+and_dash_not_line17 === Titolo
+and_dash_not_line17_1 === Notifica titolo.
+and_dash_not_line19 === per esempio. Annuncio
+and_dash_not_line24 === Messaggio
+and_dash_not_line24_1 === Messaggio di notifica.
+and_dash_not_line31 === Colore
+and_dash_not_line31_1 === Notifica colore.
+and_dash_not_line35 === Successo
+and_dash_not_line36 === Avvertimento
+and_dash_not_line37 === Pericolo
+and_dash_not_line43 === Immagine
+and_dash_not_line43_1 === Notifica immagine, questo è facoltativo.
+and_dash_not_line46 === Opzionale
+and_dash_not_line53 === Utenti
+and_dash_not_line53_1 === Trasmesso dagli utenti.
+and_dash_not_line65 === Ruoli
+and_dash_not_line65_1 === Trasmesso per ruoli.
+and_pack_line17 === Nome del pacchetto.
+and_pack_line19 === per esempio. Pacchetto VIP
+and_pack_line24 === Prezzo del pacchetto, questo dovrebbe seguire la valuta del sistema. Non sono ammessi valori mobili.
+and_pack_line29 === per esempio. 25
+and_pack_line34 === Se abilitati, i messaggi e le chat whatsapp conterranno un contrassegno a piè di pagina quando ricevuti dai destinatari.
+and_pack_line44 === Se abilitato, il pacchetto sarà nascosto dalla modale del pacchetto e dalla home page.
+and_pack_line58 === Limite di invio SMS
+and_pack_line58_1 === Il numero massimo di messaggi che possono essere inviati dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line60 === per esempio. 300
+and_pack_line65 === Limite di ricezione SMS
+and_pack_line65_1 === Il numero massimo di messaggi che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line67 === per esempio. 150
+and_pack_line72 === Limite USSD
+and_pack_line72_1 === Il numero massimo di ussd che può essere richiesto dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line74 === per esempio. 25
+and_pack_line79 === Limite di notifica
+and_pack_line79_1 === Il numero massimo di notifiche che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line81 === per esempio. 1300
+and_pack_line86 === Il numero massimo di dispositivi Android che possono essere collegati all'account dell'utente. Inserisci 0 per illimitato.
+and_pack_line88 === per esempio. 25
+and_pack_line92 === Impostazioni WhatsApp
+and_pack_line97 === Il numero massimo di chat che possono essere inviate dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line99 === per esempio. 300
+and_pack_line104 === Il numero massimo di chat che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_pack_line106 === per esempio. 150
+and_pack_line111 === Limite di conto
+and_pack_line111_1 === Il numero massimo di account WhatsApp che possono essere collegati all'account dell'utente. Inserisci 0 per illimitato.
+and_pack_line113 === per esempio. 10
+and_pack_line117 === Impostazioni di utilità
+and_pack_line122 === Il numero massimo di contatti che possono essere salvati dall'utente. Inserisci 0 per illimitato.
+and_pack_line124 === per esempio. 25
+and_pack_line129 === Limite programmato
+and_pack_line129_1 === Il numero massimo di messaggi/chat pianificati che possono essere salvati dall'utente. Inserisci 0 per illimitato. Questo è combinato sia per sms che whatsapp.
+and_pack_line131 === per esempio. 25
+and_pack_line136 === Il numero massimo di chiavi API che è possibile creare. Inserisci 0 per illimitato.
+and_pack_line138 === per esempio. 10
+and_pack_line143 === Il numero massimo di Webhook che è possibile creare. Inserisci 0 per illimitato.
+and_pack_line145 === per esempio. 5
+and_pack_line150 === Limite azioni
+and_pack_line150_1 === Il numero massimo di azioni che è possibile creare. Inserisci 0 per illimitato.
+and_pack_line152 === per esempio. 5
+and_page_line17 === Nome della pagina.
+and_page_line24 === Solo i ruoli selezionati potranno accedere a questa pagina.
+and_page_line35 === Se abilitata, la pagina non sarà accessibile se non effettuato l'accesso.
+and_page_line45 === Contenuto della pagina. Tutti i tag html sono consentiti, fai attenzione quando aggiungi script da fonti sconosciute!
+and_payout_line17 === Importo
+and_payout_line17_1 === Importo da prelevare, solo numeri interi.
+and_payout_line19 === per esempio. 50
+and_payout_line24 === Fornitore
+and_payout_line24_1 === Seleziona il fornitore di servizi di pagamento che desideri utilizzare per ricevere il denaro.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === indirizzo di pagamento
+and_payout_line34_1 === Indirizzo di pagamento o e-mail, controlla attentamente per evitare problemi di pagamento.
+and_payout_line36 === per esempio. La tua email PayPal
+and_payout_line43 === Richiesta
+and_plug_line17 === File plug-in
+and_plug_line17_1 === File zip del plug-in, assicurati di selezionare il file corretto.
+and_push_line17 === Titolo
+and_push_line17_1 === Titolo push.
+and_push_line19 === per esempio. Annuncio
+and_push_line24 === Immagine
+and_push_line24_1 === Spingi la miniatura dell'immagine, questo è facoltativo.
+and_push_line27 === Opzionale
+and_push_line34 === Messaggio
+and_push_line34_1 === Messaggio push.
+and_push_line41 === Utenti
+and_push_line41_1 === Trasmesso dagli utenti.
+and_push_line53 === Ruoli
+and_push_line53_1 === Trasmesso per ruoli.
+and_role_line17 === Nome ruolo.
+and_role_line19 === per esempio. Sviluppatore
+and_role_line24 === Seleziona le autorizzazioni e le funzionalità che desideri disabilitare/abilitare per questo ruolo. Le modifiche vengono applicate in tempo reale, le schede del browser degli utenti collegati con il ruolo vengono ricaricate automaticamente.
+and_short_line17 === Nome
+and_short_line17_1 === Nome abbreviatore.
+and_short_line19 === per esempio. Un po'
+and_short_line24 === Controllore
+and_short_line24_1 === Seleziona il file del controller dell'accorciatore, questo conterrà la logica e il codice dell'accorciatore. Si consiglia di controllare la documentazione.
+and_short_line27 === Piastra della caldaia del controller:
+and_sms_line17 === Nome del messaggio programmato.
+and_sms_line19 === per esempio. Il mio messaggio
+and_sms_line24 === Seleziona la data del programma.
+and_sms_line26 === per esempio. 22/06/2020 00:00
+and_sms_line31 === Se abilitato, il messaggio verrà programmato ogni volta che la data programmata viene abbinata.
+and_sms_line42 === Più numeri E.164 separati da interruzione di riga.
+and_sms_line55 === Seleziona più gruppi di contatti
+and_sms_line67 === Accorciatore
+and_sms_line67_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_sms_line70 === Non accorciare i collegamenti
+and_sms_line79 === Modalità gateway
+and_sms_line79_1 === La modalità gateway che desideri utilizzare. Se scegli i dispositivi, i tuoi dispositivi collegati verranno mostrati per l'invio, altrimenti verranno mostrati i gateway di terze parti e partner.
+and_sms_line82 === Dispositivi
+and_sms_line83 === Crediti
+and_sms_line88 === Slot per sim da usare.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === I tuoi modelli di messaggio predefiniti.
+and_sms_line110 === I tuoi dispositivi collegati, scegli cosa vuoi usare per l'invio.
+and_sms_line121 === Gateway SMS
+and_sms_line121_1 === Gateway di terze parti e partner, i tuoi crediti verranno utilizzati quando invii messaggi utilizzando questi gateway. Ti consigliamo di controllare i prezzi dei gateway prima di utilizzarli.
+and_sms_line141 === Spintax
+and_sms_line144 === Esempio:
+and_sms_line144_1 === Tom è un
+and_sms_line144_2 === gatto
+and_sms_line147 === I valori
+and_sms_line147_1 === Buona
+and_sms_line147_2 === e
+and_sms_line147_3 === cattivo
+and_sms_line147_4 === verrà utilizzato in modo casuale.
+and_subs_line17 === Account utente.
+and_subs_line28 === Pacchetto in abbonamento.
+and_subs_line41 === Durata dell'abbonamento.
+and_subs_line43 === per esempio. 12
+and_temp_line17 === Nome modello.
+and_temp_line24 === Formato modello.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_temp_line35 === Esempio:
+and_temp_line35_1 === Tom è un
+and_temp_line35_2 === gatto
+and_temp_line38 === I valori
+and_temp_line38_1 === Buona
+and_temp_line38_2 === cattivo
+and_temp_line38_3 === verrà utilizzato in modo casuale.
+and_temp_line43 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_user_line17 === Nome legale completo.
+and_user_line19 === per esempio. Michele Cors
+and_user_line24 === Indirizzo e-mail valido.
+and_user_line26 === per esempio. utente@mail.com
+and_user_line31 === Immettere la password utente.
+and_user_line38 === Fuso orario della posizione dell'utente, cambialo se si trova in un paese diverso. Il fuso orario viene utilizzato per la precisione di data e ora dei messaggi inviati e di altri dati.
+and_user_line49 === Paese
+and_user_line49_1 === Paese utente, viene utilizzato per i pagamenti e la formattazione del numero di telefono.
+and_user_line60 === Suoni di notifica
+and_user_line60_1 === Se disabilitato, le notifiche saranno silenziose.
+and_user_line70 === Seleziona il ruolo dell'utente.
+and_user_line81 === Seleziona la lingua dell'utente.
+and_user_line92 === Programma Partner
+and_user_line92_1 === Se abilitato, l'utente sarà in grado di utilizzare i propri dispositivi come dispositivi globali che consentiranno loro di guadagnare denaro quando altri utenti inviano messaggi utilizzando i propri dispositivi.
+and_ussd_line17 === Codice USSD
+and_ussd_line17_1 === Codice richiesta USSD.
+and_ussd_line19 === per esempio. *121#
+and_ussd_line24 === Slot per sim da usare.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === I tuoi dispositivi collegati, scegli cosa vuoi usare per la richiesta ussd.
+and_ussd_line47 === Richiesta
+and_vouch_line17 === Nome del buono.
+and_vouch_line19 === per esempio. Speciale
+and_vouch_line24 === La quantità di voucher che desideri creare. Il valore massimo è 1000!
+and_vouch_line26 === per esempio. 100
+and_vouch_line31 === Durata dell'abbonamento.
+and_vouch_line33 === per esempio. 12
+and_vouch_line38 === Pacchetto in abbonamento.
+and_web_line17 === Nome del webhook.
+and_web_line24 === Ricevi eventi
+and_web_line24_1 === Seleziona gli eventi di ricezione di cui hai bisogno, verranno inviati all'URL del tuo hook web tramite il metodo POST.
+and_web_line27 === sms
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Notifiche
+and_web_line36 === Il tuo URL webhook, tutti i dati del payload verranno inviati qui tramite il metodo POST.
+and_web_line38 === per esempio. http://tuodominio.com/hook_listen.php
+and_whatssched_line17 === Nome della chat programmata.
+and_whatssched_line19 === per esempio. Il mio messaggio
+and_whatssched_line24 === Seleziona la data del programma.
+and_whatssched_line26 === per esempio. 22/06/2020 00:00
+and_whatssched_line31 === Se abilitata, la chat verrà programmata ogni volta che la data programmata viene abbinata.
+and_whatssched_line42 === Più numeri E.164 separati da interruzione di riga.
+and_whatssched_line55 === Seleziona più gruppi di contatti
+and_whatssched_line67 === Accorciatore
+and_whatssched_line67_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_whatssched_line70 === Non accorciare i collegamenti
+and_whatssched_line79 === Account
+and_whatssched_line79_1 === Seleziona l'account WhatsApp che desideri utilizzare.
+and_whatsached_line88 === I tuoi modelli di messaggio predefiniti.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_whatssched_line107 === Esempio:
+and_whatssched_line101_1 === Tom è un
+and_whatssched_line107_2 === gatto
+and_whatssched_line110 === I valori
+and_whatssched_line110_1 === Buona
+and_whatssched_line110_2 === e
+and_whatssched_line110_3 === cattivo
+and_whatssched_line110_4 === verrà utilizzato in modo casuale.
+and_whatssched_line115 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_whatssched_line128 === Invia
+and_whatsapp_line15 === Collega il tuo WhatsApp facendo clic sul pulsante per visualizzare il QRCode, quindi scansionalo tramite
+and_whatsapp_line15_1 === Collega un dispositivo
+and_whatsapp_line15_2 === pulsante nell'app. Hai solo 60 secondi per scansionare il QRCode.
+and_whatsapp_line16 === Collega account
+and_add_widget_line17 === Nome del widget.
+and_add_widget_line24 === Icona widget, solo per modali. Si prega di visitare la riga impressionante per riferimento all'icona.
+and_add_widget_line26 === per esempio. la-info-circle
+and_add_widget_line31 === Tipo di widget. I blocchi sono per il posizionamento in diverse parti dei modelli, i modali sono per i contenuti dinamici. Dalla v3, le modali funzioneranno solo nella dashboard.
+and_add_widget_line34 === Bloccare
+and_add_widget_line35 === Modale
+and_add_widget_line41 === Dimensione del widget, solo per modali.
+and_add_widget_line53 === Posizione widget, solo per modali.
+and_add_widget_line64 === Contenuto del widget. Tutti i tag html sono consentiti, fai attenzione quando aggiungi script da fonti sconosciute!
+and_add_widget_line66 === Ciao mondo!
+and_admin_build_line16 === Applicazione
+and_admin_build_line21 === Nome del pacchetto dell'app, dovrebbe essere univoco e seguire un formato simile a un dominio come com.yourdomain.yourapp, ti consigliamo di seguire il tuo nome di dominio per renderlo unico.
+and_admin_build_line23 === per esempio. com.gateway.sample
+and_admin_build_line28 === Nome dell'app, viene visualizzato nel cassetto delle app e in altre parti dell'app.
+and_admin_build_line30 === per esempio. Porta Zender
+and_admin_build_line35 === Descrizione app, una breve descrizione della tua app.
+and_admin_build_line42 === Tema colore app
+and_admin_build_line42_1 === Tema del colore dell'app, si consiglia di abbinarlo al logo dell'app e ai colori dell'immagine splash.
+and_admin_build_line44 === per esempio. #000000
+and_admin_build_line49 === Versione APK
+and_admin_build_line_49_1 === Versione APK, se stai ricostruendo la tua app, aggiorna anche questo campo incrementando il valore, se il valore corrente è 1, dovresti incrementarlo a 2 prima di creare la tua app. Ciò è necessario per attivare la funzione di aggiornamento nell'app e costringerà l'utente ad aggiornare.
+and_admin_build_line51 === per esempio. 1.0
+and_admin_build_line56 === Crea e-mail
+and_admin_build_line_56_1 === La tua email valida, assicurati di cambiarla. Il risultato della build verrà inviato a questa email!
+and_admin_build_line58 === per esempio. myvalidemail@mail.com
+and_admin_build_line62 === Credenziali
+and_admin_build_line67 === Servizi Google
+and_admin_build_line67_1 === Il tuo file json di Google Services, questo è necessario per le transazioni FCM nell'app gateway.
+and_admin_build_line75 === Credenziali Firebase
+and_admin_build_line75_1 === Il tuo file json delle credenziali di amministratore di Firebase, questo è necessario per consentire al sistema di comunicare con l'app.
+and_admin_build_line82 === Risorse
+and_admin_build_line87 === Logo dell'immagine dell'app, questa è l'immagine mostrata nell'intestazione dell'app. Le dimensioni consigliate sono 251x53 in px. Uno sfondo trasparente è meglio.
+and_admin_build_line95 === Logo di accesso all'app
+and_admin_build_line95_1 === Logo dell'immagine di accesso dell'app, questa è l'immagine mostrata nella modalità di accesso. Le dimensioni consigliate sono 250x100 in px e caratteri scuri. Uno sfondo trasparente è meglio.
+and_admin_build_line103 === Icona dell'immagine dell'app, viene mostrata nel cassetto delle app e nel sistema Android. Le dimensioni consigliate sono 1024x1024 in formato px e png.
+and_admin_build_line111 === Immagine della schermata iniziale dell'app, viene visualizzata quando l'utente apre l'app. Le dimensioni consigliate sono 2732x2732 in formato px e png.
+and_admin_build_line118 === Struttura
+and_admin_build_line123 === JavaScript personalizzato
+and_admin_build_line123_1 === Se desideri utilizzare un codice javascript personalizzato, aggiungilo qui. Questo viene caricato dinamicamente nell'app.
+and_admin_build_line125 === es., alert('Hello World!');
+and_admin_build_line130 === CSS personalizzato
+and_admin_build_line130_1 === Se desideri utilizzare un codice CSS personalizzato, aggiungilo qui. Questo viene caricato dinamicamente nell'app.
+and_admin_build_line137 === Layout personalizzato
+and_admin_build_line137_1 === Se desideri utilizzare una struttura di app personalizzata, modifica il contenuto html, se non sai cosa stai facendo, lascia il valore predefinito.
+and_admin_build_line139 === Ciao mondo!
+and_settings_line21 === Nome del sito, viene mostrato ovunque sia necessario il branding.
+and_settings_line23 === per esempio. Zender
+and_settings_line28 === Descrizione del sito, questo è per l'ottimizzazione dei motori di ricerca, quindi sii creativo.
+and_settings_line30 === per esempio. Questo è un fantastico servizio di gateway sms
+and_settings_line35 === Il tuo codice di acquisto envato, questo è necessario per sbloccare alcune delle funzionalità esclusive dello script.
+and_settings_line37 === per esempio. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === La tua chiave di analisi di Google, questa è facoltativa perché il sistema ha già statistiche sui visitatori integrate.
+and_settings_line44 === per esempio. UA-179148389-1
+and_settings_line49 === Il protocollo del tuo sito, assicurati di aver selezionato quello corretto. Se il tuo sito utilizza https, selezionalo, altrimenti seleziona http.
+and_settings_line59 === Lingua di sistema predefinita, viene utilizzata quando un nuovo utente visita il tuo sito.
+and_settings_line70 === Se disabilitato, non saranno consentite registrazioni tramite pagina di registrazione.
+and_settings_line80 === Modalità di ripristino del pacchetto
+and_settings_line80_1 === L'intervallo di ripristino dei limiti come invio, ricezione, ussd e notifiche. Questo vale sia per le funzionalità Android che WhatsApp. La tua selezione qui deve essere applicata anche nella configurazione di cron.
+and_settings_line83 === Quotidiano
+and_settings_line84 === Mensile
+and_settings_line90 === Modello libero
+and_settings_line90_1 === Se abilitato, il pacchetto gratuito predefinito viene assegnato automaticamente all'utente dopo la registrazione.
+and_settings_line100 === Se disabilitata, la home page non verrà utilizzata. Tutte le visite nella directory principale verranno reindirizzate alla dashboard.
+and_settings_line110 === Widget di chat TAWK
+and_settings_line110_1 === Se abilitato, il widget tawk chat apparirà agli utenti.
+and_settings_line120 === Il link del tuo widget tawk chat, questo è necessario se desideri utilizzare il supporto tawk chat.
+and_settings_line127 === API di amministrazione
+and_settings_line127_1 === Seleziona gli endpoint dell'API di amministrazione che desideri abilitare. Si consiglia di abilitare solo gli endpoint di cui hai bisogno.
+and_settings_line159 === Questo token non deve essere condiviso con nessuno. Viene utilizzato per la sicurezza di cronjob, API di sistema e altre richieste esterne. Se ritieni che il tuo token di sistema sia stato compromesso, rigenerane uno nuovo, dovrai riconfigurare i tuoi cronjob, l'API di sistema e altre impostazioni correlate dopo aver rigenerato un nuovo token.
+and_settings_line160 === Rigenerare
+and_settings_line173 === Se si desidera utilizzare il server di posta integrato, selezionare nativo, altrimenti selezionare smtp quindi configurare le credenziali di posta.
+and_settings_line183 === Il protocollo smtp da utilizzare, seleziona il protocollo supportato del tuo server di posta remoto.
+and_settings_line193 === Email del sito, questo è il nome dell'email mostrato ai destinatari, si consiglia di utilizzare noreply@yoursite.com per scopi di branding.
+and_settings_line195 === per esempio. noreply@dominio.com
+and_settings_line200 === Il tuo indirizzo host del server SMTP remoto.
+and_settings_line205 === per esempio. smtp.gmail.com
+and_settings_line210 === La porta del tuo server SMTP remoto.
+and_settings_line215 === per esempio. 587
+and_settings_line220 === Il nome utente del tuo server SMTP remoto.
+and_settings_line225 === per esempio. nomeutente@gmail.com
+and_settings_line230 === La password del tuo server SMTP remoto.
+and_settings_line235 === La password del tuo account gmail
+and_settings_line244 === La tua email aziendale PayPal.
+and_settings_line246 === per esempio. mail@dominio.com
+and_settings_line251 === Se abilitato, tutte le transazioni PayPal verranno reindirizzate alla modalità sandbox.
+and_settings_line261 === La tua chiave API Mollie.
+and_settings_line263 === per esempio. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === La valuta di sistema da utilizzare, verrà utilizzata come base durante la conversione delle transazioni in USD.
+and_settings_line279 === Seleziona i fornitori di servizi di pagamento che desideri utilizzare.
+and_settings_line293 === Caratteri minimi per i messaggi. Questo vale sia per SMS che WhatsApp.
+and_settings_line295 === per esempio. 5
+and_settings_line300 === Numero massimo di caratteri per i messaggi. Questo vale sia per SMS che WhatsApp. Immettere 0 per infiniti caratteri.
+and_settings_line302 === per esempio. 300
+and_settings_line307 === Contrassegno del piè di pagina del messaggio, viene aggiunto ai messaggi se il relativo pacchetto ha il contrassegno del piè di pagina abilitato.
+and_settings_line309 === per esempio. Inviato da Zender System
+and_settings_line318 === Il numero predefinito di righe da visualizzare nella tabella dei messaggi inviati. Questo vale sia per SMS che WhatsApp.
+and_settings_line320 === per esempio. 10
+and_settings_line325 === Il numero predefinito di righe da visualizzare nella tabella dei messaggi ricevuti. Questo vale sia per SMS che WhatsApp.
+and_settings_line327 === per esempio. 10
+and_settings_line336 === Se abilitato, i visitatori potranno accedere utilizzando i propri account di social media.
+and_settings_line346 === Seleziona i provider di social media che desideri utilizzare.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook ID
+and_settings_line357_1 === L'ID dell'app di Facebook, si prega di leggere la documentazione per ulteriori informazioni.
+and_settings_line359 === per esempio. 738812983731558
+and_settings_line364 === Segreto di Facebook
+and_settings_line364_1 === Il segreto dell'app di Facebook, leggi la documentazione per ulteriori informazioni.
+and_settings_line366 === per esempio. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === ID Google
+and_settings_line371_1 === L'ID dell'app Google, leggi la documentazione per ulteriori informazioni.
+and_settings_line373 === per esempio. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Segreto di Google
+and_settings_line378_1 === Il segreto dell'app Google, leggi la documentazione per ulteriori informazioni.
+and_settings_line380 === per esempio. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === ID VK
+and_settings_line385_1 === L'ID dell'app vkontakte, si prega di leggere la documentazione per ulteriori informazioni.
+and_settings_line387 === per esempio. 7768236
+and_settings_line392 === Segreto VK
+and_settings_line392_1 === Il segreto dell'app vkontakte, leggi la documentazione per ulteriori informazioni.
+and_settings_line394 === per esempio. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Se abilitato, il recaptcha verrà mostrato anche nella pagina di accesso. Assicurati di aver configurato la chiave recaptcha e il segreto recaptcha prima di abilitare questa funzione, altrimenti non sarai in grado di accedere!
+and_settings_line413 === La chiave recaptcha, si prega di leggere la documentazione per ulteriori informazioni.
+and_settings_line415 === per esempio. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Il segreto recaptcha, per favore leggi la documentazione per maggiori informazioni.
+and_settings_line422 === per esempio. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Luce del logo
+and_theme_line17_1 === Immagine del logo chiara, viene mostrata nella home page e nelle pagine di autenticazione quando l'elemento di sfondo è scuro. La dimensione consigliata è 250x50 in px.
+and_theme_line23 === Logo scuro
+and_theme_line223_1 === Immagine logo scura, viene mostrata nella home page e nelle pagine di autenticazione quando l'elemento di sfondo è chiaro. La dimensione consigliata è 250x50 in px.
+and_theme_line29 === Immagine favicon del sito, mostrata nella scheda del browser. La dimensione consigliata è 50x50 in px.
+and_theme_line35 === Immagine di sfondo
+and_theme_line35_1 === Immagine di sfondo del sito, mostrata ovunque. Si consiglia di utilizzare un'immagine ad alta risoluzione.
+and_theme_line41 === Seleziona il tema colore che desideri utilizzare per il sito.
+and_theme_line46 === Seleziona il colore di evidenziazione per i testi.
+and_theme_line51 === Colore del filatore
+and_theme_line51_1 === Seleziona il colore che desideri utilizzare per lo spinner ajax superiore.
+and_theme_line58 === JavaScript personalizzato
+and_theme_line58_1 === Se desideri utilizzare un codice javascript personalizzato, aggiungilo qui. Questo viene caricato dinamicamente in ogni pagina.
+and_theme_line60 === Ciao mondo!
+and_theme_line63 === CSS personalizzato
+and_theme_line63_1 === Se vuoi cambiare alcuni stili CSS, puoi farlo qui.
+and_apikey_line17 === Nome chiave.
+and_apikey_line19 === per esempio. Per il mio server
+and_apikey_line24 === Autorizzazioni chiave.
+and_edit_auto_line17 === Nome dell'azione.
+and_edit_auto_line19 === per esempio. Risposta automatica
+and_edit_auto_line24 === Fonte
+and_edit_auto_line24_1 === Origine dell'evento di ricezione.
+and_edit_auto_line34 === Rispondi alle parole chiave separate da virgole. Queste parole chiave attiveranno la risposta automatica se rilevate nel contenuto del messaggio.
+and_edit_auto_line36 === per esempio. grazie, ok, iscriviti, sì
+and_edit_auto_line41 === Il messaggio da inviare al mittente.
+and_edit_auto_line43 === per esempio. Il tuo messaggio di risposta qui, shortcode accettati
+and_edit_auto_line48 === Insieme di variabili che puoi utilizzare nel tuo messaggio.
+and_edit_con_line17 === Nome del contatto.
+and_edit_con_line19 === per esempio. Michael
+and_edit_con_line24 === Numero di contatto.
+and_edit_con_line31 === Gruppo di contatto.
+and_edit_dev_line16 === Dettagli del dispositivo
+and_edit_dev_line21 === Nome del dispositivo.
+and_edit_dev_line23 === per esempio. Il mio dispositivo
+and_edit_dev_line28 === Se abilitato, i messaggi verranno inviati a intervalli casuali tra 2 valori. Puoi configurarli di seguito.
+and_edit_dev_line38 === L'intervallo minimo in secondi.
+and_edit_dev_line41 === per esempio. 5
+and_edit_dev_line46 === L'intervallo massimo in secondi.
+and_edit_dev_line49 === per esempio. 20
+and_edit_dev_line53 === Impostazioni di notifica
+and_edit_dev_line58 === Applicazioni
+and_edit_dev_line58_1 === Inserisci i nomi dei pacchetti delle app da cui desideri ricevere le notifiche. Separali da interruzioni di riga.
+and_edit_dev_line65 === Impostazioni partner
+and_edit_dev_line70 === Valutare
+and_edit_dev_line70_1 === L'importo che desideri addebitare per messaggio, paese del dispositivo verrà utilizzato come base di valuta. I valori float sono supportati come i centesimi.
+and_edit_dev_line73 === per esempio. 0,50
+and_edit_dev_line78 === Stato globale
+and_edit_dev_line78_1 === Se disabilitato, il dispositivo non sarà disponibile come gateway sms globale e non guadagnerai denaro. Tieni presente che i dispositivi globali non possono ricevere messaggi per motivi di sicurezza.
+and_edit_dev_line89 === Paese
+and_edit_dev_line89_1 === Paese del dispositivo, viene utilizzato per determinare i numeri di telefono e come valuta di base del campo tariffa.
+and_edit_dev_line101 === Priorità
+and_edit_dev_line101_1 === I messaggi globali verranno inviati prima dei tuoi messaggi.
+and_edit_dev_line112 === Slot SIM
+and_edit_dev_line112_1 === Seleziona gli slot sim che desideri utilizzare per l'invio, se selezioni entrambi, i messaggi verranno inviati in uno slot casuale.
+and_edit_email_line16 === Modello di posta elettronica
+and_edit_email_line18 === HTML consentito
+and_edit_gate_line17 === Nome
+and_edit_gate_line17_1 === Questo è il nome del gateway che verrà mostrato ai tuoi utenti.
+and_edit_gate_line19 === per esempio. Twilio
+and_edit_gate_line24 === Controllore
+and_edit_gate_line24_1 === Seleziona il file del controller del gateway, questo conterrà la logica e il codice del gateway. Si consiglia di controllare la documentazione.
+and_edit_gate_line31 === Richiama
+and_edit_gate_line31_1 === Se abilitato, i messaggi dovranno essere verificati utilizzando la funzione di richiamata del gateway di terze parti per lo stato di invio, altrimenti i messaggi verranno immediatamente contrassegnati come inviati al momento dell'invio.
+and_edit_gate_line34 === Abilitare
+and_edit_gate_line35 === disattivare
+and_edit_gate_line41 === ID richiamata
+and_edit_gate_line41_1 === Se la richiamata è abilitata, è necessario copiare questo ID e incollarlo sul controller in modo che il sistema possa identificare le richiamate.
+and_edit_gate_line44 === Copia e incolla per l'ID di richiamata
+and_edit_gate_line51 === Prezzo
+and_edit_gate_line51_1 === La tua tabella dei prezzi personalizzata per questo gateway. Ciò ti consentirà di addebitare in aggiunta ai prezzi di terze parti. Ad esempio, se twilio addebita 0,01 per un paese specifico, puoi invece addebitare 0,02, la valuta si basa sulla valuta del tuo sistema. Si prega di seguire correttamente il formato dei prezzi.
+and_edit_gate_line54 === Esempio di prezzo JSON:
+and_edit_gate_line54_1 === Scarica
+and_edit_grp_line17 === Nome del gruppo.
+and_edit_grp_line19 === per esempio. Amici
+and_edit_hook_line17 === Nome dell'azione.
+and_edit_hook_line19 === per esempio. Azione di prova
+and_edit_hook_line24 === Fonte
+and_edit_hook_line24_1 === Fonte dell'evento.
+and_edit_hook_line27 === sms
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Seleziona l'evento in cui verrà invocato questo hook.
+and_edit_hook_line37 === All'invio
+and_edit_hook_line38 === Alla ricezione
+and_edit_hook_line44 === Hook link struttura, questo è l'URL che verrà invocato dal sistema. È supportato solo il metodo GET.
+and_edit_hook_line51 === Insieme di variabili che puoi utilizzare nel tuo hook URL.
+and_edit_lang_line17 === per esempio. coreano
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === sì
+and_edit_lang_line33 === No
+and_edit_pack_line17 === Nome del pacchetto.
+and_edit_pack_line19 === per esempio. Pacchetto VIP
+and_edit_pack_line24 === Prezzo del pacchetto, questo dovrebbe seguire la valuta del sistema. Non sono ammessi valori mobili.
+and_edit_pack_line29 === per esempio. 25
+and_edit_pack_line34 === Se abilitati, i messaggi e le chat whatsapp conterranno un contrassegno a piè di pagina quando ricevuti dai destinatari.
+and_edit_pack_line44 === Se abilitato, il pacchetto sarà nascosto dalla modale del pacchetto e dalla home page.
+and_edit_pack_line53 === Impostazioni Android
+and_edit_pack_line58 === Limite di invio SMS
+and_edit_pack_line58_1 === Il numero massimo di messaggi che possono essere inviati dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line60 === per esempio. 300
+and_edit_pack_line65 === Limite di ricezione SMS
+and_edit_pack_line65_1 === Il numero massimo di messaggi che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line67 === per esempio. 150
+and_edit_pack_line72 === Limite USSD
+and_edit_pack_line72_1 === Il numero massimo di ussd che può essere richiesto dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line74 === per esempio. 25
+and_edit_pack_line79 === Limite di notifica
+and_edit_pack_line79_1 === Il numero massimo di notifiche che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line81 === per esempio. 1300
+and_edit_pack_line86 === Il numero massimo di dispositivi Android che possono essere collegati all'account dell'utente. Inserisci 0 per illimitato.
+and_edit_pack_line88 === per esempio. 25
+and_edit_pack_line92 === Impostazioni WhatsApp
+and_edit_pack_line97 === Il numero massimo di chat che possono essere inviate dall'utente prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line99 === per esempio. 300
+and_edit_pack_line104 === Il numero massimo di chat che l'utente può ricevere prima del ripristino. Inserisci 0 per illimitato.
+and_edit_pack_line106 === per esempio. 150
+and_edit_pack_line111 === Limite di conto
+and_edit_pack_line111_1 === Il numero massimo di account WhatsApp che possono essere collegati all'account dell'utente. Inserisci 0 per illimitato.
+and_edit_pack_line113 === per esempio. 10
+and_edit_pack_line117 === Impostazioni di utilità
+and_edit_pack_line122 === Il numero massimo di contatti che possono essere salvati dall'utente. Inserisci 0 per illimitato.
+and_edit_pack_line124 === per esempio. 25
+and_edit_pack_line129 === Limite programmato
+and_edit_pack_line129_1 === Il numero massimo di messaggi/chat pianificati che possono essere salvati dall'utente. Inserisci 0 per illimitato. Questo è combinato sia per sms che whatsapp.
+and_edit_pack_line131 === per esempio. 25
+and_edit_pack_line136 === Il numero massimo di chiavi API che è possibile creare. Inserisci 0 per illimitato.
+and_edit_pack_line138 === per esempio. 10
+and_edit_pack_line143 === Il numero massimo di Webhook che è possibile creare. Inserisci 0 per illimitato.
+and_edit_pack_line145 === per esempio. 5
+and_edit_pack_line150 === Limite azioni
+and_edit_pack_line150_1 === Il numero massimo di azioni che è possibile creare. Inserisci 0 per illimitato.
+and_edit_pack_line152 === per esempio. 5
+and_edit_page_line17 === Nome della pagina.
+and_edit_page_line24 === Solo i ruoli selezionati potranno accedere a questa pagina.
+and_edit_page_line35 === Se abilitata, la pagina non sarà accessibile se non effettuato l'accesso.
+and_edit_page_line45 === Contenuto della pagina. Tutti i tag html sono consentiti, fai attenzione quando aggiungi script da fonti sconosciute!
+and_edit_role_line17 === Nome ruolo.
+and_edit_role_line19 === per esempio. Sviluppatore
+and_edit_role_line24 === Seleziona le autorizzazioni e le funzionalità che desideri disabilitare/abilitare per questo ruolo. Le modifiche vengono applicate in tempo reale, le schede del browser degli utenti collegati con il ruolo vengono ricaricate automaticamente.
+and_edit_short_line17 === Nome
+and_edit_short_line17_1 === Nome abbreviatore.
+and_edit_short_line19 === per esempio. Un po'
+and_edit_short_line24 === Controllore
+and_edit_short_line24_1 === Seleziona il file del controller dell'accorciatore, questo conterrà la logica e il codice dell'accorciatore. Si consiglia di controllare la documentazione.
+and_edit_sms_line17 === Nome del messaggio programmato.
+and_edit_sms_line19 === per esempio. Il mio messaggio
+and_edit_sms_line24 === Seleziona la data del programma.
+and_edit_sms_line26 === per esempio. 22/06/2020 00:00
+and_edit_sms_line31 === Se abilitato, il messaggio verrà programmato ogni volta che la data programmata viene abbinata.
+and_edit_sms_line42 === Più numeri E.164 separati da interruzione di riga.
+and_edit_sms_line55 === Seleziona più gruppi di contatti
+and_edit_sms_line67 === Modalità gateway
+and_edit_sms_line67_1 === La modalità gateway che desideri utilizzare. Se scegli i dispositivi, i tuoi dispositivi collegati verranno mostrati per l'invio, altrimenti verranno mostrati i gateway di terze parti e partner.
+and_edit_sms_line70 === Dispositivi
+and_edit_sms_line71 === Crediti
+and_edit_sms_line76 === Slot per sim da usare.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === I tuoi dispositivi collegati, scegli cosa vuoi usare per l'invio.
+and_edit_sms_line99 === Gateway SMS
+and_edit_sms_line99_1 === Gateway di terze parti e partner, i tuoi crediti verranno utilizzati quando invii messaggi utilizzando questi gateway. Ti consigliamo di controllare i prezzi dei gateway prima di utilizzarli.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Esempio:
+and_edit_sms_line122_1 === Tom è un
+and_edit_sms_line122_2 === gatto
+and_edit_sms_line125 === I valori
+and_edit_sms_line125_1 === Buona
+and_edit_sms_line125_2 === e
+and_edit_sms_line125_3 === cattivo
+and_edit_sms_line125_4 === verrà utilizzato in modo casuale.
+and_edit_temp_line17 === Nome modello.
+and_edit_temp_line24 === Formato modello.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_edit_temp_line35 === Esempio:
+and_edit_temp_line35_1 === Tom è un
+and_edit_temp_line35_2 === gatto
+and_edit_temp_line38 === I valori
+and_edit_temp_line38_1 === Buona
+and_edit_temp_line38_2 === e
+and_edit_temp_line38_3 === cattivo
+and_edit_temp_line38_4 === verrà utilizzato in modo casuale.
+and_edit_temp_line43 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_eduse_line17 === Il tuo nome legale completo, tieni presente che l'utilizzo di un nome falso potrebbe far sospendere il tuo account.
+and_eduse_line19 === per esempio. Michele Cors
+and_eduse_line24 === Indirizzo email valido, ignora questo campo se desideri mantenere l'indirizzo email corrente.
+and_eduse_line26 === per esempio. utente@mail.com
+and_eduse_line31 === Se vuoi mantenere la password attuale, ignora questo campo, altrimenti inserisci la nuova password.
+and_eduse_line38 === Il fuso orario della tua posizione, cambialo se ti trovi in ​​un paese diverso. Il fuso orario viene utilizzato per la precisione della data e dell'ora dei messaggi inviati e di altri dati.
+and_eduse_line49 === Paese
+and_eduse_line49_1 === Il tuo paese, questo viene utilizzato per i pagamenti e la formattazione del numero di telefono.
+and_eduse_line60 === Suoni di notifica
+and_eduse_line60_1 === Se disabilitato, le notifiche saranno silenziose.
+and_eduse_line70 === Seleziona il ruolo dell'utente.
+and_eduse_line81 === Seleziona la lingua dell'utente.
+and_eduse_line92 === Programma Partner
+and_eduse_line92_1 === Se abilitato, l'utente sarà in grado di utilizzare i propri dispositivi come dispositivi globali che consentiranno loro di guadagnare denaro quando altri utenti inviano messaggi utilizzando i propri dispositivi.
+and_edweb_line17 === Nome del webhook.
+and_edweb_line24 === Ricevi eventi
+and_edweb_line24_1 === Seleziona gli eventi di ricezione di cui hai bisogno, verranno inviati all'URL del tuo hook web tramite il metodo POST.
+and_edweb_line30 === Notifiche
+and_edweb_line36 === Il tuo URL webhook, tutti i dati del payload verranno inviati qui tramite il metodo POST.
+and_edweb_line38 === per esempio. https://tuodominio.com/reply.php
+and_edwhat_line17 === Nome della chat programmata.
+and_edwhat_line19 === per esempio. Il mio messaggio
+and_edwhat_line24 === Seleziona la data del programma.
+and_edwhat_line26 === per esempio. 22/06/2020 00:00
+and_edwhat_line31 === Se abilitata, la chat verrà programmata ogni volta che la data programmata viene abbinata.
+and_edwhat_line42 === Più numeri E.164 separati da interruzione di riga.
+and_edwhat_line55 === Seleziona più gruppi di contatti
+and_edwhat_line67 === Account
+and_edwhat_line67_1 === Seleziona l'account WhatsApp che desideri utilizzare.
+and_edwhat_line76 === I tuoi modelli di messaggio predefiniti.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_edwhat_line95 === Esempio:
+and_edwhat_line95_1 === Tom è un
+and_edwhat_line95_2 === gatto
+and_edwhat_line98 === I valori
+and_edwhat_line98_1 === Buona
+and_edwhat_line98_2 === e
+and_edwhat_line98_3 === cattivo
+and_edwhat_line98_4 === verrà utilizzato in modo casuale.
+and_edwhat_line103 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_edwhat_line116 === Invia
+and_edwid_line17 === Nome del widget.
+and_edwid_line24 === Icona widget, solo per modali. Si prega di visitare la riga impressionante per riferimento all'icona.
+and_edwid_line31 === Tipo di widget. I blocchi sono per il posizionamento in diverse parti dei modelli, i modali sono per i contenuti dinamici. Dalla v3, le modali funzioneranno solo nella dashboard.
+and_edwid_line34 === Bloccare
+and_edwid_line35 === Modale
+and_edwid_line41 === Dimensione del widget, solo per modali.
+and_edwid_line53 === Posizione widget, solo per modali.
+and_edwid_line64 === Contenuto del widget. Tutti i tag html sono consentiti, fai attenzione quando aggiungi script da fonti sconosciute!
+and_import_line17 === Il file excel che desideri importare, assicurati di seguire il formato richiesto.
+and_import_line20 === File di esempio:
+and_import_line20_1 === Scarica
+and_package_line36 === Ricezione SMS
+and_package_line41 === Invia WhatsApp
+and_package_line46 === Ricezione WhatsApp
+and_package_line51 === USSD
+and_package_line56 === Notifiche
+and_package_line61 === SMS/Chat programmati
+and_package_line66 === Contatti
+and_package_line71 === Chiavi API
+and_package_line76 === Webhook
+and_package_line81 === Azioni
+and_package_line86 === Dispositivi Android
+and_package_line91 === Account WhatsApp
+and_redeem_line18 === Riscatta il codice.
+and_redeem_line20 === per esempio. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Più numeri E.164 separati da interruzione di riga. Verrà inviato solo 1 messaggio a un numero anche se hai selezionato i gruppi in cui è stato aggiunto.
+and_sms_bulk_31 === Seleziona più gruppi di contatti. Verrà inviato solo 1 messaggio a un contatto anche se hai selezionato più gruppi in cui è stato aggiunto.
+and_sms_bulk_43 === Accorciatore
+and_sms_bulk_43_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_sms_bulk_46 === Non accorciare i collegamenti
+and_sms_bulk_55 === Modalità gateway
+and_sms_bulk_55_1 === La modalità gateway che desideri utilizzare. Se scegli i dispositivi, i tuoi dispositivi collegati verranno mostrati per l'invio, altrimenti verranno mostrati i gateway di terze parti e partner.
+and_sms_bulk_58 === Dispositivi
+and_sms_bulk_59 === Crediti
+and_sms_bulk_64 === Slot per sim da usare.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Se abilitati, questi messaggi verranno inviati prima di ogni altra cosa.
+and_sms_bulk_81 === I tuoi modelli di messaggio predefiniti.
+and_sms_bulk_94 === I tuoi dispositivi collegati, scegli cosa vuoi usare per l'invio.
+and_sms_bulk_105 === Gateway SMS
+and_sms_bulk_105_1 === Gateway di terze parti e partner, i tuoi crediti verranno utilizzati quando invii messaggi utilizzando questi gateway. Ti consigliamo di controllare i prezzi dei gateway prima di utilizzarli
+and_sms_bulk_126 === Traduci il messaggio.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_sms_bulk_135 === Esempio:
+and_sms_bulk_143 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_sms_exe17 === Il file excel che desideri importare, assicurati di seguire il formato richiesto.
+and_sms_exe20 === File di esempio:
+and_sms_exe20_1 === Scarica
+and_sms_exe27 === Accorciatore
+and_sms_exe27_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_sms_exe30 === Non accorciare i collegamenti
+and_sms_exe39 === Modalità gateway
+and_sms_exe39_1 === La modalità gateway che desideri utilizzare. Se scegli i dispositivi, i tuoi dispositivi collegati verranno mostrati per l'invio, altrimenti verranno mostrati i gateway di terze parti e partner.
+and_sms_exe42 === Dispositivi
+and_sms_exe43 === Crediti
+and_sms_exe47 === I tuoi modelli di messaggio predefiniti.
+and_sms_exe60 === I tuoi dispositivi collegati, scegli cosa vuoi usare per l'invio.
+and_sms_exe70 === Gateway SMS
+and_sms_exe70_1 === Gateway di terze parti e partner, i tuoi crediti verranno utilizzati quando invii messaggi utilizzando questi gateway. Ti consigliamo di controllare i prezzi dei gateway prima di utilizzarli.
+and_sms_exe92 === Traduci il messaggio.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_sms_exe109 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_sms_quick17 === Numero di telefono del destinatario.
+and_sms_quick24 === Modalità gateway
+and_sms_quick24_1 === La modalità gateway che desideri utilizzare. Se scegli i dispositivi, i tuoi dispositivi collegati verranno mostrati per l'invio, altrimenti verranno mostrati i gateway di terze parti e partner.
+and_sms_quick27 === Dispositivi
+and_sms_quick28 === Crediti
+and_sms_quick34 === Accorciatore
+and_sms_quick34_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_sms_quick37 === Non accorciare i collegamenti
+and_sms_quick46 === Slot per sim da usare.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Se abilitati, questi messaggi verranno inviati prima di ogni altra cosa.
+and_sms_quick66 === I tuoi dispositivi collegati, scegli cosa vuoi usare per l'invio.
+and_sms_quick77 === Gateway SMS
+and_sms_quick77_1 === Gateway di terze parti e partner, i tuoi crediti verranno utilizzati quando invii messaggi utilizzando questi gateway. Ti consigliamo di controllare i prezzi dei gateway prima di utilizzarli.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_sysup17 === Aggiorna file
+and_sysup17_1 === Aggiorna il file zip, assicurati di selezionare il file corretto.
+and_upplug17 === Aggiorna file
+and_upplug17_1 === Aggiorna il file zip, assicurati di selezionare il file corretto.
+and_uset17 === L'immagine dell'avatar del tuo profilo.
+and_uset24 === Il tuo nome legale completo, tieni presente che l'utilizzo di un nome falso potrebbe far sospendere il tuo account.
+and_uset26 === per esempio. Michael Shmuck
+and_uset31 === Il tuo indirizzo email valido, ignora questo campo se desideri mantenere il tuo indirizzo email attuale.
+and_uset33 === per esempio. tuaemail@mail.com
+and_uset38 === Il fuso orario della tua posizione, cambialo se ti trovi in ​​un paese diverso. Il fuso orario viene utilizzato per la precisione della data e dell'ora dei messaggi inviati e di altri dati.
+and_uset49 === Paese
+and_uset49_1 === Il tuo paese, questo viene utilizzato per i pagamenti e la formattazione del numero di telefono.
+and_uset60 === Suoni di notifica
+and_uset60_1 === Se disabilitato, le notifiche saranno silenziose.
+and_uset70 === Se vuoi mantenere la tua password attuale, ignora questo campo, altrimenti inserisci la tua nuova password.
+and_usub23 === Valido fino a
+and_usub28 === Invio SMS
+and_usub34 === Ricezione SMS
+and_usub40 === Invia WhatsApp
+and_usub46 === Ricezione WhatsApp
+and_usub57 === USSD
+and_usub63 === Notifiche
+and_usub69 === SMS/Chat programmati
+and_usub98 === Azioni
+and_usub104 === Dispositivi Android
+and_usub110 === Account WhatsApp
+and_view20 === Vista completa
+and_whatsbulk_18 === Più numeri E.164 separati da interruzione di riga.
+and_whatsbulk_31 === Seleziona più gruppi di contatti. Tieni presente che se un contatto ha più gruppi, il messaggio potrebbe essere inviato più volte se selezioni i gruppi in cui è stato incluso.
+and_whatsbulk_43 === Accorciatore
+and_whatsbulk_43_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_whatsbulk_46 === Non accorciare i collegamenti
+and_whatsbulk_55 === Account
+and_whatsbulk_55_1 === Seleziona l'account WhatsApp che desideri utilizzare.
+and_whatsbulk_64 === I tuoi modelli di messaggio predefiniti.
+and_whatsbulk_79 === Traduci il messaggio.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_whatsbulk_96 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_whatex17 === Il file excel che desideri importare, assicurati di seguire il formato richiesto.
+and_whatex20 === File di esempio:
+and_whatex20_1 === Scarica
+and_whatex27 === Accorciatore
+and_whatex27_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_whatex30 === Non accorciare i collegamenti
+and_whatex39 === Account
+and_whatex39_1 === Seleziona l'account WhatsApp che desideri utilizzare.
+and_whatex48 === I tuoi modelli di messaggio predefiniti.
+and_whatex63 === Traduci il messaggio.
+and_whatex68 === Spintax
+and_whatex68_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_whatex80 === Insieme di variabili che puoi utilizzare nei tuoi messaggi.
+and_whatquick_17 === E.164 numero di telefono del destinatario.
+and_whatquick_24 === Accorciatore
+and_whatquick_24_1 === Se abilitato, i collegamenti nei messaggi verranno automaticamente abbreviati utilizzando l'abbreviatore selezionato.
+and_whatquick_27 === Non accorciare i collegamenti
+and_whatquick_36 === Account
+and_whatquick_36_1 === Seleziona l'account WhatsApp che desideri utilizzare.
+and_whatquick_50 === Traduci il messaggio.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Una funzione che ti consente di randomizzare le parole nei tuoi messaggi che previene efficacemente i rilevamenti di spam.
+and_admin_api_3 === API di amministrazione
+and_admin_fileman_3 === Editor di modelli
+and_admin_gate_3 === Gateway SMS
+and_admin_gate_8 === Aggiungi gateway
+and_admin_lang_6 === Riordina le lingue
+and_admin_mark_3 === Marketing
+and_admin_mark_6 === Eliminare elementi selezionati
+and_admin_mark_12 === Spingere
+and_admin_mark_17 === Notificare
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Richieste di pagamento
+and_admin_short_3 === accorciatori
+and_admin_short_8 === Aggiungi accorciatore
+and_admin_subs_8 === Aggiungi abbonamento
+and_admin_vouch_6 === Eliminare elementi selezionati
+and_droid_dev_3 === Dispositivi Android
+and_droid_dev_6 === Leggi la documentazione
+and_droid_dev_8 === documenti
+and_droid_dev_11 === Richiedi di essere un fornitore di gateway partner
+and_droid_dev_13 === Associazione
+and_droid_dev_16 === Registra un nuovo dispositivo Android
+and_droid_not_3 === Notifiche
+and_droid_not_6 === Eliminare elementi selezionati
+and_droid_rev_3 === SMS ricevuto
+and_droid_rev_6 === Elimina i messaggi selezionati
+and_droid_sched_6 === Eliminare elementi selezionati
+and_droid_sent_3 === SMS inviato
+and_droid_sent_6 === Eliminare elementi selezionati
+and_droid_sent_10 === Cancella tutti i messaggi in sospeso
+and_droid_sent_14 === Invia SMS veloci
+and_droid_sent_16 === Presto
+and_droid_sent_19 === Invia SMS in blocco
+and_droid_sent_21 === Massa
+and_droid_sent_24 === Invia SMS in blocco tramite Excel
+and_droid_ussd_3 === Richieste USSD
+and_droid_ussd_6 === Eliminare elementi selezionati
+and_droid_ussd_10 === Elimina tutte le richieste in sospeso
+and_droid_ussd_14 === Nuova richiesta USSD
+and_droid_ussd_16 === Richiesta
+and_con_grp_6 === Eliminare elementi selezionati
+and_con_grp_10 === Aggiungi nuovo gruppo di contatti
+and_con_sav_6 === Eliminare elementi selezionati
+and_con_sav_10 === Aggiungi nuovo contatto
+and_con_sav_15 === Importa contatti da file excel
+and_con_unsub_3 === Iscrizione annullata
+and_con_unsub_6 === Eliminare elementi selezionati
+and_doc_act_3 === Azioni
+and_doc_api_3 === Documentazione API
+and_doc_dev_3 === Dispositivi
+and_doc_partner_3 === Associazione
+and_doc_webhook_3 === Webhook
+and_rate_gate_3 === Aliquote
+and_rate_gate_10 === Paese
+and_rate_gate_11 === Tasso per messaggio
+and_rate_gate_22 === Altri paesi
+and_rate_partner_3 === Tariffe per i partner
+and_tool_act_3 === Azioni
+and_tool_act_6 === Leggi la documentazione
+and_tool_act_8 === documenti
+and_tool_act_11 === Aggiungi una nuova azione hook
+and_tool_act_13 === Gancio
+and_tool_act_16 === Aggiungi una nuova azione di risposta automatica
+and_tool_act_18 === Risposta automatica
+and_tool_key_6 === Leggi la documentazione
+and_tool_key_8 === documenti
+and_tool_key_11 === Crea una nuova chiave API
+and_tool_webhook_6 === Leggi la documentazione
+and_tool_webhook_8 === documenti
+and_what_accnt_6 === Collega un nuovo account
+and_what_accnt_8 === Aggiungi account
+and_what_attach_8 === Elimina i messaggi selezionati
+and_what_rev_3 === Chat ricevute
+and_what_rev_6 === Eliminare elementi selezionati
+and_what_sched_6 === Eliminare elementi selezionati
+and_what_sched_12 === Pianifica la chat
+and_what_sent_3 === Chat inviate
+and_what_sent_6 === Eliminare elementi selezionati
+and_what_sent_10 === Invia chat veloce
+and_what_sent_12 === Presto
+and_what_sent_15 === Invia chat in blocco
+and_what_sent_17 === Massa
+and_what_sent_20 === Invia chat in blocco tramite Excel
+and_def_f_blck_6 === Inizia il marketing
+and_def_f_blck_7 === Iniziamo e facciamo crescere insieme il business, registrati ora e sperimenta una piattaforma di marketing di alta qualità!
+and_def_f_blck_8 === Unisciti a noi
+and_def_f_blck_35 === Mettiti in contatto
+and_head_blck_21 === Casa
+and_head_blck_24 === Caratteristiche
+and_head_blck_27 === Prezzo
+and_head_blck_30 === Clienti
+and_head_blck_39 === Pannello
+and_head_blck_42 === Disconnettersi
+and_pages_default_8 === SMS e WhatsApp marketing al meglio
+and_pages_default_29 === Messaggistica SMS
+and_pages_default_31 === Usa i tuoi dispositivi Android come gateway SMS, questo è effettivamente più economico rispetto all'utilizzo di gateway di terze parti.
+and_pages_default_40 === Messaggistica WhatsApp
+and_pages_default_42 === Usa WhatsApp per le tue campagne di marketing, la nostra piattaforma fornisce gli strumenti per aiutarti a iniziare.
+and_pages_default_51 === Strumenti intuitivi
+and_pages_default_53 === Forniamo gli strumenti per aiutarti con le tue attività di marketing come risposta automatica, webhook e altro.
+and_pages_default_62 === Guadagnare soldi
+and_pages_default_64 === Diventa uno dei nostri partner e usa i tuoi dispositivi Android come gateway e guadagna denaro per ogni messaggio inviato.
+and_pages_default_73 === Perché utilizzare il nostro servizio?
+and_pages_default_74 === Ecco alcuni motivi per cui dovresti iniziare a utilizzare il nostro servizio
+and_pages_default_84 === Invio rapido e in blocco
+and_pages_default_86 === Invia facilmente tonnellate di messaggi a diversi gruppi di contatti e puoi anche inviare messaggi rapidi per transazioni veloci. La nostra piattaforma include anche dashboard live, ricevi notifiche quando i tuoi messaggi vengono inviati o ricevuti!
+and_pages_default_89 === codici brevi
+and_pages_default_89_1 === per comporre i tuoi messaggi con dati predefiniti.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === per la randomizzazione di un insieme di parole per combattere i problemi di spamming.
+and_pages_default_91 === Traduttore
+and_pages_default_91_1 === per il targeting del pubblico in base alle loro lingue.
+and_pages_default_98 === Strumenti automatizzati e intelligenti
+and_pages_default_100 === Gestisci la tua attività mentre noi ci occupiamo del lavoro sporco, la nostra piattaforma è intelligente e ha bisogno solo dei messaggi che vuoi inviare, al resto pensiamo noi!
+and_pages_default_103 === Programma
+and_pages_default_103_1 === i tuoi sms e chat whatsapp in qualsiasi data tu voglia.
+and_pages_default_104 === Webhook
+and_pages_default_104_1 === per automatizzare alcune attività quando ricevi messaggi sia da sms che da whatsapp.
+and_pages_default_105 === Azioni
+and_pages_default_105_1 === per la creazione di risposte automatiche e controllo rapido dei dati degli eventi.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === per eseguire richieste relative alla rete come il controllo del saldo da parte dell'operatore.
+and_pages_default_107 === Notifiche
+and_pages_default_107_1 === dai dispositivi Android collegati può essere utilizzato anche per attività automatizzate.
+and_pages_default_137 === Garantiamo il successo del tuo business con le nostre caratteristiche strategiche
+and_pages_default_139 === La nostra piattaforma è ben realizzata per soddisfare le richieste di attività di marketing in continua crescita, vogliamo assicurarci che ogni centesimo speso per il nostro servizio sia ben meritato e ti dia il 100% di soddisfazione!
+and_pages_default_145 === Piattaforma facile da usare e fluida
+and_pages_default_148 === Conveniente ma mantiene un servizio di qualità
+and_pages_default_156 === Strumenti e dashboard intuitivi
+and_pages_default_159 === Esperienza veloce e senza ritardi durante la commercializzazione dei tuoi prodotti
+and_pages_default_171 === Prezzo del servizio
+and_pages_default_187 === Invio SMS
+and_pages_default_194 === Ricezione SMS
+and_pages_default_201 === Invia WhatsApp
+and_pages_default_208 === Ricezione WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === Notifiche
+and_pages_default_229 === SMS/Chat programmati
+and_pages_default_236 === Contatti
+and_pages_default_243 === Chiavi API
+and_pages_default_250 === Webhook
+and_pages_default_257 === Azioni
+and_pages_default_264 === Dispositivi Android
+and_pages_default_271 === Account WhatsApp
+and_pages_default_287 === I nostri clienti
+and_pages_default_290 === Scelto da oltre 3.000+ clienti. Inizia a commercializzare i tuoi prodotti e fai crescere il tuo business con noi!
+landing_title_default === Dispositivi mobili Android come gateway SMS
+landing_nav_login === Registrazione
+landing_lead_desc === Utilizza il piano sms illimitato del tuo provider di rete, una soluzione economica ed economica per marketing, sms in blocco e progetti nel tuo paese. Usa WhatsApp per raggiungere un pubblico ancora più ampio, la nostra piattaforma fornisce gli strumenti completi per aiutarti a iniziare.
+landing_footer_ourcomp === Fuori compagnia
+landing_footer_about === Di
+landing_footer_tos === Termini di servizio
+landing_footer_privacy === politica sulla riservatezza
+landing_footer_links === Collegamenti al sito
+landing_footer_login === Registrazione
+landing_footer_register === Iscriviti
+landing_footer_copyright === Tutti i diritti riservati
+dashboard_title_default === Pannello
+dashboard_title_contacts === Contatti
+dashboard_title_tools === Strumenti
+dashboard_title_admin === Amministrazione
+dashboard_nav_default === Pannello
+dashboard_nav_contacts === Contatti
+dashboard_nav_tools === Strumenti
+dashboard_nav_menusubscription === Sottoscrizione
+dashboard_nav_menusettings === Impostazioni
+dashboard_nav_menulogout === Disconnettersi
+dashboard_btn_addcontact === Aggiungi contatto
+dashboard_btn_adddevice === Aggiungi dispositivo
+dashboard_btn_addgroup === Aggiungere gruppo
+dashboard_btn_addtemplate === Aggiungi modello
+dashboard_btn_addkey === Aggiungi chiave
+dashboard_btn_addhook === Aggiungi webhook
+dashboard_btn_build === Costruire
+dashboard_btn_buildsettings === Impostazioni
+dashboard_btn_settings === Sistema
+dashboard_btn_theme === Tema
+dashboard_btn_adduser === Aggiungi utente
+dashboard_btn_addpackage === Aggiungi pacchetto
+dashboard_btn_addwidget === Aggiungi widget
+dashboard_btn_addlanguage === Aggiungi lingua
+dashboard_footer_about === Di
+dashboard_footer_terms === Termini di servizio
+dashboard_footer_privacy === politica sulla riservatezza
+dashboard_footer_copyright === Tutti i diritti riservati
+dashboard_messages_menusent === Spedito
+dashboard_messages_menureceived === Ricevuto
+dashboard_messages_menutemplates === Modelli
+dashboard_messages_tabreceivedtitle === Messaggi ricevuti
+dashboard_messages_tabtemplatestitle === Modelli
+dashboard_messages_tablesentrecipient === Destinatario
+dashboard_messages_tablesentmessage === Messaggio
+dashboard_messages_tablesentcreated === Creato
+dashboard_messages_tablesentoptions === Opzioni
+dashboard_messages_tablereceivedsender === Mittente
+dashboard_messages_tablereceivedmessage === Messaggio
+dashboard_messages_tablereceivedreceived === Ricevuto
+dashboard_messages_tablereceivedoptions === Opzioni
+dashboard_messages_tabletemplatesname === Nome modello
+dashboard_messages_tabletemplatesformat === Formato modello
+dashboard_messages_tabletemplatesoptions === Opzioni
+dashboard_contacts_title === Contatti
+dashboard_contacts_menusaved === Salvato
+dashboard_contacts_menugroups === Gruppi
+dashboard_contacts_tabsavedtitle === Contatti salvati
+dashboard_contacts_tabgroupstitle === Gruppi di contatto
+dashboard_contacts_tablesavedname === Nome del contatto
+dashboard_contacts_tablesavednumber === Numero di contatto
+dashboard_contacts_tablesavedoptions === Opzioni
+dashboard_contacts_tablegroupsname === Nome del gruppo
+dashboard_contacts_tablegroupsoptions === Opzioni
+dashboard_devices_tableregisteredbrand === Produttore
+dashboard_devices_tableregisteredversion === Versione
+dashboard_devices_tableregisteredadded === Registrato
+dashboard_devices_tableregisteredoptions === Opzioni
+dashboard_tools_title === Strumenti
+dashboard_tools_menukeys === Chiavi API
+dashboard_tools_menuhooks === Webhook
+dashboard_tools_tabkeystitle === Chiavi API
+dashboard_tools_tabhookstitle === Webhook
+dashboard_tools_tablekeysname === Nome
+dashboard_tools_tablekeyspermissions === Permessi
+dashboard_tools_tablekeysoptions === Opzioni
+dashboard_tools_tablehooksname === Nome
+dashboard_tools_tablehooksurl === URL del webhook
+dashboard_tools_tablehooksoptions === Opzioni
+dashboard_admin_title === amministratore
+dashboard_admin_menustats === Statistiche
+dashboard_admin_menuusers === Utenti
+dashboard_admin_menupackages === Pacchetti
+dashboard_admin_menusubscriptions === Abbonamenti
+dashboard_admin_menutransactions === Transazioni
+dashboard_admin_menuwidgets === Widget
+dashboard_admin_menulanguages === Le lingue
+dashboard_admin_tabdefaultearningstitle === Guadagno
+dashboard_admin_tabdefaultmessageslast === Ultimi 30 giorni
+dashboard_admin_tabuserstitle === Utenti
+dashboard_admin_tabpackagestitle === Pacchetti
+dashboard_admin_tabsubscriptionstitle === Abbonamenti
+dashboard_admin_tabtransactionstitle === Transazioni
+dashboard_admin_tabwidgetstitle === Widget
+dashboard_admin_tablanguagestitle === Le lingue
+dashboard_admin_tableusersname === Nome
+dashboard_admin_tableusersemail === E-mail
+dashboard_admin_tableusersoptions === Opzioni
+dashboard_admin_tablepackagesname === Nome
+dashboard_admin_tablepackagesprice === Prezzo
+dashboard_admin_tablepackagesoptions === Opzioni
+dashboard_admin_tablesubscriptionsuser === Utente
+dashboard_admin_tablesubscriptionspackage === Pacchetto
+dashboard_admin_tablesubscriptionsprice === Prezzo
+dashboard_admin_tablesubscriptionsexpire === Data di scadenza
+dashboard_admin_tablesubscriptionsoptions === Opzioni
+dashboard_admin_tabletransactionscustomer === Cliente
+dashboard_admin_tabletransactionsprovider === Fornitore
+dashboard_admin_tablewidgetsname === Nome del widget
+dashboard_admin_tablewidgetstype === Tipo
+dashboard_admin_tablewidgetssize === Misurare
+dashboard_admin_tablewidgetsposition === Posizione
+dashboard_admin_tablewidgetsoptions === Opzioni
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Nome della lingua
+dashboard_admin_tablelanguagescreated === Creato
+dashboard_admin_tablelanguagesoptions === Opzioni
+table_search_text === Ricerca
+table_search_placeholder === Inserisci qui le parole chiave...
+response_invalid === Richiesta non valida!
+response_went_wrong === Qualcosa è andato storto!
+response_session_false === La sessione non esiste!
+response_session_true === La sessione esiste già!
+response_invalid_emailpass === Email/password non valide!
+response_loggedin_success === Accesso riuscito!
+response_loggedout_success === Disconnessione riuscita!
+response_invalid_email === Indirizzo email non valido!
+response_retrieval_received === Abbiamo ricevuto una richiesta di recupero dell'account, ignora se non è stata richiesta da te.
+response_solve_captcha === Per favore, risolvi la sfida anti-bot!
+response_register_false === Le iscrizioni sono disabilitate!
+response_name_short === Il nome è troppo breve!
+response_password_short === La password deve essere maggiore di 5 caratteri!
+response_password_notmatch === Le password non corrispondono!
+response_register_success === Iscrizione completata correttamente!
+response_email_unavailable === L'indirizzo email era già registrato!
+response_upload_applogo === Carica il logo della tua app!
+response_upload_appsplash === Carica la tua app splash!
+response_pcode_empty === Inserisci il codice di acquisto nelle impostazioni di sistema!
+response_buildserver_false === Impossibile connettersi per costruire il server!
+response_invalid_number === Numero cellulare invalido!
+response_message_short === Messaggio troppo breve!
+response_message_queued === Il messaggio è stato aggiunto alla coda!
+response_message_bulkqueued === I messaggi collettivi sono stati messi in coda per l'invio!
+response_format_short === Il formato è troppo corto!
+response_template_added === Il modello è stato aggiunto!
+response_number_exist === Il numero di contatto esiste già!
+response_contact_added === Il contatto è stato aggiunto!
+response_group_added === Il gruppo di contatto è stato aggiunto!
+response_permission_min === Seleziona almeno 1 autorizzazione!
+response_key_added === La chiave API è stata aggiunta!
+response_invalid_webhookurl === URL webhook non valido!
+response_webhook_added === Webhook è stato aggiunto!
+response_user_added === L'utente è stato aggiunto!
+response_package_added === Il pacchetto è stato aggiunto!
+response_widget_added === Il widget è stato aggiunto!
+response_language_added === La lingua è stata aggiunta!
+response_avatar_invalid === Avatar non può essere caricato!
+response_profile_updated === Il profilo è stato aggiornato!
+response_package_purchasedtitle === Hai sottoscritto un pacchetto premium, ecco la ricevuta!
+response_package_purchased === Abbonato con successo al pacchetto!
+response_template_updated === Il modello è stato aggiornato!
+response_contact_updated === Il contatto è stato aggiornato!
+response_group_updated === Il gruppo di contatto è stato aggiornato!
+response_key_updated === La chiave API è stata aggiornata!
+response_webhook_updated === Webhook è stato aggiornato!
+response_user_updated === L'utente è stato aggiornato!
+response_package_updated === Il pacchetto è stato aggiornato!
+response_widget_updated === Il widget è stato aggiornato!
+response_language_updated === La lingua è stata aggiornata!
+response_builder_packagenameshort === Il nome del pacchetto è troppo corto!
+response_builder_appnameshort === Il nome dell'app è troppo corto!
+response_builder_applogofail === Impossibile caricare il logo dell'app!
+response_builder_appsplashfail === Impossibile caricare l'app splash!
+response_builder_settingsupdated === Impostazioni del costruttore aggiornate!
+response_theme_updated === Impostazioni del tema aggiornate!
+response_system_settingsupdated === Impostazioni di sistema aggiornate!
+response_deleted_sent === Il messaggio inviato è stato cancellato!
+response_deleted_received === Il messaggio ricevuto è stato cancellato!
+response_deleted_template === Il modello è stato eliminato!
+response_deleted_contact === Il contatto è stato cancellato!
+response_deleted_group === Il gruppo di contatti è stato eliminato!
+response_deleted_device === Il dispositivo è stato eliminato!
+response_deleted_key === La chiave API è stata eliminata!
+response_deleted_hook === Webhook è stato eliminato!
+response_deleted_defaultuserfalse === L'utente predefinito non può essere eliminato!
+response_deleted_user === L'utente è stato cancellato!
+response_deleted_defaultpackagefalse === Il pacchetto predefinito non può essere eliminato!
+response_deleted_package === Il pacchetto è stato eliminato!
+response_deleted_subscription === Gli abbonamenti sono stati cancellati!
+response_deleted_widget === Il widget è stato eliminato!
+response_deleted_defaultlangfalse === La lingua predefinita non può essere eliminata!
+response_deleted_language === La lingua è stata eliminata!
+response_lang_changed === La lingua è stata cambiata!
+modal_usersettings_title === Impostazioni
+modal_subscription_title === Sottoscrizione
+modal_packages_title === Pacchetti
+modal_smsquick_title === SMS veloci
+modal_smsbulk_title === SMS in blocco
+modal_addtemplate_title === Aggiungi modello
+modal_edittemplate_title === Modifica modello
+modal_addcontact_title === Aggiungi contatto
+modal_editcontact_title === Modifica il contatto
+modal_addgroup_title === Aggiungere gruppo
+modal_editgroup_title === Modifica gruppo
+modal_adddevice_title === Aggiungi dispositivo
+modal_addkey_title === Aggiungi chiave API
+modal_editkey_title === Modifica chiave API
+modal_edithook_title === Modifica webhook
+modal_buildersettings_title === Impostazioni del costruttore
+modal_themesettings_title === Impostazioni tema
+modal_systemsettings_title === Impostazioni di sistema
+modal_adduser_title === Aggiungi utente
+modal_edituser_title === Modifica utente
+modal_addpackage_title === Aggiungi pacchetto
+modal_editpackage_title === Modifica pacchetto
+modal_addwidget_title === Aggiungi widget
+modal_editwidget_title === Modifica widget
+modal_addlanguage_title === Aggiungi lingua
+modal_editlanguage_title === Modifica lingua
+require_email === Indirizzo e-mail
+require_password === Parola d'ordine
+require_name === Nome e cognome
+require_cpassword === conferma password
+require_phone === Numero di telefono
+require_device === Dispositivo
+require_message === Messaggio
+require_groups === Gruppi di contatto
+require_sim === Slot Sim
+require_priority === Opzione prioritaria
+require_api === Opzione API
+require_templatename === Nome modello
+require_templateformat === Formato modello
+require_contactname === Nome del contatto
+require_group === Gruppo di contatto
+require_groupname === Nome del gruppo
+require_apiname === Nome chiave API
+require_permissions === Permessi
+require_hookname === Nome del webhook
+require_hookurl === URL webhook
+require_appname === Nome dell'applicazione
+require_appcolor === Colore dell'app
+require_packagename === Nome del pacchetto
+require_widgetname === Nome del widget
+require_widgetsize === Dimensione del widget
+require_widgetposition === Posizione del widget
+require_widgettype === Tipo di widget
+require_languagename === Nome della lingua
+require_languageiso === Lingua iso
+require_languagestr === Traduzioni linguistiche
+btn_submit === Invia
+btn_download === Scarica
+btn_done === Fatto
+btn_purchase === Acquistare
+btn_free === Gratuito
+btn_send === Inviare
+btn_save === Salva
+btn_packages === Pacchi
+btn_retrieve === Recuperare
+btn_signin === Registrazione
+btn_signup === Iscrizione
+form_name === Nome
+form_number === Numero di telefono
+form_group === Gruppo di contatto
+form_adddevice_one === Aggiungere un nuovo dispositivo Android al tuo account è molto semplice, ci siamo assicurati che tu possa continuare senza sprecare parte del tuo tempo prezioso, segui questi passaggi.
+form_adddevice_two === 1. Scarica e installa
+form_adddevice_three === Innanzitutto, scarica e installa la nostra app gateway facendo clic su questo pulsante.
+form_adddevice_four === 2. Registra il dispositivo
+form_adddevice_five === Ora apri l'app gateway e fai clic sul pulsante di scansione, quindi scansiona questo qrcode.
+form_adddevice_six === 3. Fatto!
+form_adddevice_seven === Il dispositivo è stato aggiunto al tuo account, ora puoi iniziare a inviare messaggi!
+form_permissions === Permessi
+form_countrycode === Prefisso internazionale
+form_translations === Stringhe di traduzione
+form_translations_placeholder === Inserisci le traduzioni qui...
+form_packageprice === Prezzo
+form_packagesend === Limite di invio
+form_packagereceive === Limite di ricezione
+form_packagedevice === Limite dispositivo
+form_packagekey === Limite chiave
+form_packagehook === Limite webhook
+form_templatename_placeholder === Annuncio
+form_templateformat === Formato
+form_templateformat_placeholder === Inserisci qui il formato del tuo modello...
+form_shortcodes === codici brevi
+form_emailaddress === Indirizzo e-mail
+form_password === Parola d'ordine
+form_password_leave === Lascia vuoto per mantenere la password corrente
+form_language === Lingua
+form_webhookname_placeholder === Rispondi Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Termini di servizio
+form_widgeticon === Icona
+form_widgettype === Tipo
+form_widgetsize === Misurare
+form_widgetsmall === Piccolo
+form_widgetmedium === medio
+form_widgetlarge === Larga
+form_widgetxlarge === Extra grande
+form_widgetposition === Posizione
+form_widgetcenter === Centro
+form_widgetleft === Sono partiti
+form_widgetright === Destra
+form_widgetcontent === Contenuto
+form_builderpackagename === Nome del pacchetto
+form_builderappname === Nome dell'applicazione
+form_builderappdesc === Descrizione dell'app
+form_builderappdesc_placeholder === Questa è un'app fantastica
+form_builderapplogo === Logo dell'app
+form_builderappsplash === Schermata iniziale dell'app
+form_uploaded === Caricato
+form_notuploaded === Nessuno
+form_themebg === Colore di sfondo
+form_themetext === Evidenzia colore
+form_settingsite === Luogo
+form_settingssitename === Nome del sito
+form_settingssitedesc === descrizione del sito
+form_settingspcode === Codice di acquisto
+form_settingsprotocol === Protocollo
+form_settingsdeflang === Lingua di default
+form_settingsreg === Iscrizioni
+form_settingsmailing === Mailing
+form_settingsmailfunc === Funzione di posta
+form_settingssitemail === E-mail del sito
+form_settingssmtphost === Host SMTP
+form_settingssmtpport === Porta SMTP
+form_settingssmtpusername === Nome utente SMTP
+form_settingssmtppassword === Password SMTP
+form_settingssmtp_small === Necessario per SMTP remoto
+form_settingspayments === Pagamenti
+form_settingspaypaltest === Modalità di prova Paypal
+form_settingssecurity === Sicurezza
+form_settingsrecaptchakey === Recaptcha chiave del sito
+form_settingsrecaptchasecret === Recaptcha Chiave Segreta
+form_enable === Abilitare
+form_disable === disattivare
+form_native === Nativo
+form_remotesmtp === SMTP remoto
+form_device === Dispositivo mobile
+form_sim === Slot Sim
+form_priority === Priorità
+form_yes === sì
+form_no === No
+form_freefor === Libero per sempre
+form_monthly === Mensile
+form_groups === Gruppi di contatto
+form_template === Modello
+form_none === Nessuno
+form_message === Messaggio
+form_message_placeholder === Inserisci qui il tuo messaggio...
+form_avatar === Avatar
+form_changepass === Cambia la password
+form_package === Pacchetto
+form_keys === Chiavi API
+form_hooks === Webhook
+form_daily === quotidiano
+form_forgotpass === Ha dimenticato la password
+form_fullname === Nome e cognome
+form_cpassword === Conferma password
+form_haveaccount === Ho un account
+datatable_processing === In elaborazione, attendere...
+datatable_length === Mostrando _MENU_ voci
+datatable_info === Mostrando da _START_ a _END_ di _TOTAL_ voci
+datatable_empty === Mostra da 0 a 0 di 0 voci
+datatable_filtered === (filtrato da _MAX_ voci totali)
+datatable_loading === Attendere il caricamento prego...
+datatable_zero === Non riusciamo a trovare nulla che corrisponda alla tua richiesta!
+datatable_null === Non ci sono dati da visualizzare!
+datatable_first === Primo
+datatable_prev === Precedente
+datatable_next === Prossimo
+datatable_last === Scorso
+delete_title === Elimina?
+delete_tagline === Questa azione non può essere annullata!
+validate_cannotemp === Non può essere vuoto!
+alert_attention === Attenzione
+copy_data === Dati copiati negli appunti!
+date_today === In data odierna
+date_yesterday === Ieri
+date_7days === Ultimi 7 giorni
+date_30days === Ultimi 30 giorni
+date_month === Questo mese
+date_lmonth === Lo scorso mese
+date_custom === Intervallo personalizzato
+unknown_action_method === Metodo di azione sconosciuto!
+mollie_redirecting_page === Reindirizzamento alla pagina di pagamento Mollie...
+form_settingsmolliekey === Chiave API Mollie
+btn_confirm === Confermare
+btn_cancel === Annulla
+recaptcha_add_keys === Aggiungi le tue chiavi recaptcha per abilitare questa funzione!
+pay_with_paypal === Paga con Paypal
+pay_with_mollie === Paga con Mollie
+form_settingsenabledproviders === Fornitori abilitati
+form_builderappicon === Icona dell'app
+payment_transact_failed === Transazione di pagamento fallita!
+cookieconsent_message === Utilizziamo i cookie per assicurarti la migliore esperienza sul nostro sito web.
+cookieconsent_link === Per saperne di più
+role_added === Il ruolo è stato aggiunto!
+role_updated === Il ruolo è stato aggiornato!
+role_deleted === Il ruolo è stato eliminato!
+role_default_update === Il ruolo predefinito non può essere modificato!
+role_default_delete === Impossibile eliminare il ruolo predefinito!
+voucher_added === Il voucher è stato aggiunto!
+form_voucher === Codice promozionale
+btn_redeem === Riscattare
+invalid_voucher_code === Codice buono non valido!
+voucher_deleted === Il buono è stato cancellato!
+form_title_addvoucher === Aggiungi Buono
+form_title_addsubscription === Aggiungi abbonamento
+form_adduser_role === Ruolo
+require_pagename === Nome pagina
+require_pageroles === Ruoli consentiti
+form_pageroles === Ruoli consentiti
+require_vouchercode === codice promozionale
+form_settingscurrency === Moneta
+btn_bulkexcel === Eccellere
+response_leastprovider === Seleziona almeno 1 fornitore di servizi di pagamento!
+user_subscriptioncontacts === Contatti
+response_suspended === Il tuo account è stato sospeso dall'amministratore!
+response_adminsuspend === L'account predefinito non può essere sospeso!
+response_successsuspend === L'utente è stato sospeso!
+response_successunsuspend === L'utente è stato riattivato!
+suspend_user_title === Sospendere l'utente?
+suspend_user_desc === Questo utente non sarà in grado di accedere e utilizzare i servizi
+unsuspend_user_title === Annullare la sospensione dell'utente?
+unsuspend_user_desc === Questo utente potrà accedere e utilizzare nuovamente i servizi
+all_languages === Tutte le lingue
+response_invalid_excel === File excel non valido!
+response_contacts_imported === I contatti sono stati importati!
+table_role_name === Nome ruolo
+table_role_permissions === Permessi
+table_voucher_name === Nome
+table_voucher_package === Pacchetto
+table_page_name === Nome pagina
+table_page_require === Richiedi accesso
+table_page_roles === Ruoli consentiti
+import_btn === Importare
+form_excelfile === File Excel
+form_hook_addtitle === Aggiungi Azione Hook
+form_hook_edittitle === Modifica azione gancio
+form_hook_event === Evento
+form_hook_link === Struttura di collegamento
+form_autoreply_addtitle === Aggiungi azione di risposta
+form_autoreply_edittitle === Modifica azione di risposta
+form_autoreply_keywords === Parole chiave
+form_autoreply_message === Messaggio di risposta
+require_action_name === Nome dell'azione
+require_action_event === Tipo di evento
+require_action_link === Struttura dei collegamenti
+require_action_keywords === Parole chiave
+require_action_message === Messaggio di risposta
+response_invalid_linkstructure === Struttura del collegamento non valida!
+response_hook_added === È stata aggiunta l'azione di hook SMS!
+response_invalid_keywords === Devi inserire almeno 1 parola chiave!
+response_autoreply_added === L'azione di risposta SMS è stata aggiunta!
+response_hook_updated === L'azione di hook SMS è stata aggiornata!
+response_autoreply_updated === L'azione di risposta SMS è stata aggiornata!
+response_action_deleted === L'azione SMS è stata eliminata!
+table_action_name === Nome
+form_scheduled_title === Pianifica SMS
+response_scheduled_deleted === Il messaggio programmato è stato eliminato!
+response_no_permission === Non hai l'autorizzazione per questa azione!
+response_builder_appiconfail === Impossibile caricare l'icona dell'app!
+form_require_login === Richiedi accesso
+widget_addpage_title === Aggiungi pagina
+widget_editpage_title === Modifica Pagina
+require_subscription_user === Utente
+require_voucher_name === Nome del buono
+require_voucher_package === Pacchetto
+widget_alllang_title === Tutte le lingue
+widget_smsexcel_title === SMS in blocco da Excel
+require_scheduled_name === Nome
+require_scheduled_date === Data programma
+widget_importcontacts_title === Importa contatti
+require_addrole_name === Nome ruolo
+require_addrole_permissions === Permessi
+widget_editrole_title === Modifica ruolo
+response_page_added === La pagina è stata aggiunta!
+response_page_updated === La pagina è stata aggiornata!
+response_page_deleted === La pagina è stata eliminata!
+table_scheduled_name === Nome
+messages_scheduled_title === Programmato
+messages_scheduled_schedule === Pianifica SMS
+form_schedule_numbers === Numeri di cellulare
+form_schedule_schedule === Programma
+form_schedule_repeat === Ripetere
+form_bulksms_numbers === Numeri di cellulare
+dashboard_tools_menuactions === Azioni
+dashboard_admin_menuroles === Ruoli
+dashboard_admin_menuvouchers === Buoni
+dashboard_admin_menupages === Pagine
+admin_gateway_title === Gateway
+admin_gateway_status === Stato
+admin_gateway_notuploaded === Non caricato
+admin_gateway_uploaded === Caricato
+dashboard_roles_title === Ruoli utente
+dashboard_roles_addrole === Aggiungi ruolo
+dashboard_vouchers_title === Buoni
+dashboard_vouchers_addrole === Aggiungi Buono
+form_voucher_package === Pacchetto
+dashboard_pages_title === Pagine
+dashboard_pages_addpage === Aggiungi pagina
+form_theme_favicon === Favicon
+form_package_contactslimit === Limite di contatti
+response_limitation_send === Hai raggiunto l'invio massimo consentito per oggi!
+response_limitation_contact === Hai raggiunto il numero massimo di contatti consentiti!
+response_limitation_key === Hai raggiunto il numero massimo di chiavi API consentite!
+response_limitation_webhook === Hai raggiunto il numero massimo di webhook consentiti!
+form_adminsettings_token === Token di sistema
+response_upload_appicon === Carica l'icona dell'app!
+app_status_gateway_running === Il gateway è in esecuzione!
+app_device_registered === Collegato
+app_device_unregistered === Non collegato
+app_terminal_gateway_ready === Il gateway è pronto...
+app_terminal_gateway_register === Il dispositivo non è ancora collegato...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Il dispositivo è stato collegato...
+app_terminal_gateway_device === Collegamento dispositivo non riuscito...
+app_terminal_gateway_connecterror === Errore durante la connessione al server...
+app_terminal_gateway_started === Il gateway è stato avviato...
+app_terminal_gateway_stopped === Il gateway è stato interrotto...
+app_terminal_gateway_unregistered === Impossibile avviare il gateway, il dispositivo non è ancora collegato ad alcun account...
+app_terminal_feature_error === Errore funzione SMS
+app_terminal_sms_sent === Messaggio inviato
+app_terminal_message_failed === Invio messaggio fallito
+app_dialog_wait === Attendere prego...
+app_dialog_exit === Uscita Gateway
+app_dialog_exit_desc === Spegnimento e gateway di uscita?
+app_camera_qrcode_inside === Inserisci il tuo QRCode all'interno
+app_ui_status === Stato
+app_ui_exit === Uscita
+require_voucher_count === Il conteggio dei buoni non può essere vuoto!
+form_voucher_count === Conteggio buoni
+cookieconsent_dismiss === Fatto!
+title_payment_success === Conferma dell'ordine
+title_payment_cancel === Ordine cancellato
+header_payment_success === Conferma dell'ordine
+header_payment_cancel === Ordine cancellato
+body_payment_cancel === Hai annullato la tua richiesta d'ordine.
+transaction_payment_success === ID transazione:
+back_payment_page === Torna alla dashboard
+form_settingspaypalemail === Email aziendale Paypal
+form_settingsanalytics === Chiave di Google Analytics
+form_messagecounterchars === caratteri
+form_settingspagination === Limiti di impaginazione
+form_settingssentpage === Messaggi inviati per pagina
+form_settingsreceivedpage === Messaggi ricevuti per pagina
+form_settingsmessage === Impostazioni dei messaggi
+form_settingsmessagemin === Personaggi minimi
+form_settingsmessagemax === Numero massimo di caratteri
+form_settingsmessagemark === Piè di pagina del messaggio
+form_packagefootermark === Piè di pagina del messaggio
+form_settingssmtpsecure === Sicurezza SMTP
+form_durationtitle === Durata
+form_durationpackage === Il tuo pacchetto:
+form_durationpay === Tu pagherai:
+form_durationmonth === Durata del mese
+form_subscriptionmonth === Durata del mese
+authenticate_fblogin === Accesso con facebook...
+authenticate_googlelogin === Accesso con google...
+authenticate_vklogin === Accesso con vkontakte...
+response_minplatforms === Seleziona almeno 1 piattaforma social!
+form_settingssocialtitle === Impostazioni sociali
+form_settingssocial === Autenticazione sociale
+form_settingssocialplatforms === Piattaforme abilitate
+form_usertimezone === Fuso orario
+form_settingsloginrecaptcha === Accedi Recaptcha
+form_loginor === O
+form_adddevicescandl === Scarica tramite scansione QR
+form_status_online === in linea
+form_status_offline === disconnesso
+form_smsbulknonumbers === Seleziona un gruppo di contatti o inserisci i numeri del destinatario!
+form_addsubscriptionuser === Utente
+form_addsubscriptionpackage === Pacchetto
+table_vouchersduration === Durata del mese
+table_pluginsname === Nome del plug-in
+table_pluginsoptions === Opzioni
+dashboard_admin_menuplugins === Plugin
+dashboard_admin_pluginstitle === Plugin
+dashboard_admin_pluginsadd === Aggiungi plug-in
+require_pluginfile === File plug-in
+modal_addplugin_title === Aggiungi plug-in
+response_pluginwentwrong === Qualcosa è andato storto durante il caricamento del plugin!
+response_plugininstalled === Il plugin è stato installato!
+dashboard_title_login === Login
+dashboard_title_forgot === Ha dimenticato la password
+dashboard_title_register === Registrati
+response_limitation_contact2 === Hai raggiunto il numero massimo di contatti nel tuo abbonamento, sono stati importati solo _8880_ contatti!
+response_contacts_imported2 === _8880_ contatti sono stati importati con successo!
+form_systemsettingshomepage === Pagina iniziale predefinita
+app_dialog_update_desc === È disponibile una nuova versione di rilascio per l'app gateway, è necessario l'aggiornamento!
+app_dialog_update_download === Scarica
+app_gateway_build_text === Costruzione del gateway
+response_gateway_available === Download del gateway, attendere...
+response_gateway_unavailable === Il gateway non è disponibile, contatta l'amministratore del sito!
+response_gateway_randommax === L'intervallo di invio massimo non può essere maggiore di 300 secondi!
+response_device_updated === Il dispositivo è stato aggiornato!
+form_editdevice_devicename === Nome del dispositivo
+form_editdevice_randomsend === Intervallo di invio casuale
+form_editdevice_randommin === Intervallo di invio min
+form_editdevice_randommax === Intervallo di invio max
+form_smsall_globalstatus === Globale
+form_select_multinone === Nessuno
+form_package_hiddenselect === Nascosto
+landing_footer_ourcompnew === La nostra azienda
+form_smsschedule_submit === Programma
+require_devicename === Nome del dispositivo
+require_randommin === Intervallo minimo casuale
+require_randommax === Intervallo massimo casuale
+admin_update_installed === Installato
+admin_update_btn === Aggiornare
+response_update_success === Il sistema è stato aggiornato!
+form_settings_tawkchatlink === Link alla chat diretta di Tawk
+model_title_editplugin === Modifica plug-in
+btn_other_paymentmethods === Altri metodi di pagamento
+dashboard_btn_support === Supporto
+pendingdelete_title === Eliminare in sospeso?
+pendingdelete_desc === Eliminare tutti i messaggi in sospeso? Questa azione non può essere annullata!
+dashboard_messages_tablefullmessage === Messaggio completo
+administration_landing_btncache === cache
+administration_landing_payouts === Pagamenti
+administration_landing_marketing === Marketing
+administration_landing_gateways === Gateway
+administration_landing_shorteners === accorciatori
+administration_landing_editor === Editor di modelli
+administration_landing_api === API di amministrazione
+administration_landing_build === Costruire
+administration_landing_system === Sistema
+requests_charts_smssent === SMS inviato
+requests_charts_smsreceived === SMS ricevuto
+requests_charts_wasent === WhatsApp inviato
+requests_charts_wareceived === WhatsApp ricevuto
+requests_charts_ussd === USSD
+requests_charts_notifications === Notifiche
+requests_charts_credits === Crediti
+administration_default_visitors === Visitatori
+administration_default_countries === Paesi
+administration_default_browsers === Browser
+administration_default_os === Sistemi operativi
+administration_default_usages === Usi
+administration_default_messages === Messaggi
+administration_default_utilities === Utilità
+administration_default_subscriptions === Abbonamenti
+administration_default_credits === Crediti
+tables_users_registered === Registrato
+tables_users_details === Dettagli
+dashboard_title_android === Androide
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Tariffe d'ingresso
+dashboard_title_docs === Documentazioni
+app_status_gateway_touch === Toccare qui per aprire il gateway
+app_dialog_downloading_update === Download dell'aggiornamento
+app_dialog_interface_disabled === L'interfaccia è disabilitata, aggiorna l'app all'ultima versione!
+app_dialog_somethingwent_wrong === Oops! Qualcosa è andato storto!
+app_intro_level_1 === Grazie per aver utilizzato la nostra piattaforma, per massimizzare la tua esperienza e familiarizzare con l'app, esploriamo e ti spiegheremo tutte le funzioni essenziali che devi conoscere.
+app_intro_level_2 === Qui vedrai il nome del dispositivo e lo stato del collegamento.
+app_intro_level_3 === Per collegare il dispositivo al tuo account, usa questo pulsante per accedere o scansiona il tuo QRCode per il collegamento.
+app_intro_level_4 === Utilizzare questo interruttore per attivare o disattivare il gateway.
+app_intro_level_5 === L'abilitazione di questo interruttore farà sì che l'app gateway ascolti le nuove notifiche che possono quindi essere gestite a livello di codice nella piattaforma. Questa impostazione è disabilitata per impostazione predefinita.
+app_intro_level_6 === Utilizzare questo pulsante per spegnere e uscire dall'app gateway.
+app_intro_level_7 === Questo è il terminale, le transazioni dei messaggi e altri registri delle attività verranno mostrati qui.
+app_intro_level_8 === Questo è il pulsante di azione mobile, puoi accedere ad alcune opzioni e pagine aggiuntive come <b>Esegui in background</b> qui.
+app_dialog_tour_complete === Ora dovresti capire come funziona l'applicazione, per ulteriori domande, contattaci!
+app_push_right_now === adesso
+app_device_detailes_updated === I dettagli del dispositivo sono stati aggiornati!
+app_ussd_requests_notsupported === Richieste USSD non supportate...
+app_notifications_listening_now === Ascolto di nuove notifiche...
+app_button_ok === Confermare
+app_dialog_update_smoothperm === Per aggiornamenti fluidi ed efficienti, si prega di consentire l'autorizzazione all'installazione da questa app.
+app_dialog_logging_in === Entrando...
+app_dialog_invalid_email === Hai inserito un'email non valida!
+app_dialog_invalid_password === La password è troppo corta per essere valida!
+app_dialog_notsupported_notinougat === Al momento, le notifiche non sono supportate per torrone e inferiori, ci scusiamo per l'inconveniente.
+app_dialog_notifications_permission === Per accedere alle notifiche a livello di codice, l'app richiede un'autorizzazione speciale. Seleziona l'app nell'elenco, quindi consenti l'accesso alle notifiche.
+app_dialog_gateway_listennoti === Il gateway ora ascolterà le nuove notifiche.
+app_dialog_gateway_notirestart === Il gateway si riavvierà e smetterà di ascoltare le nuove notifiche.
+app_dialog_needto_link === Devi collegare il dispositivo al tuo account prima di poter utilizzare questa funzione.
+app_dialog_logoutfrom_device === Disconnettersi da questo dispositivo gateway?
+app_document_runbackground === Esegui in background
+app_document_input_email === Indirizzo e-mail
+app_document_input_password === Parola d'ordine
+app_document_btn_login === Login
+app_document_text_or === o
+app_document_btn_scan === Scansiona il codice QR
+app_document_btn_cancel === Annulla
+app_intro_next_btn === Prossimo
+app_intro_back_btn === Di ritorno
+response_token_generated === Il token di sistema è stato rigenerato!
+response_trigger_done === Il webhook è stato attivato!
+response_build_gservicesfile === Si prega di caricare il file dei servizi di Google!
+response_build_fcredentialsfile === Carica il file delle credenziali di Firebase!
+response_build_loginlogo === Carica il logo di accesso dell'app!
+response_whatsapp_notprem === L'account non è abbonato a nessun pacchetto premium!
+response_whatsapp_maxaccounts === Hai raggiunto il numero massimo di account WhatsApp consentiti per il tuo pacchetto!
+response_whatsapp_creatingqr === Creazione del QRCode di WhatsApp
+response_whatsapp_noconnectserver === Impossibile connettersi ai server WhatsApp!
+response_chart_dashsmssent === SMS inviato
+response_chart_dashsmsreceive === SMS ricevuto
+response_chart_dashwasent === WA inviato
+response_chart_dashwareceive === WA ricevuto
+response_chart_dashwebhooks === Webhook
+response_chart_dashactions === Azioni
+response_chart_dashussd === USSD
+response_chart_dashnoti === Notifiche
+response_resend_queued === Il messaggio è stato messo in coda per l'invio!
+mail_title_payoutapproved === La tua richiesta di pagamento è stata pagata!
+response_payout_confirmed === Il pagamento è stato confermato!
+mail_title_payoutrejected === La tua richiesta di pagamento è stata rifiutata!
+response_payout_rejected === Il pagamento è stato rifiutato!
+response_translate_msgshort === Il messaggio è troppo breve!
+response_clear_systemcleared === I file della cache di sistema sono stati cancellati!
+response_clear_smscleared === I messaggi in sospeso sono stati cancellati!
+response_clear_ussdcleared === Le richieste USSD in sospeso sono state cancellate!
+response_reorder_languages === Lingue è stato riordinato!
+response_trash_selectedremoved === Gli elementi selezionati sono stati eliminati!
+response_voucher_redeemed === Il buono è stato riscattato!
+response_payout_invalidamount === Importo del pagamento non valido, non deve contenere valori decimali.
+response_payout_notenoughbal === Saldo di guadagno insufficiente per elaborare la richiesta!
+response_payout_reqreceive === La tua richiesta di pagamento è stata ricevuta!
+response_payout_pendingreq === Hai ancora una richiesta di pagamento in sospeso!
+response_system_sysconfigerr === Errore di configurazione del sistema!
+response_message_toolong === Il tuo messaggio è troppo lungo!
+response_package_nosubwarn === Non hai un abbonamento al pacchetto!
+response_message_notenoughcredsend === Crediti insufficienti per inviare questo messaggio!
+response_message_queuedforsend === Il messaggio è stato messo in coda per l'invio!
+response_message_sentsuccess === Il messaggio è stato inviato!
+response_message_unablesendmesg === Non siamo in grado di inviare il tuo messaggio!
+response_smsexcel_phonenotfound === La colonna _8880_ non è stata trovata nel tuo file excel!
+response_smssched_queued === Il messaggio è stato programmato!
+response_ussd_maximumreq === È stato raggiunto il numero massimo di richieste USSD!
+response_ussd_queued === La richiesta USSD è stata accodata!
+response_whatsapp_reachedmaxchat === Hai già raggiunto il numero massimo di chat che puoi inviare!
+response_whatsapp_chatqueued === Il messaggio WhatsApp è stato messo in coda per l'invio!
+response_whatsapp_unableconnectserv === Impossibile connettersi ai server WhatsApp!
+response_whatsapp_bulkchatsqueued === Le chat di massa di WhatsApp sono state messe in coda!
+response_whatsapp_excelphonecolnotfound === La colonna _8880_ non è stata trovata nel tuo file excel!
+response_whatsapp_chatscheduled === La chat è stata programmata!
+response_importcontacts_phonenotfound === La colonna _8880_ non è stata trovata nel tuo file excel!
+response_importcontacts_groupsnotfound === La colonna _8880_ non è stata trovata nel tuo file excel!
+response_importcontacts_namenotfound === La colonna _8880_ non è stata trovata nel tuo file excel!
+response_package_pricenotlessone === Il prezzo del pacchetto non può essere inferiore a 1!
+response_subscription_addedsuccess === L'abbonamento è stato creato!
+response_push_selectatleastoneuser === Seleziona almeno un utente o un ruolo!
+response_push_mesgtooshort === Il messaggio è troppo breve!
+response_push_titletooshort === Il titolo è troppo corto!
+response_push_imgfailed === Caricamento del file immagine non riuscito!
+response_push_created === La trasmissione push è stata creata!
+response_push_nousers === Nessun utente trovato per l'invio!
+response_notify_titletooshort === Il titolo è troppo corto!
+response_notify_mesgtooshort === Il messaggio è troppo breve!
+response_notify_selectuserrole === Seleziona almeno un utente o un ruolo!
+response_notify_imgfailed === Caricamento del file immagine non riuscito!
+response_notify_created === La trasmissione di notifica è stata creata!
+response_notify_nousers === Nessun utente trovato per l'invio!
+response_mailer_titletooshort === Il titolo è troppo corto!
+response_mailer_contentooshort === Il contenuto è troppo breve!
+response_mailer_nouserorrole === Seleziona almeno un utente o un ruolo!
+response_mailer_sendcounter === _8880_ su _8881_ e-mail in sospeso sono state inviate tramite mailer!
+response_mailer_mailprocessed === L'invio di massa è stato elaborato!
+response_mailer_nousersorrole === Nessun utente trovato per l'invio!
+response_gateway_controllercannotempty === Il file del controller non può essere vuoto!
+response_gateway_invalidcontroller === File del controller non valido!
+response_gateway_addeddcontroller === Il gateway è stato aggiunto!
+response_shortener_cannotempty === Il file del controller non può essere vuoto!
+response_shortener_invalidcontroller === File del controller non valido!
+response_shortener_addedcontroller === L'accorciatore è stato aggiunto!
+response_plugin_samenameinstalled === Un plugin con lo stesso nome era già installato!
+response_smscheduled_editsuccess === Il messaggio programmato è stato aggiornato!
+response_chatscheduled_editsuccess === Il programma della chat è stato aggiornato!
+response_editdevice_invalidrate === Valore tasso non valido, dovrebbe essere un numero float valido!
+response_editdevice_nametooshort === Il nome del dispositivo è troppo breve!
+response_editdevice_nametoolong === Il nome del dispositivo è troppo lungo!
+response_editdevice_invalidmaxinterval === Valore intervallo massimo non valido!
+response_gateway_updatedsuccess === Il gateway è stato aggiornato!
+response_shortener_editsuccess === L'accorciatore è stato aggiornato!
+response_editplugin_success === Le impostazioni del plugin sono state aggiornate!
+response_updatepluin_corrupted === Il file di aggiornamento del plugin è danneggiato!
+response_updateplugin_updated === Il plugin è stato aggiornato!
+response_builder_invalidgooglefile === File delle credenziali dei servizi Google non valido!
+response_builder_invalidfirebasefile === File delle credenziali Firebase non valido!
+response_theme_sitelogofailed === Caricamento del logo del sito non riuscito!
+response_theme_sitebgfailed === Caricamento in background del sito non riuscito!
+response_theme_sitefavfailed === Caricamento immagine favicon fallito!
+response_notification_deletedsuccess === La notifica è stata eliminata!
+response_whatsapp_sentdeletesuccess === La chat di WhatsApp inviata è stata eliminata!
+response_whatsapp_receivedeletesuccess === La chat di WhatsApp ricevuta è stata eliminata!
+response_whatsapp_scheduleddeletesuccess === La chat programmata di WhatsApp è stata eliminata!
+response_whatsapp_accountdeletesuccess === L'account WhatsApp è stato eliminato!
+response_unsibscribe_contactdeletedsuccess === Il numero cancellato è stato cancellato!
+response_marketing_logdeletedsuccess === Il registro di marketing è stato eliminato!
+response_gateway_controllerdeletedsuccess === Il gateway è stato eliminato!
+response_shortener_controllerdeletedsuccess === L'accorciatore è stato eliminato!
+table_androidsent_clipcopy === Copia appunti inviata _8880_
+table_androidsent_excel === Esportazione Excel inviata _8880_
+table_androidsent_pdf === Esporta PDF inviato _8880_
+table_androidsent_sms === sms
+table_androidsend_report === Rapporto
+table_unknown_data === Sconosciuto
+table_androidsent_statuspending === In attesa di
+table_androidsent_statusqueued === In coda
+table_androidsent_statussent === Spedito
+table_androidsent_statusfailed === fallito
+table_none_data === Nessuno
+table_yes_data === sì
+table_no_data === No
+table_removed_data === RIMOSSO
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Lecca lecca Android
+table_androidver_marshmallow === Marshmallow Android
+table_androidver_nougat === Torrone Android
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Torta Android
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Stato: _8880_, Modalità: _8881_, Codice: _8882_, Priorità: _8883_, API inviata: _8884_, Slot Sim: SIM _8885_, Dispositivo: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Dispositivi
+table_androidsent_modenamecredits === Crediti
+table_androidsent_reportline1 === Stato: _8880_
+table_androidsent_reportline2 === Modalità: _8880_
+table_androidsent_reportline3 === Codice: _8880_
+table_androidsent_reportline4 === Priorità: _8880_
+table_androidsent_reportline5 === API inviata: _8880_
+table_androidsent_reportline6 === Slot Sim: SIM _8880_
+table_androidsent_reportline7 === Dispositivo: _8880_
+table_androidsent_reportline8 === Sistema operativo: _8880_
+table_androidsent_exporttwo === Stato: _8880_, Modalità: _8881_, Gateway: _8882_
+table_androidsent_reportline9 === Stato: _8880_
+table_androidsent_reportline10 === Modalità: _8880_
+table_androidsent_reportline11 === Ingresso: _8880_
+table_androidsent_exportthree === Stato: _8880_, Modalità: _8881_, Codice: _8882_, API inviata: _8883_, Slot Sim: SIM _8884_, Gateway: _8885_
+table_androidsent_reportline12 === Stato: _8880_
+table_androidsent_reportline13 === Modalità: _8880_
+table_androidsent_reportline14 === Codice: _8880_
+table_androidsent_reportline15 === API inviata: _8880_
+table_androidsent_reportline16 === Slot Sim: SIM _8880_
+table_androidsent_reportline17 === Ingresso: _8880_
+table_androidsent_titleresend === Invia di nuovo questo messaggio
+table_title_deletethisitem === Elimina questo elemento
+table_androidreceive_exportcopy === Ricevuta copia negli appunti _8880_
+table_androidreceive_exportexcel === Esportazione Excel ricevuta _8880_
+table_androidreceive_exportpdf === Esportazione PDF ricevuta _8880_
+table_androidreceive_smstitle === sms
+table_androidreceive_reporttitle === Rapporto
+table_androidreceive_exportdata === Slot Sim: SIM _8880_, Dispositivo: _8881_, Sistema operativo: _8882_
+table_androidreceive_reportline1 === Slot Sim: SIM _8880_
+table_androidreceive_reportline2 === Dispositivo: _8880_
+table_androidreceive_reportline3 === Sistema operativo: _8880_
+table_androidreceive_titlereply === Rispondi al numero
+table_androidscheduled_titleschedule === Programma
+table_androidscheduled_titledetails === Particolari
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Modalità: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Ripeti: _8880_
+table_androidscheduled_detailsline4 === Dispositivo: _8880_
+table_androidscheduled_detailsgroupslabel === Gruppi:
+table_androidscheduled_detailsnumberslabel === Numeri:
+table_androidscheduled_detailsline5 === Modalità: _8880_
+table_androidscheduled_detailsline6 === Ripeti: _8880_
+table_androidscheduled_detailsline7 === Ingresso: _8880_
+table_androidscheduled_detailsline8 === Modalità: _8880_
+table_androidscheduled_detailsline9 === Ripeti: _8880_
+table_androidscheduled_detailsline10 === Dispositivo: _8880_
+table_title_editthisitem === Modifica questo elemento
+table_whatsappsent_exportcopy === Copia appunti inviata
+table_whatsappsent_exportexcel === Esportazione Excel inviata
+table_whatsappsent_exportpdf === Esportazione PDF inviato
+table_whatsappsent_accounttitle === Account
+table_whatsappsent_recipienttitle === Destinatario
+table_whatsappsent_msgtitle === Messaggio
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Stato
+table_ussd_exportcopy === Copia appunti USSD
+table_ussd_exportexcel === Esportazione USSD Excel
+table_ussd_exportpdf === Esportazione PDF USSD
+table_ussd_createdtitle === Creato
+table_ussd_codetitle === Codice
+table_ussd_responsetitle === Risposta
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Stato
+table_ussd_devicetitle === Dispositivo
+table_ussd_optionstitle === Opzioni
+table_ussd_pendingresponsetext === In attesa di risposta
+table_empty_data === Vuoto
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === In attesa di
+table_ussd_queuelabel === In coda
+table_ussd_completelabel === Completato
+table_ussd_detailsline1 === Dispositivo: _8880_
+table_ussd_detailsline2 === Sistema operativo: _8880_
+table_notifications_exportcopy === Notifiche Copia appunti
+table_notifications_exportexcel === Notifiche Esportazione Excel
+table_notifications_exportpdf === Notifiche Esportazione PDF
+table_notifications_createdtitle === Creato
+table_notifications_packagetitle === Nome del pacchetto
+table_notifications_title === Titolo
+table_notification_texttitle === Testo
+table_notification_devicetitle === Dispositivo
+table_notification_optiontitle === Opzioni
+table_notification_devicelabel === Dispositivo:
+table_notification_oslabel === Sistema operativo:
+table_devices_nametitle === Nome
+table_devices_globaltitle === Globale
+table_enabled_data === Abilitato
+table_disabled_data === Disabilitato
+table_notifications_exportone === Dispositivo: _8880_, Sistema operativo: _8881_
+table_whatsapp_pendinglabel === In attesa di
+table_whatsapp_queuelabel === In coda
+table_whatsapp_sentlabel === Spedito
+table_whatsapp_failedlabel === fallito
+table_whatsappreceive_exportcopy === Ricevuta copia negli appunti
+table_whatsappreceive_exportexcel === Ricevuta esportazione Excel
+table_whatsappreceive_exportpdf === Esportazione PDF ricevuta
+table_whatsappreceive_replytitle === Rispondi al numero
+table_waschedule_scheduletitle === Programma
+table_waschedule_detailstitle === Particolari
+table_waschedule_detailsline1 === Ripeti: _8880_
+table_waschedule_detailsline2 === Account:
+table_waschedule_detailsline3 === Gruppi:
+table_waschedule_detailsline4 === Numeri:
+table_waaccounts_loggedtitle === Connesso
+device_login_usevalidemail === Si prega di utilizzare un indirizzo email valido!
+device_login_accountsuspended === Spiacenti, il tuo account è sospeso!
+device_login_incorrectmailorpass === Hai inserito un'e-mail o una password errate!
+device_login_nosubscription === Non hai un abbonamento al pacchetto!
+device_login_nomoredevice === Non puoi registrare più dispositivi!
+device_scan_qrcodeinvalid === Il tuo QRCode non è valido!
+device_scan_nosub === Non hai un abbonamento al pacchetto!
+device_scan_usersuspended === Spiacenti, il tuo account è sospeso!
+device_scan_nomoredevices === Non puoi registrare più dispositivi!
+device_report_smssentsuccess === Il messaggio _8880_ è stato inviato da _8881_
+device_report_smssentfailed === L'invio del messaggio _8880_ non è riuscito da _8881_
+device_received_smsreceived === Il nuovo _8880_ è stato ricevuto da _8881_
+requests_resend_devicenotexist === Il dispositivo non esiste!
+device_ussd_responsereceive === Risposta USSD ricevuta da _8880_
+device_notification_notireceive === È stata ricevuta una nuova notifica da _8880_
+payment_success_unknowntx === Sconosciuto
+payment_webhook_molliecreditsadded === I crediti sono stati aggiunti al tuo account!
+payment_webhook_paypalcreditsadded === I crediti sono stati aggiunti al tuo account!
+payment_webhook_unknowntn === Sconosciuto
+mail_tpl_creditstitle === Ciao,
+mail_tpl_creditsdesc === Hai acquistato crediti, abbiamo accreditato un totale di _8880_ sul tuo account e puoi utilizzarlo immediatamente.
+mail_tpl_creditstnx === Grazie!
+mail_tpl_poweredby === Alimentato da _8880_
+forgot_response_recoverysent === Le istruzioni di recupero sono state inviate a _8880_
+forgot_response_recoveryfail === Non siamo in grado di inviarti un'e-mail!
+cron_package_expired === Il tuo abbonamento al pacchetto è scaduto!
+cron_package_expiring === Abbonamento pacchetto in scadenza tra 5 giorni!
+table_waaccounts_waidtitle === ID WhatsApp
+table_waaccounts_wauniquetitle === ID univoco
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Copia appunti gruppi _8880_
+table_contactssaved_exportexcel === Esportazione gruppi Excel _8880_
+table_contactssaved_exportpdf === Esportazione PDF Gruppi _8880_
+table_contactssaved_grouptitle === Gruppi
+table_contactsgroups_gidtitle === ID gruppo
+table_contactsunsub_exportcopy === Copia appunti annullata _8880_
+table_contactsunsub_exportexcel === Esportazione Excel annullata _8880_
+table_contactsunsub_exportpdf === Esportazione PDF annullata _8880_
+table_toolskeys_createdtitle === Creato
+table_toolskeys_copyapisecret === Copia il segreto dell'API negli appunti
+table_toolswebhooks_createtitle === Creato
+table_tootlswebhooks_eventstitle === Eventi
+table_toolswebhooks_simulatebtn === Grilletto
+table_toolswebhooks_simulatedesc === Simula la richiesta del webhook
+table_toolswebhooks_copywebhooksecret === Copia il segreto del webhook negli appunti
+table_toolsactions_createtitle === Creato
+table_toolsactions_detailstitle === Particolari
+table_toolsactions_typehook === gancio
+table_toolsactions_typeautoreply === Risposta automatica
+table_toolsactions_source === Fonte: _8880_
+table_toolsactions_sourcesms === sms
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Evento: _8880_
+table_toolsactions_eventonsend === All'invio
+table_toolsactions_eventonreceive === Alla ricezione
+table_toolsactions_link === Collegamento:
+table_toolsactions_keywords === Parole chiave:
+table_toolsactions_message === Messaggio:
+table_toolsactions_type === Tipo: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Creato
+table_ratespartners_countrytitle === Paese
+table_ratespartners_detailstitle === Dettagli del dispositivo
+table_ratespartners_ratetitle === Tasso di messaggio
+table_ratespartners_prioritytitle === Priorità
+table_ratespartners_simtitle === Slot SIM consentiti
+table_ratespartners_name === Nome:
+table_ratespartners_owner === Proprietario:
+table_ratespartners_localrate === Tariffa locale:
+table_ratespartners_convertedrate === Tasso convertito:
+table_ratespartners_simdual === SIM 1 e SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Copia appunti utenti _8880_
+table_adminusers_exportexcel === Esportazione utenti Excel _8880_
+table_adminusers_exportpdf === Esportazione PDF utenti _8880_
+table_adminusersexportdata === Ruolo: _8880_, Paese: _8881_, Lingua: _8882_, Fuso orario: _8883_, Guadagno: _8884_, Crediti: _8885_, Abbonamento: _8886_, Suoni: _8887_, Sospeso: _8888_
+table_adminusers_exportdata1 === Ruolo: _8880_
+table_adminusers_exportdata2 === Paese: _8880_
+table_adminusers_exportdata3 === Lingua: _8880_
+table_adminusers_exportdata4 === Fuso orario:
+table_adminusers_exportdata5 === Guadagno: _8880_
+table_adminusers_exportdata6 === Crediti: _8880_
+table_adminusers_exportdata7 === Sottoscrizione:
+table_adminusers_exportdata8 === Suoni: _8880_
+table_adminusers_exportdata9 === Sospeso: _8880_
+table_adminusers_unsuspendaccount === Annulla la sospensione di questo account
+table_adminusers_suspendaccount === Sospendi questo account
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Creato
+table_adminpackages_detailstitle === Dettagli del pacchetto
+table_adminpackages_freelabel === Gratuito
+table_unlimited_data === Illimitato
+table_adminpackages_labeldetails1 === Nascosto:
+table_adminpackages_labeldetails2 === Segno a piè di pagina:
+table_adminpackages_labeldetails3 === Limite di invio SMS:
+table_adminpackages_labeldetails4 === Limite di ricezione SMS:
+table_adminpackages_labeldetails5 === Limite di invio di WhatsApp:
+table_adminpackages_labeldetails6 === Limite di ricezione di WhatsApp:
+table_adminpackages_labeldetails7 === Limite account WhatsApp:
+table_adminpackages_labeldetails8 === Limite USSD:
+table_adminpackages_labeldetails9 === Limite di notifica:
+table_adminpackages_labeldetails10 === Limite dispositivo:
+table_adminpackages_labeldetails11 === Limite di contatto:
+table_adminpackages_labeldetails12 === Limite chiave API:
+table_adminpackages_labeldetails13 === Limite webhook:
+table_adminpackages_labeldetails14 === Limite di azione:
+table_adminpackages_labeldetails15 === Limite programmato:
+table_adminvouchers_exportcopy === Buoni Copia appunti _8880_
+table_adminvouchers_exportexcel === Buoni Esportazione Excel _8880_
+table_adminvouchers_exportpdf === Buoni Esportazione PDF _8880_
+table_adminvouchers_createdtitle === Creato
+table_adminvouchers_codetitle === Riscatta codice
+table_adminvouchers_copycode === Copia il codice del voucher negli appunti
+table_adminsubscriptions_createdtitle === Creato
+table_admintransactions_createdtitle === Creato
+table_admintransactions_itemtitle === Elemento
+table_admintransactions_amounttitle === Quantità
+table_admintransactions_durationtitle === Durata
+table_admintransactions_creditslabel === Crediti
+table_admintransactions_monthslabel === _8880_ mesi
+table_adminpayouts_createdtitle === Creato
+table_adminpayouts_partnertitle === Compagno
+table_adminpayouts_amounttitle === Quantità
+table_adminpayouts_addresstitle === indirizzo di pagamento
+table_adminpayouts_optionstitle === Opzioni
+table_adminpayouts_approve === Contrassegna la richiesta di pagamento come pagata
+table_adminpayouts_reject === Rifiuta la richiesta di pagamento
+table_adminwidgets_createdtitle === Creato
+table_adminwidgets_typeblock === Bloccare
+table_adminwidgets_typemodal === Modale
+table_adminwidgets_copywidgethook === Copia il gancio del widget negli appunti
+table_adminpages_createdtitle === Creato
+table_adminpages_optionstitle === Opzioni
+table_adminpages_copypagehook === Copia il gancio della pagina negli appunti
+table_adminmarketing_createdtitle === Creato
+table_adminmarketing_typetitle === Tipo
+table_adminmarketing_titletitle === Titolo
+table_adminmarketing_contenttitle === Contenuto
+table_adminmarketing_recipientstitle === Destinatari
+table_adminmarketing_optionstitle === Opzioni
+table_adminmarketing_notifylabel === Notificare
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === Spingere
+table_adminmarketing_roleslabel === Ruoli:
+table_adminmarketing_userslabel === Utenti:
+table_admingateways_createdtitle === Creato
+table_admingateways_nametitle === Nome
+table_admingateways_pricingtitle === Prezzo
+table_admingateways_optionstitle === Opzioni
+table_admingateways_invalidjson === Formato JSON non valido!
+table_admingateways_defaultprice === Prezzo predefinito: _8880_
+table_admingateways_percountryprcie === Prezzi per Paese:
+table_adminshorteners_createdtitle === Creato
+table_adminshorteners_nametitle === Nome
+table_adminshorteners_optionstitle === Opzioni
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Versione installata
+table_adminplugins_actionstitle === Azioni
+table_adminplugins_updatedesc === Aggiorna questo plugin
+table_adminplugins_editdesc === Modifica le opzioni del plug-in
+table_adminplugins_removedesc === Disinstalla questo plugin
+whatsapp_sent_sentsuccess === La chat di WhatsApp _8880_ è stata inviata!
+whatsapp_sent_sentfailed === L'invio della chat _8880_ non è riuscito!
+whatsapp_received_chat === La nuova chat _8880_ è stata ricevuta!
+widget_systemupdate_title === Aggiornamento del sistema
+widget_systemupdate_loader === Sistema di aggiornamento
+widget_systemupdate_requireupdate === Il file di aggiornamento non può essere vuoto!
+requests_systemupdate_faileduploadingfile === Caricamento del file di aggiornamento non riuscito!
+widget_usersettings_loader === Salvataggio delle impostazioni dell'account
+widget_payment_title === Pagamento
+widget_payment_creditamountnotless === L'importo del credito non può essere inferiore a 10!
+widget_payment_creditslabel === Crediti
+widget_view_contentremoved === Il contenuto è stato rimosso!
+widget_redeem_title === Riscattare
+widget_redeem_loader === Convalida del codice del buono
+widget_addcredits_title === Aggiungi crediti
+widget_addpayout_title === Richiedi pagamento
+widget_addpayout_loader === Creazione della richiesta di pagamento
+widget_addpayout_requireamount === L'importo non può essere vuoto!
+widget_addpayout_requireprovider === Il fornitore di servizi di pagamento non può essere vuoto!
+widget_addpayout_requireaddress === L'indirizzo di pagamento non può essere vuoto!
+widget_smsquick_loader === Aggiunta del messaggio alla coda
+widget_smsbulk_loader === Aggiunta di messaggi alla coda
+widget_smsexcel_loader === Aggiunta di messaggi dal file excel alla coda
+widget_addsmsscheduled_loader === Salvataggio del messaggio programmato
+widget_editscheduled_title === Modifica programma
+widget_editscheduled_loader === Salvataggio del messaggio programmato
+widget_addussd_title === Richiesta USSD
+widget_addussd_loader === Aggiunta richiesta ussd alla coda
+widget_editdevice_title === Modifica dispositivo
+widget_editdevice_loader === Salvataggio delle modifiche al dispositivo
+widget_waquick_title === Chat veloce
+widget_waquick_loader === Aggiunta chat whatsapp alla coda
+widget_waquick_requireaccount === È richiesto un account WhatsApp!
+widget_wabulk_title === Chat in blocco
+widget_wabulk_loader === Aggiunta di chat whatsapp alla coda
+widget_waexcel_title === Chat in blocco di Excel
+widget_waexcel_loader === Aggiunta di chat whatsapp alla coda
+widget_wascheduled_title === Pianifica la chat
+widget_wascheduled_loader === Aggiunta di chat whatsapp alla coda
+widget_wascheduled_requireaccount === È richiesto un account WhatsApp!
+widget_waeditscheduled_title === Modifica programma
+widget_waeditscheduled_loader === Aggiunta di chat whatsapp alla coda
+widget_waeditscheduled_requireaccount === È richiesto un account WhatsApp!
+widget_waaddaccount_title === Aggiungi account
+widget_importcontacts_loaded === Importazione contatti da file excel
+widget_addcontact_loader === Creazione di una nuova voce di contatto
+default_pricecolumns_monthlabel === mese
+default_pricecolumns_dailylabel === quotidiano
+default_pricecolumns_monthlylabel === mensile
+default_pricecolumns_unlimitedlabel === Illimitato
+form_literal_spintaxdesc2 === I valori _8880_ e _8881_ verranno utilizzati in modo casuale.
+dashboard_packagesmodal_smssend === Invio SMS
+default_footerquote_obama === Diventare non significa arrivare da qualche parte o raggiungere un determinato obiettivo. Lo vedo invece come un movimento in avanti, un mezzo per evolversi, un modo per raggiungere continuamente un sé migliore. Il viaggio non finisce.
+widgets_editcontact_loader === Salvataggio delle modifiche ai contatti
+widgets_addgroup_loader === Creazione di una nuova voce di gruppo
+widgets_editgroup_loader === Salvataggio delle modifiche del gruppo
+widgets_addapikey_loader === Creazione di una nuova chiave API
+widgets_editapikey_loader === Salvataggio delle modifiche alla chiave API
+widgets_addwebhook_title === Aggiungi webhook
+widgets_addwebhook_loader === Creazione di un nuovo webhook
+widgets_addwebhook_requireevents === Gli eventi non possono essere vuoti!
+widgets_editwebhook_loader === Salvataggio delle modifiche al webhook
+widgets_addhook_loader === Creazione di una nuova azione hook
+widgets_edithook_loader === Salvataggio delle modifiche all'azione hook
+widgets_addautoreply_loader === Creazione di una nuova azione di risposta automatica
+widgets_editautoreply_loader === Salvataggio delle modifiche all'azione di risposta automatica
+widgets_addtemplate_loader === Creazione di un nuovo modello di messaggio
+widgets_edittemplate_loader === Salvataggio delle modifiche al modello
+widgets_adminbuilder_loader === Salvataggio delle impostazioni del costruttore
+widgets_adminsettings_loader === Salvataggio delle impostazioni di sistema
+widgets_admintheme_loader === Salvataggio delle impostazioni del tema
+widgets_adduser_loader === Creazione di un nuovo account utente
+widgets_edituser_loader === Salvataggio delle modifiche all'account utente
+widgets_addrole_loader === Creazione di un nuovo ruolo utente
+widgets_addrole_title === Aggiungi ruolo
+widgets_editrole_loader === Salvataggio delle modifiche ai ruoli utente
+widgets_addpackage_loader === Creazione di un nuovo pacchetto di sistema
+widgets_editpackage_loader === Salvataggio delle modifiche al pacchetto
+widgets_addvoucher_loader === Creazione di nuovi voucher
+widgets_addsubscription_loader === Creazione di un nuovo abbonamento utente
+widgets_addwidgets_loader === Creazione di un nuovo widget
+widgets_editwidget_loader === Salvataggio delle modifiche al widget
+widgets_addpage_loader === Creazione di una nuova pagina
+widgets_editpage_loader === Salvataggio delle modifiche alla pagina
+widgets_addpush_title === Trasmissione push
+widgets_addpush_loader === Notifica push di trasmissione
+widgets_addpush_requiretitle === Il titolo non può essere vuoto!
+widgets_addpush_requiremessage === Il messaggio non può essere vuoto!
+widgets_addnotify_title === Notifica trasmissione
+widgets_addnotify_loader === Trasmissione in diretta di notifica
+widgets_addnotify_requiretitle === Il titolo non può essere vuoto!
+widgets_addnotify_requiremessage === Il messaggio non può essere vuoto!
+widgets_addmailer_title === Messaggero di massa
+widgets_addmailer_loader === Invio di messaggi di posta elettronica
+widgets_addmailer_requiretitle === Il titolo non può essere vuoto!
+widgets_addlanguage_loader === Aggiunta di una nuova lingua
+widgets_editlanguage_loader === Salvataggio delle modifiche alla lingua
+widgets_addgateway_title === Aggiungi gateway
+widgets_addgateway_loader === Aggiunta di un nuovo gateway
+widgets_addgateway_requirename === Il nome del gateway non può essere vuoto!
+widgets_editgateway_title === Modifica gateway
+widgets_editgateway_loader === Salvataggio delle modifiche al gateway
+widgets_editgateway_requirename === Il nome del gateway non può essere vuoto!
+widgets_addshortener_title === Aggiungi accorciatore
+widgets_addshortener_loader === Aggiunta di un nuovo accorciatore
+widgets_addshortener_requirename === Il nome dell'abbreviatore non può essere vuoto!
+widgets_editshortener_title === Modifica accorciatore
+widgets_editshortener_loader === Salvataggio modifiche accorciatore
+widgets_editshortener_requirename === Il nome dell'abbreviatore non può essere vuoto!
+widgets_editplugin_loader === Applicazione delle modifiche al plug-in al sistema
+widgets_updateplugin_title === Aggiorna plug-in
+widgets_updateplugin_loader === Aggiornamento plug-in
+device_backgroundpage_line1 === Esegui in background
+device_backgroundpage_line2 === Perché l'app Gateway deve essere eseguita in background?
+device_backgroundpage_line3 === L'app richiede l'esecuzione in background per continuare ad ascoltare nuovi messaggi da inviare e ricevere, questo è necessario anche per elaborare nuove notifiche. Se non hai bisogno di notifiche, puoi disabilitarlo nelle impostazioni dell'app, disabilitandolo impedirai al sistema di ricevere i dati di notifica dal dispositivo.
+device_backgroundpage_line4 === Se disponi di un'app di sicurezza di terze parti come Avast, Eset e altri. Aggiungi l'app gateway alle sue eccezioni.
+device_backgroundpage_line5 === Si prega di leggere la guida appropriata per la marca del telefono nell'elenco seguente.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Risparmio batteria
+device_backgroundpage_line8 === 1. Apri Impostazioni.
+device_backgroundpage_line9 === 2. Seleziona "Batteria e prestazioni".
+device_backgroundpage_line10 === 3. Seleziona "Scegli app".
+device_backgroundpage_line11 === 4. Trova _8880_ e seleziona "Nessuna restrizione" nelle impostazioni di sfondo.
+device_backgroundpage_line12 === Blocca l'app
+device_backgroundpage_line13 === 1. Toccare il pulsante Menu per accedere alla pagina Recenti.
+device_backgroundpage_line14 === 2. Selezionare la carta _8880_ e bloccarla.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Risparmio batteria
+device_backgroundpage_line17 === 1. Apri Impostazioni.
+device_backgroundpage_line18 === 2. Selezionare Impostazioni avanzate.
+device_backgroundpage_line19 === 3. Selezionare Gestione batteria.
+device_backgroundpage_line20 === 4. Seleziona App protette.
+device_backgroundpage_line21 === 5. Trova _8880_ e attiva l'interruttore.
+device_backgroundpage_line22 === Se la versione EMUI è stata aggiornata di recente, non è necessario apportare modifiche nelle Impostazioni.
+device_backgroundpage_line23 === Blocca l'app
+device_backgroundpage_line24 === 1. Toccare il pulsante Menu, accedere alla pagina Recenti.
+device_backgroundpage_line25 === 2. Tirare verso il basso _8880_ finché non viene visualizzata l'icona di un lucchetto.
+device_backgroundpage_line26 === SAMSUNG
+device_backgroundpage_line27 === Risparmio batteria
+device_backgroundpage_line28 === 1. Toccare Gestione intelligente.
+device_backgroundpage_line29 === 2. Selezionare Batteria e toccare per accedere alla pagina delle impostazioni.
+device_backgroundpage_line30 === 3. Tocca App non monitorate, trova _8880_ e tocca per accedere.
+device_backgroundpage_line31 === 4. Tocca Batteria e tocca Ottimizza utilizzo batteria.
+device_backgroundpage_line32 === 5. Seleziona Tutte le app, trova _8880_ e disattiva l'interruttore.
+device_backgroundpage_line33 === Blocca l'app
+device_backgroundpage_line34 === 1. Toccare il pulsante Menu e accedere alle pagine del programma aperte di recente.
+device_backgroundpage_line35 === 2. Toccare l'icona Altro per selezionare Blocca app.
+device_backgroundpage_line36 === 3. Toccare l'icona del lucchetto di _8880_.
+device_backgroundpage_line37 === 4. Toccare Fine per completare l'azione.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Blocca l'app
+device_backgroundpage_line40 === 1. Scorri verso l'alto sul lato sinistro della schermata Home per accedere a "Recenti".
+device_backgroundpage_line41 === 2. Tenere premuto _8880_ finché non viene visualizzata l'icona di un lucchetto.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Risparmio batteria
+device_backgroundpage_line44 === 1. Apri Impostazioni e tocca Batteria.
+device_backgroundpage_line45 === 2. Toccare Risparmio energetico.
+device_backgroundpage_line46 === 3. Trova _8880_ per disattivare il blocco dello sfondo e l'ottimizzazione delle app anomale.
+device_backgroundpage_line47 === Se non riesci a impostare dopo aver completato i passaggi precedenti, prova quanto segue:
+device_backgroundpage_line48 === 1. Apri Gestione telefono e trova Sfondo pulito.
+device_backgroundpage_line49 === 2. Toccare per aggiungere l'app.
+device_backgroundpage_line50 === 3. Spuntare _8880_ e toccare OK.
+device_backgroundpage_line51 === Blocca l'app
+device_backgroundpage_line52 === 1. Toccare il pulsante Menu, accedere alla pagina Recenti.
+device_backgroundpage_line53 === 2. Tirare verso il basso _8880_ finché non viene visualizzata l'icona di un lucchetto.
+device_backgroundpage_line54 === Viva FuntouchOS
+device_backgroundpage_line55 === Risparmio batteria
+device_backgroundpage_line56 === 1. Apri Gestione e tocca Risparmio energia.
+device_backgroundpage_line57 === 2. Selezionare Alimentazione dietro le quinte.
+device_backgroundpage_line58 === 3. Trova _8880_ e attiva l'interruttore.
+device_backgroundpage_line59 === Blocca l'app
+device_backgroundpage_line60 === 1. Toccare il pulsante Menu, accedere alla pagina Recenti.
+device_backgroundpage_line61 === 2. Tirare verso il basso _8880_ finché non viene visualizzata l'icona di un lucchetto.
+device_backgroundpage_line62 === Sistema operativo Smartisan
+device_backgroundpage_line63 === Risparmio batteria
+device_backgroundpage_line64 === 1. Aprire Gestione telefono.
+device_backgroundpage_line65 === 2. Tocca Ottimizzazione utilizzo batteria app.
+device_backgroundpage_line66 === 3. Trova _8880_ e spegni l'interruttore.
+device_backgroundpage_line67 === Blocca l'app
+device_backgroundpage_line68 === 1. Tocca due volte il pulsante Menu, accedi alla pagina Recenti.
+device_backgroundpage_line69 === 2. Tenere premuto _8880_ finché non viene visualizzata l'icona di una puntina da disegno.
+device_backgroundpage_line70 === altre marche
+device_backgroundpage_line71 === 1. Blocca l'app _8880_ in Recenti.
+device_backgroundpage_line72 === 2. Aggiungi _8880_ alle eccezioni.
+device_backgroundpage_line73 === 3. Se hai installato un altro gestore di avvio, rimuovi _8880_ dalla sua blocklist.
+dashboard_adminmarketing_pushbtndesc === Trasmetti notifiche push ai dispositivi
+dashboard_adminmarketing_notifybtndesc === Trasmetti la notifica del browser agli utenti
+dashboard_adminmarketing_mailerbtndesc === Invia email in blocco agli utenti
+js_loader_pleasewait === attendere prego
+js_userstatus_online === in linea
+js_userstatus_offline === disconnesso
+js_whatsapp_linksuccess === L'account WhatsApp è stato collegato correttamente!
+js_whatsapp_linkfailed === Collegamento dell'account WhatsApp non riuscito!
+js_whatsapp_linkexist === WhatsApp era già collegato al tuo account!
+js_whatsapp_loaderprocessing === Richiesta in elaborazione
+js_clearpending_title === Cancella in attesa?
+js_clearpending_desc === Tutti gli articoli in attesa di invio verranno cancellati ed eliminati!
+js_clearpending_processing === Richiesta in elaborazione
+js_authenticate_processing === Richiesta in elaborazione
+js_actiontrigger_title === Simula Webhook
+js_actiontrigger_typetitle === Tipo di dati
+js_actiontrigger_typesms === sms
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Notifica
+js_actiontrigger_loader === Simulazione del webhook
+js_actiontranslator_title === Traduttore
+js_actiontranslator_from === Tradotto da
+js_actiontranslator_to === Traduci in
+js_actiontranslator_loader === Traduzione del messaggio
+js_actionregen_title === Rigenerare il token di sistema?
+js_actionregen_desc === La creazione di un nuovo token di sistema è irreversibile!
+js_actionregen_loader === Generazione di token
+js_actionclear_title === Cancellare la cache?
+js_actionclear_desc === Tutti i dati della cache di sistema verranno cancellati!
+js_processing_dataloader === Richiesta in elaborazione
+js_build_title === Costruisci un nuovo APK?
+js_build_desc === Assicurati di aver configurato correttamente le impostazioni del builder!
+js_build_btnbuild === Costruire
+js_reorder_title === Riordinare le lingue?
+js_reorder_desc === Le lingue verranno riordinate, questo non può essere annullato!
+js_deletetrash_title === Eliminare elementi?
+js_deletetrash_desc === Vuoi eliminare gli elementi selezionati?
+js_tablesexport_copy === Appunti
+js_tablesexport_excel === Esporta Excel
+js_tablesexport_pdf === Esporta PDF
+mail_expiredtpl_line1 === Ciao,
+mail_expiredtpl_line2 === Hai ricevuto questo messaggio perché il tuo abbonamento al pacchetto premium attivo è già scaduto!
+mail_expiredtpl_line3 === Il tuo abbonamento è stato rimosso. Per iscriverti nuovamente a qualsiasi pacchetto premium, visita il nostro sito.
+mail_expiredtpl_line4 === Per domande e problemi, non esitare a contattarci!
+mail_expiredtpl_line5 === Grazie!
+mail_expiringtpl_line1 === Ciao,
+mail_expiringtpl_line2 === Questo è un promemoria amichevole che il tuo abbonamento al pacchetto premium attivo scadrà tra 5 giorni!
+mail_expiringtpl_line3 === Per evitare interruzioni del servizio, non dimenticare di abbonarti nuovamente a qualsiasi pacchetto premium. Si prega di visitare il nostro sito per ordinare di nuovo.
+mail_expiringtpl_line4 === Per domande e problemi, non esitare a contattarci!
+mail_expiringtpl_line5 === Grazie!
+mail_failedtpl_line1 === Ciao,
+mail_failedtpl_line2 === Non siamo in grado di elaborare la transazione di pagamento, riprova utilizzando un provider o un metodo di pagamento diverso.
+mail_failedtpl_line3 === ID pagamento:
+mail_failedtpl_line4 === Ci dispiace per l'inconvenienza.
+mail_forgottpl_line1 === Ciao,
+mail_forgottpl_line2 === Abbiamo ricevuto una richiesta di recupero dell'account per il tuo account, utilizza questa password temporanea per accedere:
+mail_forgottpl_line3 === Non dimenticare di cambiare la tua password dopo aver effettuato l'accesso!
+mail_forgottpl_line4 === La password scadrà dopo 10 minuti, affrettati. Se non l'hai richiesto, ignora questa email.
+mail_forgottpl_line5 === Grazie! Spero funzioni.
+mail_payoutpaidtpl_line1 === Ciao,
+mail_payoutpaidtpl_line2 === La tua richiesta di pagamento è stata inviata dal nostro team al tuo indirizzo e al fornitore di servizi di pagamento selezionato.
+mail_payoutpaidtpl_line3 === Quantità:
+mail_payoutpaidtpl_line4 === Buona spesa!
+mail_payoutrejecttpl_line1 === Ciao,
+mail_payoutrejecttpl_line2 === Non siamo in grado di elaborare la tua richiesta di pagamento, potrebbe esserci un problema con il tuo indirizzo di pagamento. Si prega di contattare il nostro team per saperne di più.
+mail_payoutrejecttpl_line3 === Quantità:
+mail_payoutrejecttpl_line4 === Ci dispiace per l'inconvenienza.
+mail_subscribetpl_line1 === Ciao,
+mail_subscribetpl_line2 === Grazie per esserti iscritto a uno dei nostri pacchetti premium, ecco un piccolo riassunto del tuo acquisto:
+mail_subscribetpl_line3 === _8880_ Pacchetto
+mail_subscribetpl_line4 === Questo abbonamento scadrà dopo _8880_
+mail_subscribetpl_line5 === Questo avrà effetto immediatamente. Per domande e problemi, non esitare a contattarci!
+mail_subscribetpl_line6 === Grazie!
+requests_build_submitrequest === Richiesta in elaborazione
+requests_reorder_loader === Richiesta in elaborazione
+requests_deleteitem_loader === Richiesta in elaborazione
+requests_packageform_invalidint === Alcuni campi contengono numeri interi non validi!
+widgets_viewbank_title === Trasferimento bancario
+modal_paymentbtn_banktransfer === Trasferimento bancario
+modal_adminsettings_banktransfer1 === Modello di bonifico bancario
+modal_adminsettings_banktransfer2 === Se hai abilitato il bonifico bancario nelle opzioni di pagamento, dovresti creare un modello per esso, questo è ciò che gli utenti vedranno quando avranno cliccato sul pulsante. Puoi aggiungere le istruzioni e l'indirizzo della banca qui. HTML accettato.
+modal_adminsettings_banktransfer3 === Insieme di variabili che puoi utilizzare nel modello di bonifico bancario.
+requests_delete_pluginssuccess === Il plugin è stato eliminato con successo!
+table_whatsappreceived_chattitle === Chiacchierata
+table_whatsappreceived_accounttitle === Account
+tabs_whatsappaccounts_titleheader === Account WhatsApp
+form_editwhatsapp_randominterval === Intervallo di invio casuale
+form_editwhatsapp_randomintervalhelp === Se abilitato, le chat verranno inviate a intervalli casuali tra 2 valori. Puoi configurarli di seguito.
+form_editwhatsapp_randommin === Intervallo di invio min
+form_editwhatsapp_randomminhelp === Intervallo di invio minimo in secondi.
+form_editwhatsapp_randommax === Intervallo di invio max
+form_editwhatsapp_randommaxhelp === Intervallo massimo di invio in secondi.
+dashpages_sms_headertitle === sms
+dashnav_sms_navname === sms
+widgets_editwhatsapp_title === Modifica WhatsApp
+widgets_editwhatsapp_loader === Salvataggio modifiche account whatsapp
+mail_waunlink_title === Il tuo account WhatsApp è stato scollegato!
+mail_waunlink_contentline1 === Ciao!
+mail_waunlink_contentline2 === Uno dei tuoi account WhatsApp collegati è stato rimosso con il seguente ID univoco:
+mail_waunlink_contentline3 === Questo account non è più connesso al nostro sistema a causa di un evento correlato a WhatsApp, per favore collegalo di nuovo.
+mail_waunlink_contentline4 === Grazie!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Telefono
+form_btnall_visitlink === Visitare
+unsubscribe_header_title === Annulla l'iscrizione
+unsubscribe_content_title === Iscrizione annullata
+unsubscribe_content_desc === Hai cancellato l'iscrizione dalla nostra lista di invio.
+requests_editwhatsapp_success === L'account WhatsApp è stato aggiornato!
+form_addusertpl_credits === Crediti
+form_addusertpl_creditsdesc === Crediti iniziali per questo account utente.
+form_addusertpl_creditsdesc2 === Modifica i crediti di questo account utente.
+form_registerconfirm_desc === Il tuo indirizzo email è stato verificato con successo. Puoi accedere al tuo account utilizzando il pulsante qui sotto.
+requests_loginnotverified_response === L'indirizzo email del tuo account non è ancora verificato. Abbiamo inviato un link di conferma a questo indirizzo: _8880_
+requests_loginnotverified_response2 === Il tuo account è stato registrato con successo. Prima di poterlo utilizzare, dovrai verificare il tuo indirizzo email. Abbiamo inviato un link di conferma a questo indirizzo: _8880_
+requests_loginnotverified_responseunable === Non siamo in grado di inviare l'e-mail di conferma!
+requests_loginnotverified_emailtitle === Benvenuto in _8880_! Conferma qui l'indirizzo email del tuo account.
+requests_loginnotverified_emaildesc1 === Ciao!
+requests_loginnotverified_emaildesc2 === Grazie per aver creato il tuo account con noi, verifica il tuo indirizzo email visitando questo link:
+requests_loginnotverified_emaildesc3 === Grazie!
+form_adminsettings_authredi === Reindirizzamento dell'autenticazione
+form_adminsettings_authredidesc === Scegli la posizione di reindirizzamento dopo un'autenticazione riuscita.
+form_adminsettings_authredihomepage === Pagina iniziale
+form_adminsettings_authredidashboard === Pannello di controllo
+form_adminsettings_defaultcoun === Paese predefinito
+form_adminsettings_defaultcoundesc === Paese predefinito selezionato nel modulo di registrazione dell'utente.
+form_adminsettings_defaulttimezo === Fuso orario predefinito
+form_adminsettings_defaulttimezodesc === Fuso orario predefinito selezionato nel modulo di registrazione dell'utente.
+form_adminsettings_mailingtrig === Trigger di spedizione
+form_adminsettings_mailingtrigdesc === Seleziona i trigger di posta da abilitare.
+form_adminsettings_adminemail === Email amministratore
+form_adminsettings_adminemaildesc === I messaggi attivati ​​dalla posta per l'amministratore verranno inviati a questo indirizzo email. Questi messaggi sono disponibili solo in inglese e non possono essere tradotti.
+form_adminsettings_recaptchatitle === Ricapitolando
+form_adminsettings_recaptchadesc === Quando abilitato, recaptcha verrà mostrato ai moduli di autenticazione come registrazione, accesso e password dimenticata.
+form_editdevice_receiveoptiontitle === Ricevi SMS
+form_editdevice_receiveoptiondesc === Se disabilitato, i messaggi ricevuti dalla posta in arrivo di Android non verranno salvati dal sistema. I webhook e altri strumenti correlati non funzioneranno per il dispositivo quando questo è disabilitato.
+form_editwhatsapp_receiveoptiontitle === Ricevi chat
+form_editwhatsapp_receiveoptiondesc === Se disabilitato, le chat ricevute dall'account whatsapp non verranno salvate dal sistema. I webhook e altri strumenti correlati non funzioneranno per l'account WhatsApp quando questo è disabilitato.
+js_calendarall_option === Tutto
+js_calendarall_apply === Applicare
+js_calendarall_cancel === Annulla
+js_calendarall_from === Da
+js_calendarall_to === Per
+js_calendarall_week === w
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Noi
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === Gennaio
+js_calendarall_monfeb === febbraio
+js_calendarall_monmar === Marzo
+js_calendarall_monapr === aprile
+js_calendarall_monmay === Maggio
+js_calendarall_monjun === Giugno
+js_calendarall_monjul === Luglio
+js_calendarall_monaug === agosto
+js_calendarall_monsep === settembre
+js_calendarall_monoct === ottobre
+js_calendarall_monnov === novembre
+js_calendarall_mondec === Dicembre
+response_ussddelete_success === La richiesta USSD è stata cancellata!
+response_titanecho_invaltoken === Errore di configurazione del sistema!
+widgets_addplugin_loader === Installazione del nuovo plugin nel sistema

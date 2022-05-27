@@ -2163,7 +2163,6 @@ widgets_addshortener_requirename === Shortener name cannot be empty!
 widgets_editshortener_title === Edit Shortener
 widgets_editshortener_loader === Saving shortener changes
 widgets_editshortener_requirename === Shortener name cannot be empty!
-widgets_addplugin_loader === Intalling new plugin to system
 widgets_editplugin_loader === Applying plugin changes to system
 widgets_updateplugin_title === Update Plugin
 widgets_updateplugin_loader === Updating plugin
@@ -2324,3 +2323,85 @@ modal_adminsettings_banktransfer1 === Bank Transfer Template
 modal_adminsettings_banktransfer2 === If you enabled bank transfer in the payment options, you should create a template for it, this is what the users will see when they clicked the button. You can add the instructions and bank address here. HTML accepted.
 modal_adminsettings_banktransfer3 === Set of variable you can use in the bank transfer template.
 requests_delete_pluginssuccess === Plugin has been successfully deleted!
+table_whatsappreceived_chattitle === Chat
+table_whatsappreceived_accounttitle === Account
+tabs_whatsappaccounts_titleheader === WhatsApp Accounts
+form_editwhatsapp_randominterval === Random Send Interval
+form_editwhatsapp_randomintervalhelp === If enabled, chats will be sent in random intervals between 2 values. You can configure them below.
+form_editwhatsapp_randommin === Send Interval Min
+form_editwhatsapp_randomminhelp === Minimum send interval in seconds.
+form_editwhatsapp_randommax === Send Interval Max
+form_editwhatsapp_randommaxhelp === Maximum send interval in seconds.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Edit WhatsApp
+widgets_editwhatsapp_loader === Saving whatsapp account changes
+mail_waunlink_title === Your WhatsApp account has been unlinked!
+mail_waunlink_contentline1 === Hi there!
+mail_waunlink_contentline2 === One of your linked WhatsApp account has been removed with the following unique ID:
+mail_waunlink_contentline3 === This account is not connected to our system anymore due to WhatsApp related event, please link it again.
+mail_waunlink_contentline4 === Thank you!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Phone
+form_btnall_visitlink === Visit
+unsubscribe_header_title === Unsubscribe
+unsubscribe_content_title === Unsubscribed
+unsubscribe_content_desc === You have unsubscribed from our sending list.
+requests_editwhatsapp_success === WhatsApp account has been updated!
+form_addusertpl_credits === Credits
+form_addusertpl_creditsdesc === Starting credits for this user account.
+form_addusertpl_creditsdesc2 === Modify credits of this user account.
+form_registerconfirm_desc === Your email address has been verified successfully. You can login to your account using the button below.
+requests_loginnotverified_response === Your account email address is not yet verified. We have sent a confirmation link to this address: _8880_
+requests_loginnotverified_response2 === Your account has been registered successfully. Before you can use it, you will need to verify your email address. We have sent a confirmation link to this address: _8880_
+requests_loginnotverified_responseunable === We are unable to send the email confirmation!
+requests_loginnotverified_emailtitle === Welcome to _8880_! Confirm the email address of your account here.
+requests_loginnotverified_emaildesc1 === Hi there!
+requests_loginnotverified_emaildesc2 === Thank you for creating your account with us, please verify your email address by visiting this link:
+requests_loginnotverified_emaildesc3 === Thank you!
+form_adminsettings_authredi === Auth Redirection
+form_adminsettings_authredidesc === Choose the redirect location after a successful authentication.
+form_adminsettings_authredihomepage === Homepage
+form_adminsettings_authredidashboard === Dashboard
+form_adminsettings_defaultcoun === Default Country
+form_adminsettings_defaultcoundesc === Default selected country on user registration form.
+form_adminsettings_defaulttimezo === Default Timezone
+form_adminsettings_defaulttimezodesc === Default selected timezone on user registration form.
+form_adminsettings_mailingtrig === Mailing Triggers
+form_adminsettings_mailingtrigdesc === Select mailing triggers to enable.
+form_adminsettings_adminemail === Admin Email
+form_adminsettings_adminemaildesc === Mailing triggered messages for admin will be sent to this email address. These messages are only available in english and cannot be translated.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === When enabled, recaptcha will be shown to authentication forms such as register, login and forgot password.
+form_editdevice_receiveoptiontitle === Receive SMS
+form_editdevice_receiveoptiondesc === If disabled, received messages from android inbox won't be saved by the system. Webhooks and other related tools won't work for the device when this is disabled.
+form_editwhatsapp_receiveoptiontitle === Receive Chats
+form_editwhatsapp_receiveoptiondesc === If disabled, received chats from whatsapp account won't be saved by the system. Webhooks and other related tools won't work for the WhatsApp account when this is disabled.
+js_calendarall_option === All
+js_calendarall_apply === Apply
+js_calendarall_cancel === Cancel
+js_calendarall_from === From
+js_calendarall_to === To
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === We
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === January
+js_calendarall_monfeb === February
+js_calendarall_monmar === March
+js_calendarall_monapr === April
+js_calendarall_monmay === May
+js_calendarall_monjun === June
+js_calendarall_monjul === July
+js_calendarall_monaug === August
+js_calendarall_monsep === September
+js_calendarall_monoct === October
+js_calendarall_monnov === November
+js_calendarall_mondec === December
+response_ussddelete_success === USSD request has been deleted!
+response_titanecho_invaltoken === System configuration error!
+widgets_addplugin_loader === Installing new plugin to system

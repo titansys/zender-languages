@@ -1,0 +1,2407 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Ogwe nchịkwa
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Haziri
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Amamọkwa
+and_dashboard_pages_android_line58 === Ngwaọrụ
+and_dashboard_pages_contacts_line40 === Edebanyeghị aha
+and_dashboard_pages_defailt_line37 === Ọnụ ụzọ ámá
+and_dashboard_pages_default_line42 === Akwụkwọ
+and_dashboard_pages_default_line58 === Ozi
+and_dashboard_pages_default_line60 === Ụbọchị 7 gara aga
+and_dashboard_pages_default_line74 === Ihe omume
+and_dashboard_pages_default_line76 === Ụbọchị 7 gara aga
+and_dashboard_pages_default_line90 === Ngwa ọrụ
+and_dashboard_pages_default_line92 === Ụbọchị 7 gara aga
+and_dashboard_pages_default_line109 === Ndị mmekọ
+and_dashboard_pages_default_line117 === Ego enwetara
+and_dashboard_pages_default_line131 === Ịkwụ ụgwọ
+and_dashboard_pages_default_line140 === Nhazi
+and_dashboard_pages_default_line148 === Ebe e si nweta
+and_dashboard_pages_default_line162 === Top elu
+and_dashboard_pages_default_line170 === Oke nnyefe
+and_dash_pg_def_line178 === Ihe ịga nke ọma
+and_dash_pg_def_line190 === Okpu
+and_dash_pg_def_line204 === Ndị na-ezigara
+and_dash_pg_def_line209 === Edebanyeghị gị aha na ngwugwu adịchaghị ọnụ anyị!
+and_dash_pg_def_line217 === Ngwaọrụ
+and_dash_pg_def_line224 === Ejikọtara
+and_dash_pg_def_line232 === Akaụntụ
+and_dash_pg_def_line239 === Ejikọtara
+and_dash_pg_def_line250 === Budata ma wụnye ngwa gọọmentị anyị ka ị nweta ahụmịhe onye ọrụ kacha mma
+and_dash_pg_doc_line10 === Akwụkwọ
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooks
+and_dash_pg_doc_line40 === Omume
+and_dash_pg_doc_line46 === Ngwaọrụ
+and_dash_pg_doc_line52 === Mmekọrịta
+and_dash_pg_for_line29 === Kagbuo
+and_dash_pg_log_line14 === Jiri Facebook banye
+and_dash_pg_log_line17 === Jiri Google banye
+and_dash_pg_log_line20 === Banye na VKontakte
+and_dash_pg_log_line54 === Mebe akaụntụ
+and_dash_pg_pay_line45 === Anyị anatala arịrịọ gị, sistemụ anyị ga-ezitere gị ozi-e na-akpaghị aka wee tinye mgbanwe na akaụntụ gị ozugbo enwetara azụmahịa ịkwụ ụgwọ.
+and_dash_pg_rates_line10 === Ọnụ ụzọ ámá
+and_dash_pg_rates_line39 === Ndị mmekọ
+and_dash_pg_reg_line15 === Debanye aha na Facebook
+and_dash_pg_reg_line20 === Debanye aha na Google
+and_dash_pg_reg_line25 === Debanye aha na VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === E zigara ya
+and_dash_pg_whats_line34 === natara
+and_dash_pg_whats_line40 === Haziri
+and_dash_pg_whats_line46 === Akaụntụ
+and_dash_api_line17 === Aha isi.
+and_dash_api_line19 === eg Maka sava m
+and_dash_api_line24 === Ikikere igodo.
+and_dash_auto_line17 === Aha omume.
+and_dash_auto_line19 === eg Michael
+and_dash_auto_line24 === Isi mmalite
+and_dash_auto_line24_1 === Isi mmalite nke mmemme nnabata.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Zaa mkpụrụokwu ndị rịkọm kewara. Isi okwu ndị a ga-akpalite nzaghachi akpaaka ma ọ bụrụ na achọpụtara ya na ọdịnaya ozi.
+and_dash_auto_line36 === eg daalụ, dị mma, denye aha, ee
+and_dash_auto_line41 === Ozi a ga-ezigara onye zitere ya.
+and_dash_auto_line43 === eg Ozi nzaghachi gị ebe a, anabatara koodu mkpirisi
+and_dash_auto_line48 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_dash_con_line24 === Nọmba kọntaktị.
+and_dash_con_line31 === Otu kọntaktị.
+and_dash_con_line17 === Aha kọntaktị.
+and_dash_cre_line28 === Ịzụta
+and_dash_gate_line17 === Aha
+and_dash_gate_line17_1 === Nke a bụ aha ọnụ ụzọ ámá nke a ga-egosi ndị ọrụ gị.
+and_dash_gate_line19 === eg Twilio
+and_dash_gate_line24 === Onye njikwa
+and_dash_gate_line24_1 === Họrọ faịlụ njikwa ọnụ ụzọ ámá, nke a ga-enwe mgbagha ọnụ ụzọ ámá gị na koodu. A na-atụ aro ka ịlele akwụkwọ ahụ.
+and_dash_gate_line27 === Igwe ọkụ ọkụ njikwa:
+and_dash_gate_line34 === Kpọghachi
+and_dash_gate_line34_1 === Ọ bụrụ na agbanyere ya, ọ ga-adị mkpa ka enyocha ozi site na iji njirimara azụghachi nke ọnụ ụzọ ámá nke atọ maka izipu ọkwa, ma ọ bụghị ya, a ga-akara ozi ozugbo dị ka ezitere na izipu.
+and_dash_gate_line37 === Kwado
+and_dash_gate_line38 === Gbanyụọ
+and_dash_gate_line44 === NJ ịkpọghachi azụ
+and_dash_gate_line44_1 === Ọ bụrụ na agbanyere oku ịkpọghachi, ị ga-eṅomirịrị NJ a wee mado ya na njikwa gị ka sistemu ahụ wee nwee ike mata nlọghachi azụ.
+and_dash_gate_line47 === Detuo na mado maka NJ azụghachi
+and_dash_gate_line54 === Ịnye ọnụ ahịa
+and_dash_gate_line54_1 === Tebụlụ ọnụahịa gị maka ọnụ ụzọ ámá a. Nke a ga-enye gị ohere ịkwụ ụgwọ n'elu ọnụ ahịa ndị otu nke atọ. Dịka ọmụmaatụ, ọ bụrụ na twilio na-ana 0.01 maka obodo a kapịrị ọnụ, mgbe ahụ ị nwere ike ịgba 0.02 kama, ego dabere na ego sistemụ gị. Biko soro usoro ọnụahịa nke ọma.
+and_dash_gate_line57 === Nleta ọnụahịa JSON:
+and_dash_gate_line57_1 === Budata
+and_dash_grp_line17 === Aha otu.
+and_dash_grp_line19 === eg Enyi
+and_dash_hook_line17 === Aha omume.
+and_dash_hook_line19 === eg Nwale Omume
+and_dash_hook_line24 === Isi mmalite
+and_dash_hook_line24_1 === Isi mmalite nke mmemme.
+and_dash_hook_line34 === Họrọ mmemme ebe a ga-akpọku nko a.
+and_dash_hook_line44 === Nko njikọ Ọdịdị, nke a bụ url nke a ga-akpọ site na sistemụ. Naanị usoro GET ka akwadoro.
+and_dash_hook_line51 === Ntọala mgbanwe ndị ị nwere ike iji na nko URL gị.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Na zipu
+and_dash_hook_line38 === Na nnata
+and_dash_lang_line17 === Aha asụsụ.
+and_dash_lang_line19 === eg Korean
+and_dash_lang_line24 === Koodu obodo.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Ọ bụrụ na agbanyere ya, a ga-achọpụta asụsụ dị ka akụkụ aka nri gaa n'aka ekpe.
+and_dash_lang_line38 === Ee
+and_dash_lang_line39 === Mba
+and_dash_lang_line45 === Ụdọ ntụgharị asụsụ.
+and_dash_mail_line17 === Aha
+and_dash_mail_line17_1 === Aha ozi.
+and_dash_mail_line19 === eg ọkwa
+and_dash_mail_line24 === Ndị ọrụ
+and_dash_mail_line24_1 === Ndị ọrụ ziga ya.
+and_dash_mail_line36 === Ọrụ
+and_dash_mail_line36_1 === Zipụ site na ọrụ.
+and_dash_mail_line48 === Ọdịnaya
+and_dash_mail_line48_1 === Ọdịnaya ozi, html kwere.
+and_dash_mail_line50 === Ndewo Ụwa!
+and_dash_not_line17 === Aha
+and_dash_not_line17_1 === Gwa aha.
+and_dash_not_line19 === eg ọkwa
+and_dash_not_line24 === Ozi
+and_dash_not_line24_1 === Gwa ozi.
+and_dash_not_line31 === Agba
+and_dash_not_line31_1 === Gwa agba.
+and_dash_not_line35 === Ihe ịga nke ọma
+and_dash_not_line36 === Ịdọ aka ná ntị
+and_dash_not_line37 === Ihe egwu
+and_dash_not_line43 === Onyonyo
+and_dash_not_line43_1 === Gwa onyonyo, nke a bụ nhọrọ.
+and_dash_not_line46 === Nhọrọ
+and_dash_not_line53 === Ndị ọrụ
+and_dash_not_line53_1 === Ndị ọrụ na-agbasa ozi.
+and_dash_not_line65 === Ọrụ
+and_dash_not_line65_1 === Mgbasa ozi site na ọrụ.
+and_pack_line17 === Aha ngwugwu.
+and_pack_line19 === eg ngwugwu VIP
+and_pack_line24 === Ọnụ ngwugwu, nke a kwesịrị ịgbaso usoro ego. A naghị anabata ụkpụrụ n'elu mmiri.
+and_pack_line29 === eg 25
+and_pack_line34 === Ọ bụrụ na agbanyere, ozi na nkata WhatsApp ga-enwe akara n'okpuru mgbe ndị nnata natara.
+and_pack_line44 === Ọ bụrụ na agbanyere ya, a ga-ezobe ngwugwu na modal ngwugwu na ibe mbụ.
+and_pack_line58 === Oke izipu SMS
+and_pack_line58_1 === Ọnụ ọgụgụ kachasị nke ozi onye ọrụ nwere ike izipu tupu nrụpụta. Tinye 0 maka enweghị oke.
+and_pack_line60 === eg 300
+and_pack_line65 === Oke nnabata SMS
+and_pack_line65_1 === Ọnụ ọgụgụ kachasị nke ozi onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_pack_line67 === eg 150
+and_pack_line72 === Oke USSD
+and_pack_line72_1 === Ọnụ ọgụgụ kachasị nke ussd nke onye ọrụ nwere ike ịrịọ tupu ịtọgharịa. Tinye 0 maka enweghị oke.
+and_pack_line74 === eg 25
+and_pack_line79 === Oke ngosi
+and_pack_line79_1 === Ọnụọgụ ọkwa kacha elu nke onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_pack_line81 === eg 1300
+and_pack_line86 === Ọnụ ọgụgụ kachasị nke ngwaọrụ android nwere ike ijikọ na akaụntụ onye ọrụ. Tinye 0 maka enweghị oke.
+and_pack_line88 === eg 25
+and_pack_line92 === Ntọala WhatsApp
+and_pack_line97 === Ọnụọgụ mkparịta ụka kachasị nke onye ọrụ nwere ike izipu tupu ịtọgharịa. Tinye 0 maka enweghị oke.
+and_pack_line99 === eg 300
+and_pack_line104 === Ọnụọgụ mkparịta ụka kachasị nke onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_pack_line106 === eg 150
+and_pack_line111 === Oke akaụntụ
+and_pack_line111_1 === Ọnụ ọgụgụ kacha elu nke akaụntụ WhatsApp enwere ike ijikọ na akaụntụ onye ọrụ. Tinye 0 maka enweghị oke.
+and_pack_line113 === eg 10
+and_pack_line117 === Ntọala Utility
+and_pack_line122 === Ọnụọgụ kọntaktị kacha nke onye ọrụ nwere ike ịchekwa. Tinye 0 maka enweghị oke.
+and_pack_line124 === eg 25
+and_pack_line129 === Oke ahaziri
+and_pack_line129_1 === Ọnụ ọgụgụ kacha nke ozi akwadoro/ nkata nke onye ọrụ nwere ike ịchekwa ya. Tinye 0 maka enweghị oke. Ejikọtara nke a maka SMS na whatsapp.
+and_pack_line131 === eg 25
+and_pack_line136 === Ọnụ ọgụgụ igodo API kachasị nke enwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_pack_line138 === eg 10
+and_pack_line143 === Ọnụ ọgụgụ kachasị nke Webhooks nwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_pack_line145 === eg 5
+and_pack_line150 === Oke omume
+and_pack_line150_1 === Ọnụ ọgụgụ kachasị nke Omume enwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_pack_line152 === eg 5
+and_page_line17 === Aha ibe.
+and_page_line24 === Naanị ọrụ ahọpụtara ga-enwe ike ịnweta ibe a.
+and_page_line35 === Ọ bụrụ na agbanyere ya, a gaghị enwe ike ịnweta ibe ma ọ bụrụ na ịbanyeghị.
+and_page_line45 === Ọdịnaya ibe. Ekwenyere mkpado HTML niile, kpachara anya mgbe ị na-agbakwunye edemede sitere na isi mmalite amaghị!
+and_payout_line17 === Ọnụ ego
+and_payout_line17_1 === Ọnụ ego ịdọrọ, naanị ọnụọgụgụ niile.
+and_payout_line19 === eg 50
+and_payout_line24 === Onye na-enye
+and_payout_line24_1 === Họrọ onye na-eweta ịkwụ ụgwọ ịchọrọ iji maka ịnata ego ahụ.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Adreesị ịkwụ ụgwọ
+and_payout_line34_1 === Adreesị ịkwụ ụgwọ ma ọ bụ email, biko lelee nke ọma ka igbochi okwu ịkwụ ụgwọ.
+and_payout_line36 === eg PayPal email gị
+and_payout_line43 === Arịrịọ
+and_plug_line17 === Ngwa mgbakwunye
+and_plug_line17_1 === Plugin zip faịlụ, biko hụ na ịhọrọ faịlụ ziri ezi.
+and_push_line17 === Aha
+and_push_line17_1 === Pịa aha.
+and_push_line19 === eg ọkwa
+and_push_line24 === Onyonyo
+and_push_line24_1 === Pịa thumbnail onyonyo, nke a bụ nhọrọ.
+and_push_line27 === Nhọrọ
+and_push_line34 === Ozi
+and_push_line34_1 === Pịa ozi.
+and_push_line41 === Ndị ọrụ
+and_push_line41_1 === Ndị ọrụ na-agbasa ozi.
+and_push_line53 === Ọrụ
+and_push_line53_1 === Mgbasa ozi site na ọrụ.
+and_role_line17 === Aha ọrụ.
+and_role_line19 === eg Onye nrụpụta
+and_role_line24 === Họrọ ikike na atụmatụ ịchọrọ gbanyụọ/gbanye maka ọrụ a. A na-etinye mgbanwe n'oge ozugbo, a na-ebugharị taabụ nchọgharị nke ndị ọrụ ejikọrọ na ọrụ ahụ na-akpaghị aka.
+and_short_line17 === Aha
+and_short_line17_1 === Aha Shortener.
+and_short_line19 === eg Dị ntakịrị
+and_short_line24 === Onye njikwa
+and_short_line24_1 === Họrọ faịlụ njikwa shortener, nke a ga-enwe mgbagha mgbagha na koodu gị. A na-atụ aro ka ịlele akwụkwọ ahụ.
+and_short_line27 === Igwe ọkụ ọkụ njikwa:
+and_sms_line17 === Aha ozi akwadoro.
+and_sms_line19 === eg Ozi m
+and_sms_line24 === Họrọ ụbọchị nhazi.
+and_sms_line26 === eg 06/22/2020 12:00 nke ụtụtụ
+and_sms_line31 === Ọ bụrụ na agbanyere ya, a ga-ahazi ozi ahụ oge ọ bụla akwadoro ụbọchị akwadoro.
+and_sms_line42 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị.
+and_sms_line55 === Họrọ ọtụtụ kọntaktị kọntaktị
+and_sms_line67 === Shortener
+and_sms_line67_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_sms_line70 === Ejichala njikọ
+and_sms_line79 === Ụdị ụzọ ámá
+and_sms_line79_1 === Ụdị ọnụ ụzọ ámá nke ịchọrọ iji. Ọ bụrụ na ịhọrọ ngwaọrụ, a ga-egosi ngwaọrụ ejikọrọ maka izipu, ma ọ bụghị ya, a ga-egosi ọnụ ụzọ ámá ndị ọzọ na ndị mmekọ.
+and_sms_line82 === Ngwaọrụ
+and_sms_line83 === Ebe e si nweta
+and_sms_line88 === Oghere SIM kaadị iji.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Ndebiri ozi gị emeburu.
+and_sms_line110 === Ngwaọrụ gị ejikọrọ, họrọ ihe ịchọrọ iji maka izipu.
+and_sms_line121 === Ọnụ ụzọ SMS
+and_sms_line121_1 === Ọnụ ụzọ ámá nke atọ na ndị mmekọ, a ga-eji kredit gị mgbe izipu ozi site na iji ọnụ ụzọ ndị a. Anyị na-akwado ka ịlele ọnụ ahịa ọnụ ụzọ ámá tupu i jiri ha.
+and_sms_line141 === Spintax
+and_sms_line144 === Ọmụmaatụ:
+and_sms_line144_1 === Tom bụ a
+and_sms_line144_2 === pusi
+and_sms_line147 === Ụkpụrụ
+and_sms_line147_1 === nke ọma
+and_sms_line147_2 === na
+and_sms_line147_3 === ọjọọ
+and_sms_line147_4 === a ga-eji enweghị usoro.
+and_subs_line17 === Akaụntụ onye ọrụ.
+and_subs_line28 === ngwugwu ndenye aha.
+and_subs_line41 === Ogologo oge ndebanye aha.
+and_subs_line43 === eg 12
+and_temp_line17 === Aha ndebiri.
+and_temp_line24 === Ụdị ụkpụrụ.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_temp_line35 === Ọmụmaatụ:
+and_temp_line35_1 === Tom bụ a
+and_temp_line35_2 === pusi
+and_temp_line38 === Ụkpụrụ
+and_temp_line38_1 === nke ọma
+and_temp_line38_2 === ọjọọ
+and_temp_line38_3 === a ga-eji enweghị usoro.
+and_temp_line43 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_user_line17 === Aha iwu zuru oke.
+and_user_line19 === eg Michael Cors
+and_user_line24 === Adreesị Ozi Ịntanetị Dabara Adaba.
+and_user_line26 === eg onye ọrụ@mail.com
+and_user_line31 === Tinye paswọọdụ onye ọrụ.
+and_user_line38 === Mpaghara oge ọnọdụ onye ọrụ, gbanwee nke a ma ọ bụrụ na ha nọ na obodo ọzọ. A na-eji mpaghara oge maka ụbọchị na oge izi ezi ozi ezitere na data ndị ọzọ.
+and_user_line49 === Obodo
+and_user_line49_1 === Obodo onye ọrụ, a na-eji nke a maka ịkwụ ụgwọ yana nhazi nọmba ekwentị.
+and_user_line60 === Ụda ọkwa
+and_user_line60_1 === Ọ bụrụ na agbanyụrụ, amamọkwa ga-agbachi nkịtị.
+and_user_line70 === Họrọ ọrụ onye ọrụ.
+and_user_line81 === Họrọ asụsụ onye ọrụ.
+and_user_line92 === Mmemme mmekọ
+and_user_line92_1 === Ọ bụrụ na agbanyere ya, onye ọrụ ga-enwe ike iji ngwaọrụ ha dị ka ngwaọrụ zuru ụwa ọnụ nke ga-enye ha ohere ịkpata ego mgbe onye ọrụ ndị ọzọ na-eji ngwaọrụ ha ziga ozi.
+and_ussd_line17 === Koodu USSD
+and_ussd_line17_1 === USSD koodu arịrịọ.
+and_ussd_line19 === eg *121#
+and_ussd_line24 === Oghere SIM kaadị iji.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Ngwa ejikọrọ gị, họrọ ihe ịchọrọ iji maka arịrịọ ussd.
+and_ussd_line47 === Arịrịọ
+and_vouch_line17 === Aha akwụkwọ ikike.
+and_vouch_line19 === eg Pụrụ iche
+and_vouch_line24 === Ọnụ ego nke akwụkwọ ikike ịchọrọ ịmepụta. Ọnụ ahịa kachasị bụ 1000!
+and_vouch_line26 === eg 100
+and_vouch_line31 === Ogologo oge ndebanye aha.
+and_vouch_line33 === eg 12
+and_vouch_line38 === ngwugwu ndenye aha.
+and_web_line17 === Aha Webhook.
+and_web_line24 === Nata mmemme
+and_web_line24_1 === Họrọ mmemme nnabata ị chọrọ, a ga-eziga ha na url nko webụ gị site na usoro POST.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Amamọkwa
+and_web_line36 === Url webhook gị, a ga-eziga data niile akwụ ụgwọ ebe a site na usoro POST.
+and_web_line38 === eg http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Aha nkata nkata.
+and_whatssched_line19 === eg Ozi m
+and_whatssched_line24 === Họrọ ụbọchị nhazi.
+and_whatssched_line26 === eg 06/22/2020 12:00 nke ụtụtụ
+and_whatssched_line31 === Ọ bụrụ na agbanyere ya, a ga-ahazi nkata ahụ oge ọ bụla akwadoro ụbọchị.
+and_whatssched_line42 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị.
+and_whatssched_line55 === Họrọ ọtụtụ kọntaktị kọntaktị
+and_whatssched_line67 === Shortener
+and_whatssched_line67_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_whatssched_line70 === Ejichala njikọ
+and_whatssched_line79 === Akaụntụ
+and_whatssched_line79_1 === Họrọ akaụntụ WhatsApp ịchọrọ iji.
+and_whatsached_line88 === Ndebiri ozi gị emeburu.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_whatssched_line107 === Ọmụmaatụ:
+and_whatssched_line101_1 === Tom bụ a
+and_whatssched_line107_2 === pusi
+and_whatssched_line110 === Ụkpụrụ
+and_whatssched_line110_1 === nke ọma
+and_whatssched_line110_2 === na
+and_whatssched_line110_3 === ọjọọ
+and_whatssched_line110_4 === a ga-eji enweghị usoro.
+and_whatssched_line115 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_whatssched_line128 === Nyefee
+and_whatsapp_line15 === Jikọọ WhatsApp gị site na ịpị bọtịnụ iji gosipụta QRCode wee nyochaa ya site na
+and_whatsapp_line15_1 === Jikọọ Ngwaọrụ
+and_whatsapp_line15_2 === bọtịnụ na ngwa. Ị nwere naanị 60 sekọnd iji nyochaa QRCode.
+and_whatsapp_line16 === Akaụntụ Njikọ
+and_add_widget_line17 === Aha wijetị.
+and_add_widget_line24 === Akara ngosi wijetị, maka naanị ụdịdị. Biko gaa na ahịrị mara mma maka ntụnye akara ngosi.
+and_add_widget_line26 === eg la la-info-gburugburu
+and_add_widget_line31 === Ụdị wijetị. Ihe mgbochi bụ maka itinye n'akụkụ dị iche iche nke ndebiri, modal bụ maka ọdịnaya dị ike. Kemgbe v3, modal ga-arụ ọrụ naanị na dashboard.
+and_add_widget_line34 === Gbochie
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Ogo wijetị, maka naanị ụdịdị.
+and_add_widget_line53 === Ọnọdụ wijetị, maka naanị ụdịdị.
+and_add_widget_line64 === Ọdịnaya wijetị. A na-anabata mkpado HTML niile, kpachara anya mgbe ị na-agbakwunye edemede sitere na isi mmalite amaghị!
+and_add_widget_line66 === Ndewo Ụwa!
+and_admin_build_line16 === Ngwa
+and_admin_build_line21 === Aha ngwugwu ngwa, ọ kwesịrị ịbụ ihe pụrụ iche ma soro ngalaba dịka usoro dịka com.yourdomain.yourapp, anyị na-akwado ịgbaso aha ngalaba gị ka ọ bụrụ ihe pụrụ iche.
+and_admin_build_line23 === eg com.gateway. ihe nlele
+and_admin_build_line28 === Aha ngwa, egosiri nke a na drawer ngwa na akụkụ ndị ọzọ nke ngwa ahụ.
+and_admin_build_line30 === eg Ọnụ ụzọ Zender
+and_admin_build_line35 === Nkọwa ngwa, nkọwa dị mkpirikpi nke ngwa gị.
+and_admin_build_line42 === Gburugburu Ngwa
+and_admin_build_line42_1 === Isiokwu agba ngwa ngwa, a na-atụ aro ka ị dabaa na nke a na akara ngwa gị na agba onyonyo.
+and_admin_build_line44 === eg # 000000
+and_admin_build_line49 === Ụdị APK
+and_admin_build_line_49_1 === Ụdị APK, ọ bụrụ na ị na-ewughachi ngwa gị, biko melitekwa mpaghara a site n'ịbawanye uru, ọ bụrụ na uru dị ugbu a bụ 1, ị ga-ebuwanye ya gaa 2 tupu ị wuo ngwa gị. Nke a chọrọ iji kpalite njirimara mmelite na ngwa ahụ ma ga-amanye onye ọrụ imelite.
+and_admin_build_line51 === eg 1.0
+and_admin_build_line56 === Mepụta ozi-e
+and_admin_build_line_56_1 === Email gị ziri ezi, biko gbaa mbọ gbanwee nke a. A ga-eziga nsonaazụ nke ụlọ ahụ na email a!
+and_admin_build_line58 === eg myvalidemail@mail.com
+and_admin_build_line62 === nzere
+and_admin_build_line67 === Ọrụ Google
+and_admin_build_line67_1 === Faịlụ ọrụ google gị json, achọrọ nke a maka azụmahịa FCM na ngwa gateway.
+and_admin_build_line75 === nzere Firebase
+and_admin_build_line75_1 === Faịlụ njikwa firebase gị, achọrọ ka ikwe ka sistemụ nwee mkparịta ụka na ngwa ahụ.
+and_admin_build_line82 === Akụrụngwa
+and_admin_build_line87 === Akara onyonyo ngwa, nke a bụ onyonyo egosiri na nkụnye eji isi mee ngwa. Akụkụ ndị akwadoro bụ 251x53 na px. Nzụlite transprent ka mma.
+and_admin_build_line95 === Akara nbanye ngwa
+and_admin_build_line95_1 === Akara onyonyo nbanye ngwa, nke a bụ onyonyo egosiri na modal nbanye. Akụkụ ndị akwadoro bụ 250x100 na px na mkpụrụedemede gbara ọchịchịrị. Nzụlite transprent ka mma.
+and_admin_build_line103 === Akara ngosi ngwa, egosiri nke a na drawer ngwa na sistemụ android. Akụkụ ndị akwadoro bụ 1024x1024 n'ụdị px na png.
+and_admin_build_line111 === Ihe onyonyo splashscreen ngwa, egosiri nke a mgbe onye ọrụ mepere ngwa ahụ. Akụkụ ndị akwadoro bụ 2732x2732 n'ụdị px na png.
+and_admin_build_line118 === Nhazi
+and_admin_build_line123 === JavaScript omenala
+and_admin_build_line123_1 === Ọ bụrụ na ịchọrọ iji koodu javascript omenala, biko tinye ya ebe a. A na-ejuru nke a n'ike n'ime ngwa.
+and_admin_build_line125 === eg., njikere ('Ndewo Ụwa!');
+and_admin_build_line130 === Omenala CSS
+and_admin_build_line130_1 === Ọ bụrụ na ịchọrọ iji koodu css omenala, biko tinye ya ebe a. A na-ejuru nke a n'ike n'ime ngwa.
+and_admin_build_line137 === Nhazi omenala
+and_admin_build_line137_1 === Ọ bụrụ na ịchọrọ iji nhazi ngwa ọdịnala, biko gbanwee ọdịnaya HTML, ọ bụrụ na ịmaghị ihe ị na-eme, biko hapụ uru ndabara.
+and_admin_build_line139 === Ndewo Ụwa!
+and_settings_line21 === Aha saịtị, egosiri nke a n'ebe ọ bụla achọrọ akara ngosi.
+and_settings_line23 === eg Zender
+and_settings_line28 === Nkọwa saịtị, nke a bụ maka njikarịcha search engine, yabụ bụrụ ihe okike.
+and_settings_line30 === eg Nke a bụ ọrụ ọnụ ụzọ ámá SMS dị egwu
+and_settings_line35 === Koodu ịzụrụ envato gị, nke a chọrọ ka imepee ụfọdụ atụmatụ pụrụiche nke edemede ahụ.
+and_settings_line37 === eg e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Igodo nyocha google gị, nke a bụ nhọrọ n'ihi na sistemụ ahụ enweelarị ọnụ ọgụgụ ndị ọbịa arụnyere n'ime ya.
+and_settings_line44 === eg UA-179148389-1
+and_settings_line49 === Protocol saịtị gị, biko hụ na ị họrọla nke ziri ezi. Ọ bụrụ na saịtị gị na-eji https, biko họrọ ya, ma ọ bụghị, họrọ http.
+and_settings_line59 === Asụsụ sistemu ezighi ezi, a na-eji nke a mgbe onye ọrụ ọhụrụ gara na saịtị gị.
+and_settings_line70 === Ọ bụrụ na ọ nwere nkwarụ, agaghị anabata ndebanye aha site na ibe ndebanye aha.
+and_settings_line80 === Ụdị nrụpụta ngwugwu
+and_settings_line80_1 === Oge ntọgharị nke oke dị ka izipu, nnata, ussd na ọkwa. Nke a na-emetụta ma android na WhatsApp atụmatụ. A ga-etinyerịrị nhọrọ gị ebe a na nhazi cron.
+and_settings_line83 === Kwa ụbọchị
+and_settings_line84 === Kwa ọnwa
+and_settings_line90 === Nlereanya efu
+and_settings_line90_1 === Ọ bụrụ na agbanyere ya, a na-ekenye onye ọrụ ngwungwu efu na-akpaghị aka ka ọ debanyere aha ya.
+and_settings_line100 === Ọ bụrụ na agbanyụrụ, agaghị eji ibe mbụ ahụ. A ga-atụgharị nleta niile dị na ndekọ mgbọrọgwụ gaa na dashboard.
+and_settings_line110 === Ngwa TAWK Mkparịta ụka
+and_settings_line110_1 === Ọ bụrụ na agbanyere ya, wijetị nkata tawk ga-apụta n'ihu ndị ọrụ.
+and_settings_line120 === Njikọ wijetị nkata tawk gị, nke a chọrọ ma ọ bụrụ na ịchọrọ iji nkwado nkata tawk.
+and_settings_line127 === API onye nchịkwa
+and_settings_line127_1 === Họrọ isi njedebe API nchịkwa nke ịchọrọ ịme. A na-atụ aro ka ị mee ka njedebe njedebe nke ịchọrọ.
+and_settings_line159 === Agaghị ekekọrịta onye ọ bụla akara ngosi a. A na-eji nke a maka nchekwa cronjobs, API sistemu na arịrịọ mpụga ndị ọzọ. Ọ bụrụ na ị chere, emebiela akara sistemụ gị, biko megharịa nke ọhụrụ, ị ga-achọ ịhazigharị cronjobs gị, API sistemu na ntọala ndị ọzọ metụtara ya mgbe ịmegharịrị akara ọhụrụ.
+and_settings_line160 === Megharịa
+and_settings_line173 === Ọ bụrụ na ịchọrọ iji ihe nkesa ozi arụnyere arụnyere, biko họrọ nwa amaala, ma ọ bụghị, họrọ smtp wee hazie nzere ozi gị.
+and_settings_line183 === Usoro smtp ị ga-eji, biko họrọ protocol nke ihe nkesa ozi dịpụrụ adịpụ gị.
+and_settings_line193 === Email saịtị, nke a bụ aha email egosiri ndị nnata, a na-atụ aro ka iji noreply@yoursite.com maka ebumnuche akara.
+and_settings_line195 === eg noreply@domain.com
+and_settings_line200 === Adreesị nnabata nke sava smtp gị.
+and_settings_line205 === eg smtp.gmail.com
+and_settings_line210 === Ọdụ ụgbọ mmiri smtp gị dịpụrụ adịpụ.
+and_settings_line215 === eg 587
+and_settings_line220 === Aha njirimara nkesa smtp gị.
+and_settings_line225 === eg aha njirimara@gmail.com
+and_settings_line230 === Paswọọdụ sava smtp dịpụrụ adịpụ gị.
+and_settings_line235 === paswọọdụ akaụntụ Gmail gị
+and_settings_line244 === Email azụmahịa gị PayPal.
+and_settings_line246 === eg mail@domain.com
+and_settings_line251 === Ọ bụrụ na agbanyere ya, a ga-ebugharị azụmahịa PayPal niile gaa na ọnọdụ sandbox.
+and_settings_line261 === igodo mollie api gị.
+and_settings_line263 === eg test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === The usoro ego iji, nke a ga-eji dị ka isi mgbe n'ịtụgharị azụmahịa ka USD.
+and_settings_line279 === Họrọ ndị na-eweta ịkwụ ụgwọ ịchọrọ iji.
+and_settings_line293 === mkpụrụedemede kacha nta maka ozi. Nke a na-emetụta ma SMS na WhatsApp.
+and_settings_line295 === eg 5
+and_settings_line300 === mkpụrụedemede kachasị maka ozi. Nke a na-emetụta ma SMS na WhatsApp. Tinye 0 maka mkpụrụedemede enweghị ngwụcha.
+and_settings_line302 === eg 300
+and_settings_line307 === Akara akara n'okpuru ozi, nke a na-agbakwunyere na ozi ma ọ bụrụ na agbanyere ngwungwu ha akara n'okpuru.
+and_settings_line309 === eg Ezitere na Sistemụ Zender
+and_settings_line318 === Nọmba ndabara nke ahịrị iji gosipụta na tebulu ozi ezigara. Nke a na-emetụta ma SMS na WhatsApp.
+and_settings_line320 === eg 10
+and_settings_line325 === Nọmba ndabara nke ahịrị iji gosipụta na tebulu ozi enwetara. Nke a na-emetụta ma SMS na WhatsApp.
+and_settings_line327 === eg 10
+and_settings_line336 === Ọ bụrụ na agbanyere, ndị ọbịa ga-enwe ike iji akaụntụ mgbasa ozi ọha ha banye.
+and_settings_line346 === Họrọ ndị na-eweta mgbasa ozi ọhaneze ịchọrọ iji.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook ID
+and_settings_line357_1 === Ngwa facebook ID, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line359 === eg 738812983731558
+and_settings_line364 === Facebook Secret
+and_settings_line364_1 === Ihe nzuzo ngwa facebook, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line366 === eg 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === NJ ngwa google, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line373 === eg 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Nzuzo Google
+and_settings_line378_1 === Ihe nzuzo google ngwa, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line380 === eg O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === NJ VK
+and_settings_line385_1 === NJ ngwa vkontakte, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line387 === eg 7768236
+and_settings_line392 === Nzuzo VK
+and_settings_line392_1 === Ihe nzuzo ngwa vkontakte, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line394 === eg pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Ọ bụrụ na agbanyere ya, a ga-egosikwa recaptcha na ibe nbanye. Biko jide n'aka na ị haziela igodo recaptcha na recaptcha nzuzo tupu ị nweta njirimara a ma ọ bụ na ị gaghị enwe ike ịbanye!
+and_settings_line413 === Igodo recaptcha, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line415 === eg 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Ihe nzuzo recaptcha, biko gụọ akwụkwọ maka ozi ndị ọzọ.
+and_settings_line422 === eg 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Light
+and_theme_line17_1 === Onyonyo akara ngosi ọkụ, egosiri nke a na ibe mbụ yana ibe nyocha mgbe ihe ndabere gbara ọchịchịrị. Nha akwadoro bụ 250x50 na px.
+and_theme_line23 === Logo gbara ọchịchịrị
+and_theme_line223_1 === Onyonyo akara gbara ọchịchịrị, egosiri nke a na ibe mbụ yana ibe nyocha mgbe ihe ndabere bụ ìhè. Nha akwadoro bụ 250x50 na px.
+and_theme_line29 === Foto favicon saịtị, egosiri nke a na taabụ ihe nchọgharị. Nha akwadoro bụ 50x50 na px.
+and_theme_line35 === Foto ndabere
+and_theme_line35_1 === Foto ndabere saịtị, egosiri nke a ebe niile. A na-atụ aro ka iji ihe oyiyi dị elu.
+and_theme_line41 === Họrọ isiokwu agba ịchọrọ iji maka saịtị ahụ.
+and_theme_line46 === Họrọ agba agba maka ederede.
+and_theme_line51 === Agba Spinner
+and_theme_line51_1 === Họrọ agba ị chọrọ iji maka top ajax spinner.
+and_theme_line58 === JavaScript omenala
+and_theme_line58_1 === Ọ bụrụ na ịchọrọ iji koodu javascript omenala, biko tinye ya ebe a. A na-ebunye nke a ngwa ngwa n'ibe ọ bụla.
+and_theme_line60 === Ndewo Ụwa!
+and_theme_line63 === Omenala CSS
+and_theme_line63_1 === Ọ bụrụ na ịchọrọ ịgbanwe ụfọdụ ụdị css, ị nwere ike ime ya ebe a.
+and_apikey_line17 === Aha isi.
+and_apikey_line19 === eg Maka sava m
+and_apikey_line24 === Ikikere igodo.
+and_edit_auto_line17 === Aha omume.
+and_edit_auto_line19 === eg Zaghachi na akpaaka
+and_edit_auto_line24 === Isi mmalite
+and_edit_auto_line24_1 === Isi mmalite nke mmemme nnabata.
+and_edit_auto_line34 === Zaa mkpụrụokwu ndị rịkọm kewara. Isi okwu ndị a ga-akpalite nzaghachi akpaaka ma ọ bụrụ na achọpụtara ya na ọdịnaya ozi.
+and_edit_auto_line36 === eg daalụ, dị mma, denye aha, ee
+and_edit_auto_line41 === Ozi a ga-ezigara onye zitere ya.
+and_edit_auto_line43 === eg Ozi nzaghachi gị ebe a, anabatara koodu mkpirisi
+and_edit_auto_line48 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_edit_con_line17 === Aha kọntaktị.
+and_edit_con_line19 === eg Michael
+and_edit_con_line24 === Nọmba kọntaktị.
+and_edit_con_line31 === Otu kọntaktị.
+and_edit_dev_line16 === Nkọwa ngwaọrụ
+and_edit_dev_line21 === Aha ngwaọrụ.
+and_edit_dev_line23 === eg Ngwaọrụ m
+and_edit_dev_line28 === Ọ bụrụ na agbanyere ya, a ga-eziga ozi na nkeji oge na-enweghị usoro n'etiti ụkpụrụ abụọ. Ị nwere ike hazie ha n'okpuru.
+and_edit_dev_line38 === Oge kacha nta na sekọnd.
+and_edit_dev_line41 === eg 5
+and_edit_dev_line46 === Oge kachasị na sekọnd.
+and_edit_dev_line49 === eg 20
+and_edit_dev_line53 === Ntọala ngosi
+and_edit_dev_line58 === Ngwa
+and_edit_dev_line58_1 === Tinye aha ngwungwu ngwa ndị ịchọrọ inweta amamọkwa. Kewaa ha site na linebreaks.
+and_edit_dev_line65 === Ntọala mmekọ
+and_edit_dev_line70 === Ọnụ ego
+and_edit_dev_line70_1 === Ọnụ ego ịchọrọ ịkwụ ụgwọ kwa ozi, obodo ngwaọrụ ga-eji dị ka ntọala ego. A na-akwado ụkpụrụ ya sere n'elu dị ka cents.
+and_edit_dev_line73 === eg 0,50
+and_edit_dev_line78 === Ọnọdụ zuru ụwa ọnụ
+and_edit_dev_line78_1 === Ọ bụrụ na ọ nwere nkwarụ, ngwaọrụ agaghị adị ka ọnụ ụzọ SMS zuru ụwa ọnụ na ị gaghị enweta ego. Biko mara na ngwaọrụ zuru ụwa ọnụ enweghị ike ịnweta ozi maka ebumnuche nchekwa.
+and_edit_dev_line89 === Obodo
+and_edit_dev_line89_1 === Mba nke ngwaọrụ ahụ, a na-eji ya chọpụta nọmba ekwentị yana dịka ego ntọala nke ubi ọnụego.
+and_edit_dev_line101 === Ibu ụzọ
+and_edit_dev_line101_1 === A ga-ebu ụzọ ziga ozi zuru ụwa ọnụ tupu ozi nke gị.
+and_edit_dev_line112 === Oghere SIM
+and_edit_dev_line112_1 === Họrọ oghere SIM ịchọrọ iji maka izipu, ọ bụrụ na ịhọrọ ha abụọ, a ga-eziga ozi na oghere enweghị usoro.
+and_edit_email_line16 === Ụdị Email
+and_edit_email_line18 === HTML kwere
+and_edit_gate_line17 === Aha
+and_edit_gate_line17_1 === Nke a bụ aha ọnụ ụzọ ámá nke a ga-egosi ndị ọrụ gị.
+and_edit_gate_line19 === eg Twilio
+and_edit_gate_line24 === Onye njikwa
+and_edit_gate_line24_1 === Họrọ faịlụ njikwa ọnụ ụzọ ámá, nke a ga-enwe mgbagha ọnụ ụzọ ámá gị na koodu. A na-atụ aro ka ịlele akwụkwọ ahụ.
+and_edit_gate_line31 === Kpọghachi
+and_edit_gate_line31_1 === Ọ bụrụ na agbanyere ya, ọ ga-adị mkpa ka enyocha ozi site na iji njirimara azụghachi nke ọnụ ụzọ ámá nke atọ maka izipu ọkwa, ma ọ bụghị ya, a ga-akara ozi ozugbo dị ka ezitere na izipu.
+and_edit_gate_line34 === Kwado
+and_edit_gate_line35 === Gbanyụọ
+and_edit_gate_line41 === NJ ịkpọghachi azụ
+and_edit_gate_line41_1 === Ọ bụrụ na agbanyere oku ịkpọghachi, ị ga-eṅomirịrị NJ a wee mado ya na njikwa gị ka sistemu ahụ wee nwee ike mata nlọghachi azụ.
+and_edit_gate_line44 === Detuo na mado maka NJ azụghachi
+and_edit_gate_line51 === Ịnye ọnụ ahịa
+and_edit_gate_line51_1 === Tebụlụ ọnụahịa gị maka ọnụ ụzọ ámá a. Nke a ga-enye gị ohere ịkwụ ụgwọ n'elu ọnụ ahịa ndị otu nke atọ. Dịka ọmụmaatụ, ọ bụrụ na twilio na-ana 0.01 maka obodo a kapịrị ọnụ, mgbe ahụ ị nwere ike ịgba 0.02 kama, ego dabere na ego sistemụ gị. Biko soro usoro ọnụahịa nke ọma.
+and_edit_gate_line54 === Nleta ọnụahịa JSON:
+and_edit_gate_line54_1 === Budata
+and_edit_grp_line17 === Aha otu.
+and_edit_grp_line19 === eg Enyi
+and_edit_hook_line17 === Aha omume.
+and_edit_hook_line19 === eg Nwale Omume
+and_edit_hook_line24 === Isi mmalite
+and_edit_hook_line24_1 === Isi mmalite nke mmemme.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Họrọ mmemme ebe a ga-akpọku nko a.
+and_edit_hook_line37 === Na zipu
+and_edit_hook_line38 === Na nnata
+and_edit_hook_line44 === Nko njikọ Ọdịdị, nke a bụ url nke a ga-akpọ site na sistemụ. Naanị usoro GET ka akwadoro.
+and_edit_hook_line51 === Ntọala mgbanwe ndị ị nwere ike iji na nko URL gị.
+and_edit_lang_line17 === eg Korean
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Ee
+and_edit_lang_line33 === Mba
+and_edit_pack_line17 === Aha ngwugwu.
+and_edit_pack_line19 === eg ngwugwu VIP
+and_edit_pack_line24 === Ọnụ ngwugwu, nke a kwesịrị ịgbaso usoro ego. A naghị anabata ụkpụrụ n'elu mmiri.
+and_edit_pack_line29 === eg 25
+and_edit_pack_line34 === Ọ bụrụ na agbanyere, ozi na nkata WhatsApp ga-enwe akara n'okpuru mgbe ndị nnata natara.
+and_edit_pack_line44 === Ọ bụrụ na agbanyere ya, a ga-ezobe ngwugwu na modal ngwugwu na ibe mbụ.
+and_edit_pack_line53 === Ntọala Android
+and_edit_pack_line58 === Oke izipu SMS
+and_edit_pack_line58_1 === Ọnụ ọgụgụ kachasị nke ozi onye ọrụ nwere ike izipu tupu nrụpụta. Tinye 0 maka enweghị oke.
+and_edit_pack_line60 === eg 300
+and_edit_pack_line65 === Oke nnabata SMS
+and_edit_pack_line65_1 === Ọnụ ọgụgụ kachasị nke ozi onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_edit_pack_line67 === eg 150
+and_edit_pack_line72 === Oke USSD
+and_edit_pack_line72_1 === Ọnụ ọgụgụ kachasị nke ussd nke onye ọrụ nwere ike ịrịọ tupu ịtọgharịa. Tinye 0 maka enweghị oke.
+and_edit_pack_line74 === eg 25
+and_edit_pack_line79 === Oke ngosi
+and_edit_pack_line79_1 === Ọnụọgụ ọkwa kacha elu nke onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_edit_pack_line81 === eg 1300
+and_edit_pack_line86 === Ọnụ ọgụgụ kachasị nke ngwaọrụ android nwere ike ijikọ na akaụntụ onye ọrụ. Tinye 0 maka enweghị oke.
+and_edit_pack_line88 === eg 25
+and_edit_pack_line92 === Ntọala WhatsApp
+and_edit_pack_line97 === Ọnụọgụ mkparịta ụka kachasị nke onye ọrụ nwere ike izipu tupu ịtọgharịa. Tinye 0 maka enweghị oke.
+and_edit_pack_line99 === eg 300
+and_edit_pack_line104 === Ọnụọgụ mkparịta ụka kachasị nke onye ọrụ nwere ike ịnata tupu nrụpụta ya. Tinye 0 maka enweghị oke.
+and_edit_pack_line106 === eg 150
+and_edit_pack_line111 === Oke akaụntụ
+and_edit_pack_line111_1 === Ọnụ ọgụgụ kacha elu nke akaụntụ WhatsApp enwere ike ijikọ na akaụntụ onye ọrụ. Tinye 0 maka enweghị oke.
+and_edit_pack_line113 === eg 10
+and_edit_pack_line117 === Ntọala Utility
+and_edit_pack_line122 === Ọnụọgụ kọntaktị kacha nke onye ọrụ nwere ike ịchekwa. Tinye 0 maka enweghị oke.
+and_edit_pack_line124 === eg 25
+and_edit_pack_line129 === Oke ahaziri
+and_edit_pack_line129_1 === Ọnụ ọgụgụ kacha nke ozi akwadoro/ nkata nke onye ọrụ nwere ike ịchekwa ya. Tinye 0 maka enweghị oke. Ejikọtara nke a maka SMS na whatsapp.
+and_edit_pack_line131 === eg 25
+and_edit_pack_line136 === Ọnụ ọgụgụ igodo API kachasị nke enwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_edit_pack_line138 === eg 10
+and_edit_pack_line143 === Ọnụ ọgụgụ kachasị nke Webhooks nwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_edit_pack_line145 === eg 5
+and_edit_pack_line150 === Oke omume
+and_edit_pack_line150_1 === Ọnụ ọgụgụ kachasị nke Omume enwere ike ịmepụta. Tinye 0 maka enweghị oke.
+and_edit_pack_line152 === eg 5
+and_edit_page_line17 === Aha ibe.
+and_edit_page_line24 === Naanị ọrụ ahọpụtara ga-enwe ike ịnweta ibe a.
+and_edit_page_line35 === Ọ bụrụ na agbanyere ya, a gaghị enwe ike ịnweta ibe ma ọ bụrụ na ịbanyeghị.
+and_edit_page_line45 === Ọdịnaya ibe. Ekwenyere mkpado HTML niile, kpachara anya mgbe ị na-agbakwunye edemede sitere na isi mmalite amaghị!
+and_edit_role_line17 === Aha ọrụ.
+and_edit_role_line19 === eg Onye nrụpụta
+and_edit_role_line24 === Họrọ ikike na atụmatụ ịchọrọ gbanyụọ/gbanye maka ọrụ a. A na-etinye mgbanwe n'oge ozugbo, a na-ebugharị taabụ nchọgharị nke ndị ọrụ ejikọrọ na ọrụ ahụ na-akpaghị aka.
+and_edit_short_line17 === Aha
+and_edit_short_line17_1 === Aha Shortener.
+and_edit_short_line19 === eg Dị ntakịrị
+and_edit_short_line24 === Onye njikwa
+and_edit_short_line24_1 === Họrọ faịlụ njikwa shortener, nke a ga-enwe mgbagha mgbagha na koodu gị. A na-atụ aro ka ịlele akwụkwọ ahụ.
+and_edit_sms_line17 === Aha ozi akwadoro.
+and_edit_sms_line19 === eg Ozi m
+and_edit_sms_line24 === Họrọ ụbọchị nhazi.
+and_edit_sms_line26 === eg 06/22/2020 12:00 nke ụtụtụ
+and_edit_sms_line31 === Ọ bụrụ na agbanyere ya, a ga-ahazi ozi ahụ oge ọ bụla akwadoro ụbọchị akwadoro.
+and_edit_sms_line42 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị.
+and_edit_sms_line55 === Họrọ ọtụtụ kọntaktị kọntaktị
+and_edit_sms_line67 === Ụdị ụzọ ámá
+and_edit_sms_line67_1 === Ụdị ọnụ ụzọ ámá nke ịchọrọ iji. Ọ bụrụ na ịhọrọ ngwaọrụ, a ga-egosi ngwaọrụ ejikọrọ maka izipu, ma ọ bụghị ya, a ga-egosi ọnụ ụzọ ámá ndị ọzọ na ndị mmekọ.
+and_edit_sms_line70 === Ngwaọrụ
+and_edit_sms_line71 === Ebe e si nweta
+and_edit_sms_line76 === Oghere SIM kaadị iji.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Ngwaọrụ gị ejikọrọ, họrọ ihe ịchọrọ iji maka izipu.
+and_edit_sms_line99 === Ọnụ ụzọ SMS
+and_edit_sms_line99_1 === Ọnụ ụzọ ámá nke atọ na ndị mmekọ, a ga-eji kredit gị mgbe izipu ozi site na iji ọnụ ụzọ ndị a. Anyị na-akwado ka ịlele ọnụ ahịa ọnụ ụzọ ámá tupu i jiri ha.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Ọmụmaatụ:
+and_edit_sms_line122_1 === Tom bụ a
+and_edit_sms_line122_2 === pusi
+and_edit_sms_line125 === Ụkpụrụ
+and_edit_sms_line125_1 === nke ọma
+and_edit_sms_line125_2 === na
+and_edit_sms_line125_3 === ọjọọ
+and_edit_sms_line125_4 === a ga-eji enweghị usoro.
+and_edit_temp_line17 === Aha ndebiri.
+and_edit_temp_line24 === Ụdị ụkpụrụ.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_edit_temp_line35 === Ọmụmaatụ:
+and_edit_temp_line35_1 === Tom bụ a
+and_edit_temp_line35_2 === pusi
+and_edit_temp_line38 === Ụkpụrụ
+and_edit_temp_line38_1 === nke ọma
+and_edit_temp_line38_2 === na
+and_edit_temp_line38_3 === ọjọọ
+and_edit_temp_line38_4 === a ga-eji enweghị usoro.
+and_edit_temp_line43 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_eduse_line17 === Aha iwu gị zuru oke, biko mara na iji aha adịgboroja nwere ike kwụsịtụ akaụntụ gị.
+and_eduse_line19 === eg Michael Cors
+and_eduse_line24 === Adreesị ozi-e ziri ezi, leghara mpaghara a anya ma ọ bụrụ na ịchọrọ idobe adreesị ozi-e ugbu a.
+and_eduse_line26 === eg onye ọrụ@mail.com
+and_eduse_line31 === Ọ bụrụ na ịchọrọ idobe okwuntughe dị ugbu a, biko leghara mpaghara a anya, ma ọ bụghị ya, tinye paswọọdụ ọhụrụ.
+and_eduse_line38 === Mpaghara oge ọnọdụ gị, gbanwee nke a ma ọ bụrụ na ịnọ na obodo ọzọ. A na-eji mpaghara oge maka ụbọchị na oge izi ezi ozi ezitere na data ndị ọzọ.
+and_eduse_line49 === Obodo
+and_eduse_line49_1 === Obodo gị, a na-eji nke a maka ịkwụ ụgwọ yana nhazi nọmba ekwentị.
+and_eduse_line60 === Ụda ọkwa
+and_eduse_line60_1 === Ọ bụrụ na agbanyụrụ, amamọkwa ga-agbachi nkịtị.
+and_eduse_line70 === Họrọ ọrụ onye ọrụ.
+and_eduse_line81 === Họrọ asụsụ onye ọrụ.
+and_eduse_line92 === Mmemme mmekọ
+and_eduse_line92_1 === Ọ bụrụ na agbanyere ya, onye ọrụ ga-enwe ike iji ngwaọrụ ha dị ka ngwaọrụ zuru ụwa ọnụ nke ga-enye ha ohere ịkpata ego mgbe onye ọrụ ndị ọzọ na-eji ngwaọrụ ha ziga ozi.
+and_edweb_line17 === Aha Webhook.
+and_edweb_line24 === Nata mmemme
+and_edweb_line24_1 === Họrọ mmemme nnabata ị chọrọ, a ga-eziga ha na url nko webụ gị site na usoro POST.
+and_edweb_line30 === Amamọkwa
+and_edweb_line36 === Url webhook gị, a ga-eziga data niile akwụ ụgwọ ebe a site na usoro POST.
+and_edweb_line38 === eg https://yourdomain.com/reply.php
+and_edwhat_line17 === Aha nkata nkata.
+and_edwhat_line19 === eg Ozi m
+and_edwhat_line24 === Họrọ ụbọchị nhazi.
+and_edwhat_line26 === eg 06/22/2020 12:00 nke ụtụtụ
+and_edwhat_line31 === Ọ bụrụ na agbanyere ya, a ga-ahazi nkata ahụ oge ọ bụla akwadoro ụbọchị.
+and_edwhat_line42 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị.
+and_edwhat_line55 === Họrọ ọtụtụ kọntaktị kọntaktị
+and_edwhat_line67 === Akaụntụ
+and_edwhat_line67_1 === Họrọ akaụntụ WhatsApp ịchọrọ iji.
+and_edwhat_line76 === Ndebiri ozi gị emeburu.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_edwhat_line95 === Ọmụmaatụ:
+and_edwhat_line95_1 === Tom bụ a
+and_edwhat_line95_2 === pusi
+and_edwhat_line98 === Ụkpụrụ
+and_edwhat_line98_1 === nke ọma
+and_edwhat_line98_2 === na
+and_edwhat_line98_3 === ọjọọ
+and_edwhat_line98_4 === a ga-eji enweghị usoro.
+and_edwhat_line103 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_edwhat_line116 === Nyefee
+and_edwid_line17 === Aha wijetị.
+and_edwid_line24 === Akara ngosi wijetị, maka naanị ụdịdị. Biko gaa na ahịrị mara mma maka ntụnye akara ngosi.
+and_edwid_line31 === Ụdị wijetị. Ihe mgbochi bụ maka itinye n'akụkụ dị iche iche nke ndebiri, modal bụ maka ọdịnaya dị ike. Kemgbe v3, modal ga-arụ ọrụ naanị na dashboard.
+and_edwid_line34 === Gbochie
+and_edwid_line35 === Modal
+and_edwid_line41 === Ogo wijetị, maka naanị ụdịdị.
+and_edwid_line53 === Ọnọdụ wijetị, maka naanị ụdịdị.
+and_edwid_line64 === Ọdịnaya wijetị. A na-anabata mkpado HTML niile, kpachara anya mgbe ị na-agbakwunye edemede sitere na isi mmalite amaghị!
+and_import_line17 === Faịlụ Excel nke ịchọrọ ibubata, biko gbaa mbọ soro usoro achọrọ.
+and_import_line20 === Ihe atụ faịlụ:
+and_import_line20_1 === Budata
+and_package_line36 === Nnata SMS
+and_package_line41 === WhatsApp zipu
+and_package_line46 === WhatsApp anata
+and_package_line51 === USSD
+and_package_line56 === Amamọkwa
+and_package_line61 === SMS/Nkparịta ụka akwadoro
+and_package_line66 === Ndi ana-akpo
+and_package_line71 === Igodo API
+and_package_line76 === Webhooks
+and_package_line81 === Omume
+and_package_line86 === Ngwa gam akporo
+and_package_line91 === WhatsApp Akaụntụ
+and_redeem_line18 === Gbapụta koodu.
+and_redeem_line20 === eg 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị. Naanị otu ozi ka a ga-eziga na nọmba ọbụlagodi na ị họrọla otu ebe agbakwunyere ya.
+and_sms_bulk_31 === Họrọ ọtụtụ kọntaktị kọntaktị. Naanị otu ozi ka a ga-eziga na kọntaktị ọbụlagodi na ị họrọla ọtụtụ otu ebe etinyere ya.
+and_sms_bulk_43 === Shortener
+and_sms_bulk_43_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_sms_bulk_46 === Ejichala njikọ
+and_sms_bulk_55 === Ụdị ụzọ ámá
+and_sms_bulk_55_1 === Ụdị ọnụ ụzọ ámá nke ịchọrọ iji. Ọ bụrụ na ịhọrọ ngwaọrụ, a ga-egosi ngwaọrụ ejikọrọ maka izipu, ma ọ bụghị ya, a ga-egosi ọnụ ụzọ ámá ndị ọzọ na ndị mmekọ.
+and_sms_bulk_58 === Ngwaọrụ
+and_sms_bulk_59 === Ebe e si nweta
+and_sms_bulk_64 === Oghere SIM kaadị iji.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Ọ bụrụ na agbanyere ya, a ga-eziga ozi ndị a tupu ihe ọ bụla ọzọ.
+and_sms_bulk_81 === Ndebiri ozi gị emeburu.
+and_sms_bulk_94 === Ngwaọrụ gị ejikọrọ, họrọ ihe ịchọrọ iji maka izipu.
+and_sms_bulk_105 === Ọnụ ụzọ SMS
+and_sms_bulk_105_1 === Ọnụ ụzọ ámá nke atọ na ndị mmekọ, a ga-eji kredit gị mgbe izipu ozi site na iji ọnụ ụzọ ndị a. Anyị na-akwado ka ịlele ọnụ ahịa ọnụ ụzọ ámá tupu i jiri ha
+and_sms_bulk_126 === Tụgharịa asụsụ ozi ahụ.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_sms_bulk_135 === Ọmụmaatụ:
+and_sms_bulk_143 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_sms_exe17 === Faịlụ Excel nke ịchọrọ ibubata, biko gbaa mbọ soro usoro achọrọ.
+and_sms_exe20 === Ihe atụ faịlụ:
+and_sms_exe20_1 === Budata
+and_sms_exe27 === Shortener
+and_sms_exe27_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_sms_exe30 === Ejichala njikọ
+and_sms_exe39 === Ụdị ụzọ ámá
+and_sms_exe39_1 === Ụdị ọnụ ụzọ ámá nke ịchọrọ iji. Ọ bụrụ na ịhọrọ ngwaọrụ, a ga-egosi ngwaọrụ ejikọrọ maka izipu, ma ọ bụghị ya, a ga-egosi ọnụ ụzọ ámá ndị ọzọ na ndị mmekọ.
+and_sms_exe42 === Ngwaọrụ
+and_sms_exe43 === Ebe e si nweta
+and_sms_exe47 === Ndebiri ozi gị emeburu.
+and_sms_exe60 === Ngwaọrụ gị ejikọrọ, họrọ ihe ịchọrọ iji maka izipu.
+and_sms_exe70 === Ọnụ ụzọ SMS
+and_sms_exe70_1 === Ọnụ ụzọ ámá nke atọ na ndị mmekọ, a ga-eji kredit gị mgbe izipu ozi site na iji ọnụ ụzọ ndị a. Anyị na-akwado ka ịlele ọnụ ahịa ọnụ ụzọ ámá tupu i jiri ha.
+and_sms_exe92 === Tụgharịa asụsụ ozi ahụ.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_sms_exe109 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_sms_quick17 === Nọmba ekwentị nnata.
+and_sms_quick24 === Ụdị ụzọ ámá
+and_sms_quick24_1 === Ụdị ọnụ ụzọ ámá nke ịchọrọ iji. Ọ bụrụ na ịhọrọ ngwaọrụ, a ga-egosi ngwaọrụ ejikọrọ maka izipu, ma ọ bụghị ya, a ga-egosi ọnụ ụzọ ámá ndị ọzọ na ndị mmekọ.
+and_sms_quick27 === Ngwaọrụ
+and_sms_quick28 === Ebe e si nweta
+and_sms_quick34 === Shortener
+and_sms_quick34_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_sms_quick37 === Ejichala njikọ
+and_sms_quick46 === Oghere SIM kaadị iji.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Ọ bụrụ na agbanyere ya, a ga-eziga ozi ndị a tupu ihe ọ bụla ọzọ.
+and_sms_quick66 === Ngwaọrụ gị ejikọrọ, họrọ ihe ịchọrọ iji maka izipu.
+and_sms_quick77 === Ọnụ ụzọ SMS
+and_sms_quick77_1 === Ọnụ ụzọ ámá nke atọ na ndị mmekọ, a ga-eji kredit gị mgbe izipu ozi site na iji ọnụ ụzọ ndị a. Anyị na-akwado ka ịlele ọnụ ahịa ọnụ ụzọ ámá tupu i jiri ha.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_sysup17 === Melite faịlụ
+and_sysup17_1 === Melite faịlụ zip, biko hụ na ịhọrọ faịlụ ziri ezi.
+and_upplug17 === Melite faịlụ
+and_upplug17_1 === Melite faịlụ zip, biko hụ na ịhọrọ faịlụ ziri ezi.
+and_uset17 === Foto profaịlụ gị.
+and_uset24 === Aha iwu gị zuru oke, biko mara na iji aha adịgboroja nwere ike kwụsịtụ akaụntụ gị.
+and_uset26 === eg Michael Shmuck
+and_uset31 === Adreesị ozi-e gị bara uru, leghara mpaghara a anya ma ọ bụrụ na ịchọrọ idobe adreesị ozi-e gị ugbu a.
+and_uset33 === eg yourmail@mail.com
+and_uset38 === Mpaghara oge ọnọdụ gị, gbanwee nke a ma ọ bụrụ na ịnọ na obodo ọzọ. A na-eji mpaghara oge maka ụbọchị na oge izi ezi ozi ezitere na data ndị ọzọ.
+and_uset49 === Obodo
+and_uset49_1 === Obodo gị, a na-eji nke a maka ịkwụ ụgwọ yana nhazi nọmba ekwentị.
+and_uset60 === Ụda ọkwa
+and_uset60_1 === Ọ bụrụ na agbanyụrụ, amamọkwa ga-agbachi nkịtị.
+and_uset70 === Ọ bụrụ na ịchọrọ idobe paswọọdụ gị ugbu a, biko leghara ogige a anya, ma ọ bụghị ya, tinye paswọọdụ ọhụrụ gị.
+and_usub23 === Dị irè ruo
+and_usub28 === SMS zipu
+and_usub34 === Nnata SMS
+and_usub40 === WhatsApp zipu
+and_usub46 === WhatsApp anata
+and_usub57 === USSD
+and_usub63 === Amamọkwa
+and_usub69 === SMS/Nkparịta ụka akwadoro
+and_usub98 === Omume
+and_usub104 === Ngwa gam akporo
+and_usub110 === WhatsApp Akaụntụ
+and_view20 === Nlele zuru oke
+and_whatsbulk_18 === Ọtụtụ ọnụọgụ E.164 kewapụrụ site na nkwụsị ahịrị.
+and_whatsbulk_31 === Họrọ ọtụtụ kọntaktị kọntaktị. Biko mara na ọ bụrụ na kọntaktị nwere ọtụtụ otu, enwere ike izipu ozi ahụ ọtụtụ ugboro ma ọ bụrụ na ịhọrọ otu ebe etinyere ya.
+and_whatsbulk_43 === Shortener
+and_whatsbulk_43_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_whatsbulk_46 === Ejichala njikọ
+and_whatsbulk_55 === Akaụntụ
+and_whatsbulk_55_1 === Họrọ akaụntụ WhatsApp ịchọrọ iji.
+and_whatsbulk_64 === Ndebiri ozi gị emeburu.
+and_whatsbulk_79 === Tụgharịa asụsụ ozi ahụ.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_whatsbulk_96 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_whatex17 === Faịlụ Excel nke ịchọrọ ibubata, biko gbaa mbọ soro usoro achọrọ.
+and_whatex20 === Ihe atụ faịlụ:
+and_whatex20_1 === Budata
+and_whatex27 === Shortener
+and_whatex27_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_whatex30 === Ejichala njikọ
+and_whatex39 === Akaụntụ
+and_whatex39_1 === Họrọ akaụntụ WhatsApp ịchọrọ iji.
+and_whatex48 === Ndebiri ozi gị emeburu.
+and_whatex63 === Tụgharịa asụsụ ozi ahụ.
+and_whatex68 === Spintax
+and_whatex68_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_whatex80 === Tọọ mgbanwe ndị ị nwere ike iji na ozi gị.
+and_whatquick_17 === E.164 nọmba ekwentị nnata.
+and_whatquick_24 === Shortener
+and_whatquick_24_1 === Ọ bụrụ na agbanyere ya, a ga-ebelata njikọ dị na ozi na-akpaghị aka site na iji shortener ahọpụtara.
+and_whatquick_27 === Ejichala njikọ
+and_whatquick_36 === Akaụntụ
+and_whatquick_36_1 === Họrọ akaụntụ WhatsApp ịchọrọ iji.
+and_whatquick_50 === Tụgharịa asụsụ ozi ahụ.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Akụkụ na-enye gị ohere ịmegharị mkpụrụokwu n'ime ozi gị nke na-egbochi nchoputa spam nke ọma.
+and_admin_api_3 === API nchịkwa
+and_admin_fileman_3 === Ihe ndezi ndebiri
+and_admin_gate_3 === SMS Gateways
+and_admin_gate_8 === Tinye ọnụ ụzọ ámá
+and_admin_lang_6 === Dozie asụsụ
+and_admin_mark_3 === Ịzụ ahịa
+and_admin_mark_6 === Hichapụ ihe ahọpụtara
+and_admin_mark_12 === Kwaa
+and_admin_mark_17 === Gwa ya
+and_admin_mark_22 === Onye ozi
+and_admin_payout_3 === Arịrịọ ịkwụ ụgwọ
+and_admin_short_3 === Ndị mkpụmkpụ
+and_admin_short_8 === Tinye Shortener
+and_admin_subs_8 === Tinye ndenye aha
+and_admin_vouch_6 === Hichapụ ihe ahọpụtara
+and_droid_dev_3 === Ngwa gam akporo
+and_droid_dev_6 === Gụọ akwụkwọ
+and_droid_dev_8 === Akwụkwọ
+and_droid_dev_11 === Tinye akwụkwọ maka ịbụ onye na-eweta ọnụ ụzọ ámá onye mmekọ
+and_droid_dev_13 === Mmekọrịta
+and_droid_dev_16 === Debanye aha ngwaọrụ android ọhụrụ
+and_droid_not_3 === Amamọkwa
+and_droid_not_6 === Hichapụ ihe ahọpụtara
+and_droid_rev_3 === natara SMS
+and_droid_rev_6 === Hichapụ ozi ahọpụtara
+and_droid_sched_6 === Hichapụ ihe ahọpụtara
+and_droid_sent_3 === Ezitere SMS
+and_droid_sent_6 === Hichapụ ihe ahọpụtara
+and_droid_sent_10 === Hichapụ ozi niile na-echere
+and_droid_sent_14 === Zipu SMS ngwa ngwa
+and_droid_sent_16 === Ngwa ngwa
+and_droid_sent_19 === Zipụ nnukwu SMS
+and_droid_sent_21 === Nnukwu
+and_droid_sent_24 === Zipu nnukwu SMS site na Excel
+and_droid_ussd_3 === Arịrịọ USSD
+and_droid_ussd_6 === Hichapụ ihe ahọpụtara
+and_droid_ussd_10 === Hichapụ arịrịọ niile na-echere
+and_droid_ussd_14 === Arịrịọ USSD ọhụrụ
+and_droid_ussd_16 === Arịrịọ
+and_con_grp_6 === Hichapụ ihe ahọpụtara
+and_con_grp_10 === Tinye otu kọntaktị ọhụrụ
+and_con_sav_6 === Hichapụ ihe ahọpụtara
+and_con_sav_10 === Tinye kọntaktị ọhụrụ
+and_con_sav_15 === Bubata kọntaktị na faịlụ Excel
+and_con_unsub_3 === Edebanyeghị aha
+and_con_unsub_6 === Hichapụ ihe ahọpụtara
+and_doc_act_3 === Omume
+and_doc_api_3 === Akwụkwọ API
+and_doc_dev_3 === Ngwaọrụ
+and_doc_partner_3 === Mmekọrịta
+and_doc_webhook_3 === Webhooks
+and_rate_gate_3 === Ọnụ ego
+and_rate_gate_10 === Obodo
+and_rate_gate_11 === Ọnụego Ozi ọ bụla
+and_rate_gate_22 === Mba ndị ọzọ
+and_rate_partner_3 === Ọnụ ego onye mmekọ
+and_tool_act_3 === Omume
+and_tool_act_6 === Gụọ akwụkwọ
+and_tool_act_8 === Akwụkwọ
+and_tool_act_11 === Tinye ihe nko ọhụrụ
+and_tool_act_13 === nko
+and_tool_act_16 === Tinye ihe nzaghachi akpaaka ọhụrụ
+and_tool_act_18 === Zaghachi onwe ya
+and_tool_key_6 === Gụọ akwụkwọ
+and_tool_key_8 === Akwụkwọ
+and_tool_key_11 === Mepụta igodo API ọhụrụ
+and_tool_webhook_6 === Gụọ akwụkwọ
+and_tool_webhook_8 === Akwụkwọ
+and_what_accnt_6 === Jikọọ akaụntụ ọhụrụ
+and_what_accnt_8 === Tinye Akaụntụ
+and_what_attach_8 === Hichapụ ozi ahọpụtara
+and_what_rev_3 === Nkata nkata
+and_what_rev_6 === Hichapụ ihe ahọpụtara
+and_what_sched_6 === Hichapụ ihe ahọpụtara
+and_what_sched_12 === Hazie nkata
+and_what_sent_3 === Ezitere nkata
+and_what_sent_6 === Hichapụ ihe ahọpụtara
+and_what_sent_10 === Zipu nkata ngwa ngwa
+and_what_sent_12 === Ngwa ngwa
+and_what_sent_15 === zipu nnukwu nkata
+and_what_sent_17 === Nnukwu
+and_what_sent_20 === zipu nnukwu nkata site na Excel
+and_def_f_blck_6 === Malite ire ahịa
+and_def_f_blck_7 === Ka anyị bido wee tolite azụmaahịa ọnụ, debanye aha ugbu a wee nweta ikpo okwu ahịa dị elu!
+and_def_f_blck_8 === Sonyere anyị
+and_def_f_blck_35 === Nweta kọntaktị
+and_head_blck_21 === Ụlọ
+and_head_blck_24 === Atụmatụ
+and_head_blck_27 === Ịnye ọnụ ahịa
+and_head_blck_30 === Ndị ahịa
+and_head_blck_39 === Dashboard
+and_head_blck_42 === Wepụ
+and_pages_default_8 === SMS na WhatsApp ahịa na ọ kacha mma
+and_pages_default_29 === Ozi SMS
+and_pages_default_31 === Jiri ngwaọrụ gam akporo gị dị ka ọnụ ụzọ SMS, nke a dị ọnụ ala karịa iji ọnụ ụzọ ndị ọzọ.
+and_pages_default_40 === Ozi WhatsApp
+and_pages_default_42 === Jiri WhatsApp maka mgbasa ozi ahịa gị, ikpo okwu anyị na-enye ngwaọrụ iji nyere gị aka ibido.
+and_pages_default_51 === Ngwa ngwa ngwa
+and_pages_default_53 === Anyị na-enye ngwaọrụ ndị ga-enyere gị aka na ịre ahịa dị ka autoreply, webhooks na ndị ọzọ.
+and_pages_default_62 === Nweta ego
+and_pages_default_64 === Bụrụ otu n'ime ndị mmekọ anyị wee jiri ngwaọrụ android gị dị ka ọnụ ụzọ wee nweta ego maka ozi ọ bụla ezitere.
+and_pages_default_73 === Gịnị kpatara eji ọrụ anyị?
+and_pages_default_74 === Nke a bụ ụfọdụ ihe mere ị ga-eji malite iji ozi anyị
+and_pages_default_84 === Ngwa ngwa na nnukwu izipu
+and_pages_default_86 === Zipu otutu ozi na otu kọntaktị dị iche iche n'ụzọ dị mfe ma ị nwekwara ike izipu ozi ngwa ngwa maka azụmahịa ngwa ngwa. Ikpokoro anyị gụnyekwara dashboard dị ndụ, nweta ọkwa mgbe ezigara ma ọ bụ nata ozi gị!
+and_pages_default_89 === Koodu mkpirisi
+and_pages_default_89_1 === maka iji data akọpụtagoro dee ozi gị.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === maka randomizing set nke okwu ịlụ ọgụ spamming okwu.
+and_pages_default_91 === Onye ntụgharị asụsụ
+and_pages_default_91_1 === maka ichekwa ndị na-ege ntị dabere na asụsụ ha.
+and_pages_default_98 === Ngwa akpaaka na smart
+and_pages_default_100 === Jikwaa azụmahịa gị ka anyị na-elekọta ọrụ ruru unyi, ikpo okwu anyị dị mma ma chọọ naanị ozi ịchọrọ izipu mgbe ahụ anyị ga-eme nke ọzọ!
+and_pages_default_103 === Usoro ihe omume
+and_pages_default_103_1 === SMS na WhatsApp na-akparịta ụka n'ụbọchị ọ bụla ịchọrọ.
+and_pages_default_104 === Webhooks
+and_pages_default_104_1 === maka imezi ụfọdụ ọrụ mgbe ị nwetara ozi site na SMS na whatsapp.
+and_pages_default_105 === Omume
+and_pages_default_105_1 === maka ịmepụta nzaghachi akpaaka na nlele ngwa ngwa nke ihe omume.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === maka ime arịrịọ metụtara netwọkụ dịka ịlele nguzozi n'aka onye ọrụ.
+and_pages_default_107 === Amamọkwa
+and_pages_default_107_1 === site na ejikọrọ android ngwaọrụ nwekwara ike-eji maka akpaghị aka aga-eme.
+and_pages_default_137 === Anyị na-ekwe nkwa ịga nke ọma azụmahịa gị site na atụmatụ atụmatụ anyị
+and_pages_default_139 === A haziri ikpo okwu anyị nke ọma iji gboo mkpa nke azụmaahịa azụmaahịa na-eto eto, anyị chọrọ ijide n'aka na pasentị ọ bụla ị mefuru maka ọrụ anyị kwesịrị ekwesị ma nye gị afọ ojuju 100%!
+and_pages_default_145 === Ọ dị mfe iji na ikpo okwu mmiri
+and_pages_default_148 === Dị ọnụ ala mana na-ejigide ọrụ dị mma
+and_pages_default_156 === Ngwa ngwa na dashboard
+and_pages_default_159 === Ahụmịhe ngwa ngwa na laa azụ mgbe ị na-ere ngwaahịa gị
+and_pages_default_171 === Ọnụ ahịa ọrụ
+and_pages_default_187 === SMS zipu
+and_pages_default_194 === Nnata SMS
+and_pages_default_201 === WhatsApp zipu
+and_pages_default_208 === WhatsApp anata
+and_pages_default_215 === USSD
+and_pages_default_222 === Amamọkwa
+and_pages_default_229 === SMS/Nkparịta ụka akwadoro
+and_pages_default_236 === Ndi ana-akpo
+and_pages_default_243 === Igodo API
+and_pages_default_250 === Webhooks
+and_pages_default_257 === Omume
+and_pages_default_264 === Ngwa gam akporo
+and_pages_default_271 === WhatsApp Akaụntụ
+and_pages_default_287 === Ndị ahịa anyị
+and_pages_default_290 === Ndị ahịa karịrị 3,000+ tụkwasịrị obi. Malite ire ngwaahịa gị wee soro anyị tolite azụmahịa gị!
+landing_title_default === Ngwa mkpanaka gam akporo dị ka ụzọ SMS
+landing_nav_login === banye
+landing_lead_desc === Jiri atụmatụ SMS na-akparaghị ókè nke onye na-eweta netwọk gị, ngwọta dị ọnụ ala yana ọnụ ahịa maka ire ahịa, SMS buru ibu na ọrụ dị na obodo gị. Jiri WhatsApp maka ndị na-ege ntị ka ukwuu, ikpo okwu anyị na-enye ngwaọrụ zuru oke iji nyere gị aka ibido.
+landing_footer_ourcomp === Ụlọ ọrụ pụọ
+landing_footer_about === Ihe gbasara
+landing_footer_tos === Usoro ọrụ
+landing_footer_privacy === amụma nzuzo
+landing_footer_links === Njikọ saịtị
+landing_footer_login === banye
+landing_footer_register === debanye aha
+landing_footer_copyright === Ikike niile echekwabara
+dashboard_title_default === Dashboard
+dashboard_title_contacts === Ndi ana-akpo
+dashboard_title_tools === Ngwa
+dashboard_title_admin === nchịkwa
+dashboard_nav_default === Dashboard
+dashboard_nav_contacts === Ndi ana-akpo
+dashboard_nav_tools === Ngwa
+dashboard_nav_menusubscription === Ndebanye aha
+dashboard_nav_menusettings === Ntọala
+dashboard_nav_menulogout === Wepụ
+dashboard_btn_addcontact === Tinye kọntaktị
+dashboard_btn_adddevice === Tinye ngwaọrụ
+dashboard_btn_addgroup === Tinye otu
+dashboard_btn_addtemplate === Tinye ndebiri
+dashboard_btn_addkey === Tinye igodo
+dashboard_btn_addhook === Tinye Webhook
+dashboard_btn_build === wuo
+dashboard_btn_buildsettings === Ntọala
+dashboard_btn_settings === Sistemu
+dashboard_btn_theme === Isiokwu
+dashboard_btn_adduser === Tinye onye ọrụ
+dashboard_btn_addpackage === Tinye ngwugwu
+dashboard_btn_addwidget === Tinye wijetị
+dashboard_btn_addlanguage === Tinye Asụsụ
+dashboard_footer_about === Ihe gbasara
+dashboard_footer_terms === Usoro ọrụ
+dashboard_footer_privacy === amụma nzuzo
+dashboard_footer_copyright === Ikike niile echekwabara
+dashboard_messages_menusent === E zigara ya
+dashboard_messages_menureceived === natara
+dashboard_messages_menutemplates === Ụdị
+dashboard_messages_tabreceivedtitle === Ozi natara
+dashboard_messages_tabtemplatestitle === Ụdị
+dashboard_messages_tablesentrecipient === onye nnata
+dashboard_messages_tablesentmessage === Ozi
+dashboard_messages_tablesentcreated === Emepụtara
+dashboard_messages_tablesentoptions === Nhọrọ
+dashboard_messages_tablereceivedsender === Onye zitere
+dashboard_messages_tablereceivedmessage === Ozi
+dashboard_messages_tablereceivedreceived === natara
+dashboard_messages_tablereceivedoptions === Nhọrọ
+dashboard_messages_tabletemplatesname === Aha ndebiri
+dashboard_messages_tabletemplatesformat === Ụdị Ụdị
+dashboard_messages_tabletemplatesoptions === Nhọrọ
+dashboard_contacts_title === Ndi ana-akpo
+dashboard_contacts_menusaved === echekwara
+dashboard_contacts_menugroups === Otu dị iche iche
+dashboard_contacts_tabsavedtitle === Kọntaktị echekwara
+dashboard_contacts_tabgroupstitle === Otu kọntaktị
+dashboard_contacts_tablesavedname === Aha kọntaktị
+dashboard_contacts_tablesavednumber === Nọmba kọntaktị
+dashboard_contacts_tablesavedoptions === Nhọrọ
+dashboard_contacts_tablegroupsname === Aha otu
+dashboard_contacts_tablegroupsoptions === Nhọrọ
+dashboard_devices_tableregisteredbrand === Onye nrụpụta
+dashboard_devices_tableregisteredversion === Ụdị
+dashboard_devices_tableregisteredadded === Edebara aha
+dashboard_devices_tableregisteredoptions === Nhọrọ
+dashboard_tools_title === Ngwa
+dashboard_tools_menukeys === Igodo API
+dashboard_tools_menuhooks === Webhooks
+dashboard_tools_tabkeystitle === Igodo API
+dashboard_tools_tabhookstitle === Webhooks
+dashboard_tools_tablekeysname === Aha
+dashboard_tools_tablekeyspermissions === Ikikere
+dashboard_tools_tablekeysoptions === Nhọrọ
+dashboard_tools_tablehooksname === Aha
+dashboard_tools_tablehooksurl === Webhook URL
+dashboard_tools_tablehooksoptions === Nhọrọ
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Ọnụọgụ
+dashboard_admin_menuusers === Ndị ọrụ
+dashboard_admin_menupackages === ngwugwu
+dashboard_admin_menusubscriptions === Ndebanye aha
+dashboard_admin_menutransactions === Azụmahịa
+dashboard_admin_menuwidgets === Ngwa wijetị
+dashboard_admin_menulanguages === Asụsụ
+dashboard_admin_tabdefaultearningstitle === Ego enwetara
+dashboard_admin_tabdefaultmessageslast === Ụbọchị 30 gara aga
+dashboard_admin_tabuserstitle === Ndị ọrụ
+dashboard_admin_tabpackagestitle === ngwugwu
+dashboard_admin_tabsubscriptionstitle === Ndebanye aha
+dashboard_admin_tabtransactionstitle === Azụmahịa
+dashboard_admin_tabwidgetstitle === Ngwa wijetị
+dashboard_admin_tablanguagestitle === Asụsụ
+dashboard_admin_tableusersname === Aha
+dashboard_admin_tableusersemail === Email
+dashboard_admin_tableusersoptions === Nhọrọ
+dashboard_admin_tablepackagesname === Aha
+dashboard_admin_tablepackagesprice === Ọnụ ahịa
+dashboard_admin_tablepackagesoptions === Nhọrọ
+dashboard_admin_tablesubscriptionsuser === Onye ọrụ
+dashboard_admin_tablesubscriptionspackage === ngwugwu
+dashboard_admin_tablesubscriptionsprice === Ọnụ ahịa
+dashboard_admin_tablesubscriptionsexpire === Ụbọchị kubie ume
+dashboard_admin_tablesubscriptionsoptions === Nhọrọ
+dashboard_admin_tabletransactionscustomer === Onye ahịa
+dashboard_admin_tabletransactionsprovider === Onye na-enye
+dashboard_admin_tablewidgetsname === Aha wijetị
+dashboard_admin_tablewidgetstype === Ụdị
+dashboard_admin_tablewidgetssize === Nha
+dashboard_admin_tablewidgetsposition === Ọnọdụ
+dashboard_admin_tablewidgetsoptions === Nhọrọ
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Aha Asụsụ
+dashboard_admin_tablelanguagescreated === Emepụtara
+dashboard_admin_tablelanguagesoptions === Nhọrọ
+table_search_text === Chọọ
+table_search_placeholder === Tinye mkpụrụokwu ebe a...
+response_invalid === Arịrịọ na-ezighi ezi!
+response_went_wrong === Ọ nwere ihe adịghị mma!
+response_session_false === Oge adịghị!
+response_session_true === Oge adịlarị!
+response_invalid_emailpass === Email/paswọọdụ na-ezighi ezi!
+response_loggedin_success === Banye nke ọma!
+response_loggedout_success === Apụọla nke ọma!
+response_invalid_email === Adreesị ozi-e na-ezighi ezi!
+response_retrieval_received === Anyị nwetara arịrịọ maka iweghachi akaụntụ, leghara ma ọ bụrụ na i rịọghị ya.
+response_solve_captcha === Biko dozie ihe ịma aka mgbochi bot!
+response_register_false === Agbanyụrụ ndebanye aha!
+response_name_short === Aha dị mkpụmkpụ!
+response_password_short === Okwuntughe ga-akarịrị mkpụrụedemede 5!
+response_password_notmatch === Okwuntughe adabaghị!
+response_register_success === Ndebanye aha gara nke ọma!
+response_email_unavailable === Edebanyelarị adreesị ozi-e!
+response_upload_applogo === Biko bulite akara ngosi ngwa gị!
+response_upload_appsplash === Biko bulite splash ngwa gị!
+response_pcode_empty === Biko tinye koodu ịzụrụ ihe na ntọala sistemụ!
+response_buildserver_false === Enweghị ike ijikọ iji wuo ihe nkesa!
+response_invalid_number === Nọmba ekwentị na ezighi ezi!
+response_message_short === Ozi dị mkpụmkpụ!
+response_message_queued === Agbakwunyela ozi na kwụ n'ahịrị!
+response_message_bulkqueued === Etinyela nnukwu ozi n'ahịrị maka izipu!
+response_format_short === Usoro dị oke mkpụmkpụ!
+response_template_added === agbakwunyela ndebiri!
+response_number_exist === Nọmba kọntaktị adịlarị!
+response_contact_added === Agbakwunyela kọntaktị!
+response_group_added === Agbakwunyela otu kọntaktị!
+response_permission_min === Biko họrọ opekata mpe ikike 1!
+response_key_added === Agbakwunyela igodo API!
+response_invalid_webhookurl === URL nko webụ ezighi ezi!
+response_webhook_added === Webhook ahs agbakwunyere!
+response_user_added === Agbakwunyela onye ọrụ!
+response_package_added === Agbakwụnyela ngwugwu!
+response_widget_added === Agbakwunyela wijetị!
+response_language_added === Agbakwụnyela asụsụ!
+response_avatar_invalid === Enweghị ike ibugo avatar!
+response_profile_updated === Emelitela profaịlụ!
+response_package_purchasedtitle === Ị debanyere aha na ngwugwu adịchaghị, nke a bụ akwụkwọ nnata gị!
+response_package_purchased === Edebanye aha na ngwugwu nke ọma!
+response_template_updated === Emelitela ndebiri!
+response_contact_updated === Emelitela kọntaktị!
+response_group_updated === Emelitela otu kọntaktị!
+response_key_updated === Emelitela igodo API!
+response_webhook_updated === Webhook emelitere!
+response_user_updated === Emelitela onye ọrụ!
+response_package_updated === Emelitela ngwugwu!
+response_widget_updated === Emelitela wijetị!
+response_language_updated === Emelitela asụsụ!
+response_builder_packagenameshort === Aha ngwugwu dị mkpụmkpụ!
+response_builder_appnameshort === Aha ngwa dị mkpụmkpụ!
+response_builder_applogofail === Enweghị ike ibugo akara ngwa!
+response_builder_appsplashfail === Enweghị ike ibugo splash ngwa!
+response_builder_settingsupdated === Emelitere ntọala onye nrụpụta!
+response_theme_updated === Emelitere ntọala isiokwu!
+response_system_settingsupdated === Emelitere ntọala sistemụ!
+response_deleted_sent === A ehichapụla ozi ezigara!
+response_deleted_received === ehichapụla ozi enwetara!
+response_deleted_template === E ehichapụla ndebiri!
+response_deleted_contact === E ehichapụla kọntaktị!
+response_deleted_group === E ehichapụla otu kọntaktị!
+response_deleted_device === Eehichapụla ngwaọrụ!
+response_deleted_key === E ehichapụla igodo API!
+response_deleted_hook === A ehichapụla Webhook!
+response_deleted_defaultuserfalse === Enweghị ike ihichapụ onye ọrụ mbụ!
+response_deleted_user === Eehichapụla onye ọrụ!
+response_deleted_defaultpackagefalse === Enweghị ike ihichapụ ngwugwu mbụ!
+response_deleted_package === E ehichapụla ngwugwu!
+response_deleted_subscription === E hichapụla ndenye aha!
+response_deleted_widget === E ehichapụla wijetị!
+response_deleted_defaultlangfalse === Enweghị ike ihichapụ asụsụ ezighi ezi!
+response_deleted_language === E ehichapụla asụsụ!
+response_lang_changed === Agbanwela asụsụ!
+modal_usersettings_title === Ntọala
+modal_subscription_title === Ndebanye aha
+modal_packages_title === ngwugwu
+modal_smsquick_title === SMS ngwa ngwa
+modal_smsbulk_title === SMS buru ibu
+modal_addtemplate_title === Tinye ndebiri
+modal_edittemplate_title === Dezie ndebiri
+modal_addcontact_title === Tinye kọntaktị
+modal_editcontact_title === Dezie kọntaktị
+modal_addgroup_title === Tinye otu
+modal_editgroup_title === Dezie otu
+modal_adddevice_title === Tinye ngwaọrụ
+modal_addkey_title === Tinye igodo API
+modal_editkey_title === Dezie igodo API
+modal_edithook_title === Dezie Webhook
+modal_buildersettings_title === Ntọala Nrụpụta
+modal_themesettings_title === Ntọala isiokwu
+modal_systemsettings_title === Ntọala sistemụ
+modal_adduser_title === Tinye onye ọrụ
+modal_edituser_title === Dezie onye ọrụ
+modal_addpackage_title === Tinye ngwugwu
+modal_editpackage_title === Dezie ngwugwu
+modal_addwidget_title === Tinye wijetị
+modal_editwidget_title === Dezie ngwaọrụ
+modal_addlanguage_title === Tinye asụsụ
+modal_editlanguage_title === Dezie Asụsụ
+require_email === Adreesị ozi ịntanetị
+require_password === Okwuntughe
+require_name === Aha n'uju
+require_cpassword === Nkwenye okwuntughe
+require_phone === Nọmba ekwentị
+require_device === Ngwaọrụ
+require_message === Ozi
+require_groups === Otu kọntaktị
+require_sim === Oghere SIM
+require_priority === Nhọrọ ebute ụzọ
+require_api === Nhọrọ API
+require_templatename === Aha ndebiri
+require_templateformat === Ụdị ụkpụrụ
+require_contactname === Aha kọntaktị
+require_group === Otu kọntaktị
+require_groupname === Aha otu
+require_apiname === Aha igodo API
+require_permissions === Ikikere
+require_hookname === Aha Webhook
+require_hookurl === Webhook url
+require_appname === Aha ngwa
+require_appcolor === Ngwa agba
+require_packagename === Aha ngwugwu
+require_widgetname === Aha wijetị
+require_widgetsize === Ogo wijetị
+require_widgetposition === Ọnọdụ wijetị
+require_widgettype === Ụdị wijetị
+require_languagename === Aha asụsụ
+require_languageiso === Asụsụ iso
+require_languagestr === Ntụgharị asụsụ
+btn_submit === Nyefee
+btn_download === Budata
+btn_done === Emechaala
+btn_purchase === Ịzụta
+btn_free === N'efu
+btn_send === Ziga
+btn_save === Chekwa
+btn_packages === ngwugwu
+btn_retrieve === weghachite
+btn_signin === banye
+btn_signup === debanye aha
+form_name === Aha
+form_number === Nọmba ekwentị
+form_group === Otu kọntaktị
+form_adddevice_one === Ịgbakwunye ngwaọrụ android ọhụrụ na akaụntụ gị dị mfe, anyị ji n'aka na ị nwere ike ịga n'ihu na-emefusịghị oge gị dị oké ọnụ ahịa, soro usoro ndị a.
+form_adddevice_two === 1. Download & Wụnye
+form_adddevice_three === Nke mbụ, budata ma wụnye ngwa ọnụ ụzọ ámá anyị site na ịpị bọtịnụ a.
+form_adddevice_four === 2. Deba aha ngwaọrụ
+form_adddevice_five === Ugbu a mepee ngwa gateway wee pịa bọtịnụ nyocha wee nyochaa Qrcode a.
+form_adddevice_six === 3. Emeela!
+form_adddevice_seven === Agbakwunyere ngwaọrụ na akaụntụ gị, ị nwere ike ịmalite izipu ozi ugbu a!
+form_permissions === Ikikere
+form_countrycode === Koodu obodo
+form_translations === Ụdọ Ntụgharị Asụsụ
+form_translations_placeholder === Tinye ntụgharị asụsụ ebe a...
+form_packageprice === Ọnụ ahịa
+form_packagesend === Oke izipu
+form_packagereceive === Nweta oke
+form_packagedevice === Oke ngwaọrụ
+form_packagekey === Oke igodo
+form_packagehook === Oke Webhook
+form_templatename_placeholder === ọkwa
+form_templateformat === Usoro
+form_templateformat_placeholder === Tinye usoro template gị ebe a...
+form_shortcodes === Koodu mkpirisi
+form_emailaddress === Adreesị ozi ịntanetị
+form_password === Okwuntughe
+form_password_leave === Hapụ ihe efu ka idowe paswọọdụ ugbu a
+form_language === Asụsụ
+form_webhookname_placeholder === zaghachi Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Usoro ọrụ
+form_widgeticon === Akara ngosi
+form_widgettype === Ụdị
+form_widgetsize === Nha
+form_widgetsmall === Obere
+form_widgetmedium === Ọkara
+form_widgetlarge === Nnukwu
+form_widgetxlarge === Oke ukwuu
+form_widgetposition === Ọnọdụ
+form_widgetcenter === Ebe etiti
+form_widgetleft === Aka ekpe
+form_widgetright === Right
+form_widgetcontent === Ọdịnaya
+form_builderpackagename === Aha ngwugwu
+form_builderappname === Aha ngwa
+form_builderappdesc === Nkọwa ngwa
+form_builderappdesc_placeholder === Nke a bụ ngwa dị egwu
+form_builderapplogo === Akara ngwa
+form_builderappsplash === Ngwa Splashscreen
+form_uploaded === Ebugoro
+form_notuploaded === Ọ dịghị
+form_themebg === Agba ndabere
+form_themetext === Mee ka agba pụta ìhè
+form_settingsite === Saịtị
+form_settingssitename === Aha saịtị
+form_settingssitedesc === Nkọwa saịtị
+form_settingspcode === Koodu ịzụrụ
+form_settingsprotocol === Protocol
+form_settingsdeflang === Asụsụ izizi
+form_settingsreg === Ndebanye aha
+form_settingsmailing === Nzipu ozi
+form_settingsmailfunc === Ọrụ ozi
+form_settingssitemail === Email saịtị
+form_settingssmtphost === Onye ọbịa SMTP
+form_settingssmtpport === SMTP Port
+form_settingssmtpusername === Aha njirimara SMTP
+form_settingssmtppassword === SMTP paswọọdụ
+form_settingssmtp_small === Achọrọ maka SMTP dịpụrụ adịpụ
+form_settingspayments === Ịkwụ ụgwọ
+form_settingspaypaltest === Ụdị ule Paypal
+form_settingssecurity === Nchekwa
+form_settingsrecaptchakey === Igodo saịtị recaptcha
+form_settingsrecaptchasecret === Igodo Nzuzo Recaptcha
+form_enable === Kwado
+form_disable === Gbanyụọ
+form_native === Ụmụ amaala
+form_remotesmtp === Ime SMTP
+form_device === Ekwentị mkpanaaka
+form_sim === Oghere Sim
+form_priority === Ibu ụzọ
+form_yes === Ee
+form_no === Mba
+form_freefor === Free ebighebi
+form_monthly === Kwa ọnwa
+form_groups === Otu kọntaktị
+form_template === Ụdị
+form_none === Ọ dịghị
+form_message === Ozi
+form_message_placeholder === Tinye ozi gị ebe a...
+form_avatar === Avatar
+form_changepass === Gbanwee okwuntughe
+form_package === ngwugwu
+form_keys === Igodo API
+form_hooks === Webhooks
+form_daily === kwa ụbọchị
+form_forgotpass === Chefuru okwuntughe
+form_fullname === Aha n'uju
+form_cpassword === Kwenye Na Okwuntughe
+form_haveaccount === Enwere m Akaụntụ
+datatable_processing === Na-ahazi, biko chere...
+datatable_length === Na-egosi ndenye _MENU_
+datatable_info === Na-egosi ndenye _START_ ruo _END_ nke ndenye _TOTAL_
+datatable_empty === Na-egosi 0 ruo 0 nke ndenye 0
+datatable_filtered === (nyochaa site na ntinye mkpokọta _MAX_)
+datatable_loading === Na-ebugo, biko chere...
+datatable_zero === Anyị enweghị ike ịhụ ihe ọ bụla dabara ajụjụ gị!
+datatable_null === Enweghị data igosi!
+datatable_first === Mbụ
+datatable_prev === Nke gara aga
+datatable_next === Osote
+datatable_last === Ikpeazụ
+delete_title === Hichapụ?
+delete_tagline === Agaghị emegharị omume a!
+validate_cannotemp === enweghị ike ịbụ ihe efu!
+alert_attention === Nlebara anya
+copy_data === Eṅomiri data na klipbọọdụ!
+date_today === Taa
+date_yesterday === Ụnyahụ
+date_7days === Ụbọchị 7 gara aga
+date_30days === Ụbọchị 30 gara aga
+date_month === Onwa a
+date_lmonth === Ọnwa gara aga
+date_custom === Omenala nso
+unknown_action_method === Usoro mmemme amaghị!
+mollie_redirecting_page === Na-atụgharị gaa na ibe ịkwụ ụgwọ mollie...
+form_settingsmolliekey === Igodo API Mollie
+btn_confirm === Kwenye
+btn_cancel === Kagbuo
+recaptcha_add_keys === Biko tinye igodo recaptcha gị iji mee ka atụmatụ a nwee ike!
+pay_with_paypal === Jiri Paypal kwụọ ụgwọ
+pay_with_mollie === Soro Mollie kwụọ ụgwọ
+form_settingsenabledproviders === Ndị nyere aka
+form_builderappicon === Akara ngosi ngwa
+payment_transact_failed === Azụmahịa ịkwụ ụgwọ dara!
+cookieconsent_message === Anyị na-eji kuki iji hụ na ị na-enweta ahụmịhe kachasị mma na webụsaịtị anyị.
+cookieconsent_link === Mụtakwuo
+role_added === Agbakwunyela ọrụ!
+role_updated === Emelitela ọrụ!
+role_deleted === E ehichapụla ọrụ!
+role_default_update === Enweghị ike dezie ọrụ akpaghị aka!
+role_default_delete === Enweghị ike ihichapụ ọrụ ndabara!
+voucher_added === Agbakwunyela akwụkwọ ikike!
+form_voucher === Koodu akwụkwọ ikike
+btn_redeem === gbapụta
+invalid_voucher_code === Koodu mpempe akwụkwọ na-ezighi ezi!
+voucher_deleted === Ebichapụla akwụkwọ ikike!
+form_title_addvoucher === Tinye akwụkwọ ego
+form_title_addsubscription === Tinye ndenye aha
+form_adduser_role === Ọrụ
+require_pagename === Aha ibe
+require_pageroles === Ọrụ anabatara
+form_pageroles === Ọrụ anabatara
+require_vouchercode === Koodu akwụkwọ ikike
+form_settingscurrency === Ego
+btn_bulkexcel === Excel
+response_leastprovider === Biko họrọ opekata mpe 1 onye na-eweta ịkwụ ụgwọ!
+user_subscriptioncontacts === Ndi ana-akpo
+response_suspended === Onye nchịkwa kwụsịtụrụ akaụntụ gị!
+response_adminsuspend === Enweghị ike ịkwụsịtụ akaụntụ mbụ!
+response_successsuspend === Akwụsịla onye ọrụ!
+response_successunsuspend === Akwụsịla onye ọrụ!
+suspend_user_title === Onye ọrụ kwụsịtụrụ?
+suspend_user_desc === Onye ọrụ a agaghị enwe ike ịbanye wee jiri ọrụ ndị a
+unsuspend_user_title === Onye ọrụ anaghị akwụsị akwụsị?
+unsuspend_user_desc === Onye ọrụ a ga-enwe ike ịbanye wee jiri ọrụ ahụ ọzọ
+all_languages === Asụsụ niile
+response_invalid_excel === faịlụ Excel na ezighi ezi!
+response_contacts_imported === Ebubatara kọntaktị!
+table_role_name === Aha ọrụ
+table_role_permissions === Ikikere
+table_voucher_name === Aha
+table_voucher_package === ngwugwu
+table_page_name === Aha ibe
+table_page_require === Nbanye chọrọ
+table_page_roles === Ọrụ anabatara
+import_btn === Bubata
+form_excelfile === Excel faịlụ
+form_hook_addtitle === Tinye Nko Action
+form_hook_edittitle === Dezie nko Action
+form_hook_event === Ihe omume
+form_hook_link === Ọdịdị Njikọ
+form_autoreply_addtitle === Tinye ihe omume nzaghachi
+form_autoreply_edittitle === Dezie omume nzaghachi
+form_autoreply_keywords === Okwu
+form_autoreply_message === Ozi zaghachi
+require_action_name === Aha omume
+require_action_event === Ụdị mmemme
+require_action_link === Ọdịdị njikọ
+require_action_keywords === Okwu
+require_action_message === Ozi zaghachi
+response_invalid_linkstructure === Ọdịdị njikọ ezighi ezi!
+response_hook_added === Etinyekwala ihe nko SMS!
+response_invalid_keywords === Ị ga-etinyerịrị opekata mpe otu isiokwu!
+response_autoreply_added === Agbakwunyela ihe nzaghachi SMS!
+response_hook_updated === Emelitela ihe nko SMS!
+response_autoreply_updated === Emelitere omume nzaghachi SMS!
+response_action_deleted === E ehichapụrụ ihe omume SMS!
+table_action_name === Aha
+form_scheduled_title === Hazie SMS
+response_scheduled_deleted === E ehichapụla ozi ahaziri!
+response_no_permission === Ịnweghị ikike maka omume a!
+response_builder_appiconfail === Enweghị ike ibugo akara ngosi ngwa!
+form_require_login === Nbanye chọrọ
+widget_addpage_title === Tinye ibe
+widget_editpage_title === Dezie Ibe
+require_subscription_user === Onye ọrụ
+require_voucher_name === Aha akwụkwọ ikike
+require_voucher_package === ngwugwu
+widget_alllang_title === Asụsụ niile
+widget_smsexcel_title === Nnukwu SMS site na Excel
+require_scheduled_name === Aha
+require_scheduled_date === Ụbọchị nhazi
+widget_importcontacts_title === Bubata kọntaktị
+require_addrole_name === Aha ọrụ
+require_addrole_permissions === Ikikere
+widget_editrole_title === Dezie Ọrụ
+response_page_added === agbakwunyere ibe!
+response_page_updated === Emelitela ibe!
+response_page_deleted === E ehichapụla ibe!
+table_scheduled_name === Aha
+messages_scheduled_title === Haziri
+messages_scheduled_schedule === Hazie SMS
+form_schedule_numbers === Nọmba ekwentị
+form_schedule_schedule === Usoro ihe omume
+form_schedule_repeat === Tinyegharịa
+form_bulksms_numbers === Nọmba ekwentị
+dashboard_tools_menuactions === Omume
+dashboard_admin_menuroles === Ọrụ
+dashboard_admin_menuvouchers === Akwụkwọ ego
+dashboard_admin_menupages === Ibe
+admin_gateway_title === Ọnụ ụzọ ámá
+admin_gateway_status === Ọnọdụ
+admin_gateway_notuploaded === Ebuliteghị
+admin_gateway_uploaded === Ebugoro
+dashboard_roles_title === Ọrụ onye ọrụ
+dashboard_roles_addrole === Tinye ọrụ
+dashboard_vouchers_title === Akwụkwọ ego
+dashboard_vouchers_addrole === Tinye akwụkwọ ego
+form_voucher_package === ngwugwu
+dashboard_pages_title === Ibe
+dashboard_pages_addpage === Tinye ibe
+form_theme_favicon === Favicon
+form_package_contactslimit === Oke kọntaktị
+response_limitation_send === Ị erutela ikike izipu ikike taa!
+response_limitation_contact === Ị erutela kọntaktsị ekwere kacha!
+response_limitation_key === Ị eruola igodo API kacha ekwenyere!
+response_limitation_webhook === Ị eruola nko webụ kacha ekwe ekwe!
+form_adminsettings_token === Sistemụ Token
+response_upload_appicon === Biko bulite akara ngosi ngwa gị!
+app_status_gateway_running === Ọnụ ụzọ ámá na-agba ọsọ!
+app_device_registered === Ejikọtara
+app_device_unregistered === Ejikọtaghị ya
+app_terminal_gateway_ready === Ọnụ ụzọ ámá adịla njikere...
+app_terminal_gateway_register === Ejikọbeghi ngwaọrụ...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Ejikọtala ngwaọrụ...
+app_terminal_gateway_device === Njikọ ngwaọrụ dara...
+app_terminal_gateway_connecterror === Njehie mgbe ị na-ejikọ na sava...
+app_terminal_gateway_started === ebidola ọnụ ụzọ ámá...
+app_terminal_gateway_stopped === Akwụsịla ọnụ ụzọ ámá...
+app_terminal_gateway_unregistered === Enweghị ike ịmalite ọnụ ụzọ ámá, ngwaọrụ ejikọtabeghị na akaụntụ ọ bụla ...
+app_terminal_feature_error === Njehie njirimara SMS
+app_terminal_sms_sent === ezigara ozi
+app_terminal_message_failed === Ozi izipu agaghị
+app_dialog_wait === Biko chere...
+app_dialog_exit === Wepụ Gateway
+app_dialog_exit_desc === Mechie na ụzọ ọpụpụ?
+app_camera_qrcode_inside === Tinye QRCode gị n'ime
+app_ui_status === Ọnọdụ
+app_ui_exit === Ụzọ ọpụpụ
+require_voucher_count === Ọnụ ọgụgụ akwụkwọ ikike enweghị ike ịbụ ihe efu!
+form_voucher_count === Ọnụọgụ akwụkwọ ikike
+cookieconsent_dismiss === Nwetara ya!
+title_payment_success === Nkwenye iwu
+title_payment_cancel === Akagbuola iwu
+header_payment_success === Nkwenye iwu
+header_payment_cancel === Akagbuola iwu
+body_payment_cancel === Ị kagbuola arịrịọ gị.
+transaction_payment_success === NJ azụmahịa:
+back_payment_page === Laghachi na Dashboard
+form_settingspaypalemail === Email azụmahịa Paypal
+form_settingsanalytics === Igodo nyocha Google
+form_messagecounterchars === agwa
+form_settingspagination === Oke pagination
+form_settingssentpage === Ezitere ozi kwa ibe
+form_settingsreceivedpage === Ozi natara kwa ibe
+form_settingsmessage === Ntọala ozi
+form_settingsmessagemin === Obere agwa
+form_settingsmessagemax === Akparamagwa kacha
+form_settingsmessagemark === Ozi akara ala
+form_packagefootermark === Ozi akara ala
+form_settingssmtpsecure === Nchekwa SMTP
+form_durationtitle === Ogologo oge
+form_durationpackage === Ngwungwu gị:
+form_durationpay === Ị ga-akwụ ụgwọ:
+form_durationmonth === Ogologo ọnwa
+form_subscriptionmonth === Ogologo ọnwa
+authenticate_fblogin === Jiri Facebook wee banye...
+authenticate_googlelogin === Iji google wee banye...
+authenticate_vklogin === Iji vkontakte wee banye...
+response_minplatforms === Biko họrọ opekata mpe otu ikpo okwu ọha!
+form_settingssocialtitle === Ntọala mmekọrịta
+form_settingssocial === Nyocha ọha
+form_settingssocialplatforms === Platform akwadoro
+form_usertimezone === Mpaghara oge
+form_settingsloginrecaptcha === Nbanye Recaptcha
+form_loginor === MA ọ bụ
+form_adddevicescandl === Budata site na nyocha QR
+form_status_online === Online
+form_status_offline === Na-anọghị n'ịntanetị
+form_smsbulknonumbers === Biko họrọ otu kọntaktị ma ọ bụ tinye nọmba ndị nnata!
+form_addsubscriptionuser === Onye ọrụ
+form_addsubscriptionpackage === ngwugwu
+table_vouchersduration === Ogologo ọnwa
+table_pluginsname === Aha ngwa mgbakwunye
+table_pluginsoptions === Nhọrọ
+dashboard_admin_menuplugins === Ngwa mgbakwunye
+dashboard_admin_pluginstitle === Ngwa mgbakwunye
+dashboard_admin_pluginsadd === Tinye ngwa mgbakwunye
+require_pluginfile === Ngwa mgbakwunye
+modal_addplugin_title === Tinye ngwa mgbakwunye
+response_pluginwentwrong === Ọ nwere ihe na-ezighi ezi mgbe ị na-ebugo ngwa mgbakwunye ahụ!
+response_plugininstalled === E tinyela ngwa mgbakwunye!
+dashboard_title_login === Banye
+dashboard_title_forgot === Chefuru okwuntughe
+dashboard_title_register === Debanye aha
+response_limitation_contact2 === Ị eruola ọnụ ọgụgụ kọntaktị kachasị na ndebanye aha gị, naanị _8880_ kọntaktsị ka ebubatala!
+response_contacts_imported2 === _8880_ kọntaktị ebubatala nke ọma!
+form_systemsettingshomepage === Ibe mbụ
+app_dialog_update_desc === Enwere ụdị ntọhapụ ọhụrụ dị maka ngwa ọnụ ụzọ ámá, a chọrọ imelite!
+app_dialog_update_download === Budata
+app_gateway_build_text === Mepụta ọnụ ụzọ ámá
+response_gateway_available === Na-ebudata ọnụ ụzọ ámá, biko chere...
+response_gateway_unavailable === Ọnụ ụzọ ámá adịghị, biko kpọtụrụ onye nchịkwa saịtị!
+response_gateway_randommax === Ogologo oge izipu kachasị enweghị ike karịa 300 sekọnd!
+response_device_updated === Emelitela ngwaọrụ!
+form_editdevice_devicename === Aha ngwaọrụ
+form_editdevice_randomsend === Ogologo oge izipu random
+form_editdevice_randommin === Zipu nkeji nkeji
+form_editdevice_randommax === Zipu oge kacha
+form_smsall_globalstatus === Gburugburu ụwa
+form_select_multinone === Ọ dịghị
+form_package_hiddenselect === Zoro ezo
+landing_footer_ourcompnew === Ụlọ ọrụ anyị
+form_smsschedule_submit === Usoro ihe omume
+require_devicename === Aha ngwaọrụ
+require_randommin === Oge kacha nta enweghị usoro
+require_randommax === Oge kacha oke enweghị usoro
+admin_update_installed === arụnyere
+admin_update_btn === Mmelite
+response_update_success === Emelitela sistemụ!
+form_settings_tawkchatlink === Tawk Direct nkata njikọ
+model_title_editplugin === Dezie ngwa mgbakwunye
+btn_other_paymentmethods === Ụzọ ịkwụ ụgwọ ndị ọzọ
+dashboard_btn_support === Nkwado
+pendingdelete_title === Hichapụ na-echere?
+pendingdelete_desc === Hichapụ ozi niile na-echere? Agaghị emegharị omume a!
+dashboard_messages_tablefullmessage === Ozi zuru oke
+administration_landing_btncache === Cache
+administration_landing_payouts === Ịkwụ ụgwọ
+administration_landing_marketing === Ịzụ ahịa
+administration_landing_gateways === Ọnụ ụzọ ámá
+administration_landing_shorteners === Ndị mkpụmkpụ
+administration_landing_editor === Ihe ndezi ndebiri
+administration_landing_api === API onye nchịkwa
+administration_landing_build === wuo
+administration_landing_system === Sistemu
+requests_charts_smssent === Ezitere SMS
+requests_charts_smsreceived === Anatara SMS
+requests_charts_wasent === WhatsApp zitere
+requests_charts_wareceived === WhatsApp enwetara
+requests_charts_ussd === USSD
+requests_charts_notifications === Amamọkwa
+requests_charts_credits === Ebe e si nweta
+administration_default_visitors === Ndị ọbịa
+administration_default_countries === Mba
+administration_default_browsers === Ihe nchọgharị
+administration_default_os === Sistemu eji arụ ọrụ
+administration_default_usages === Eji
+administration_default_messages === Ozi
+administration_default_utilities === Ngwa ọrụ
+administration_default_subscriptions === Ndebanye aha
+administration_default_credits === Ebe e si nweta
+tables_users_registered === Edebara aha
+tables_users_details === Nkọwa
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Ọnụ ụzọ ámá
+dashboard_title_docs === Akwụkwọ
+app_status_gateway_touch === Pịa ebe a iji mepee ọnụ ụzọ ámá
+app_dialog_downloading_update === Nbudata Nwelite
+app_dialog_interface_disabled === Agbanyụrụ interface, biko melite ngwa ahụ ka ọ bụrụ ụdị kachasị ọhụrụ!
+app_dialog_somethingwent_wrong === Ee, ọ nwere ihe adịghị mma!
+app_intro_level_1 === Daalụ maka iji ikpo okwu anyị, iji bulie ahụmịhe gị wee mara onwe gị na ngwa ahụ, ka anyị nyochaa na anyị ga-akọwa ọrụ niile dị mkpa ịchọrọ ịma.
+app_intro_level_2 === Ị ga-ahụ aha ngwaọrụ na ọkwa njikọ ebe a.
+app_intro_level_3 === Iji jikọta ngwaọrụ na akaụntụ gị, jiri bọtịnụ a ka ịbanye ma ọ bụ nyochaa QRCode gị maka njikọ.
+app_intro_level_4 === Jiri mgba ọkụ a ka gbanye ma ọ bụ gbanyụọ ọnụ ụzọ ámá.
+app_intro_level_5 === Ịkwanye mgba ọkụ a ga-eme ka ngwa ọnụ ụzọ gee ntị maka ọkwa ọhụrụ nke enwere ike ijikwa mmemme na ikpo okwu. Akwụsịghị nke a na ndabara.
+app_intro_level_6 === Jiri bọtịnụ a mechie wee pụọ na ngwa gateway.
+app_intro_level_7 === Nke a bụ ọnụ ọnụ, azụmahịa ozi na ndekọ ọrụ ndị ọzọ ga-egosi ebe a.
+app_intro_level_8 === Nke a bụ bọtịnụ ihe na-ese n'elu mmiri, ị nwere ike ịnweta nhọrọ ụfọdụ yana ibe ndị ọzọ dịka <b>Gbaa na ndabere</b> ebe a.
+app_dialog_tour_complete === Ị kwesịrị ịghọta ugbu a ka ngwa ahụ si arụ ọrụ, maka ajụjụ ndị ọzọ, biko kpọtụrụ anyị!
+app_push_right_now === ugbua
+app_device_detailes_updated === Emelitela nkọwa ngwaọrụ!
+app_ussd_requests_notsupported === Achọghị arịrịọ USSD...
+app_notifications_listening_now === Na-ege ntị maka ọkwa ọhụrụ...
+app_button_ok === Kwenye
+app_dialog_update_smoothperm === Maka mmelite dị nro na nke ọma, biko nye ikike ịwụnye site na ngwa a.
+app_dialog_logging_in === Ịbanye...
+app_dialog_invalid_email === Ị abanyela email na-ezighi ezi!
+app_dialog_invalid_password === Okwuntughe dị mkpụmkpụ ka ọ dị irè!
+app_dialog_notsupported_notinougat === Anaghị akwado ọkwa ugbu a maka nougat na n'okpuru, ndo maka nsogbu ahụ.
+app_dialog_notifications_permission === Iji nweta ọkwa na mmemme, ngwa ahụ chọrọ ikike pụrụ iche. Biko họrọ ngwa dị na listi ahụ wee kwe ka ịnweta ọkwa.
+app_dialog_gateway_listennoti === Ọnụ ụzọ ga-ege ntị maka ọkwa ọhụrụ.
+app_dialog_gateway_notirestart === Ọnụ ụzọ ámá ga-amalitegharị ma kwụsị ige ntị maka ọkwa ọhụrụ.
+app_dialog_needto_link === Ịkwesịrị ijikọ ngwaọrụ na akaụntụ gị tupu ị nwee ike iji njirimara a.
+app_dialog_logoutfrom_device === Wepụ na ngwaọrụ ọnụ ụzọ ámá a?
+app_document_runbackground === Gbaa n'azụ
+app_document_input_email === Adreesị ozi ịntanetị
+app_document_input_password === Okwuntughe
+app_document_btn_login === Banye
+app_document_text_or === ma ọ bụ
+app_document_btn_scan === Nyochaa QRCcode
+app_document_btn_cancel === Kagbuo
+app_intro_next_btn === Osote
+app_intro_back_btn === Azu
+response_token_generated === Ewelitela akara sistemụ!
+response_trigger_done === A kpalitela webhook!
+response_build_gservicesfile === Biko bulite faịlụ ọrụ google gị!
+response_build_fcredentialsfile === Biko bulite faịlụ nzere firebase gị!
+response_build_loginlogo === Biko bulite akara nbanye ngwa gị!
+response_whatsapp_notprem === Edenyeghị akaụntụ na ngwugwu adịchaghị ọ bụla!
+response_whatsapp_maxaccounts === Ị ruru akaụntụ WhatsApp kacha anabata maka ngwugwu gị!
+response_whatsapp_creatingqr === Mepụta WhatsApp QRCode
+response_whatsapp_noconnectserver === Enweghị ike ijikọ na sava WhatsApp!
+response_chart_dashsmssent === Ezitere SMS
+response_chart_dashsmsreceive === Anatara SMS
+response_chart_dashwasent === WA zitere
+response_chart_dashwareceive === WA natara
+response_chart_dashwebhooks === Webhooks
+response_chart_dashactions === Omume
+response_chart_dashussd === USSD
+response_chart_dashnoti === Amamọkwa
+response_resend_queued === Edola ozi kwụ n'ahịrị maka izipu!
+mail_title_payoutapproved === Akwụghachila arịrịọ ịkwụ ụgwọ gị!
+response_payout_confirmed === Ekwuputala nkwụghachi ụgwọ!
+mail_title_payoutrejected === Ajụjụ arịrịọ ịkwụ ụgwọ gị!
+response_payout_rejected === Ajụla ịkwụ ụgwọ!
+response_translate_msgshort === Ozi dị mkpụmkpụ!
+response_clear_systemcleared === A kpochapụrụ faịlụ cache sistemu!
+response_clear_smscleared === A kpochapụrụ ozi na-echere!
+response_clear_ussdcleared === Arịrịọ USSD na-echere ekpochapụla!
+response_reorder_languages === Ahagharịala asụsụ!
+response_trash_selectedremoved === ehichapụla ihe ahọpụtara!
+response_voucher_redeemed === A gbapụtala akwụkwọ ikike!
+response_payout_invalidamount === Ọnụ ego ịkwụ ụgwọ na-ezighi ezi, o kwesịghị inwe ụkpụrụ iri.
+response_payout_notenoughbal === Enwetaghị nguzozi zuru oke iji hazie arịrịọ!
+response_payout_reqreceive === Anatala arịrịọ ịkwụ ụgwọ gị!
+response_payout_pendingreq === Ị ka nwere arịrịọ ịkwụ ụgwọ na-echere!
+response_system_sysconfigerr === Njehie nhazi sistemu!
+response_message_toolong === Ozi gị dị ogologo!
+response_package_nosubwarn === Ị nweghị ndenye aha ngwugwu!
+response_message_notenoughcredsend === Ezughị kredit iji zipu ozi a!
+response_message_queuedforsend === Edola ozi kwụ n'ahịrị maka izipu!
+response_message_sentsuccess === E zipụla ozi!
+response_message_unablesendmesg === Anyị enweghị ike izipu ozi gị!
+response_smsexcel_phonenotfound === Achọghị kọlụm _8880_ na faịlụ Excel gị!
+response_smssched_queued === Ahaziri ozi!
+response_ussd_maximumreq === Eruola ọnụọgụ USSD kacha elu!
+response_ussd_queued === Arịrịọ USSD kwụ n'ahịrị!
+response_whatsapp_reachedmaxchat === Ị ruola nkata kacha nwee ike izipu!
+response_whatsapp_chatqueued === Edola ozi WhatsApp kwụ n'ahịrị maka izipu!
+response_whatsapp_unableconnectserv === Enweghị ike ijikọ na sava WhatsApp!
+response_whatsapp_bulkchatsqueued === Edela nnukwu nkata WhatsApp n'ahịrị!
+response_whatsapp_excelphonecolnotfound === Achọghị kọlụm _8880_ na faịlụ Excel gị!
+response_whatsapp_chatscheduled === Edobela nkata!
+response_importcontacts_phonenotfound === Achọghị kọlụm _8880_ na faịlụ Excel gị!
+response_importcontacts_groupsnotfound === Achọghị kọlụm _8880_ na faịlụ Excel gị!
+response_importcontacts_namenotfound === Achọghị kọlụm _8880_ na faịlụ Excel gị!
+response_package_pricenotlessone === Ọnụ ngwugwu enweghị ike ịbụ ihe na-erughị 1!
+response_subscription_addedsuccess === Ekerela ndenye aha!
+response_push_selectatleastoneuser === Biko họrọ opekata mpe otu onye ọrụ ma ọ bụ ọrụ!
+response_push_mesgtooshort === Ozi dị mkpụmkpụ!
+response_push_titletooshort === Aha aha dị mkpụmkpụ!
+response_push_imgfailed === Ibulite faịlụ onyonyo dara!
+response_push_created === Emepụta mgbasa ozi mgbasa ozi!
+response_push_nousers === Ọnweghị ndị ọrụ ahụrụ maka izipu!
+response_notify_titletooshort === Aha aha dị mkpụmkpụ!
+response_notify_mesgtooshort === Ozi dị mkpụmkpụ!
+response_notify_selectuserrole === Biko họrọ opekata mpe otu onye ọrụ ma ọ bụ ọrụ!
+response_notify_imgfailed === Ibulite faịlụ onyonyo dara!
+response_notify_created === Emepụtala mgbasa ozi mara ọkwa!
+response_notify_nousers === Ọnweghị ndị ọrụ ahụrụ maka izipu!
+response_mailer_titletooshort === Aha aha dị mkpụmkpụ!
+response_mailer_contentooshort === Ọdịnaya dị mkpụmkpụ!
+response_mailer_nouserorrole === Biko họrọ opekata mpe otu onye ọrụ ma ọ bụ ọrụ!
+response_mailer_sendcounter === _8880_ n'ime _8881_ ozi-e na-echere site na onye ozi ezipụla!
+response_mailer_mailprocessed === A haziela izipu ọtụtụ mmadụ!
+response_mailer_nousersorrole === Ọnweghị ndị ọrụ ahụrụ maka izipu!
+response_gateway_controllercannotempty === Faịlụ njikwa enweghị ike ịbụ ihe efu!
+response_gateway_invalidcontroller === Faịlụ njikwa na ezighi ezi!
+response_gateway_addeddcontroller === Agbakwụnyela ọnụ ụzọ ámá!
+response_shortener_cannotempty === Faịlụ njikwa enweghị ike ịbụ ihe efu!
+response_shortener_invalidcontroller === Faịlụ njikwa na ezighi ezi!
+response_shortener_addedcontroller === Agbakwunyela Shortener!
+response_plugin_samenameinstalled === E tinyelarị ngwa mgbakwunye nwere otu aha!
+response_smscheduled_editsuccess === Emelitela ozi ahaziri!
+response_chatscheduled_editsuccess === Emelitela usoro nkata!
+response_editdevice_invalidrate === Uru ọnụego na-ezighi ezi, ọ kwesịrị ịbụ ọnụọgụ n'elu mmiri bara uru!
+response_editdevice_nametooshort === Aha ngwaọrụ dị mkpụmkpụ!
+response_editdevice_nametoolong === Aha ngwaọrụ adịla ogologo!
+response_editdevice_invalidmaxinterval === Uru etiti oke na ezighi ezi!
+response_gateway_updatedsuccess === Emelitela ọnụ ụzọ ámá!
+response_shortener_editsuccess === Emelitere Shortener!
+response_editplugin_success === Emelitela ntọala ngwa mgbakwunye!
+response_updatepluin_corrupted === E mebiela faịlụ mmelite ngwa mgbakwunye!
+response_updateplugin_updated === Emelitela ngwa mgbakwunye!
+response_builder_invalidgooglefile === Faịlụ nzere ọrụ google ezighi ezi!
+response_builder_invalidfirebasefile === Faịlụ nzere firebase na ezighi ezi!
+response_theme_sitelogofailed === Ibugo akara saịtị dara!
+response_theme_sitebgfailed === Nbulite ndabere saịtị dara!
+response_theme_sitefavfailed === Nbulite onyonyo favicon dara!
+response_notification_deletedsuccess === Ehichapụla ọkwa!
+response_whatsapp_sentdeletesuccess === Ebichapụla nkata WhatsApp ezitere!
+response_whatsapp_receivedeletesuccess === ehichapụrụ nkata WhatsApp enwetara!
+response_whatsapp_scheduleddeletesuccess === Eehichapụla nkata WhatsApp ahaziri!
+response_whatsapp_accountdeletesuccess === Eehichapụla akaụntụ WhatsApp!
+response_unsibscribe_contactdeletedsuccess === A ehichapụla nọmba edebanyeghị aha!
+response_marketing_logdeletedsuccess === E ehichapụla akwụkwọ ndekọ aha ahịa!
+response_gateway_controllerdeletedsuccess === Ehichapụla ọnụ ụzọ ámá!
+response_shortener_controllerdeletedsuccess === E ehichapụla Shortener!
+table_androidsent_clipcopy === Mpempe akwụkwọ mpịakọta ezigara _8880_
+table_androidsent_excel === E zigara Excel Mbupụ _8880_
+table_androidsent_pdf === E zigara PDF Mbupụ _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Akuko
+table_unknown_data === Amaghi ama
+table_androidsent_statuspending === Na-echere
+table_androidsent_statusqueued === kwụ n'ahịrị
+table_androidsent_statussent === E zigara ya
+table_androidsent_statusfailed === Okpu
+table_none_data === Ọ dịghị
+table_yes_data === Ee
+table_no_data === Mba
+table_removed_data === Ewepụrụ
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Ọnọdụ: _8880_, Ụdị: _8881_, Koodu: _8882_, Nke mbụ: _8883_, API ezitere: _8884_, oghere Sim: SIM _8885_, Ngwaọrụ: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Ngwaọrụ
+table_androidsent_modenamecredits === Ebe e si nweta
+table_androidsent_reportline1 === Ọnọdụ: _8880_
+table_androidsent_reportline2 === Ụdị: _8880_
+table_androidsent_reportline3 === Koodu mpaghara:: _8880_
+table_androidsent_reportline4 === Ihe bu ụzọ: _8880_
+table_androidsent_reportline5 === API ezitere: _8880_
+table_androidsent_reportline6 === Oghere SIM: SIM _8880_
+table_androidsent_reportline7 === Ngwaọrụ: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Ọnọdụ: _8880_, Ụdị: _8881_, Ọnụ ụzọ ámá: _8882_
+table_androidsent_reportline9 === Ọnọdụ: _8880_
+table_androidsent_reportline10 === Ụdị: _8880_
+table_androidsent_reportline11 === Ọnụ ụzọ ámá: _8880_
+table_androidsent_exportthree === Ọnọdụ: _8880_, Ụdị: _8881_, Koodu: _8882_, API ezitere: _8883_, oghere Sim: SIM _8884_, Ọnụ ụzọ: _8885_
+table_androidsent_reportline12 === Ọnọdụ: _8880_
+table_androidsent_reportline13 === Ụdị: _8880_
+table_androidsent_reportline14 === Koodu mpaghara:: _8880_
+table_androidsent_reportline15 === API ezitere: _8880_
+table_androidsent_reportline16 === Oghere SIM: SIM _8880_
+table_androidsent_reportline17 === Ọnụ ụzọ ámá: _8880_
+table_androidsent_titleresend === Zigharịa ozi a
+table_title_deletethisitem === Hichapụ ihe a
+table_androidreceive_exportcopy === Mpempe akwụkwọ mpịakọta _8880_ nwetara
+table_androidreceive_exportexcel === Anatara Excel Mbupụ _8880_
+table_androidreceive_exportpdf === Mbupu PDF _8880_ nwetara
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Akuko
+table_androidreceive_exportdata === Oghere SIM: SIM _8880_, Ngwaọrụ: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Oghere SIM: SIM _8880_
+table_androidreceive_reportline2 === Ngwaọrụ: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Zaghachi nọmba
+table_androidscheduled_titleschedule === Usoro ihe omume
+table_androidscheduled_titledetails === Nkọwa
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Ụdị: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Tinyegharịa: _8880_
+table_androidscheduled_detailsline4 === Ngwaọrụ: _8880_
+table_androidscheduled_detailsgroupslabel === Otu:
+table_androidscheduled_detailsnumberslabel === Ọnụọgụ:
+table_androidscheduled_detailsline5 === Ụdị: _8880_
+table_androidscheduled_detailsline6 === Tinyegharịa: _8880_
+table_androidscheduled_detailsline7 === Ọnụ ụzọ ámá: _8880_
+table_androidscheduled_detailsline8 === Ụdị: _8880_
+table_androidscheduled_detailsline9 === Tinyegharịa: _8880_
+table_androidscheduled_detailsline10 === Ngwaọrụ: _8880_
+table_title_editthisitem === Dezie ihe a
+table_whatsappsent_exportcopy === Mpempe akwụkwọ mpịakọta ezigara
+table_whatsappsent_exportexcel === E zigara Excel Mbupụ
+table_whatsappsent_exportpdf === E zigara PDF Mbupụ
+table_whatsappsent_accounttitle === Akaụntụ
+table_whatsappsent_recipienttitle === onye nnata
+table_whatsappsent_msgtitle === Ozi
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Ọnọdụ
+table_ussd_exportcopy === Mpempe akwụkwọ nke USSD
+table_ussd_exportexcel === USSD Excel mbupụ
+table_ussd_exportpdf === USSD PDF mbupụ
+table_ussd_createdtitle === Emepụtara
+table_ussd_codetitle === Koodu
+table_ussd_responsetitle === Azịza ya
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Ọnọdụ
+table_ussd_devicetitle === Ngwaọrụ
+table_ussd_optionstitle === Nhọrọ
+table_ussd_pendingresponsetext === Nzaghachi na-echere
+table_empty_data === Ihe efu
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Na-echere
+table_ussd_queuelabel === kwụ n'ahịrị
+table_ussd_completelabel === Emechara
+table_ussd_detailsline1 === Ngwaọrụ: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Mpempe akwụkwọ mpịakọta ngosi
+table_notifications_exportexcel === Amamọkwa Excel Mbupụ
+table_notifications_exportpdf === Mbupu PDF
+table_notifications_createdtitle === Emepụtara
+table_notifications_packagetitle === Aha ngwugwu
+table_notifications_title === Aha
+table_notification_texttitle === Ederede
+table_notification_devicetitle === Ngwaọrụ
+table_notification_optiontitle === Nhọrọ
+table_notification_devicelabel === Ngwaọrụ:
+table_notification_oslabel === OS:
+table_devices_nametitle === Aha
+table_devices_globaltitle === Gburugburu ụwa
+table_enabled_data === Agbanyere
+table_disabled_data === Agbanyụrụ
+table_notifications_exportone === Ngwaọrụ: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Na-echere
+table_whatsapp_queuelabel === kwụ n'ahịrị
+table_whatsapp_sentlabel === E zigara ya
+table_whatsapp_failedlabel === Okpu
+table_whatsappreceive_exportcopy === Ntugharị Klipbọọdụ enwetara
+table_whatsappreceive_exportexcel === Nweta mbupụ Excel
+table_whatsappreceive_exportpdf === Mbupu PDF natara
+table_whatsappreceive_replytitle === Zaghachi nọmba
+table_waschedule_scheduletitle === Usoro ihe omume
+table_waschedule_detailstitle === Nkọwa
+table_waschedule_detailsline1 === Tinyegharịa: _8880_
+table_waschedule_detailsline2 === Akaụntụ:
+table_waschedule_detailsline3 === Otu:
+table_waschedule_detailsline4 === Ọnụọgụ:
+table_waaccounts_loggedtitle === Banye
+device_login_usevalidemail === Biko jiri adreesị ozi-e bara uru!
+device_login_accountsuspended === Ndo, akwụsịla akaụntụ gị!
+device_login_incorrectmailorpass === Ị banyere email ma ọ bụ paswọọdụ ezighi ezi!
+device_login_nosubscription === Ị nweghị ndenye aha ngwugwu!
+device_login_nomoredevice === Ị nweghị ike ịdebanye aha ngwaọrụ ọzọ!
+device_scan_qrcodeinvalid === QRCode gị abaghị uru!
+device_scan_nosub === Ị nweghị ndenye aha ngwugwu!
+device_scan_usersuspended === Ndo, akwụsịla akaụntụ gị!
+device_scan_nomoredevices === Ị nweghị ike ịdebanye aha ngwaọrụ ọzọ!
+device_report_smssentsuccess === E si na _8881_ zipụ ozi _8880_
+device_report_smssentfailed === Izipu ozi _8880_ agaala site na _8881_
+device_received_smsreceived === E nwetala _8880_ ọhụrụ site na _8881_
+requests_resend_devicenotexist === Ngwaọrụ adịghị!
+device_ussd_responsereceive === Nzaghachi USSD nwetara site na _8880_
+device_notification_notireceive === Enwetala ọkwa ọhụrụ site na _8880_
+payment_success_unknowntx === Amaghi ama
+payment_webhook_molliecreditsadded === Agbakwunyela kredit na akaụntụ gị!
+payment_webhook_paypalcreditsadded === Agbakwunyela kredit na akaụntụ gị!
+payment_webhook_unknowntn === Amaghi ama
+mail_tpl_creditstitle === Ndewo ebe ahụ,
+mail_tpl_creditsdesc === Ị zụtala kredit, anyị etinyela mkpokọta _8880_ na akaụntụ gị ma ị nwere ike iji ya ozugbo.
+mail_tpl_creditstnx === Daalụ!
+mail_tpl_poweredby === Kwadoro site na _8880_
+forgot_response_recoverysent === ezipula ntuziaka mweghachi na _8880_
+forgot_response_recoveryfail === Anyị enweghị ike izipu gị email!
+cron_package_expired === Ndebanye aha ngwugwu gị agwụla!
+cron_package_expiring === Ndebanye aha ngwugwu na-agwụ n'ime ụbọchị 5!
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === NJ pụrụ iche
+table_contactssaved_idtitle === NJ
+table_contactssaved_exportcopy === Iṅomi Klipbọọdụ Otu _8880_
+table_contactssaved_exportexcel === Otu dị iche iche Excel Mbupụ _8880_
+table_contactssaved_exportpdf === Otu dị iche iche PDF Mbupụ _8880_
+table_contactssaved_grouptitle === Otu dị iche iche
+table_contactsgroups_gidtitle === NJ otu
+table_contactsunsub_exportcopy === Detuo kiilipbọọdụ edebanyeghị aha _8880_
+table_contactsunsub_exportexcel === Mbupụ Excel edebanyeghị aha _8880_
+table_contactsunsub_exportpdf === Mbupu PDF edebanyeghị aha _8880_
+table_toolskeys_createdtitle === Emepụtara
+table_toolskeys_copyapisecret === Detuo nzuzo API na klipbọọdụ
+table_toolswebhooks_createtitle === Emepụtara
+table_tootlswebhooks_eventstitle === Ihe omume
+table_toolswebhooks_simulatebtn === Mkpali
+table_toolswebhooks_simulatedesc === Mepụta arịrịọ mkpirisi webụ
+table_toolswebhooks_copywebhooksecret === Detuo nzuzo webhook na klipbọọdụ
+table_toolsactions_createtitle === Emepụtara
+table_toolsactions_detailstitle === Nkọwa
+table_toolsactions_typehook === nko
+table_toolsactions_typeautoreply === Zaghachi onwe ya
+table_toolsactions_source === Isi mmalite: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Ihe omume: _8880_
+table_toolsactions_eventonsend === Na zipu
+table_toolsactions_eventonreceive === Na nnata
+table_toolsactions_link === Njikọ:
+table_toolsactions_keywords === Okwu:
+table_toolsactions_message === Ozi:
+table_toolsactions_type === Ụdị: _8880_
+table_toolstemplates_idtitle === NJ
+table_ratespartners_createdtitle === Emepụtara
+table_ratespartners_countrytitle === Obodo
+table_ratespartners_detailstitle === Nkọwa ngwaọrụ
+table_ratespartners_ratetitle === Ọnụego ozi
+table_ratespartners_prioritytitle === Ibu ụzọ
+table_ratespartners_simtitle === Oghere SIM anabatara
+table_ratespartners_name === Aha:
+table_ratespartners_owner === Onye nwe:
+table_ratespartners_localrate === Ọnụego mpaghara:
+table_ratespartners_convertedrate === Ọnụego tụgharịrị:
+table_ratespartners_simdual === SIM 1 na SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Mpempe akwụkwọ mpịakọta ndị ọrụ _8880_
+table_adminusers_exportexcel === Ndị ọrụ Excel Mbupụ _8880_
+table_adminusers_exportpdf === Mbupụ ndị ọrụ PDF _8880_
+table_adminusersexportdata === Ọrụ: _8880_, Obodo: _8881_, Asụsụ: _8882_, Mpaghara Oge: _8883_, Erite: _8884_, Kredit: _8885_, Ndebanye aha: _8886_, Ụda: _8887_, kwụsịtụrụ: _8888
+table_adminusers_exportdata1 === Ọrụ: _8880_
+table_adminusers_exportdata2 === Obodo: _8880_
+table_adminusers_exportdata3 === Asụsụ: _8880_
+table_adminusers_exportdata4 === Mpaghara oge:
+table_adminusers_exportdata5 === Ego enwetara: _8880_
+table_adminusers_exportdata6 === Ebe e si nweta: _8880_
+table_adminusers_exportdata7 === Ndebanye aha:
+table_adminusers_exportdata8 === Ụda: _8880_
+table_adminusers_exportdata9 === kwụsịtụrụ: _8880_
+table_adminusers_unsuspendaccount === Ewepula akaụntụ a
+table_adminusers_suspendaccount === Kwụsị akaụntụ a
+table_adminroles_idtitle === NJ
+table_adminpackages_createdtitle === Emepụtara
+table_adminpackages_detailstitle === Nkọwa ngwugwu
+table_adminpackages_freelabel === N'efu
+table_unlimited_data === Enweghị oke
+table_adminpackages_labeldetails1 === Zoro ezo:
+table_adminpackages_labeldetails2 === Akara n'okpuru:
+table_adminpackages_labeldetails3 === Oke izipu SMS:
+table_adminpackages_labeldetails4 === Oke nnabata SMS:
+table_adminpackages_labeldetails5 === Oke izipu WhatsApp:
+table_adminpackages_labeldetails6 === Oke nnabata WhatsApp:
+table_adminpackages_labeldetails7 === Oke akaụntụ WhatsApp:
+table_adminpackages_labeldetails8 === Oke USSD:
+table_adminpackages_labeldetails9 === Oke ngosi:
+table_adminpackages_labeldetails10 === Oke ngwaọrụ:
+table_adminpackages_labeldetails11 === Oke kọntaktị:
+table_adminpackages_labeldetails12 === Oke igodo API:
+table_adminpackages_labeldetails13 === Oke Webhook:
+table_adminpackages_labeldetails14 === Oke ihe omume:
+table_adminpackages_labeldetails15 === Oke ahaziri:
+table_adminvouchers_exportcopy === Mpempe akwụkwọ mpịakọta _8880_
+table_adminvouchers_exportexcel === Mpempe akwụkwọ Excel _8880_
+table_adminvouchers_exportpdf === Mbupụ akwụkwọ ikike PDF _8880_
+table_adminvouchers_createdtitle === Emepụtara
+table_adminvouchers_codetitle === Koodu mgbapụta
+table_adminvouchers_copycode === Detuo koodu mpempe akwụkwọ na klipbọọdụ
+table_adminsubscriptions_createdtitle === Emepụtara
+table_admintransactions_createdtitle === Emepụtara
+table_admintransactions_itemtitle === Ihe
+table_admintransactions_amounttitle === Ọnụ ego
+table_admintransactions_durationtitle === Ogologo oge
+table_admintransactions_creditslabel === Ebe e si nweta
+table_admintransactions_monthslabel === _8880_ ọnwa
+table_adminpayouts_createdtitle === Emepụtara
+table_adminpayouts_partnertitle === Onye mmekọ
+table_adminpayouts_amounttitle === Ọnụ ego
+table_adminpayouts_addresstitle === Adreesị ịkwụ ụgwọ
+table_adminpayouts_optionstitle === Nhọrọ
+table_adminpayouts_approve === Kaa akara arịrịọ ịkwụ ụgwọ ka akwụgoro
+table_adminpayouts_reject === Jụ arịrịọ ịkwụ ụgwọ
+table_adminwidgets_createdtitle === Emepụtara
+table_adminwidgets_typeblock === Gbochie
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Detuo nko wijetị na klipbọọdụ
+table_adminpages_createdtitle === Emepụtara
+table_adminpages_optionstitle === Nhọrọ
+table_adminpages_copypagehook === Detuo nko ibe na klipbọọdụ
+table_adminmarketing_createdtitle === Emepụtara
+table_adminmarketing_typetitle === Ụdị
+table_adminmarketing_titletitle === Aha
+table_adminmarketing_contenttitle === Ọdịnaya
+table_adminmarketing_recipientstitle === Ndị nnata
+table_adminmarketing_optionstitle === Nhọrọ
+table_adminmarketing_notifylabel === Gwa ya
+table_adminmarketing_mailerlabel === Onye ozi
+table_adminmarketing_pushlabel === Kwaa
+table_adminmarketing_roleslabel === Ọrụ:
+table_adminmarketing_userslabel === Ndị ọrụ:
+table_admingateways_createdtitle === Emepụtara
+table_admingateways_nametitle === Aha
+table_admingateways_pricingtitle === Ịnye ọnụ ahịa
+table_admingateways_optionstitle === Nhọrọ
+table_admingateways_invalidjson === Ọkpụkpọ JSON ezighi ezi!
+table_admingateways_defaultprice === Ọnụahịa mbụ: _8880_
+table_admingateways_percountryprcie === Ọnụ ahịa kwa mba:
+table_adminshorteners_createdtitle === Emepụtara
+table_adminshorteners_nametitle === Aha
+table_adminshorteners_optionstitle === Nhọrọ
+table_adminplugins_idtitle === NJ
+table_adminplugins_versiontitle === Ụdị arụnyere
+table_adminplugins_actionstitle === Omume
+table_adminplugins_updatedesc === Melite ngwa mgbakwunye a
+table_adminplugins_editdesc === Dezie ngwa mgbakwunye nhọrọ
+table_adminplugins_removedesc === Wepu ngwa mgbakwunye a
+whatsapp_sent_sentsuccess === WhatsApp nkata _8880_ ezipụla!
+whatsapp_sent_sentfailed === Izipu nkata _8880_ dara!
+whatsapp_received_chat === Enwetala nkata ọhụrụ _8880_!
+widget_systemupdate_title === Mmelite sistemu
+widget_systemupdate_loader === Sistemụ na-emelite
+widget_systemupdate_requireupdate === Mmelite faịlụ enweghị ike ịbụ ihe efu!
+requests_systemupdate_faileduploadingfile === Faịlụ nwelite agaghị emeli!
+widget_usersettings_loader === Ịchekwa ntọala akaụntụ
+widget_payment_title === Ịkwụ ụgwọ
+widget_payment_creditamountnotless === Ọnụ ego kredit enweghị ike ịbụ ihe na-erughị 10!
+widget_payment_creditslabel === Ebe e si nweta
+widget_view_contentremoved === Ewepụla ọdịnaya!
+widget_redeem_title === gbapụta
+widget_redeem_loader === Na-akwado koodu mpempe akwụkwọ
+widget_addcredits_title === Tinye kredit
+widget_addpayout_title === Rịọ ịkwụ ụgwọ
+widget_addpayout_loader === Ịmepụta arịrịọ ịkwụ ụgwọ
+widget_addpayout_requireamount === Ọnụ ego enweghị ike ịbụ ihe efu!
+widget_addpayout_requireprovider === Onye na-akwụ ụgwọ enweghị ike ịbụ ihe efu!
+widget_addpayout_requireaddress === Adreesị ịkwụ ụgwọ enweghị ike ịbụ ihe efu!
+widget_smsquick_loader === Na-agbakwụnye ozi na kwụ n'ahịrị
+widget_smsbulk_loader === Na-agbakwụnye ozi na kwụ n'ahịrị
+widget_smsexcel_loader === Na-agbakwụnye ozi sitere na faịlụ Excel na kwụ n'ahịrị
+widget_addsmsscheduled_loader === Na-echekwa ozi ahaziri
+widget_editscheduled_title === Dezie nhazi oge
+widget_editscheduled_loader === Na-echekwa ozi ahaziri
+widget_addussd_title === Arịrịọ USSD
+widget_addussd_loader === Na-agbakwụnye arịrịọ ussd ka kwụ n'ahịrị
+widget_editdevice_title === Dezie ngwaọrụ
+widget_editdevice_loader === Ịchekwa ngwaọrụ na-agbanwe
+widget_waquick_title === Mkparịta ụka ngwa ngwa
+widget_waquick_loader === Na-agbakwunye nkata WhatsApp na kwụ n'ahịrị
+widget_waquick_requireaccount === Achọrọ akaụntụ WhatsApp!
+widget_wabulk_title === Mkparịta ụka buru ibu
+widget_wabulk_loader === Ịtinye nkata WhatsApp na kwụ n'ahịrị
+widget_waexcel_title === Nnukwu nkata site na Excel
+widget_waexcel_loader === Ịtinye nkata WhatsApp na kwụ n'ahịrị
+widget_wascheduled_title === Hazie nkata
+widget_wascheduled_loader === Ịtinye nkata WhatsApp na kwụ n'ahịrị
+widget_wascheduled_requireaccount === Achọrọ akaụntụ WhatsApp!
+widget_waeditscheduled_title === Dezie nhazi oge
+widget_waeditscheduled_loader === Ịtinye nkata WhatsApp na kwụ n'ahịrị
+widget_waeditscheduled_requireaccount === Achọrọ akaụntụ WhatsApp!
+widget_waaddaccount_title === Tinye Akaụntụ
+widget_importcontacts_loaded === Na-ebubata kọntaktị na faịlụ Excel
+widget_addcontact_loader === Ịmepụta ntinye kọntaktị ọhụrụ
+default_pricecolumns_monthlabel === onwa
+default_pricecolumns_dailylabel === kwa ụbọchị
+default_pricecolumns_monthlylabel === kwa ọnwa
+default_pricecolumns_unlimitedlabel === Enweghị oke
+form_literal_spintaxdesc2 === A ga-eji ụkpụrụ _8880_ na _8881_ mee ihe na enweghị usoro.
+dashboard_packagesmodal_smssend === SMS zipu
+default_footerquote_obama === Ịbụ abụghị maka ịbịarute ebe ma ọ bụ imezu ebumnuche ụfọdụ. M na-ahụ ya kama dị ka ngagharị aga n'ihu, ụzọ e si agbasa, ụzọ isi ruo n'ihu n'ihu n'ebe onwe onye ka mma. Njem ahụ anaghị akwụsị.
+widgets_editcontact_loader === Ịchekwa mgbanwe kọntaktị
+widgets_addgroup_loader === Ịmepụta ntinye otu ọhụrụ
+widgets_editgroup_loader === Ịchekwa otu mgbanwe
+widgets_addapikey_loader === Ịmepụta igodo API ọhụrụ
+widgets_editapikey_loader === Mgbanwe igodo API na-echekwa
+widgets_addwebhook_title === Tinye Webhook
+widgets_addwebhook_loader === Ịmepụta nko webụ ọhụrụ
+widgets_addwebhook_requireevents === Ihe omume enweghị ike ịbụ ihe efu!
+widgets_editwebhook_loader === Ịchekwa mgbanwe webhook
+widgets_addhook_loader === Ịmepụta ihe nko ọhụrụ
+widgets_edithook_loader === Ịchekwa omume nko na-agbanwe
+widgets_addautoreply_loader === Ịmepụta omume nzaghachi akpaaka ọhụrụ
+widgets_editautoreply_loader === Ịchekwa mgbanwe omume nzaghachi akpaaka
+widgets_addtemplate_loader === Ịmepụta ndebiri ozi ọhụrụ
+widgets_edittemplate_loader === Mgbanwe ndebiri ichekwa
+widgets_adminbuilder_loader === Na-echekwa ntọala ndị nrụpụta
+widgets_adminsettings_loader === Ịchekwa ntọala sistemụ
+widgets_admintheme_loader === Ịchekwa ntọala isiokwu
+widgets_adduser_loader === Ịmepụta akaụntụ onye ọrụ ọhụrụ
+widgets_edituser_loader === Agbanwe akaụntụ onye ọrụ na-echekwa
+widgets_addrole_loader === Ịmepụta ọrụ onye ọrụ ọhụrụ
+widgets_addrole_title === Tinye ọrụ
+widgets_editrole_loader === Ịchekwa ọrụ onye ọrụ na-agbanwe
+widgets_addpackage_loader === Ịmepụta ngwugwu sistemụ ọhụrụ
+widgets_editpackage_loader === Mgbanwe ngwungwu na-echekwa
+widgets_addvoucher_loader === Ịmepụta akwụkwọ ikike ọhụrụ
+widgets_addsubscription_loader === Ịmepụta ndenye aha onye ọrụ ọhụrụ
+widgets_addwidgets_loader === Ịmepụta wijetị ọhụrụ
+widgets_editwidget_loader === Mgbanwe ngwaọrụ ichekwa
+widgets_addpage_loader === Ịmepụta ibe ọhụrụ
+widgets_editpage_loader === Ịchekwa mgbanwe ibe
+widgets_addpush_title === Pịa Mgbasa ozi
+widgets_addpush_loader === Ịma ọkwa ntinye mgbasa ozi
+widgets_addpush_requiretitle === Aha enweghị ike ịbụ ihe efu!
+widgets_addpush_requiremessage === Ozi enweghị ike ịbụ ihe efu!
+widgets_addnotify_title === Gwa Mgbasa Ozi
+widgets_addnotify_loader === Ịgbasa ozi dị ndụ
+widgets_addnotify_requiretitle === Aha enweghị ike ịbụ ihe efu!
+widgets_addnotify_requiremessage === Ozi enweghị ike ịbụ ihe efu!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Na-eziga ozi email
+widgets_addmailer_requiretitle === Aha enweghị ike ịbụ ihe efu!
+widgets_addlanguage_loader === Na-agbakwụnye asụsụ ọhụrụ
+widgets_editlanguage_loader === Ịchekwa mgbanwe asụsụ
+widgets_addgateway_title === Tinye ọnụ ụzọ ámá
+widgets_addgateway_loader === Na-agbakwụnye ọnụ ụzọ ámá ọhụrụ
+widgets_addgateway_requirename === Aha ọnụ ụzọ ámá enweghị ike ịbụ ihe efu!
+widgets_editgateway_title === Dezie Gateway
+widgets_editgateway_loader === Ịchekwa mgbanwe ọnụ ụzọ ámá
+widgets_editgateway_requirename === Aha ọnụ ụzọ ámá enweghị ike ịbụ ihe efu!
+widgets_addshortener_title === Tinye Shortener
+widgets_addshortener_loader === Na-agbakwunye ọhụrụ shortener
+widgets_addshortener_requirename === Aha Shortener enweghị ike ịbụ ihe efu!
+widgets_editshortener_title === Dezie Shortener
+widgets_editshortener_loader === Ịchekwa mgbanwe shortener
+widgets_editshortener_requirename === Aha Shortener enweghị ike ịbụ ihe efu!
+widgets_editplugin_loader === Itinye mgbanwe ngwa mgbakwunye na sistemu
+widgets_updateplugin_title === Melite ngwa mgbakwunye
+widgets_updateplugin_loader === Na-emelite ngwa mgbakwunye
+device_backgroundpage_line1 === Gbaa n'azụ
+device_backgroundpage_line2 === Kedu ihe kpatara ngwa Gateway kwesịrị iji na-agba ọsọ n'azụ?
+device_backgroundpage_line3 === Ngwa ahụ chọrọ ịgba ọsọ n'azụ iji nọgide na-ege ntị maka ozi ọhụrụ izipu na ịnata, nke a dịkwa mkpa iji hazie ọkwa ọhụrụ. Ọ bụrụ na ịchọghị ọkwa, ị nwere ike gbanyụọ nke a na ntọala ngwa, ịkwụsị ya ga-akwụsị sistemụ ịnata data ngosi site na ngwaọrụ ahụ.
+device_backgroundpage_line4 === Ọ bụrụ na ị nwere ngwa nchekwa ndị ọzọ dị ka Avast, Eset na ndị ọzọ. Biko tinye ngwa gateway na ewepu ya.
+device_backgroundpage_line5 === Biko gụọ ntuziaka kwesịrị ekwesị maka akara ekwentị gị n'ime ndepụta ndị a.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Nchekwa batrị
+device_backgroundpage_line8 === 1. Mepee Ntọala.
+device_backgroundpage_line9 === 2. Họrọ "batrị & arụmọrụ".
+device_backgroundpage_line10 === 3. Họrọ "Họrọ ngwa".
+device_backgroundpage_line11 === 4. Chọta _8880_ wee họrọ "Enweghị ihe mgbochi" na ntọala ndabere.
+device_backgroundpage_line12 === Kpọchie ngwa
+device_backgroundpage_line13 === 1. Pịa bọtịnụ NchNhr iji tinye ibe nso nso a.
+device_backgroundpage_line14 === 2. Họrọ kaadị _8880_ ma kpochie ya.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Nchekwa batrị
+device_backgroundpage_line17 === 1. Mepee Ntọala.
+device_backgroundpage_line18 === 2. Họrọ ntọala di elu.
+device_backgroundpage_line19 === 3. Họrọ njikwa batrị.
+device_backgroundpage_line20 === 4. Họrọ ngwa echedoro.
+device_backgroundpage_line21 === 5. Chọta _8880_ ma gbanye mgba ọkụ.
+device_backgroundpage_line22 === Ọ bụrụ na emelitere ụdị EMUI n'oge na-adịbeghị anya, ọ dịghị mkpa ịme mgbanwe na Ntọala.
+device_backgroundpage_line23 === Kpọchie ngwa
+device_backgroundpage_line24 === 1. Pịa bọtịnụ menu, tinye ibe nso nso a.
+device_backgroundpage_line25 === 2. Wetuo ala _8880_ ruo mgbe akara ngosi pụtara.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Nchekwa batrị
+device_backgroundpage_line28 === 1. Kpatụ Smart Manager.
+device_backgroundpage_line29 === 2. Họrọ batrị wee pịa ka itinye ibe ntọala.
+device_backgroundpage_line30 === 3. Kpatụ ngwa anaghị elele, chọta _8880_ wee pịa ịbanye.
+device_backgroundpage_line31 === 4. Kpatụ batrị wee pịa Kwalite ojiji batrị.
+device_backgroundpage_line32 === 5. Họrọ ngwa niile, chọta _8880_ ma gbanyụọ mgba ọkụ.
+device_backgroundpage_line33 === Kpọchie ngwa
+device_backgroundpage_line34 === 1. Kpatụ bọtịnụ NchNhr wee tinye ibe mmemme mepere nso nso a.
+device_backgroundpage_line35 === 2. Kpatụ akara ngosi ndị ọzọ ka ịhọrọ mkpọchi ngwa.
+device_backgroundpage_line36 === 3. Kpatụ akara ngosi mkpọchi nke _8880_.
+device_backgroundpage_line37 === 4. Kpatụ Emela ya ka ịmechaa ihe ahụ.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Kpọchie ngwa
+device_backgroundpage_line40 === 1. Sịchaa elu n'akụkụ aka ekpe nke Ihuenyo mbu ka ịbanye "N'oge na-adịbeghị anya".
+device_backgroundpage_line41 === 2. Pịa ma jide _8880_ ruo mgbe akara mkpọchi pụtara.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Nchekwa batrị
+device_backgroundpage_line44 === 1. Mepee Settings wee pịa batrị.
+device_backgroundpage_line45 === 2. Kpatụ ike nchekwa.
+device_backgroundpage_line46 === 3. Chọta _8880_ iji gbanyụọ ndabere ndabere na njikarịcha ngwa ndị na-adịghị mma.
+device_backgroundpage_line47 === Ọ bụrụ na ịnweghị ike ịtọ mgbe ịmechara usoro ndị a, nwaa ihe ndị a:
+device_backgroundpage_line48 === 1. Mepee njikwa ekwentị ma chọta Ọdịnaya dị ọcha.
+device_backgroundpage_line49 === 2. Kpatụ ka ịgbakwunye ngwa.
+device_backgroundpage_line50 === 3. Tinye akara _8880_ wee pịa OK.
+device_backgroundpage_line51 === Kpọchie ngwa
+device_backgroundpage_line52 === 1. Pịa bọtịnụ menu, tinye ibe nso nso a.
+device_backgroundpage_line53 === 2. Wetuo ala _8880_ ruo mgbe akara ngosi pụtara.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Nchekwa batrị
+device_backgroundpage_line56 === 1. Mepee Manager wee kpatụ ike njikwa.
+device_backgroundpage_line57 === 2. Họrọ ike Backstage.
+device_backgroundpage_line58 === 3. Chọta _8880_ ma gbanye mgba ọkụ.
+device_backgroundpage_line59 === Kpọchie ngwa
+device_backgroundpage_line60 === 1. Pịa bọtịnụ menu, tinye ibe nso nso a.
+device_backgroundpage_line61 === 2. Wetuo ala _8880_ ruo mgbe akara ngosi pụtara.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Nchekwa batrị
+device_backgroundpage_line64 === 1. Mepee njikwa ekwentị.
+device_backgroundpage_line65 === 2. Kpatụ njikarịcha ojiji batrị ngwa.
+device_backgroundpage_line66 === 3. Chọta _8880_ ma gbanyụọ mgba ọkụ.
+device_backgroundpage_line67 === Kpọchie ngwa
+device_backgroundpage_line68 === 1. Pịa bọtịnụ NchNhr ugboro abụọ, tinye ibe na-adịbeghị anya.
+device_backgroundpage_line69 === 2. Pịa ma jide _8880_ ruo mgbe akara pushpin pụtara.
+device_backgroundpage_line70 === Ụdị ndị ọzọ
+device_backgroundpage_line71 === 1. Kpọchie _8880_ ngwa na nso nso a.
+device_backgroundpage_line72 === 2. Tinye _8880_ na ewepu.
+device_backgroundpage_line73 === 3. Ọ bụrụ na ị tinyela njikwa mmalite ọzọ, wepụ _8880_ na listi ngọngọ ya.
+dashboard_adminmarketing_pushbtndesc === Mgbasa ozi ịkwanye ngwaọrụ
+dashboard_adminmarketing_notifybtndesc === Mgbasa ozi ihe nchọgharị nye ndị ọrụ
+dashboard_adminmarketing_mailerbtndesc === Ziga ndị ọrụ nnukwu email
+js_loader_pleasewait === Biko chere
+js_userstatus_online === Online
+js_userstatus_offline === Na-anọghị n'ịntanetị
+js_whatsapp_linksuccess === Ejikọtala akaụntụ WhatsApp nke ọma!
+js_whatsapp_linkfailed === Njikọ akaụntụ WhatsApp adaghị!
+js_whatsapp_linkexist === Ejikọtala WhatsApp na akaụntụ gị!
+js_whatsapp_loaderprocessing === Nhazi arịrịọ
+js_clearpending_title === Kpochapụ echere?
+js_clearpending_desc === A ga-ehichapụ ma hichapụ ihe niile na-echere izipu!
+js_clearpending_processing === Nhazi arịrịọ
+js_authenticate_processing === Nhazi arịrịọ
+js_actiontrigger_title === Simulate Webhook
+js_actiontrigger_typetitle === Ụdị data
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === ngosi
+js_actiontrigger_loader === Na-eme emume webhook
+js_actiontranslator_title === Onye ntụgharị asụsụ
+js_actiontranslator_from === Tụgharịa asụsụ site na
+js_actiontranslator_to === Tụgharịa asụsụ ka ọ bụrụ
+js_actiontranslator_loader === Ozi ntụgharị asụsụ
+js_actionregen_title === Megharịa Token Sistemu?
+js_actionregen_desc === Ịmepụta akara ngosi sistemụ ọhụrụ enweghị ike ịtụgharị!
+js_actionregen_loader === Na-emepụta akara
+js_actionclear_title === Kpochapụ cache?
+js_actionclear_desc === A ga-ehichapụ data cache sistemu niile!
+js_processing_dataloader === Nhazi arịrịọ
+js_build_title === Mepụta ngwa ngwa ọhụrụ?
+js_build_desc === Biko hụ na ị haziela ntọala onye nrụpụta gị nke ọma!
+js_build_btnbuild === wuo
+js_reorder_title === Hazie asụsụ?
+js_reorder_desc === A ga-ahazigharị asụsụ, enweghị ike ịmegharị nke a!
+js_deletetrash_title === Hichapụ ihe?
+js_deletetrash_desc === Ị chọrọ ihichapụ ihe ahọpụtara?
+js_tablesexport_copy === Klipbọọdụ
+js_tablesexport_excel === Mbupụ Excel
+js_tablesexport_pdf === Mbupụ PDF
+mail_expiredtpl_line1 === Ndewo ebe ahụ,
+mail_expiredtpl_line2 === Ị nwetala ozi a n'ihi na ndenye aha ngwungwu adịchaghị gị emebiela!
+mail_expiredtpl_line3 === Ewepula ndenye aha gị. Ka ịdenye aha ọzọ na ngwungwu ọ bụla adịchaghị, gaa na saịtị anyị.
+mail_expiredtpl_line4 === Maka ajụjụ na nsogbu, biko egbula oge ịkpọtụrụ anyị!
+mail_expiredtpl_line5 === Daalụ!
+mail_expiringtpl_line1 === Ndewo ebe ahụ,
+mail_expiringtpl_line2 === Nke a bụ ihe ncheta enyi na enyi ndebanye aha ngwugwu adịchaghị arụ ọrụ ga-agwụ n'ime ụbọchị 5!
+mail_expiringtpl_line3 === Iji gbochie nkwụsị ọrụ, biko echefula ịdenye aha ọzọ na ngwungwu ọ bụla. Biko gaa na saịtị anyị ịtụ ahịa ọzọ.
+mail_expiringtpl_line4 === Maka ajụjụ na nsogbu, biko egbula oge ịkpọtụrụ anyị!
+mail_expiringtpl_line5 === Daalụ!
+mail_failedtpl_line1 === Ndewo ebe ahụ,
+mail_failedtpl_line2 === Anyị enweghị ike hazie azụmahịa ịkwụ ụgwọ gị, biko nwaa ọzọ site na iji onye na-eweta ma ọ bụ usoro ịkwụ ụgwọ dị iche.
+mail_failedtpl_line3 === NJ ịkwụ ụgwọ:
+mail_failedtpl_line4 === Ndo maka mgbaka ahụ.
+mail_forgottpl_line1 === Ndewo ebe ahụ,
+mail_forgottpl_line2 === Anyị enwetala arịrịọ iweghachi akaụntụ maka akaụntụ gị, biko jiri paswọọdụ nwa oge a ka ịbanye:
+mail_forgottpl_line3 === Echefula ịgbanwe paswọọdụ gị mgbe ịbanyechara!
+mail_forgottpl_line4 === Okwuntughe ga-ekubi ume ka nkeji iri gachara, mee ngwa ngwa. Ọ bụrụ na ị rịọghị nke a, biko leghara email a anya.
+mail_forgottpl_line5 === Daalụ! Olileanya na ọ ga-arụ ọrụ.
+mail_payoutpaidtpl_line1 === Ndewo ebe ahụ,
+mail_payoutpaidtpl_line2 === Ndị otu anyị ezipụla arịrịọ ịkwụ ụgwọ gị na adreesị gị yana ndị na-eweta ịkwụ ụgwọ ahọpụtara.
+mail_payoutpaidtpl_line3 === Ọnụ ego:
+mail_payoutpaidtpl_line4 === Mmefu obi ụtọ!
+mail_payoutrejecttpl_line1 === Ndewo ebe ahụ,
+mail_payoutrejecttpl_line2 === Anyị enweghị ike ịhazi arịrịọ ịkwụ ụgwọ gị, enwere ike inwe esemokwu na adreesị ịkwụ ụgwọ gị. Biko kpọtụrụ ndị otu anyị ka ịmatakwu.
+mail_payoutrejecttpl_line3 === Ọnụ ego:
+mail_payoutrejecttpl_line4 === Ndo maka mgbaka ahụ.
+mail_subscribetpl_line1 === Ndewo ebe ahụ,
+mail_subscribetpl_line2 === Daalụ maka ịdenye aha na otu ngwungwu adịchaghị anyị, nke a bụ obere azụrụ gị:
+mail_subscribetpl_line3 === _8880_ ngwugwu
+mail_subscribetpl_line4 === Ndebanye aha a ga-agwụ ma _8880_
+mail_subscribetpl_line5 === Nke a ga-amalite ozugbo. Maka ajụjụ na nsogbu, biko egbula oge ịkpọtụrụ anyị!
+mail_subscribetpl_line6 === Daalụ!
+requests_build_submitrequest === Nhazi arịrịọ
+requests_reorder_loader === Nhazi arịrịọ
+requests_deleteitem_loader === Nhazi arịrịọ
+requests_packageform_invalidint === Ogige ụfọdụ nwere ọnụọgụgụ na-ezighi ezi!
+widgets_viewbank_title === Nyefee ụlọ akụ
+modal_paymentbtn_banktransfer === Nyefee ụlọ akụ
+modal_adminsettings_banktransfer1 === Template Nyefee ụlọ akụ
+modal_adminsettings_banktransfer2 === Ọ bụrụ na ị nyere aka nyefe ụlọ akụ na nhọrọ ịkwụ ụgwọ, ị kwesịrị ịmepụta template maka ya, nke a bụ ihe ndị ọrụ ga-ahụ mgbe ha pịrị bọtịnụ. Ị nwere ike itinye ntuziaka na adreesị ụlọ akụ ebe a. HTML nabatara.
+modal_adminsettings_banktransfer3 === Ntọala mgbanwe ị nwere ike iji na ndebiri mbufe ụlọ akụ.
+requests_delete_pluginssuccess === Ebichapụla ngwa mgbakwunye nke ọma!
+table_whatsappreceived_chattitle === Kpaa nkata
+table_whatsappreceived_accounttitle === Akaụntụ
+tabs_whatsappaccounts_titleheader === WhatsApp Akaụntụ
+form_editwhatsapp_randominterval === Ogologo oge izipu random
+form_editwhatsapp_randomintervalhelp === Ọ bụrụ na agbanyere ya, a ga-eziga nkata na nkeji oge na-enweghị usoro n'etiti ụkpụrụ abụọ. Ị nwere ike hazie ha n'okpuru.
+form_editwhatsapp_randommin === Zipu nkeji nkeji
+form_editwhatsapp_randomminhelp === Oge izipu kacha nta n'ime sekọnd.
+form_editwhatsapp_randommax === Zipu oge kacha
+form_editwhatsapp_randommaxhelp === Ogologo oge izipu kacha na sekọnd.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Dezie WhatsApp
+widgets_editwhatsapp_loader === Ịchekwa mgbanwe akaụntụ whatsapp
+mail_waunlink_title === Ejikọtala akaụntụ WhatsApp gị!
+mail_waunlink_contentline1 === Ndewo ebe ahụ!
+mail_waunlink_contentline2 === Ewepula otu akaụntụ WhatsApp gị ejikọrọ site na iji NJ pụrụ iche:
+mail_waunlink_contentline3 === Ejikọtaghị akaụntụ a na sistemụ anyị n'ihi mmemme metụtara WhatsApp, biko jikọta ya ọzọ.
+mail_waunlink_contentline4 === Daalụ!
+table_contactsunsubscribed_idtitle === NJ
+table_contactsunsubscribed_phonetitle === Ekwentị
+form_btnall_visitlink === Gaa leta
+unsubscribe_header_title === Wepụ aha
+unsubscribe_content_title === Edebanyeghị aha
+unsubscribe_content_desc === Ịhapụla ndenye aha na ndetu izipu anyị.
+requests_editwhatsapp_success === Emelitela akaụntụ WhatsApp!
+form_addusertpl_credits === Ebe e si nweta
+form_addusertpl_creditsdesc === Mmalite kredit maka akaụntụ onye ọrụ a.
+form_addusertpl_creditsdesc2 === Gbanwee kredit nke akaụntụ onye ọrụ a.
+form_registerconfirm_desc === Ekwenyela adreesị email gị nke ọma. Ị nwere ike ịbanye na akaụntụ gị site na iji bọtịnụ dị n'okpuru.
+requests_loginnotverified_response === ekwenyebeghị adreesị ozi-e akaụntụ gị. Anyị ezipụla njikọ nkwenye na adreesị a: _8880_
+requests_loginnotverified_response2 === Edebanyela akaụntụ gị nke ọma. Tupu ị nwee ike iji ya, ị ga-achọ ịchọpụta adreesị ozi-e gị. Anyị ezipụla njikọ nkwenye na adreesị a: _8880_
+requests_loginnotverified_responseunable === Anyị enweghị ike izipu nkwenye email ahụ!
+requests_loginnotverified_emailtitle === Nnọọ na _8880_! Kwadoro adreesị ozi-e nke akaụntụ gị ebe a.
+requests_loginnotverified_emaildesc1 === Ndewo ebe ahụ!
+requests_loginnotverified_emaildesc2 === Daalụ maka ịmepụta akaụntụ gị na anyị, biko chọpụta adreesị email gị site na ịga na njikọ a:
+requests_loginnotverified_emaildesc3 === Daalụ!
+form_adminsettings_authredi === Ntuziaka ntụgharị
+form_adminsettings_authredidesc === Họrọ ọnọdụ ntụgharị ka emechara nke ọma.
+form_adminsettings_authredihomepage === Ibe mbụ
+form_adminsettings_authredidashboard === Dashboard
+form_adminsettings_defaultcoun === Obodo mbụ
+form_adminsettings_defaultcoundesc === Mba ahọpụtara ahọpụtara n'ụdị ndebanye aha onye ọrụ.
+form_adminsettings_defaulttimezo === Mpaghara oge izizi
+form_adminsettings_defaulttimezodesc === Mpaghara oge ahọpụtara nke ọma n'ụdị ndebanye aha onye ọrụ.
+form_adminsettings_mailingtrig === Ihe na-akpalite nzipu ozi
+form_adminsettings_mailingtrigdesc === Họrọ ihe na-akpalite nzipu ozi ka ị nwee ike.
+form_adminsettings_adminemail === Email onye nchịkwa
+form_adminsettings_adminemaildesc === A ga-eziga ozi kpalitere maka onye nchịkwa na adreesị ozi-e a. Ozi ndị a dị naanị na bekee na enweghị ike ịtụgharị asụsụ ya.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Mgbe enyere ya aka, a ga-egosi recaptcha na ụdị nyocha dị ka aha, nbanye na paswọọdụ chefuru.
+form_editdevice_receiveoptiontitle === Anata SMS
+form_editdevice_receiveoptiondesc === Ọ bụrụ na ọ nwere nkwarụ, ozi sitere na igbe mbata android agaghị echekwa ya site na sistemụ. Webhooks na ngwaọrụ ndị ọzọ metụtara agaghị arụ ọrụ maka ngwaọrụ mgbe nke a nwere nkwarụ.
+form_editwhatsapp_receiveoptiontitle === Nweta nkata
+form_editwhatsapp_receiveoptiondesc === Ọ bụrụ na agbanyụrụ, nkata ndị enwetara na akaụntụ whatsapp agaghị echekwa ya site na sistemụ. Webhooks na ngwaọrụ ndị ọzọ metụtara agaghị arụ ọrụ maka akaụntụ WhatsApp mgbe nke a nwere nkwarụ.
+js_calendarall_option === Ha niile
+js_calendarall_apply === Tinye
+js_calendarall_cancel === Kagbuo
+js_calendarall_from === Site na
+js_calendarall_to === Iji
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Anyị
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === Jenụwarị
+js_calendarall_monfeb === Febụwarị
+js_calendarall_monmar === Maachị
+js_calendarall_monapr === Eprel
+js_calendarall_monmay === Mee
+js_calendarall_monjun === June
+js_calendarall_monjul === Julaị
+js_calendarall_monaug === Ọgọst
+js_calendarall_monsep === Septemba
+js_calendarall_monoct === October
+js_calendarall_monnov === Nọvemba
+js_calendarall_mondec === Disemba
+response_ussddelete_success === Arịrịọ USSD ehichapụla!
+response_titanecho_invaltoken === Njehie nhazi sistemu!
+widgets_addplugin_loader === Ịwụnye ngwa mgbakwunye ọhụrụ na sistemụ

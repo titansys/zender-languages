@@ -20,7 +20,6 @@
 | Igbo | Released | Titan Systems |
 | Italian | Released | Titan Systems |
 | Hebrew | Released | Titan Systems |
-| Chinese | Released | [yxcker](https://codecanyon.net/user/yxcker) |
 
 
 # Translating

@@ -1,0 +1,191 @@
+widgets_addwhatsapp_newmodal === Connect your WhatsApp by clicking the button to display the QRCode then scan it via _8880_ button in the app. You only have 15 seconds to scan the QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ has expired, if your account has been linked, or not, please click the button below.
+widgets_addwhatsapp_newmodal3 === Continue
+widgets_addwhatsapp_newmodal4 === Cancel
+datatable_addedtoclipboard === Added to clipboard
+datatable_addedtoclipboardkeys === Click the copy button to add the displayed rows to clipboard.
+datatable_addedtoclipboardmulti === Rows copied:
+datatable_addedtoclipboardsingle === 1 row copied
+table_details_schedulednewrepeat === Repeat:
+and_edit_dev_line70_1_new === The amount you want to charge per message, device country will be used as the base of currency. Float values are also supported such as cents.
+widget_waquick_requireaccountnew1 === WhatsApp account
+requests_whatsapp_notavail === WhatsApp server is unavailable!
+requests_whatsapp_unablegenqr === Unable to generate WhatsApp QRCode!
+requests_charts_commisionstitle === Commissions
+requests_token_refreshecho === Token for _8880_ has been refreshed!
+requests_remote_smscampaignresumed === SMS campaign has been resumed!
+requests_remote_smscampaignpaused === SMS campaign has been paused!
+requests_remote_wacampaignresumed === WhatsApp campaign has been resumed!
+requests_remote_wacampaignpaused === WhatsApp campaign has been paused!
+requests_create_payoutwithdrawalamountatleast === Withdrawal amount should be at least _8880_ _8881_!
+requests_sms_intervaltypereachedmax === The _8880_ allowed messages has been reached for this device, please try again later!
+requests_sms_encounteredgatewayerror === We encountered a gateway error!
+requests_sms_gatewaycannotsendowndevices === You cannot send messages with credits using your own devices!
+requests_create_encounteredshortenererror === We encountered a shortener error!
+requests_create_campaignnametooshort === Campaign name is too short!
+requests_sms_intervaltypedaily === daily
+requests_sms_intervaltypemonthly === monthly
+requests_sms_reachedmaximumsentpackage === You have reached the maximum sent messages for your current package!
+response_message_bulkqueuednew === _8880_ messages has been queued for sending!
+response_whatsapp_invalidmediafile === Invalid Media File!
+response_whatsapp_atleastonebutt === Please add at least one button!
+response_whatsapp_invalidimagefile === Invalid image file!
+response_whatsapp_listtitlereq === List title is required!
+response_whatsapp_listmenureq === List menu title is required!
+response_whatsapp_listformatreq === List format is required!
+response_whatsapp_listformatinval === List format is invalid!
+response_whatsapp_tempformatreq === Template format is required!
+response_whatsapp_tempformatinval === Template format is invalid!
+response_whatsapp_failedchatsqueue === Failed adding chat to WhatsApp queue!
+response_whatsapp_bulkchatssentcount === _8880_ chats has been queued for sending!
+response_whatsapp_failedchatsqueuemany === Failed adding chats to WhatsApp queue!
+response_whatsapp_nochatsqueuedpacklimit === Sorry, no chats were queued. Please check the sending limit of your package!
+response_whatsapp_successfetchgroups === Successfully fetched _8880_ groups!
+response_whatsapp_nogroupsfoundfetch === No groups were found!
+response_partners_commisionerror === Partner commission percentage cannot be less than 1 and greater than 80!
+response_delete_smsdeletecampaign === SMS campaign has been deleted!
+response_delete_wacampaigndeleted === WhatsApp campaign has been deleted!
+response_delete_wagroupdeleted === WhatsApp group has been deleted!
+table_smscampaign_createdtitle === Created
+table_smscampaign_nametitle === Name
+table_smscampaign_gatewaytitle === Gateway
+table_smscampaign_contactstitle === Contacts
+table_smscampaign_statustitle === Status
+table_smscampaign_optionstitle === Options
+table_campaign_completedstatus === Completed
+table_smscagmpaign_processingstatus === _8880_ of _8881_ processed
+table_campaign_pausecampaign === Pause this campaign
+table_campaign_resumecampaign === Resume this campaign
+table_smsscheduled_lastsendinfo === Last Send
+table_smstransac_createdtitle === Created
+table_smstransac_sendertitle === Sender
+table_smstransac_devicetitle === Device
+table_smstransac_messagetitle === Message
+table_smstransac_earningstitle === Earnings
+table_smstransac_messageremoved === Message has been removed!
+table_wacampaign_createdtitle === Created
+table_wacampaign_nametitle === Name
+table_wacampaign_accounttitle === Account
+table_wacampaign_typetitle === Type
+table_wacampaign_contactstitle === Contacts
+table_wacampaign_statustitle === Status
+table_wacampaign_optionstitle === Options
+table_wacampaign_processingstatus === _8880_ of _8881_ processed
+table_wascheduled_lastsendinfo === Last Send
+table_campaign_pendingstatus === Pending
+table_wagroups_nametitle === Name
+table_wagroups_accounttitle === Account
+table_wagroups_addresstitle === Group Address
+table_wagroups_optionstitle === Options
+table_waaccounts_statustitle === Status
+table_waaccounts_statusconnected === Connected
+table_waaccounts_statusconnecting === Connecting
+table_waaccounts_statusdisconnecting === Disconnecting
+table_waaccounts_statusdisconnected === Disconnected
+table_waaccounts_statuserror === Error
+table_waaccounts_copyaccountid === Copy Account ID
+table_android_brandtitle === Brand
+table_android_partnertitle === Partner
+table_android_statustitle === Status
+table_android_statusonline === Online
+table_android_statusoffline === Offline
+table_android_copydeviceid === Copy Device Unique ID
+table_partnerrates_devicename === Device Name
+widget_fetchgroups_titlefetch === Fetch Groups
+widget_fetchgroups_loaderfetch === Fetching groups from account
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Refresh the socket communication token. If the system is not displaying any live toast notifications or not updating in realtime, please click this button.
+pages_admin_cachehelp === Clear the entire system cache. Warning! This will also clear caches related to the API, authentication and payment. It is recommended to only do this when upgrading the system.
+pages_admin_themehelp === Modify site template and design.
+pages_admin_systemsettingshelp === Adjust important system settings.
+pages_sms_campaignstab === Campaigns
+pages_sms_partnertransactions === Transactions
+pages_whatsapp_campaignstab === Campaigns
+pages_whatsapp_groupstab === Groups
+forms_repeatdays_title === Repeat Days
+forms_repeatdays_tagline === Enter how many days to wait until repeat sending of message. Enter 365 to repeat every year on the same month, day and time, if not, it will only follow the time. Enter 0 to disable repeat.
+forms_whatsapp_messagetype === Message Type
+forms_whatsapp_messagetypehelp === Select the WhatsApp message type.
+forms_whatsapp_typetext === Text
+forms_whatsapp_typemedia === Media
+forms_whatsapp_typebutton === Button
+forms_whatsapp_typelist === List
+forms_whatsapp_typetemplate === Template
+forms_whatsapp_mediafile === Media File
+forms_whatsapp_mediafilehelp === Media file, the media file to be uploaded. Supports .jpg, .png, .gif and .mp4 files.
+forms_whatsapp_imagefile === Image File
+forms_whatsapp_imagefilehelp === Custom image file, this is optional.
+forms_whatsapp_buttons === Buttons 
+forms_whatsapp_buttonshelp === Custom buttons, the first button is required.
+forms_whatsapp_buttonsplace1 === Button 1
+forms_whatsapp_buttonsplace2 === Button 2 (Optional)
+forms_whatsapp_buttonsplace3 === Button 3 (Optional)
+forms_whatsapp_listtitle === List Title
+forms_whatsapp_listtitlehelp === This is the list title.
+forms_whatsapp_listplacetitle === My List
+forms_whatsapp_listmenutitle === Menu Title
+forms_whatsapp_listmenutitlehelp === This is the menu title.
+forms_whatsapp_listmenutitleplace === Menu Title
+forms_whatsapp_footermessage === Footer Message
+forms_whatsapp_footermessagehelp === Custom footer message, this is optional.
+forms_whatsapp_footermessageplace === This is the footer message...
+forms_whatsapp_listformat === List Format
+forms_whatsapp_listformathelp === This is the list format, supplied json must be valid.
+forms_whatsapp_templateformat === Template Format
+forms_whatsapp_templateformathelp === This is the template format, supplied json must be valid.
+and_settings_line159new === This token must not be shared to anyone. This is used for security of cronjobs, system API, WhatsApp requests and other external requests. If you think, your system token was compromised, please regenerate a new one, you will need to reconfigure your cronjobs, system API and other related settings after regenerating a new token. This will also affect the WhatsApp system, all connected accounts won't work anymore.
+forms_systemsettings_servicestitle === Services
+forms_systemsettings_waserver === WhatsApp Server URL
+forms_systemsettings_waserverhelp === The URL of your WhatsApp server, you need to host this on your own server. Please read the documentation for setup instructions.
+forms_systemsettings_waport === WhatsApp Server Port
+forms_systemsettings_waporthelp === The port of your WhatsApp server, default port is 7001. Please read the documentation for setup instructions.
+forms_systemsettings_messagestitle === Messages
+forms_systemsettings_partnercommission === Partner Commission
+forms_systemsettings_partnercommissionhelp === Percentage of commission you want to deduct from the earnings of partners for each messages sent. This will be your money and will be displayed in the statistics in the admin panel. Percentage must not be less than 1 and greater than 80!
+forms_systemsettings_partnerminimum === Partner Minimum Payout
+forms_systemsettings_partnerminimumhelp === Minimum earnings amount to be able to request for withdrawal. This amount will also use the default system currency which is the same with earnings.
+forms_editdevice_sendinglimittitle === Sending Limit 
+forms_editdevice_limitstatus === Limit Status
+forms_editdevice_limitstatushelp === If enabled, the allowed number of messages that can be sent using this device will be limited per day or month.
+forms_editdevice_limitinterv === Limit Interval
+forms_editdevice_limitintervhelp === Select the type of delay before refreshing the limit counter.
+forms_editdevice_messagecount === Number of Messages
+forms_editdevice_messagecounthelp === The number of messages that can be sent during the limit interval.
+forms_editdevice_limitintervselect1 === Daily
+forms_editdevice_limitintervselect2 === Monthly
+forms_editdevice_partnerstatus === Partner Status
+forms_edituser_clockformat === Clock Format
+forms_edituser_clockformathelp === Select the clock format to use when displaying time anywhere in the system.
+forms_edituser_clockformatselect1 === 12 Hours
+forms_edituser_clockformatselect2 === 24 Hours 
+forms_edituser_dateformat === Date Format
+forms_edituser_dateformathelp === Select the date format to use when displaying date anywhere in the system.
+forms_edituser_dateseparator === Date Separator
+forms_edituser_dateseparatorhelp === Select the date separator to use when displaying date anywhere in the system.
+forms_campagin_formname === Campaign Name
+forms_campagin_formhelp === Campaign name, an activity log will be created for these bulk messages, you will be able to easily stop the sending via the campaign manager.
+forms_campaign_formplaceholder === eg. Sample Campaign
+forms_whatsapp_numbersgroupsname === Numbers or Group Address
+forms_whatsapp_numbersgroupshelp === Multiple E.164 numbers and WhatsApp group addresses separated by line break.
+forms_whatsapp_groupsimportname === WhatsApp Account
+forms_whatsapp_groupsimportnamehelp === Select the whatsapp account where groups will be fetched.
+forms_whatsapp_groupsimportbutton === Fetch
+forms_whatsapp_phonegroupsname === Phone or Group Address
+forms_whatsapp_phonegroupshelp === E.164 recipient phone number or WhatsApp group address.
+pages_administration_commissionstitle === Commissions
+pages_smscampaigns_header === Campaigns
+pages_smstransactions_header === Transactions
+pages_smstransactions_comtagline === All SMS sent using partner devices has a _8880_% transaction fee. This is already deducted in the following table.
+pages_wacampaigns_header === Campaigns
+pages_wagroups_header === Groups
+pages_wagroups_fetchbtn === Fetch Groups
+tables_plugins_noactionsline === No Actions
+plugin_header_selectmethod === Select Payment Method
+title_plugin_paymentpage === Payment Page
+payment_title_pending === Order Pending
+btn_plugin_cancelorderpayment === Cancel Payment
+payment_title_orderfailed === Order Failed
+payment_page_orderfailed === Something went wrong while processing your order request.
+and_rate_gate_3new === _8880_ Rates
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Options

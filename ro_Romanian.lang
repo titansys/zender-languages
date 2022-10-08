@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Panoul Administratorului
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Programat
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Notificări
+and_dashboard_pages_android_line58 === Dispozitive
+and_dashboard_pages_contacts_line40 === Dezabonat
+and_dashboard_pages_defailt_line37 === Tarife Gateway
+and_dashboard_pages_default_line42 === Docs
+and_dashboard_pages_default_line58 === Mesaje
+and_dashboard_pages_default_line60 === Ultimele 7 zile
+and_dashboard_pages_default_line74 === Evenimente
+and_dashboard_pages_default_line76 === Ultimele 7 zile
+and_dashboard_pages_default_line90 === Utilități
+and_dashboard_pages_default_line92 === Ultimele 7 zile
+and_dashboard_pages_default_line109 === Parteneri
+and_dashboard_pages_default_line117 === Câștigurile
+and_dashboard_pages_default_line131 === Plata
+and_dashboard_pages_default_line140 === Echilibru
+and_dashboard_pages_default_line148 === credite
+and_dashboard_pages_default_line162 === Umple
+and_dashboard_pages_default_line170 === Raportul de livrare
+and_dash_pg_def_line178 === Succes
+and_dash_pg_def_line190 === A eșuat
+and_dash_pg_def_line204 === Expeditori
+and_dash_pg_def_line209 === Nu sunteți abonat la niciunul dintre pachetele noastre premium!
+and_dash_pg_def_line217 === Dispozitive
+and_dash_pg_def_line224 === Legat
+and_dash_pg_def_line232 === Conturi
+and_dash_pg_def_line239 === Legat
+and_dash_pg_def_line250 === Descărcați și instalați aplicația noastră oficială pentru a obține cea mai bună experiență de utilizator
+and_dash_pg_doc_line10 === Documente
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhook-uri
+and_dash_pg_doc_line40 === Acțiuni
+and_dash_pg_doc_line46 === Dispozitive
+and_dash_pg_doc_line52 === Parteneriat
+and_dash_pg_for_line29 === Anulare
+and_dash_pg_log_line14 === Logheaza-te cu Facebook
+and_dash_pg_log_line17 === Conectați-vă cu Google
+and_dash_pg_log_line20 === Conectați-vă cu VKontakte
+and_dash_pg_log_line54 === Creează cont
+and_dash_pg_pay_line45 === Am primit cererea dvs. de comandă, sistemul nostru vă va trimite automat un e-mail și va aplica modificările în contul dvs. odată ce tranzacția de plată a fost verificată.
+and_dash_pg_rates_line10 === Tarife Gateway
+and_dash_pg_rates_line39 === Parteneri
+and_dash_pg_reg_line15 === Înregistrează-te pe Facebook
+and_dash_pg_reg_line20 === Înregistrați-vă la Google
+and_dash_pg_reg_line25 === Înregistrați-vă la VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Trimis
+and_dash_pg_whats_line34 === Primit
+and_dash_pg_whats_line40 === Programat
+and_dash_pg_whats_line46 === Conturi
+and_dash_api_line17 === Numele cheii.
+and_dash_api_line19 === de exemplu. Pentru serverul meu
+and_dash_api_line24 === Permisiuni cheie.
+and_dash_auto_line17 === Numele acțiunii.
+and_dash_auto_line19 === de exemplu. Mihai
+and_dash_auto_line24 === Sursă
+and_dash_auto_line24_1 === Sursa evenimentului de primire.
+and_dash_auto_line27 === mesaj
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Răspundeți cuvintelor cheie separate prin virgule. Aceste cuvinte cheie vor declanșa răspunsul automat dacă sunt detectate în conținutul mesajului.
+and_dash_auto_line36 === de exemplu. mulțumesc, bine, abonează-te, da
+and_dash_auto_line41 === Mesajul care trebuie trimis expeditorului.
+and_dash_auto_line43 === de exemplu. Mesajul dvs. de răspuns aici, coduri scurte acceptate
+and_dash_auto_line48 === Set de variabile pe care le poți folosi în mesajul tău.
+and_dash_con_line24 === Numar de contact.
+and_dash_con_line31 === Grup de contact.
+and_dash_con_line17 === Nume de contact.
+and_dash_cre_line28 === Cumpărare
+and_dash_gate_line17 === Nume
+and_dash_gate_line17_1 === Acesta este numele gateway-ului care va fi afișat utilizatorilor dvs.
+and_dash_gate_line19 === de exemplu. Twilio
+and_dash_gate_line24 === Controlor
+and_dash_gate_line24_1 === Selectați fișierul controlerului gateway-ului, acesta va conține logica și codul gateway-ului. Se recomandă verificarea documentației.
+and_dash_gate_line27 === Controller Boilerplate:
+and_dash_gate_line34 === Sună din nou
+and_dash_gate_line34_1 === Dacă este activat, mesajele vor trebui verificate folosind funcția de apel invers a gateway-ului terță parte pentru starea trimiterii, în caz contrar, mesajele vor fi imediat marcate ca trimise la trimitere.
+and_dash_gate_line37 === Permite
+and_dash_gate_line38 === Dezactivați
+and_dash_gate_line44 === ID de apel invers
+and_dash_gate_line44_1 === Dacă apelul invers este activat, trebuie să copiați acest ID și să-l inserați în controler, astfel încât sistemul să poată identifica apelurile.
+and_dash_gate_line47 === Copiați și lipiți pentru ID-ul de apel invers
+and_dash_gate_line54 === Prețuri
+and_dash_gate_line54_1 === Tabelul dvs. personalizat de prețuri pentru acest gateway. Acest lucru vă va permite să percepeți peste prețurile terțelor părți. De exemplu, dacă twilio percepe 0,01 pentru o anumită țară, atunci puteți taxa în schimb 0,02, moneda se bazează pe moneda sistemului dumneavoastră. Vă rugăm să urmați corect formatul de preț.
+and_dash_gate_line57 === Exemplu de preț JSON:
+and_dash_gate_line57_1 === Descarca
+and_dash_grp_line17 === Numele Grupului.
+and_dash_grp_line19 === de exemplu. Prieteni
+and_dash_hook_line17 === Numele acțiunii.
+and_dash_hook_line19 === de exemplu. Acțiune de testare
+and_dash_hook_line24 === Sursă
+and_dash_hook_line24_1 === Sursa evenimentului.
+and_dash_hook_line34 === Selectați evenimentul în care va fi invocat acest cârlig.
+and_dash_hook_line44 === Structura legăturii Hook, aceasta este adresa URL care va fi invocată de sistem. Numai metoda GET este acceptată.
+and_dash_hook_line51 === Set de variabile pe care le puteți utiliza în URL-ul hook.
+and_dash_hook_line27 === mesaj
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === La Trimitere
+and_dash_hook_line38 === La Primire
+and_dash_lang_line17 === Numele limbii.
+and_dash_lang_line19 === de exemplu. coreeană
+and_dash_lang_line24 === Codul tarii.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Dacă este activată, limba va fi identificată ca direcție de la dreapta la stânga.
+and_dash_lang_line38 === da
+and_dash_lang_line39 === Nu
+and_dash_lang_line45 === Șiruri de traducere.
+and_dash_mail_line17 === Titlu
+and_dash_mail_line17_1 === Titlul e-mailului.
+and_dash_mail_line19 === de exemplu. Anunţ
+and_dash_mail_line24 === Utilizatori
+and_dash_mail_line24_1 === Trimite de către utilizatori.
+and_dash_mail_line36 === Roluri
+and_dash_mail_line36_1 === Trimite după roluri.
+and_dash_mail_line48 === Conţinut
+and_dash_mail_line48_1 === Conținut de e-mail, html permis.
+and_dash_mail_line50 === Salut Lume!
+and_dash_not_line17 === Titlu
+and_dash_not_line17_1 === Notifică titlul.
+and_dash_not_line19 === de exemplu. Anunţ
+and_dash_not_line24 === Mesaj
+and_dash_not_line24_1 === Mesaj de notificare.
+and_dash_not_line31 === Culoare
+and_dash_not_line31_1 === Notifică culoarea.
+and_dash_not_line35 === Succes
+and_dash_not_line36 === Avertizare
+and_dash_not_line37 === Pericol
+and_dash_not_line43 === Imagine
+and_dash_not_line43_1 === Notifică imaginea, aceasta este opțională.
+and_dash_not_line46 === Opțional
+and_dash_not_line53 === Utilizatori
+and_dash_not_line53_1 === Difuzat de utilizatori.
+and_dash_not_line65 === Roluri
+and_dash_not_line65_1 === Difuzat pe roluri.
+and_pack_line17 === Numele pachetului.
+and_pack_line19 === de exemplu. Pachet VIP
+and_pack_line24 === Prețul pachetului, acesta ar trebui să urmeze moneda sistemului. Valorile flotante nu sunt permise.
+and_pack_line29 === de exemplu. 25
+and_pack_line34 === Dacă sunt activate, mesajele și chat-urile WhatsApp vor conține un semn de subsol atunci când sunt primite de destinatari.
+and_pack_line44 === Dacă este activat, pachetul va fi ascuns din modalul pachetului și din pagina de pornire.
+and_pack_line58 === Limită de trimitere SMS
+and_pack_line58_1 === Numărul maxim de mesaje care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line60 === de exemplu. 300
+and_pack_line65 === Limită de primire SMS
+and_pack_line65_1 === Numărul maxim de mesaje care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line67 === de exemplu. 150
+and_pack_line72 === Limită USSD
+and_pack_line72_1 === Numărul maxim de ussd care poate fi solicitat de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line74 === de exemplu. 25
+and_pack_line79 === Limită de notificare
+and_pack_line79_1 === Numărul maxim de notificări care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line81 === de exemplu. 1300
+and_pack_line86 === Numărul maxim de dispozitive Android care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
+and_pack_line88 === de exemplu. 25
+and_pack_line92 === Setări WhatsApp
+and_pack_line97 === Numărul maxim de chat-uri care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line99 === de exemplu. 300
+and_pack_line104 === Numărul maxim de chat-uri care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_pack_line106 === de exemplu. 150
+and_pack_line111 === Limită de cont
+and_pack_line111_1 === Numărul maxim de conturi WhatsApp care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
+and_pack_line113 === de exemplu. 10
+and_pack_line117 === Setări de utilitate
+and_pack_line122 === Numărul maxim de contacte care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat.
+and_pack_line124 === de exemplu. 25
+and_pack_line129 === Limită programată
+and_pack_line129_1 === Numărul maxim de mesaje/chaturi programate care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat. Acest lucru este combinat atât pentru sms, cât și pentru whatsapp.
+and_pack_line131 === de exemplu. 25
+and_pack_line136 === Numărul maxim de chei API care pot fi create. Introduceți 0 pentru nelimitat.
+and_pack_line138 === de exemplu. 10
+and_pack_line143 === Numărul maxim de Webhook-uri care pot fi create. Introduceți 0 pentru nelimitat.
+and_pack_line145 === de exemplu. 5
+and_pack_line150 === Limită de acțiuni
+and_pack_line150_1 === Numărul maxim de acțiuni care pot fi create. Introduceți 0 pentru nelimitat.
+and_pack_line152 === de exemplu. 5
+and_page_line17 === Numele paginii.
+and_page_line24 === Numai rolurile selectate vor putea accesa această pagină.
+and_page_line35 === Dacă este activată, pagina nu va fi accesibilă dacă nu sunteți autentificat.
+and_page_line45 === Conținutul paginii. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
+and_payout_line17 === Cantitate
+and_payout_line17_1 === Suma de retras, numai numere întregi.
+and_payout_line19 === de exemplu. 50
+and_payout_line24 === Furnizor
+and_payout_line24_1 === Selectați furnizorul de plăți pe care doriți să îl utilizați pentru a primi banii.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === adresa de plata
+and_payout_line34_1 === Adresa de plată sau e-mailul, vă rugăm să verificați cu atenție pentru a preveni problemele de plată.
+and_payout_line36 === de exemplu. E-mailul dvs. PayPal
+and_payout_line43 === Cerere
+and_plug_line17 === Fișier plugin
+and_plug_line17_1 === Fișier zip de plugin, asigurați-vă că selectați fișierul corect.
+and_push_line17 === Titlu
+and_push_line17_1 === Apăsați titlul.
+and_push_line19 === de exemplu. Anunţ
+and_push_line24 === Imagine
+and_push_line24_1 === Apăsați imaginea în miniatură, aceasta este opțională.
+and_push_line27 === Opțional
+and_push_line34 === Mesaj
+and_push_line34_1 === Push mesaj.
+and_push_line41 === Utilizatori
+and_push_line41_1 === Difuzat de utilizatori.
+and_push_line53 === Roluri
+and_push_line53_1 === Difuzat pe roluri.
+and_role_line17 === Nume rol.
+and_role_line19 === de exemplu. Dezvoltator
+and_role_line24 === Selectați permisiunile și funcțiile pe care doriți să le dezactivați/activați pentru acest rol. Modificările sunt aplicate în timp real, filele de browser ale utilizatorilor conectați cu rolul sunt reîncărcate automat.
+and_short_line17 === Nume
+and_short_line17_1 === Nume de scurtator.
+and_short_line19 === de exemplu. Puțin
+and_short_line24 === Controlor
+and_short_line24_1 === Selectați fișierul controler pentru scurtator, acesta va conține logica și codul pentru scurtator. Se recomandă verificarea documentației.
+and_short_line27 === Controller Boilerplate:
+and_sms_line17 === Numele mesajului programat.
+and_sms_line19 === de exemplu. Mesajul meu
+and_sms_line24 === Selectați data programului.
+and_sms_line26 === de exemplu. 22.06.2020 ora 00:00
+and_sms_line31 === Dacă este activat, mesajul va fi programat de fiecare dată când se potrivește data programată.
+and_sms_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
+and_sms_line55 === Selectați mai multe grupuri de contacte
+and_sms_line67 === Scurtator
+and_sms_line67_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_sms_line70 === Nu scurtați linkurile
+and_sms_line79 === Modul Gateway
+and_sms_line79_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
+and_sms_line82 === Dispozitive
+and_sms_line83 === credite
+and_sms_line88 === Slot pentru card SIM de utilizat.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Șabloanele dvs. de mesaje prefabricate.
+and_sms_line110 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
+and_sms_line121 === Gateway SMS
+and_sms_line121_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
+and_sms_line141 === Spintax
+and_sms_line144 === Exemplu:
+and_sms_line144_1 === Tom este un
+and_sms_line144_2 === pisică
+and_sms_line147 === Valorile
+and_sms_line147_1 === bun
+and_sms_line147_2 === și
+and_sms_line147_3 === rău
+and_sms_line147_4 === vor fi folosite aleatoriu.
+and_subs_line17 === Contul utilizatorului.
+and_subs_line28 === Pachet de abonament.
+and_subs_line41 === Durata abonamentului.
+and_subs_line43 === de exemplu. 12
+and_temp_line17 === Nume șablon.
+and_temp_line24 === Format șablon.
+and_temp_line31 === Spintax
+and_temp_line31_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_temp_line35 === Exemplu:
+and_temp_line35_1 === Tom este un
+and_temp_line35_2 === pisică
+and_temp_line38 === Valorile
+and_temp_line38_1 === bun
+and_temp_line38_2 === rău
+and_temp_line38_3 === vor fi folosite aleatoriu.
+and_temp_line43 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_user_line17 === Tot numele legal.
+and_user_line19 === de exemplu. Michael Cors
+and_user_line24 === Adresă E-mail Validă.
+and_user_line26 === de exemplu. utilizator@mail.com
+and_user_line31 === Introduceți parola de utilizator.
+and_user_line38 === Fusul orar al locației utilizatorului, modificați-l dacă se află într-o altă țară. Fusul orar este utilizat pentru exactitatea datei și orei mesajelor trimise și a altor date.
+and_user_line49 === Țară
+and_user_line49_1 === Țara utilizatorului, aceasta este folosită pentru plăți și formatarea numărului de telefon.
+and_user_line60 === Sunete de notificare
+and_user_line60_1 === Dacă este dezactivată, notificările vor fi silențioase.
+and_user_line70 === Selectați rolul utilizatorului.
+and_user_line81 === Selectați limba utilizatorului.
+and_user_line92 === Programul de parteneriat
+and_user_line92_1 === Dacă este activat, utilizatorul își va putea folosi dispozitivele ca dispozitive globale, ceea ce le va permite să câștige bani atunci când alți utilizatori trimit mesaje folosind dispozitivele lor.
+and_ussd_line17 === Cod USSD
+and_ussd_line17_1 === Cod de solicitare USSD.
+and_ussd_line19 === de exemplu. *121#
+and_ussd_line24 === Slot pentru card SIM de utilizat.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru solicitarea ussd.
+and_ussd_line47 === Cerere
+and_vouch_line17 === Numele voucherului.
+and_vouch_line19 === de exemplu. Special
+and_vouch_line24 === Cantitatea de vouchere pe care doriți să o creați. Valoarea maximă este 1000!
+and_vouch_line26 === de exemplu. 100
+and_vouch_line31 === Durata abonamentului.
+and_vouch_line33 === de exemplu. 12
+and_vouch_line38 === Pachet de abonament.
+and_web_line17 === Numele webhook.
+and_web_line24 === Primiți evenimente
+and_web_line24_1 === Selectați evenimentele de primire de care aveți nevoie, acestea vor fi trimise la adresa URL a hook-ului dvs. web prin metoda POST.
+and_web_line27 === mesaj
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Notificări
+and_web_line36 === Adresa URL a webhook-ului dvs., toate datele de încărcare utilă vor fi trimise aici prin metoda POST.
+and_web_line38 === de exemplu. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Numele chatului programat.
+and_whatssched_line19 === de exemplu. Mesajul meu
+and_whatssched_line24 === Selectați data programului.
+and_whatssched_line26 === de exemplu. 22.06.2020 ora 00:00
+and_whatssched_line31 === Dacă este activat, chatul va fi programat de fiecare dată când se potrivește data programată.
+and_whatssched_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
+and_whatssched_line55 === Selectați mai multe grupuri de contacte
+and_whatssched_line67 === Scurtator
+and_whatssched_line67_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_whatssched_line70 === Nu scurtați linkurile
+and_whatssched_line79 === Cont
+and_whatssched_line79_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
+and_whatsached_line88 === Șabloanele dvs. de mesaje prefabricate.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_whatssched_line107 === Exemplu:
+and_whatssched_line101_1 === Tom este un
+and_whatssched_line107_2 === pisică
+and_whatssched_line110 === Valorile
+and_whatssched_line110_1 === bun
+and_whatssched_line110_2 === și
+and_whatssched_line110_3 === rău
+and_whatssched_line110_4 === vor fi folosite aleatoriu.
+and_whatssched_line115 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_whatssched_line128 === Trimite
+and_whatsapp_line15 === Conectați-vă WhatsApp făcând clic pe butonul pentru a afișa QRCode, apoi scanați-l prin
+and_whatsapp_line15_1 === Conectați un dispozitiv
+and_whatsapp_line15_2 === butonul din aplicație. Aveți doar 60 de secunde pentru a scana codul QRC.
+and_whatsapp_line16 === Conectați contul
+and_add_widget_line17 === Numele widgetului.
+and_add_widget_line24 === Pictograma widget, numai pentru modali. Vă rugăm să vizitați Line Awesome pentru referință la pictograme.
+and_add_widget_line26 === de exemplu. la la-info-circle
+and_add_widget_line31 === Tip widget. Blocurile sunt pentru plasarea în diferite părți ale șabloanelor, modalele sunt pentru conținut dinamic. Începând cu v3, modalele vor funcționa numai în tabloul de bord.
+and_add_widget_line34 === bloc
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Dimensiunea widget-ului, numai pentru modali.
+and_add_widget_line53 === Poziția widgetului, numai pentru modali.
+and_add_widget_line64 === Conținut widget. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
+and_add_widget_line66 === Salut Lume!
+and_admin_build_line16 === Aplicație
+and_admin_build_line21 === Numele pachetului de aplicație, ar trebui să fie unic și să urmeze un format precum com.yourdomain.yourapp, vă recomandăm să urmăriți numele domeniului dvs. pentru a-l face unic.
+and_admin_build_line23 === de exemplu. com.gateway.sample
+and_admin_build_line28 === Numele aplicației, acesta este afișat în sertarul aplicației și în alte părți ale aplicației.
+and_admin_build_line30 === de exemplu. Zender Gateway
+and_admin_build_line35 === Descrierea aplicației, o scurtă descriere a aplicației dvs.
+and_admin_build_line42 === Tema de culoare a aplicației
+and_admin_build_line42_1 === Tema de culoare a aplicației, se recomandă să se potrivească cu logo-ul aplicației și cu culorile imaginii stropite.
+and_admin_build_line44 === de exemplu. #000000
+and_admin_build_line49 === Versiunea APK
+and_admin_build_line_49_1 === Versiunea APK, dacă vă reconstruiți aplicația, vă rugăm să actualizați și acest câmp prin creșterea valorii, dacă valoarea curentă este 1, ar trebui să o creșteți la 2 înainte de a vă crea aplicația. Acest lucru este necesar pentru a declanșa funcția de actualizare în aplicație și va forța utilizatorul să actualizeze.
+and_admin_build_line51 === de exemplu. 1.0
+and_admin_build_line56 === Creați e-mail
+and_admin_build_line_56_1 === E-mailul dvs. valid, vă rugăm să vă asigurați că îl schimbați. Rezultatul construcției va fi trimis la acest e-mail!
+and_admin_build_line58 === de exemplu. myvalidemail@mail.com
+and_admin_build_line62 === Acreditări
+and_admin_build_line67 === Servicii Google
+and_admin_build_line67_1 === Fișierul dvs. json de servicii Google, acesta este necesar pentru tranzacțiile FCM din aplicația gateway.
+and_admin_build_line75 === Acreditări Firebase
+and_admin_build_line75_1 === Fișierul dvs. json de acreditări de administrator Firebase, acesta este necesar pentru a permite sistemului să comunice cu aplicația.
+and_admin_build_line82 === Active
+and_admin_build_line87 === Sigla imaginea aplicației, aceasta este imaginea afișată în antetul aplicației. Dimensiunile recomandate sunt 251x53 in px. Un fundal transparent este mai bine.
+and_admin_build_line95 === Logo de conectare la aplicație
+and_admin_build_line95_1 === Logo-ul imaginii de conectare la aplicație, aceasta este imaginea afișată în modalul de conectare. Dimensiunile recomandate sunt 250x100 px și font închis. Un fundal transparent este mai bine.
+and_admin_build_line103 === Pictograma imagine a aplicației, aceasta este afișată în sertarul de aplicații și în sistemul Android. Dimensiunile recomandate sunt 1024x1024 în format px și png.
+and_admin_build_line111 === Imaginea ecranului de introducere a aplicației, aceasta este afișată atunci când utilizatorul deschide aplicația. Dimensiunile recomandate sunt 2732x2732 în format px și png.
+and_admin_build_line118 === Structura
+and_admin_build_line123 === JavaScript personalizat
+and_admin_build_line123_1 === Dacă doriți să utilizați un cod javascript personalizat, adăugați-l aici. Acesta este încărcat dinamic în aplicație.
+and_admin_build_line125 === de ex., alert('Bună lume!');
+and_admin_build_line130 === CSS personalizat
+and_admin_build_line130_1 === Dacă doriți să utilizați un cod CSS personalizat, adăugați-l aici. Acesta este încărcat dinamic în aplicație.
+and_admin_build_line137 === Aspect personalizat
+and_admin_build_line137_1 === Dacă doriți să utilizați o structură de aplicație personalizată, vă rugăm să modificați conținutul html, dacă nu știți ce faceți, vă rugăm să lăsați valoarea implicită.
+and_admin_build_line139 === Salut Lume!
+and_settings_line21 === Numele site-ului, acesta este afișat oriunde este nevoie de branding.
+and_settings_line23 === de exemplu. Zender
+and_settings_line28 === Descrierea site-ului, aceasta este pentru optimizarea motoarelor de căutare, așa că fiți creativ.
+and_settings_line30 === de exemplu. Acesta este un serviciu minunat de gateway SMS
+and_settings_line35 === Codul dvs. de achiziție envato, acesta este necesar pentru a debloca unele dintre caracteristicile exclusive ale scriptului.
+and_settings_line37 === de exemplu. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Cheia dvs. Google Analytics, aceasta este opțională, deoarece sistemul are deja încorporate statistici privind vizitatorii.
+and_settings_line44 === de exemplu. UA-179148389-1
+and_settings_line49 === Protocolul site-ului dvs., vă rugăm să vă asigurați că l-ați selectat pe cel corect. Dacă site-ul dvs. folosește https, vă rugăm să îl selectați, în caz contrar, selectați http.
+and_settings_line59 === Limba implicită a sistemului, aceasta este utilizată atunci când un utilizator nou vizitează site-ul dvs.
+and_settings_line70 === Dacă este dezactivată, înregistrările prin pagina de înregistrare nu vor fi permise.
+and_settings_line80 === Modul Resetare pachet
+and_settings_line80_1 === Intervalul de resetare a limitelor, cum ar fi trimitere, primire, ussd și notificări. Acest lucru se aplică atât pentru funcțiile Android, cât și pentru WhatsApp. Selecția dvs. aici trebuie să fie aplicată și în configurarea cron.
+and_settings_line83 === Zilnic
+and_settings_line84 === Lunar
+and_settings_line90 === Model gratuit
+and_settings_line90_1 === Dacă este activat, pachetul gratuit implicit este atribuit automat utilizatorului după înregistrare.
+and_settings_line100 === Dacă este dezactivată, pagina de pornire nu va fi utilizată. Toate vizitele din directorul rădăcină vor fi redirecționate către tabloul de bord.
+and_settings_line110 === Widget de chat TAWK
+and_settings_line110_1 === Dacă este activat, widgetul tawk chat va apărea utilizatorilor.
+and_settings_line120 === Link-ul widget-ului dvs. de chat tawk, acesta este necesar dacă doriți să utilizați suportul de chat tawk.
+and_settings_line127 === Admin API
+and_settings_line127_1 === Selectați punctele finale API de administrare pe care doriți să le activați. Se recomandă să activați numai punctele finale de care aveți nevoie.
+and_settings_line159 === Acest simbol nu trebuie să fie distribuit nimănui. Acesta este folosit pentru securitatea cronjob-urilor, a API-ului de sistem și a altor solicitări externe. Dacă credeți că tokenul dvs. de sistem a fost compromis, vă rugăm să regenerați unul nou, va trebui să vă reconfigurați cronjob-urile, API-ul de sistem și alte setări aferente după regenerarea unui nou token.
+and_settings_line160 === Regenera
+and_settings_line173 === Dacă doriți să utilizați serverul de e-mail încorporat, vă rugăm să selectați nativ, în caz contrar, selectați smtp apoi configurați acreditările de e-mail.
+and_settings_line183 === Protocolul smtp de utilizat, vă rugăm să selectați protocolul acceptat de serverul dvs. de e-mail la distanță.
+and_settings_line193 === E-mailul site-ului, acesta este numele de e-mail afișat destinatarilor, se recomandă utilizarea noreply@yoursite.com în scopuri de branding.
+and_settings_line195 === de exemplu. noreply@domain.com
+and_settings_line200 === Adresa gazdă a serverului smtp la distanță.
+and_settings_line205 === de exemplu. smtp.gmail.com
+and_settings_line210 === Portul serverului smtp de la distanță.
+and_settings_line215 === de exemplu. 587
+and_settings_line220 === Numele de utilizator al serverului smtp de la distanță.
+and_settings_line225 === de exemplu. nume de utilizator@gmail.com
+and_settings_line230 === Parola serverului dvs. smtp de la distanță.
+and_settings_line235 === Parola contului tău Gmail
+and_settings_line244 === E-mailul dvs. de afaceri paypal.
+and_settings_line246 === de exemplu. mail@domain.com
+and_settings_line251 === Dacă este activată, toate tranzacțiile paypal vor fi redirecționate în modul sandbox.
+and_settings_line261 === Cheia ta mollie api.
+and_settings_line263 === de exemplu. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Moneda de sistem de utilizat, aceasta va fi folosită ca bază la conversia tranzacțiilor în USD.
+and_settings_line279 === Selectați furnizorii de plată pe care doriți să îi utilizați.
+and_settings_line293 === Caractere minime pentru mesaje. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp.
+and_settings_line295 === de exemplu. 5
+and_settings_line300 === Maxim de caractere pentru mesaje. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp. Introduceți 0 pentru caractere infinite.
+and_settings_line302 === de exemplu. 300
+and_settings_line307 === Marca subsolul mesajului, acesta este atașat mesajelor dacă pachetul lor are marcajul subsolului activat.
+and_settings_line309 === de exemplu. Trimis de la Zender System
+and_settings_line318 === Numărul implicit de rânduri de afișat în tabelul cu mesaje trimise. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp.
+and_settings_line320 === de exemplu. 10
+and_settings_line325 === Numărul implicit de rânduri de afișat în tabelul cu mesaje primite. Acest lucru este valabil atât pentru SMS-uri, cât și pentru WhatsApp.
+and_settings_line327 === de exemplu. 10
+and_settings_line336 === Dacă este activat, vizitatorii se vor putea autentifica folosind conturile lor de rețele sociale.
+and_settings_line346 === Selectați furnizorii de rețele sociale pe care doriți să îi utilizați.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === identificator Facebook
+and_settings_line357_1 === ID-ul aplicației Facebook, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line359 === de exemplu. 738812983731558
+and_settings_line364 === Secretul Facebook
+and_settings_line364_1 === Secretul aplicației Facebook, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line366 === de exemplu. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === ID Google
+and_settings_line371_1 === ID-ul aplicației Google, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line373 === de exemplu. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Secret
+and_settings_line378_1 === Secretul aplicației Google, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line380 === de exemplu. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === ID-ul VK
+and_settings_line385_1 === ID-ul aplicației vkontakte, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line387 === de exemplu. 7768236
+and_settings_line392 === Secretul VK
+and_settings_line392_1 === Secretul aplicației vkontakte, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line394 === de exemplu. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Dacă este activat, recaptcha va fi afișat și în pagina de conectare. Vă rugăm să vă asigurați că ați configurat cheia recaptcha și secretul recaptcha înainte de a activa această funcție, altfel nu vă veți putea autentifica!
+and_settings_line413 === Cheia recaptcha, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line415 === de exemplu. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Secretul recaptcha, vă rugăm să citiți documentația pentru mai multe informații.
+and_settings_line422 === de exemplu. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Light
+and_theme_line17_1 === Imagine ușoară a siglei, aceasta este afișată în pagina de pornire și paginile de autentificare atunci când elementul de fundal este întunecat. Dimensiunea recomandată este de 250 x 50 px.
+and_theme_line23 === Logo Dark
+and_theme_line223_1 === Imagine de logo întunecată, aceasta este afișată în pagina principală și paginile de autentificare atunci când elementul de fundal este deschis. Dimensiunea recomandată este de 250 x 50 px.
+and_theme_line29 === Imagine favicon site, aceasta este afișată în fila browser. Dimensiunea recomandată este 50x50 px.
+and_theme_line35 === Imagine de fundal
+and_theme_line35_1 === Imagine de fundal a site-ului, aceasta este afișată peste tot. Se recomandă utilizarea unei imagini de înaltă rezoluție.
+and_theme_line41 === Selectați tema de culoare pe care doriți să o utilizați pentru site.
+and_theme_line46 === Selectați culoarea de evidențiere a textelor.
+and_theme_line51 === Culoare Spinner
+and_theme_line51_1 === Selectați culoarea pe care doriți să o utilizați pentru spinnerul ajax de sus.
+and_theme_line58 === JavaScript personalizat
+and_theme_line58_1 === Dacă doriți să utilizați un cod javascript personalizat, adăugați-l aici. Acesta este încărcat dinamic în fiecare pagină.
+and_theme_line60 === Salut Lume!
+and_theme_line63 === CSS personalizat
+and_theme_line63_1 === Dacă doriți să schimbați unele stiluri CSS, o puteți face aici.
+and_apikey_line17 === Numele cheii.
+and_apikey_line19 === de exemplu. Pentru serverul meu
+and_apikey_line24 === Permisiuni cheie.
+and_edit_auto_line17 === Numele acțiunii.
+and_edit_auto_line19 === de exemplu. Răspuns automat
+and_edit_auto_line24 === Sursă
+and_edit_auto_line24_1 === Sursa evenimentului de primire.
+and_edit_auto_line34 === Răspundeți cuvintelor cheie separate prin virgule. Aceste cuvinte cheie vor declanșa răspunsul automat dacă sunt detectate în conținutul mesajului.
+and_edit_auto_line36 === de exemplu. mulțumesc, bine, abonează-te, da
+and_edit_auto_line41 === Mesajul care trebuie trimis expeditorului.
+and_edit_auto_line43 === de exemplu. Mesajul dvs. de răspuns aici, coduri scurte acceptate
+and_edit_auto_line48 === Set de variabile pe care le poți folosi în mesajul tău.
+and_edit_con_line17 === Nume de contact.
+and_edit_con_line19 === de exemplu. Mihai
+and_edit_con_line24 === Numar de contact.
+and_edit_con_line31 === Grup de contact.
+and_edit_dev_line16 === Detalii despre dispozitiv
+and_edit_dev_line21 === Nume dispozitiv.
+and_edit_dev_line23 === de exemplu. Aparatul meu
+and_edit_dev_line28 === Dacă este activat, mesajele vor fi trimise la intervale aleatorii între 2 valori. Le puteți configura mai jos.
+and_edit_dev_line38 === Intervalul minim în secunde.
+and_edit_dev_line41 === de exemplu. 5
+and_edit_dev_line46 === Intervalul maxim în secunde.
+and_edit_dev_line49 === de exemplu. 20
+and_edit_dev_line53 === Setări de notificare
+and_edit_dev_line58 === Aplicații
+and_edit_dev_line58_1 === Introduceți numele pachetelor aplicațiilor de la care doriți să primiți notificări. Separați-le prin întreruperi de linie.
+and_edit_dev_line65 === Setări pentru parteneri
+and_edit_dev_line70 === Rată
+and_edit_dev_line70_1 === Suma pe care doriți să o percepeți pe mesaj, țara dispozitivului va fi folosită ca bază de monedă. Sunt acceptate valorile flotante, cum ar fi cenți.
+and_edit_dev_line73 === de exemplu. 0,50
+and_edit_dev_line78 === Stare globală
+and_edit_dev_line78_1 === Dacă este dezactivat, dispozitivul nu va fi disponibil ca gateway global de sms și nu veți câștiga bani. Vă rugăm să rețineți că dispozitivele globale nu pot primi mesaje din motive de securitate.
+and_edit_dev_line89 === Țară
+and_edit_dev_line89_1 === Țara dispozitivului, este folosit pentru a determina numerele de telefon și ca monedă de bază a câmpului de tarife.
+and_edit_dev_line101 === Prioritate
+and_edit_dev_line101_1 === Mesajele globale vor fi trimise mai întâi înaintea propriilor dvs. mesaje.
+and_edit_dev_line112 === Sloturi SIM
+and_edit_dev_line112_1 === Selectați sloturile sim pe care doriți să le utilizați pentru trimitere, dacă le selectați pe ambele, mesajele vor fi trimise în slot aleatoriu.
+and_edit_email_line16 === Șablon de e-mail
+and_edit_email_line18 === HTML permis
+and_edit_gate_line17 === Nume
+and_edit_gate_line17_1 === Acesta este numele gateway-ului care va fi afișat utilizatorilor dvs.
+and_edit_gate_line19 === de exemplu. Twilio
+and_edit_gate_line24 === Controlor
+and_edit_gate_line24_1 === Selectați fișierul controlerului gateway-ului, acesta va conține logica și codul gateway-ului. Se recomandă verificarea documentației.
+and_edit_gate_line31 === Sună din nou
+and_edit_gate_line31_1 === Dacă este activat, mesajele vor trebui verificate folosind funcția de apel invers a gateway-ului terță parte pentru starea trimiterii, în caz contrar, mesajele vor fi imediat marcate ca trimise la trimitere.
+and_edit_gate_line34 === Permite
+and_edit_gate_line35 === Dezactivați
+and_edit_gate_line41 === ID de apel invers
+and_edit_gate_line41_1 === Dacă apelul invers este activat, trebuie să copiați acest ID și să-l inserați în controler, astfel încât sistemul să poată identifica apelurile.
+and_edit_gate_line44 === Copiați și lipiți pentru ID-ul de apel invers
+and_edit_gate_line51 === Prețuri
+and_edit_gate_line51_1 === Tabelul dvs. personalizat de prețuri pentru acest gateway. Acest lucru vă va permite să percepeți peste prețurile terțelor părți. De exemplu, dacă twilio percepe 0,01 pentru o anumită țară, atunci puteți taxa în schimb 0,02, moneda se bazează pe moneda sistemului dumneavoastră. Vă rugăm să urmați corect formatul de preț.
+and_edit_gate_line54 === Exemplu de preț JSON:
+and_edit_gate_line54_1 === Descarca
+and_edit_grp_line17 === Numele Grupului.
+and_edit_grp_line19 === de exemplu. Prieteni
+and_edit_hook_line17 === Numele acțiunii.
+and_edit_hook_line19 === de exemplu. Acțiune de testare
+and_edit_hook_line24 === Sursă
+and_edit_hook_line24_1 === Sursa evenimentului.
+and_edit_hook_line27 === mesaj
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Selectați evenimentul în care va fi invocat acest cârlig.
+and_edit_hook_line37 === La Trimitere
+and_edit_hook_line38 === La Primire
+and_edit_hook_line44 === Structura legăturii Hook, aceasta este adresa URL care va fi invocată de sistem. Numai metoda GET este acceptată.
+and_edit_hook_line51 === Set de variabile pe care le puteți utiliza în URL-ul hook.
+and_edit_lang_line17 === de exemplu. coreeană
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === da
+and_edit_lang_line33 === Nu
+and_edit_pack_line17 === Numele pachetului.
+and_edit_pack_line19 === de exemplu. Pachet VIP
+and_edit_pack_line24 === Prețul pachetului, acesta ar trebui să urmeze moneda sistemului. Valorile flotante nu sunt permise.
+and_edit_pack_line29 === de exemplu. 25
+and_edit_pack_line34 === Dacă sunt activate, mesajele și chat-urile WhatsApp vor conține un semn de subsol atunci când sunt primite de destinatari.
+and_edit_pack_line44 === Dacă este activat, pachetul va fi ascuns din modalul pachetului și din pagina de pornire.
+and_edit_pack_line53 === Setări Android
+and_edit_pack_line58 === Limită de trimitere SMS
+and_edit_pack_line58_1 === Numărul maxim de mesaje care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line60 === de exemplu. 300
+and_edit_pack_line65 === Limită de primire SMS
+and_edit_pack_line65_1 === Numărul maxim de mesaje care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line67 === de exemplu. 150
+and_edit_pack_line72 === Limită USSD
+and_edit_pack_line72_1 === Numărul maxim de ussd care poate fi solicitat de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line74 === de exemplu. 25
+and_edit_pack_line79 === Limită de notificare
+and_edit_pack_line79_1 === Numărul maxim de notificări care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line81 === de exemplu. 1300
+and_edit_pack_line86 === Numărul maxim de dispozitive Android care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
+and_edit_pack_line88 === de exemplu. 25
+and_edit_pack_line92 === Setări WhatsApp
+and_edit_pack_line97 === Numărul maxim de chat-uri care pot fi trimise de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line99 === de exemplu. 300
+and_edit_pack_line104 === Numărul maxim de chat-uri care pot fi primite de utilizator înainte de resetare. Introduceți 0 pentru nelimitat.
+and_edit_pack_line106 === de exemplu. 150
+and_edit_pack_line111 === Limită de cont
+and_edit_pack_line111_1 === Numărul maxim de conturi WhatsApp care pot fi conectate la contul utilizatorului. Introduceți 0 pentru nelimitat.
+and_edit_pack_line113 === de exemplu. 10
+and_edit_pack_line117 === Setări de utilitate
+and_edit_pack_line122 === Numărul maxim de contacte care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat.
+and_edit_pack_line124 === de exemplu. 25
+and_edit_pack_line129 === Limită programată
+and_edit_pack_line129_1 === Numărul maxim de mesaje/chaturi programate care pot fi salvate de utilizator. Introduceți 0 pentru nelimitat. Acest lucru este combinat atât pentru sms, cât și pentru whatsapp.
+and_edit_pack_line131 === de exemplu. 25
+and_edit_pack_line136 === Numărul maxim de chei API care pot fi create. Introduceți 0 pentru nelimitat.
+and_edit_pack_line138 === de exemplu. 10
+and_edit_pack_line143 === Numărul maxim de Webhook-uri care pot fi create. Introduceți 0 pentru nelimitat.
+and_edit_pack_line145 === de exemplu. 5
+and_edit_pack_line150 === Limită de acțiuni
+and_edit_pack_line150_1 === Numărul maxim de acțiuni care pot fi create. Introduceți 0 pentru nelimitat.
+and_edit_pack_line152 === de exemplu. 5
+and_edit_page_line17 === Numele paginii.
+and_edit_page_line24 === Numai rolurile selectate vor putea accesa această pagină.
+and_edit_page_line35 === Dacă este activată, pagina nu va fi accesibilă dacă nu sunteți autentificat.
+and_edit_page_line45 === Conținutul paginii. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
+and_edit_role_line17 === Nume rol.
+and_edit_role_line19 === de exemplu. Dezvoltator
+and_edit_role_line24 === Selectați permisiunile și funcțiile pe care doriți să le dezactivați/activați pentru acest rol. Modificările sunt aplicate în timp real, filele de browser ale utilizatorilor conectați cu rolul sunt reîncărcate automat.
+and_edit_short_line17 === Nume
+and_edit_short_line17_1 === Nume de scurtator.
+and_edit_short_line19 === de exemplu. Puțin
+and_edit_short_line24 === Controlor
+and_edit_short_line24_1 === Selectați fișierul controler pentru scurtator, acesta va conține logica și codul pentru scurtator. Se recomandă verificarea documentației.
+and_edit_sms_line17 === Numele mesajului programat.
+and_edit_sms_line19 === de exemplu. Mesajul meu
+and_edit_sms_line24 === Selectați data programului.
+and_edit_sms_line26 === de exemplu. 22.06.2020 ora 00:00
+and_edit_sms_line31 === Dacă este activat, mesajul va fi programat de fiecare dată când se potrivește data programată.
+and_edit_sms_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
+and_edit_sms_line55 === Selectați mai multe grupuri de contacte
+and_edit_sms_line67 === Modul Gateway
+and_edit_sms_line67_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
+and_edit_sms_line70 === Dispozitive
+and_edit_sms_line71 === credite
+and_edit_sms_line76 === Slot pentru card SIM de utilizat.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
+and_edit_sms_line99 === Gateway SMS
+and_edit_sms_line99_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Exemplu:
+and_edit_sms_line122_1 === Tom este un
+and_edit_sms_line122_2 === pisică
+and_edit_sms_line125 === Valorile
+and_edit_sms_line125_1 === bun
+and_edit_sms_line125_2 === și
+and_edit_sms_line125_3 === rău
+and_edit_sms_line125_4 === vor fi folosite aleatoriu.
+and_edit_temp_line17 === Nume șablon.
+and_edit_temp_line24 === Format șablon.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_edit_temp_line35 === Exemplu:
+and_edit_temp_line35_1 === Tom este un
+and_edit_temp_line35_2 === pisică
+and_edit_temp_line38 === Valorile
+and_edit_temp_line38_1 === bun
+and_edit_temp_line38_2 === și
+and_edit_temp_line38_3 === rău
+and_edit_temp_line38_4 === vor fi folosite aleatoriu.
+and_edit_temp_line43 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_eduse_line17 === Numele dvs. legal complet, vă rugăm să rețineți că utilizarea unui nume fals poate duce la suspendarea contului.
+and_eduse_line19 === de exemplu. Michael Cors
+and_eduse_line24 === Adresă de e-mail validă, ignorați acest câmp dacă doriți să păstrați adresa de e-mail curentă.
+and_eduse_line26 === de exemplu. utilizator@mail.com
+and_eduse_line31 === Dacă doriți să păstrați parola curentă, vă rugăm să ignorați acest câmp, în caz contrar, introduceți o nouă parolă.
+and_eduse_line38 === Fusul orar al locației dvs., modificați-l dacă vă aflați într-o altă țară. Fusul orar este utilizat pentru exactitatea datei și a orei mesajelor trimise și a altor date.
+and_eduse_line49 === Țară
+and_eduse_line49_1 === Țara dvs., aceasta este folosită pentru plăți și formatarea numărului de telefon.
+and_eduse_line60 === Sunete de notificare
+and_eduse_line60_1 === Dacă este dezactivată, notificările vor fi silențioase.
+and_eduse_line70 === Selectați rolul utilizatorului.
+and_eduse_line81 === Selectați limba utilizatorului.
+and_eduse_line92 === Programul de parteneriat
+and_eduse_line92_1 === Dacă este activat, utilizatorul își va putea folosi dispozitivele ca dispozitive globale, ceea ce le va permite să câștige bani atunci când alți utilizatori trimit mesaje folosind dispozitivele lor.
+and_edweb_line17 === Numele webhook.
+and_edweb_line24 === Primiți evenimente
+and_edweb_line24_1 === Selectați evenimentele de primire de care aveți nevoie, acestea vor fi trimise la adresa URL a hook-ului dvs. web prin metoda POST.
+and_edweb_line30 === Notificări
+and_edweb_line36 === Adresa URL a webhook-ului dvs., toate datele de încărcare utilă vor fi trimise aici prin metoda POST.
+and_edweb_line38 === de exemplu. https://yourdomain.com/reply.php
+and_edwhat_line17 === Numele chatului programat.
+and_edwhat_line19 === de exemplu. Mesajul meu
+and_edwhat_line24 === Selectați data programului.
+and_edwhat_line26 === de exemplu. 22.06.2020 ora 00:00
+and_edwhat_line31 === Dacă este activat, chatul va fi programat de fiecare dată când se potrivește data programată.
+and_edwhat_line42 === Mai multe numere E.164 separate prin întrerupere de linie.
+and_edwhat_line55 === Selectați mai multe grupuri de contacte
+and_edwhat_line67 === Cont
+and_edwhat_line67_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
+and_edwhat_line76 === Șabloanele dvs. de mesaje prefabricate.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_edwhat_line95 === Exemplu:
+and_edwhat_line95_1 === Tom este un
+and_edwhat_line95_2 === pisică
+and_edwhat_line98 === Valorile
+and_edwhat_line98_1 === bun
+and_edwhat_line98_2 === și
+and_edwhat_line98_3 === rău
+and_edwhat_line98_4 === vor fi folosite aleatoriu.
+and_edwhat_line103 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_edwhat_line116 === Trimite
+and_edwid_line17 === Numele widgetului.
+and_edwid_line24 === Pictograma widget, numai pentru modali. Vă rugăm să vizitați Line Awesome pentru referință la pictograme.
+and_edwid_line31 === Tip widget. Blocurile sunt pentru plasarea în diferite părți ale șabloanelor, modalele sunt pentru conținut dinamic. Începând cu v3, modalele vor funcționa numai în tabloul de bord.
+and_edwid_line34 === bloc
+and_edwid_line35 === Modal
+and_edwid_line41 === Dimensiunea widget-ului, numai pentru modali.
+and_edwid_line53 === Poziția widgetului, numai pentru modali.
+and_edwid_line64 === Conținut widget. Toate etichetele html sunt permise, aveți grijă când adăugați scripturi din surse necunoscute!
+and_import_line17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
+and_import_line20 === Exemplu de fișier:
+and_import_line20_1 === Descarca
+and_package_line36 === Primire SMS
+and_package_line41 === Trimite WhatsApp
+and_package_line46 === Primire WhatsApp
+and_package_line51 === USSD
+and_package_line56 === Notificări
+and_package_line61 === SMS/Chaturi programate
+and_package_line66 === Contacte
+and_package_line71 === Chei API
+and_package_line76 === Webhook-uri
+and_package_line81 === Acțiuni
+and_package_line86 === Dispozitive Android
+and_package_line91 === Conturi WhatsApp
+and_redeem_line18 === Valorificați codul.
+and_redeem_line20 === de exemplu. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Mai multe numere E.164 separate prin întrerupere de linie. Doar 1 mesaj va fi trimis la un număr chiar dacă ați selectat grupuri în care a fost adăugat.
+and_sms_bulk_31 === Selectați mai multe grupuri de contacte. Doar un mesaj va fi trimis unui contact chiar dacă ați selectat mai multe grupuri în care a fost adăugat.
+and_sms_bulk_43 === Scurtator
+and_sms_bulk_43_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_sms_bulk_46 === Nu scurtați linkurile
+and_sms_bulk_55 === Modul Gateway
+and_sms_bulk_55_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
+and_sms_bulk_58 === Dispozitive
+and_sms_bulk_59 === credite
+and_sms_bulk_64 === Slot pentru card SIM de utilizat.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Dacă sunt activate, aceste mesaje vor fi trimise înainte de orice altceva.
+and_sms_bulk_81 === Șabloanele dvs. de mesaje prefabricate.
+and_sms_bulk_94 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
+and_sms_bulk_105 === Gateway SMS
+and_sms_bulk_105_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi
+and_sms_bulk_126 === Traduceți mesajul.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_sms_bulk_135 === Exemplu:
+and_sms_bulk_143 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_sms_exe17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
+and_sms_exe20 === Exemplu de fișier:
+and_sms_exe20_1 === Descarca
+and_sms_exe27 === Scurtator
+and_sms_exe27_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_sms_exe30 === Nu scurtați linkurile
+and_sms_exe39 === Modul Gateway
+and_sms_exe39_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
+and_sms_exe42 === Dispozitive
+and_sms_exe43 === credite
+and_sms_exe47 === Șabloanele dvs. de mesaje prefabricate.
+and_sms_exe60 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
+and_sms_exe70 === Gateway SMS
+and_sms_exe70_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
+and_sms_exe92 === Traduceți mesajul.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_sms_exe109 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_sms_quick17 === Numărul de telefon al destinatarului.
+and_sms_quick24 === Modul Gateway
+and_sms_quick24_1 === Modul gateway pe care doriți să îl utilizați. Dacă alegeți dispozitive, dispozitivele dvs. conectate vor fi afișate pentru trimitere, în caz contrar, vor fi afișate gateway-uri terță parte și partener.
+and_sms_quick27 === Dispozitive
+and_sms_quick28 === credite
+and_sms_quick34 === Scurtator
+and_sms_quick34_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_sms_quick37 === Nu scurtați linkurile
+and_sms_quick46 === Slot pentru card SIM de utilizat.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Dacă sunt activate, aceste mesaje vor fi trimise înainte de orice altceva.
+and_sms_quick66 === Dispozitivele dvs. conectate, alegeți ce doriți să utilizați pentru trimitere.
+and_sms_quick77 === Gateway SMS
+and_sms_quick77_1 === Gateway-uri terțe și partenere, creditele dvs. vor fi utilizate atunci când trimiteți mesaje folosind aceste gateway-uri. Vă recomandăm să verificați prețurile gateway-ului înainte de a le folosi.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_sysup17 === Actualizați fișierul
+and_sysup17_1 === Actualizați fișierul zip, asigurați-vă că selectați fișierul corect.
+and_upplug17 === Actualizați fișierul
+and_upplug17_1 === Actualizați fișierul zip, asigurați-vă că selectați fișierul corect.
+and_uset17 === Imaginea avatarului dvs. de profil.
+and_uset24 === Numele dvs. legal complet, vă rugăm să rețineți că utilizarea unui nume fals poate duce la suspendarea contului.
+and_uset26 === de exemplu. Michael Shmuck
+and_uset31 === Adresa dvs. de e-mail validă, ignorați acest câmp dacă doriți să păstrați adresa de e-mail actuală.
+and_uset33 === de exemplu. yourmail@mail.com
+and_uset38 === Fusul orar al locației dvs., modificați-l dacă vă aflați într-o altă țară. Fusul orar este utilizat pentru exactitatea datei și a orei mesajelor trimise și a altor date.
+and_uset49 === Țară
+and_uset49_1 === Țara dvs., aceasta este folosită pentru plăți și formatarea numărului de telefon.
+and_uset60 === Sunete de notificare
+and_uset60_1 === Dacă este dezactivată, notificările vor fi silențioase.
+and_uset70 === Dacă doriți să păstrați parola actuală, vă rugăm să ignorați acest câmp, în caz contrar, introduceți noua parolă.
+and_usub23 === Valabil până la
+and_usub28 === Trimitere SMS
+and_usub34 === Primire SMS
+and_usub40 === Trimite WhatsApp
+and_usub46 === Primire WhatsApp
+and_usub57 === USSD
+and_usub63 === Notificări
+and_usub69 === SMS/Chaturi programate
+and_usub98 === Acțiuni
+and_usub104 === Dispozitive Android
+and_usub110 === Conturi WhatsApp
+and_view20 === Vizualizare completă
+and_whatsbulk_18 === Mai multe numere E.164 separate prin întrerupere de linie.
+and_whatsbulk_31 === Selectați mai multe grupuri de contacte. Vă rugăm să rețineți că, dacă un contact are mai multe grupuri, mesajul i-ar putea fi trimis de mai multe ori dacă selectați grupurile în care a fost inclus.
+and_whatsbulk_43 === Scurtator
+and_whatsbulk_43_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_whatsbulk_46 === Nu scurtați linkurile
+and_whatsbulk_55 === Cont
+and_whatsbulk_55_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
+and_whatsbulk_64 === Șabloanele dvs. de mesaje prefabricate.
+and_whatsbulk_79 === Traduceți mesajul.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_whatsbulk_96 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_whatex17 === Fișierul excel pe care doriți să îl importați, asigurați-vă că urmați formatul necesar.
+and_whatex20 === Exemplu de fișier:
+and_whatex20_1 === Descarca
+and_whatex27 === Scurtator
+and_whatex27_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_whatex30 === Nu scurtați linkurile
+and_whatex39 === Cont
+and_whatex39_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
+and_whatex48 === Șabloanele dvs. de mesaje prefabricate.
+and_whatex63 === Traduceți mesajul.
+and_whatex68 === Spintax
+and_whatex68_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_whatex80 === Set de variabile pe care le puteți utiliza în mesajele dvs.
+and_whatquick_17 === E.164 numărul de telefon al destinatarului.
+and_whatquick_24 === Scurtator
+and_whatquick_24_1 === Dacă este activată, legăturile din mesaje vor fi scurtate automat folosind scurtatorul selectat.
+and_whatquick_27 === Nu scurtați linkurile
+and_whatquick_36 === Cont
+and_whatquick_36_1 === Selectați contul WhatsApp pe care doriți să îl utilizați.
+and_whatquick_50 === Traduceți mesajul.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === O caracteristică care vă permite să randomizați cuvintele din mesajele dvs., ceea ce previne eficient detectarea spamului.
+and_admin_api_3 === Administrare API
+and_admin_fileman_3 === Editor de șabloane
+and_admin_gate_3 === Gateway-uri SMS
+and_admin_gate_8 === Adăugați Gateway
+and_admin_lang_6 === Reordonați limbile
+and_admin_mark_3 === Marketing
+and_admin_mark_6 === Ștergeți elementele selectate
+and_admin_mark_12 === Apăsaţi
+and_admin_mark_17 === Notifică
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Solicitări de plată
+and_admin_short_3 === Scurtatori
+and_admin_short_8 === Adăugați scurtator
+and_admin_subs_8 === Adăugați abonament
+and_admin_vouch_6 === Ștergeți elementele selectate
+and_droid_dev_3 === Dispozitive Android
+and_droid_dev_6 === Citiți documentația
+and_droid_dev_8 === Docs
+and_droid_dev_11 === Aplicați pentru a fi un furnizor de gateway partener
+and_droid_dev_13 === Parteneriat
+and_droid_dev_16 === Înregistrați un nou dispozitiv Android
+and_droid_not_3 === Notificări
+and_droid_not_6 === Ștergeți elementele selectate
+and_droid_rev_3 === SMS primit
+and_droid_rev_6 === Ștergeți mesajele selectate
+and_droid_sched_6 === Ștergeți elementele selectate
+and_droid_sent_3 === SMS trimis
+and_droid_sent_6 === Ștergeți elementele selectate
+and_droid_sent_10 === Ștergeți toate mesajele în așteptare
+and_droid_sent_14 === Trimite SMS rapid
+and_droid_sent_16 === Rapid
+and_droid_sent_19 === Trimiteți SMS-uri în vrac
+and_droid_sent_21 === În vrac
+and_droid_sent_24 === Trimiteți SMS-uri în vrac prin Excel
+and_droid_ussd_3 === Cereri USSD
+and_droid_ussd_6 === Ștergeți elementele selectate
+and_droid_ussd_10 === Ștergeți toate solicitările în așteptare
+and_droid_ussd_14 === Noua solicitare USSD
+and_droid_ussd_16 === Cerere
+and_con_grp_6 === Ștergeți elementele selectate
+and_con_grp_10 === Adăugați un nou grup de contacte
+and_con_sav_6 === Ștergeți elementele selectate
+and_con_sav_10 === Adăugați un contact nou
+and_con_sav_15 === Importă contacte din fișierul Excel
+and_con_unsub_3 === Dezabonat
+and_con_unsub_6 === Ștergeți elementele selectate
+and_doc_act_3 === Acțiuni
+and_doc_api_3 === Documentația API
+and_doc_dev_3 === Dispozitive
+and_doc_partner_3 === Parteneriat
+and_doc_webhook_3 === Webhook-uri
+and_rate_gate_3 === Tarife
+and_rate_gate_10 === Țară
+and_rate_gate_11 === Rata pe mesaj
+and_rate_gate_22 === Alte țări
+and_rate_partner_3 === Tarife pentru parteneri
+and_tool_act_3 === Acțiuni
+and_tool_act_6 === Citiți documentația
+and_tool_act_8 === Docs
+and_tool_act_11 === Adăugați o nouă acțiune de cârlig
+and_tool_act_13 === Cârlig
+and_tool_act_16 === Adăugați o nouă acțiune de răspuns automat
+and_tool_act_18 === Răspuns automat
+and_tool_key_6 === Citiți documentația
+and_tool_key_8 === Docs
+and_tool_key_11 === Creați o nouă cheie API
+and_tool_webhook_6 === Citiți documentația
+and_tool_webhook_8 === Docs
+and_what_accnt_6 === Conectați un cont nou
+and_what_accnt_8 === Adaugă cont
+and_what_attach_8 === Ștergeți mesajele selectate
+and_what_rev_3 === Chat-uri primite
+and_what_rev_6 === Ștergeți elementele selectate
+and_what_sched_6 === Ștergeți elementele selectate
+and_what_sched_12 === Programați chat
+and_what_sent_3 === Chat-uri trimise
+and_what_sent_6 === Ștergeți elementele selectate
+and_what_sent_10 === Trimiteți chat rapid
+and_what_sent_12 === Rapid
+and_what_sent_15 === Trimiteți chat-uri în bloc
+and_what_sent_17 === În vrac
+and_what_sent_20 === Trimiteți conversații în bloc prin Excel
+and_def_f_blck_6 === Începeți Marketingul
+and_def_f_blck_7 === Să începem și să dezvoltăm afaceri împreună, înregistrați-vă acum și experimentați o platformă de marketing de înaltă calitate!
+and_def_f_blck_8 === Alăturaţi-ne
+and_def_f_blck_35 === Intrați în legătură
+and_head_blck_21 === Acasă
+and_head_blck_24 === Caracteristici
+and_head_blck_27 === Prețuri
+and_head_blck_30 === Clienții
+and_head_blck_39 === Bord
+and_head_blck_42 === Deconectare
+and_pages_default_8 === Marketing prin SMS și WhatsApp la cel mai bun mod
+and_pages_default_29 === Mesaje SMS
+and_pages_default_31 === Utilizați dispozitivele Android ca gateway SMS, aceasta este efectiv mai ieftină decât utilizarea gateway-urilor terțe.
+and_pages_default_40 === Mesaje WhatsApp
+and_pages_default_42 === Utilizați WhatsApp pentru campaniile dvs. de marketing, platforma noastră vă oferă instrumentele pentru a vă ajuta să începeți.
+and_pages_default_51 === Instrumente intuitive
+and_pages_default_53 === Vă oferim instrumentele pentru a vă ajuta cu sarcinile dvs. de marketing, cum ar fi răspunsul automat, webhook-urile și multe altele.
+and_pages_default_62 === A castiga bani
+and_pages_default_64 === Deveniți unul dintre partenerii noștri și folosiți dispozitivele dvs. Android ca gateway și câștigați bani pentru fiecare mesaj trimis.
+and_pages_default_73 === De ce să folosiți serviciul nostru?
+and_pages_default_74 === Iată câteva motive pentru care ar trebui să începeți să utilizați serviciul nostru
+and_pages_default_84 === Trimitere rapidă și în vrac
+and_pages_default_86 === Trimiteți cu ușurință o mulțime de mesaje către diferite grupuri de contact și, de asemenea, puteți trimite mesaje rapide pentru tranzacții rapide. Platforma noastră include, de asemenea, un tablou de bord live, primiți notificări când mesajele dvs. sunt trimise sau primite!
+and_pages_default_89 === Shortcodes
+and_pages_default_89_1 === pentru a vă compune mesajele cu date predefinite.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === pentru randomizarea setului de cuvinte pentru a lupta împotriva problemelor de spam.
+and_pages_default_91 === Traducător
+and_pages_default_91_1 === pentru a viza publicul pe baza limbilor lor.
+and_pages_default_98 === Instrumente automate și inteligente
+and_pages_default_100 === Gestionează-ți afacerea în timp ce noi ne ocupăm de munca murdară, platforma noastră este inteligentă și are nevoie doar de mesajele pe care vrei să le trimiți, apoi ne ocupăm de restul!
+and_pages_default_103 === Programa
+and_pages_default_103_1 === chat-urile dvs. prin SMS și WhatsApp la orice dată doriți.
+and_pages_default_104 === Webhook-uri
+and_pages_default_104_1 === pentru automatizarea unor sarcini atunci când primiți mesaje atât de la sms, cât și de la whatsapp.
+and_pages_default_105 === Acțiuni
+and_pages_default_105_1 === pentru crearea răspunsului automat și verificarea rapidă a datelor despre evenimente.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === pentru a face cereri legate de rețea, cum ar fi verificarea soldului de la operator.
+and_pages_default_107 === Notificări
+and_pages_default_107_1 === de la dispozitivele Android conectate pot fi utilizate și pentru sarcini automate.
+and_pages_default_137 === Vă garantăm succesul afacerii prin caracteristicile noastre strategice
+and_pages_default_139 === Platforma noastră este bine concepută pentru a răspunde cerințelor afacerilor de marketing în continuă creștere, dorim să ne asigurăm că fiecare cent pe care l-ați cheltuit pentru serviciul nostru este bine meritat și vă oferă 100% satisfacție!
+and_pages_default_145 === Ușor de utilizat și platformă fluidă
+and_pages_default_148 === Accesibil, dar menține servicii de calitate
+and_pages_default_156 === Instrumente intuitive și tablou de bord
+and_pages_default_159 === Experiență rapidă și fără întârzieri în timp ce vă comercializați produsele
+and_pages_default_171 === Tariful serviciului
+and_pages_default_187 === Trimitere SMS
+and_pages_default_194 === Primire SMS
+and_pages_default_201 === Trimite WhatsApp
+and_pages_default_208 === Primire WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === Notificări
+and_pages_default_229 === SMS/Chaturi programate
+and_pages_default_236 === Contacte
+and_pages_default_243 === Chei API
+and_pages_default_250 === Webhook-uri
+and_pages_default_257 === Acțiuni
+and_pages_default_264 === Dispozitive Android
+and_pages_default_271 === Conturi WhatsApp
+and_pages_default_287 === Clienții noștri
+and_pages_default_290 === Peste 3.000 de clienți au încredere. Începeți să vă comercializați produsele și să vă dezvoltați afacerea cu noi!
+landing_title_default === Dispozitive mobile Android ca Gateway SMS
+landing_nav_login === Loghează-te
+landing_lead_desc === Utilizați planul de sms nelimitat al furnizorului dvs. de rețea, o soluție ieftină și rentabilă pentru marketing, sms-uri în vrac și proiecte în țara dvs. Utilizați WhatsApp pentru o acoperire și mai mare a publicului, platforma noastră oferă instrumentele complete pentru a vă ajuta să începeți.
+landing_footer_ourcomp === Out Company
+landing_footer_about === Despre
+landing_footer_tos === Termenii serviciului
+landing_footer_privacy === Politica de Confidențialitate
+landing_footer_links === Link-uri de site
+landing_footer_login === Loghează-te
+landing_footer_register === Inscrie-te
+landing_footer_copyright === Toate drepturile rezervate
+dashboard_title_default === Bord
+dashboard_title_contacts === Contacte
+dashboard_title_tools === Instrumente
+dashboard_title_admin === Administrare
+dashboard_nav_default === Bord
+dashboard_nav_contacts === Contacte
+dashboard_nav_tools === Instrumente
+dashboard_nav_menusubscription === Abonament
+dashboard_nav_menusettings === Setări
+dashboard_nav_menulogout === Deconectare
+dashboard_btn_addcontact === Adaugă contact
+dashboard_btn_adddevice === Adăugați dispozitiv
+dashboard_btn_addgroup === Adăugare grup
+dashboard_btn_addtemplate === Adăugați șablon
+dashboard_btn_addkey === Adăugați cheia
+dashboard_btn_addhook === Adăugați Webhook
+dashboard_btn_build === Construi
+dashboard_btn_buildsettings === Setări
+dashboard_btn_settings === Sistem
+dashboard_btn_theme === Temă
+dashboard_btn_adduser === Adăugați utilizator
+dashboard_btn_addpackage === Adăugați pachet
+dashboard_btn_addwidget === Adăugați widget
+dashboard_btn_addlanguage === Adăugați limba
+dashboard_footer_about === Despre
+dashboard_footer_terms === Termenii serviciului
+dashboard_footer_privacy === Politica de Confidențialitate
+dashboard_footer_copyright === Toate drepturile rezervate
+dashboard_messages_menusent === Trimis
+dashboard_messages_menureceived === Primit
+dashboard_messages_menutemplates === Șabloane
+dashboard_messages_tabreceivedtitle === Mesaje primite
+dashboard_messages_tabtemplatestitle === Șabloane
+dashboard_messages_tablesentrecipient === Destinatar
+dashboard_messages_tablesentmessage === Mesaj
+dashboard_messages_tablesentcreated === Creată
+dashboard_messages_tablesentoptions === Opțiuni
+dashboard_messages_tablereceivedsender === Expeditor
+dashboard_messages_tablereceivedmessage === Mesaj
+dashboard_messages_tablereceivedreceived === Primit
+dashboard_messages_tablereceivedoptions === Opțiuni
+dashboard_messages_tabletemplatesname === Nume șablon
+dashboard_messages_tabletemplatesformat === Format șablon
+dashboard_messages_tabletemplatesoptions === Opțiuni
+dashboard_contacts_title === Contacte
+dashboard_contacts_menusaved === Salvat
+dashboard_contacts_menugroups === Grupuri
+dashboard_contacts_tabsavedtitle === Contacte salvate
+dashboard_contacts_tabgroupstitle === Grupuri de contact
+dashboard_contacts_tablesavedname === nume de contact
+dashboard_contacts_tablesavednumber === Numar de contact
+dashboard_contacts_tablesavedoptions === Opțiuni
+dashboard_contacts_tablegroupsname === Numele Grupului
+dashboard_contacts_tablegroupsoptions === Opțiuni
+dashboard_devices_tableregisteredbrand === Producător
+dashboard_devices_tableregisteredversion === Versiune
+dashboard_devices_tableregisteredadded === Înregistrat
+dashboard_devices_tableregisteredoptions === Opțiuni
+dashboard_tools_title === Instrumente
+dashboard_tools_menukeys === Chei API
+dashboard_tools_menuhooks === Webhook-uri
+dashboard_tools_tabkeystitle === Chei API
+dashboard_tools_tabhookstitle === Webhook-uri
+dashboard_tools_tablekeysname === Nume
+dashboard_tools_tablekeyspermissions === Permisiuni
+dashboard_tools_tablekeysoptions === Opțiuni
+dashboard_tools_tablehooksname === Nume
+dashboard_tools_tablehooksurl === Adresa URL a webhook
+dashboard_tools_tablehooksoptions === Opțiuni
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Statistici
+dashboard_admin_menuusers === Utilizatori
+dashboard_admin_menupackages === Pachete
+dashboard_admin_menusubscriptions === Abonamente
+dashboard_admin_menutransactions === Tranzacții
+dashboard_admin_menuwidgets === Widgeturi
+dashboard_admin_menulanguages === Limbi
+dashboard_admin_tabdefaultearningstitle === Câștigurile
+dashboard_admin_tabdefaultmessageslast === Ultimele 30 de zile
+dashboard_admin_tabuserstitle === Utilizatori
+dashboard_admin_tabpackagestitle === Pachete
+dashboard_admin_tabsubscriptionstitle === Abonamente
+dashboard_admin_tabtransactionstitle === Tranzacții
+dashboard_admin_tabwidgetstitle === Widgeturi
+dashboard_admin_tablanguagestitle === Limbi
+dashboard_admin_tableusersname === Nume
+dashboard_admin_tableusersemail === E-mail
+dashboard_admin_tableusersoptions === Opțiuni
+dashboard_admin_tablepackagesname === Nume
+dashboard_admin_tablepackagesprice === Preț
+dashboard_admin_tablepackagesoptions === Opțiuni
+dashboard_admin_tablesubscriptionsuser === Utilizator
+dashboard_admin_tablesubscriptionspackage === Pachet
+dashboard_admin_tablesubscriptionsprice === Preț
+dashboard_admin_tablesubscriptionsexpire === Data de expirare
+dashboard_admin_tablesubscriptionsoptions === Opțiuni
+dashboard_admin_tabletransactionscustomer === Client
+dashboard_admin_tabletransactionsprovider === Furnizor
+dashboard_admin_tablewidgetsname === Nume widget
+dashboard_admin_tablewidgetstype === Tip
+dashboard_admin_tablewidgetssize === mărimea
+dashboard_admin_tablewidgetsposition === Poziţie
+dashboard_admin_tablewidgetsoptions === Opțiuni
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Numele limbii
+dashboard_admin_tablelanguagescreated === Creată
+dashboard_admin_tablelanguagesoptions === Opțiuni
+table_search_text === Căutare
+table_search_placeholder === Introduceți cuvinte cheie aici...
+response_invalid === Cerere invalida!
+response_went_wrong === Ceva n-a mers bine!
+response_session_false === Sesiunea nu există!
+response_session_true === Sesiunea există deja!
+response_invalid_emailpass === E-mail/parolă nevalidă!
+response_loggedin_success === Autentificat cu succes!
+response_loggedout_success === Deconectat cu succes!
+response_invalid_email === Adresa email invalida!
+response_retrieval_received === Am primit o solicitare de recuperare a contului, ignorați dacă nu a fost solicitat de dvs.
+response_solve_captcha === Vă rugăm să rezolvați provocarea anti-bot!
+response_register_false === Înregistrările sunt dezactivate!
+response_name_short === Numele este prea scurt!
+response_password_short === Parola trebuie să aibă mai mult de 5 caractere!
+response_password_notmatch === Parolele nu se potrivesc!
+response_register_success === Inregistrare realizata!
+response_email_unavailable === Adresa de e-mail a fost deja înregistrată!
+response_upload_applogo === Vă rugăm să încărcați sigla aplicației dvs.!
+response_upload_appsplash === Vă rugăm să încărcați aplicația dvs.
+response_pcode_empty === Vă rugăm să introduceți codul dvs. de achiziție în setările sistemului!
+response_buildserver_false === Nu se poate conecta la serverul de compilare!
+response_invalid_number === Număr de telefon invalid!
+response_message_short === Mesaj prea scurt!
+response_message_queued === Mesajul a fost adăugat la coadă!
+response_message_bulkqueued === Mesajele în vrac au fost puse în coadă pentru a fi trimise!
+response_format_short === Formatul este prea scurt!
+response_template_added === Șablonul a fost adăugat!
+response_number_exist === Numărul de contact există deja!
+response_contact_added === Contactul a fost adăugat!
+response_group_added === Grupul de contact a fost adăugat!
+response_permission_min === Vă rugăm să selectați cel puțin o permisiune!
+response_key_added === Cheia API a fost adăugată!
+response_invalid_webhookurl === Adresă URL webhook nevalidă!
+response_webhook_added === Webhook a fost adăugat!
+response_user_added === Utilizatorul a fost adăugat!
+response_package_added === Pachetul a fost adăugat!
+response_widget_added === Widgetul a fost adăugat!
+response_language_added === Limba a fost adăugată!
+response_avatar_invalid === Avatarul nu poate fi încărcat!
+response_profile_updated === Profilul a fost actualizat!
+response_package_purchasedtitle === Te-ai abonat la un pachet premium, iată chitanța ta!
+response_package_purchased === S-a abonat cu succes la pachet!
+response_template_updated === Șablonul a fost actualizat!
+response_contact_updated === Contactul a fost actualizat!
+response_group_updated === Grupul de contact a fost actualizat!
+response_key_updated === Cheia API a fost actualizată!
+response_webhook_updated === Webhook a fost actualizat!
+response_user_updated === Utilizatorul a fost actualizat!
+response_package_updated === Pachetul a fost actualizat!
+response_widget_updated === Widgetul a fost actualizat!
+response_language_updated === Limba a fost actualizată!
+response_builder_packagenameshort === Numele pachetului este prea scurt!
+response_builder_appnameshort === Numele aplicației este prea scurt!
+response_builder_applogofail === Logo-ul aplicației nu poate fi încărcat!
+response_builder_appsplashfail === Splash de aplicație nu poate fi încărcat!
+response_builder_settingsupdated === Setările Builder au fost actualizate!
+response_theme_updated === Setările temei au fost actualizate!
+response_system_settingsupdated === Setările sistemului au fost actualizate!
+response_deleted_sent === Mesajul trimis a fost șters!
+response_deleted_received === Mesajul primit a fost șters!
+response_deleted_template === Șablonul a fost șters!
+response_deleted_contact === Contactul a fost șters!
+response_deleted_group === Grupul de contact a fost șters!
+response_deleted_device === Dispozitivul a fost șters!
+response_deleted_key === Cheia API a fost ștearsă!
+response_deleted_hook === Webhook a fost șters!
+response_deleted_defaultuserfalse === Utilizatorul implicit nu poate fi șters!
+response_deleted_user === Utilizatorul a fost șters!
+response_deleted_defaultpackagefalse === Pachetul implicit nu poate fi șters!
+response_deleted_package === Pachetul a fost șters!
+response_deleted_subscription === Abonamentele au fost șterse!
+response_deleted_widget === Widgetul a fost șters!
+response_deleted_defaultlangfalse === Limba implicită nu poate fi ștearsă!
+response_deleted_language === Limba a fost ștearsă!
+response_lang_changed === Limba a fost schimbată!
+modal_usersettings_title === Setări
+modal_subscription_title === Abonament
+modal_packages_title === Pachete
+modal_smsquick_title === SMS rapid
+modal_smsbulk_title === SMS-uri în vrac
+modal_addtemplate_title === Adăugați șablon
+modal_edittemplate_title === Editați șablonul
+modal_addcontact_title === Adaugă contact
+modal_editcontact_title === Editați contactul
+modal_addgroup_title === Adăugare grup
+modal_editgroup_title === Editați grupul
+modal_adddevice_title === Adăugați dispozitiv
+modal_addkey_title === Adăugați cheia API
+modal_editkey_title === Editați cheia API
+modal_edithook_title === Editați Webhook
+modal_buildersettings_title === Setări Builder
+modal_themesettings_title === Setari tema
+modal_systemsettings_title === Setarile sistemului
+modal_adduser_title === Adăugați utilizator
+modal_edituser_title === Editați utilizatorul
+modal_addpackage_title === Adăugați pachet
+modal_editpackage_title === Editați pachetul
+modal_addwidget_title === Adăugați widget
+modal_editwidget_title === Editați widgetul
+modal_addlanguage_title === Adăugați limba
+modal_editlanguage_title === Editați limba
+require_email === Adresa de e-mail
+require_password === Parola
+require_name === Numele complet
+require_cpassword === Confirmarea parolei
+require_phone === Număr de telefon
+require_device === Dispozitiv
+require_message === Mesaj
+require_groups === Grupuri de contact
+require_sim === Slot pentru sim
+require_priority === Opțiune prioritară
+require_api === Opțiunea API
+require_templatename === Nume șablon
+require_templateformat === Format șablon
+require_contactname === Nume de contact
+require_group === Grup de contact
+require_groupname === Numele Grupului
+require_apiname === Numele cheii API
+require_permissions === Permisiuni
+require_hookname === Numele webhook
+require_hookurl === URL webhook
+require_appname === Numele aplicatiei
+require_appcolor === Culoarea aplicației
+require_packagename === Numele pachetului
+require_widgetname === Numele widgetului
+require_widgetsize === Dimensiunea widget-ului
+require_widgetposition === Poziția widgetului
+require_widgettype === Tip widget
+require_languagename === Numele limbii
+require_languageiso === Limbă izo
+require_languagestr === Traduceri în limbi
+btn_submit === Trimite
+btn_download === Descarca
+btn_done === Terminat
+btn_purchase === Cumpărare
+btn_free === Gratuit
+btn_send === Trimite
+btn_save === Salvați
+btn_packages === Pachete
+btn_retrieve === Recupera
+btn_signin === Loghează-te
+btn_signup === Inscrie-te
+form_name === Nume
+form_number === Număr de telefon
+form_group === Grup de contact
+form_adddevice_one === Adăugarea unui nou dispozitiv Android la contul dvs. este foarte ușoară, ne-am asigurat că puteți continua fără a pierde o parte din timpul prețios, urmați acești pași.
+form_adddevice_two === 1. Descărcați și instalați
+form_adddevice_three === Mai întâi, descărcați și instalați aplicația noastră gateway făcând clic pe acest buton.
+form_adddevice_four === 2. Înregistrați dispozitivul
+form_adddevice_five === Acum deschideți aplicația gateway și faceți clic pe butonul de scanare, apoi scanați acest qrcode.
+form_adddevice_six === 3. Gata!
+form_adddevice_seven === Dispozitivul a fost adăugat în contul dvs., acum puteți începe să trimiteți mesaje!
+form_permissions === Permisiuni
+form_countrycode === Codul tarii
+form_translations === Șiruri de traducere
+form_translations_placeholder === Introdu traduceri aici...
+form_packageprice === Preț
+form_packagesend === Limită de trimitere
+form_packagereceive === Limită de primire
+form_packagedevice === Limita dispozitivului
+form_packagekey === Limită cheie
+form_packagehook === Limită webhook
+form_templatename_placeholder === Anunţ
+form_templateformat === Format
+form_templateformat_placeholder === Introduceți aici formatul șablonului...
+form_shortcodes === Shortcodes
+form_emailaddress === Adresa de e-mail
+form_password === Parola
+form_password_leave === Lăsați gol pentru a păstra parola curentă
+form_language === Limba
+form_webhookname_placeholder === Răspunde Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Termenii serviciului
+form_widgeticon === Pictogramă
+form_widgettype === Tip
+form_widgetsize === mărimea
+form_widgetsmall === Mic
+form_widgetmedium === Mediu
+form_widgetlarge === Mare
+form_widgetxlarge === Foarte mare
+form_widgetposition === Poziţie
+form_widgetcenter === Centru
+form_widgetleft === Stânga
+form_widgetright === Dreapta
+form_widgetcontent === Conţinut
+form_builderpackagename === Numele pachetului
+form_builderappname === Numele aplicatiei
+form_builderappdesc === Descrierea aplicației
+form_builderappdesc_placeholder === Aceasta este o aplicație minunată
+form_builderapplogo === Logo-ul aplicației
+form_builderappsplash === Ecran de splash al aplicației
+form_uploaded === Încărcat
+form_notuploaded === Nici unul
+form_themebg === Culoare de fundal
+form_themetext === Evidențiați Culoare
+form_settingsite === Site
+form_settingssitename === Numele site-ului
+form_settingssitedesc === Descrierea siteului
+form_settingspcode === Cod de achiziție
+form_settingsprotocol === Protocol
+form_settingsdeflang === Limba implicita
+form_settingsreg === Înregistrări
+form_settingsmailing === Poștă
+form_settingsmailfunc === Funcția de e-mail
+form_settingssitemail === E-mailul site-ului
+form_settingssmtphost === Gazdă SMTP
+form_settingssmtpport === Port SMTP
+form_settingssmtpusername === Nume de utilizator SMTP
+form_settingssmtppassword === Parola SMTP
+form_settingssmtp_small === Necesar pentru SMTP la distanță
+form_settingspayments === Plăți
+form_settingspaypaltest === Mod de testare Paypal
+form_settingssecurity === Securitate
+form_settingsrecaptchakey === Recaptcha Site Key
+form_settingsrecaptchasecret === Recaptcha cheie secretă
+form_enable === Permite
+form_disable === Dezactivați
+form_native === Nativ
+form_remotesmtp === SMTP la distanță
+form_device === Dispozitiv mobil
+form_sim === Slot Sim
+form_priority === Prioritate
+form_yes === da
+form_no === Nu
+form_freefor === Liber pentru totdeauna
+form_monthly === Lunar
+form_groups === Grupuri de contact
+form_template === Șablon
+form_none === Nici unul
+form_message === Mesaj
+form_message_placeholder === Introdu mesajul tau aici...
+form_avatar === Avatar
+form_changepass === Schimbaţi parola
+form_package === Pachet
+form_keys === Chei API
+form_hooks === Webhook-uri
+form_daily === zilnic
+form_forgotpass === Aţi uitat parola
+form_fullname === Numele complet
+form_cpassword === Confirmă parola
+form_haveaccount === Am un cont
+datatable_processing === Se procesează, așteptați...
+datatable_length === Se afișează _MENU_ înregistrări
+datatable_info === Se afișează de la _START_ la _END_ din _TOTAL_ înregistrări
+datatable_empty === Se afișează de la 0 la 0 din 0 intrări
+datatable_filtered === (filtrat din totalul de _MAX_ de intrări)
+datatable_loading === Încărcare va rugam asteptati...
+datatable_zero === Nu putem găsi nimic care să se potrivească cu întrebarea dvs.!
+datatable_null === Nu există date de afișat!
+datatable_first === Primul
+datatable_prev === Anterior
+datatable_next === Următorul
+datatable_last === Ultimul
+delete_title === Șterge?
+delete_tagline === Această acțiune nu poate fi anulată!
+validate_cannotemp === nu poate fi gol!
+alert_attention === Atenţie
+copy_data === Datele au fost copiate în clipboard!
+date_today === Astăzi
+date_yesterday === Ieri
+date_7days === Ultimele 7 zile
+date_30days === Ultimele 30 de zile
+date_month === Luna aceasta
+date_lmonth === Luna trecuta
+date_custom === Interval personalizat
+unknown_action_method === Metodă de acțiune necunoscută!
+mollie_redirecting_page === Se redirecționează către pagina de plată Mollie...
+form_settingsmolliekey === Cheie API Mollie
+btn_confirm === A confirma
+btn_cancel === Anulare
+recaptcha_add_keys === Vă rugăm să adăugați cheile recaptcha pentru a activa această funcție!
+pay_with_paypal === Plătiți cu PayPal
+pay_with_mollie === Plătește cu Mollie
+form_settingsenabledproviders === Furnizori activați
+form_builderappicon === Pictograma aplicației
+payment_transact_failed === Tranzacția de plată a eșuat!
+cookieconsent_message === Folosim cookie-uri pentru a ne asigura că beneficiați de cea mai bună experiență pe site-ul nostru.
+cookieconsent_link === Află mai multe
+role_added === Rolul a fost adăugat!
+role_updated === Rolul a fost actualizat!
+role_deleted === Rolul a fost șters!
+role_default_update === Rolul implicit nu poate fi editat!
+role_default_delete === Rolul implicit nu poate fi șters!
+voucher_added === Voucherul a fost adăugat!
+form_voucher === Cod voucher
+btn_redeem === Răscumpăra
+invalid_voucher_code === Cod voucher nevalid!
+voucher_deleted === Voucherul a fost șters!
+form_title_addvoucher === Adăugați voucher
+form_title_addsubscription === Adăugați abonament
+form_adduser_role === Rol
+require_pagename === Numele paginii
+require_pageroles === Roluri permise
+form_pageroles === Roluri permise
+require_vouchercode === Cod voucher
+form_settingscurrency === Valută
+btn_bulkexcel === excela
+response_leastprovider === Vă rugăm să selectați cel puțin 1 furnizor de plăți!
+user_subscriptioncontacts === Contacte
+response_suspended === Contul dvs. a fost suspendat de administrator!
+response_adminsuspend === Contul implicit nu poate fi suspendat!
+response_successsuspend === Utilizatorul a fost suspendat!
+response_successunsuspend === Utilizatorul a fost nesuspendat!
+suspend_user_title === Suspendați utilizatorul?
+suspend_user_desc === Acest utilizator nu se va putea autentifica și utiliza serviciile
+unsuspend_user_title === Anularea suspendării utilizatorului?
+unsuspend_user_desc === Acest utilizator se va putea autentifica și utiliza din nou serviciile
+all_languages === Toate limbile
+response_invalid_excel === Fișier excel nevalid!
+response_contacts_imported === Contactele au fost importate!
+table_role_name === Nume rol
+table_role_permissions === Permisiuni
+table_voucher_name === Nume
+table_voucher_package === Pachet
+table_page_name === Numele paginii
+table_page_require === Necesită autentificare
+table_page_roles === Roluri permise
+import_btn === Import
+form_excelfile === Fisier Excel
+form_hook_addtitle === Adăugați Hook Action
+form_hook_edittitle === Editați acțiunea Hook
+form_hook_event === Eveniment
+form_hook_link === Structura legăturii
+form_autoreply_addtitle === Adăugați o acțiune de răspuns
+form_autoreply_edittitle === Editați acțiunea de răspuns
+form_autoreply_keywords === Cuvinte cheie
+form_autoreply_message === Mesaj de răspuns
+require_action_name === Numele acțiunii
+require_action_event === Tip de eveniment
+require_action_link === Structura legăturii
+require_action_keywords === Cuvinte cheie
+require_action_message === Mesajul de răspuns
+response_invalid_linkstructure === Structura linkului nevalidă!
+response_hook_added === Acțiunea de conectare prin SMS a fost adăugată!
+response_invalid_keywords === Trebuie să introduceți cel puțin un cuvânt cheie!
+response_autoreply_added === Acțiunea de răspuns prin SMS a fost adăugată!
+response_hook_updated === Acțiunea de conectare prin SMS a fost actualizată!
+response_autoreply_updated === Acțiunea de răspuns prin SMS a fost actualizată!
+response_action_deleted === Acțiunea prin SMS a fost ștearsă!
+table_action_name === Nume
+form_scheduled_title === Programează SMS
+response_scheduled_deleted === Mesajul programat a fost șters!
+response_no_permission === Nu aveți permisiunea pentru această acțiune!
+response_builder_appiconfail === Pictograma aplicației nu poate fi încărcată!
+form_require_login === Necesită autentificare
+widget_addpage_title === Adauga pagina
+widget_editpage_title === Pagina de editare
+require_subscription_user === Utilizator
+require_voucher_name === Numele voucherului
+require_voucher_package === Pachet
+widget_alllang_title === Toate limbile
+widget_smsexcel_title === SMS-uri în vrac prin Excel
+require_scheduled_name === Nume
+require_scheduled_date === Data programului
+widget_importcontacts_title === Importați contacte
+require_addrole_name === Nume rol
+require_addrole_permissions === Permisiuni
+widget_editrole_title === Editați rolul
+response_page_added === Pagina a fost adăugată!
+response_page_updated === Pagina a fost actualizată!
+response_page_deleted === Pagina a fost ștearsă!
+table_scheduled_name === Nume
+messages_scheduled_title === Programat
+messages_scheduled_schedule === Programează SMS
+form_schedule_numbers === Numere de mobil
+form_schedule_schedule === Programa
+form_schedule_repeat === Repeta
+form_bulksms_numbers === Numere de mobil
+dashboard_tools_menuactions === Acțiuni
+dashboard_admin_menuroles === Roluri
+dashboard_admin_menuvouchers === Bonuri
+dashboard_admin_menupages === Pagini
+admin_gateway_title === Poarta de acces
+admin_gateway_status === stare
+admin_gateway_notuploaded === Nu a fost încărcat
+admin_gateway_uploaded === Încărcat
+dashboard_roles_title === Roluri de utilizator
+dashboard_roles_addrole === Adăugați un rol
+dashboard_vouchers_title === Bonuri
+dashboard_vouchers_addrole === Adăugați voucher
+form_voucher_package === Pachet
+dashboard_pages_title === Pagini
+dashboard_pages_addpage === Adauga pagina
+form_theme_favicon === Favicon
+form_package_contactslimit === Limită de contacte
+response_limitation_send === Ați atins numărul maxim de trimiteri permis pentru astăzi!
+response_limitation_contact === Ați atins numărul maxim de contacte permise!
+response_limitation_key === Ați atins numărul maxim de chei API permise!
+response_limitation_webhook === Ați atins numărul maxim de webhook-uri permise!
+form_adminsettings_token === Jeton de sistem
+response_upload_appicon === Vă rugăm să încărcați pictograma aplicației!
+app_status_gateway_running === Gateway rulează!
+app_device_registered === Legat
+app_device_unregistered === Neconectat
+app_terminal_gateway_ready === Gateway-ul este gata...
+app_terminal_gateway_register === Dispozitivul nu este încă conectat...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Dispozitivul a fost conectat...
+app_terminal_gateway_device === Conectarea dispozitivului a eșuat...
+app_terminal_gateway_connecterror === Eroare la conectarea la server...
+app_terminal_gateway_started === Gateway-ul a fost pornit...
+app_terminal_gateway_stopped === Gateway-ul a fost oprit...
+app_terminal_gateway_unregistered === Nu se poate porni gateway-ul, dispozitivul nu este încă conectat la niciun cont...
+app_terminal_feature_error === Eroare caracteristică SMS
+app_terminal_sms_sent === Mesaj trimis
+app_terminal_message_failed === Trimiterea mesajului a eșuat
+app_dialog_wait === Va rugam asteptati...
+app_dialog_exit === Ieșiți din Gateway
+app_dialog_exit_desc === Închideți și ieșiți din gateway?
+app_camera_qrcode_inside === Puneți codul QRC în interior
+app_ui_status === stare
+app_ui_exit === Ieșire
+require_voucher_count === Numărul de vouchere nu poate fi gol!
+form_voucher_count === Număr de tichete
+cookieconsent_dismiss === Am înţeles!
+title_payment_success === Confirmarea comenzii
+title_payment_cancel === Comanda anulata
+header_payment_success === Confirmarea comenzii
+header_payment_cancel === Comanda anulata
+body_payment_cancel === Ți-ai anulat cererea de comandă.
+transaction_payment_success === ID-ul de tranzacție:
+back_payment_page === Înapoi la Tabloul de bord
+form_settingspaypalemail === Email de afaceri Paypal
+form_settingsanalytics === Cheia Google Analytics
+form_messagecounterchars === personaje
+form_settingspagination === Limite de paginare
+form_settingssentpage === Mesaje trimise pe pagină
+form_settingsreceivedpage === Mesaje primite pe pagină
+form_settingsmessage === Setări mesaje
+form_settingsmessagemin === Caractere minime
+form_settingsmessagemax === Maximum de caractere
+form_settingsmessagemark === Subsolul mesajului
+form_packagefootermark === Subsolul mesajului
+form_settingssmtpsecure === Securitate SMTP
+form_durationtitle === Durată
+form_durationpackage === Pachetul dvs.:
+form_durationpay === Vei plăti:
+form_durationmonth === Durata lunii
+form_subscriptionmonth === Durata lunii
+authenticate_fblogin === Conectare cu facebook...
+authenticate_googlelogin === Conectare cu google...
+authenticate_vklogin === Conectare cu vkontakte...
+response_minplatforms === Vă rugăm să selectați cel puțin o platformă socială!
+form_settingssocialtitle === Setări sociale
+form_settingssocial === Autentificare socială
+form_settingssocialplatforms === Platforme activate
+form_usertimezone === Fus orar
+form_settingsloginrecaptcha === Autentificare Recaptcha
+form_loginor === SAU
+form_adddevicescandl === Descărcați prin QR Scan
+form_status_online === Pe net
+form_status_offline === Deconectat
+form_smsbulknonumbers === Vă rugăm să selectați un grup de contacte sau să introduceți numerele destinatarului!
+form_addsubscriptionuser === Utilizator
+form_addsubscriptionpackage === Pachet
+table_vouchersduration === Durata lunii
+table_pluginsname === Nume plugin
+table_pluginsoptions === Opțiuni
+dashboard_admin_menuplugins === Pluginuri
+dashboard_admin_pluginstitle === Pluginuri
+dashboard_admin_pluginsadd === Adăugați un plugin
+require_pluginfile === Fișier plugin
+modal_addplugin_title === Adăugați un plugin
+response_pluginwentwrong === Ceva a mers prost la încărcarea pluginului!
+response_plugininstalled === Pluginul a fost instalat!
+dashboard_title_login === Autentificare
+dashboard_title_forgot === Aţi uitat parola
+dashboard_title_register === Inregistreaza-te
+response_limitation_contact2 === Ați atins numărul maxim de contacte din abonament, doar _8880_ persoane de contact au fost importate!
+response_contacts_imported2 === _8880_ contacte au fost importate cu succes!
+form_systemsettingshomepage === Pagina de pornire implicită
+app_dialog_update_desc === Există o nouă versiune disponibilă pentru aplicația gateway, este necesară actualizarea!
+app_dialog_update_download === Descarca
+app_gateway_build_text === Construire Gateway
+response_gateway_available === Se descarcă gateway-ul, așteptați...
+response_gateway_unavailable === Gateway-ul nu este disponibil, vă rugăm să contactați administratorul site-ului!
+response_gateway_randommax === Intervalul maxim de trimitere nu poate fi mai mare de 300 de secunde!
+response_device_updated === Dispozitivul a fost actualizat!
+form_editdevice_devicename === Nume dispozitiv
+form_editdevice_randomsend === Interval de trimitere aleatoriu
+form_editdevice_randommin === Interval de trimitere Min
+form_editdevice_randommax === Interval de trimitere max
+form_smsall_globalstatus === Global
+form_select_multinone === Nici unul
+form_package_hiddenselect === Ascuns
+landing_footer_ourcompnew === Compania noastră
+form_smsschedule_submit === Programa
+require_devicename === Nume dispozitiv
+require_randommin === Interval minim aleatoriu
+require_randommax === Interval maxim aleatoriu
+admin_update_installed === Instalat
+admin_update_btn === Actualizați
+response_update_success === Sistemul a fost actualizat!
+form_settings_tawkchatlink === Link de chat direct Tawk
+model_title_editplugin === Editați pluginul
+btn_other_paymentmethods === Alte metode de plată
+dashboard_btn_support === A sustine
+pendingdelete_title === Ștergeți în așteptare?
+pendingdelete_desc === Ștergeți toate mesajele în așteptare? Această acțiune nu poate fi anulată!
+dashboard_messages_tablefullmessage === Mesaj complet
+administration_landing_btncache === Cache
+administration_landing_payouts === Plăți
+administration_landing_marketing === Marketing
+administration_landing_gateways === Gateway-uri
+administration_landing_shorteners === Scurtatori
+administration_landing_editor === Editor de șabloane
+administration_landing_api === Admin API
+administration_landing_build === Construi
+administration_landing_system === Sistem
+requests_charts_smssent === SMS trimis
+requests_charts_smsreceived === SMS primit
+requests_charts_wasent === WhatsApp trimis
+requests_charts_wareceived === WhatsApp primit
+requests_charts_ussd === USSD
+requests_charts_notifications === Notificări
+requests_charts_credits === credite
+administration_default_visitors === Vizitatori
+administration_default_countries === Țări
+administration_default_browsers === Browsere
+administration_default_os === Sisteme de operare
+administration_default_usages === Utilizări
+administration_default_messages === Mesaje
+administration_default_utilities === Utilități
+administration_default_subscriptions === Abonamente
+administration_default_credits === credite
+tables_users_registered === Înregistrat
+tables_users_details === Detalii
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Tarife Gateway
+dashboard_title_docs === Documentatii
+app_status_gateway_touch === Atingeți aici pentru a deschide gateway-ul
+app_dialog_downloading_update === Se descarcă actualizare
+app_dialog_interface_disabled === Interfața este dezactivată, vă rugăm să actualizați aplicația la cea mai recentă versiune!
+app_dialog_somethingwent_wrong === Ups! Ceva a mers prost!
+app_intro_level_1 === Vă mulțumim că folosiți platforma noastră, pentru a vă maximiza experiența și a vă familiariza cu aplicația, haideți să explorăm și vă vom explica toate funcțiile esențiale pe care trebuie să le cunoașteți.
+app_intro_level_2 === Veți vedea aici numele dispozitivului și starea legăturii.
+app_intro_level_3 === Pentru a conecta dispozitivul la contul dvs., utilizați acest buton pentru a vă autentifica sau pentru a scana codul QRC pentru a le conecta.
+app_intro_level_4 === Utilizați acest comutator pentru a porni sau opri gateway-ul.
+app_intro_level_5 === Activarea acestui comutator va face ca aplicația gateway să asculte noile notificări care pot fi apoi gestionate programatic în platformă. Aceasta este dezactivată în mod implicit.
+app_intro_level_6 === Utilizați acest buton pentru a închide și a ieși din aplicația gateway.
+app_intro_level_7 === Acesta este terminalul, tranzacțiile cu mesaje și alte jurnalele de activitate vor fi afișate aici.
+app_intro_level_8 === Acesta este butonul de acțiune plutitor, puteți accesa câteva opțiuni și pagini suplimentare, cum ar fi <b>Run în fundal</b> aici.
+app_dialog_tour_complete === Acum ar trebui să înțelegeți cum funcționează aplicația, pentru întrebări suplimentare, vă rugăm să ne contactați!
+app_push_right_now === acum
+app_device_detailes_updated === Detaliile dispozitivului au fost actualizate!
+app_ussd_requests_notsupported === Solicitările USSD nu sunt acceptate...
+app_notifications_listening_now === Ascultăm notificări noi...
+app_button_ok === A confirma
+app_dialog_update_smoothperm === Pentru actualizări fluide și eficiente, vă rugăm să permiteți permisiunea de instalare de la această aplicație.
+app_dialog_logging_in === Autentificare...
+app_dialog_invalid_email === Ați introdus un e-mail nevalid!
+app_dialog_invalid_password === Parola este prea scurtă pentru a fi validă!
+app_dialog_notsupported_notinougat === Momentan, notificările nu sunt acceptate pentru nuga și mai jos, scuze pentru inconvenient.
+app_dialog_notifications_permission === Pentru a accesa notificările în mod programatic, aplicația necesită o permisiune specială. Vă rugăm să selectați aplicația din listă, apoi permiteți accesul la notificări.
+app_dialog_gateway_listennoti === Gateway va asculta acum notificări noi.
+app_dialog_gateway_notirestart === Gateway-ul va reporni și nu va mai asculta notificări noi.
+app_dialog_needto_link === Trebuie să conectați dispozitivul la contul dvs. înainte de a putea utiliza această funcție.
+app_dialog_logoutfrom_device === Deconectați-vă de la acest dispozitiv gateway?
+app_document_runbackground === Rulează în fundal
+app_document_input_email === Adresa de e-mail
+app_document_input_password === Parola
+app_document_btn_login === Autentificare
+app_document_text_or === sau
+app_document_btn_scan === Scanați codul QRC
+app_document_btn_cancel === Anulare
+app_intro_next_btn === Următorul
+app_intro_back_btn === Înapoi
+response_token_generated === Jetonul de sistem a fost regenerat!
+response_trigger_done === Webhook a fost declanșat!
+response_build_gservicesfile === Vă rugăm să încărcați fișierul dvs. de servicii Google!
+response_build_fcredentialsfile === Vă rugăm să încărcați fișierul de acreditări Firebase!
+response_build_loginlogo === Vă rugăm să încărcați sigla de conectare a aplicației!
+response_whatsapp_notprem === Contul nu este abonat la niciun pachet premium!
+response_whatsapp_maxaccounts === Ați atins numărul maxim de conturi WhatsApp permise pentru pachetul dvs.!
+response_whatsapp_creatingqr === Crearea unui cod QRC WhatsApp
+response_whatsapp_noconnectserver === Nu se poate conecta la serverele WhatsApp!
+response_chart_dashsmssent === SMS trimis
+response_chart_dashsmsreceive === SMS primit
+response_chart_dashwasent === WA Trimis
+response_chart_dashwareceive === WA Primit
+response_chart_dashwebhooks === Webhook-uri
+response_chart_dashactions === Acțiuni
+response_chart_dashussd === USSD
+response_chart_dashnoti === Notificări
+response_resend_queued === Mesajul a fost pus în coadă pentru trimitere!
+mail_title_payoutapproved === Solicitarea dvs. de plată a fost plătită!
+response_payout_confirmed === Plata a fost confirmată!
+mail_title_payoutrejected === Solicitarea dvs. de plată a fost respinsă!
+response_payout_rejected === Plata a fost respinsă!
+response_translate_msgshort === Mesajul este prea scurt!
+response_clear_systemcleared === Fișierele cache de sistem au fost șters!
+response_clear_smscleared === Mesajele în așteptare au fost șterse!
+response_clear_ussdcleared === Solicitările USSD în așteptare au fost eliminate!
+response_reorder_languages === Limbile au fost reordonate!
+response_trash_selectedremoved === Elementele selectate au fost șterse!
+response_voucher_redeemed === Voucherul a fost valorificat!
+response_payout_invalidamount === Sumă de plată nevalidă, nu trebuie să conțină valori zecimale.
+response_payout_notenoughbal === Nu este suficient sold de câștig pentru a procesa cererea!
+response_payout_reqreceive === Solicitarea dvs. de plată a fost primită!
+response_payout_pendingreq === Mai aveți o solicitare de plată în așteptare!
+response_system_sysconfigerr === Eroare de configurare a sistemului!
+response_message_toolong === Mesajul tau este prea lung!
+response_package_nosubwarn === Nu aveți un abonament la pachet!
+response_message_notenoughcredsend === Nu sunt suficiente credite pentru a trimite acest mesaj!
+response_message_queuedforsend === Mesajul a fost pus în coadă pentru trimitere!
+response_message_sentsuccess === Mesajul a fost trimis!
+response_message_unablesendmesg === Nu putem trimite mesajul dvs.!
+response_smsexcel_phonenotfound === Coloana _8880_ nu a fost găsită în fișierul dvs. Excel!
+response_smssched_queued === Mesajul a fost programat!
+response_ussd_maximumreq === Numărul maxim de solicitări USSD a fost atins!
+response_ussd_queued === Solicitarea USSD a fost pusă în coadă!
+response_whatsapp_reachedmaxchat === Ai atins deja numărul maxim de chaturi pe care le poți trimite!
+response_whatsapp_chatqueued === Mesajul WhatsApp a fost pus în coadă pentru trimitere!
+response_whatsapp_unableconnectserv === Nu se poate conecta la serverele WhatsApp!
+response_whatsapp_bulkchatsqueued === Chaturile în bloc WhatsApp au fost puse în coadă!
+response_whatsapp_excelphonecolnotfound === Coloana _8880_ nu a fost găsită în fișierul dvs. Excel!
+response_whatsapp_chatscheduled === Chatul a fost programat!
+response_importcontacts_phonenotfound === Coloana _8880_ nu a fost găsită în fișierul dvs. Excel!
+response_importcontacts_groupsnotfound === Coloana _8880_ nu a fost găsită în fișierul dvs. Excel!
+response_importcontacts_namenotfound === Coloana _8880_ nu a fost găsită în fișierul dvs. Excel!
+response_package_pricenotlessone === Pretul pachetului nu poate fi mai mic de 1!
+response_subscription_addedsuccess === Abonamentul a fost creat!
+response_push_selectatleastoneuser === Vă rugăm să selectați cel puțin un utilizator sau un rol!
+response_push_mesgtooshort === Mesajul este prea scurt!
+response_push_titletooshort === Titlul este prea scurt!
+response_push_imgfailed === Încărcarea fișierului imagine a eșuat!
+response_push_created === Transmisia push a fost creată!
+response_push_nousers === Nu s-au găsit utilizatori pentru trimitere!
+response_notify_titletooshort === Titlul este prea scurt!
+response_notify_mesgtooshort === Mesajul este prea scurt!
+response_notify_selectuserrole === Vă rugăm să selectați cel puțin un utilizator sau un rol!
+response_notify_imgfailed === Încărcarea fișierului imagine a eșuat!
+response_notify_created === Difuzarea de notificare a fost creată!
+response_notify_nousers === Nu s-au găsit utilizatori pentru trimitere!
+response_mailer_titletooshort === Titlul este prea scurt!
+response_mailer_contentooshort === Conținutul este prea scurt!
+response_mailer_nouserorrole === Vă rugăm să selectați cel puțin un utilizator sau un rol!
+response_mailer_sendcounter === _8880_ din _8881_ e-mailuri în așteptare au fost trimise prin e-mail!
+response_mailer_mailprocessed === Trimiterea în masă a fost procesată!
+response_mailer_nousersorrole === Nu s-au găsit utilizatori pentru trimitere!
+response_gateway_controllercannotempty === Fișierul controlerului nu poate fi gol!
+response_gateway_invalidcontroller === Fișier controler nevalid!
+response_gateway_addeddcontroller === Gateway a fost adăugat!
+response_shortener_cannotempty === Fișierul controlerului nu poate fi gol!
+response_shortener_invalidcontroller === Fișier controler nevalid!
+response_shortener_addedcontroller === S-a adăugat scurtator!
+response_plugin_samenameinstalled === Un plugin cu același nume a fost deja instalat!
+response_smscheduled_editsuccess === Mesajul programat a fost actualizat!
+response_chatscheduled_editsuccess === Programul de chat a fost actualizat!
+response_editdevice_invalidrate === Valoare nevalidă a ratei, ar trebui să fie un număr flotant valid!
+response_editdevice_nametooshort === Numele dispozitivului este prea scurt!
+response_editdevice_nametoolong === Numele dispozitivului este prea lung!
+response_editdevice_invalidmaxinterval === Valoarea intervalului maxim nevalid!
+response_gateway_updatedsuccess === Gateway-ul a fost actualizat!
+response_shortener_editsuccess === Scurtatorul a fost actualizat!
+response_editplugin_success === Setările pluginului au fost actualizate!
+response_updatepluin_corrupted === Fișierul de actualizare a pluginului este corupt!
+response_updateplugin_updated === Pluginul a fost actualizat!
+response_builder_invalidgooglefile === Fișier de acreditări Google Services nevalid!
+response_builder_invalidfirebasefile === Fișier de acreditări Firebase nevalid!
+response_theme_sitelogofailed === Încărcarea siglei site-ului a eșuat!
+response_theme_sitebgfailed === Încărcarea în fundal a site-ului nu a reușit!
+response_theme_sitefavfailed === Încărcarea imaginii favicon nu a reușit!
+response_notification_deletedsuccess === Notificarea a fost ștearsă!
+response_whatsapp_sentdeletesuccess === Chat WhatsApp trimis a fost șters!
+response_whatsapp_receivedeletesuccess === Chatul WhatsApp primit a fost șters!
+response_whatsapp_scheduleddeletesuccess === Chatul programat WhatsApp a fost șters!
+response_whatsapp_accountdeletesuccess === Contul WhatsApp a fost șters!
+response_unsibscribe_contactdeletedsuccess === Numărul neabonat a fost șters!
+response_marketing_logdeletedsuccess === Jurnalul de marketing a fost șters!
+response_gateway_controllerdeletedsuccess === Gateway-ul a fost șters!
+response_shortener_controllerdeletedsuccess === Scurtatorul a fost șters!
+table_androidsent_clipcopy === Copie din Clipboard trimisă _8880_
+table_androidsent_excel === Export Excel trimis _8880_
+table_androidsent_pdf === Export PDF trimis _8880_
+table_androidsent_sms === mesaj
+table_androidsend_report === Raport
+table_unknown_data === Necunoscut
+table_androidsent_statuspending === In asteptarea
+table_androidsent_statusqueued === În așteptare
+table_androidsent_statussent === Trimis
+table_androidsent_statusfailed === A eșuat
+table_none_data === Nici unul
+table_yes_data === da
+table_no_data === Nu
+table_removed_data === Îndepărtat
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Stare: _8880_, Mod: _8881_, Cod: _8882_, Prioritate: _8883_, API trimis: _8884_, Slot SIM: SIM _8885_, Dispozitiv: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Dispozitive
+table_androidsent_modenamecredits === credite
+table_androidsent_reportline1 === Stare: _8880_
+table_androidsent_reportline2 === Mod: _8880_
+table_androidsent_reportline3 === Cod: _8880_
+table_androidsent_reportline4 === Prioritate: _8880_
+table_androidsent_reportline5 === API trimis: _8880_
+table_androidsent_reportline6 === Slot SIM: SIM _8880_
+table_androidsent_reportline7 === Dispozitiv: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Stare: _8880_, Mod: _8881_, Gateway: _8882_
+table_androidsent_reportline9 === Stare: _8880_
+table_androidsent_reportline10 === Mod: _8880_
+table_androidsent_reportline11 === Gateway: _8880_
+table_androidsent_exportthree === Stare: _8880_, Mod: _8881_, Cod: _8882_, API trimis: _8883_, Slot SIM: SIM _8884_, Gateway: _8885_
+table_androidsent_reportline12 === Stare: _8880_
+table_androidsent_reportline13 === Mod: _8880_
+table_androidsent_reportline14 === Cod: _8880_
+table_androidsent_reportline15 === API trimis: _8880_
+table_androidsent_reportline16 === Slot SIM: SIM _8880_
+table_androidsent_reportline17 === Gateway: _8880_
+table_androidsent_titleresend === Retrimiteți acest mesaj
+table_title_deletethisitem === Ștergeți acest articol
+table_androidreceive_exportcopy === Copiere Clipboard primită _8880_
+table_androidreceive_exportexcel === Export Excel primit _8880_
+table_androidreceive_exportpdf === Export PDF primit _8880_
+table_androidreceive_smstitle === mesaj
+table_androidreceive_reporttitle === Raport
+table_androidreceive_exportdata === Slot SIM: SIM _8880_, Dispozitiv: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Slot SIM: SIM _8880_
+table_androidreceive_reportline2 === Dispozitiv: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Răspunde la număr
+table_androidscheduled_titleschedule === Programa
+table_androidscheduled_titledetails === Detalii
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Mod: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Repetați: _8880_
+table_androidscheduled_detailsline4 === Dispozitiv: _8880_
+table_androidscheduled_detailsgroupslabel === Grupuri:
+table_androidscheduled_detailsnumberslabel === numere:
+table_androidscheduled_detailsline5 === Mod: _8880_
+table_androidscheduled_detailsline6 === Repetați: _8880_
+table_androidscheduled_detailsline7 === Gateway: _8880_
+table_androidscheduled_detailsline8 === Mod: _8880_
+table_androidscheduled_detailsline9 === Repetați: _8880_
+table_androidscheduled_detailsline10 === Dispozitiv: _8880_
+table_title_editthisitem === Editați acest articol
+table_whatsappsent_exportcopy === A trimis o copie din Clipboard
+table_whatsappsent_exportexcel === Export Excel trimis
+table_whatsappsent_exportpdf === Export PDF trimis
+table_whatsappsent_accounttitle === Cont
+table_whatsappsent_recipienttitle === Destinatar
+table_whatsappsent_msgtitle === Mesaj
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === stare
+table_ussd_exportcopy === USSD Clipboard Copiere
+table_ussd_exportexcel === Export Excel USSD
+table_ussd_exportpdf === Export PDF USSD
+table_ussd_createdtitle === Creată
+table_ussd_codetitle === Cod
+table_ussd_responsetitle === Raspuns
+table_ussd_simtitle === SIM
+table_ussd_statustitle === stare
+table_ussd_devicetitle === Dispozitiv
+table_ussd_optionstitle === Opțiuni
+table_ussd_pendingresponsetext === Răspuns în așteptare
+table_empty_data === Gol
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === In asteptarea
+table_ussd_queuelabel === În așteptare
+table_ussd_completelabel === Efectuat
+table_ussd_detailsline1 === Dispozitiv: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Notificări Clipboard Copy
+table_notifications_exportexcel === Notificări Excel Export
+table_notifications_exportpdf === Notificări Export PDF
+table_notifications_createdtitle === Creată
+table_notifications_packagetitle === Numele pachetului
+table_notifications_title === Titlu
+table_notification_texttitle === Text
+table_notification_devicetitle === Dispozitiv
+table_notification_optiontitle === Opțiuni
+table_notification_devicelabel === Dispozitiv:
+table_notification_oslabel === OS:
+table_devices_nametitle === Nume
+table_devices_globaltitle === Global
+table_enabled_data === Activat
+table_disabled_data === Dezactivat
+table_notifications_exportone === Dispozitiv: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === In asteptarea
+table_whatsapp_queuelabel === În așteptare
+table_whatsapp_sentlabel === Trimis
+table_whatsapp_failedlabel === A eșuat
+table_whatsappreceive_exportcopy === Copiere Clipboard primită
+table_whatsappreceive_exportexcel === Export Excel primit
+table_whatsappreceive_exportpdf === Export PDF primit
+table_whatsappreceive_replytitle === Răspunde la număr
+table_waschedule_scheduletitle === Programa
+table_waschedule_detailstitle === Detalii
+table_waschedule_detailsline1 === Repetați: _8880_
+table_waschedule_detailsline2 === Cont:
+table_waschedule_detailsline3 === Grupuri:
+table_waschedule_detailsline4 === numere:
+table_waaccounts_loggedtitle === Conectat
+device_login_usevalidemail === Vă rugăm să utilizați o adresă de e-mail validă!
+device_login_accountsuspended === Ne pare rău, contul dvs. este suspendat!
+device_login_incorrectmailorpass === Ați introdus un e-mail sau o parolă incorectă!
+device_login_nosubscription === Nu aveți un abonament la pachet!
+device_login_nomoredevice === Nu puteți înregistra mai multe dispozitive!
+device_scan_qrcodeinvalid === Codul dvs. QRC este invalid!
+device_scan_nosub === Nu aveți un abonament la pachet!
+device_scan_usersuspended === Ne pare rău, contul dvs. este suspendat!
+device_scan_nomoredevices === Nu puteți înregistra mai multe dispozitive!
+device_report_smssentsuccess === Mesajul _8880_ a fost trimis de la _8881_
+device_report_smssentfailed === Trimiterea mesajului _8880_ a eșuat de la _8881_
+device_received_smsreceived === Noul _8880_ a fost primit de la _8881_
+requests_resend_devicenotexist === Dispozitivul nu există!
+device_ussd_responsereceive === Răspuns USSD primit de la _8880_
+device_notification_notireceive === A fost primită o nouă notificare de la _8880_
+payment_success_unknowntx === Necunoscut
+payment_webhook_molliecreditsadded === Au fost adăugate credite în contul tău!
+payment_webhook_paypalcreditsadded === Au fost adăugate credite în contul tău!
+payment_webhook_unknowntn === Necunoscut
+mail_tpl_creditstitle === Bună,
+mail_tpl_creditsdesc === Ați achiziționat credite, am creditat un total de _8880_ în contul dvs. și îl puteți utiliza imediat.
+mail_tpl_creditstnx === Mulțumesc!
+mail_tpl_poweredby === Produs de _8880_
+forgot_response_recoverysent === Instrucțiunile de preluare au fost trimise la _8880_
+forgot_response_recoveryfail === Nu putem să vă trimitem un e-mail!
+cron_package_expired === Abonamentul dvs. la pachet a expirat!
+cron_package_expiring === Abonamentul la pachet expiră în 5 zile!
+table_waaccounts_waidtitle === ID WhatsApp
+table_waaccounts_wauniquetitle === ID unic
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Copiere Clipboard Grupuri _8880_
+table_contactssaved_exportexcel === Grupuri Excel Export _8880_
+table_contactssaved_exportpdf === Export PDF pentru grupuri _8880_
+table_contactssaved_grouptitle === Grupuri
+table_contactsgroups_gidtitle === ID grup
+table_contactsunsub_exportcopy === Copiere clipboard neabonat _8880_
+table_contactsunsub_exportexcel === Export Excel neabonat _8880_
+table_contactsunsub_exportpdf === Export PDF neabonat _8880_
+table_toolskeys_createdtitle === Creată
+table_toolskeys_copyapisecret === Copiați secretul API în clipboard
+table_toolswebhooks_createtitle === Creată
+table_tootlswebhooks_eventstitle === Evenimente
+table_toolswebhooks_simulatebtn === Trigger
+table_toolswebhooks_simulatedesc === Simulați cererea de webhook
+table_toolswebhooks_copywebhooksecret === Copiați secretul webhook în clipboard
+table_toolsactions_createtitle === Creată
+table_toolsactions_detailstitle === Detalii
+table_toolsactions_typehook === Cârlig
+table_toolsactions_typeautoreply === Răspuns automat
+table_toolsactions_source === Sursa: _8880_
+table_toolsactions_sourcesms === mesaj
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Eveniment: _8880_
+table_toolsactions_eventonsend === La Trimitere
+table_toolsactions_eventonreceive === La Primire
+table_toolsactions_link === Legătură:
+table_toolsactions_keywords === Cuvinte cheie:
+table_toolsactions_message === Mesaj:
+table_toolsactions_type === Tip: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Creată
+table_ratespartners_countrytitle === Țară
+table_ratespartners_detailstitle === Detalii despre dispozitiv
+table_ratespartners_ratetitle === Rata mesajelor
+table_ratespartners_prioritytitle === Prioritate
+table_ratespartners_simtitle === Sloturi SIM permise
+table_ratespartners_name === Nume:
+table_ratespartners_owner === Proprietar:
+table_ratespartners_localrate === Tarif local:
+table_ratespartners_convertedrate === Rata convertită:
+table_ratespartners_simdual === SIM 1 și SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Copiere clipboard utilizatori _8880_
+table_adminusers_exportexcel === Utilizatori Excel Export _8880_
+table_adminusers_exportpdf === Export PDF utilizatori _8880_
+table_adminusersexportdata === Rol: _8880_, Țară: _8881_, Limbă: _8882_, Fus orar: _8883_, Câștiguri: _8884_, Credite: _8885_, Abonament: _8886_, Sunete: _8887_, Suspendat: _888_
+table_adminusers_exportdata1 === Rol: _8880_
+table_adminusers_exportdata2 === Țară: _8880_
+table_adminusers_exportdata3 === Limba: _8880_
+table_adminusers_exportdata4 === Fus orar:
+table_adminusers_exportdata5 === Câștiguri: _8880_
+table_adminusers_exportdata6 === Credite: _8880_
+table_adminusers_exportdata7 === Abonament:
+table_adminusers_exportdata8 === Sunete: _8880_
+table_adminusers_exportdata9 === Suspendat: _8880_
+table_adminusers_unsuspendaccount === Anulați suspendarea acestui cont
+table_adminusers_suspendaccount === Suspendați acest cont
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Creată
+table_adminpackages_detailstitle === Detalii pachet
+table_adminpackages_freelabel === Gratuit
+table_unlimited_data === Nelimitat
+table_adminpackages_labeldetails1 === Ascuns:
+table_adminpackages_labeldetails2 === Marca subsol:
+table_adminpackages_labeldetails3 === Limită de trimitere SMS:
+table_adminpackages_labeldetails4 === Limită de primire SMS:
+table_adminpackages_labeldetails5 === Limită de trimitere WhatsApp:
+table_adminpackages_labeldetails6 === Limită de primire WhatsApp:
+table_adminpackages_labeldetails7 === Limita contului WhatsApp:
+table_adminpackages_labeldetails8 === Limită USSD:
+table_adminpackages_labeldetails9 === Limită de notificare:
+table_adminpackages_labeldetails10 === Limită dispozitiv:
+table_adminpackages_labeldetails11 === Limită de contact:
+table_adminpackages_labeldetails12 === Limită cheie API:
+table_adminpackages_labeldetails13 === Limită webhook:
+table_adminpackages_labeldetails14 === Limită de acțiune:
+table_adminpackages_labeldetails15 === Limită programată:
+table_adminvouchers_exportcopy === Copiere clipboard vouchere _8880_
+table_adminvouchers_exportexcel === Vouchere Excel Export _8880_
+table_adminvouchers_exportpdf === Export PDF vouchere _8880_
+table_adminvouchers_createdtitle === Creată
+table_adminvouchers_codetitle === Valorificați codul
+table_adminvouchers_copycode === Copiați codul voucherului în clipboard
+table_adminsubscriptions_createdtitle === Creată
+table_admintransactions_createdtitle === Creată
+table_admintransactions_itemtitle === Articol
+table_admintransactions_amounttitle === Cantitate
+table_admintransactions_durationtitle === Durată
+table_admintransactions_creditslabel === credite
+table_admintransactions_monthslabel === _8880_ luni
+table_adminpayouts_createdtitle === Creată
+table_adminpayouts_partnertitle === Partener
+table_adminpayouts_amounttitle === Cantitate
+table_adminpayouts_addresstitle === adresa de plata
+table_adminpayouts_optionstitle === Opțiuni
+table_adminpayouts_approve === Marcați cererea de plată ca fiind plătită
+table_adminpayouts_reject === Respinge cererea de plată
+table_adminwidgets_createdtitle === Creată
+table_adminwidgets_typeblock === bloc
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Copiați cârligul widgetului în clipboard
+table_adminpages_createdtitle === Creată
+table_adminpages_optionstitle === Opțiuni
+table_adminpages_copypagehook === Copiați pagina în clipboard
+table_adminmarketing_createdtitle === Creată
+table_adminmarketing_typetitle === Tip
+table_adminmarketing_titletitle === Titlu
+table_adminmarketing_contenttitle === Conţinut
+table_adminmarketing_recipientstitle === Destinatari
+table_adminmarketing_optionstitle === Opțiuni
+table_adminmarketing_notifylabel === Notifică
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === Apăsaţi
+table_adminmarketing_roleslabel === Roluri:
+table_adminmarketing_userslabel === Utilizatori:
+table_admingateways_createdtitle === Creată
+table_admingateways_nametitle === Nume
+table_admingateways_pricingtitle === Prețuri
+table_admingateways_optionstitle === Opțiuni
+table_admingateways_invalidjson === Format JSON nevalid!
+table_admingateways_defaultprice === Preț implicit: _8880_
+table_admingateways_percountryprcie === Preț pe țară:
+table_adminshorteners_createdtitle === Creată
+table_adminshorteners_nametitle === Nume
+table_adminshorteners_optionstitle === Opțiuni
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Versiune instalată
+table_adminplugins_actionstitle === Acțiuni
+table_adminplugins_updatedesc === Actualizați acest plugin
+table_adminplugins_editdesc === Editați opțiunile pluginului
+table_adminplugins_removedesc === Dezinstalează acest plugin
+whatsapp_sent_sentsuccess === Chat WhatsApp _8880_ a fost trimis!
+whatsapp_sent_sentfailed === Trimiterea chatului _8880_ nu a reușit!
+whatsapp_received_chat === A fost primit un nou chat _8880_!
+widget_systemupdate_title === Actualizare de sistem
+widget_systemupdate_loader === Sistem de actualizare
+widget_systemupdate_requireupdate === Fișierul de actualizare nu poate fi gol!
+requests_systemupdate_faileduploadingfile === Nu s-a încărcat fișierul de actualizare!
+widget_usersettings_loader === Se salvează setările contului
+widget_payment_title === Plată
+widget_payment_creditamountnotless === Suma creditului nu poate fi mai mică de 10!
+widget_payment_creditslabel === credite
+widget_view_contentremoved === Conținutul a fost eliminat!
+widget_redeem_title === Răscumpăra
+widget_redeem_loader === Validarea codului voucherului
+widget_addcredits_title === Adăugați credite
+widget_addpayout_title === Solicitați plata
+widget_addpayout_loader === Crearea cererii de plată
+widget_addpayout_requireamount === Suma nu poate fi goală!
+widget_addpayout_requireprovider === Furnizorul de plăți nu poate fi gol!
+widget_addpayout_requireaddress === Adresa de plată nu poate fi goală!
+widget_smsquick_loader === Adăugarea unui mesaj la coadă
+widget_smsbulk_loader === Adăugarea mesajelor la coadă
+widget_smsexcel_loader === Adăugarea mesajelor din fișierul Excel în coadă
+widget_addsmsscheduled_loader === Se salvează mesajul programat
+widget_editscheduled_title === Editați programul
+widget_editscheduled_loader === Se salvează mesajul programat
+widget_addussd_title === Solicitare USSD
+widget_addussd_loader === Adăugarea cererii ussd la coadă
+widget_editdevice_title === Editați dispozitivul
+widget_editdevice_loader === Salvarea modificărilor dispozitivului
+widget_waquick_title === Chat rapid
+widget_waquick_loader === Adăugarea chatului WhatsApp la coadă
+widget_waquick_requireaccount === Este necesar un cont WhatsApp!
+widget_wabulk_title === Chat în masă
+widget_wabulk_loader === Adăugarea chat-urilor WhatsApp la coadă
+widget_waexcel_title === Chat în masă prin Excel
+widget_waexcel_loader === Adăugarea chat-urilor WhatsApp la coadă
+widget_wascheduled_title === Programați chat
+widget_wascheduled_loader === Adăugarea chat-urilor WhatsApp la coadă
+widget_wascheduled_requireaccount === Este necesar un cont WhatsApp!
+widget_waeditscheduled_title === Editați programul
+widget_waeditscheduled_loader === Adăugarea chat-urilor WhatsApp la coadă
+widget_waeditscheduled_requireaccount === Este necesar un cont WhatsApp!
+widget_waaddaccount_title === Adaugă cont
+widget_importcontacts_loaded === Import de contacte din fișierul Excel
+widget_addcontact_loader === Crearea unei noi intrări de contact
+default_pricecolumns_monthlabel === lună
+default_pricecolumns_dailylabel === zilnic
+default_pricecolumns_monthlylabel === lunar
+default_pricecolumns_unlimitedlabel === Nelimitat
+form_literal_spintaxdesc2 === Valorile _8880_ și _8881_ vor fi utilizate aleatoriu.
+dashboard_packagesmodal_smssend === Trimitere SMS
+default_footerquote_obama === A deveni nu înseamnă a ajunge undeva sau a atinge un anumit scop. În schimb, o văd ca o mișcare înainte, un mijloc de a evolua, o modalitate de a ajunge continuu către un sine mai bun. Călătoria nu se termină.
+widgets_editcontact_loader === Se salvează modificările de contact
+widgets_addgroup_loader === Crearea unei noi intrări în grup
+widgets_editgroup_loader === Se salvează modificările grupului
+widgets_addapikey_loader === Se creează o nouă cheie API
+widgets_editapikey_loader === Se salvează modificările cheii API
+widgets_addwebhook_title === Adăugați Webhook
+widgets_addwebhook_loader === Se creează un nou webhook
+widgets_addwebhook_requireevents === Evenimentele nu pot fi goale!
+widgets_editwebhook_loader === Se salvează modificările webhook
+widgets_addhook_loader === Crearea unei noi acțiuni de cârlig
+widgets_edithook_loader === Salvarea modificărilor acțiunii cârligului
+widgets_addautoreply_loader === Crearea unei noi acțiuni de răspuns automat
+widgets_editautoreply_loader === Salvarea modificărilor acțiunii de răspuns automat
+widgets_addtemplate_loader === Se creează un șablon de mesaj nou
+widgets_edittemplate_loader === Se salvează modificările șablonului
+widgets_adminbuilder_loader === Se salvează setările constructorului
+widgets_adminsettings_loader === Salvarea setărilor sistemului
+widgets_admintheme_loader === Se salvează setările temei
+widgets_adduser_loader === Crearea unui nou cont de utilizator
+widgets_edituser_loader === Salvarea modificărilor contului de utilizator
+widgets_addrole_loader === Crearea unui nou rol de utilizator
+widgets_addrole_title === Adăugați un rol
+widgets_editrole_loader === Salvarea modificărilor rolului utilizatorului
+widgets_addpackage_loader === Crearea unui pachet de sistem nou
+widgets_editpackage_loader === Se salvează modificările pachetului
+widgets_addvoucher_loader === Crearea de noi vouchere
+widgets_addsubscription_loader === Crearea unui nou abonament de utilizator
+widgets_addwidgets_loader === Crearea unui widget nou
+widgets_editwidget_loader === Se salvează modificările widgetului
+widgets_addpage_loader === Crearea unei noi pagini
+widgets_editpage_loader === Se salvează modificările paginii
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Notificare push de difuzare
+widgets_addpush_requiretitle === Titlul nu poate fi gol!
+widgets_addpush_requiremessage === Mesajul nu poate fi gol!
+widgets_addnotify_title === Notifică difuzarea
+widgets_addnotify_loader === Se transmite notificări live
+widgets_addnotify_requiretitle === Titlul nu poate fi gol!
+widgets_addnotify_requiremessage === Mesajul nu poate fi gol!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Trimiterea de mesaje de e-mail
+widgets_addmailer_requiretitle === Titlul nu poate fi gol!
+widgets_addlanguage_loader === Adăugarea unei limbi noi
+widgets_editlanguage_loader === Salvarea modificărilor de limbă
+widgets_addgateway_title === Adăugați Gateway
+widgets_addgateway_loader === Adăugarea unui nou gateway
+widgets_addgateway_requirename === Numele gateway-ului nu poate fi gol!
+widgets_editgateway_title === Editați Gateway
+widgets_editgateway_loader === Se salvează modificările gateway-ului
+widgets_editgateway_requirename === Numele gateway-ului nu poate fi gol!
+widgets_addshortener_title === Adăugați scurtator
+widgets_addshortener_loader === Adăugarea unui nou scurtator
+widgets_addshortener_requirename === Numele scurtatorului nu poate fi necompletat!
+widgets_editshortener_title === Editați Shortenerul
+widgets_editshortener_loader === Se salvează modificările de scurtator
+widgets_editshortener_requirename === Numele scurtatorului nu poate fi necompletat!
+widgets_editplugin_loader === Aplicarea modificărilor pluginului la sistem
+widgets_updateplugin_title === Actualizați pluginul
+widgets_updateplugin_loader === Actualizare plugin
+device_backgroundpage_line1 === Rulează în fundal
+device_backgroundpage_line2 === De ce trebuie să ruleze aplicația Gateway în fundal?
+device_backgroundpage_line3 === Aplicația necesită rularea în fundal pentru a asculta în continuare mesajele noi de trimis și primit, acest lucru este necesar și pentru a procesa notificări noi. Dacă nu aveți nevoie de notificări, puteți dezactiva acest lucru în setările aplicației, dezactivarea acesteia va opri sistemul să primească date de notificare de la dispozitiv.
+device_backgroundpage_line4 === Dacă aveți o aplicație de securitate terță parte, cum ar fi Avast, Eset și altele. Vă rugăm să adăugați aplicația gateway la excepțiile sale.
+device_backgroundpage_line5 === Vă rugăm să citiți ghidul potrivit pentru marca dvs. de telefon din lista următoare.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Economizor baterie
+device_backgroundpage_line8 === 1. Deschide Setări.
+device_backgroundpage_line9 === 2. Selectați „Baterie și performanță”.
+device_backgroundpage_line10 === 3. Selectați „Alege aplicații”.
+device_backgroundpage_line11 === 4. Găsiți _8880_ și selectați „Fără restricții” în setările de fundal.
+device_backgroundpage_line12 === Blocați aplicația
+device_backgroundpage_line13 === 1. Atingeți butonul Meniu pentru a intra în pagina Recente.
+device_backgroundpage_line14 === 2. Selectați cardul _8880_ și blocați-l.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Economizor baterie
+device_backgroundpage_line17 === 1. Deschide Setări.
+device_backgroundpage_line18 === 2. Selectați Setări avansate.
+device_backgroundpage_line19 === 3. Selectați Manager baterie.
+device_backgroundpage_line20 === 4. Selectați Aplicații protejate.
+device_backgroundpage_line21 === 5. Găsiți _8880_ și porniți comutatorul.
+device_backgroundpage_line22 === Dacă versiunea EMUI este actualizată recent, nu este necesar să faceți modificări în Setări.
+device_backgroundpage_line23 === Blocați aplicația
+device_backgroundpage_line24 === 1. Atingeți butonul Meniu, intrați în pagina Recente.
+device_backgroundpage_line25 === 2. Trageți în jos _8880_ până când apare o pictogramă de lacăt.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Economizor baterie
+device_backgroundpage_line28 === 1. Apăsați Smart Manager.
+device_backgroundpage_line29 === 2. Selectați Baterie și atingeți pentru a intra în pagina de setări.
+device_backgroundpage_line30 === 3. Atingeți Aplicații nemonitorizate, găsiți _8880_ și apăsați pentru a intra.
+device_backgroundpage_line31 === 4. Apăsați Baterie și atingeți Optimizare utilizare a bateriei.
+device_backgroundpage_line32 === 5. Selectați Toate aplicațiile, găsiți _8880_ și opriți comutatorul.
+device_backgroundpage_line33 === Blocați aplicația
+device_backgroundpage_line34 === 1. Atingeți butonul Meniu și introduceți paginile de program deschise recent.
+device_backgroundpage_line35 === 2. Atingeți pictograma Mai multe pentru a selecta Blocare aplicații.
+device_backgroundpage_line36 === 3. Atingeți pictograma de blocare a _8880_.
+device_backgroundpage_line37 === 4. Atingeți Terminat pentru a finaliza acțiunea.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Blocați aplicația
+device_backgroundpage_line40 === 1. Glisați în sus în partea stângă a ecranului de pornire pentru a intra în „Recente”.
+device_backgroundpage_line41 === 2. Apăsați și mențineți apăsat _8880_ până când apare o pictogramă de lacăt.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Economizor baterie
+device_backgroundpage_line44 === 1. Deschide Setări și atinge Baterie.
+device_backgroundpage_line45 === 2. Apăsați Economizor de energie.
+device_backgroundpage_line46 === 3. Găsiți _8880_ pentru a dezactiva Înghețarea fundalului și Optimizarea aplicațiilor anormale.
+device_backgroundpage_line47 === Dacă nu puteți seta după ce ați finalizat pașii de mai sus, încercați următoarele:
+device_backgroundpage_line48 === 1. Deschideți Phone Manager și găsiți Clean Background.
+device_backgroundpage_line49 === 2. Atingeți pentru a adăuga aplicația.
+device_backgroundpage_line50 === 3. Bifați _8880_ și atingeți OK.
+device_backgroundpage_line51 === Blocați aplicația
+device_backgroundpage_line52 === 1. Atingeți butonul Meniu, intrați în pagina Recente.
+device_backgroundpage_line53 === 2. Trageți în jos _8880_ până când apare o pictogramă de lacăt.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Economizor baterie
+device_backgroundpage_line56 === 1. Deschideți Manager și atingeți Power Manager.
+device_backgroundpage_line57 === 2. Selectați Putere în culise.
+device_backgroundpage_line58 === 3. Găsiți _8880_ și porniți comutatorul.
+device_backgroundpage_line59 === Blocați aplicația
+device_backgroundpage_line60 === 1. Atingeți butonul Meniu, intrați în pagina Recente.
+device_backgroundpage_line61 === 2. Trageți în jos _8880_ până când apare o pictogramă de lacăt.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Economizor baterie
+device_backgroundpage_line64 === 1. Deschideți Phone Manager.
+device_backgroundpage_line65 === 2. Atingeți Optimizarea utilizării bateriei aplicației.
+device_backgroundpage_line66 === 3. Găsiți _8880_ și opriți comutatorul.
+device_backgroundpage_line67 === Blocați aplicația
+device_backgroundpage_line68 === 1. Atingeți de două ori butonul Meniu, intrați în pagina Recente.
+device_backgroundpage_line69 === 2. Apăsați și mențineți apăsat _8880_ până când apare o pictogramă cu ace.
+device_backgroundpage_line70 === alte branduri
+device_backgroundpage_line71 === 1. Blocați aplicația _8880_ în Recente.
+device_backgroundpage_line72 === 2. Adăugați _8880_ la excepții.
+device_backgroundpage_line73 === 3. Dacă ați instalat un alt manager de pornire, eliminați _8880_ din lista de blocare.
+dashboard_adminmarketing_pushbtndesc === Transmiteți notificarea push către dispozitive
+dashboard_adminmarketing_notifybtndesc === Difuzați notificarea din browser către utilizatori
+dashboard_adminmarketing_mailerbtndesc === Trimiteți e-mail în bloc utilizatorilor
+js_loader_pleasewait === Va rugam asteptati
+js_userstatus_online === Pe net
+js_userstatus_offline === Deconectat
+js_whatsapp_linksuccess === Contul WhatsApp a fost conectat cu succes!
+js_whatsapp_linkfailed === Conectarea contului WhatsApp a eșuat!
+js_whatsapp_linkexist === WhatsApp a fost deja conectat la contul tău!
+js_whatsapp_loaderprocessing === Procesarea cererii
+js_clearpending_title === Ștergeți în așteptare?
+js_clearpending_desc === Toate articolele care așteaptă să fie trimise vor fi șterse și șterse!
+js_clearpending_processing === Procesarea cererii
+js_authenticate_processing === Procesarea cererii
+js_actiontrigger_title === Simulați Webhook
+js_actiontrigger_typetitle === Tip de date
+js_actiontrigger_typesms === mesaj
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Notificare
+js_actiontrigger_loader === Simularea webhook
+js_actiontranslator_title === Traducător
+js_actiontranslator_from === Tradu din
+js_actiontranslator_to === Tradu in
+js_actiontranslator_loader === Traducerea mesajului
+js_actionregen_title === Regenerați tokenul de sistem?
+js_actionregen_desc === Crearea unui nou token de sistem este ireversibilă!
+js_actionregen_loader === Se generează token
+js_actionclear_title === Ștergeți memoria cache?
+js_actionclear_desc === Toate datele din memoria cache a sistemului vor fi șterse!
+js_processing_dataloader === Procesarea cererii
+js_build_title === Creați un APK nou?
+js_build_desc === Vă rugăm să vă asigurați că ați configurat corect setările pentru constructor!
+js_build_btnbuild === Construi
+js_reorder_title === Reordonați limbile?
+js_reorder_desc === Limbile vor fi reordonate, acest lucru nu poate fi anulat!
+js_deletetrash_title === Ștergeți articole?
+js_deletetrash_desc === Doriți să ștergeți elementele selectate?
+js_tablesexport_copy === Clipboard
+js_tablesexport_excel === Export Excel
+js_tablesexport_pdf === Exportați PDF
+mail_expiredtpl_line1 === Bună,
+mail_expiredtpl_line2 === Ați primit acest mesaj deoarece abonamentul dvs. activ la pachet premium a expirat deja!
+mail_expiredtpl_line3 === Abonamentul dvs. a fost eliminat. Pentru a vă abona din nou la orice pachet premium, vizitați site-ul nostru.
+mail_expiredtpl_line4 === Pentru întrebări și probleme, nu ezitați să ne contactați!
+mail_expiredtpl_line5 === Mulțumesc!
+mail_expiringtpl_line1 === Bună,
+mail_expiringtpl_line2 === Acesta este un memento prietenos abonamentul dvs. activ la pachetul premium va expira în 5 zile!
+mail_expiringtpl_line3 === Pentru a preveni întreruperile serviciului, nu uitați să vă abonați din nou la orice pachet premium. Vă rugăm să vizitați site-ul nostru pentru a comanda din nou.
+mail_expiringtpl_line4 === Pentru întrebări și probleme, nu ezitați să ne contactați!
+mail_expiringtpl_line5 === Mulțumesc!
+mail_failedtpl_line1 === Bună,
+mail_failedtpl_line2 === Nu putem procesa tranzacția dvs. de plată, vă rugăm să încercați din nou folosind un alt furnizor sau altă metodă de plată.
+mail_failedtpl_line3 === ID de plată:
+mail_failedtpl_line4 === Îmi pare rău pentru neplăcerile create.
+mail_forgottpl_line1 === Bună,
+mail_forgottpl_line2 === Am primit o solicitare de extragere a contului pentru contul dvs., vă rugăm să utilizați această parolă temporară pentru a vă autentifica:
+mail_forgottpl_line3 === Nu uitați să vă schimbați parola după autentificare!
+mail_forgottpl_line4 === Parola va expira după 10 minute, fiți rapid. Dacă nu ați solicitat acest lucru, vă rugăm să ignorați acest e-mail.
+mail_forgottpl_line5 === Mulțumesc! Sper că funcționează.
+mail_payoutpaidtpl_line1 === Bună,
+mail_payoutpaidtpl_line2 === Solicitarea dvs. de plată a fost trimisă de echipa noastră la adresa dvs. și la furnizorul de plată selectat.
+mail_payoutpaidtpl_line3 === Cantitate:
+mail_payoutpaidtpl_line4 === Cheltuieli fericite!
+mail_payoutrejecttpl_line1 === Bună,
+mail_payoutrejecttpl_line2 === Nu putem procesa solicitarea dvs. de plată, poate exista o problemă cu adresa dvs. de plată. Vă rugăm să contactați echipa noastră pentru a afla mai multe.
+mail_payoutrejecttpl_line3 === Cantitate:
+mail_payoutrejecttpl_line4 === Îmi pare rău pentru neplăcerile create.
+mail_subscribetpl_line1 === Bună,
+mail_subscribetpl_line2 === Vă mulțumim că v-ați abonat la unul dintre pachetele noastre premium, iată o scurtă prezentare a achiziției dvs.:
+mail_subscribetpl_line3 === _8880_ Pachet
+mail_subscribetpl_line4 === Acest abonament va expira după _8880_
+mail_subscribetpl_line5 === Aceasta va intra în vigoare imediat. Pentru întrebări și probleme, nu ezitați să ne contactați!
+mail_subscribetpl_line6 === Mulțumesc!
+requests_build_submitrequest === Procesarea cererii
+requests_reorder_loader === Procesarea cererii
+requests_deleteitem_loader === Procesarea cererii
+requests_packageform_invalidint === Unele câmpuri conțin numere întregi nevalide!
+widgets_viewbank_title === Transfer bancar
+modal_paymentbtn_banktransfer === Transfer bancar
+modal_adminsettings_banktransfer1 === Șablon de transfer bancar
+modal_adminsettings_banktransfer2 === Dacă ați activat transferul bancar în opțiunile de plată, ar trebui să creați un șablon pentru acesta, acesta este ceea ce vor vedea utilizatorii când vor apăsa butonul. Puteți adăuga instrucțiunile și adresa băncii aici. HTML acceptat.
+modal_adminsettings_banktransfer3 === Set de variabile pe care le puteți utiliza în șablonul de transfer bancar.
+requests_delete_pluginssuccess === Pluginul a fost șters cu succes!
+table_whatsappreceived_chattitle === conversație
+table_whatsappreceived_accounttitle === Cont
+tabs_whatsappaccounts_titleheader === Conturi WhatsApp
+form_editwhatsapp_randominterval === Interval de trimitere aleatoriu
+form_editwhatsapp_randomintervalhelp === Dacă este activat, chat-urile vor fi trimise la intervale aleatorii între 2 valori. Le puteți configura mai jos.
+form_editwhatsapp_randommin === Interval de trimitere Min
+form_editwhatsapp_randomminhelp === Interval minim de trimitere în secunde.
+form_editwhatsapp_randommax === Interval de trimitere max
+form_editwhatsapp_randommaxhelp === Interval maxim de trimitere în secunde.
+dashpages_sms_headertitle === mesaj
+dashnav_sms_navname === mesaj
+widgets_editwhatsapp_title === Editează WhatsApp
+widgets_editwhatsapp_loader === Se salvează modificările contului WhatsApp
+mail_waunlink_title === Contul tău WhatsApp a fost deconectat!
+mail_waunlink_contentline1 === Bună!
+mail_waunlink_contentline2 === Unul dintre conturile dvs. WhatsApp conectate a fost eliminat cu următorul ID unic:
+mail_waunlink_contentline3 === Acest cont nu mai este conectat la sistemul nostru din cauza unui eveniment legat de WhatsApp, vă rugăm să-l conectați din nou.
+mail_waunlink_contentline4 === Mulțumesc!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Telefon
+form_btnall_visitlink === Vizita
+unsubscribe_header_title === Dezabonați-vă
+unsubscribe_content_title === Dezabonat
+unsubscribe_content_desc === V-ați dezabonat de pe lista noastră de trimiteri.
+requests_editwhatsapp_success === Contul WhatsApp a fost actualizat!
+form_addusertpl_credits === credite
+form_addusertpl_creditsdesc === Credite de pornire pentru acest cont de utilizator.
+form_addusertpl_creditsdesc2 === Modificați creditele acestui cont de utilizator.
+form_registerconfirm_desc === Adresa dvs. de e-mail a fost verificată cu succes. Vă puteți autentifica la contul dvs. folosind butonul de mai jos.
+requests_loginnotverified_response === Adresa de e-mail a contului dvs. nu este încă verificată. Am trimis un link de confirmare la această adresă: _8880_
+requests_loginnotverified_response2 === Contul dvs. a fost înregistrat cu succes. Înainte de a-l putea folosi, va trebui să vă verificați adresa de e-mail. Am trimis un link de confirmare la această adresă: _8880_
+requests_loginnotverified_responseunable === Nu putem trimite e-mailul de confirmare!
+requests_loginnotverified_emailtitle === Bun venit la _8880_! Confirmați adresa de e-mail a contului dvs. aici.
+requests_loginnotverified_emaildesc1 === Bună!
+requests_loginnotverified_emaildesc2 === Vă mulțumim că v-ați creat contul la noi, vă rugăm să vă verificați adresa de e-mail accesând acest link:
+requests_loginnotverified_emaildesc3 === Mulțumesc!
+form_adminsettings_authredi === Auth Redirection
+form_adminsettings_authredidesc === Alegeți locația de redirecționare după o autentificare cu succes.
+form_adminsettings_authredihomepage === Pagina principala
+form_adminsettings_authredidashboard === Bord
+form_adminsettings_defaultcoun === Țara implicită
+form_adminsettings_defaultcoundesc === Țara selectată implicit în formularul de înregistrare a utilizatorului.
+form_adminsettings_defaulttimezo === Fus orar implicit
+form_adminsettings_defaulttimezodesc === Fusul orar implicit selectat pe formularul de înregistrare a utilizatorului.
+form_adminsettings_mailingtrig === Triggere de corespondență
+form_adminsettings_mailingtrigdesc === Selectați declanșatoarele de corespondență pentru a le activa.
+form_adminsettings_adminemail === E-mail admin
+form_adminsettings_adminemaildesc === Mesajele declanșate prin corespondență pentru administrator vor fi trimise la această adresă de e-mail. Aceste mesaje sunt disponibile numai în limba engleză și nu pot fi traduse.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Când este activat, recaptcha va fi afișat în formularele de autentificare, cum ar fi înregistrarea, autentificarea și parola uitată.
+form_editdevice_receiveoptiontitle === Primiți SMS
+form_editdevice_receiveoptiondesc === Dacă este dezactivată, mesajele primite din inbox Android nu vor fi salvate de sistem. Webhook-urile și alte instrumente conexe nu vor funcționa pentru dispozitiv când aceasta este dezactivată.
+form_editwhatsapp_receiveoptiontitle === Primiți chat-uri
+form_editwhatsapp_receiveoptiondesc === Dacă este dezactivată, chaturile primite din contul WhatsApp nu vor fi salvate de sistem. Webhook-urile și alte instrumente conexe nu vor funcționa pentru contul WhatsApp atunci când aceasta este dezactivată.
+js_calendarall_option === Toate
+js_calendarall_apply === aplica
+js_calendarall_cancel === Anulare
+js_calendarall_from === Din
+js_calendarall_to === La
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === lu
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Noi
+js_calendarall_dayth === Th
+js_calendarall_dayfr === pr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === ianuarie
+js_calendarall_monfeb === februarie
+js_calendarall_monmar === Martie
+js_calendarall_monapr === Aprilie
+js_calendarall_monmay === Mai
+js_calendarall_monjun === iunie
+js_calendarall_monjul === iulie
+js_calendarall_monaug === August
+js_calendarall_monsep === Septembrie
+js_calendarall_monoct === octombrie
+js_calendarall_monnov === noiembrie
+js_calendarall_mondec === decembrie
+response_ussddelete_success === Solicitarea USSD a fost ștearsă!
+response_titanecho_invaltoken === Eroare de configurare a sistemului!
+widgets_addplugin_loader === Se instalează un nou plugin pe sistem
+widgets_addwhatsapp_newmodal === Conectați-vă WhatsApp făcând clic pe butonul pentru a afișa codul QRC, apoi scanați-l prin butonul _8880_ din aplicație. Aveți doar 15 secunde pentru a scana codul QRC.
+widgets_addwhatsapp_newmodal2 === _8880_ a expirat, dacă contul dvs. a fost conectat sau nu, vă rugăm să faceți clic pe butonul de mai jos.
+widgets_addwhatsapp_newmodal3 === Continua
+widgets_addwhatsapp_newmodal4 === Anulare
+datatable_addedtoclipboard === Adăugat în clipboard
+datatable_addedtoclipboardkeys === Faceți clic pe butonul de copiere pentru a adăuga rândurile afișate în clipboard.
+datatable_addedtoclipboardmulti === Rânduri copiate:
+datatable_addedtoclipboardsingle === 1 rând copiat
+table_details_schedulednewrepeat === Repeta:
+and_edit_dev_line70_1_new === Suma pe care doriți să o percepeți pe mesaj, țara dispozitivului va fi folosită ca bază de monedă. Sunt acceptate și valorile flotante, cum ar fi cenți.
+widget_waquick_requireaccountnew1 === cont WhatsApp
+requests_whatsapp_notavail === Serverul WhatsApp nu este disponibil!
+requests_whatsapp_unablegenqr === Imposibil de generat WhatsApp QRCode!
+requests_charts_commisionstitle === comisioane
+requests_token_refreshecho === Tokenul pentru _8880_ a fost reîmprospătat!
+requests_remote_smscampaignresumed === Campania SMS a fost reluată!
+requests_remote_smscampaignpaused === Campania SMS a fost întreruptă!
+requests_remote_wacampaignresumed === Campania WhatsApp a fost reluată!
+requests_remote_wacampaignpaused === Campania WhatsApp a fost întreruptă!
+requests_create_payoutwithdrawalamountatleast === Suma retragerii ar trebui să fie de cel puțin _8880_ _8881_!
+requests_sms_intervaltypereachedmax === S-a ajuns la _8880_ mesaje permise pentru acest dispozitiv, vă rugăm să încercați din nou mai târziu!
+requests_sms_encounteredgatewayerror === Am întâlnit o eroare de gateway!
+requests_sms_gatewaycannotsendowndevices === Nu puteți trimite mesaje cu credite folosind propriile dispozitive!
+requests_create_encounteredshortenererror === Am întâlnit o eroare de scurtare!
+requests_create_campaignnametooshort === Numele campaniei este prea scurt!
+requests_sms_intervaltypedaily === zilnic
+requests_sms_intervaltypemonthly === lunar
+requests_sms_reachedmaximumsentpackage === Ați atins numărul maxim de mesaje trimise pentru pachetul dvs. actual!
+response_message_bulkqueuednew === _8880_ mesajele au fost puse în coadă pentru trimitere!
+response_whatsapp_invalidmediafile === Fișier media nevalid!
+response_whatsapp_atleastonebutt === Vă rugăm să adăugați cel puțin un buton!
+response_whatsapp_invalidimagefile === Fișier imagine nevalid!
+response_whatsapp_listtitlereq === Titlul listei este obligatoriu!
+response_whatsapp_listmenureq === Este necesar titlul meniului listei!
+response_whatsapp_listformatreq === Formatul listei este necesar!
+response_whatsapp_listformatinval === Formatul listei este nevalid!
+response_whatsapp_tempformatreq === Formatul șablonului este necesar!
+response_whatsapp_tempformatinval === Formatul șablonului este nevalid!
+response_whatsapp_failedchatsqueue === Nu s-a adăugat chatul la coada WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ chat-uri au fost puse în coadă pentru trimitere!
+response_whatsapp_failedchatsqueuemany === Nu s-au adăugat chat-uri la coada WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === Ne pare rău, nicio conversație nu a fost pusă în coadă. Vă rugăm să verificați limita de expediere a pachetului dvs.!
+response_whatsapp_successfetchgroups === Au fost preluate cu succes _8880_ grupuri!
+response_whatsapp_nogroupsfoundfetch === Nu au fost găsite grupuri!
+response_partners_commisionerror === Procentajul comisionului partenerului nu poate fi mai mic de 1 și mai mare de 80!
+response_delete_smsdeletecampaign === Campania SMS a fost ștearsă!
+response_delete_wacampaigndeleted === Campania WhatsApp a fost ștearsă!
+response_delete_wagroupdeleted === Grupul WhatsApp a fost șters!
+table_smscampaign_createdtitle === Creată
+table_smscampaign_nametitle === Nume
+table_smscampaign_gatewaytitle === Poarta de acces
+table_smscampaign_contactstitle === Contacte
+table_smscampaign_statustitle === stare
+table_smscampaign_optionstitle === Opțiuni
+table_campaign_completedstatus === Efectuat
+table_smscagmpaign_processingstatus === _8880_ din _8881_ procesat
+table_campaign_pausecampaign === Întrerupeți această campanie
+table_campaign_resumecampaign === Reluați această campanie
+table_smsscheduled_lastsendinfo === Ultima trimitere
+table_smstransac_createdtitle === Creată
+table_smstransac_sendertitle === Expeditor
+table_smstransac_devicetitle === Dispozitiv
+table_smstransac_messagetitle === Mesaj
+table_smstransac_earningstitle === Câștiguri
+table_smstransac_messageremoved === Mesajul a fost eliminat!
+table_wacampaign_createdtitle === Creată
+table_wacampaign_nametitle === Nume
+table_wacampaign_accounttitle === Cont
+table_wacampaign_typetitle === Tip
+table_wacampaign_contactstitle === Contacte
+table_wacampaign_statustitle === stare
+table_wacampaign_optionstitle === Opțiuni
+table_wacampaign_processingstatus === _8880_ din _8881_ procesat
+table_wascheduled_lastsendinfo === Ultima trimitere
+table_campaign_pendingstatus === In asteptarea
+table_wagroups_nametitle === Nume
+table_wagroups_accounttitle === Cont
+table_wagroups_addresstitle === Adresa grupului
+table_wagroups_optionstitle === Opțiuni
+table_waaccounts_statustitle === stare
+table_waaccounts_statusconnected === Conectat
+table_waaccounts_statusconnecting === Conectare
+table_waaccounts_statusdisconnecting === Deconectarea
+table_waaccounts_statusdisconnected === Deconectat
+table_waaccounts_statuserror === Eroare
+table_waaccounts_copyaccountid === Copiați ID-ul contului
+table_android_brandtitle === Marca
+table_android_partnertitle === Partener
+table_android_statustitle === stare
+table_android_statusonline === Pe net
+table_android_statusoffline === Deconectat
+table_android_copydeviceid === Copiați ID-ul unic al dispozitivului
+table_partnerrates_devicename === Nume dispozitiv
+widget_fetchgroups_titlefetch === Preluați grupuri
+widget_fetchgroups_loaderfetch === Se preiau grupuri din cont
+pages_admin_tokenrefreshbutt === Jeton
+pages_admin_tokenrefreshbutthelp === Actualizează jetonul de comunicare socket. Dacă sistemul nu afișează notificări live sau nu se actualizează în timp real, vă rugăm să faceți clic pe acest buton.
+pages_admin_cachehelp === Goliți întregul cache al sistemului. Avertizare! Acest lucru va șterge, de asemenea, cache-urile legate de API, autentificare și plată. Se recomandă să faceți acest lucru numai atunci când faceți upgrade a sistemului.
+pages_admin_themehelp === Modificați șablonul și designul site-ului.
+pages_admin_systemsettingshelp === Ajustați setările importante ale sistemului.
+pages_sms_campaignstab === Campanii
+pages_sms_partnertransactions === Tranzacții
+pages_whatsapp_campaignstab === Campanii
+pages_whatsapp_groupstab === Grupuri
+forms_repeatdays_title === Zilele repetate
+forms_repeatdays_tagline === Introduceți câte zile să așteptați până la trimiterea repetată a mesajului. Introduceți 365 pentru a repeta în fiecare an la aceeași lună, zi și oră, dacă nu, va urma doar ora. Introduceți 0 pentru a dezactiva repetarea.
+forms_whatsapp_messagetype === Tip mesaj
+forms_whatsapp_messagetypehelp === Selectați tipul de mesaj WhatsApp.
+forms_whatsapp_typetext === Text
+forms_whatsapp_typemedia === Mass-media
+forms_whatsapp_typebutton === Buton
+forms_whatsapp_typelist === Listă
+forms_whatsapp_typetemplate === Șablon
+forms_whatsapp_mediafile === Fișier media
+forms_whatsapp_mediafilehelp === Fișier media, fișierul media care trebuie încărcat. Suportă fișiere .jpg, .png, .gif și .mp4.
+forms_whatsapp_imagefile === Fișier imagine
+forms_whatsapp_imagefilehelp === Fișier imagine personalizat, acesta este opțional.
+forms_whatsapp_buttons === Butoane
+forms_whatsapp_buttonshelp === Butoane personalizate, primul buton este necesar.
+forms_whatsapp_buttonsplace1 === Butonul 1
+forms_whatsapp_buttonsplace2 === Butonul 2 (Opțional)
+forms_whatsapp_buttonsplace3 === Butonul 3 (Opțional)
+forms_whatsapp_listtitle === Titlul listei
+forms_whatsapp_listtitlehelp === Acesta este titlul listei.
+forms_whatsapp_listplacetitle === Lista mea
+forms_whatsapp_listmenutitle === Titlul meniului
+forms_whatsapp_listmenutitlehelp === Acesta este titlul meniului.
+forms_whatsapp_listmenutitleplace === Titlul meniului
+forms_whatsapp_footermessage === Mesaj de subsol
+forms_whatsapp_footermessagehelp === Mesaj personalizat de subsol, acesta este opțional.
+forms_whatsapp_footermessageplace === Acesta este mesajul de subsol...
+forms_whatsapp_listformat === Format listă
+forms_whatsapp_listformathelp === Acesta este formatul listei, json furnizat trebuie să fie valid.
+forms_whatsapp_templateformat === Format șablon
+forms_whatsapp_templateformathelp === Acesta este formatul șablonului, json furnizat trebuie să fie valid.
+and_settings_line159new === Acest simbol nu trebuie să fie distribuit nimănui. Acesta este utilizat pentru securitatea cronjob-urilor, a API-ului de sistem, a solicitărilor WhatsApp și a altor solicitări externe. Dacă credeți că tokenul dvs. de sistem a fost compromis, vă rugăm să regenerați unul nou, va trebui să vă reconfigurați cronjob-urile, API-ul de sistem și alte setări aferente după regenerarea unui nou token. Acest lucru va afecta și sistemul WhatsApp, toate conturile conectate nu vor mai funcționa.
+forms_systemsettings_servicestitle === Servicii
+forms_systemsettings_waserver === Adresa URL a serverului WhatsApp
+forms_systemsettings_waserverhelp === URL-ul serverului tău WhatsApp, trebuie să îl găzduiești pe propriul tău server. Vă rugăm să citiți documentația pentru instrucțiuni de configurare.
+forms_systemsettings_waport === Portul serverului WhatsApp
+forms_systemsettings_waporthelp === Portul serverului dvs. WhatsApp, portul implicit este 7001. Vă rugăm să citiți documentația pentru instrucțiuni de configurare.
+forms_systemsettings_messagestitle === Mesaje
+forms_systemsettings_partnercommission === Comisia de parteneri
+forms_systemsettings_partnercommissionhelp === Procentul de comision pe care doriți să îl deduceți din câștigurile partenerilor pentru fiecare mesaj trimis. Aceștia vor fi banii tăi și vor fi afișați în statisticile din panoul de administrare. Procentul nu trebuie să fie mai mic de 1 și mai mare de 80!
+forms_systemsettings_partnerminimum === Plată minimă pentru partener
+forms_systemsettings_partnerminimumhelp === Suma minimă a câștigurilor pentru a putea solicita retragerea. Această sumă va folosi, de asemenea, moneda implicită a sistemului, care este aceeași cu câștigurile.
+forms_editdevice_sendinglimittitle === Limită de trimitere
+forms_editdevice_limitstatus === Stare limită
+forms_editdevice_limitstatushelp === Dacă este activat, numărul permis de mesaje care pot fi trimise folosind acest dispozitiv va fi limitat pe zi sau lună.
+forms_editdevice_limitinterv === Interval limită
+forms_editdevice_limitintervhelp === Selectați tipul de întârziere înainte de a reîmprospăta contorul de limită.
+forms_editdevice_messagecount === Numărul de mesaje
+forms_editdevice_messagecounthelp === Numărul de mesaje care pot fi trimise în intervalul limită.
+forms_editdevice_limitintervselect1 === Zilnic
+forms_editdevice_limitintervselect2 === Lunar
+forms_editdevice_partnerstatus === Statutul de partener
+forms_edituser_clockformat === Format ceas
+forms_edituser_clockformathelp === Selectați formatul de ceas pe care să îl utilizați când afișați ora oriunde în sistem.
+forms_edituser_clockformatselect1 === 12 ore
+forms_edituser_clockformatselect2 === 24 de ore
+forms_edituser_dateformat === Formatul datei
+forms_edituser_dateformathelp === Selectați formatul de dată de utilizat când afișați data oriunde în sistem.
+forms_edituser_dateseparator === Separator de date
+forms_edituser_dateseparatorhelp === Selectați separatorul de dată de utilizat atunci când afișați data oriunde în sistem.
+forms_campagin_formname === Denumirea campaniei
+forms_campagin_formhelp === Numele campaniei, va fi creat un jurnal de activitate pentru aceste mesaje în bloc, veți putea opri cu ușurință trimiterea prin managerul de campanie.
+forms_campaign_formplaceholder === de exemplu. Exemplu de campanie
+forms_whatsapp_numbersgroupsname === Numerele sau adresa de grup
+forms_whatsapp_numbersgroupshelp === Mai multe numere E.164 și adrese de grup WhatsApp separate prin întrerupere de linie.
+forms_whatsapp_groupsimportname === Cont WhatsApp
+forms_whatsapp_groupsimportnamehelp === Selectați contul WhatsApp de unde vor fi preluate grupurile.
+forms_whatsapp_groupsimportbutton === Preluare
+forms_whatsapp_phonegroupsname === Adresa de telefon sau de grup
+forms_whatsapp_phonegroupshelp === E.164 numărul de telefon al destinatarului sau adresa grupului WhatsApp.
+pages_administration_commissionstitle === comisioane
+pages_smscampaigns_header === Campanii
+pages_smstransactions_header === Tranzacții
+pages_smstransactions_comtagline === Toate SMS-urile trimise folosind dispozitive partenere au o taxă de tranzacție de _8880_%. Aceasta este deja dedusă în tabelul următor.
+pages_wacampaigns_header === Campanii
+pages_wagroups_header === Grupuri
+pages_wagroups_fetchbtn === Preluați grupuri
+tables_plugins_noactionsline === Fără acțiuni
+plugin_header_selectmethod === selecteaza metoda de plata
+title_plugin_paymentpage === Pagina de plată
+payment_title_pending === Comanda în așteptare
+btn_plugin_cancelorderpayment === Anulați plata
+payment_title_orderfailed === Comanda a eșuat
+payment_page_orderfailed === A apărut o eroare în timpul procesării cererii dvs. de comandă.
+and_rate_gate_3new === _8880_ Tarife
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Opțiuni

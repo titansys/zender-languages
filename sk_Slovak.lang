@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Panel správcov
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Naplánovaný
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Upozornenia
+and_dashboard_pages_android_line58 === Zariadenia
+and_dashboard_pages_contacts_line40 === Zrušený odber
+and_dashboard_pages_defailt_line37 === Vstupné sadzby
+and_dashboard_pages_default_line42 === Dokumenty
+and_dashboard_pages_default_line58 === Správy
+and_dashboard_pages_default_line60 === Posledných 7 dní
+and_dashboard_pages_default_line74 === Diania
+and_dashboard_pages_default_line76 === Posledných 7 dní
+and_dashboard_pages_default_line90 === Verejné služby
+and_dashboard_pages_default_line92 === Posledných 7 dní
+and_dashboard_pages_default_line109 === Partneri
+and_dashboard_pages_default_line117 === Zárobok
+and_dashboard_pages_default_line131 === Výplata
+and_dashboard_pages_default_line140 === Zostatok
+and_dashboard_pages_default_line148 === Kredity
+and_dashboard_pages_default_line162 === Doplňte
+and_dashboard_pages_default_line170 === Pomer doručenia
+and_dash_pg_def_line178 === Úspech
+and_dash_pg_def_line190 === Nepodarilo sa
+and_dash_pg_def_line204 === odosielateľov
+and_dash_pg_def_line209 === Nie ste predplatiteľmi žiadneho z našich prémiových balíkov!
+and_dash_pg_def_line217 === Zariadenia
+and_dash_pg_def_line224 === Spojený
+and_dash_pg_def_line232 === účty
+and_dash_pg_def_line239 === Spojený
+and_dash_pg_def_line250 === Stiahnite si a nainštalujte našu oficiálnu aplikáciu, aby ste získali čo najlepší používateľský zážitok
+and_dash_pg_doc_line10 === Dokumenty
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooky
+and_dash_pg_doc_line40 === Akcie
+and_dash_pg_doc_line46 === Zariadenia
+and_dash_pg_doc_line52 === partnerstvo
+and_dash_pg_for_line29 === Zrušiť
+and_dash_pg_log_line14 === Prihlásiť sa cez Facebook
+and_dash_pg_log_line17 === Prihláste sa pomocou Google
+and_dash_pg_log_line20 === Prihláste sa pomocou VKontakte
+and_dash_pg_log_line54 === Vytvoriť účet
+and_dash_pg_pay_line45 === Dostali sme vašu žiadosť o objednávku, náš systém vám automaticky pošle e-mail a po overení platobnej transakcie použije zmeny vo vašom účte.
+and_dash_pg_rates_line10 === Vstupné sadzby
+and_dash_pg_rates_line39 === Partneri
+and_dash_pg_reg_line15 === Zaregistrujte sa na Facebooku
+and_dash_pg_reg_line20 === Zaregistrujte sa na Google
+and_dash_pg_reg_line25 === Zaregistrujte sa na VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Odoslané
+and_dash_pg_whats_line34 === Prijaté
+and_dash_pg_whats_line40 === Naplánovaný
+and_dash_pg_whats_line46 === účty
+and_dash_api_line17 === Názov kľúča.
+and_dash_api_line19 === napr. Pre môj server
+and_dash_api_line24 === Kľúčové povolenia.
+and_dash_auto_line17 === Názov akcie.
+and_dash_auto_line19 === napr. Michael
+and_dash_auto_line24 === Zdroj
+and_dash_auto_line24_1 === Zdroj udalosti prijatia.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Odpovedzte na kľúčové slová oddelené čiarkami. Tieto kľúčové slová spustia automatickú odpoveď, ak sa zistia v obsahu správy.
+and_dash_auto_line36 === napr. ďakujem, dobre, prihláste sa, áno
+and_dash_auto_line41 === Správa, ktorá sa má odoslať odosielateľovi.
+and_dash_auto_line43 === napr. Vaša odpoveď je tu, skrátené kódy sú akceptované
+and_dash_auto_line48 === Sada premenných, ktoré môžete použiť vo svojej správe.
+and_dash_con_line24 === Kontaktné číslo.
+and_dash_con_line31 === Kontaktná skupina.
+and_dash_con_line17 === Kontaktné meno.
+and_dash_cre_line28 === Nákup
+and_dash_gate_line17 === názov
+and_dash_gate_line17_1 === Toto je názov brány, ktorý sa zobrazí vašim používateľom.
+and_dash_gate_line19 === napr. Twilio
+and_dash_gate_line24 === Ovládač
+and_dash_gate_line24_1 === Vyberte súbor ovládača brány, ktorý bude obsahovať logiku a kód vašej brány. Odporúča sa skontrolovať dokumentáciu.
+and_dash_gate_line27 === Doska regulátora:
+and_dash_gate_line34 === Zavolaj späť
+and_dash_gate_line34_1 === Ak je táto možnosť povolená, správy sa budú musieť overiť pomocou funkcie spätného volania brány tretej strany pre stav odoslania, v opačnom prípade budú správy pri odoslaní okamžite označené ako odoslané.
+and_dash_gate_line37 === Povoliť
+and_dash_gate_line38 === Zakázať
+and_dash_gate_line44 === ID spätného volania
+and_dash_gate_line44_1 === Ak je povolené spätné volanie, musíte skopírovať toto ID a prilepiť ho do ovládača, aby systém mohol spätné volanie identifikovať.
+and_dash_gate_line47 === Skopírujte a prilepte ID spätného volania
+and_dash_gate_line54 === Stanovenie cien
+and_dash_gate_line54_1 === Vaša vlastná cenová tabuľka pre túto bránu. To vám umožní účtovať navyše k cenám tretích strán. Napríklad, ak twilio účtuje 0,01 pre konkrétnu krajinu, potom môžete namiesto toho účtovať 0,02, mena je založená na mene vášho systému. Prosím dodržujte správne cenový formát.
+and_dash_gate_line57 === Vzorová cena JSON:
+and_dash_gate_line57_1 === Stiahnuť ▼
+and_dash_grp_line17 === Názov skupiny.
+and_dash_grp_line19 === napr. Priatelia
+and_dash_hook_line17 === Názov akcie.
+and_dash_hook_line19 === napr. Testovacia akcia
+and_dash_hook_line24 === Zdroj
+and_dash_hook_line24_1 === Zdroj udalosti.
+and_dash_hook_line34 === Vyberte udalosť, kde sa tento háčik vyvolá.
+and_dash_hook_line44 === Štruktúra hákového odkazu, toto je adresa URL, ktorú systém vyvolá. Podporovaná je iba metóda GET.
+and_dash_hook_line51 === Sada premenných, ktoré môžete použiť vo svojej adrese URL háku.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Pri odoslaní
+and_dash_hook_line38 === Pri príjme
+and_dash_lang_line17 === Názov jazyka.
+and_dash_lang_line19 === napr. kórejský
+and_dash_lang_line24 === Kód krajiny.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Ak je povolené, jazyk bude identifikovaný ako smer sprava doľava.
+and_dash_lang_line38 === Áno
+and_dash_lang_line39 === nie
+and_dash_lang_line45 === Prekladové reťazce.
+and_dash_mail_line17 === Názov
+and_dash_mail_line17_1 === Názov pošty.
+and_dash_mail_line19 === napr. Oznámenie
+and_dash_mail_line24 === Používatelia
+and_dash_mail_line24_1 === Odoslať používateľmi.
+and_dash_mail_line36 === Roly
+and_dash_mail_line36_1 === Odoslať podľa rolí.
+and_dash_mail_line48 === Obsah
+and_dash_mail_line48_1 === Obsah pošty, html povolené.
+and_dash_mail_line50 === Ahoj svet!
+and_dash_not_line17 === Názov
+and_dash_not_line17_1 === Upozorniť na názov.
+and_dash_not_line19 === napr. Oznámenie
+and_dash_not_line24 === Správa
+and_dash_not_line24_1 === Upozorniť správu.
+and_dash_not_line31 === Farba
+and_dash_not_line31_1 === Oznámiť farbu.
+and_dash_not_line35 === Úspech
+and_dash_not_line36 === POZOR
+and_dash_not_line37 === Nebezpečenstvo
+and_dash_not_line43 === Obrázok
+and_dash_not_line43_1 === Upozorniť obrázok, je to voliteľné.
+and_dash_not_line46 === Voliteľné
+and_dash_not_line53 === Používatelia
+and_dash_not_line53_1 === Vysielané používateľmi.
+and_dash_not_line65 === Roly
+and_dash_not_line65_1 === Vysielané podľa rolí.
+and_pack_line17 === Názov balíka.
+and_pack_line19 === napr. VIP balíček
+and_pack_line24 === Cena balíka, mala by sa riadiť menou systému. Pohyblivé hodnoty nie sú povolené.
+and_pack_line29 === napr. 25
+and_pack_line34 === Ak je táto možnosť povolená, správy a chaty Whatsapp budú po prijatí príjemcami obsahovať značku päty.
+and_pack_line44 === Ak je táto možnosť povolená, balík bude skrytý z modálnej stránky balíka a domovskej stránky.
+and_pack_line58 === Limit odosielania SMS
+and_pack_line58_1 === Maximálny počet správ, ktoré môže používateľ odoslať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line60 === napr. 300
+and_pack_line65 === Limit prijímania SMS
+and_pack_line65_1 === Maximálny počet správ, ktoré môže používateľ prijať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line67 === napr. 150
+and_pack_line72 === Limit USSD
+and_pack_line72_1 === Maximálny počet ussd, ktorý môže používateľ požadovať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line74 === napr. 25
+and_pack_line79 === Limit upozornení
+and_pack_line79_1 === Maximálny počet upozornení, ktoré môže používateľ dostať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line81 === napr. 1300
+and_pack_line86 === Maximálny počet zariadení so systémom Android, ktoré možno prepojiť s používateľským účtom. Zadajte 0 pre neobmedzené.
+and_pack_line88 === napr. 25
+and_pack_line92 === Nastavenia WhatsApp
+and_pack_line97 === Maximálny počet rozhovorov, ktoré môže používateľ odoslať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line99 === napr. 300
+and_pack_line104 === Maximálny počet rozhovorov, ktoré môže používateľ prijať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_pack_line106 === napr. 150
+and_pack_line111 === Limit účtu
+and_pack_line111_1 === Maximálny počet účtov WhatsApp, ktoré možno prepojiť s účtom používateľa. Zadajte 0 pre neobmedzené.
+and_pack_line113 === napr. 10
+and_pack_line117 === Nastavenia Ultility
+and_pack_line122 === Maximálny počet kontaktov, ktoré môže používateľ uložiť. Zadajte 0 pre neobmedzené.
+and_pack_line124 === napr. 25
+and_pack_line129 === Plánovaný limit
+and_pack_line129_1 === Maximálny počet naplánovaných správ/chatov, ktoré môže používateľ uložiť. Zadajte 0 pre neobmedzené. Toto je kombinované pre SMS aj WhatsApp.
+and_pack_line131 === napr. 25
+and_pack_line136 === Maximálny počet kľúčov API, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_pack_line138 === napr. 10
+and_pack_line143 === Maximálny počet webhookov, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_pack_line145 === napr. 5
+and_pack_line150 === Limit akcií
+and_pack_line150_1 === Maximálny počet akcií, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_pack_line152 === napr. 5
+and_page_line17 === Názov stránky.
+and_page_line24 === Na túto stránku budú mať prístup iba vybrané roly.
+and_page_line35 === Ak je povolené, stránka nebude prístupná bez prihlásenia.
+and_page_line45 === Obsah stránky. Všetky html tagy sú povolené, buďte opatrní pri pridávaní skriptov z neznámych zdrojov!
+and_payout_line17 === Suma
+and_payout_line17_1 === Suma na výber, len celé čísla.
+and_payout_line19 === napr. 50
+and_payout_line24 === Poskytovateľ
+and_payout_line24_1 === Vyberte poskytovateľa platieb, ktorého chcete použiť na prijímanie peňazí.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Platobná adresa
+and_payout_line34_1 === Platobnú adresu alebo e-mail, pozorne skontrolujte, aby ste predišli problémom s platbou.
+and_payout_line36 === napr. Váš e-mail PayPal
+and_payout_line43 === Žiadosť
+and_plug_line17 === Súbor doplnku
+and_plug_line17_1 === Zásuvný súbor zip, uistite sa, že ste vybrali správny súbor.
+and_push_line17 === Názov
+and_push_line17_1 === Zatlačte názov.
+and_push_line19 === napr. Oznámenie
+and_push_line24 === Obrázok
+and_push_line24_1 === Push miniatúru obrázka, je to voliteľné.
+and_push_line27 === Voliteľné
+and_push_line34 === Správa
+and_push_line34_1 === Push správu.
+and_push_line41 === Používatelia
+and_push_line41_1 === Vysielané používateľmi.
+and_push_line53 === Roly
+and_push_line53_1 === Vysielané podľa rolí.
+and_role_line17 === Názov role.
+and_role_line19 === napr. Vývojár
+and_role_line24 === Vyberte povolenia a funkcie, ktoré chcete pre túto rolu zakázať/povoliť. Zmeny sa aplikujú v reálnom čase, karty prehliadača pripojených používateľov s rolou sa automaticky znova načítajú.
+and_short_line17 === názov
+and_short_line17_1 === Názov skracovača.
+and_short_line19 === napr. Bitly
+and_short_line24 === Ovládač
+and_short_line24_1 === Vyberte súbor ovládača skracovača, ktorý bude obsahovať vašu logiku a kód skracovača. Odporúča sa skontrolovať dokumentáciu.
+and_short_line27 === Doska regulátora:
+and_sms_line17 === Názov naplánovanej správy.
+and_sms_line19 === napr. Moja správa
+and_sms_line24 === Vyberte dátum plánu.
+and_sms_line26 === napr. 22.06.2020 00:00
+and_sms_line31 === Ak je povolená, správa sa naplánuje vždy, keď sa zhoduje naplánovaný dátum.
+and_sms_line42 === Viaceré čísla E.164 oddelené zlomom riadku.
+and_sms_line55 === Vyberte viacero skupín kontaktov
+and_sms_line67 === Skracovač
+and_sms_line67_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_sms_line70 === Neskracujte odkazy
+and_sms_line79 === Režim brány
+and_sms_line79_1 === Režim brány, ktorý chcete použiť. Ak vyberiete zariadenia, vaše prepojené zariadenia sa zobrazia na odoslanie, v opačnom prípade sa zobrazia brány tretích strán a partnerské brány.
+and_sms_line82 === Zariadenia
+and_sms_line83 === Kredity
+and_sms_line88 === Slot na SIM kartu na použitie.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Vaše vopred pripravené šablóny správ.
+and_sms_line110 === Vaše prepojené zariadenia, vyberte, čo chcete použiť na odosielanie.
+and_sms_line121 === SMS brána
+and_sms_line121_1 === Brány tretích strán a partnerov, vaše kredity sa použijú pri odosielaní správ pomocou týchto brán. Pred použitím brány odporúčame skontrolovať jej ceny.
+and_sms_line141 === Spintax
+and_sms_line144 === Príklad:
+and_sms_line144_1 === Tom je a
+and_sms_line144_2 === kat
+and_sms_line147 === Hodnoty
+and_sms_line147_1 === dobre
+and_sms_line147_2 === a
+and_sms_line147_3 === zlý
+and_sms_line147_4 === budú použité náhodne.
+and_subs_line17 === Užívateľský účet.
+and_subs_line28 === Predplatiteľský balík.
+and_subs_line41 === Trvanie predplatného.
+and_subs_line43 === napr. 12
+and_temp_line17 === Názov šablóny.
+and_temp_line24 === Formát šablóny.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_temp_line35 === Príklad:
+and_temp_line35_1 === Tom je a
+and_temp_line35_2 === kat
+and_temp_line38 === Hodnoty
+and_temp_line38_1 === dobre
+and_temp_line38_2 === zlý
+and_temp_line38_3 === budú použité náhodne.
+and_temp_line43 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_user_line17 === Celé meno.
+and_user_line19 === napr. Michael Cors
+and_user_line24 === Platná emailová adresa.
+and_user_line26 === napr. pouzivatel@mail.com
+and_user_line31 === Zadajte heslo používateľa.
+and_user_line38 === Časové pásmo polohy používateľa, zmeňte ho, ak sa nachádza v inej krajine. Časové pásmo sa používa na presnosť dátumu a času odoslaných správ a iných údajov.
+and_user_line49 === Krajina
+and_user_line49_1 === Krajina používateľa, používa sa na platby a formátovanie telefónneho čísla.
+and_user_line60 === Zvuky upozornení
+and_user_line60_1 === Ak je táto možnosť vypnutá, upozornenia budú tiché.
+and_user_line70 === Vyberte rolu používateľa.
+and_user_line81 === Vyberte jazyk používateľa.
+and_user_line92 === Partnerský program
+and_user_line92_1 === Ak je táto možnosť povolená, používatelia budú môcť používať svoje zariadenia ako globálne zariadenia, ktoré im umožnia zarábať peniaze, keď iní používatelia posielajú správy pomocou ich zariadení.
+and_ussd_line17 === USSD kód
+and_ussd_line17_1 === Kód požiadavky USSD.
+and_ussd_line19 === napr. *121#
+and_ussd_line24 === Slot na SIM kartu na použitie.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Vaše prepojené zariadenia, vyberte, čo chcete použiť pre požiadavku ussd.
+and_ussd_line47 === Žiadosť
+and_vouch_line17 === Názov voucheru.
+and_vouch_line19 === napr. Špeciálne
+and_vouch_line24 === Množstvo poukážok, ktoré chcete vytvoriť. Maximálna hodnota je 1000!
+and_vouch_line26 === napr. 100
+and_vouch_line31 === Trvanie predplatného.
+and_vouch_line33 === napr. 12
+and_vouch_line38 === Predplatiteľský balík.
+and_web_line17 === Názov webhooku.
+and_web_line24 === Prijímanie udalostí
+and_web_line24_1 === Vyberte udalosti príjmu, ktoré potrebujete, budú odoslané na vašu webovú adresu URL pomocou metódy POST.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Upozornenia
+and_web_line36 === Vaša adresa URL webhooku, všetky údaje o užitočnom zaťažení sa sem odošlú metódou POST.
+and_web_line38 === napr. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Názov naplánovaného rozhovoru.
+and_whatssched_line19 === napr. Moja správa
+and_whatssched_line24 === Vyberte dátum plánu.
+and_whatssched_line26 === napr. 22.06.2020 00:00
+and_whatssched_line31 === Ak je povolená, rozhovor sa naplánuje vždy, keď sa zhoduje naplánovaný dátum.
+and_whatssched_line42 === Viaceré čísla E.164 oddelené zlomom riadku.
+and_whatssched_line55 === Vyberte viacero skupín kontaktov
+and_whatssched_line67 === Skracovač
+and_whatssched_line67_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_whatssched_line70 === Neskracujte odkazy
+and_whatssched_line79 === účtu
+and_whatssched_line79_1 === Vyberte účet WhatsApp, ktorý chcete použiť.
+and_whatsached_line88 === Vaše vopred pripravené šablóny správ.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_whatssched_line107 === Príklad:
+and_whatssched_line101_1 === Tom je a
+and_whatssched_line107_2 === kat
+and_whatssched_line110 === Hodnoty
+and_whatssched_line110_1 === dobre
+and_whatssched_line110_2 === a
+and_whatssched_line110_3 === zlý
+and_whatssched_line110_4 === budú použité náhodne.
+and_whatssched_line115 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_whatssched_line128 === Predložiť
+and_whatsapp_line15 === Pripojte svoj WhatsApp kliknutím na tlačidlo, aby ste zobrazili QRCode a potom ho naskenujte
+and_whatsapp_line15_1 === Prepojiť zariadenie
+and_whatsapp_line15_2 === tlačidlo v aplikácii. Na naskenovanie QRCode máte len 60 sekúnd.
+and_whatsapp_line16 === Prepojiť účet
+and_add_widget_line17 === Názov miniaplikácie.
+and_add_widget_line24 === Ikona miniaplikácie, len pre modály. Navštívte linku awesome, kde nájdete odkaz na ikonu.
+and_add_widget_line26 === napr. la la-info-kruh
+and_add_widget_line31 === Typ miniaplikácie. Bloky sú na umiestnenie do rôznych častí šablón, modály sú na dynamický obsah. Od verzie 3 budú modály fungovať iba na paneli.
+and_add_widget_line34 === Blokovať
+and_add_widget_line35 === Modálny
+and_add_widget_line41 === Veľkosť miniaplikácie, len pre modály.
+and_add_widget_line53 === Pozícia widgetu, len pre modály.
+and_add_widget_line64 === Obsah miniaplikácie. Všetky html tagy sú povolené, buďte opatrní pri pridávaní skriptov z neznámych zdrojov!
+and_add_widget_line66 === Ahoj svet!
+and_admin_build_line16 === Aplikácia
+and_admin_build_line21 === Názov balíka aplikácie, mal by byť jedinečný a mal by mať podobný formát domény, ako je com.yourdomain.yourapp. Odporúčame vám riadiť sa názvom vašej domény, aby bol jedinečný.
+and_admin_build_line23 === napr. com.gateway.sample
+and_admin_build_line28 === Názov aplikácie, zobrazuje sa v zásuvke aplikácie a ďalších častiach aplikácie.
+and_admin_build_line30 === napr. Brána Zender
+and_admin_build_line35 === Popis aplikácie, krátky popis vašej aplikácie.
+and_admin_build_line42 === Farebná téma aplikácie
+and_admin_build_line42_1 === Farebná téma aplikácie, odporúča sa ju zladiť s logom vašej aplikácie a farbami úvodného obrázka.
+and_admin_build_line44 === napr. #000000
+and_admin_build_line49 === Verzia APK
+and_admin_build_line_49_1 === Verzia APK, ak prestavujete svoju aplikáciu, aktualizujte aj toto pole zvýšením hodnoty. Ak je aktuálna hodnota 1, mali by ste ju pred vytvorením aplikácie zvýšiť na 2. Je to potrebné na spustenie funkcie aktualizácie v aplikácii a prinúti používateľa aktualizovať.
+and_admin_build_line51 === napr. 1,0
+and_admin_build_line56 === Vytvoriť e-mail
+and_admin_build_line_56_1 === Váš platný e-mail, nezabudnite ho zmeniť. Výsledok zostavenia bude odoslaný na tento e-mail!
+and_admin_build_line58 === napr. myvalidemail@mail.com
+and_admin_build_line62 === poverenia
+and_admin_build_line67 === služby Google
+and_admin_build_line67_1 === Váš súbor json služieb Google, je to potrebné pre transakcie FCM v aplikácii brány.
+and_admin_build_line75 === Poverenia Firebase
+and_admin_build_line75_1 === Súbor json s povereniami správcu Firebase je potrebný na to, aby systém mohol komunikovať s aplikáciou.
+and_admin_build_line82 === Aktíva
+and_admin_build_line87 === Logo obrázka aplikácie, toto je obrázok zobrazený v hlavičke aplikácie. Odporúčané rozmery sú 251 x 53 palcov. Lepšie je priehľadné pozadie.
+and_admin_build_line95 === Logo prihlásenia do aplikácie
+and_admin_build_line95_1 === Logo prihlasovacieho obrázka aplikácie, toto je obrázok zobrazený v prihlasovacom režime. Odporúčané rozmery sú 250 x 100 v pixeloch a tmavé písmo. Lepšie je priehľadné pozadie.
+and_admin_build_line103 === Ikona obrázka aplikácie, zobrazuje sa v zásuvke aplikácie a v systéme Android. Odporúčané rozmery sú 1024 x 1024 vo formáte px a png.
+and_admin_build_line111 === Obrázok úvodnej obrazovky aplikácie, zobrazí sa, keď používateľ otvorí aplikáciu. Odporúčané rozmery sú 2732 x 2732 vo formáte px a png.
+and_admin_build_line118 === Štruktúra
+and_admin_build_line123 === Vlastný JavaScript
+and_admin_build_line123_1 === Ak chcete použiť vlastný kód javascript, pridajte ho sem. Toto sa dynamicky načítava do aplikácie.
+and_admin_build_line125 === napr. alert('Ahoj Svet!');
+and_admin_build_line130 === Vlastné CSS
+and_admin_build_line130_1 === Ak chcete použiť vlastný css kód, pridajte ho sem. Toto sa dynamicky načítava do aplikácie.
+and_admin_build_line137 === Vlastné rozloženie
+and_admin_build_line137_1 === Ak chcete použiť vlastnú štruktúru aplikácie, upravte obsah html, ak neviete, čo robíte, ponechajte predvolenú hodnotu.
+and_admin_build_line139 === Ahoj svet!
+and_settings_line21 === Názov stránky, zobrazuje sa všade tam, kde je potrebný branding.
+and_settings_line23 === napr. Zender
+and_settings_line28 === Popis stránky, toto je pre optimalizáciu pre vyhľadávače, takže buďte kreatívni.
+and_settings_line30 === napr. Toto je úžasná služba brány SMS
+and_settings_line35 === Váš nákupný kód envato je potrebný na odomknutie niektorých exkluzívnych funkcií skriptu.
+and_settings_line37 === napr. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Váš analytický kľúč Google je voliteľný, pretože systém už má vstavanú štatistiku návštevníkov.
+and_settings_line44 === napr. UA-179148389-1
+and_settings_line49 === Protokol vašej lokality, uistite sa, že ste vybrali správny. Ak vaša stránka používa protokol https, vyberte ho, v opačnom prípade vyberte protokol http.
+and_settings_line59 === Predvolený jazyk systému, používa sa, keď váš web navštívi nový používateľ.
+and_settings_line70 === Ak je zakázaná, registrácie cez registračnú stránku nebudú povolené.
+and_settings_line80 === Režim obnovenia balíka
+and_settings_line80_1 === Interval resetovania limitov, ako sú odosielanie, prijímanie, ussd a upozornenia. Platí to pre funkcie Androidu aj WhatsApp. Váš výber tu musí byť tiež použitý v nastavení cron.
+and_settings_line83 === denne
+and_settings_line84 === Mesačne
+and_settings_line90 === Voľný model
+and_settings_line90_1 === Ak je povolené, po registrácii sa používateľovi automaticky priradí predvolený bezplatný balík.
+and_settings_line100 === Ak je zakázaná, domovská stránka sa nebude používať. Všetky návštevy v koreňovom adresári budú presmerované na dashboard.
+and_settings_line110 === Widget TAWK Chat
+and_settings_line110_1 === Ak je povolená, používateľom sa zobrazí miniaplikácia tawk chat.
+and_settings_line120 === Odkaz na miniaplikáciu tawk chat, je to potrebné, ak chcete používať podporu chatu tawk.
+and_settings_line127 === Admin API
+and_settings_line127_1 === Vyberte koncové body rozhrania API správcu, ktoré chcete povoliť. Odporúča sa povoliť iba koncové body, ktoré potrebujete.
+and_settings_line159 === Tento token sa nesmie nikomu zdieľať. Používa sa na zabezpečenie cronjobov, systémového API a iných externých požiadaviek. Ak si myslíte, že váš systémový token bol kompromitovaný, vygenerujte si nový, po vygenerovaní nového tokenu budete musieť prekonfigurovať svoje cronjobs, systémové API a ďalšie súvisiace nastavenia.
+and_settings_line160 === Regenerovať
+and_settings_line173 === Ak chcete použiť vstavaný poštový server, vyberte natívny, v opačnom prípade vyberte smtp a potom nakonfigurujte svoje poštové poverenia.
+and_settings_line183 === Protokol smtp, ktorý chcete použiť, vyberte podporovaný protokol vášho vzdialeného poštového servera.
+and_settings_line193 === E-mail stránky, toto je názov e-mailu, ktorý sa zobrazuje príjemcom, na účely budovania značky sa odporúča použiť adresu noreply@yoursite.com.
+and_settings_line195 === napr. noreply@domena.com
+and_settings_line200 === Adresa hostiteľa vášho vzdialeného smtp servera.
+and_settings_line205 === napr. smtp.gmail.com
+and_settings_line210 === Port vášho vzdialeného smtp servera.
+and_settings_line215 === napr. 587
+and_settings_line220 === Používateľské meno vášho vzdialeného smtp servera.
+and_settings_line225 === napr. username@gmail.com
+and_settings_line230 === Heslo vášho vzdialeného smtp servera.
+and_settings_line235 === Heslo vášho účtu Gmail
+and_settings_line244 === Váš paypal obchodný e-mail.
+and_settings_line246 === napr. mail@domena.com
+and_settings_line251 === Ak je povolené, všetky transakcie cez PayPal budú presmerované do režimu sandbox.
+and_settings_line261 === Váš kľúč mollie api.
+and_settings_line263 === napr. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Systémová mena, ktorá sa má použiť, bude použitá ako základ pri prevode transakcií na USD.
+and_settings_line279 === Vyberte poskytovateľov platieb, ktorých chcete použiť.
+and_settings_line293 === Minimálny počet znakov pre správy. Platí to pre SMS aj WhatsApp.
+and_settings_line295 === napr. 5
+and_settings_line300 === Maximálny počet znakov pre správy. Platí to pre SMS aj WhatsApp. Zadajte 0 pre nekonečný počet znakov.
+and_settings_line302 === napr. 300
+and_settings_line307 === Značka päty správy, táto sa pripája k správam, ak má ich balík povolenú značku päty.
+and_settings_line309 === napr. Odoslané zo systému Zender
+and_settings_line318 === Predvolený počet riadkov, ktoré sa majú zobraziť v tabuľke odoslaných správ. Platí to pre SMS aj WhatsApp.
+and_settings_line320 === napr. 10
+and_settings_line325 === Predvolený počet riadkov, ktoré sa majú zobraziť v tabuľke prijatých správ. Platí to pre SMS aj WhatsApp.
+and_settings_line327 === napr. 10
+and_settings_line336 === Ak je táto možnosť povolená, návštevníci sa budú môcť prihlásiť pomocou svojich účtov sociálnych médií.
+and_settings_line346 === Vyberte poskytovateľov sociálnych médií, ktorých chcete použiť.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Meno na Facebooku
+and_settings_line357_1 === ID aplikácie facebook, ďalšie informácie nájdete v dokumentácii.
+and_settings_line359 === napr. 738812983731558
+and_settings_line364 === Facebook Secret
+and_settings_line364_1 === Tajomstvo aplikácie facebook, ďalšie informácie nájdete v dokumentácii.
+and_settings_line366 === napr. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === ID aplikácie Google, ďalšie informácie nájdete v dokumentácii.
+and_settings_line373 === napr. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Secret
+and_settings_line378_1 === Tajomstvo aplikácie Google, ďalšie informácie nájdete v dokumentácii.
+and_settings_line380 === napr. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === ID VK
+and_settings_line385_1 === ID aplikácie vkontakte, ďalšie informácie nájdete v dokumentácii.
+and_settings_line387 === napr. 7768236
+and_settings_line392 === Tajomstvo VK
+and_settings_line392_1 === Tajomstvo aplikácie vkontakte, ďalšie informácie nájdete v dokumentácii.
+and_settings_line394 === napr. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Ak je povolené, recaptcha sa zobrazí aj na prihlasovacej stránke. Pred povolením tejto funkcie sa uistite, že ste nakonfigurovali svoj kľúč recaptcha a tajný kľúč recaptcha, inak sa nebudete môcť prihlásiť!
+and_settings_line413 === Kľúč recaptcha, ďalšie informácie nájdete v dokumentácii.
+and_settings_line415 === napr. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Tajomstvo recaptcha, ďalšie informácie nájdete v dokumentácii.
+and_settings_line422 === napr. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Svetlo loga
+and_theme_line17_1 === Svetlý obrázok loga, zobrazuje sa na domovskej stránke a na stránkach overenia totožnosti, keď je prvok pozadia tmavý. Odporúčaná veľkosť je 250 x 50 pixelov.
+and_theme_line23 === Logo tmavé
+and_theme_line223_1 === Tmavý obrázok loga, zobrazuje sa na domovskej stránke a stránkach overenia totožnosti, keď je prvok pozadia svetlý. Odporúčaná veľkosť je 250 x 50 pixelov.
+and_theme_line29 === Obrázok favicon webu, zobrazuje sa na karte prehliadača. Odporúčaná veľkosť je 50 x 50 v px.
+and_theme_line35 === Obrázok na pozadí
+and_theme_line35_1 === Obrázok na pozadí stránky, je zobrazený všade. Odporúča sa použiť obrázok s vysokým rozlíšením.
+and_theme_line41 === Vyberte farebný motív, ktorý chcete použiť pre stránku.
+and_theme_line46 === Vyberte farbu zvýraznenia pre texty.
+and_theme_line51 === Farba odstredivky
+and_theme_line51_1 === Vyberte farbu, ktorú chcete použiť pre horný ajax spinner.
+and_theme_line58 === Vlastný JavaScript
+and_theme_line58_1 === Ak chcete použiť vlastný kód javascript, pridajte ho sem. Načítava sa dynamicky na každej stránke.
+and_theme_line60 === Ahoj svet!
+and_theme_line63 === Vlastné CSS
+and_theme_line63_1 === Ak chcete zmeniť niektoré štýly css, môžete to urobiť tu.
+and_apikey_line17 === Názov kľúča.
+and_apikey_line19 === napr. Pre môj server
+and_apikey_line24 === Kľúčové povolenia.
+and_edit_auto_line17 === Názov akcie.
+and_edit_auto_line19 === napr. Automatická odpoveď
+and_edit_auto_line24 === Zdroj
+and_edit_auto_line24_1 === Zdroj udalosti prijatia.
+and_edit_auto_line34 === Odpovedzte na kľúčové slová oddelené čiarkami. Tieto kľúčové slová spustia automatickú odpoveď, ak sa zistia v obsahu správy.
+and_edit_auto_line36 === napr. ďakujem, dobre, prihláste sa, áno
+and_edit_auto_line41 === Správa, ktorá sa má odoslať odosielateľovi.
+and_edit_auto_line43 === napr. Vaša odpoveď je tu, skrátené kódy sú akceptované
+and_edit_auto_line48 === Sada premenných, ktoré môžete použiť vo svojej správe.
+and_edit_con_line17 === Kontaktné meno.
+and_edit_con_line19 === napr. Michael
+and_edit_con_line24 === Kontaktné číslo.
+and_edit_con_line31 === Kontaktná skupina.
+and_edit_dev_line16 === Podrobnosti o zariadení
+and_edit_dev_line21 === Názov zariadenia.
+and_edit_dev_line23 === napr. Moje zariadenie
+and_edit_dev_line28 === Ak je povolené, správy sa budú odosielať v náhodných intervaloch medzi 2 hodnotami. Môžete ich nakonfigurovať nižšie.
+and_edit_dev_line38 === Minimálny interval v sekundách.
+and_edit_dev_line41 === napr. 5
+and_edit_dev_line46 === Maximálny interval v sekundách.
+and_edit_dev_line49 === napr. 20
+and_edit_dev_line53 === Nastavenia upozornení
+and_edit_dev_line58 === Aplikácie
+and_edit_dev_line58_1 === Zadajte názvy balíkov aplikácií, z ktorých chcete dostávať upozornenia. Oddeľte ich zalomením riadkov.
+and_edit_dev_line65 === Nastavenia partnera
+and_edit_dev_line70 === ohodnotiť
+and_edit_dev_line70_1 === Ako základ meny sa použije suma, ktorú chcete účtovať za správu, krajina zariadenia. Podporované sú pohyblivé hodnoty, ako sú centy.
+and_edit_dev_line73 === napr. 0,50
+and_edit_dev_line78 === Globálny stav
+and_edit_dev_line78_1 === Ak je deaktivované, zariadenie nebude dostupné ako globálna sms brána a nebudete zarábať peniaze. Upozorňujeme, že globálne zariadenia nemôžu prijímať správy z bezpečnostných dôvodov.
+and_edit_dev_line89 === Krajina
+and_edit_dev_line89_1 === Krajina zariadenia, používa sa na určenie telefónnych čísel a ako základná mena poľa sadzby.
+and_edit_dev_line101 === Priorita
+and_edit_dev_line101_1 === Globálne správy budú odoslané ako prvé pred vašimi vlastnými správami.
+and_edit_dev_line112 === Sloty SIM
+and_edit_dev_line112_1 === Vyberte sim sloty, ktoré chcete použiť na odosielanie, ak vyberiete oba, správy sa budú odosielať v náhodnom slote.
+and_edit_email_line16 === Šablóna e-mailu
+and_edit_email_line18 === HTML povolené
+and_edit_gate_line17 === názov
+and_edit_gate_line17_1 === Toto je názov brány, ktorý sa zobrazí vašim používateľom.
+and_edit_gate_line19 === napr. Twilio
+and_edit_gate_line24 === Ovládač
+and_edit_gate_line24_1 === Vyberte súbor ovládača brány, ktorý bude obsahovať logiku a kód vašej brány. Odporúča sa skontrolovať dokumentáciu.
+and_edit_gate_line31 === Zavolaj späť
+and_edit_gate_line31_1 === Ak je táto možnosť povolená, správy sa budú musieť overiť pomocou funkcie spätného volania brány tretej strany pre stav odoslania, v opačnom prípade budú správy pri odoslaní okamžite označené ako odoslané.
+and_edit_gate_line34 === Povoliť
+and_edit_gate_line35 === Zakázať
+and_edit_gate_line41 === ID spätného volania
+and_edit_gate_line41_1 === Ak je povolené spätné volanie, musíte skopírovať toto ID a prilepiť ho do ovládača, aby systém mohol spätné volanie identifikovať.
+and_edit_gate_line44 === Skopírujte a prilepte ID spätného volania
+and_edit_gate_line51 === Stanovenie cien
+and_edit_gate_line51_1 === Vaša vlastná cenová tabuľka pre túto bránu. To vám umožní účtovať navyše k cenám tretích strán. Napríklad, ak twilio účtuje 0,01 pre konkrétnu krajinu, potom môžete namiesto toho účtovať 0,02, mena je založená na mene vášho systému. Prosím dodržujte správne cenový formát.
+and_edit_gate_line54 === Vzorová cena JSON:
+and_edit_gate_line54_1 === Stiahnuť ▼
+and_edit_grp_line17 === Názov skupiny.
+and_edit_grp_line19 === napr. Priatelia
+and_edit_hook_line17 === Názov akcie.
+and_edit_hook_line19 === napr. Testovacia akcia
+and_edit_hook_line24 === Zdroj
+and_edit_hook_line24_1 === Zdroj udalosti.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Vyberte udalosť, kde sa tento háčik vyvolá.
+and_edit_hook_line37 === Pri odoslaní
+and_edit_hook_line38 === Pri príjme
+and_edit_hook_line44 === Štruktúra hákového odkazu, toto je adresa URL, ktorú systém vyvolá. Podporovaná je iba metóda GET.
+and_edit_hook_line51 === Sada premenných, ktoré môžete použiť vo svojej adrese URL háku.
+and_edit_lang_line17 === napr. kórejský
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Áno
+and_edit_lang_line33 === nie
+and_edit_pack_line17 === Názov balíka.
+and_edit_pack_line19 === napr. VIP balíček
+and_edit_pack_line24 === Cena balíka, mala by sa riadiť menou systému. Pohyblivé hodnoty nie sú povolené.
+and_edit_pack_line29 === napr. 25
+and_edit_pack_line34 === Ak je táto možnosť povolená, správy a chaty Whatsapp budú po prijatí príjemcami obsahovať značku päty.
+and_edit_pack_line44 === Ak je táto možnosť povolená, balík bude skrytý z modálnej stránky balíka a domovskej stránky.
+and_edit_pack_line53 === Nastavenia systému Android
+and_edit_pack_line58 === Limit odosielania SMS
+and_edit_pack_line58_1 === Maximálny počet správ, ktoré môže používateľ odoslať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line60 === napr. 300
+and_edit_pack_line65 === Limit prijímania SMS
+and_edit_pack_line65_1 === Maximálny počet správ, ktoré môže používateľ prijať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line67 === napr. 150
+and_edit_pack_line72 === Limit USSD
+and_edit_pack_line72_1 === Maximálny počet ussd, ktorý môže používateľ požadovať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line74 === napr. 25
+and_edit_pack_line79 === Limit upozornení
+and_edit_pack_line79_1 === Maximálny počet upozornení, ktoré môže používateľ dostať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line81 === napr. 1300
+and_edit_pack_line86 === Maximálny počet zariadení so systémom Android, ktoré možno prepojiť s používateľským účtom. Zadajte 0 pre neobmedzené.
+and_edit_pack_line88 === napr. 25
+and_edit_pack_line92 === Nastavenia WhatsApp
+and_edit_pack_line97 === Maximálny počet rozhovorov, ktoré môže používateľ odoslať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line99 === napr. 300
+and_edit_pack_line104 === Maximálny počet rozhovorov, ktoré môže používateľ prijať pred resetovaním. Zadajte 0 pre neobmedzené.
+and_edit_pack_line106 === napr. 150
+and_edit_pack_line111 === Limit účtu
+and_edit_pack_line111_1 === Maximálny počet účtov WhatsApp, ktoré možno prepojiť s účtom používateľa. Zadajte 0 pre neobmedzené.
+and_edit_pack_line113 === napr. 10
+and_edit_pack_line117 === Nastavenia Ultility
+and_edit_pack_line122 === Maximálny počet kontaktov, ktoré môže používateľ uložiť. Zadajte 0 pre neobmedzené.
+and_edit_pack_line124 === napr. 25
+and_edit_pack_line129 === Plánovaný limit
+and_edit_pack_line129_1 === Maximálny počet naplánovaných správ/chatov, ktoré môže používateľ uložiť. Zadajte 0 pre neobmedzené. Toto je kombinované pre SMS aj WhatsApp.
+and_edit_pack_line131 === napr. 25
+and_edit_pack_line136 === Maximálny počet kľúčov API, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_edit_pack_line138 === napr. 10
+and_edit_pack_line143 === Maximálny počet webhookov, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_edit_pack_line145 === napr. 5
+and_edit_pack_line150 === Limit akcií
+and_edit_pack_line150_1 === Maximálny počet akcií, ktoré je možné vytvoriť. Zadajte 0 pre neobmedzené.
+and_edit_pack_line152 === napr. 5
+and_edit_page_line17 === Názov stránky.
+and_edit_page_line24 === Na túto stránku budú mať prístup iba vybrané roly.
+and_edit_page_line35 === Ak je povolené, stránka nebude prístupná bez prihlásenia.
+and_edit_page_line45 === Obsah stránky. Všetky html tagy sú povolené, buďte opatrní pri pridávaní skriptov z neznámych zdrojov!
+and_edit_role_line17 === Názov role.
+and_edit_role_line19 === napr. Vývojár
+and_edit_role_line24 === Vyberte povolenia a funkcie, ktoré chcete pre túto rolu zakázať/povoliť. Zmeny sa aplikujú v reálnom čase, karty prehliadača pripojených používateľov s rolou sa automaticky znova načítajú.
+and_edit_short_line17 === názov
+and_edit_short_line17_1 === Názov skracovača.
+and_edit_short_line19 === napr. Bitly
+and_edit_short_line24 === Ovládač
+and_edit_short_line24_1 === Vyberte súbor ovládača skracovača, ktorý bude obsahovať vašu logiku a kód skracovača. Odporúča sa skontrolovať dokumentáciu.
+and_edit_sms_line17 === Názov naplánovanej správy.
+and_edit_sms_line19 === napr. Moja správa
+and_edit_sms_line24 === Vyberte dátum plánu.
+and_edit_sms_line26 === napr. 22.06.2020 00:00
+and_edit_sms_line31 === Ak je povolená, správa sa naplánuje vždy, keď sa zhoduje naplánovaný dátum.
+and_edit_sms_line42 === Viaceré čísla E.164 oddelené zlomom riadku.
+and_edit_sms_line55 === Vyberte viacero skupín kontaktov
+and_edit_sms_line67 === Režim brány
+and_edit_sms_line67_1 === Režim brány, ktorý chcete použiť. Ak vyberiete zariadenia, vaše prepojené zariadenia sa zobrazia na odoslanie, v opačnom prípade sa zobrazia brány tretích strán a partnerské brány.
+and_edit_sms_line70 === Zariadenia
+and_edit_sms_line71 === Kredity
+and_edit_sms_line76 === Slot na SIM kartu na použitie.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Vaše prepojené zariadenia, vyberte, čo chcete použiť na odosielanie.
+and_edit_sms_line99 === SMS brána
+and_edit_sms_line99_1 === Brány tretích strán a partnerov, vaše kredity sa použijú pri odosielaní správ pomocou týchto brán. Pred použitím brány odporúčame skontrolovať jej ceny.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Príklad:
+and_edit_sms_line122_1 === Tom je a
+and_edit_sms_line122_2 === kat
+and_edit_sms_line125 === Hodnoty
+and_edit_sms_line125_1 === dobre
+and_edit_sms_line125_2 === a
+and_edit_sms_line125_3 === zlý
+and_edit_sms_line125_4 === budú použité náhodne.
+and_edit_temp_line17 === Názov šablóny.
+and_edit_temp_line24 === Formát šablóny.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_edit_temp_line35 === Príklad:
+and_edit_temp_line35_1 === Tom je a
+and_edit_temp_line35_2 === kat
+and_edit_temp_line38 === Hodnoty
+and_edit_temp_line38_1 === dobre
+and_edit_temp_line38_2 === a
+and_edit_temp_line38_3 === zlý
+and_edit_temp_line38_4 === budú použité náhodne.
+and_edit_temp_line43 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_eduse_line17 === Vaše celé meno. Upozorňujeme, že používanie falošného mena môže viesť k pozastaveniu vášho účtu.
+and_eduse_line19 === napr. Michael Cors
+and_eduse_line24 === Platná e-mailová adresa, toto pole ignorujte, ak chcete zachovať aktuálnu e-mailovú adresu.
+and_eduse_line26 === napr. pouzivatel@mail.com
+and_eduse_line31 === Ak si chcete ponechať aktuálne heslo, ignorujte toto pole, v opačnom prípade zadajte nové heslo.
+and_eduse_line38 === Časové pásmo vašej polohy, zmeňte ho, ak sa nachádzate v inej krajine. Časové pásmo sa používa na presnosť dátumu a času vašich odoslaných správ a iných údajov.
+and_eduse_line49 === Krajina
+and_eduse_line49_1 === Vaša krajina, používa sa na platby a formátovanie telefónneho čísla.
+and_eduse_line60 === Zvuky upozornení
+and_eduse_line60_1 === Ak je táto možnosť vypnutá, upozornenia budú tiché.
+and_eduse_line70 === Vyberte rolu používateľa.
+and_eduse_line81 === Vyberte jazyk používateľa.
+and_eduse_line92 === Partnerský program
+and_eduse_line92_1 === Ak je táto možnosť povolená, používatelia budú môcť používať svoje zariadenia ako globálne zariadenia, ktoré im umožnia zarábať peniaze, keď iní používatelia posielajú správy pomocou ich zariadení.
+and_edweb_line17 === Názov webhooku.
+and_edweb_line24 === Prijímanie udalostí
+and_edweb_line24_1 === Vyberte udalosti príjmu, ktoré potrebujete, budú odoslané na vašu webovú adresu URL pomocou metódy POST.
+and_edweb_line30 === Upozornenia
+and_edweb_line36 === Vaša adresa URL webhooku, všetky údaje o užitočnom zaťažení sa sem odošlú metódou POST.
+and_edweb_line38 === napr. https://yourdomain.com/reply.php
+and_edwhat_line17 === Názov naplánovaného rozhovoru.
+and_edwhat_line19 === napr. Moja správa
+and_edwhat_line24 === Vyberte dátum plánu.
+and_edwhat_line26 === napr. 22.06.2020 00:00
+and_edwhat_line31 === Ak je povolená, rozhovor sa naplánuje vždy, keď sa zhoduje naplánovaný dátum.
+and_edwhat_line42 === Viaceré čísla E.164 oddelené zlomom riadku.
+and_edwhat_line55 === Vyberte viacero skupín kontaktov
+and_edwhat_line67 === účtu
+and_edwhat_line67_1 === Vyberte účet WhatsApp, ktorý chcete použiť.
+and_edwhat_line76 === Vaše vopred pripravené šablóny správ.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_edwhat_line95 === Príklad:
+and_edwhat_line95_1 === Tom je a
+and_edwhat_line95_2 === kat
+and_edwhat_line98 === Hodnoty
+and_edwhat_line98_1 === dobre
+and_edwhat_line98_2 === a
+and_edwhat_line98_3 === zlý
+and_edwhat_line98_4 === budú použité náhodne.
+and_edwhat_line103 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_edwhat_line116 === Predložiť
+and_edwid_line17 === Názov miniaplikácie.
+and_edwid_line24 === Ikona miniaplikácie, len pre modály. Navštívte linku awesome, kde nájdete odkaz na ikonu.
+and_edwid_line31 === Typ miniaplikácie. Bloky sú na umiestnenie do rôznych častí šablón, modály sú na dynamický obsah. Od verzie 3 budú modály fungovať iba na paneli.
+and_edwid_line34 === Blokovať
+and_edwid_line35 === Modálny
+and_edwid_line41 === Veľkosť miniaplikácie, len pre modály.
+and_edwid_line53 === Pozícia widgetu, len pre modály.
+and_edwid_line64 === Obsah miniaplikácie. Všetky html tagy sú povolené, buďte opatrní pri pridávaní skriptov z neznámych zdrojov!
+and_import_line17 === Súbor programu Excel, ktorý chcete importovať, skontrolujte, či má požadovaný formát.
+and_import_line20 === Vzorový súbor:
+and_import_line20_1 === Stiahnuť ▼
+and_package_line36 === Prijímanie SMS
+and_package_line41 === WhatsApp Odoslať
+and_package_line46 === Príjem cez WhatsApp
+and_package_line51 === USSD
+and_package_line56 === Upozornenia
+and_package_line61 === Naplánované SMS/chaty
+and_package_line66 === Kontakty
+and_package_line71 === API kľúče
+and_package_line76 === Webhooky
+and_package_line81 === Akcie
+and_package_line86 === Zariadenia so systémom Android
+and_package_line91 === Účty WhatsApp
+and_redeem_line18 === Použiť kód.
+and_redeem_line20 === napr. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Viaceré čísla E.164 oddelené zlomom riadku. Na číslo sa odošle iba 1 správa, aj keď ste vybrali skupiny, do ktorých bola pridaná.
+and_sms_bulk_31 === Vyberte viacero skupín kontaktov. Kontaktu sa odošle iba 1 správa, aj keď ste vybrali viacero skupín, do ktorých bola pridaná.
+and_sms_bulk_43 === Skracovač
+and_sms_bulk_43_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_sms_bulk_46 === Neskracujte odkazy
+and_sms_bulk_55 === Režim brány
+and_sms_bulk_55_1 === Režim brány, ktorý chcete použiť. Ak vyberiete zariadenia, vaše prepojené zariadenia sa zobrazia na odoslanie, v opačnom prípade sa zobrazia brány tretích strán a partnerské brány.
+and_sms_bulk_58 === Zariadenia
+and_sms_bulk_59 === Kredity
+and_sms_bulk_64 === Slot na SIM kartu na použitie.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Ak je povolená, tieto správy sa budú odosielať skôr ako čokoľvek iné.
+and_sms_bulk_81 === Vaše vopred pripravené šablóny správ.
+and_sms_bulk_94 === Vaše prepojené zariadenia, vyberte, čo chcete použiť na odosielanie.
+and_sms_bulk_105 === SMS brána
+and_sms_bulk_105_1 === Brány tretích strán a partnerov, vaše kredity sa použijú pri odosielaní správ pomocou týchto brán. Pred použitím brány odporúčame skontrolovať jej ceny
+and_sms_bulk_126 === Preložte správu.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_sms_bulk_135 === Príklad:
+and_sms_bulk_143 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_sms_exe17 === Súbor programu Excel, ktorý chcete importovať, skontrolujte, či má požadovaný formát.
+and_sms_exe20 === Vzorový súbor:
+and_sms_exe20_1 === Stiahnuť ▼
+and_sms_exe27 === Skracovač
+and_sms_exe27_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_sms_exe30 === Neskracujte odkazy
+and_sms_exe39 === Režim brány
+and_sms_exe39_1 === Režim brány, ktorý chcete použiť. Ak vyberiete zariadenia, vaše prepojené zariadenia sa zobrazia na odoslanie, v opačnom prípade sa zobrazia brány tretích strán a partnerské brány.
+and_sms_exe42 === Zariadenia
+and_sms_exe43 === Kredity
+and_sms_exe47 === Vaše vopred pripravené šablóny správ.
+and_sms_exe60 === Vaše prepojené zariadenia, vyberte, čo chcete použiť na odosielanie.
+and_sms_exe70 === SMS brána
+and_sms_exe70_1 === Brány tretích strán a partnerov, vaše kredity sa použijú pri odosielaní správ pomocou týchto brán. Pred použitím brány odporúčame skontrolovať jej ceny.
+and_sms_exe92 === Preložte správu.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_sms_exe109 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_sms_quick17 === Telefónne číslo príjemcu.
+and_sms_quick24 === Režim brány
+and_sms_quick24_1 === Režim brány, ktorý chcete použiť. Ak vyberiete zariadenia, vaše prepojené zariadenia sa zobrazia na odoslanie, v opačnom prípade sa zobrazia brány tretích strán a partnerské brány.
+and_sms_quick27 === Zariadenia
+and_sms_quick28 === Kredity
+and_sms_quick34 === Skracovač
+and_sms_quick34_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_sms_quick37 === Neskracujte odkazy
+and_sms_quick46 === Slot na SIM kartu na použitie.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Ak je povolená, tieto správy sa budú odosielať skôr ako čokoľvek iné.
+and_sms_quick66 === Vaše prepojené zariadenia, vyberte, čo chcete použiť na odosielanie.
+and_sms_quick77 === SMS brána
+and_sms_quick77_1 === Brány tretích strán a partnerov, vaše kredity sa použijú pri odosielaní správ pomocou týchto brán. Pred použitím brány odporúčame skontrolovať jej ceny.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_sysup17 === Aktualizovať súbor
+and_sysup17_1 === Aktualizujte súbor zip, uistite sa, že ste vybrali správny súbor.
+and_upplug17 === Aktualizovať súbor
+and_upplug17_1 === Aktualizujte súbor zip, uistite sa, že ste vybrali správny súbor.
+and_uset17 === Váš profilový obrázok avatara.
+and_uset24 === Vaše celé meno. Upozorňujeme, že používanie falošného mena môže viesť k pozastaveniu vášho účtu.
+and_uset26 === napr. Michael Shmuck
+and_uset31 === Vaša platná e-mailová adresa, toto pole ignorujte, ak si chcete ponechať aktuálnu e-mailovú adresu.
+and_uset33 === napr. vasamail@mail.com
+and_uset38 === Časové pásmo vašej polohy, zmeňte ho, ak sa nachádzate v inej krajine. Časové pásmo sa používa na presnosť dátumu a času vašich odoslaných správ a iných údajov.
+and_uset49 === Krajina
+and_uset49_1 === Vaša krajina, používa sa na platby a formátovanie telefónneho čísla.
+and_uset60 === Zvuky upozornení
+and_uset60_1 === Ak je táto možnosť vypnutá, upozornenia budú tiché.
+and_uset70 === Ak si chcete ponechať svoje aktuálne heslo, ignorujte toto pole, v opačnom prípade zadajte nové heslo.
+and_usub23 === Platné do
+and_usub28 === Odoslať SMS
+and_usub34 === Prijímanie SMS
+and_usub40 === WhatsApp Odoslať
+and_usub46 === Príjem cez WhatsApp
+and_usub57 === USSD
+and_usub63 === Upozornenia
+and_usub69 === Naplánované SMS/chaty
+and_usub98 === Akcie
+and_usub104 === Zariadenia so systémom Android
+and_usub110 === Účty WhatsApp
+and_view20 === Plné zobrazenie
+and_whatsbulk_18 === Viaceré čísla E.164 oddelené zlomom riadku.
+and_whatsbulk_31 === Vyberte viacero skupín kontaktov. Upozorňujeme, že ak má kontakt viacero skupín, správa sa mu môže odoslať viackrát, ak vyberiete skupiny, do ktorých bol zahrnutý.
+and_whatsbulk_43 === Skracovač
+and_whatsbulk_43_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_whatsbulk_46 === Neskracujte odkazy
+and_whatsbulk_55 === účtu
+and_whatsbulk_55_1 === Vyberte účet WhatsApp, ktorý chcete použiť.
+and_whatsbulk_64 === Vaše vopred pripravené šablóny správ.
+and_whatsbulk_79 === Preložte správu.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_whatsbulk_96 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_whatex17 === Súbor programu Excel, ktorý chcete importovať, skontrolujte, či má požadovaný formát.
+and_whatex20 === Vzorový súbor:
+and_whatex20_1 === Stiahnuť ▼
+and_whatex27 === Skracovač
+and_whatex27_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_whatex30 === Neskracujte odkazy
+and_whatex39 === účtu
+and_whatex39_1 === Vyberte účet WhatsApp, ktorý chcete použiť.
+and_whatex48 === Vaše vopred pripravené šablóny správ.
+and_whatex63 === Preložte správu.
+and_whatex68 === Spintax
+and_whatex68_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_whatex80 === Sada premenných, ktoré môžete použiť vo svojich správach.
+and_whatquick_17 === E.164 telefónne číslo príjemcu.
+and_whatquick_24 === Skracovač
+and_whatquick_24_1 === Ak je povolené, odkazy v správach sa automaticky skrátia pomocou zvoleného skracovača.
+and_whatquick_27 === Neskracujte odkazy
+and_whatquick_36 === účtu
+and_whatquick_36_1 === Vyberte účet WhatsApp, ktorý chcete použiť.
+and_whatquick_50 === Preložte správu.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Funkcia, ktorá vám umožňuje náhodne usporiadať slová vo vašich správach, čo účinne zabraňuje detekcii spamu.
+and_admin_api_3 === Administračné rozhranie API
+and_admin_fileman_3 === Editor šablón
+and_admin_gate_3 === SMS brány
+and_admin_gate_8 === Pridať bránu
+and_admin_lang_6 === Zmeňte poradie jazykov
+and_admin_mark_3 === marketing
+and_admin_mark_6 === Odstrániť vybraté položky
+and_admin_mark_12 === TLAČIŤ
+and_admin_mark_17 === Upozorniť
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Žiadosti o výplatu
+and_admin_short_3 === Skracovače
+and_admin_short_8 === Pridajte skracovač
+and_admin_subs_8 === Pridať predplatné
+and_admin_vouch_6 === Odstrániť vybraté položky
+and_droid_dev_3 === Zariadenia so systémom Android
+and_droid_dev_6 === Prečítajte si dokumentáciu
+and_droid_dev_8 === Dokumenty
+and_droid_dev_11 === Prihláste sa ako poskytovateľ partnerskej brány
+and_droid_dev_13 === partnerstvo
+and_droid_dev_16 === Zaregistrujte si nové zariadenie so systémom Android
+and_droid_not_3 === Upozornenia
+and_droid_not_6 === Odstrániť vybraté položky
+and_droid_rev_3 === Prijaté SMS
+and_droid_rev_6 === Vymazať vybrané správy
+and_droid_sched_6 === Odstrániť vybraté položky
+and_droid_sent_3 === Odoslaná SMS
+and_droid_sent_6 === Odstrániť vybraté položky
+and_droid_sent_10 === Vymažte všetky čakajúce správy
+and_droid_sent_14 === Pošlite rýchlu SMS
+and_droid_sent_16 === Rýchlo
+and_droid_sent_19 === Posielajte hromadné SMS
+and_droid_sent_21 === Objem
+and_droid_sent_24 === Hromadné odosielanie SMS cez Excel
+and_droid_ussd_3 === Požiadavky USSD
+and_droid_ussd_6 === Odstrániť vybraté položky
+and_droid_ussd_10 === Odstráňte všetky čakajúce žiadosti
+and_droid_ussd_14 === Nová požiadavka USSD
+and_droid_ussd_16 === Žiadosť
+and_con_grp_6 === Odstrániť vybraté položky
+and_con_grp_10 === Pridať novú skupinu kontaktov
+and_con_sav_6 === Odstrániť vybraté položky
+and_con_sav_10 === Pridať nový kontakt
+and_con_sav_15 === Importujte kontakty zo súboru programu Excel
+and_con_unsub_3 === Zrušený odber
+and_con_unsub_6 === Odstrániť vybraté položky
+and_doc_act_3 === Akcie
+and_doc_api_3 === API dokumentácia
+and_doc_dev_3 === Zariadenia
+and_doc_partner_3 === partnerstvo
+and_doc_webhook_3 === Webhooky
+and_rate_gate_3 === sadzby
+and_rate_gate_10 === Krajina
+and_rate_gate_11 === Sadzba za správu
+and_rate_gate_22 === Ostatné krajiny
+and_rate_partner_3 === Partnerské sadzby
+and_tool_act_3 === Akcie
+and_tool_act_6 === Prečítajte si dokumentáciu
+and_tool_act_8 === Dokumenty
+and_tool_act_11 === Pridať novú akciu háku
+and_tool_act_13 === Háčik
+and_tool_act_16 === Pridať novú akciu automatickej odpovede
+and_tool_act_18 === Automatická odpoveď
+and_tool_key_6 === Prečítajte si dokumentáciu
+and_tool_key_8 === Dokumenty
+and_tool_key_11 === Vytvorte nový kľúč API
+and_tool_webhook_6 === Prečítajte si dokumentáciu
+and_tool_webhook_8 === Dokumenty
+and_what_accnt_6 === Pripojte nový účet
+and_what_accnt_8 === Pridať účet
+and_what_attach_8 === Vymazať vybrané správy
+and_what_rev_3 === Prijaté rozhovory
+and_what_rev_6 === Odstrániť vybraté položky
+and_what_sched_6 === Odstrániť vybraté položky
+and_what_sched_12 === Naplánovať rozhovor
+and_what_sent_3 === Odoslané rozhovory
+and_what_sent_6 === Odstrániť vybraté položky
+and_what_sent_10 === Odoslať rýchly rozhovor
+and_what_sent_12 === Rýchlo
+and_what_sent_15 === Posielajte hromadné rozhovory
+and_what_sent_17 === Objem
+and_what_sent_20 === Posielajte hromadné rozhovory cez Excel
+and_def_f_blck_6 === Začnite s marketingom
+and_def_f_blck_7 === Začnime spolu a rozvíjajme podnikanie, zaregistrujte sa teraz a zažite vysokokvalitnú marketingovú platformu!
+and_def_f_blck_8 === Pripoj sa k nám
+and_def_f_blck_35 === Kontaktujte nás
+and_head_blck_21 === Domov
+and_head_blck_24 === Vlastnosti
+and_head_blck_27 === Stanovenie cien
+and_head_blck_30 === klientov
+and_head_blck_39 === Dashboard
+and_head_blck_42 === Odhlásiť sa
+and_pages_default_8 === SMS a WhatsApp marketing v tej najlepšej forme
+and_pages_default_29 === SMS správy
+and_pages_default_31 === Použite svoje zariadenia so systémom Android ako bránu SMS, je to efektívne lacnejšie ako používanie brán tretích strán.
+and_pages_default_40 === Správy WhatsApp
+and_pages_default_42 === Použite WhatsApp pre svoje marketingové kampane, naša platforma poskytuje nástroje, ktoré vám pomôžu začať.
+and_pages_default_51 === Intuitívne nástroje
+and_pages_default_53 === Poskytujeme nástroje, ktoré vám pomôžu s marketingovými úlohami, ako sú automatická odpoveď, webhooky a ďalšie.
+and_pages_default_62 === Zarábať peniaze
+and_pages_default_64 === Staňte sa jedným z našich partnerov a používajte svoje zariadenia so systémom Android ako bránu a zarábajte peniaze za každú odoslanú správu.
+and_pages_default_73 === Prečo využiť našu službu?
+and_pages_default_74 === Tu je niekoľko dôvodov, prečo by ste mali začať využívať našu službu
+and_pages_default_84 === Rýchle a hromadné odoslanie
+and_pages_default_86 === Posielajte veľa správ rôznym skupinám kontaktov jednoducho a môžete tiež posielať rýchle správy pre rýchle transakcie. Naša platforma obsahuje aj živý informačný panel, dostávajte upozornenia, keď sú vaše správy odoslané alebo prijaté!
+and_pages_default_89 === Krátke kódy
+and_pages_default_89_1 === na vytváranie správ s preddefinovanými údajmi.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === na randomizáciu súboru slov na boj proti problémom so spamom.
+and_pages_default_91 === Prekladateľ
+and_pages_default_91_1 === na zacielenie na publikum na základe ich jazykov.
+and_pages_default_98 === Automatizované a inteligentné nástroje
+and_pages_default_100 === Spravujte svoju firmu, zatiaľ čo my sa postaráme o špinavú prácu, naša platforma je inteligentná a potrebuje iba správy, ktoré chcete odoslať, my sa postaráme o zvyšok!
+and_pages_default_103 === Rozvrh
+and_pages_default_103_1 === vaše SMS a chaty Whatsapp v ľubovoľný dátum.
+and_pages_default_104 === Webhooky
+and_pages_default_104_1 === na automatizáciu niektorých úloh, keď dostávate správy z SMS aj WhatsApp.
+and_pages_default_105 === Akcie
+and_pages_default_105_1 === pre vytváranie automatickej odozvy a rýchlu kontrolu dát udalostí.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === na vykonávanie požiadaviek týkajúcich sa siete, ako je kontrola zostatku od operátora.
+and_pages_default_107 === Upozornenia
+and_pages_default_107_1 === z pripojených zariadení so systémom Android možno použiť aj na automatizované úlohy.
+and_pages_default_137 === Našimi strategickými funkciami garantujeme váš obchodný úspech
+and_pages_default_139 === Naša platforma je dobre navrhnutá tak, aby spĺňala požiadavky neustále rastúcich marketingových spoločností, chceme sa uistiť, že každý cent, ktorý investujete do našej služby, si zaslúžite a poskytne vám 100% spokojnosť!
+and_pages_default_145 === Jednoduché použitie a tekutá platforma
+and_pages_default_148 === Cenovo dostupné, ale zachovávajú si kvalitné služby
+and_pages_default_156 === Intuitívne nástroje a prístrojová doska
+and_pages_default_159 === Rýchly zážitok bez oneskorenia pri uvádzaní produktov na trh
+and_pages_default_171 === Ceny služieb
+and_pages_default_187 === Odoslať SMS
+and_pages_default_194 === Prijímanie SMS
+and_pages_default_201 === WhatsApp Odoslať
+and_pages_default_208 === Príjem cez WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === Upozornenia
+and_pages_default_229 === Naplánované SMS/chaty
+and_pages_default_236 === Kontakty
+and_pages_default_243 === API kľúče
+and_pages_default_250 === Webhooky
+and_pages_default_257 === Akcie
+and_pages_default_264 === Zariadenia so systémom Android
+and_pages_default_271 === Účty WhatsApp
+and_pages_default_287 === Naši zákazníci
+and_pages_default_290 === Dôveruje viac ako 3 000 zákazníkom. Začnite propagovať svoje produkty a rozšírte svoje podnikanie s nami!
+landing_title_default === Mobilné zariadenia Android ako brána SMS
+landing_nav_login === Prihlásiť sa
+landing_lead_desc === Využite neobmedzený plán SMS vášho poskytovateľa siete, lacné a nákladovo efektívne riešenie pre marketing, hromadné sms a projekty vo vašej krajine. Použite WhatsApp pre ešte väčší dosah publika, naša platforma poskytuje kompletné nástroje, ktoré vám pomôžu začať.
+landing_footer_ourcomp === Out Company
+landing_footer_about === O
+landing_footer_tos === Podmienky služby
+landing_footer_privacy === Zásady ochrany osobných údajov
+landing_footer_links === Odkazy na stránky
+landing_footer_login === Prihlásiť sa
+landing_footer_register === Prihlásiť Se
+landing_footer_copyright === Všetky práva vyhradené
+dashboard_title_default === Dashboard
+dashboard_title_contacts === Kontakty
+dashboard_title_tools === Nástroje
+dashboard_title_admin === Administrácia
+dashboard_nav_default === Dashboard
+dashboard_nav_contacts === Kontakty
+dashboard_nav_tools === Nástroje
+dashboard_nav_menusubscription === Predplatné
+dashboard_nav_menusettings === nastavenie
+dashboard_nav_menulogout === Odhlásiť sa
+dashboard_btn_addcontact === Pridať kontakt
+dashboard_btn_adddevice === Pridať zariadenie
+dashboard_btn_addgroup === Pridať skupinu
+dashboard_btn_addtemplate === Pridať šablónu
+dashboard_btn_addkey === Pridať kľúč
+dashboard_btn_addhook === Pridať webhook
+dashboard_btn_build === Stavať
+dashboard_btn_buildsettings === nastavenie
+dashboard_btn_settings === systém
+dashboard_btn_theme === Téma
+dashboard_btn_adduser === Pridať používateľa
+dashboard_btn_addpackage === Pridať balík
+dashboard_btn_addwidget === Pridať miniaplikáciu
+dashboard_btn_addlanguage === Pridať jazyk
+dashboard_footer_about === O
+dashboard_footer_terms === Podmienky služby
+dashboard_footer_privacy === Zásady ochrany osobných údajov
+dashboard_footer_copyright === Všetky práva vyhradené
+dashboard_messages_menusent === Odoslané
+dashboard_messages_menureceived === Prijaté
+dashboard_messages_menutemplates === Šablóny
+dashboard_messages_tabreceivedtitle === Prijaté správy
+dashboard_messages_tabtemplatestitle === Šablóny
+dashboard_messages_tablesentrecipient === Príjemca
+dashboard_messages_tablesentmessage === Správa
+dashboard_messages_tablesentcreated === Vytvorené
+dashboard_messages_tablesentoptions === možnosti
+dashboard_messages_tablereceivedsender === odosielateľ
+dashboard_messages_tablereceivedmessage === Správa
+dashboard_messages_tablereceivedreceived === Prijaté
+dashboard_messages_tablereceivedoptions === možnosti
+dashboard_messages_tabletemplatesname === Názov šablóny
+dashboard_messages_tabletemplatesformat === Formát šablóny
+dashboard_messages_tabletemplatesoptions === možnosti
+dashboard_contacts_title === Kontakty
+dashboard_contacts_menusaved === Uložené
+dashboard_contacts_menugroups === skupiny
+dashboard_contacts_tabsavedtitle === Uložené kontakty
+dashboard_contacts_tabgroupstitle === Kontaktné skupiny
+dashboard_contacts_tablesavedname === Kontaktné meno
+dashboard_contacts_tablesavednumber === Kontaktné číslo
+dashboard_contacts_tablesavedoptions === možnosti
+dashboard_contacts_tablegroupsname === Názov skupiny
+dashboard_contacts_tablegroupsoptions === možnosti
+dashboard_devices_tableregisteredbrand === Výrobca
+dashboard_devices_tableregisteredversion === Verzia
+dashboard_devices_tableregisteredadded === Registrovaný
+dashboard_devices_tableregisteredoptions === možnosti
+dashboard_tools_title === Nástroje
+dashboard_tools_menukeys === API kľúče
+dashboard_tools_menuhooks === Webhooky
+dashboard_tools_tabkeystitle === API kľúče
+dashboard_tools_tabhookstitle === Webhooky
+dashboard_tools_tablekeysname === názov
+dashboard_tools_tablekeyspermissions === Povolenia
+dashboard_tools_tablekeysoptions === možnosti
+dashboard_tools_tablehooksname === názov
+dashboard_tools_tablehooksurl === Webová adresa webhooku
+dashboard_tools_tablehooksoptions === možnosti
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Štatistiky
+dashboard_admin_menuusers === Používatelia
+dashboard_admin_menupackages === Balíčky
+dashboard_admin_menusubscriptions === Predplatné
+dashboard_admin_menutransactions === Transakcie
+dashboard_admin_menuwidgets === Miniaplikácie
+dashboard_admin_menulanguages === Jazyky
+dashboard_admin_tabdefaultearningstitle === Zárobok
+dashboard_admin_tabdefaultmessageslast === Posledných 30 dní
+dashboard_admin_tabuserstitle === Používatelia
+dashboard_admin_tabpackagestitle === Balíčky
+dashboard_admin_tabsubscriptionstitle === Predplatné
+dashboard_admin_tabtransactionstitle === Transakcie
+dashboard_admin_tabwidgetstitle === Miniaplikácie
+dashboard_admin_tablanguagestitle === Jazyky
+dashboard_admin_tableusersname === názov
+dashboard_admin_tableusersemail === Email
+dashboard_admin_tableusersoptions === možnosti
+dashboard_admin_tablepackagesname === názov
+dashboard_admin_tablepackagesprice === cena
+dashboard_admin_tablepackagesoptions === možnosti
+dashboard_admin_tablesubscriptionsuser === Používateľ
+dashboard_admin_tablesubscriptionspackage === Balíček
+dashboard_admin_tablesubscriptionsprice === cena
+dashboard_admin_tablesubscriptionsexpire === Dátum expirácie
+dashboard_admin_tablesubscriptionsoptions === možnosti
+dashboard_admin_tabletransactionscustomer === Zákazník
+dashboard_admin_tabletransactionsprovider === Poskytovateľ
+dashboard_admin_tablewidgetsname === Názov miniaplikácie
+dashboard_admin_tablewidgetstype === Typ
+dashboard_admin_tablewidgetssize === Veľkosť
+dashboard_admin_tablewidgetsposition === pozícia
+dashboard_admin_tablewidgetsoptions === možnosti
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Názov jazyka
+dashboard_admin_tablelanguagescreated === Vytvorené
+dashboard_admin_tablelanguagesoptions === možnosti
+table_search_text === Vyhľadávanie
+table_search_placeholder === Tu zadajte kľúčové slová...
+response_invalid === Neplatná požiadavka!
+response_went_wrong === Niečo sa pokazilo!
+response_session_false === Relácia neexistuje!
+response_session_true === Relácia už existuje!
+response_invalid_emailpass === Neplatný email/heslo!
+response_loggedin_success === Úspešne prihlásení!
+response_loggedout_success === Úspešne odhlásený!
+response_invalid_email === Neplatná emailová adresa!
+response_retrieval_received === Dostali sme žiadosť o načítanie účtu. Ak ste o ňu nepožiadali, ignorujte ju.
+response_solve_captcha === Vyriešte výzvu proti botom!
+response_register_false === Registrácia je zakázaná!
+response_name_short === Meno je príliš krátke!
+response_password_short === Heslo musí mať viac ako 5 znakov!
+response_password_notmatch === Heslá sa nezhodujú!
+response_register_success === Registrácia úspešná!
+response_email_unavailable === E-mailová adresa už bola zaregistrovaná!
+response_upload_applogo === Nahrajte logo svojej aplikácie!
+response_upload_appsplash === Nahrajte úvodnú verziu svojej aplikácie!
+response_pcode_empty === Prosím, zadajte svoj nákupný kód v systémových nastaveniach!
+response_buildserver_false === Nedá sa pripojiť k zostavenému serveru!
+response_invalid_number === Neplatné mobilné číslo!
+response_message_short === Správa je príliš krátka!
+response_message_queued === Správa bola pridaná do poradia!
+response_message_bulkqueued === Hromadné správy boli zaradené do frontu na odoslanie!
+response_format_short === Formát je príliš krátky!
+response_template_added === Šablóna bola pridaná!
+response_number_exist === Kontaktné číslo už existuje!
+response_contact_added === Kontakt bol pridaný!
+response_group_added === Skupina kontaktov bola pridaná!
+response_permission_min === Vyberte aspoň 1 povolenie!
+response_key_added === Bol pridaný API kľúč!
+response_invalid_webhookurl === Neplatná adresa URL webhooku!
+response_webhook_added === Webhook ahs bol pridaný!
+response_user_added === Používateľ bol pridaný!
+response_package_added === Balíček bol pridaný!
+response_widget_added === Widget bol pridaný!
+response_language_added === Jazyk bol pridaný!
+response_avatar_invalid === Avatar nie je možné nahrať!
+response_profile_updated === Profil bol aktualizovaný!
+response_package_purchasedtitle === Predplatili ste si prémiový balík, tu je váš doklad!
+response_package_purchased === Úspešné prihlásenie na odber balíka!
+response_template_updated === Šablóna bola aktualizovaná!
+response_contact_updated === Kontakt bol aktualizovaný!
+response_group_updated === Skupina kontaktov bola aktualizovaná!
+response_key_updated === Kľúč API bol aktualizovaný!
+response_webhook_updated === Webhook bol aktualizovaný!
+response_user_updated === Používateľ bol aktualizovaný!
+response_package_updated === Balíček bol aktualizovaný!
+response_widget_updated === Widget bol aktualizovaný!
+response_language_updated === Jazyk bol aktualizovaný!
+response_builder_packagenameshort === Názov balíka je príliš krátky!
+response_builder_appnameshort === Názov aplikácie je príliš krátky!
+response_builder_applogofail === Logo aplikácie nie je možné nahrať!
+response_builder_appsplashfail === Splash aplikácie nie je možné nahrať!
+response_builder_settingsupdated === Nastavenia Builder aktualizované!
+response_theme_updated === Nastavenia motívu boli aktualizované!
+response_system_settingsupdated === Nastavenia systému aktualizované!
+response_deleted_sent === Odoslaná správa bola vymazaná!
+response_deleted_received === Prijatá správa bola vymazaná!
+response_deleted_template === Šablóna bola odstránená!
+response_deleted_contact === Kontakt bol vymazaný!
+response_deleted_group === Skupina kontaktov bola odstránená!
+response_deleted_device === Zariadenie bolo odstránené!
+response_deleted_key === Kľúč API bol odstránený!
+response_deleted_hook === Webhook bol odstránený!
+response_deleted_defaultuserfalse === Predvoleného používateľa nie je možné odstrániť!
+response_deleted_user === Používateľ bol vymazaný!
+response_deleted_defaultpackagefalse === Predvolený balík nie je možné odstrániť!
+response_deleted_package === Balíček bol vymazaný!
+response_deleted_subscription === Odbery boli vymazané!
+response_deleted_widget === Widget bol odstránený!
+response_deleted_defaultlangfalse === Predvolený jazyk nie je možné odstrániť!
+response_deleted_language === Jazyk bol vymazaný!
+response_lang_changed === Jazyk bol zmenený!
+modal_usersettings_title === nastavenie
+modal_subscription_title === Predplatné
+modal_packages_title === Balíčky
+modal_smsquick_title === Rýchla SMS
+modal_smsbulk_title === Hromadné SMS
+modal_addtemplate_title === Pridať šablónu
+modal_edittemplate_title === Upraviť šablónu
+modal_addcontact_title === Pridať kontakt
+modal_editcontact_title === Upraviť kontakt
+modal_addgroup_title === Pridať skupinu
+modal_editgroup_title === Upraviť skupinu
+modal_adddevice_title === Pridať zariadenie
+modal_addkey_title === Pridať kľúč API
+modal_editkey_title === Upraviť kľúč API
+modal_edithook_title === Upraviť webhook
+modal_buildersettings_title === Nastavenia Builder
+modal_themesettings_title === Nastavenia témy
+modal_systemsettings_title === Systémové nastavenia
+modal_adduser_title === Pridať používateľa
+modal_edituser_title === Upraviť používateľa
+modal_addpackage_title === Pridať balík
+modal_editpackage_title === Upraviť balík
+modal_addwidget_title === Pridať miniaplikáciu
+modal_editwidget_title === Upraviť miniaplikáciu
+modal_addlanguage_title === Pridať jazyk
+modal_editlanguage_title === Upraviť jazyk
+require_email === Emailová adresa
+require_password === heslo
+require_name === Celé meno
+require_cpassword === potvrdenie hesla
+require_phone === Telefónne číslo
+require_device === Zariadenie
+require_message === Správa
+require_groups === Skupiny kontaktov
+require_sim === Slot pre Sim
+require_priority === Prioritná možnosť
+require_api === Možnosť API
+require_templatename === Názov šablóny
+require_templateformat === Formát šablóny
+require_contactname === Kontaktné meno
+require_group === Kontaktná skupina
+require_groupname === Názov skupiny
+require_apiname === Názov kľúča API
+require_permissions === Povolenia
+require_hookname === Názov webhooku
+require_hookurl === Webová adresa webhooku
+require_appname === Názov aplikácie
+require_appcolor === Farba aplikácie
+require_packagename === Názov balíka
+require_widgetname === Názov miniaplikácie
+require_widgetsize === Veľkosť widgetu
+require_widgetposition === Pozícia widgetu
+require_widgettype === Typ miniaplikácie
+require_languagename === Názov jazyka
+require_languageiso === Jazyk iso
+require_languagestr === Jazykové preklady
+btn_submit === Predložiť
+btn_download === Stiahnuť ▼
+btn_done === hotový
+btn_purchase === Nákup
+btn_free === zadarmo
+btn_send === Odoslať
+btn_save === Uložiť
+btn_packages === Balíčky
+btn_retrieve === Načítať
+btn_signin === Prihlásiť sa
+btn_signup === Prihlásiť Se
+form_name === názov
+form_number === Telefónne číslo
+form_group === Kontaktná skupina
+form_adddevice_one === Pridanie nového zariadenia so systémom Android do vášho účtu je veľmi jednoduché, ubezpečili sme sa, že môžete pokračovať bez toho, aby ste stratili časť svojho drahocenného času, postupujte podľa týchto krokov.
+form_adddevice_two === 1. Stiahnite si a nainštalujte
+form_adddevice_three === Najprv si stiahnite a nainštalujte našu aplikáciu brány kliknutím na toto tlačidlo.
+form_adddevice_four === 2. Zaregistrujte zariadenie
+form_adddevice_five === Teraz otvorte aplikáciu brány a kliknite na tlačidlo skenovania a potom naskenujte tento qrcode.
+form_adddevice_six === 3. Hotovo!
+form_adddevice_seven === Zariadenie bolo pridané do vášho účtu, teraz môžete začať odosielať správy!
+form_permissions === Povolenia
+form_countrycode === Kód krajiny
+form_translations === Prekladové reťazce
+form_translations_placeholder === Tu zadajte preklady...
+form_packageprice === cena
+form_packagesend === Odoslať limit
+form_packagereceive === Limit príjmu
+form_packagedevice === Limit zariadenia
+form_packagekey === Key Limit
+form_packagehook === Webhook Limit
+form_templatename_placeholder === Oznámenie
+form_templateformat === Formátovať
+form_templateformat_placeholder === Tu zadajte formát šablóny...
+form_shortcodes === Krátke kódy
+form_emailaddress === Emailová adresa
+form_password === heslo
+form_password_leave === Ak chcete zachovať aktuálne heslo, nechajte prázdne
+form_language === Jazyk
+form_webhookname_placeholder === Odpovedať Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Podmienky služby
+form_widgeticon === Ikona
+form_widgettype === Typ
+form_widgetsize === Veľkosť
+form_widgetsmall === Malý
+form_widgetmedium === Stredná
+form_widgetlarge === Veľký
+form_widgetxlarge === Extra veľké
+form_widgetposition === pozícia
+form_widgetcenter === centrum
+form_widgetleft === Vľavo
+form_widgetright === Správny
+form_widgetcontent === Obsah
+form_builderpackagename === Názov balíka
+form_builderappname === Názov aplikácie
+form_builderappdesc === Popis aplikácie
+form_builderappdesc_placeholder === Toto je úžasná aplikácia
+form_builderapplogo === Logo aplikácie
+form_builderappsplash === Úvodná obrazovka aplikácie
+form_uploaded === Nahrané
+form_notuploaded === žiadne
+form_themebg === Farba pozadia
+form_themetext === Farba zvýraznenia
+form_settingsite === stránky
+form_settingssitename === Názov siete
+form_settingssitedesc === popis stránky
+form_settingspcode === Nákupný kód
+form_settingsprotocol === Protokol
+form_settingsdeflang === Predvolený jazyk
+form_settingsreg === Registrácie
+form_settingsmailing === Poštou
+form_settingsmailfunc === Funkcia pošty
+form_settingssitemail === E-mail lokality
+form_settingssmtphost === Hostiteľ SMTP
+form_settingssmtpport === Port SMTP
+form_settingssmtpusername === Používateľské meno SMTP
+form_settingssmtppassword === Heslo SMTP
+form_settingssmtp_small === Vyžaduje sa pre vzdialený SMTP
+form_settingspayments === Platby
+form_settingspaypaltest === Testovací režim Paypal
+form_settingssecurity === Bezpečnosť
+form_settingsrecaptchakey === Kľúč webu Recaptcha
+form_settingsrecaptchasecret === Tajný kľúč Recaptcha
+form_enable === Povoliť
+form_disable === Zakázať
+form_native === Natívne
+form_remotesmtp === Vzdialený SMTP
+form_device === Mobilné zariadenie
+form_sim === Sim Slot
+form_priority === Priorita
+form_yes === Áno
+form_no === nie
+form_freefor === Navždy zadarmo
+form_monthly === Mesačne
+form_groups === Kontaktné skupiny
+form_template === Šablóna
+form_none === žiadne
+form_message === Správa
+form_message_placeholder === Tu zadajte svoju správu...
+form_avatar === Avatar
+form_changepass === Zmeniť heslo
+form_package === Balíček
+form_keys === API kľúče
+form_hooks === Webhooky
+form_daily === denne
+form_forgotpass === Zabudol si heslo
+form_fullname === Celé meno
+form_cpassword === Potvrďte heslo
+form_haveaccount === Mám účet
+datatable_processing === Spracováva sa, čakajte prosím...
+datatable_length === Zobrazuje sa _MENU_ záznamov
+datatable_info === Zobrazuje sa _START_ až _END_ z _TOTAL_ záznamov
+datatable_empty === Zobrazuje sa 0 až 0 z 0 záznamov
+datatable_filtered === (filtrované z celkového počtu _MAX_ záznamov)
+datatable_loading === Načitáva sa, prosím čakajte...
+datatable_zero === Nemôžeme nájsť nič zodpovedajúce vášmu dopytu!
+datatable_null === Neexistujú žiadne údaje na zobrazenie!
+datatable_first === najprv
+datatable_prev === Predchádzajúce
+datatable_next === Ďalšie
+datatable_last === Posledný
+delete_title === Odstrániť?
+delete_tagline === Táto akcia sa nedá vrátiť späť!
+validate_cannotemp === nemôže byť prázdny!
+alert_attention === Pozornosť
+copy_data === Údaje boli skopírované do schránky!
+date_today === dnes
+date_yesterday === včera
+date_7days === Posledných 7 dní
+date_30days === Posledných 30 dní
+date_month === Tento mesiac
+date_lmonth === Minulý mesiac
+date_custom === Vlastný rozsah
+unknown_action_method === Neznáma metóda akcie!
+mollie_redirecting_page === Prebieha presmerovanie na platobnú stránku mollie...
+form_settingsmolliekey === Mollie API kľúč
+btn_confirm === Potvrďte
+btn_cancel === Zrušiť
+recaptcha_add_keys === Ak chcete povoliť túto funkciu, pridajte svoje kľúče recaptcha!
+pay_with_paypal === Plaťte cez Paypal
+pay_with_mollie === Plaťte s Mollie
+form_settingsenabledproviders === Povolení poskytovatelia
+form_builderappicon === Ikona aplikácie
+payment_transact_failed === Platobná transakcia zlyhala!
+cookieconsent_message === Používame cookies, aby sme zaistili, že na našej webovej stránke budete mať čo najlepší zážitok.
+cookieconsent_link === Uč sa viac
+role_added === Úloha bola pridaná!
+role_updated === Úloha bola aktualizovaná!
+role_deleted === Rola bola odstránená!
+role_default_update === Predvolenú rolu nie je možné upraviť!
+role_default_delete === Predvolenú rolu nemožno odstrániť!
+voucher_added === Voucher bol pridaný!
+form_voucher === Kód voucheru
+btn_redeem === Uplatniť
+invalid_voucher_code === Neplatný kód kupónu!
+voucher_deleted === Voucher bol zmazaný!
+form_title_addvoucher === Pridajte voucher
+form_title_addsubscription === Pridať predplatné
+form_adduser_role === Role
+require_pagename === Názov stránky
+require_pageroles === Povolené roly
+form_pageroles === Povolené roly
+require_vouchercode === Kód voucheru
+form_settingscurrency === mena
+btn_bulkexcel === Excel
+response_leastprovider === Vyberte aspoň 1 poskytovateľa platieb!
+user_subscriptioncontacts === Kontakty
+response_suspended === Váš účet bol pozastavený správcom!
+response_adminsuspend === Predvolený účet nemožno pozastaviť!
+response_successsuspend === Používateľ bol pozastavený!
+response_successunsuspend === Pozastavenie používateľa bolo zrušené!
+suspend_user_title === Pozastaviť používateľa?
+suspend_user_desc === Tento používateľ sa nebude môcť prihlásiť a používať služby
+unsuspend_user_title === Zrušiť pozastavenie používateľa?
+unsuspend_user_desc === Tento používateľ sa bude môcť znova prihlásiť a používať služby
+all_languages === Všetky jazyky
+response_invalid_excel === Neplatný excelový súbor!
+response_contacts_imported === Kontakty boli importované!
+table_role_name === Názov role
+table_role_permissions === Povolenia
+table_voucher_name === názov
+table_voucher_package === Balíček
+table_page_name === Názov stránky
+table_page_require === Vyžadovať prihlásenie
+table_page_roles === Povolené roly
+import_btn === Importovať
+form_excelfile === Excel súbor
+form_hook_addtitle === Pridať akciu háku
+form_hook_edittitle === Upraviť akciu háku
+form_hook_event === Udalosť
+form_hook_link === Štruktúra odkazu
+form_autoreply_addtitle === Pridať akciu odpovede
+form_autoreply_edittitle === Upraviť akciu odpovede
+form_autoreply_keywords === Kľúčové slová
+form_autoreply_message === Odpovedať na správu
+require_action_name === Názov akcie
+require_action_event === Typ udalosti
+require_action_link === Štruktúra odkazu
+require_action_keywords === Kľúčové slová
+require_action_message === Odpovedať na správu
+response_invalid_linkstructure === Neplatná štruktúra odkazu!
+response_hook_added === Bola pridaná akcia SMS hook!
+response_invalid_keywords === Musíte zadať aspoň 1 kľúčové slovo!
+response_autoreply_added === Bola pridaná akcia SMS odpovede!
+response_hook_updated === Akcia háku SMS bola aktualizovaná!
+response_autoreply_updated === Akcia odpovede SMS bola aktualizovaná!
+response_action_deleted === SMS akcia bola vymazaná!
+table_action_name === názov
+form_scheduled_title === Naplánujte si SMS
+response_scheduled_deleted === Naplánovaná správa bola odstránená!
+response_no_permission === Na túto akciu nemáte povolenie!
+response_builder_appiconfail === Ikonu aplikácie nie je možné nahrať!
+form_require_login === Vyžadovať prihlásenie
+widget_addpage_title === Pridať stránku
+widget_editpage_title === Upraviť stránku
+require_subscription_user === Používateľ
+require_voucher_name === Názov voucheru
+require_voucher_package === Balíček
+widget_alllang_title === Všetky jazyky
+widget_smsexcel_title === Hromadné SMS cez Excel
+require_scheduled_name === názov
+require_scheduled_date === Dátum plánu
+widget_importcontacts_title === Importovať kontakty
+require_addrole_name === Názov role
+require_addrole_permissions === Povolenia
+widget_editrole_title === Upraviť rolu
+response_page_added === Stránka bola pridaná!
+response_page_updated === Stránka bola aktualizovaná!
+response_page_deleted === Stránka bola odstránená!
+table_scheduled_name === názov
+messages_scheduled_title === Naplánovaný
+messages_scheduled_schedule === Naplánujte si SMS
+form_schedule_numbers === Mobilné čísla
+form_schedule_schedule === Rozvrh
+form_schedule_repeat === Opakujte
+form_bulksms_numbers === Mobilné čísla
+dashboard_tools_menuactions === Akcie
+dashboard_admin_menuroles === Roly
+dashboard_admin_menuvouchers === poukážky
+dashboard_admin_menupages === Stránky
+admin_gateway_title === Brána
+admin_gateway_status === Postavenie
+admin_gateway_notuploaded === Nenahrané
+admin_gateway_uploaded === Nahrané
+dashboard_roles_title === Roly používateľov
+dashboard_roles_addrole === Pridať rolu
+dashboard_vouchers_title === poukážky
+dashboard_vouchers_addrole === Pridajte voucher
+form_voucher_package === Balíček
+dashboard_pages_title === Stránky
+dashboard_pages_addpage === Pridať stránku
+form_theme_favicon === Favicon
+form_package_contactslimit === Limit kontaktov
+response_limitation_send === Dosiahli ste maximálny povolený počet odoslaní pre dnešok!
+response_limitation_contact === Dosiahli ste maximálny povolený počet kontaktov!
+response_limitation_key === Dosiahli ste maximálny povolený počet kľúčov API!
+response_limitation_webhook === Dosiahli ste maximálny povolený počet webhookov!
+form_adminsettings_token === Systémový token
+response_upload_appicon === Nahrajte ikonu svojej aplikácie!
+app_status_gateway_running === Brána beží!
+app_device_registered === Spojený
+app_device_unregistered === Neprepojené
+app_terminal_gateway_ready === Brána je pripravená...
+app_terminal_gateway_register === Zariadenie ešte nie je prepojené...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Zariadenie bolo prepojené...
+app_terminal_gateway_device === Prepojenie zariadenia zlyhalo...
+app_terminal_gateway_connecterror === Chyba pri pripájaní k serveru...
+app_terminal_gateway_started === Brána bola spustená...
+app_terminal_gateway_stopped === Brána bola zastavená...
+app_terminal_gateway_unregistered === Nie je možné spustiť bránu, zariadenie ešte nie je prepojené so žiadnym účtom...
+app_terminal_feature_error === Chyba funkcie SMS
+app_terminal_sms_sent === Správa poslaná
+app_terminal_message_failed === Odoslanie správy zlyhalo
+app_dialog_wait === Prosím čakajte...
+app_dialog_exit === Ukončite bránu
+app_dialog_exit_desc === Vypnúť a ukončiť bránu?
+app_camera_qrcode_inside === Vložte svoj QRCode dovnútra
+app_ui_status === Postavenie
+app_ui_exit === VÝCHOD
+require_voucher_count === Počet kupónov nemôže byť prázdny!
+form_voucher_count === Počet kupónov
+cookieconsent_dismiss === Mám to!
+title_payment_success === Potvrdenie objednávky
+title_payment_cancel === Objednávka zrušená
+header_payment_success === Potvrdenie objednávky
+header_payment_cancel === Objednávka zrušená
+body_payment_cancel === Zrušili ste požiadavku na objednávku.
+transaction_payment_success === ID transakcie:
+back_payment_page === Späť na Dashboard
+form_settingspaypalemail === Paypal Business Email
+form_settingsanalytics === Kľúč Google Analytics
+form_messagecounterchars === postavy
+form_settingspagination === Obmedzenia stránkovania
+form_settingssentpage === Počet odoslaných správ na stránku
+form_settingsreceivedpage === Prijaté správy na stránku
+form_settingsmessage === Nastavenia správ
+form_settingsmessagemin === Minimálny počet znakov
+form_settingsmessagemax === Maximálny počet znakov
+form_settingsmessagemark === Päta správy
+form_packagefootermark === Päta správy
+form_settingssmtpsecure === Zabezpečenie SMTP
+form_durationtitle === Trvanie
+form_durationpackage === Váš balíček:
+form_durationpay === Zaplatíte:
+form_durationmonth === Trvanie mesiaca
+form_subscriptionmonth === Trvanie mesiaca
+authenticate_fblogin === Prihlasovanie cez facebook...
+authenticate_googlelogin === Prihlasovanie cez google...
+authenticate_vklogin === Prihlasovanie cez vkontakte...
+response_minplatforms === Vyberte aspoň 1 sociálnu platformu!
+form_settingssocialtitle === Sociálne nastavenia
+form_settingssocial === Sociálna autentifikácia
+form_settingssocialplatforms === Povolené platformy
+form_usertimezone === Časové pásmo
+form_settingsloginrecaptcha === Prihlásenie Recaptcha
+form_loginor === ALEBO
+form_adddevicescandl === Stiahnite si cez QR Scan
+form_status_online === online
+form_status_offline === Offline
+form_smsbulknonumbers === Vyberte skupinu kontaktov alebo zadajte čísla príjemcov!
+form_addsubscriptionuser === Používateľ
+form_addsubscriptionpackage === Balíček
+table_vouchersduration === Trvanie mesiaca
+table_pluginsname === Názov doplnku
+table_pluginsoptions === možnosti
+dashboard_admin_menuplugins === Pluginy
+dashboard_admin_pluginstitle === Pluginy
+dashboard_admin_pluginsadd === Pridať doplnok
+require_pluginfile === Súbor doplnku
+modal_addplugin_title === Pridať doplnok
+response_pluginwentwrong === Pri nahrávaní doplnku sa vyskytla chyba!
+response_plugininstalled === Plugin bol nainštalovaný!
+dashboard_title_login === Prihlásiť sa
+dashboard_title_forgot === Zabudol si heslo
+dashboard_title_register === Registrovať
+response_limitation_contact2 === Dosiahli ste maximálny počet kontaktov vo svojom odbere, importovalo sa iba _8880_ kontaktov!
+response_contacts_imported2 === _8880_ kontaktov bolo úspešne importovaných!
+form_systemsettingshomepage === Predvolená domovská stránka
+app_dialog_update_desc === Pre aplikáciu brány je k dispozícii nová verzia, vyžaduje sa aktualizácia!
+app_dialog_update_download === Stiahnuť ▼
+app_gateway_build_text === Zostavenie brány
+response_gateway_available === Sťahuje sa brána, čakajte...
+response_gateway_unavailable === Brána nie je dostupná, kontaktujte administrátora stránky!
+response_gateway_randommax === Maximálny interval odosielania nemôže byť väčší ako 300 sekúnd!
+response_device_updated === Zariadenie bolo aktualizované!
+form_editdevice_devicename === Názov zariadenia
+form_editdevice_randomsend === Interval náhodného odoslania
+form_editdevice_randommin === Interval odoslania min
+form_editdevice_randommax === Interval odosielania Max
+form_smsall_globalstatus === globálne
+form_select_multinone === žiadne
+form_package_hiddenselect === Skryté
+landing_footer_ourcompnew === Naša spoločnosť
+form_smsschedule_submit === Rozvrh
+require_devicename === Názov zariadenia
+require_randommin === Náhodný minimálny interval
+require_randommax === Náhodný maximálny interval
+admin_update_installed === Nainštalované
+admin_update_btn === Aktualizovať
+response_update_success === Systém bol aktualizovaný!
+form_settings_tawkchatlink === Odkaz na priamy chat Tawk
+model_title_editplugin === Upraviť doplnok
+btn_other_paymentmethods === Iné spôsoby platby
+dashboard_btn_support === podpora
+pendingdelete_title === Odstrániť čakajúce?
+pendingdelete_desc === Odstrániť všetky čakajúce správy? Táto akcia sa nedá vrátiť späť!
+dashboard_messages_tablefullmessage === Úplná správa
+administration_landing_btncache === Cache
+administration_landing_payouts === Výplaty
+administration_landing_marketing === marketing
+administration_landing_gateways === Brány
+administration_landing_shorteners === Skracovače
+administration_landing_editor === Editor šablón
+administration_landing_api === Admin API
+administration_landing_build === Stavať
+administration_landing_system === systém
+requests_charts_smssent === SMS odoslaná
+requests_charts_smsreceived === SMS prijatá
+requests_charts_wasent === WhatsApp odoslaný
+requests_charts_wareceived === WhatsApp prijatý
+requests_charts_ussd === USSD
+requests_charts_notifications === Upozornenia
+requests_charts_credits === Kredity
+administration_default_visitors === Návštevníci
+administration_default_countries === krajiny
+administration_default_browsers === Prehliadače
+administration_default_os === Operačné systémy
+administration_default_usages === Využitie
+administration_default_messages === Správy
+administration_default_utilities === Verejné služby
+administration_default_subscriptions === Predplatné
+administration_default_credits === Kredity
+tables_users_registered === Registrovaný
+tables_users_details === Podrobnosti
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Vstupné sadzby
+dashboard_title_docs === dokumentácie
+app_status_gateway_touch === Dotknite sa tu pre otvorenie brány
+app_dialog_downloading_update === Sťahuje sa aktualizácia
+app_dialog_interface_disabled === Rozhranie je vypnuté, aktualizujte aplikáciu na najnovšiu verziu!
+app_dialog_somethingwent_wrong === Och! Niečo sa pokazilo!
+app_intro_level_1 === Ďakujeme, že používate našu platformu, aby ste maximalizovali svoje skúsenosti a zoznámili sa s aplikáciou, poďme ju preskúmať a my vám vysvetlíme všetky základné funkcie, ktoré potrebujete vedieť.
+app_intro_level_2 === Tu uvidíte názov zariadenia a stav prepojenia.
+app_intro_level_3 === Ak chcete prepojiť zariadenie s vaším účtom, pomocou tohto tlačidla sa prihláste alebo naskenujte svoj QRCode na prepojenie.
+app_intro_level_4 === Tento prepínač použite na zapnutie alebo vypnutie brány.
+app_intro_level_5 === Povolenie tohto prepínača spôsobí, že aplikácia brány bude počúvať nové upozornenia, ktoré potom možno programovo spravovať na platforme. Toto je predvolene vypnuté.
+app_intro_level_6 === Toto tlačidlo použite na vypnutie a ukončenie aplikácie brány.
+app_intro_level_7 === Toto je terminál, tu sa zobrazia transakcie správ a ďalšie záznamy aktivít.
+app_intro_level_8 === Toto je plávajúce tlačidlo akcie, tu máte prístup k niektorým možnostiam a ďalším stránkam, ako napríklad <b>Spustiť na pozadí</b>.
+app_dialog_tour_complete === Teraz by ste mali pochopiť, ako aplikácia funguje, ak máte ďalšie otázky, kontaktujte nás!
+app_push_right_now === teraz
+app_device_detailes_updated === Podrobnosti o zariadení boli aktualizované!
+app_ussd_requests_notsupported === Žiadosti USSD nie sú podporované...
+app_notifications_listening_now === Počúvanie nových upozornení...
+app_button_ok === Potvrďte
+app_dialog_update_smoothperm === Pre plynulé a efektívne aktualizácie povoľte tejto aplikácii povolenie na inštaláciu.
+app_dialog_logging_in === Prihlasovanie...
+app_dialog_invalid_email === Zadali ste neplatný email!
+app_dialog_invalid_password === Heslo je príliš krátke na to, aby bolo platné!
+app_dialog_notsupported_notinougat === Upozornenia momentálne nie sú podporované pre nugát a nižšie, ospravedlňujeme sa za nepríjemnosti.
+app_dialog_notifications_permission === Na programový prístup k upozorneniam aplikácia vyžaduje špeciálne povolenie. Vyberte aplikáciu v zozname a potom povoľte prístup k upozorneniam.
+app_dialog_gateway_listennoti === Brána bude teraz prijímať nové upozornenia.
+app_dialog_gateway_notirestart === Brána sa reštartuje a prestane počúvať nové upozornenia.
+app_dialog_needto_link === Pred použitím tejto funkcie musíte zariadenie prepojiť s vaším účtom.
+app_dialog_logoutfrom_device === Odhlásiť sa z tohto zariadenia brány?
+app_document_runbackground === Bežať v pozadí
+app_document_input_email === Emailová adresa
+app_document_input_password === heslo
+app_document_btn_login === Prihlásiť sa
+app_document_text_or === alebo
+app_document_btn_scan === Naskenujte QRCode
+app_document_btn_cancel === Zrušiť
+app_intro_next_btn === Ďalšie
+app_intro_back_btn === späť
+response_token_generated === Systémový token bol vygenerovaný!
+response_trigger_done === Webhook bol spustený!
+response_build_gservicesfile === Nahrajte svoj súbor služieb Google!
+response_build_fcredentialsfile === Nahrajte súbor poverení Firebase!
+response_build_loginlogo === Nahrajte svoje prihlasovacie logo do aplikácie!
+response_whatsapp_notprem === Účet nie je predplatený na žiadny prémiový balík!
+response_whatsapp_maxaccounts === Dosiahli ste maximálny povolený počet účtov WhatsApp pre váš balík!
+response_whatsapp_creatingqr === Vytvára sa WhatsApp QRCode
+response_whatsapp_noconnectserver === Nedá sa pripojiť k serverom WhatsApp!
+response_chart_dashsmssent === SMS odoslaná
+response_chart_dashsmsreceive === SMS prijatá
+response_chart_dashwasent === WA Odoslané
+response_chart_dashwareceive === WA prijaté
+response_chart_dashwebhooks === Webhooky
+response_chart_dashactions === Akcie
+response_chart_dashussd === USSD
+response_chart_dashnoti === Upozornenia
+response_resend_queued === Správa bola zaradená do frontu na odoslanie!
+mail_title_payoutapproved === Vaša žiadosť o platbu bola zaplatená!
+response_payout_confirmed === Výplata bola potvrdená!
+mail_title_payoutrejected === Vaša žiadosť o platbu bola odmietnutá!
+response_payout_rejected === Výplata bola odmietnutá!
+response_translate_msgshort === Správa je príliš krátka!
+response_clear_systemcleared === Súbory vyrovnávacej pamäte systému boli vymazané!
+response_clear_smscleared === Čakajúce správy boli vymazané!
+response_clear_ussdcleared === Čakajúce požiadavky USSD boli vymazané!
+response_reorder_languages === Poradie jazykov bolo zmenené!
+response_trash_selectedremoved === Vybrané položky boli odstránené!
+response_voucher_redeemed === Voucher bol uplatnený!
+response_payout_invalidamount === Neplatná suma výplaty, nemala by obsahovať desatinné hodnoty.
+response_payout_notenoughbal === Na spracovanie žiadosti nie je dostatočný zostatok zárobkov!
+response_payout_reqreceive === Vaša žiadosť o platbu bola prijatá!
+response_payout_pendingreq === Stále máte čakajúcu žiadosť o platbu!
+response_system_sysconfigerr === Chyba konfigurácie systému!
+response_message_toolong === Vaša správa je príliš dlhá!
+response_package_nosubwarn === Nemáte predplatné balíka!
+response_message_notenoughcredsend === Na odoslanie tejto správy nie je dostatok kreditov!
+response_message_queuedforsend === Správa bola zaradená do frontu na odoslanie!
+response_message_sentsuccess === Správa bola odoslaná!
+response_message_unablesendmesg === Nemôžeme odoslať vašu správu!
+response_smsexcel_phonenotfound === Stĺpec _8880_ sa nenašiel vo vašom excelovom súbore!
+response_smssched_queued === Správa bola naplánovaná!
+response_ussd_maximumreq === Bol dosiahnutý maximálny počet žiadostí USSD!
+response_ussd_queued === Požiadavka USSD bola zaradená do frontu!
+response_whatsapp_reachedmaxchat === Už ste dosiahli maximálny počet četov, ktoré môžete odoslať!
+response_whatsapp_chatqueued === Správa WhatsApp bola zaradená do frontu na odoslanie!
+response_whatsapp_unableconnectserv === Nedá sa pripojiť k serverom WhatsApp!
+response_whatsapp_bulkchatsqueued === Hromadné rozhovory WhatsApp boli zaradené do frontu!
+response_whatsapp_excelphonecolnotfound === Stĺpec _8880_ sa nenašiel vo vašom excelovom súbore!
+response_whatsapp_chatscheduled === Chat bol naplánovaný!
+response_importcontacts_phonenotfound === Stĺpec _8880_ sa nenašiel vo vašom excelovom súbore!
+response_importcontacts_groupsnotfound === Stĺpec _8880_ sa nenašiel vo vašom excelovom súbore!
+response_importcontacts_namenotfound === Stĺpec _8880_ sa nenašiel vo vašom excelovom súbore!
+response_package_pricenotlessone === Cena balíka nemôže byť nižšia ako 1!
+response_subscription_addedsuccess === Predplatné bolo vytvorené!
+response_push_selectatleastoneuser === Vyberte aspoň jedného používateľa alebo rolu!
+response_push_mesgtooshort === Správa je príliš krátka!
+response_push_titletooshort === Názov je príliš krátky!
+response_push_imgfailed === Nahrávanie súboru obrázka zlyhalo!
+response_push_created === Push vysielanie bolo vytvorené!
+response_push_nousers === Nenašli sa žiadni používatelia na odoslanie!
+response_notify_titletooshort === Názov je príliš krátky!
+response_notify_mesgtooshort === Správa je príliš krátka!
+response_notify_selectuserrole === Vyberte aspoň jedného používateľa alebo rolu!
+response_notify_imgfailed === Nahrávanie súboru obrázka zlyhalo!
+response_notify_created === Oznámiť vysielanie bolo vytvorené!
+response_notify_nousers === Nenašli sa žiadni používatelia na odoslanie!
+response_mailer_titletooshort === Názov je príliš krátky!
+response_mailer_contentooshort === Obsah je príliš krátky!
+response_mailer_nouserorrole === Vyberte aspoň jedného používateľa alebo rolu!
+response_mailer_sendcounter === _8880_ z _8881_ čakajúcich e-mailov bolo odoslaných poštou!
+response_mailer_mailprocessed === Hromadná zásielka bola spracovaná!
+response_mailer_nousersorrole === Nenašli sa žiadni používatelia na odoslanie!
+response_gateway_controllercannotempty === Súbor ovládača nemôže byť prázdny!
+response_gateway_invalidcontroller === Neplatný súbor ovládača!
+response_gateway_addeddcontroller === Brána bola pridaná!
+response_shortener_cannotempty === Súbor ovládača nemôže byť prázdny!
+response_shortener_invalidcontroller === Neplatný súbor ovládača!
+response_shortener_addedcontroller === Bol pridaný skracovač!
+response_plugin_samenameinstalled === Doplnok s rovnakým názvom už bol nainštalovaný!
+response_smscheduled_editsuccess === Naplánovaná správa bola aktualizovaná!
+response_chatscheduled_editsuccess === Rozvrh rozhovoru bol aktualizovaný!
+response_editdevice_invalidrate === Neplatná hodnota sadzby, malo by to byť platné pohyblivé číslo!
+response_editdevice_nametooshort === Názov zariadenia je príliš krátky!
+response_editdevice_nametoolong === Názov zariadenia je príliš dlhý!
+response_editdevice_invalidmaxinterval === Neplatná hodnota maximálneho intervalu!
+response_gateway_updatedsuccess === Brána bola aktualizovaná!
+response_shortener_editsuccess === Skracovač bol aktualizovaný!
+response_editplugin_success === Nastavenia pluginu boli aktualizované!
+response_updatepluin_corrupted === Súbor aktualizácie doplnku je poškodený!
+response_updateplugin_updated === Plugin bol aktualizovaný!
+response_builder_invalidgooglefile === Neplatný súbor poverení služieb Google!
+response_builder_invalidfirebasefile === Neplatný súbor poverení Firebase!
+response_theme_sitelogofailed === Nahranie loga stránky zlyhalo!
+response_theme_sitebgfailed === Nahranie stránky na pozadí zlyhalo!
+response_theme_sitefavfailed === Nahranie obrázka favicon zlyhalo!
+response_notification_deletedsuccess === Upozornenie bolo vymazané!
+response_whatsapp_sentdeletesuccess === Odoslaný chat WhatsApp bol odstránený!
+response_whatsapp_receivedeletesuccess === Prijatý chat WhatsApp bol odstránený!
+response_whatsapp_scheduleddeletesuccess === Naplánovaný chat WhatsApp bol odstránený!
+response_whatsapp_accountdeletesuccess === Účet WhatsApp bol odstránený!
+response_unsibscribe_contactdeletedsuccess === Neregistrované číslo bolo vymazané!
+response_marketing_logdeletedsuccess === Marketingový denník bol vymazaný!
+response_gateway_controllerdeletedsuccess === Brána bola odstránená!
+response_shortener_controllerdeletedsuccess === Skracovač bol vymazaný!
+table_androidsent_clipcopy === Odoslaná kópia schránky _8880_
+table_androidsent_excel === Odoslané Excel Export _8880_
+table_androidsent_pdf === Odoslať export PDF _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === správa
+table_unknown_data === Neznámy
+table_androidsent_statuspending === Čaká na spracovanie
+table_androidsent_statusqueued === Vo fronte
+table_androidsent_statussent === Odoslané
+table_androidsent_statusfailed === Nepodarilo sa
+table_none_data === žiadne
+table_yes_data === Áno
+table_no_data === nie
+table_removed_data === Odstránený
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Stav: _8880_, Režim: _8881_, Kód: _8882_, Priorita: _8883_, Odoslané API: _8884_, Slot na SIM kartu: SIM _8885_, Zariadenie: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Zariadenia
+table_androidsent_modenamecredits === Kredity
+table_androidsent_reportline1 === Stav: _8880_
+table_androidsent_reportline2 === Režim: _8880_
+table_androidsent_reportline3 === Kód: _8880_
+table_androidsent_reportline4 === Priorita: _8880_
+table_androidsent_reportline5 === Odoslané API: _8880_
+table_androidsent_reportline6 === Slot na SIM kartu: SIM _8880_
+table_androidsent_reportline7 === Zariadenie: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Stav: _8880_, Režim: _8881_, Brána: _8882_
+table_androidsent_reportline9 === Stav: _8880_
+table_androidsent_reportline10 === Režim: _8880_
+table_androidsent_reportline11 === Brána: _8880_
+table_androidsent_exportthree === Stav: _8880_, Režim: _8881_, Kód: _8882_, Odoslané API: _8883_, Slot SIM: SIM _8884_, Brána: _8885_
+table_androidsent_reportline12 === Stav: _8880_
+table_androidsent_reportline13 === Režim: _8880_
+table_androidsent_reportline14 === Kód: _8880_
+table_androidsent_reportline15 === Odoslané API: _8880_
+table_androidsent_reportline16 === Slot na SIM kartu: SIM _8880_
+table_androidsent_reportline17 === Brána: _8880_
+table_androidsent_titleresend === Znova odošlite túto správu
+table_title_deletethisitem === Odstrániť túto položku
+table_androidreceive_exportcopy === Prijatá kópia schránky _8880_
+table_androidreceive_exportexcel === Prijatý export Excel _8880_
+table_androidreceive_exportpdf === Prijatý export PDF _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === správa
+table_androidreceive_exportdata === Slot SIM: SIM _8880_, Zariadenie: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Slot na SIM kartu: SIM _8880_
+table_androidreceive_reportline2 === Zariadenie: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Odpovedzte na číslo
+table_androidscheduled_titleschedule === Rozvrh
+table_androidscheduled_titledetails === Podrobnosti
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Režim: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Opakovať: _8880_
+table_androidscheduled_detailsline4 === Zariadenie: _8880_
+table_androidscheduled_detailsgroupslabel === Skupiny:
+table_androidscheduled_detailsnumberslabel === čísla:
+table_androidscheduled_detailsline5 === Režim: _8880_
+table_androidscheduled_detailsline6 === Opakovať: _8880_
+table_androidscheduled_detailsline7 === Brána: _8880_
+table_androidscheduled_detailsline8 === Režim: _8880_
+table_androidscheduled_detailsline9 === Opakovať: _8880_
+table_androidscheduled_detailsline10 === Zariadenie: _8880_
+table_title_editthisitem === Upravte túto položku
+table_whatsappsent_exportcopy === Odoslaná kópia schránky
+table_whatsappsent_exportexcel === Odoslaný Excel Export
+table_whatsappsent_exportpdf === Odoslaný export PDF
+table_whatsappsent_accounttitle === účtu
+table_whatsappsent_recipienttitle === Príjemca
+table_whatsappsent_msgtitle === Správa
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Postavenie
+table_ussd_exportcopy === Kópia schránky USSD
+table_ussd_exportexcel === USSD Excel Export
+table_ussd_exportpdf === Export USSD PDF
+table_ussd_createdtitle === Vytvorené
+table_ussd_codetitle === kód
+table_ussd_responsetitle === odpoveď
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Postavenie
+table_ussd_devicetitle === Zariadenie
+table_ussd_optionstitle === možnosti
+table_ussd_pendingresponsetext === Čaká sa na odpoveď
+table_empty_data === Prázdny
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Čaká na spracovanie
+table_ussd_queuelabel === Vo fronte
+table_ussd_completelabel === Dokončené
+table_ussd_detailsline1 === Zariadenie: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Kopírovanie schránky upozornení
+table_notifications_exportexcel === Oznámenia Excel Export
+table_notifications_exportpdf === Oznámenia Export do PDF
+table_notifications_createdtitle === Vytvorené
+table_notifications_packagetitle === Názov balíka
+table_notifications_title === Názov
+table_notification_texttitle === Text
+table_notification_devicetitle === Zariadenie
+table_notification_optiontitle === možnosti
+table_notification_devicelabel === Zariadenie:
+table_notification_oslabel === OS:
+table_devices_nametitle === názov
+table_devices_globaltitle === globálne
+table_enabled_data === Povolené
+table_disabled_data === Zakázané
+table_notifications_exportone === Zariadenie: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Čaká na spracovanie
+table_whatsapp_queuelabel === Vo fronte
+table_whatsapp_sentlabel === Odoslané
+table_whatsapp_failedlabel === Nepodarilo sa
+table_whatsappreceive_exportcopy === Prijatá kópia zo schránky
+table_whatsappreceive_exportexcel === Prijatý export Excelu
+table_whatsappreceive_exportpdf === Prijatý export PDF
+table_whatsappreceive_replytitle === Odpovedzte na číslo
+table_waschedule_scheduletitle === Rozvrh
+table_waschedule_detailstitle === Podrobnosti
+table_waschedule_detailsline1 === Opakovať: _8880_
+table_waschedule_detailsline2 === účet:
+table_waschedule_detailsline3 === Skupiny:
+table_waschedule_detailsline4 === čísla:
+table_waaccounts_loggedtitle === Prihlásený
+device_login_usevalidemail === Použite platnú e-mailovú adresu!
+device_login_accountsuspended === Ľutujeme, váš účet je pozastavený!
+device_login_incorrectmailorpass === Zadali ste nesprávny e-mail alebo heslo!
+device_login_nosubscription === Nemáte predplatné balíka!
+device_login_nomoredevice === Nemôžete registrovať viac zariadení!
+device_scan_qrcodeinvalid === Váš QRCode je neplatný!
+device_scan_nosub === Nemáte predplatné balíka!
+device_scan_usersuspended === Ľutujeme, váš účet je pozastavený!
+device_scan_nomoredevices === Nemôžete registrovať viac zariadení!
+device_report_smssentsuccess === Správa _8880_ bola odoslaná z _8881_
+device_report_smssentfailed === Odoslanie správy _8880_ zlyhalo z _8881_
+device_received_smsreceived === Nové _8880_ bolo prijaté od _8881_
+requests_resend_devicenotexist === Zariadenie neexistuje!
+device_ussd_responsereceive === Odpoveď USSD prijatá z _8880_
+device_notification_notireceive === Od _8880_ bolo prijaté nové upozornenie
+payment_success_unknowntx === Neznámy
+payment_webhook_molliecreditsadded === Na váš účet boli pridané kredity!
+payment_webhook_paypalcreditsadded === Na váš účet boli pridané kredity!
+payment_webhook_unknowntn === Neznámy
+mail_tpl_creditstitle === Ahoj,
+mail_tpl_creditsdesc === Zakúpili ste si kredity, my sme vám na účet pripísali spolu _8880_ a môžete ich ihneď použiť.
+mail_tpl_creditstnx === Ďakujem!
+mail_tpl_poweredby === Powered by _8880_
+forgot_response_recoverysent === Pokyny na získanie boli odoslané na číslo _8880_
+forgot_response_recoveryfail === Nemôžeme vám poslať e-mail!
+cron_package_expired === Platnosť vášho predplatného balíka vypršala!
+cron_package_expiring === Predplatné balíka vyprší o 5 dní!
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === Unikátne ID
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Kópia schránky skupín _8880_
+table_contactssaved_exportexcel === Skupiny Excel Export _8880_
+table_contactssaved_exportpdf === Skupiny PDF Export _8880_
+table_contactssaved_grouptitle === skupiny
+table_contactsgroups_gidtitle === ID skupiny
+table_contactsunsub_exportcopy === Neregistrovaná kópia schránky _8880_
+table_contactsunsub_exportexcel === Neregistrovaný Excel Export _8880_
+table_contactsunsub_exportpdf === Neregistrovaný export PDF _8880_
+table_toolskeys_createdtitle === Vytvorené
+table_toolskeys_copyapisecret === Skopírujte tajný kľúč API do schránky
+table_toolswebhooks_createtitle === Vytvorené
+table_tootlswebhooks_eventstitle === Diania
+table_toolswebhooks_simulatebtn === Spúšť
+table_toolswebhooks_simulatedesc === Simulovať požiadavku webhooku
+table_toolswebhooks_copywebhooksecret === Skopírujte tajný kód webhooku do schránky
+table_toolsactions_createtitle === Vytvorené
+table_toolsactions_detailstitle === Podrobnosti
+table_toolsactions_typehook === Háčik
+table_toolsactions_typeautoreply === Automatická odpoveď
+table_toolsactions_source === Zdroj: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Udalosť: _8880_
+table_toolsactions_eventonsend === Pri odoslaní
+table_toolsactions_eventonreceive === Pri príjme
+table_toolsactions_link === odkaz:
+table_toolsactions_keywords === Kľúčové slová:
+table_toolsactions_message === Správa:
+table_toolsactions_type === Typ: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Vytvorené
+table_ratespartners_countrytitle === Krajina
+table_ratespartners_detailstitle === Podrobnosti o zariadení
+table_ratespartners_ratetitle === Miera správ
+table_ratespartners_prioritytitle === Priorita
+table_ratespartners_simtitle === Povolené sloty SIM
+table_ratespartners_name === Názov:
+table_ratespartners_owner === vlastník:
+table_ratespartners_localrate === Miestna sadzba:
+table_ratespartners_convertedrate === Konvertovaný kurz:
+table_ratespartners_simdual === SIM 1 a SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Kópia schránky používateľov _8880_
+table_adminusers_exportexcel === Používatelia Excel Export _8880_
+table_adminusers_exportpdf === Používatelia Export PDF _8880_
+table_adminusersexportdata === Rola: _8880_, Krajina: _8881_, Jazyk: _8882_, Časové pásmo: _8883_, Zárobky: _8884_, Kredity: _8885_, Predplatné: _8886_, Zvuky: _8887_, Pozastavené: _88
+table_adminusers_exportdata1 === Rola: _8880_
+table_adminusers_exportdata2 === Krajina: _8880_
+table_adminusers_exportdata3 === Jazyk: _8880_
+table_adminusers_exportdata4 === Časové pásmo:
+table_adminusers_exportdata5 === Zárobky: _8880_
+table_adminusers_exportdata6 === Kredity: _8880_
+table_adminusers_exportdata7 === Predplatné:
+table_adminusers_exportdata8 === Zvuky: _8880_
+table_adminusers_exportdata9 === Pozastavené: _8880_
+table_adminusers_unsuspendaccount === Zrušte pozastavenie tohto účtu
+table_adminusers_suspendaccount === Pozastaviť tento účet
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Vytvorené
+table_adminpackages_detailstitle === Podrobnosti o balíku
+table_adminpackages_freelabel === zadarmo
+table_unlimited_data === Neobmedzene
+table_adminpackages_labeldetails1 === skryté:
+table_adminpackages_labeldetails2 === Značka päty:
+table_adminpackages_labeldetails3 === Limit odosielania SMS:
+table_adminpackages_labeldetails4 === Limit prijímania SMS:
+table_adminpackages_labeldetails5 === Limit odosielania WhatsApp:
+table_adminpackages_labeldetails6 === Limit príjmu WhatsApp:
+table_adminpackages_labeldetails7 === Limit účtu WhatsApp:
+table_adminpackages_labeldetails8 === Limit USSD:
+table_adminpackages_labeldetails9 === Limit upozornení:
+table_adminpackages_labeldetails10 === Limit zariadenia:
+table_adminpackages_labeldetails11 === Limit kontaktu:
+table_adminpackages_labeldetails12 === Limit kľúča API:
+table_adminpackages_labeldetails13 === Limit webhooku:
+table_adminpackages_labeldetails14 === Limit akcie:
+table_adminpackages_labeldetails15 === Plánovaný limit:
+table_adminvouchers_exportcopy === Poukazy do schránky Copy _8880_
+table_adminvouchers_exportexcel === Poukazy Excel Export _8880_
+table_adminvouchers_exportpdf === Poukazy PDF Export _8880_
+table_adminvouchers_createdtitle === Vytvorené
+table_adminvouchers_codetitle === Použiť kód
+table_adminvouchers_copycode === Skopírujte kód kupónu do schránky
+table_adminsubscriptions_createdtitle === Vytvorené
+table_admintransactions_createdtitle === Vytvorené
+table_admintransactions_itemtitle === Položka
+table_admintransactions_amounttitle === Suma
+table_admintransactions_durationtitle === Trvanie
+table_admintransactions_creditslabel === Kredity
+table_admintransactions_monthslabel === _8880_ mesiacov
+table_adminpayouts_createdtitle === Vytvorené
+table_adminpayouts_partnertitle === Partner
+table_adminpayouts_amounttitle === Suma
+table_adminpayouts_addresstitle === Platobná adresa
+table_adminpayouts_optionstitle === možnosti
+table_adminpayouts_approve === Označiť žiadosť o platbu ako zaplatenú
+table_adminpayouts_reject === Odmietnuť žiadosť o platbu
+table_adminwidgets_createdtitle === Vytvorené
+table_adminwidgets_typeblock === Blokovať
+table_adminwidgets_typemodal === Modálny
+table_adminwidgets_copywidgethook === Skopírujte háčik widgetu do schránky
+table_adminpages_createdtitle === Vytvorené
+table_adminpages_optionstitle === možnosti
+table_adminpages_copypagehook === Skopírujte háčik stránky do schránky
+table_adminmarketing_createdtitle === Vytvorené
+table_adminmarketing_typetitle === Typ
+table_adminmarketing_titletitle === Názov
+table_adminmarketing_contenttitle === Obsah
+table_adminmarketing_recipientstitle === Príjemcovia
+table_adminmarketing_optionstitle === možnosti
+table_adminmarketing_notifylabel === Upozorniť
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === TLAČIŤ
+table_adminmarketing_roleslabel === Roly:
+table_adminmarketing_userslabel === Používatelia:
+table_admingateways_createdtitle === Vytvorené
+table_admingateways_nametitle === názov
+table_admingateways_pricingtitle === Stanovenie cien
+table_admingateways_optionstitle === možnosti
+table_admingateways_invalidjson === Neplatný formát JSON!
+table_admingateways_defaultprice === Predvolená cena: _8880_
+table_admingateways_percountryprcie === Ceny podľa krajiny:
+table_adminshorteners_createdtitle === Vytvorené
+table_adminshorteners_nametitle === názov
+table_adminshorteners_optionstitle === možnosti
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Nainštalovaná verzia
+table_adminplugins_actionstitle === Akcie
+table_adminplugins_updatedesc === Aktualizujte tento doplnok
+table_adminplugins_editdesc === Upraviť možnosti doplnku
+table_adminplugins_removedesc === Odinštalujte tento doplnok
+whatsapp_sent_sentsuccess === WhatsApp chat _8880_ bol odoslaný!
+whatsapp_sent_sentfailed === Odosielanie rozhovoru _8880_ zlyhalo!
+whatsapp_received_chat === Bol prijatý nový chat _8880_!
+widget_systemupdate_title === Aktualizácia systému
+widget_systemupdate_loader === Aktualizácia systému
+widget_systemupdate_requireupdate === Aktualizačný súbor nemôže byť prázdny!
+requests_systemupdate_faileduploadingfile === Nahrávanie aktualizačného súboru zlyhalo!
+widget_usersettings_loader === Ukladajú sa nastavenia účtu
+widget_payment_title === Platba
+widget_payment_creditamountnotless === Výška kreditu nemôže byť nižšia ako 10!
+widget_payment_creditslabel === Kredity
+widget_view_contentremoved === Obsah bol odstránený!
+widget_redeem_title === Uplatniť
+widget_redeem_loader === Overuje sa kód kupónu
+widget_addcredits_title === Pridať kredity
+widget_addpayout_title === Požiadať o výplatu
+widget_addpayout_loader === Vytvára sa žiadosť o výplatu
+widget_addpayout_requireamount === Čiastka nemôže byť prázdna!
+widget_addpayout_requireprovider === Poskytovateľ platieb nemôže byť prázdny!
+widget_addpayout_requireaddress === Platobná adresa nemôže byť prázdna!
+widget_smsquick_loader === Pridáva sa správa do frontu
+widget_smsbulk_loader === Pridávanie správ do frontu
+widget_smsexcel_loader === Pridávanie správ zo súboru programu Excel do frontu
+widget_addsmsscheduled_loader === Ukladá sa vaša naplánovaná správa
+widget_editscheduled_title === Upraviť plán
+widget_editscheduled_loader === Ukladá sa vaša naplánovaná správa
+widget_addussd_title === Požiadavka USSD
+widget_addussd_loader === Pridáva sa požiadavka ussd do frontu
+widget_editdevice_title === Upraviť zariadenie
+widget_editdevice_loader === Ukladajú sa zmeny zariadenia
+widget_waquick_title === Rýchly rozhovor
+widget_waquick_loader === Pridanie chatu Whatsapp do frontu
+widget_waquick_requireaccount === Vyžaduje sa účet WhatsApp!
+widget_wabulk_title === Hromadný chat
+widget_wabulk_loader === Pridanie chatov Whatsapp do frontu
+widget_waexcel_title === Hromadný chat pomocou Excelu
+widget_waexcel_loader === Pridanie chatov Whatsapp do frontu
+widget_wascheduled_title === Naplánovať rozhovor
+widget_wascheduled_loader === Pridanie chatov Whatsapp do frontu
+widget_wascheduled_requireaccount === Vyžaduje sa účet WhatsApp!
+widget_waeditscheduled_title === Upraviť plán
+widget_waeditscheduled_loader === Pridanie chatov Whatsapp do frontu
+widget_waeditscheduled_requireaccount === Vyžaduje sa účet WhatsApp!
+widget_waaddaccount_title === Pridať účet
+widget_importcontacts_loaded === Import kontaktov zo súboru programu Excel
+widget_addcontact_loader === Vytvára sa nový záznam kontaktu
+default_pricecolumns_monthlabel === mesiac
+default_pricecolumns_dailylabel === denne
+default_pricecolumns_monthlylabel === mesačne
+default_pricecolumns_unlimitedlabel === Neobmedzene
+form_literal_spintaxdesc2 === Hodnoty _8880_ a _8881_ budú použité náhodne.
+dashboard_packagesmodal_smssend === Odoslať SMS
+default_footerquote_obama === Stať sa neznamená niekam prísť alebo dosiahnuť určitý cieľ. Namiesto toho to vnímam ako pohyb vpred, prostriedok vývoja, spôsob, ako neustále dosahovať k lepšiemu ja. Cesta nekončí.
+widgets_editcontact_loader === Ukladajú sa zmeny kontaktov
+widgets_addgroup_loader === Vytvára sa nový záznam skupiny
+widgets_editgroup_loader === Ukladajú sa zmeny skupiny
+widgets_addapikey_loader === Vytvára sa nový kľúč API
+widgets_editapikey_loader === Ukladajú sa zmeny kľúča API
+widgets_addwebhook_title === Pridať webhook
+widgets_addwebhook_loader === Vytvára sa nový webhook
+widgets_addwebhook_requireevents === Udalosti nemôžu byť prázdne!
+widgets_editwebhook_loader === Ukladajú sa zmeny webhooku
+widgets_addhook_loader === Vytvára sa nová akcia háku
+widgets_edithook_loader === Ukladajú sa zmeny akcie háku
+widgets_addautoreply_loader === Vytvára sa nová akcia automatickej odpovede
+widgets_editautoreply_loader === Ukladajú sa zmeny akcie automatickej odpovede
+widgets_addtemplate_loader === Vytvára sa nová šablóna správy
+widgets_edittemplate_loader === Ukladajú sa zmeny šablóny
+widgets_adminbuilder_loader === Ukladajú sa nastavenia nástroja Builder
+widgets_adminsettings_loader === Ukladanie systémových nastavení
+widgets_admintheme_loader === Ukladajú sa nastavenia motívu
+widgets_adduser_loader === Vytvorenie nového používateľského účtu
+widgets_edituser_loader === Ukladajú sa zmeny používateľského účtu
+widgets_addrole_loader === Vytvára sa nová rola používateľa
+widgets_addrole_title === Pridať rolu
+widgets_editrole_loader === Ukladajú sa zmeny roly používateľa
+widgets_addpackage_loader === Vytvára sa nový systémový balík
+widgets_editpackage_loader === Ukladajú sa zmeny balíka
+widgets_addvoucher_loader === Vytváranie nových poukážok
+widgets_addsubscription_loader === Vytvára sa odber nového používateľa
+widgets_addwidgets_loader === Vytvára sa nový widget
+widgets_editwidget_loader === Ukladanie zmien widgetu
+widgets_addpage_loader === Vytvára sa nová stránka
+widgets_editpage_loader === Ukladajú sa zmeny stránky
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Vysielanie push notifikácie
+widgets_addpush_requiretitle === Názov nemôže byť prázdny!
+widgets_addpush_requiremessage === Správa nemôže byť prázdna!
+widgets_addnotify_title === Upozorniť na vysielanie
+widgets_addnotify_loader === Upozornenie na živé vysielanie
+widgets_addnotify_requiretitle === Názov nemôže byť prázdny!
+widgets_addnotify_requiremessage === Správa nemôže byť prázdna!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Odosielanie e-mailových správ
+widgets_addmailer_requiretitle === Názov nemôže byť prázdny!
+widgets_addlanguage_loader === Pridáva sa nový jazyk
+widgets_editlanguage_loader === Ukladanie jazykových zmien
+widgets_addgateway_title === Pridať bránu
+widgets_addgateway_loader === Pridáva sa nová brána
+widgets_addgateway_requirename === Názov brány nemôže byť prázdny!
+widgets_editgateway_title === Upraviť bránu
+widgets_editgateway_loader === Ukladajú sa zmeny brány
+widgets_editgateway_requirename === Názov brány nemôže byť prázdny!
+widgets_addshortener_title === Pridajte skracovač
+widgets_addshortener_loader === Pridanie nového skracovača
+widgets_addshortener_requirename === Názov skracovača nemôže byť prázdny!
+widgets_editshortener_title === Upraviť skracovač
+widgets_editshortener_loader === Ukladanie zmien skracovača
+widgets_editshortener_requirename === Názov skracovača nemôže byť prázdny!
+widgets_editplugin_loader === Aplikácia zmien doplnku do systému
+widgets_updateplugin_title === Aktualizovať doplnok
+widgets_updateplugin_loader === Aktualizuje sa doplnok
+device_backgroundpage_line1 === Bežať v pozadí
+device_backgroundpage_line2 === Prečo musí aplikácia Gateway bežať na pozadí?
+device_backgroundpage_line3 === Aplikácia vyžaduje spustenie na pozadí, aby mohla počúvať nové správy na odosielanie a prijímanie, čo je tiež potrebné na spracovanie nových upozornení. Ak nepotrebujete upozornenia, môžete to zakázať v nastaveniach aplikácie. Ak to zakážete, systém prestane prijímať údaje upozornení zo zariadenia.
+device_backgroundpage_line4 === Ak máte bezpečnostnú aplikáciu tretej strany, ako je Avast, Eset a ďalšie. Pridajte aplikáciu brány k jej výnimkám.
+device_backgroundpage_line5 === Prečítajte si príslušnú príručku pre značku vášho telefónu v nasledujúcom zozname.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Šetrič batérie
+device_backgroundpage_line8 === 1. Otvorte Nastavenia.
+device_backgroundpage_line9 === 2. Vyberte „Batéria a výkon“.
+device_backgroundpage_line10 === 3. Zvoľte "Vybrať aplikácie".
+device_backgroundpage_line11 === 4. Nájdite _8880_ a v nastaveniach na pozadí vyberte „Bez obmedzení“.
+device_backgroundpage_line12 === Uzamknite aplikáciu
+device_backgroundpage_line13 === 1. Klepnutím na tlačidlo Menu vstúpite na stránku Nedávne.
+device_backgroundpage_line14 === 2. Vyberte kartu _8880_ a uzamknite ju.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Šetrič batérie
+device_backgroundpage_line17 === 1. Otvorte Nastavenia.
+device_backgroundpage_line18 === 2. Vyberte položku Rozšírené nastavenia.
+device_backgroundpage_line19 === 3. Zvoľte Battery manager.
+device_backgroundpage_line20 === 4. Vyberte položku Chránené aplikácie.
+device_backgroundpage_line21 === 5. Nájdite _8880_ a zapnite prepínač.
+device_backgroundpage_line22 === Ak bola verzia EMUI nedávno aktualizovaná, nie je potrebné vykonávať zmeny v nastaveniach.
+device_backgroundpage_line23 === Uzamknite aplikáciu
+device_backgroundpage_line24 === 1. Klepnite na tlačidlo Menu, prejdite na stránku Nedávne.
+device_backgroundpage_line25 === 2. Potiahnite _8880_, kým sa nezobrazí ikona zámku.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Šetrič batérie
+device_backgroundpage_line28 === 1. Klepnite na Smart Manager.
+device_backgroundpage_line29 === 2. Vyberte položku Batéria a klepnutím na vstúpte na stránku nastavení.
+device_backgroundpage_line30 === 3. Klepnite na Nemonitorované aplikácie, nájdite _8880_ a klepnutím vstúpte.
+device_backgroundpage_line31 === 4. Klepnite na Batéria a potom na Optimalizovať využitie batérie.
+device_backgroundpage_line32 === 5. Vyberte Všetky aplikácie, nájdite _8880_ a vypnite prepínač.
+device_backgroundpage_line33 === Uzamknite aplikáciu
+device_backgroundpage_line34 === 1. Klepnite na tlačidlo Menu a vstúpte na nedávno otvorené stránky programu.
+device_backgroundpage_line35 === 2. Klepnutím na ikonu Viac vyberte možnosť Zamknúť aplikácie.
+device_backgroundpage_line36 === 3. Klepnite na ikonu zámku _8880_.
+device_backgroundpage_line37 === 4. Klepnutím na Hotovo dokončite akciu.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Uzamknite aplikáciu
+device_backgroundpage_line40 === 1. Potiahnutím nahor na ľavej strane domovskej obrazovky zadajte „Nedávne“.
+device_backgroundpage_line41 === 2. Stlačte a podržte _8880_, kým sa nezobrazí ikona zámku.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Šetrič batérie
+device_backgroundpage_line44 === 1. Otvorte Nastavenia a klepnite na Batéria.
+device_backgroundpage_line45 === 2. Klepnite na Šetrič energie.
+device_backgroundpage_line46 === 3. Nájdite _8880_ a vypnite zmrazenie pozadia a optimalizáciu abnormálnych aplikácií.
+device_backgroundpage_line47 === Ak nemôžete nastaviť po dokončení vyššie uvedených krokov, skúste nasledovné:
+device_backgroundpage_line48 === 1. Otvorte Správcu telefónu a nájdite Vyčistiť pozadie.
+device_backgroundpage_line49 === 2. Klepnutím pridáte aplikáciu.
+device_backgroundpage_line50 === 3. Označte _8880_ a klepnite na OK.
+device_backgroundpage_line51 === Uzamknite aplikáciu
+device_backgroundpage_line52 === 1. Klepnite na tlačidlo Menu, prejdite na stránku Nedávne.
+device_backgroundpage_line53 === 2. Potiahnite _8880_, kým sa nezobrazí ikona zámku.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Šetrič batérie
+device_backgroundpage_line56 === 1. Otvorte Správcu a klepnite na Správca napájania.
+device_backgroundpage_line57 === 2. Zvoľte Backstage power.
+device_backgroundpage_line58 === 3. Nájdite _8880_ a zapnite prepínač.
+device_backgroundpage_line59 === Uzamknite aplikáciu
+device_backgroundpage_line60 === 1. Klepnite na tlačidlo Menu, prejdite na stránku Nedávne.
+device_backgroundpage_line61 === 2. Potiahnite _8880_, kým sa nezobrazí ikona zámku.
+device_backgroundpage_line62 === OS Smartisan
+device_backgroundpage_line63 === Šetrič batérie
+device_backgroundpage_line64 === 1. Otvorte Správcu telefónu.
+device_backgroundpage_line65 === 2. Klepnite na App Battery Use Optimization.
+device_backgroundpage_line66 === 3. Nájdite _8880_ a vypnite prepínač.
+device_backgroundpage_line67 === Uzamknite aplikáciu
+device_backgroundpage_line68 === 1. Dvakrát klepnite na tlačidlo Menu, prejdite na stránku Nedávne.
+device_backgroundpage_line69 === 2. Stlačte a podržte _8880_, kým sa nezobrazí ikona špendlíka.
+device_backgroundpage_line70 === Ostatné značky
+device_backgroundpage_line71 === 1. Uzamknite aplikáciu _8880_ v časti Nedávne.
+device_backgroundpage_line72 === 2. Pridajte _8880_ k výnimkám.
+device_backgroundpage_line73 === 3. Ak ste nainštalovali iného správcu spustenia, odstráňte _8880_ z jeho zoznamu blokovaných.
+dashboard_adminmarketing_pushbtndesc === Vysielanie push notifikácií do zariadení
+dashboard_adminmarketing_notifybtndesc === Vysielanie upozornenia prehliadača používateľom
+dashboard_adminmarketing_mailerbtndesc === Posielajte používateľom hromadný e-mail
+js_loader_pleasewait === Prosím čakajte
+js_userstatus_online === online
+js_userstatus_offline === Offline
+js_whatsapp_linksuccess === Účet WhatsApp bol úspešne prepojený!
+js_whatsapp_linkfailed === Prepojenie účtu WhatsApp zlyhalo!
+js_whatsapp_linkexist === WhatsApp už bol prepojený s vaším účtom!
+js_whatsapp_loaderprocessing === Spracúva sa žiadosť
+js_clearpending_title === Vymazať nespracované?
+js_clearpending_desc === Všetky položky čakajúce na odoslanie budú vymazané a vymazané!
+js_clearpending_processing === Spracúva sa žiadosť
+js_authenticate_processing === Spracúva sa žiadosť
+js_actiontrigger_title === Simulovať webhook
+js_actiontrigger_typetitle === Dátový typ
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Oznámenie
+js_actiontrigger_loader === Simulácia webhooku
+js_actiontranslator_title === Prekladateľ
+js_actiontranslator_from === Preložiť z
+js_actiontranslator_to === Preložiť do
+js_actiontranslator_loader === Preklad správy
+js_actionregen_title === Obnoviť systémový token?
+js_actionregen_desc === Vytvorenie nového systémového tokenu je nevratné!
+js_actionregen_loader === Generuje sa token
+js_actionclear_title === Vymazať vyrovnávaciu pamäť?
+js_actionclear_desc === Všetky údaje vyrovnávacej pamäte systému budú vymazané!
+js_processing_dataloader === Spracúva sa žiadosť
+js_build_title === Vytvoriť nový súbor APK?
+js_build_desc === Prosím, uistite sa, že ste správne nakonfigurovali nastavenia vášho buildera!
+js_build_btnbuild === Stavať
+js_reorder_title === Zmeniť poradie jazykov?
+js_reorder_desc === Poradie jazykov sa zmení, túto akciu nie je možné vrátiť späť!
+js_deletetrash_title === Odstrániť položky?
+js_deletetrash_desc === Chcete odstrániť vybraté položky?
+js_tablesexport_copy === Schránka
+js_tablesexport_excel === Exportovať Excel
+js_tablesexport_pdf === Exportovať PDF
+mail_expiredtpl_line1 === Ahoj,
+mail_expiredtpl_line2 === Túto správu ste dostali, pretože platnosť vášho aktívneho odberu prémiového balíka už vypršala!
+mail_expiredtpl_line3 === Váš odber bol odstránený. Ak sa chcete znova prihlásiť na odber akéhokoľvek prémiového balíka, stačí navštíviť našu stránku.
+mail_expiredtpl_line4 === V prípade otázok a problémov nás neváhajte kontaktovať!
+mail_expiredtpl_line5 === Ďakujem!
+mail_expiringtpl_line1 === Ahoj,
+mail_expiringtpl_line2 === Toto je priateľská pripomienka, že platnosť vášho aktívneho predplatného prémiového balíka vyprší o 5 dní!
+mail_expiringtpl_line3 === Aby ste predišli prerušeniam služby, nezabudnite si znova predplatiť akýkoľvek prémiový balík. Ak chcete znova objednať, navštívte našu stránku.
+mail_expiringtpl_line4 === V prípade otázok a problémov nás neváhajte kontaktovať!
+mail_expiringtpl_line5 === Ďakujem!
+mail_failedtpl_line1 === Ahoj,
+mail_failedtpl_line2 === Nemôžeme spracovať vašu platobnú transakciu, skúste to znova pomocou iného poskytovateľa alebo spôsobu platby.
+mail_failedtpl_line3 === ID platby:
+mail_failedtpl_line4 === Ospravedlňujem sa za nepríjemnosť.
+mail_forgottpl_line1 === Ahoj,
+mail_forgottpl_line2 === Dostali sme žiadosť o načítanie vášho účtu, na prihlásenie použite toto dočasné heslo:
+mail_forgottpl_line3 === Po prihlásení si nezabudnite zmeniť heslo!
+mail_forgottpl_line4 === Platnosť hesla vyprší po 10 minútach, buďte rýchli. Ak ste o to nepožiadali, ignorujte tento e-mail.
+mail_forgottpl_line5 === Ďakujem! Dúfam, že to bude fungovať.
+mail_payoutpaidtpl_line1 === Ahoj,
+mail_payoutpaidtpl_line2 === Vaša žiadosť o platbu bola odoslaná našim tímom na vašu adresu a vybraného poskytovateľa platieb.
+mail_payoutpaidtpl_line3 === Suma:
+mail_payoutpaidtpl_line4 === Šťastné míňanie!
+mail_payoutrejecttpl_line1 === Ahoj,
+mail_payoutrejecttpl_line2 === Nemôžeme spracovať vašu žiadosť o platbu, možno sa vyskytol problém s vašou platobnou adresou. Ak chcete vedieť viac, kontaktujte náš tím.
+mail_payoutrejecttpl_line3 === Suma:
+mail_payoutrejecttpl_line4 === Ospravedlňujem sa za nepríjemnosť.
+mail_subscribetpl_line1 === Ahoj,
+mail_subscribetpl_line2 === Ďakujeme, že ste sa prihlásili na odber jedného z našich prémiových balíčkov, tu je krátky prehľad vášho nákupu:
+mail_subscribetpl_line3 === _8880_ Balík
+mail_subscribetpl_line4 === Toto predplatné vyprší po _8880_
+mail_subscribetpl_line5 === Toto sa prejaví okamžite. V prípade otázok a problémov nás neváhajte kontaktovať!
+mail_subscribetpl_line6 === Ďakujem!
+requests_build_submitrequest === Spracúva sa žiadosť
+requests_reorder_loader === Spracúva sa žiadosť
+requests_deleteitem_loader === Spracúva sa žiadosť
+requests_packageform_invalidint === Niektoré polia obsahujú neplatné celé čísla!
+widgets_viewbank_title === Bankový prevod
+modal_paymentbtn_banktransfer === Bankový prevod
+modal_adminsettings_banktransfer1 === Šablóna bankového prevodu
+modal_adminsettings_banktransfer2 === Ak ste v možnostiach platby povolili bankový prevod, mali by ste preň vytvoriť šablónu, ktorá sa používateľom zobrazí po kliknutí na tlačidlo. Tu môžete pridať pokyny a adresu banky. HTML akceptované.
+modal_adminsettings_banktransfer3 === Sada premenných, ktoré môžete použiť v šablóne bankového prevodu.
+requests_delete_pluginssuccess === Plugin bol úspešne odstránený!
+table_whatsappreceived_chattitle === Chat
+table_whatsappreceived_accounttitle === účtu
+tabs_whatsappaccounts_titleheader === Účty WhatsApp
+form_editwhatsapp_randominterval === Interval náhodného odoslania
+form_editwhatsapp_randomintervalhelp === Ak je povolené, chaty sa budú odosielať v náhodných intervaloch medzi 2 hodnotami. Môžete ich nakonfigurovať nižšie.
+form_editwhatsapp_randommin === Interval odoslania min
+form_editwhatsapp_randomminhelp === Minimálny interval odosielania v sekundách.
+form_editwhatsapp_randommax === Interval odosielania Max
+form_editwhatsapp_randommaxhelp === Maximálny interval odosielania v sekundách.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Upravte WhatsApp
+widgets_editwhatsapp_loader === Ukladanie zmien účtu Whatsapp
+mail_waunlink_title === Váš účet WhatsApp bol odpojený!
+mail_waunlink_contentline1 === Ahoj!
+mail_waunlink_contentline2 === Jeden z vašich prepojených účtov WhatsApp bol odstránený s nasledujúcim jedinečným ID:
+mail_waunlink_contentline3 === Tento účet už nie je pripojený k nášmu systému z dôvodu udalosti súvisiacej s WhatsApp, prepojte ho znova.
+mail_waunlink_contentline4 === Ďakujem!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Telefón
+form_btnall_visitlink === Navštívte
+unsubscribe_header_title === Zrušte odber
+unsubscribe_content_title === Zrušený odber
+unsubscribe_content_desc === Odhlásili ste sa z nášho zoznamu odosielateľov.
+requests_editwhatsapp_success === WhatsApp účet bol aktualizovaný!
+form_addusertpl_credits === Kredity
+form_addusertpl_creditsdesc === Počiatočné kredity pre tento používateľský účet.
+form_addusertpl_creditsdesc2 === Upravte kredity tohto používateľského účtu.
+form_registerconfirm_desc === Vaša e-mailová adresa bola úspešne overená. Do svojho účtu sa môžete prihlásiť pomocou tlačidla nižšie.
+requests_loginnotverified_response === E-mailová adresa vášho účtu ešte nie je overená. Na túto adresu sme odoslali potvrdzovací odkaz: _8880_
+requests_loginnotverified_response2 === Váš účet bol úspešne zaregistrovaný. Skôr ako ho budete môcť použiť, budete musieť overiť svoju e-mailovú adresu. Na túto adresu sme odoslali potvrdzovací odkaz: _8880_
+requests_loginnotverified_responseunable === Nemôžeme odoslať potvrdenie e-mailom!
+requests_loginnotverified_emailtitle === Vitajte v _8880_! Potvrďte e-mailovú adresu svojho účtu tu.
+requests_loginnotverified_emaildesc1 === Ahoj!
+requests_loginnotverified_emaildesc2 === Ďakujeme, že ste si u nás vytvorili účet. Overte svoju e-mailovú adresu kliknutím na tento odkaz:
+requests_loginnotverified_emaildesc3 === Ďakujem!
+form_adminsettings_authredi === Presmerovanie overenia
+form_adminsettings_authredidesc === Po úspešnom overení vyberte umiestnenie presmerovania.
+form_adminsettings_authredihomepage === Domovská stránka
+form_adminsettings_authredidashboard === Dashboard
+form_adminsettings_defaultcoun === Predvolená krajina
+form_adminsettings_defaultcoundesc === Predvolená krajina vybratá v registračnom formulári používateľa.
+form_adminsettings_defaulttimezo === Predvolené časové pásmo
+form_adminsettings_defaulttimezodesc === Predvolené časové pásmo v registračnom formulári používateľa.
+form_adminsettings_mailingtrig === Spúšťače pošty
+form_adminsettings_mailingtrigdesc === Vyberte spúšťače pošty, ktoré chcete povoliť.
+form_adminsettings_adminemail === E-mail správcu
+form_adminsettings_adminemaildesc === Správy spustené e-mailom pre správcu budú odoslané na túto e-mailovú adresu. Tieto správy sú dostupné iba v angličtine a nie je možné ich preložiť.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Keď je povolená, recaptcha sa zobrazí na overovacích formulároch, ako je registrácia, prihlásenie a zabudnuté heslo.
+form_editdevice_receiveoptiontitle === Prijímať SMS
+form_editdevice_receiveoptiondesc === Ak je zakázaná, prijaté správy z doručenej pošty systému Android systém neuloží. Webhooky a ďalšie súvisiace nástroje nebudú na zariadení fungovať, keď je táto možnosť vypnutá.
+form_editwhatsapp_receiveoptiontitle === Prijímať rozhovory
+form_editwhatsapp_receiveoptiondesc === Ak je zakázaná, prijaté rozhovory z účtu Whatsapp systém neuloží. Webhooky a ďalšie súvisiace nástroje nebudú fungovať pre účet WhatsApp, keď je táto možnosť vypnutá.
+js_calendarall_option === Všetky
+js_calendarall_apply === Použiť
+js_calendarall_cancel === Zrušiť
+js_calendarall_from === Od
+js_calendarall_to === Komu
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Ut
+js_calendarall_daywe === my
+js_calendarall_dayth === Th
+js_calendarall_dayfr === O
+js_calendarall_daysa === So
+js_calendarall_monjan === januára
+js_calendarall_monfeb === februára
+js_calendarall_monmar === marca
+js_calendarall_monapr === apríla
+js_calendarall_monmay === Smieť
+js_calendarall_monjun === júna
+js_calendarall_monjul === júla
+js_calendarall_monaug === augusta
+js_calendarall_monsep === septembra
+js_calendarall_monoct === októbra
+js_calendarall_monnov === novembra
+js_calendarall_mondec === December
+response_ussddelete_success === Požiadavka USSD bola vymazaná!
+response_titanecho_invaltoken === Chyba konfigurácie systému!
+widgets_addplugin_loader === Inštalácia nového pluginu do systému
+widgets_addwhatsapp_newmodal === Pripojte svoj WhatsApp kliknutím na tlačidlo a zobrazte QRCode a potom ho naskenujte pomocou tlačidla _8880_ v aplikácii. Na naskenovanie QRCode máte len 15 sekúnd.
+widgets_addwhatsapp_newmodal2 === Platnosť _8880_ vypršala. Ak bol váš účet prepojený alebo nie, kliknite na tlačidlo nižšie.
+widgets_addwhatsapp_newmodal3 === ďalej
+widgets_addwhatsapp_newmodal4 === Zrušiť
+datatable_addedtoclipboard === Pridané do schránky
+datatable_addedtoclipboardkeys === Kliknutím na tlačidlo kopírovať pridáte zobrazené riadky do schránky.
+datatable_addedtoclipboardmulti === Skopírované riadky:
+datatable_addedtoclipboardsingle === 1 riadok skopírovaný
+table_details_schedulednewrepeat === Opakujte:
+and_edit_dev_line70_1_new === Ako základ meny sa použije suma, ktorú chcete účtovať za správu, krajinu zariadenia. Podporované sú aj pohyblivé hodnoty, napríklad centy.
+widget_waquick_requireaccountnew1 === WhatsApp účet
+requests_whatsapp_notavail === Server WhatsApp je nedostupný!
+requests_whatsapp_unablegenqr === Nedá sa vygenerovať WhatsApp QRCode!
+requests_charts_commisionstitle === provízie
+requests_token_refreshecho === Token pre _8880_ bol obnovený!
+requests_remote_smscampaignresumed === SMS kampaň bola obnovená!
+requests_remote_smscampaignpaused === SMS kampaň bola pozastavená!
+requests_remote_wacampaignresumed === WhatsApp kampaň bola obnovená!
+requests_remote_wacampaignpaused === Kampaň WhatsApp bola pozastavená!
+requests_create_payoutwithdrawalamountatleast === Čiastka výberu by mala byť aspoň _8880_ _8881_!
+requests_sms_intervaltypereachedmax === _8880_ povolených správ pre toto zariadenie bolo dosiahnuté, skúste to znova neskôr!
+requests_sms_encounteredgatewayerror === Vyskytla sa chyba brány!
+requests_sms_gatewaycannotsendowndevices === Nemôžete posielať správy s kreditmi pomocou vlastných zariadení!
+requests_create_encounteredshortenererror === Vyskytla sa chyba skracovača!
+requests_create_campaignnametooshort === Názov kampane je príliš krátky!
+requests_sms_intervaltypedaily === denne
+requests_sms_intervaltypemonthly === mesačne
+requests_sms_reachedmaximumsentpackage === Dosiahli ste maximálny počet odoslaných správ pre váš aktuálny balík!
+response_message_bulkqueuednew === _8880_ správ bolo zaradených do frontu na odoslanie!
+response_whatsapp_invalidmediafile === Neplatný mediálny súbor!
+response_whatsapp_atleastonebutt === Pridajte aspoň jedno tlačidlo!
+response_whatsapp_invalidimagefile === Neplatný súbor obrázka!
+response_whatsapp_listtitlereq === Názov zoznamu je povinný údaj!
+response_whatsapp_listmenureq === Vyžaduje sa názov ponuky zoznamu!
+response_whatsapp_listformatreq === Vyžaduje sa formát zoznamu!
+response_whatsapp_listformatinval === Formát zoznamu je neplatný!
+response_whatsapp_tempformatreq === Vyžaduje sa formát šablóny!
+response_whatsapp_tempformatinval === Formát šablóny je neplatný!
+response_whatsapp_failedchatsqueue === Pridanie chatu do frontu WhatsApp zlyhalo!
+response_whatsapp_bulkchatssentcount === _8880_ rozhovorov bolo zaradených do poradia na odoslanie!
+response_whatsapp_failedchatsqueuemany === Pridanie rozhovorov do frontu WhatsApp zlyhalo!
+response_whatsapp_nochatsqueuedpacklimit === Ľutujeme, žiadne rozhovory neboli zaradené do poradia. Skontrolujte si prosím limit odosielania vášho balíka!
+response_whatsapp_successfetchgroups === Úspešne načítaných _8880_ skupín!
+response_whatsapp_nogroupsfoundfetch === Nenašli sa žiadne skupiny!
+response_partners_commisionerror === Percento provízie partnera nemôže byť menšie ako 1 a väčšie ako 80!
+response_delete_smsdeletecampaign === SMS kampaň bola odstránená!
+response_delete_wacampaigndeleted === WhatsApp kampaň bola odstránená!
+response_delete_wagroupdeleted === Skupina WhatsApp bola odstránená!
+table_smscampaign_createdtitle === Vytvorené
+table_smscampaign_nametitle === názov
+table_smscampaign_gatewaytitle === Brána
+table_smscampaign_contactstitle === Kontakty
+table_smscampaign_statustitle === Postavenie
+table_smscampaign_optionstitle === možnosti
+table_campaign_completedstatus === Dokončené
+table_smscagmpaign_processingstatus === _8880_ z _8881_ spracovaných
+table_campaign_pausecampaign === Pozastaviť túto kampaň
+table_campaign_resumecampaign === Obnovte túto kampaň
+table_smsscheduled_lastsendinfo === Posledné odoslanie
+table_smstransac_createdtitle === Vytvorené
+table_smstransac_sendertitle === odosielateľ
+table_smstransac_devicetitle === Zariadenie
+table_smstransac_messagetitle === Správa
+table_smstransac_earningstitle === Zárobok
+table_smstransac_messageremoved === Správa bola odstránená!
+table_wacampaign_createdtitle === Vytvorené
+table_wacampaign_nametitle === názov
+table_wacampaign_accounttitle === účtu
+table_wacampaign_typetitle === Typ
+table_wacampaign_contactstitle === Kontakty
+table_wacampaign_statustitle === Postavenie
+table_wacampaign_optionstitle === možnosti
+table_wacampaign_processingstatus === _8880_ z _8881_ spracovaných
+table_wascheduled_lastsendinfo === Posledné odoslanie
+table_campaign_pendingstatus === Čaká na spracovanie
+table_wagroups_nametitle === názov
+table_wagroups_accounttitle === účtu
+table_wagroups_addresstitle === Adresa skupiny
+table_wagroups_optionstitle === možnosti
+table_waaccounts_statustitle === Postavenie
+table_waaccounts_statusconnected === Pripojené
+table_waaccounts_statusconnecting === Pripája sa
+table_waaccounts_statusdisconnecting === Odpája sa
+table_waaccounts_statusdisconnected === Odpojené
+table_waaccounts_statuserror === Chyba
+table_waaccounts_copyaccountid === Skopírovať ID účtu
+table_android_brandtitle === Značka
+table_android_partnertitle === Partner
+table_android_statustitle === Postavenie
+table_android_statusonline === Online
+table_android_statusoffline === Offline
+table_android_copydeviceid === Kopírovať jedinečné ID zariadenia
+table_partnerrates_devicename === Názov zariadenia
+widget_fetchgroups_titlefetch === Načítať skupiny
+widget_fetchgroups_loaderfetch === Načítavajú sa skupiny z účtu
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Obnovte komunikačný token soketu. Ak systém nezobrazuje žiadne upozornenia na živé toasty alebo sa neaktualizuje v reálnom čase, kliknite na toto tlačidlo.
+pages_admin_cachehelp === Vymažte celú vyrovnávaciu pamäť systému. POZOR! Vymaže sa tým aj vyrovnávacia pamäť súvisiaca s API, autentifikáciou a platbou. Odporúča sa to urobiť iba pri aktualizácii systému.
+pages_admin_themehelp === Upravte šablónu a dizajn lokality.
+pages_admin_systemsettingshelp === Upravte dôležité systémové nastavenia.
+pages_sms_campaignstab === Kampane
+pages_sms_partnertransactions === Transakcie
+pages_whatsapp_campaignstab === Kampane
+pages_whatsapp_groupstab === skupiny
+forms_repeatdays_title === Dni opakovania
+forms_repeatdays_tagline === Zadajte, koľko dní sa má čakať do opakovaného odoslania správy. Zadajte 365 na opakovanie každý rok v rovnaký mesiac, deň a čas, ak nie, bude nasledovať len čas. Ak chcete opakovanie vypnúť, zadajte 0.
+forms_whatsapp_messagetype === Typ správy
+forms_whatsapp_messagetypehelp === Vyberte typ správy WhatsApp.
+forms_whatsapp_typetext === Text
+forms_whatsapp_typemedia === Médiá
+forms_whatsapp_typebutton === Tlačidlo
+forms_whatsapp_typelist === Zoznam
+forms_whatsapp_typetemplate === Šablóna
+forms_whatsapp_mediafile === Mediálny súbor
+forms_whatsapp_mediafilehelp === Mediálny súbor, mediálny súbor, ktorý sa má nahrať. Podporuje súbory .jpg, .png, .gif a .mp4.
+forms_whatsapp_imagefile === Súbor s obrázkom
+forms_whatsapp_imagefilehelp === Vlastný obrazový súbor, toto je voliteľné.
+forms_whatsapp_buttons === Tlačidlá
+forms_whatsapp_buttonshelp === Vlastné tlačidlá, vyžaduje sa prvé tlačidlo.
+forms_whatsapp_buttonsplace1 === Tlačidlo 1
+forms_whatsapp_buttonsplace2 === Tlačidlo 2 (voliteľné)
+forms_whatsapp_buttonsplace3 === Tlačidlo 3 (voliteľné)
+forms_whatsapp_listtitle === Názov zoznamu
+forms_whatsapp_listtitlehelp === Toto je názov zoznamu.
+forms_whatsapp_listplacetitle === Môj zoznam
+forms_whatsapp_listmenutitle === Názov menu
+forms_whatsapp_listmenutitlehelp === Toto je názov ponuky.
+forms_whatsapp_listmenutitleplace === Názov menu
+forms_whatsapp_footermessage === Správa v päte
+forms_whatsapp_footermessagehelp === Vlastná správa päty, toto je voliteľné.
+forms_whatsapp_footermessageplace === Toto je správa v päte...
+forms_whatsapp_listformat === Formát zoznamu
+forms_whatsapp_listformathelp === Toto je formát zoznamu, dodaný json musí byť platný.
+forms_whatsapp_templateformat === Formát šablóny
+forms_whatsapp_templateformathelp === Toto je formát šablóny, dodaný json musí byť platný.
+and_settings_line159new === Tento token sa nesmie nikomu zdieľať. Používa sa na zabezpečenie cronjobov, systémového API, WhatsApp požiadaviek a iných externých požiadaviek. Ak si myslíte, že váš systémový token bol kompromitovaný, vygenerujte nový, po vygenerovaní nového tokenu budete musieť prekonfigurovať svoje cronjobs, systémové API a ďalšie súvisiace nastavenia. To ovplyvní aj systém WhatsApp, všetky pripojené účty už nebudú fungovať.
+forms_systemsettings_servicestitle === Služby
+forms_systemsettings_waserver === Adresa URL servera WhatsApp
+forms_systemsettings_waserverhelp === Adresa URL vášho servera WhatsApp, musíte ju hostiť na svojom vlastnom serveri. Pokyny na nastavenie si prečítajte v dokumentácii.
+forms_systemsettings_waport === Port servera WhatsApp
+forms_systemsettings_waporthelp === Port vášho servera WhatsApp, predvolený port je 7001. Pokyny na nastavenie nájdete v dokumentácii.
+forms_systemsettings_messagestitle === Správy
+forms_systemsettings_partnercommission === Partnerská komisia
+forms_systemsettings_partnercommissionhelp === Percento provízie, ktorú chcete odpočítať zo zárobkov partnerov za každú odoslanú správu. Budú to vaše peniaze a zobrazia sa v štatistikách v administračnom paneli. Percento nesmie byť menšie ako 1 a väčšie ako 80!
+forms_systemsettings_partnerminimum === Minimálna výplata partnera
+forms_systemsettings_partnerminimumhelp === Minimálna výška zárobku, aby ste mohli požiadať o výber. Táto suma bude tiež používať predvolenú systémovú menu, ktorá je rovnaká ako pri zárobkoch.
+forms_editdevice_sendinglimittitle === Limit odosielania
+forms_editdevice_limitstatus === Stav limitu
+forms_editdevice_limitstatushelp === Ak je povolená, povolený počet správ, ktoré je možné odoslať pomocou tohto zariadenia, bude obmedzený za deň alebo mesiac.
+forms_editdevice_limitinterv === Limitný interval
+forms_editdevice_limitintervhelp === Vyberte typ oneskorenia pred obnovením počítadla limitov.
+forms_editdevice_messagecount === Počet správ
+forms_editdevice_messagecounthelp === Počet správ, ktoré je možné odoslať počas limitného intervalu.
+forms_editdevice_limitintervselect1 === Denne
+forms_editdevice_limitintervselect2 === Mesačne
+forms_editdevice_partnerstatus === Status partnera
+forms_edituser_clockformat === Formát hodín
+forms_edituser_clockformathelp === Vyberte formát hodín, ktorý sa má použiť pri zobrazovaní času kdekoľvek v systéme.
+forms_edituser_clockformatselect1 === 12 hodín
+forms_edituser_clockformatselect2 === 24 hodín
+forms_edituser_dateformat === Formát dátumu
+forms_edituser_dateformathelp === Vyberte formát dátumu, ktorý sa má použiť pri zobrazovaní dátumu kdekoľvek v systéme.
+forms_edituser_dateseparator === Oddeľovač dátumu
+forms_edituser_dateseparatorhelp === Vyberte oddeľovač dátumu, ktorý sa má použiť pri zobrazovaní dátumu kdekoľvek v systéme.
+forms_campagin_formname === Názov kampane
+forms_campagin_formhelp === Názov kampane, pre tieto hromadné správy sa vytvorí denník aktivít, odosielanie budete môcť jednoducho zastaviť cez správcu kampane.
+forms_campaign_formplaceholder === napr. Vzorová kampaň
+forms_whatsapp_numbersgroupsname === čísla alebo adresa skupiny
+forms_whatsapp_numbersgroupshelp === Viaceré čísla E.164 a skupinové adresy WhatsApp oddelené zlomom riadku.
+forms_whatsapp_groupsimportname === Účet WhatsApp
+forms_whatsapp_groupsimportnamehelp === Vyberte účet Whatsapp, z ktorého sa budú načítavať skupiny.
+forms_whatsapp_groupsimportbutton === Načítať
+forms_whatsapp_phonegroupsname === Telefón alebo skupinová adresa
+forms_whatsapp_phonegroupshelp === E.164 telefónne číslo príjemcu alebo skupinová adresa WhatsApp.
+pages_administration_commissionstitle === provízie
+pages_smscampaigns_header === Kampane
+pages_smstransactions_header === Transakcie
+pages_smstransactions_comtagline === Všetky SMS odoslané pomocou partnerských zariadení majú transakčný poplatok _8880_%. Toto je už odpočítané v nasledujúcej tabuľke.
+pages_wacampaigns_header === Kampane
+pages_wagroups_header === skupiny
+pages_wagroups_fetchbtn === Načítať skupiny
+tables_plugins_noactionsline === Žiadne akcie
+plugin_header_selectmethod === Vyberte spôsob platby
+title_plugin_paymentpage === Platobná stránka
+payment_title_pending === Objednávka čaká na spracovanie
+btn_plugin_cancelorderpayment === Zrušiť platbu
+payment_title_orderfailed === Objednávka zlyhala
+payment_page_orderfailed === Pri spracovávaní vašej objednávky sa vyskytla chyba.
+and_rate_gate_3new === _8880_ sadzby
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === možnosti

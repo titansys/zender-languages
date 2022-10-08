@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === 기계적 인조 인간
+and_dashboard_modules_header_line25 === 왓츠앱
+and_dashboard_modules_header_line45 === 관리자 패널
+and_dashboard_pages_android_line10 === 기계적 인조 인간
+and_dashboard_pages_android_line40 === 예정
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === 알림
+and_dashboard_pages_android_line58 === 장치
+and_dashboard_pages_contacts_line40 === 구독 취소
+and_dashboard_pages_defailt_line37 === 게이트웨이 요금
+and_dashboard_pages_default_line42 === 문서
+and_dashboard_pages_default_line58 === 메시지
+and_dashboard_pages_default_line60 === 지난 7일
+and_dashboard_pages_default_line74 === 이벤트
+and_dashboard_pages_default_line76 === 지난 7일
+and_dashboard_pages_default_line90 === 유용
+and_dashboard_pages_default_line92 === 지난 7일
+and_dashboard_pages_default_line109 === 파트너
+and_dashboard_pages_default_line117 === 수입
+and_dashboard_pages_default_line131 === 지불금
+and_dashboard_pages_default_line140 === 균형
+and_dashboard_pages_default_line148 === 크레딧
+and_dashboard_pages_default_line162 === 충전
+and_dashboard_pages_default_line170 === 배달 비율
+and_dash_pg_def_line178 === 성공
+and_dash_pg_def_line190 === 실패한
+and_dash_pg_def_line204 === 발신자
+and_dash_pg_def_line209 === 프리미엄 패키지에 가입하지 않았습니다!
+and_dash_pg_def_line217 === 장치
+and_dash_pg_def_line224 === 연결됨
+and_dash_pg_def_line232 === 계정
+and_dash_pg_def_line239 === 연결됨
+and_dash_pg_def_line250 === 최고의 사용자 경험을 얻으려면 공식 앱을 다운로드하고 설치하십시오.
+and_dash_pg_doc_line10 === 서류
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === 웹훅
+and_dash_pg_doc_line40 === 행위
+and_dash_pg_doc_line46 === 장치
+and_dash_pg_doc_line52 === 협력 관계
+and_dash_pg_for_line29 === 취소
+and_dash_pg_log_line14 === 페이스북으로 로그인
+and_dash_pg_log_line17 === 구글로 로그인
+and_dash_pg_log_line20 === VKontakte로 로그인
+and_dash_pg_log_line54 === 계정 만들기
+and_dash_pg_pay_line45 === 주문 요청이 접수되었으며 결제 거래가 확인되면 시스템에서 자동으로 이메일을 보내고 변경 사항을 계정에 적용합니다.
+and_dash_pg_rates_line10 === 게이트웨이 요금
+and_dash_pg_rates_line39 === 파트너
+and_dash_pg_reg_line15 === 페이스북에 등록
+and_dash_pg_reg_line20 === Google에 등록
+and_dash_pg_reg_line25 === VKontakte에 등록
+and_dash_pg_whats_line10 === 왓츠앱
+and_dash_pg_whats_line10_1 === 베타
+and_dash_pg_whats_line28 === 전송된
+and_dash_pg_whats_line34 === 받았다
+and_dash_pg_whats_line40 === 예정
+and_dash_pg_whats_line46 === 계정
+and_dash_api_line17 === 키 이름.
+and_dash_api_line19 === 예를 들어 내 서버의 경우
+and_dash_api_line24 === 키 권한.
+and_dash_auto_line17 === 작업 이름입니다.
+and_dash_auto_line19 === 예를 들어 남자 이름
+and_dash_auto_line24 === 원천
+and_dash_auto_line24_1 === 수신 이벤트의 소스입니다.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === 왓츠앱
+and_dash_auto_line34 === 키워드를 쉼표로 구분하여 응답하십시오. 이 키워드는 메시지 내용에서 감지되면 자동 응답을 트리거합니다.
+and_dash_auto_line36 === 예를 들어 고마워, 알았어, 구독, 네
+and_dash_auto_line41 === 보낸 사람에게 보낼 메시지입니다.
+and_dash_auto_line43 === 예를 들어 여기에 답장 메시지, 단축 코드 허용됨
+and_dash_auto_line48 === 메시지에서 사용할 수 있는 변수 집합입니다.
+and_dash_con_line24 === 연락처.
+and_dash_con_line31 === 연락처 그룹.
+and_dash_con_line17 === 담당자 이름.
+and_dash_cre_line28 === 구입
+and_dash_gate_line17 === 이름
+and_dash_gate_line17_1 === 이것은 사용자에게 표시될 게이트웨이 이름입니다.
+and_dash_gate_line19 === 예를 들어 트윌리오
+and_dash_gate_line24 === 제어 장치
+and_dash_gate_line24_1 === 게이트웨이 컨트롤러 파일을 선택합니다. 여기에는 게이트웨이 논리와 코드가 포함됩니다. 문서를 확인하는 것이 좋습니다.
+and_dash_gate_line27 === 컨트롤러 상용구:
+and_dash_gate_line34 === 콜백
+and_dash_gate_line34_1 === 활성화된 경우 메시지는 전송 상태에 대해 타사 게이트웨이의 콜백 기능을 사용하여 확인해야 합니다. 그렇지 않으면 메시지는 전송 시 즉시 전송된 것으로 표시됩니다.
+and_dash_gate_line37 === 할 수 있게 하다
+and_dash_gate_line38 === 장애를 입히다
+and_dash_gate_line44 === 콜백 ID
+and_dash_gate_line44_1 === 콜백이 활성화된 경우 시스템에서 콜백을 식별할 수 있도록 이 ID를 복사하여 컨트롤러에 붙여넣어야 합니다.
+and_dash_gate_line47 === 콜백 ID 복사 및 붙여넣기
+and_dash_gate_line54 === 가격
+and_dash_gate_line54_1 === 이 게이트웨이에 대한 사용자 지정 가격표입니다. 이렇게 하면 타사 가격에 추가로 청구할 수 있습니다. 예를 들어 twilio가 지정된 국가에 대해 0.01을 청구하는 경우 대신 0.02를 청구할 수 있습니다. 통화는 시스템 통화를 기반으로 합니다. 가격 형식을 올바르게 따르십시오.
+and_dash_gate_line57 === 샘플 JSON 가격:
+and_dash_gate_line57_1 === 다운로드
+and_dash_grp_line17 === 그룹 이름.
+and_dash_grp_line19 === 예를 들어 친구들
+and_dash_hook_line17 === 작업 이름입니다.
+and_dash_hook_line19 === 예를 들어 테스트 작업
+and_dash_hook_line24 === 원천
+and_dash_hook_line24_1 === 이벤트 소스입니다.
+and_dash_hook_line34 === 이 후크가 호출될 이벤트를 선택하십시오.
+and_dash_hook_line44 === 후크 링크 구조, 이것은 시스템에 의해 호출될 url입니다. GET 방식만 지원됩니다.
+and_dash_hook_line51 === 후크 URL에서 사용할 수 있는 변수 집합입니다.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === 왓츠앱
+and_dash_hook_line37 === 보낼 때
+and_dash_hook_line38 === 수신 시
+and_dash_lang_line17 === 언어 이름.
+and_dash_lang_line19 === 예를 들어 한국인
+and_dash_lang_line24 === 국가 코드.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === 활성화하면 언어가 오른쪽에서 왼쪽 방향으로 식별됩니다.
+and_dash_lang_line38 === 예
+and_dash_lang_line39 === 아니
+and_dash_lang_line45 === 번역 문자열.
+and_dash_mail_line17 === 제목
+and_dash_mail_line17_1 === 메일 제목.
+and_dash_mail_line19 === 예를 들어 발표
+and_dash_mail_line24 === 사용자
+and_dash_mail_line24_1 === 사용자가 보냅니다.
+and_dash_mail_line36 === 역할
+and_dash_mail_line36_1 === 역할별로 보냅니다.
+and_dash_mail_line48 === 콘텐츠
+and_dash_mail_line48_1 === 메일 콘텐츠, html 허용.
+and_dash_mail_line50 === 안녕하세요 세계입니다!
+and_dash_not_line17 === 제목
+and_dash_not_line17_1 === 제목을 알립니다.
+and_dash_not_line19 === 예를 들어 발표
+and_dash_not_line24 === 메시지
+and_dash_not_line24_1 === 알림 메시지.
+and_dash_not_line31 === 색깔
+and_dash_not_line31_1 === 색상을 알립니다.
+and_dash_not_line35 === 성공
+and_dash_not_line36 === 경고
+and_dash_not_line37 === 위험
+and_dash_not_line43 === 영상
+and_dash_not_line43_1 === 이미지에 알림, 이것은 선택 사항입니다.
+and_dash_not_line46 === 선택 과목
+and_dash_not_line53 === 사용자
+and_dash_not_line53_1 === 사용자가 방송합니다.
+and_dash_not_line65 === 역할
+and_dash_not_line65_1 === 역할별 방송.
+and_pack_line17 === 패키지 이름.
+and_pack_line19 === 예를 들어 VIP 패키지
+and_pack_line24 === 패키지 가격은 시스템 통화를 따라야 합니다. 부동 소수점 값은 허용되지 않습니다.
+and_pack_line29 === 예를 들어 25
+and_pack_line34 === 활성화된 경우 메시지 및 Whatsapp 채팅에는 수신자가 수신할 때 바닥글 표시가 포함됩니다.
+and_pack_line44 === 활성화하면 패키지가 패키지 모달 및 홈페이지에서 숨겨집니다.
+and_pack_line58 === SMS 전송 제한
+and_pack_line58_1 === 재설정 전에 사용자가 보낼 수 있는 최대 메시지 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line60 === 예를 들어 300
+and_pack_line65 === SMS 수신 제한
+and_pack_line65_1 === 재설정 전에 사용자가 수신할 수 있는 최대 메시지 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line67 === 예를 들어 150
+and_pack_line72 === USSD 한도
+and_pack_line72_1 === 재설정 전에 사용자가 요청할 수 있는 최대 ussd 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line74 === 예를 들어 25
+and_pack_line79 === 알림 제한
+and_pack_line79_1 === 재설정 전에 사용자가 수신할 수 있는 최대 알림 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line81 === 예를 들어 1300
+and_pack_line86 === 사용자 계정에 연결할 수 있는 최대 Android 기기 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line88 === 예를 들어 25
+and_pack_line92 === WhatsApp 설정
+and_pack_line97 === 재설정 전에 사용자가 보낼 수 있는 최대 채팅 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line99 === 예를 들어 300
+and_pack_line104 === 재설정 전에 사용자가 받을 수 있는 최대 채팅 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line106 === 예를 들어 150
+and_pack_line111 === 계정 한도
+and_pack_line111_1 === 사용자 계정에 연결할 수 있는 최대 WhatsApp 계정 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line113 === 예를 들어 10
+and_pack_line117 === 유틸리티 설정
+and_pack_line122 === 사용자가 저장할 수 있는 최대 연락처 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line124 === 예를 들어 25
+and_pack_line129 === 예정된 한도
+and_pack_line129_1 === 사용자가 저장할 수 있는 예약된 메시지/채팅의 최대 수입니다. 무제한의 경우 0을 입력합니다. 이것은 SMS와 Whatsapp 모두에 대해 결합됩니다.
+and_pack_line131 === 예를 들어 25
+and_pack_line136 === 생성할 수 있는 최대 API 키 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line138 === 예를 들어 10
+and_pack_line143 === 생성할 수 있는 최대 Webhook 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line145 === 예를 들어 5
+and_pack_line150 === 작업 제한
+and_pack_line150_1 === 생성할 수 있는 최대 작업 수입니다. 무제한의 경우 0을 입력합니다.
+and_pack_line152 === 예를 들어 5
+and_page_line17 === 페이지 이름.
+and_page_line24 === 선택한 역할만 이 페이지에 액세스할 수 있습니다.
+and_page_line35 === 활성화된 경우 로그인하지 않으면 페이지에 액세스할 수 없습니다.
+and_page_line45 === 페이지 콘텐츠. 모든 html 태그가 허용됩니다. 출처를 알 수 없는 스크립트를 추가할 때는 주의하세요!
+and_payout_line17 === 양
+and_payout_line17_1 === 출금 금액, 정수만.
+and_payout_line19 === 예를 들어 50
+and_payout_line24 === 공급자
+and_payout_line24_1 === 돈을 받는 데 사용할 결제 제공업체를 선택합니다.
+and_payout_line27 === 페이팔
+and_payout_line28 === 페이오니어
+and_payout_line34 === 지불 주소
+and_payout_line34_1 === 결제 주소 또는 이메일, 결제 문제가 발생하지 않도록 주의 깊게 확인하십시오.
+and_payout_line36 === 예를 들어 귀하의 페이팔 이메일
+and_payout_line43 === 요구
+and_plug_line17 === 플러그인 파일
+and_plug_line17_1 === 플러그인 zip 파일, 올바른 파일을 선택했는지 확인하십시오.
+and_push_line17 === 제목
+and_push_line17_1 === 푸시 제목입니다.
+and_push_line19 === 예를 들어 발표
+and_push_line24 === 영상
+and_push_line24_1 === 푸시 이미지 썸네일, 이것은 선택 사항입니다.
+and_push_line27 === 선택 과목
+and_push_line34 === 메시지
+and_push_line34_1 === 푸시 메시지.
+and_push_line41 === 사용자
+and_push_line41_1 === 사용자가 방송합니다.
+and_push_line53 === 역할
+and_push_line53_1 === 역할별 방송.
+and_role_line17 === 역할 이름.
+and_role_line19 === 예를 들어 개발자
+and_role_line24 === 이 역할에 대해 비활성화/활성화할 권한 및 기능을 선택합니다. 변경 사항은 실시간으로 적용되며 역할을 가진 연결된 사용자의 브라우저 탭이 자동으로 다시 로드됩니다.
+and_short_line17 === 이름
+and_short_line17_1 === 단축기 이름.
+and_short_line19 === 예를 들어 비트리
+and_short_line24 === 제어 장치
+and_short_line24_1 === 단축기 컨트롤러 파일을 선택하면 단축기 논리와 코드가 포함됩니다. 문서를 확인하는 것이 좋습니다.
+and_short_line27 === 컨트롤러 상용구:
+and_sms_line17 === 예약된 메시지의 이름입니다.
+and_sms_line19 === 예를 들어 내 메시지
+and_sms_line24 === 일정 날짜를 선택하세요.
+and_sms_line26 === 예를 들어 2020년 6월 22일 오전 12시
+and_sms_line31 === 활성화하면 예약된 날짜가 일치할 때마다 메시지가 예약됩니다.
+and_sms_line42 === 줄 바꿈으로 구분된 여러 E.164 번호.
+and_sms_line55 === 여러 연락처 그룹 선택
+and_sms_line67 === 쇼트너
+and_sms_line67_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_sms_line70 === 링크를 줄이지 마십시오
+and_sms_line79 === 게이트웨이 모드
+and_sms_line79_1 === 사용하려는 게이트웨이 모드입니다. 장치를 선택하면 연결된 장치가 전송용으로 표시되고, 그렇지 않으면 타사 및 파트너 게이트웨이가 표시됩니다.
+and_sms_line82 === 장치
+and_sms_line83 === 크레딧
+and_sms_line88 === 사용할 SIM 카드 슬롯.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === 미리 만들어진 메시지 템플릿.
+and_sms_line110 === 연결된 장치에서 전송에 사용할 항목을 선택합니다.
+and_sms_line121 === SMS 게이트웨이
+and_sms_line121_1 === 타사 및 파트너 게이트웨이의 경우 이러한 게이트웨이를 사용하여 메시지를 보낼 때 크레딧이 사용됩니다. 게이트웨이 가격을 확인하신 후 사용하실 것을 권장합니다.
+and_sms_line141 === 스핀탁스
+and_sms_line144 === 예시:
+and_sms_line144_1 === 톰은
+and_sms_line144_2 === 고양이
+and_sms_line147 === 가치
+and_sms_line147_1 === 좋은
+and_sms_line147_2 === 그리고
+and_sms_line147_3 === 나쁜
+and_sms_line147_4 === 무작위로 사용됩니다.
+and_subs_line17 === 사용자 계정.
+and_subs_line28 === 구독 패키지.
+and_subs_line41 === 구독 기간.
+and_subs_line43 === 예를 들어 12
+and_temp_line17 === 템플릿 이름.
+and_temp_line24 === 템플릿 형식.
+and_temp_line31 === 스핀탁스
+and_temp_line31_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_temp_line35 === 예시:
+and_temp_line35_1 === 톰은
+and_temp_line35_2 === 고양이
+and_temp_line38 === 가치
+and_temp_line38_1 === 좋은
+and_temp_line38_2 === 나쁜
+and_temp_line38_3 === 무작위로 사용됩니다.
+and_temp_line43 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_user_line17 === 실명.
+and_user_line19 === 예를 들어 마이클 코어스
+and_user_line24 === 유효한 이메일 주소입니다.
+and_user_line26 === 예를 들어 user@mail.com
+and_user_line31 === 사용자 비밀번호를 입력하세요.
+and_user_line38 === 사용자 위치 시간대, 다른 국가에 있는 경우 이를 변경합니다. 시간대는 보낸 메시지 및 기타 데이터의 날짜 및 시간 정확도에 사용됩니다.
+and_user_line49 === 국가
+and_user_line49_1 === 사용자 국가, 판매 대금 및 전화번호 형식 지정에 사용됩니다.
+and_user_line60 === 알림음
+and_user_line60_1 === 비활성화하면 알림이 무음으로 설정됩니다.
+and_user_line70 === 사용자 역할을 선택합니다.
+and_user_line81 === 사용자 언어를 선택합니다.
+and_user_line92 === 파트너 프로그램
+and_user_line92_1 === 활성화하면 사용자는 다른 사용자가 자신의 장치를 사용하여 메시지를 보낼 때 수익을 올릴 수 있는 글로벌 장치로 자신의 장치를 사용할 수 있습니다.
+and_ussd_line17 === USSD 코드
+and_ussd_line17_1 === USSD 요청 코드.
+and_ussd_line19 === 예를 들어 *121#
+and_ussd_line24 === 사용할 SIM 카드 슬롯.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === 연결된 장치에서 ussd 요청에 사용할 항목을 선택합니다.
+and_ussd_line47 === 요구
+and_vouch_line17 === 상품권 이름.
+and_vouch_line19 === 예를 들어 특별한
+and_vouch_line24 === 생성하려는 상품권의 양입니다. 최대값은 1000입니다!
+and_vouch_line26 === 예를 들어 100
+and_vouch_line31 === 구독 기간.
+and_vouch_line33 === 예를 들어 12
+and_vouch_line38 === 구독 패키지.
+and_web_line17 === 웹훅 이름.
+and_web_line24 === 이벤트 수신
+and_web_line24_1 === 필요한 수신 이벤트를 선택하면 POST 메서드를 통해 웹 후크 URL로 전송됩니다.
+and_web_line27 === SMS
+and_web_line28 === 왓츠앱
+and_web_line29 === USSD
+and_web_line30 === 알림
+and_web_line36 === 웹훅 URL, 모든 페이로드 데이터는 POST 메서드를 통해 여기로 전송됩니다.
+and_web_line38 === 예를 들어 http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === 예약된 채팅의 이름입니다.
+and_whatssched_line19 === 예를 들어 내 메시지
+and_whatssched_line24 === 일정 날짜를 선택하세요.
+and_whatssched_line26 === 예를 들어 2020년 6월 22일 오전 12시
+and_whatssched_line31 === 활성화하면 예약된 날짜가 일치할 때마다 채팅이 예약됩니다.
+and_whatssched_line42 === 줄 바꿈으로 구분된 여러 E.164 번호.
+and_whatssched_line55 === 여러 연락처 그룹 선택
+and_whatssched_line67 === 쇼트너
+and_whatssched_line67_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_whatssched_line70 === 링크를 줄이지 마십시오
+and_whatssched_line79 === 계정
+and_whatssched_line79_1 === 사용하려는 WhatsApp 계정을 선택하십시오.
+and_whatsached_line88 === 미리 만들어진 메시지 템플릿.
+and_whatssched_line103 === 스핀탁스
+and_whatssched_line103_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_whatssched_line107 === 예시:
+and_whatssched_line101_1 === 톰은
+and_whatssched_line107_2 === 고양이
+and_whatssched_line110 === 가치
+and_whatssched_line110_1 === 좋은
+and_whatssched_line110_2 === 그리고
+and_whatssched_line110_3 === 나쁜
+and_whatssched_line110_4 === 무작위로 사용됩니다.
+and_whatssched_line115 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_whatssched_line128 === 제출하다
+and_whatsapp_line15 === 버튼을 클릭하여 WhatsApp에 연결하여 QRCode를 표시한 다음 다음을 통해 스캔하세요.
+and_whatsapp_line15_1 === 장치 연결
+and_whatsapp_line15_2 === 버튼을 누릅니다. QRCode를 스캔할 수 있는 시간은 단 60초입니다.
+and_whatsapp_line16 === 계정 연결
+and_add_widget_line17 === 위젯 이름.
+and_add_widget_line24 === 모달 전용 위젯 아이콘. 아이콘 참조를 위해 멋진 라인을 방문하십시오.
+and_add_widget_line26 === 예를 들어 la la-info-서클
+and_add_widget_line31 === 위젯 유형. 블록은 템플릿의 다른 부분에 배치하기 위한 것이고 모달은 동적 콘텐츠를 위한 것입니다. v3부터 모달은 대시보드에서만 작동합니다.
+and_add_widget_line34 === 차단하다
+and_add_widget_line35 === 모달
+and_add_widget_line41 === 위젯 크기, 모달 전용.
+and_add_widget_line53 === 위젯 위치, 모달 전용.
+and_add_widget_line64 === 위젯 콘텐츠. 모든 html 태그가 허용됩니다. 출처를 알 수 없는 스크립트를 추가할 때는 주의하세요!
+and_add_widget_line66 === 안녕하세요 세계입니다!
+and_admin_build_line16 === 신청
+and_admin_build_line21 === 앱 패키지 이름은 고유해야 하며 com.yourdomain.yourapp과 같은 형식과 같은 도메인을 따라야 합니다. 도메인 이름을 따라 고유하게 만드는 것이 좋습니다.
+and_admin_build_line23 === 예를 들어 com.gateway.sample
+and_admin_build_line28 === 앱 이름, 앱 서랍 및 앱의 다른 부분에 표시됩니다.
+and_admin_build_line30 === 예를 들어 젠더 게이트웨이
+and_admin_build_line35 === 앱 설명, 앱에 대한 간단한 설명입니다.
+and_admin_build_line42 === 앱 색상 테마
+and_admin_build_line42_1 === 앱 색상 테마, 앱 로고 및 스플래시 이미지 색상과 일치시키는 것이 좋습니다.
+and_admin_build_line44 === 예를 들어 #000000
+and_admin_build_line49 === APK 버전
+and_admin_build_line_49_1 === APK 버전, 앱을 다시 빌드하는 경우 값을 늘려 이 필드도 업데이트하세요. 현재 값이 1이면 앱을 빌드하기 전에 2로 늘려야 합니다. 이는 앱에서 업데이트 기능을 트리거하는 데 필요하며 사용자가 업데이트하도록 합니다.
+and_admin_build_line51 === 예를 들어 1.0
+and_admin_build_line56 === 이메일 작성
+and_admin_build_line_56_1 === 귀하의 유효한 이메일 주소를 변경하시기 바랍니다. 빌드 결과는 이 이메일로 전송됩니다!
+and_admin_build_line58 === 예를 들어 myvalidemail@mail.com
+and_admin_build_line62 === 신임장
+and_admin_build_line67 === 구글 서비스
+and_admin_build_line67_1 === Google 서비스 json 파일은 게이트웨이 앱의 FCM 트랜잭션에 필요합니다.
+and_admin_build_line75 === Firebase 자격 증명
+and_admin_build_line75_1 === Firebase 관리자 자격 증명 json 파일은 시스템이 앱과 통신할 수 있도록 하는 데 필요합니다.
+and_admin_build_line82 === 자산
+and_admin_build_line87 === 앱 이미지 로고, 앱 헤더에 표시되는 이미지입니다. 권장 크기는 251x53픽셀입니다. 투명한 배경이 더 좋습니다.
+and_admin_build_line95 === 앱 로그인 로고
+and_admin_build_line95_1 === 앱 로그인 이미지 로고, 로그인 모달에 표시되는 이미지입니다. 권장 크기는 250x100픽셀 및 어두운 글꼴입니다. 투명한 배경이 더 좋습니다.
+and_admin_build_line103 === 앱 이미지 아이콘은 앱 서랍과 안드로이드 시스템에 표시됩니다. 권장 크기는 1024x1024 픽셀 및 png 형식입니다.
+and_admin_build_line111 === 앱 시작 화면 이미지, 사용자가 앱을 열 때 표시됩니다. 권장 크기는 2732x2732(px 및 png 형식)입니다.
+and_admin_build_line118 === 구조
+and_admin_build_line123 === 맞춤 자바스크립트
+and_admin_build_line123_1 === 사용자 정의 자바 스크립트 코드를 사용하려면 여기에 추가하십시오. 이것은 앱에서 동적으로 로드됩니다.
+and_admin_build_line125 === 예: alert('Hello World!');
+and_admin_build_line130 === 맞춤 CSS
+and_admin_build_line130_1 === 사용자 정의 CSS 코드를 사용하려면 여기에 추가하십시오. 이것은 앱에서 동적으로 로드됩니다.
+and_admin_build_line137 === 사용자 정의 레이아웃
+and_admin_build_line137_1 === 사용자 정의 앱 구조를 사용하려면 html 콘텐츠를 수정하고, 무엇을 하는지 모르겠다면 기본값을 그대로 두십시오.
+and_admin_build_line139 === 안녕하세요 월드입니다!
+and_settings_line21 === 사이트 이름, 브랜딩이 필요한 모든 곳에 표시됩니다.
+and_settings_line23 === 예를 들어 젠더
+and_settings_line28 === 사이트 설명, 이것은 검색 엔진 최적화를 위한 것이므로 창의력을 발휘하십시오.
+and_settings_line30 === 예를 들어 이것은 멋진 SMS 게이트웨이 서비스입니다
+and_settings_line35 === envato 구매 코드는 스크립트의 일부 독점 기능을 잠금 해제하는 데 필요합니다.
+and_settings_line37 === 예를 들어 e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === 귀하의 Google 분석 키는 시스템에 이미 방문자 통계가 내장되어 있기 때문에 선택 사항입니다.
+and_settings_line44 === 예를 들어 UA-179148389-1
+and_settings_line49 === 사이트 프로토콜을 올바르게 선택했는지 확인하십시오. 사이트에서 https를 사용하는 경우 선택하고, 그렇지 않으면 http를 선택하십시오.
+and_settings_line59 === 기본 시스템 언어로, 새 사용자가 사이트를 방문할 때 사용됩니다.
+and_settings_line70 === 비활성화하면 등록 페이지를 통한 등록이 허용되지 않습니다.
+and_settings_line80 === 패키지 재설정 모드
+and_settings_line80_1 === 보내기, 받기, ussd 및 알림과 같은 제한의 재설정 간격입니다. 이는 Android 및 WhatsApp 기능 모두에 적용됩니다. 여기에서 선택한 항목은 cron 설정에도 적용되어야 합니다.
+and_settings_line83 === 일일
+and_settings_line84 === 월간 간행물
+and_settings_line90 === 무료 모델
+and_settings_line90_1 === 활성화하면 등록 후 기본 무료 패키지가 자동으로 사용자에게 할당됩니다.
+and_settings_line100 === 비활성화하면 홈페이지가 사용되지 않습니다. 루트 디렉토리의 모든 방문은 대시보드로 리디렉션됩니다.
+and_settings_line110 === TAWK 채팅 위젯
+and_settings_line110_1 === 활성화하면 tawk 채팅 위젯이 사용자에게 나타납니다.
+and_settings_line120 === tawk 채팅 위젯 링크는 tawk 채팅 지원을 사용하려는 경우 필요합니다.
+and_settings_line127 === 관리 API
+and_settings_line127_1 === 활성화하려는 admin API 엔드포인트를 선택합니다. 필요한 끝점만 활성화하는 것이 좋습니다.
+and_settings_line159 === 이 토큰은 누구와도 공유할 수 없습니다. cronjob, 시스템 API 및 기타 외부 요청의 보안을 위해 사용됩니다. 시스템 토큰이 손상되었다고 생각되면 새 토큰을 재생성하십시오. 새 토큰을 재생성한 후 cronjob, 시스템 API 및 기타 관련 설정을 다시 구성해야 합니다.
+and_settings_line160 === 재생성
+and_settings_line173 === 내장 메일 서버를 사용하려면 기본을 선택하고, 그렇지 않으면 smtp를 선택한 다음 메일 자격 증명을 구성하십시오.
+and_settings_line183 === 사용할 smtp 프로토콜은 원격 메일 서버에서 지원하는 프로토콜을 선택하십시오.
+and_settings_line193 === 사이트 이메일, 수신자에게 표시되는 이메일 이름입니다. 브랜딩 목적으로 noreply@yoursite.com을 사용하는 것이 좋습니다.
+and_settings_line195 === 예를 들어 noreply@domain.com
+and_settings_line200 === 원격 smtp 서버 호스트 주소입니다.
+and_settings_line205 === 예를 들어 smtp.gmail.com
+and_settings_line210 === 원격 smtp 서버 포트입니다.
+and_settings_line215 === 예를 들어 587
+and_settings_line220 === 원격 smtp 서버 사용자 이름입니다.
+and_settings_line225 === 예를 들어 사용자 이름@gmail.com
+and_settings_line230 === 원격 smtp 서버 비밀번호입니다.
+and_settings_line235 === Gmail 계정 비밀번호
+and_settings_line244 === 귀하의 페이팔 비즈니스 이메일.
+and_settings_line246 === 예를 들어 메일@도메인.com
+and_settings_line251 === 활성화하면 모든 페이팔 거래가 샌드박스 모드로 리디렉션됩니다.
+and_settings_line261 === 귀하의 mollie API 키.
+and_settings_line263 === 예를 들어 test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === 사용할 시스템 통화로 거래를 USD로 변환할 때 기준으로 사용됩니다.
+and_settings_line279 === 사용하려는 결제 제공업체를 선택합니다.
+and_settings_line293 === 메시지의 최소 문자입니다. 이것은 SMS와 WhatsApp에 모두 적용됩니다.
+and_settings_line295 === 예를 들어 5
+and_settings_line300 === 메시지의 최대 문자 수. 이것은 SMS와 WhatsApp에 모두 적용됩니다. 무한 문자의 경우 0을 입력합니다.
+and_settings_line302 === 예를 들어 300
+and_settings_line307 === 메시지 바닥글 표시, 패키지에 바닥글 표시가 활성화된 경우 메시지에 추가됩니다.
+and_settings_line309 === 예를 들어 젠더 시스템에서 보낸
+and_settings_line318 === 보낸 메시지 테이블에 표시할 기본 행 수입니다. 이것은 SMS와 WhatsApp에 모두 적용됩니다.
+and_settings_line320 === 예를 들어 10
+and_settings_line325 === 수신된 메시지 테이블에 표시할 기본 행 수입니다. 이것은 SMS와 WhatsApp에 모두 적용됩니다.
+and_settings_line327 === 예를 들어 10
+and_settings_line336 === 활성화하면 방문자는 소셜 미디어 계정을 사용하여 로그인할 수 있습니다.
+and_settings_line346 === 사용하려는 소셜 미디어 제공업체를 선택합니다.
+and_settings_line349 === 페이스북
+and_settings_line350 === Google
+and_settings_line351 === V콘탁테
+and_settings_line357 === 페이스 북 아이디
+and_settings_line357_1 === facebook 앱 ID, 자세한 내용은 설명서를 참조하세요.
+and_settings_line359 === 예를 들어 738812983731558
+and_settings_line364 === 페이스북 비밀
+and_settings_line364_1 === facebook 앱 비밀, 자세한 내용은 설명서를 참조하세요.
+and_settings_line366 === 예를 들어 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === 구글 아이디
+and_settings_line371_1 === Google 앱 ID, 자세한 내용은 설명서를 참조하세요.
+and_settings_line373 === 예를 들어 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === 구글 시크릿
+and_settings_line378_1 === Google 앱 비밀, 자세한 내용은 설명서를 참조하세요.
+and_settings_line380 === 예를 들어 O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK 아이디
+and_settings_line385_1 === vkontakte 앱 ID, 자세한 내용은 설명서를 참조하세요.
+and_settings_line387 === 예를 들어 7768236
+and_settings_line392 === VK 비밀
+and_settings_line392_1 === vkontakte 앱 비밀, 자세한 내용은 설명서를 참조하세요.
+and_settings_line394 === 예를 들어 pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === 활성화하면 recapcha도 로그인 페이지에 표시됩니다. 이 기능을 활성화하기 전에 보안 문자 키와 보안 문자 암호를 구성했는지 확인하십시오. 그렇지 않으면 로그인할 수 없습니다!
+and_settings_line413 === recaptcha 키에 대한 자세한 내용은 설명서를 참조하십시오.
+and_settings_line415 === 예를 들어 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === recaptcha 비밀, 자세한 내용은 설명서를 참조하십시오.
+and_settings_line422 === 예를 들어 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === 로고 라이트
+and_theme_line17_1 === 밝은 로고 이미지, 배경 요소가 어두울 때 홈페이지 및 인증 페이지에 표시됩니다. 권장 크기는 250x50픽셀입니다.
+and_theme_line23 === 로고 다크
+and_theme_line223_1 === 어두운 로고 이미지, 배경 요소가 밝을 때 홈페이지 및 인증 페이지에 표시됩니다. 권장 크기는 250x50픽셀입니다.
+and_theme_line29 === 사이트 파비콘 이미지, 브라우저 탭에 표시됩니다. 권장 크기는 50x50픽셀입니다.
+and_theme_line35 === 배경 이미지
+and_theme_line35_1 === 사이트 배경 이미지, 이것은 어디에나 표시됩니다. 고해상도 이미지를 사용하는 것이 좋습니다.
+and_theme_line41 === 사이트에 사용할 색상 테마를 선택합니다.
+and_theme_line46 === 텍스트의 하이라이트 색상을 선택합니다.
+and_theme_line51 === 스피너 색상
+and_theme_line51_1 === 상단 ajax 스피너에 사용할 색상을 선택합니다.
+and_theme_line58 === 맞춤 자바스크립트
+and_theme_line58_1 === 사용자 정의 자바 스크립트 코드를 사용하려면 여기에 추가하십시오. 이것은 모든 페이지에서 동적으로 로드됩니다.
+and_theme_line60 === 안녕하세요 월드입니다!
+and_theme_line63 === 맞춤 CSS
+and_theme_line63_1 === 일부 CSS 스타일을 변경하려면 여기에서 변경할 수 있습니다.
+and_apikey_line17 === 키 이름.
+and_apikey_line19 === 예를 들어 내 서버의 경우
+and_apikey_line24 === 키 권한.
+and_edit_auto_line17 === 작업 이름입니다.
+and_edit_auto_line19 === 예를 들어 자동 응답
+and_edit_auto_line24 === 원천
+and_edit_auto_line24_1 === 수신 이벤트의 소스입니다.
+and_edit_auto_line34 === 키워드를 쉼표로 구분하여 응답하십시오. 이 키워드는 메시지 내용에서 감지되면 자동 응답을 트리거합니다.
+and_edit_auto_line36 === 예를 들어 고마워, 알았어, 구독, 네
+and_edit_auto_line41 === 보낸 사람에게 보낼 메시지입니다.
+and_edit_auto_line43 === 예를 들어 여기에 답장 메시지, 단축 코드 허용됨
+and_edit_auto_line48 === 메시지에서 사용할 수 있는 변수 집합입니다.
+and_edit_con_line17 === 담당자 이름.
+and_edit_con_line19 === 예를 들어 남자 이름
+and_edit_con_line24 === 연락처.
+and_edit_con_line31 === 연락처 그룹.
+and_edit_dev_line16 === 장치 세부 정보
+and_edit_dev_line21 === 장치 이름.
+and_edit_dev_line23 === 예를 들어 내 장치
+and_edit_dev_line28 === 활성화하면 2개의 값 사이에서 임의의 간격으로 메시지가 전송됩니다. 아래에서 구성할 수 있습니다.
+and_edit_dev_line38 === 최소 간격(초)입니다.
+and_edit_dev_line41 === 예를 들어 5
+and_edit_dev_line46 === 최대 간격(초)입니다.
+and_edit_dev_line49 === 예를 들어 20
+and_edit_dev_line53 === 알림 설정
+and_edit_dev_line58 === 애플리케이션
+and_edit_dev_line58_1 === 알림을 받을 앱의 패키지 이름을 입력합니다. 줄바꿈으로 구분합니다.
+and_edit_dev_line65 === 파트너 설정
+and_edit_dev_line70 === 비율
+and_edit_dev_line70_1 === 메시지당 청구하려는 금액, 장치 국가가 통화 기준으로 사용됩니다. 센트와 같은 부동 소수점 값이 지원됩니다.
+and_edit_dev_line73 === 예를 들어 0.50
+and_edit_dev_line78 === 글로벌 현황
+and_edit_dev_line78_1 === 비활성화하면 장치를 글로벌 SMS 게이트웨이로 사용할 수 없으며 돈을 벌 수 없습니다. 보안상의 이유로 글로벌 장치는 메시지를 수신할 수 없습니다.
+and_edit_dev_line89 === 국가
+and_edit_dev_line89_1 === 장치의 국가, 전화 번호를 결정하는 데 사용되며 rate 필드의 기본 통화로 사용됩니다.
+and_edit_dev_line101 === 우선 사항
+and_edit_dev_line101_1 === 글로벌 메시지가 자신의 메시지보다 먼저 전송됩니다.
+and_edit_dev_line112 === SIM 슬롯
+and_edit_dev_line112_1 === 전송에 사용할 SIM 슬롯을 선택하고 둘 다 선택하면 메시지가 임의의 슬롯으로 전송됩니다.
+and_edit_email_line16 === 이메일 템플릿
+and_edit_email_line18 === HTML 허용
+and_edit_gate_line17 === 이름
+and_edit_gate_line17_1 === 이것은 사용자에게 표시될 게이트웨이 이름입니다.
+and_edit_gate_line19 === 예를 들어 트윌리오
+and_edit_gate_line24 === 제어 장치
+and_edit_gate_line24_1 === 게이트웨이 컨트롤러 파일을 선택합니다. 여기에는 게이트웨이 논리와 코드가 포함됩니다. 문서를 확인하는 것이 좋습니다.
+and_edit_gate_line31 === 콜백
+and_edit_gate_line31_1 === 활성화된 경우 메시지는 전송 상태에 대해 타사 게이트웨이의 콜백 기능을 사용하여 확인해야 합니다. 그렇지 않으면 메시지는 전송 시 즉시 전송된 것으로 표시됩니다.
+and_edit_gate_line34 === 할 수 있게 하다
+and_edit_gate_line35 === 장애를 입히다
+and_edit_gate_line41 === 콜백 ID
+and_edit_gate_line41_1 === 콜백이 활성화된 경우 시스템에서 콜백을 식별할 수 있도록 이 ID를 복사하여 컨트롤러에 붙여넣어야 합니다.
+and_edit_gate_line44 === 콜백 ID 복사 및 붙여넣기
+and_edit_gate_line51 === 가격
+and_edit_gate_line51_1 === 이 게이트웨이에 대한 사용자 지정 가격표입니다. 이렇게 하면 타사 가격에 추가로 청구할 수 있습니다. 예를 들어 twilio가 지정된 국가에 대해 0.01을 청구하는 경우 대신 0.02를 청구할 수 있습니다. 통화는 시스템 통화를 기반으로 합니다. 가격 형식을 올바르게 따르십시오.
+and_edit_gate_line54 === 샘플 JSON 가격:
+and_edit_gate_line54_1 === 다운로드
+and_edit_grp_line17 === 그룹 이름.
+and_edit_grp_line19 === 예를 들어 친구들
+and_edit_hook_line17 === 작업 이름입니다.
+and_edit_hook_line19 === 예를 들어 테스트 작업
+and_edit_hook_line24 === 원천
+and_edit_hook_line24_1 === 이벤트 소스입니다.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === 왓츠앱
+and_edit_hook_line34 === 이 후크가 호출될 이벤트를 선택하십시오.
+and_edit_hook_line37 === 보낼 때
+and_edit_hook_line38 === 수신 시
+and_edit_hook_line44 === 후크 링크 구조, 이것은 시스템에 의해 호출될 url입니다. GET 방식만 지원됩니다.
+and_edit_hook_line51 === 후크 URL에서 사용할 수 있는 변수 집합입니다.
+and_edit_lang_line17 === 예를 들어 한국인
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === 예
+and_edit_lang_line33 === 아니
+and_edit_pack_line17 === 패키지 이름.
+and_edit_pack_line19 === 예를 들어 VIP 패키지
+and_edit_pack_line24 === 패키지 가격은 시스템 통화를 따라야 합니다. 부동 소수점 값은 허용되지 않습니다.
+and_edit_pack_line29 === 예를 들어 25
+and_edit_pack_line34 === 활성화된 경우 메시지 및 Whatsapp 채팅에는 수신자가 수신할 때 바닥글 표시가 포함됩니다.
+and_edit_pack_line44 === 활성화하면 패키지가 패키지 모달 및 홈페이지에서 숨겨집니다.
+and_edit_pack_line53 === 안드로이드 설정
+and_edit_pack_line58 === SMS 전송 제한
+and_edit_pack_line58_1 === 재설정 전에 사용자가 보낼 수 있는 최대 메시지 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line60 === 예를 들어 300
+and_edit_pack_line65 === SMS 수신 제한
+and_edit_pack_line65_1 === 재설정 전에 사용자가 수신할 수 있는 최대 메시지 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line67 === 예를 들어 150
+and_edit_pack_line72 === USSD 한도
+and_edit_pack_line72_1 === 재설정 전에 사용자가 요청할 수 있는 최대 ussd 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line74 === 예를 들어 25
+and_edit_pack_line79 === 알림 제한
+and_edit_pack_line79_1 === 재설정 전에 사용자가 수신할 수 있는 최대 알림 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line81 === 예를 들어 1300
+and_edit_pack_line86 === 사용자 계정에 연결할 수 있는 최대 Android 기기 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line88 === 예를 들어 25
+and_edit_pack_line92 === WhatsApp 설정
+and_edit_pack_line97 === 재설정 전에 사용자가 보낼 수 있는 최대 채팅 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line99 === 예를 들어 300
+and_edit_pack_line104 === 재설정 전에 사용자가 받을 수 있는 최대 채팅 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line106 === 예를 들어 150
+and_edit_pack_line111 === 계정 한도
+and_edit_pack_line111_1 === 사용자 계정에 연결할 수 있는 최대 WhatsApp 계정 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line113 === 예를 들어 10
+and_edit_pack_line117 === 유틸리티 설정
+and_edit_pack_line122 === 사용자가 저장할 수 있는 최대 연락처 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line124 === 예를 들어 25
+and_edit_pack_line129 === 예정된 한도
+and_edit_pack_line129_1 === 사용자가 저장할 수 있는 예약된 메시지/채팅의 최대 수입니다. 무제한의 경우 0을 입력합니다. 이것은 SMS와 Whatsapp 모두에 대해 결합됩니다.
+and_edit_pack_line131 === 예를 들어 25
+and_edit_pack_line136 === 생성할 수 있는 최대 API 키 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line138 === 예를 들어 10
+and_edit_pack_line143 === 생성할 수 있는 최대 Webhook 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line145 === 예를 들어 5
+and_edit_pack_line150 === 작업 제한
+and_edit_pack_line150_1 === 생성할 수 있는 최대 작업 수입니다. 무제한의 경우 0을 입력합니다.
+and_edit_pack_line152 === 예를 들어 5
+and_edit_page_line17 === 페이지 이름.
+and_edit_page_line24 === 선택한 역할만 이 페이지에 액세스할 수 있습니다.
+and_edit_page_line35 === 활성화된 경우 로그인하지 않으면 페이지에 액세스할 수 없습니다.
+and_edit_page_line45 === 페이지 콘텐츠. 모든 html 태그가 허용됩니다. 출처를 알 수 없는 스크립트를 추가할 때는 주의하세요!
+and_edit_role_line17 === 역할 이름.
+and_edit_role_line19 === 예를 들어 개발자
+and_edit_role_line24 === 이 역할에 대해 비활성화/활성화할 권한 및 기능을 선택합니다. 변경 사항은 실시간으로 적용되며 역할을 가진 연결된 사용자의 브라우저 탭이 자동으로 다시 로드됩니다.
+and_edit_short_line17 === 이름
+and_edit_short_line17_1 === 단축기 이름.
+and_edit_short_line19 === 예를 들어 비트리
+and_edit_short_line24 === 제어 장치
+and_edit_short_line24_1 === 단축기 컨트롤러 파일을 선택하면 단축기 논리와 코드가 포함됩니다. 문서를 확인하는 것이 좋습니다.
+and_edit_sms_line17 === 예약된 메시지의 이름입니다.
+and_edit_sms_line19 === 예를 들어 내 메시지
+and_edit_sms_line24 === 일정 날짜를 선택하세요.
+and_edit_sms_line26 === 예를 들어 2020년 6월 22일 오전 12시
+and_edit_sms_line31 === 활성화하면 예약된 날짜가 일치할 때마다 메시지가 예약됩니다.
+and_edit_sms_line42 === 줄 바꿈으로 구분된 여러 E.164 번호.
+and_edit_sms_line55 === 여러 연락처 그룹 선택
+and_edit_sms_line67 === 게이트웨이 모드
+and_edit_sms_line67_1 === 사용하려는 게이트웨이 모드입니다. 장치를 선택하면 연결된 장치가 전송용으로 표시되고, 그렇지 않으면 타사 및 파트너 게이트웨이가 표시됩니다.
+and_edit_sms_line70 === 장치
+and_edit_sms_line71 === 크레딧
+and_edit_sms_line76 === 사용할 SIM 카드 슬롯.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === 연결된 장치에서 전송에 사용할 항목을 선택합니다.
+and_edit_sms_line99 === SMS 게이트웨이
+and_edit_sms_line99_1 === 타사 및 파트너 게이트웨이의 경우 이러한 게이트웨이를 사용하여 메시지를 보낼 때 크레딧이 사용됩니다. 게이트웨이 가격을 확인하신 후 사용하실 것을 권장합니다.
+and_edit_sms_line119 === 스핀탁스
+and_edit_sms_line122 === 예시:
+and_edit_sms_line122_1 === 톰은
+and_edit_sms_line122_2 === 고양이
+and_edit_sms_line125 === 가치
+and_edit_sms_line125_1 === 좋은
+and_edit_sms_line125_2 === 그리고
+and_edit_sms_line125_3 === 나쁜
+and_edit_sms_line125_4 === 무작위로 사용됩니다.
+and_edit_temp_line17 === 템플릿 이름.
+and_edit_temp_line24 === 템플릿 형식.
+and_edit_temp_line31 === 스핀탁스
+and_edit_temp_line31_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_edit_temp_line35 === 예시:
+and_edit_temp_line35_1 === 톰은
+and_edit_temp_line35_2 === 고양이
+and_edit_temp_line38 === 가치
+and_edit_temp_line38_1 === 좋은
+and_edit_temp_line38_2 === 그리고
+and_edit_temp_line38_3 === 나쁜
+and_edit_temp_line38_4 === 무작위로 사용됩니다.
+and_edit_temp_line43 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_eduse_line17 === 실명, 가명을 사용하면 계정이 정지될 수 있습니다.
+and_eduse_line19 === 예를 들어 마이클 코어스
+and_eduse_line24 === 유효한 이메일 주소, 현재 이메일 주소를 유지하려면 이 필드를 무시하십시오.
+and_eduse_line26 === 예를 들어 user@mail.com
+and_eduse_line31 === 현재 암호를 유지하려면 이 필드를 무시하고, 그렇지 않으면 새 암호를 입력하십시오.
+and_eduse_line38 === 귀하의 위치 시간대, 다른 국가에 있는 경우 이를 변경하십시오. 시간대는 보낸 메시지 및 기타 데이터의 날짜 및 시간 정확도에 사용됩니다.
+and_eduse_line49 === 국가
+and_eduse_line49_1 === 귀하의 국가, 이것은 판매 대금 및 전화번호 형식화에 사용됩니다.
+and_eduse_line60 === 알림음
+and_eduse_line60_1 === 비활성화하면 알림이 무음으로 설정됩니다.
+and_eduse_line70 === 사용자 역할을 선택합니다.
+and_eduse_line81 === 사용자 언어를 선택합니다.
+and_eduse_line92 === 파트너 프로그램
+and_eduse_line92_1 === 활성화하면 사용자는 다른 사용자가 자신의 장치를 사용하여 메시지를 보낼 때 수익을 올릴 수 있는 글로벌 장치로 자신의 장치를 사용할 수 있습니다.
+and_edweb_line17 === 웹훅 이름.
+and_edweb_line24 === 이벤트 수신
+and_edweb_line24_1 === 필요한 수신 이벤트를 선택하면 POST 메서드를 통해 웹 후크 URL로 전송됩니다.
+and_edweb_line30 === 알림
+and_edweb_line36 === 웹훅 URL, 모든 페이로드 데이터는 POST 메서드를 통해 여기로 전송됩니다.
+and_edweb_line38 === 예를 들어 https://yourdomain.com/reply.php
+and_edwhat_line17 === 예약된 채팅의 이름입니다.
+and_edwhat_line19 === 예를 들어 내 메시지
+and_edwhat_line24 === 일정 날짜를 선택하세요.
+and_edwhat_line26 === 예를 들어 2020년 6월 22일 오전 12시
+and_edwhat_line31 === 활성화하면 예약된 날짜가 일치할 때마다 채팅이 예약됩니다.
+and_edwhat_line42 === 줄 바꿈으로 구분된 여러 E.164 번호.
+and_edwhat_line55 === 여러 연락처 그룹 선택
+and_edwhat_line67 === 계정
+and_edwhat_line67_1 === 사용하려는 WhatsApp 계정을 선택하십시오.
+and_edwhat_line76 === 미리 만들어진 메시지 템플릿.
+and_edwhat_line91 === 스핀탁스
+and_edwhat_line91_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_edwhat_line95 === 예시:
+and_edwhat_line95_1 === 톰은
+and_edwhat_line95_2 === 고양이
+and_edwhat_line98 === 가치
+and_edwhat_line98_1 === 좋은
+and_edwhat_line98_2 === 그리고
+and_edwhat_line98_3 === 나쁜
+and_edwhat_line98_4 === 무작위로 사용됩니다.
+and_edwhat_line103 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_edwhat_line116 === 제출하다
+and_edwid_line17 === 위젯 이름.
+and_edwid_line24 === 모달 전용 위젯 아이콘. 아이콘 참조를 위해 멋진 라인을 방문하십시오.
+and_edwid_line31 === 위젯 유형. 블록은 템플릿의 다른 부분에 배치하기 위한 것이고 모달은 동적 콘텐츠를 위한 것입니다. v3부터 모달은 대시보드에서만 작동합니다.
+and_edwid_line34 === 차단하다
+and_edwid_line35 === 모달
+and_edwid_line41 === 모달 전용 위젯 크기.
+and_edwid_line53 === 위젯 위치, 모달 전용.
+and_edwid_line64 === 위젯 콘텐츠. 모든 html 태그가 허용됩니다. 출처를 알 수 없는 스크립트를 추가할 때는 주의하세요!
+and_import_line17 === 가져오려는 엑셀 파일은 필수 형식을 따라야 합니다.
+and_import_line20 === 샘플 파일:
+and_import_line20_1 === 다운로드
+and_package_line36 === SMS 수신
+and_package_line41 === WhatsApp 보내기
+and_package_line46 === WhatsApp 수신
+and_package_line51 === USSD
+and_package_line56 === 알림
+and_package_line61 === 예약된 SMS/채팅
+and_package_line66 === 콘택트 렌즈
+and_package_line71 === API 키
+and_package_line76 === 웹훅
+and_package_line81 === 행위
+and_package_line86 === 안드로이드 기기
+and_package_line91 === WhatsApp 계정
+and_redeem_line18 === 코드를 사용.
+and_redeem_line20 === 예를 들어 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === 줄 바꿈으로 구분된 여러 E.164 번호. 추가된 그룹을 선택하더라도 해당 번호로 1개의 메시지만 전송됩니다.
+and_sms_bulk_31 === 여러 연락처 그룹을 선택합니다. 메시지가 추가된 여러 그룹을 선택한 경우에도 하나의 메시지만 연락처에 전송됩니다.
+and_sms_bulk_43 === 쇼트너
+and_sms_bulk_43_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_sms_bulk_46 === 링크를 줄이지 마십시오
+and_sms_bulk_55 === 게이트웨이 모드
+and_sms_bulk_55_1 === 사용하려는 게이트웨이 모드입니다. 장치를 선택하면 연결된 장치가 전송용으로 표시되고, 그렇지 않으면 타사 및 파트너 게이트웨이가 표시됩니다.
+and_sms_bulk_58 === 장치
+and_sms_bulk_59 === 크레딧
+and_sms_bulk_64 === 사용할 SIM 카드 슬롯.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === 활성화된 경우 이러한 메시지는 다른 메시지보다 먼저 전송됩니다.
+and_sms_bulk_81 === 미리 만들어진 메시지 템플릿.
+and_sms_bulk_94 === 연결된 장치에서 전송에 사용할 항목을 선택합니다.
+and_sms_bulk_105 === SMS 게이트웨이
+and_sms_bulk_105_1 === 타사 및 파트너 게이트웨이의 경우 이러한 게이트웨이를 사용하여 메시지를 보낼 때 크레딧이 사용됩니다. 게이트웨이 가격을 확인하신 후 사용하실 것을 권장합니다.
+and_sms_bulk_126 === 메시지를 번역합니다.
+and_sms_bulk_131 === 스핀탁스
+and_sms_bulk_131_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_sms_bulk_135 === 예시:
+and_sms_bulk_143 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_sms_exe17 === 가져오려는 엑셀 파일은 필수 형식을 따라야 합니다.
+and_sms_exe20 === 샘플 파일:
+and_sms_exe20_1 === 다운로드
+and_sms_exe27 === 쇼트너
+and_sms_exe27_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_sms_exe30 === 링크를 줄이지 마십시오
+and_sms_exe39 === 게이트웨이 모드
+and_sms_exe39_1 === 사용하려는 게이트웨이 모드입니다. 장치를 선택하면 연결된 장치가 전송용으로 표시되고, 그렇지 않으면 타사 및 파트너 게이트웨이가 표시됩니다.
+and_sms_exe42 === 장치
+and_sms_exe43 === 크레딧
+and_sms_exe47 === 미리 만들어진 메시지 템플릿.
+and_sms_exe60 === 연결된 장치에서 전송에 사용할 항목을 선택합니다.
+and_sms_exe70 === SMS 게이트웨이
+and_sms_exe70_1 === 타사 및 파트너 게이트웨이의 경우 이러한 게이트웨이를 사용하여 메시지를 보낼 때 크레딧이 사용됩니다. 게이트웨이 가격을 확인하신 후 사용하실 것을 권장합니다.
+and_sms_exe92 === 메시지를 번역합니다.
+and_sms_exe97 === 스핀탁스
+and_sms_exe97_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_sms_exe109 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_sms_quick17 === 받는 사람 전화번호.
+and_sms_quick24 === 게이트웨이 모드
+and_sms_quick24_1 === 사용하려는 게이트웨이 모드입니다. 장치를 선택하면 연결된 장치가 전송용으로 표시되고, 그렇지 않으면 타사 및 파트너 게이트웨이가 표시됩니다.
+and_sms_quick27 === 장치
+and_sms_quick28 === 크레딧
+and_sms_quick34 === 쇼트너
+and_sms_quick34_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_sms_quick37 === 링크를 줄이지 마십시오
+and_sms_quick46 === 사용할 SIM 카드 슬롯.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === 활성화된 경우 이러한 메시지는 다른 메시지보다 먼저 전송됩니다.
+and_sms_quick66 === 연결된 장치에서 전송에 사용할 항목을 선택합니다.
+and_sms_quick77 === SMS 게이트웨이
+and_sms_quick77_1 === 타사 및 파트너 게이트웨이의 경우 이러한 게이트웨이를 사용하여 메시지를 보낼 때 크레딧이 사용됩니다. 게이트웨이 가격을 확인하신 후 사용하실 것을 권장합니다.
+and_sms_quick104 === 스핀탁스
+and_sms_quick104_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_sysup17 === 파일 업데이트
+and_sysup17_1 === zip 파일을 업데이트하십시오. 올바른 파일을 선택했는지 확인하십시오.
+and_upplug17 === 파일 업데이트
+and_upplug17_1 === zip 파일을 업데이트하십시오. 올바른 파일을 선택했는지 확인하십시오.
+and_uset17 === 프로필 아바타 이미지입니다.
+and_uset24 === 실명, 가명을 사용하면 계정이 정지될 수 있습니다.
+and_uset26 === 예를 들어 마이클 슈묵
+and_uset31 === 유효한 이메일 주소입니다. 현재 이메일 주소를 유지하려면 이 필드를 무시하십시오.
+and_uset33 === 예를 들어 yourmail@mail.com
+and_uset38 === 귀하의 위치 시간대, 다른 국가에 있는 경우 이를 변경하십시오. 시간대는 보낸 메시지 및 기타 데이터의 날짜 및 시간 정확도에 사용됩니다.
+and_uset49 === 국가
+and_uset49_1 === 귀하의 국가, 이것은 판매 대금 및 전화번호 형식화에 사용됩니다.
+and_uset60 === 알림음
+and_uset60_1 === 비활성화하면 알림이 무음으로 설정됩니다.
+and_uset70 === 현재 암호를 유지하려면 이 필드를 무시하십시오. 그렇지 않으면 새 암호를 입력하십시오.
+and_usub23 === 까지 유효합니다
+and_usub28 === SMS 보내기
+and_usub34 === SMS 수신
+and_usub40 === WhatsApp 보내기
+and_usub46 === WhatsApp 수신
+and_usub57 === USSD
+and_usub63 === 알림
+and_usub69 === 예약된 SMS/채팅
+and_usub98 === 행위
+and_usub104 === 안드로이드 기기
+and_usub110 === WhatsApp 계정
+and_view20 === 전체보기
+and_whatsbulk_18 === 줄 바꿈으로 구분된 여러 E.164 번호.
+and_whatsbulk_31 === 여러 연락처 그룹을 선택합니다. 연락처에 여러 그룹이 있는 경우 연락처가 포함된 그룹을 선택하면 메시지가 여러 번 전송될 수 있습니다.
+and_whatsbulk_43 === 쇼트너
+and_whatsbulk_43_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_whatsbulk_46 === 링크를 줄이지 마십시오
+and_whatsbulk_55 === 계정
+and_whatsbulk_55_1 === 사용하려는 WhatsApp 계정을 선택하십시오.
+and_whatsbulk_64 === 미리 만들어진 메시지 템플릿.
+and_whatsbulk_79 === 메시지를 번역합니다.
+and_whatsbulk_84 === 스핀탁스
+and_whatsbulk_84_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_whatsbulk_96 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_whatex17 === 가져오려는 엑셀 파일은 필수 형식을 따라야 합니다.
+and_whatex20 === 샘플 파일:
+and_whatex20_1 === 다운로드
+and_whatex27 === 쇼트너
+and_whatex27_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_whatex30 === 링크를 줄이지 마십시오
+and_whatex39 === 계정
+and_whatex39_1 === 사용하려는 WhatsApp 계정을 선택하십시오.
+and_whatex48 === 미리 만들어진 메시지 템플릿.
+and_whatex63 === 메시지를 번역합니다.
+and_whatex68 === 스핀탁스
+and_whatex68_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_whatex80 === 메시지에 사용할 수 있는 변수 집합입니다.
+and_whatquick_17 === E.164 수신자 전화번호.
+and_whatquick_24 === 쇼트너
+and_whatquick_24_1 === 활성화하면 선택한 단축기를 사용하여 메시지의 링크가 자동으로 단축됩니다.
+and_whatquick_27 === 링크를 줄이지 마십시오
+and_whatquick_36 === 계정
+and_whatquick_36_1 === 사용하려는 WhatsApp 계정을 선택하십시오.
+and_whatquick_50 === 메시지를 번역합니다.
+and_whatquick_55 === 스핀탁스
+and_whatquick_55_1 === 스팸 탐지를 효과적으로 방지하는 메시지의 단어를 무작위로 지정할 수 있는 기능입니다.
+and_admin_api_3 === 관리 API
+and_admin_fileman_3 === 템플릿 편집기
+and_admin_gate_3 === SMS 게이트웨이
+and_admin_gate_8 === 게이트웨이 추가
+and_admin_lang_6 === 언어 재정렬
+and_admin_mark_3 === 마케팅
+and_admin_mark_6 === 선택한 항목 삭제
+and_admin_mark_12 === 푸시
+and_admin_mark_17 === 알림
+and_admin_mark_22 === 우편 발신인
+and_admin_payout_3 === 지불 요청
+and_admin_short_3 === 쇼트너
+and_admin_short_8 === 쇼트너 추가
+and_admin_subs_8 === 구독 추가
+and_admin_vouch_6 === 선택한 항목 삭제
+and_droid_dev_3 === 안드로이드 기기
+and_droid_dev_6 === 문서 읽기
+and_droid_dev_8 === 문서
+and_droid_dev_11 === 파트너 게이트웨이 제공업체 지원
+and_droid_dev_13 === 협력 관계
+and_droid_dev_16 === 새로운 안드로이드 기기 등록
+and_droid_not_3 === 알림
+and_droid_not_6 === 선택한 항목 삭제
+and_droid_rev_3 === SMS 수신
+and_droid_rev_6 === 선택한 메시지 삭제
+and_droid_sched_6 === 선택한 항목 삭제
+and_droid_sent_3 === SMS를 보냈습니다
+and_droid_sent_6 === 선택한 항목 삭제
+and_droid_sent_10 === 보류 중인 모든 메시지 지우기
+and_droid_sent_14 === 빠른 SMS 보내기
+and_droid_sent_16 === 빠른
+and_droid_sent_19 === 대량 SMS 보내기
+and_droid_sent_21 === 대부분
+and_droid_sent_24 === Excel을 통해 대량 SMS 보내기
+and_droid_ussd_3 === USSD 요청
+and_droid_ussd_6 === 선택한 항목 삭제
+and_droid_ussd_10 === 보류 중인 모든 요청 삭제
+and_droid_ussd_14 === 새로운 USSD 요청
+and_droid_ussd_16 === 요구
+and_con_grp_6 === 선택한 항목 삭제
+and_con_grp_10 === 새 연락처 그룹 추가
+and_con_sav_6 === 선택한 항목 삭제
+and_con_sav_10 === 새 연락처 추가
+and_con_sav_15 === 엑셀 파일에서 연락처 가져오기
+and_con_unsub_3 === 구독 취소
+and_con_unsub_6 === 선택한 항목 삭제
+and_doc_act_3 === 행위
+and_doc_api_3 === API 문서
+and_doc_dev_3 === 장치
+and_doc_partner_3 === 협력 관계
+and_doc_webhook_3 === 웹훅
+and_rate_gate_3 === 요금
+and_rate_gate_10 === 국가
+and_rate_gate_11 === 메시지당 비율
+and_rate_gate_22 === 다른 국가
+and_rate_partner_3 === 파트너 요금
+and_tool_act_3 === 행위
+and_tool_act_6 === 문서 읽기
+and_tool_act_8 === 문서
+and_tool_act_11 === 새 후크 작업 추가
+and_tool_act_13 === 훅
+and_tool_act_16 === 새 자동 회신 작업 추가
+and_tool_act_18 === 자동응답
+and_tool_key_6 === 문서 읽기
+and_tool_key_8 === 문서
+and_tool_key_11 === 새 API 키 생성
+and_tool_webhook_6 === 문서 읽기
+and_tool_webhook_8 === 문서
+and_what_accnt_6 === 새 계정 연결
+and_what_accnt_8 === 계정을 추가
+and_what_attach_8 === 선택한 메시지 삭제
+and_what_rev_3 === 받은 채팅
+and_what_rev_6 === 선택한 항목 삭제
+and_what_sched_6 === 선택한 항목 삭제
+and_what_sched_12 === 채팅 예약
+and_what_sent_3 === 보낸 채팅
+and_what_sent_6 === 선택한 항목 삭제
+and_what_sent_10 === 빠른 채팅 보내기
+and_what_sent_12 === 빠른
+and_what_sent_15 === 대량 채팅 보내기
+and_what_sent_17 === 대부분
+and_what_sent_20 === Excel을 통해 대량 채팅 보내기
+and_def_f_blck_6 === 마케팅 시작
+and_def_f_blck_7 === 함께 창업하고 성장해 나가고, 지금 등록하고 고품격 마케팅 플랫폼을 경험해 봅시다!
+and_def_f_blck_8 === 우리와 함께
+and_def_f_blck_35 === 연락하기
+and_head_blck_21 === 집
+and_head_blck_24 === 특징
+and_head_blck_27 === 가격
+and_head_blck_30 === 클라이언트
+and_head_blck_39 === 계기반
+and_head_blck_42 === 로그 아웃
+and_pages_default_8 === 최고의 SMS 및 WhatsApp 마케팅
+and_pages_default_29 === SMS 메시지
+and_pages_default_31 === Android 장치를 SMS 게이트웨이로 사용하십시오. 이것은 타사 게이트웨이를 사용하는 것보다 효과적으로 저렴합니다.
+and_pages_default_40 === WhatsApp 메시징
+and_pages_default_42 === 마케팅 캠페인에 WhatsApp을 사용하세요. 당사 플랫폼은 시작하는 데 도움이 되는 도구를 제공합니다.
+and_pages_default_51 === 직관적인 도구
+and_pages_default_53 === 자동 회신, 웹훅 등과 같은 마케팅 작업을 지원하는 도구를 제공합니다.
+and_pages_default_62 === 돈을 벌다
+and_pages_default_64 === 파트너가 되어 Android 기기를 게이트웨이로 사용하고 전송된 모든 메시지에 대해 수익을 올리십시오.
+and_pages_default_73 === 왜 우리 서비스를 사용합니까?
+and_pages_default_74 === 다음은 당사 서비스를 사용해야 하는 몇 가지 이유입니다.
+and_pages_default_84 === 빠르고 대량 발송
+and_pages_default_86 === 다른 연락처 그룹에 수많은 메시지를 쉽게 보내고 빠른 거래를 위해 빠른 메시지를 보낼 수도 있습니다. 당사 플랫폼에는 라이브 대시보드도 포함되어 있어 메시지를 보내거나 받을 때 알림을 받습니다!
+and_pages_default_89 === 단축 코드
+and_pages_default_89_1 === 미리 정의된 데이터로 메시지를 작성합니다.
+and_pages_default_90 === 스핀탁스
+and_pages_default_90_1 === 스팸 문제를 해결하기 위해 단어 집합을 무작위로 지정합니다.
+and_pages_default_91 === 역자
+and_pages_default_91_1 === 언어를 기반으로 잠재고객을 타겟팅하기 위한 것입니다.
+and_pages_default_98 === 자동화되고 스마트한 도구
+and_pages_default_100 === 우리가 더러운 작업을 처리하는 동안 귀하의 비즈니스를 관리하십시오. 우리 플랫폼은 똑똑하며 보내고 싶은 메시지만 있으면 나머지는 우리가 처리합니다!
+and_pages_default_103 === 일정
+and_pages_default_103_1 === 원하는 날짜에 SMS 및 Whatsapp 채팅을 할 수 있습니다.
+and_pages_default_104 === 웹훅
+and_pages_default_104_1 === SMS와 Whatsapp 모두에서 메시지를 받을 때 일부 작업을 자동화합니다.
+and_pages_default_105 === 행위
+and_pages_default_105_1 === 이벤트의 자동 응답 및 빠른 데이터 확인을 생성합니다.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === 운영자의 잔액 확인과 같은 네트워크 관련 요청을 수행합니다.
+and_pages_default_107 === 알림
+and_pages_default_107_1 === 연결된 안드로이드 장치에서 자동화된 작업에도 사용할 수 있습니다.
+and_pages_default_137 === 우리는 전략적 기능으로 귀하의 비즈니스 성공을 보장합니다.
+and_pages_default_139 === 우리 플랫폼은 계속 성장하는 마케팅 비즈니스의 요구 사항을 충족하도록 잘 제작되었습니다. 우리는 귀하가 우리 서비스에 지출한 모든 센트가 가치가 있고 100% 만족을 제공하는지 확인하고 싶습니다!
+and_pages_default_145 === 사용하기 쉽고 유동적인 플랫폼
+and_pages_default_148 === 저렴하지만 양질의 서비스를 유지
+and_pages_default_156 === 직관적인 도구 및 대시보드
+and_pages_default_159 === 제품을 마케팅하는 동안 빠르고 지연 없는 경험
+and_pages_default_171 === 서비스 가격
+and_pages_default_187 === SMS 보내기
+and_pages_default_194 === SMS 수신
+and_pages_default_201 === WhatsApp 보내기
+and_pages_default_208 === WhatsApp 수신
+and_pages_default_215 === USSD
+and_pages_default_222 === 알림
+and_pages_default_229 === 예약된 SMS/채팅
+and_pages_default_236 === 콘택트 렌즈
+and_pages_default_243 === API 키
+and_pages_default_250 === 웹훅
+and_pages_default_257 === 행위
+and_pages_default_264 === 안드로이드 기기
+and_pages_default_271 === WhatsApp 계정
+and_pages_default_287 === 우리의 손님들
+and_pages_default_290 === 3,000명 이상의 고객이 신뢰합니다. 제품 마케팅을 시작하고 당사와 함께 비즈니스를 성장시키십시오!
+landing_title_default === SMS 게이트웨이로서의 Android 모바일 장치
+landing_nav_login === 로그인
+landing_lead_desc === 해당 국가의 마케팅, 대량 SMS 및 프로젝트를 위한 네트워크 제공업체의 무제한 SMS 요금제, 저렴하고 비용 효율적인 솔루션을 활용하십시오. 더 많은 청중에게 WhatsApp을 사용하세요. 당사 플랫폼은 시작하는 데 도움이 되는 완벽한 도구를 제공합니다.
+landing_footer_ourcomp === 아웃컴퍼니
+landing_footer_about === 에 대한
+landing_footer_tos === 서비스 약관
+landing_footer_privacy === 개인 정보 정책
+landing_footer_links === 사이트 링크
+landing_footer_login === 로그인
+landing_footer_register === 가입하기
+landing_footer_copyright === 판권 소유
+dashboard_title_default === 계기반
+dashboard_title_contacts === 콘택트 렌즈
+dashboard_title_tools === 도구
+dashboard_title_admin === 관리
+dashboard_nav_default === 계기반
+dashboard_nav_contacts === 콘택트 렌즈
+dashboard_nav_tools === 도구
+dashboard_nav_menusubscription === 신청
+dashboard_nav_menusettings === 설정
+dashboard_nav_menulogout === 로그 아웃
+dashboard_btn_addcontact === 주소록에 추가
+dashboard_btn_adddevice === 기기 추가
+dashboard_btn_addgroup === 그룹 추가
+dashboard_btn_addtemplate === 템플릿 추가
+dashboard_btn_addkey === 키 추가
+dashboard_btn_addhook === 웹훅 추가
+dashboard_btn_build === 짓다
+dashboard_btn_buildsettings === 설정
+dashboard_btn_settings === 체계
+dashboard_btn_theme === 주제
+dashboard_btn_adduser === 사용자 추가
+dashboard_btn_addpackage === 패키지 추가
+dashboard_btn_addwidget === 위젯 추가
+dashboard_btn_addlanguage === 언어 추가
+dashboard_footer_about === 에 대한
+dashboard_footer_terms === 서비스 약관
+dashboard_footer_privacy === 개인 정보 정책
+dashboard_footer_copyright === 판권 소유
+dashboard_messages_menusent === 전송된
+dashboard_messages_menureceived === 받았다
+dashboard_messages_menutemplates === 템플릿
+dashboard_messages_tabreceivedtitle === 받은 메시지
+dashboard_messages_tabtemplatestitle === 템플릿
+dashboard_messages_tablesentrecipient === 받는 사람
+dashboard_messages_tablesentmessage === 메시지
+dashboard_messages_tablesentcreated === 만들어진
+dashboard_messages_tablesentoptions === 옵션
+dashboard_messages_tablereceivedsender === 보내는 사람
+dashboard_messages_tablereceivedmessage === 메시지
+dashboard_messages_tablereceivedreceived === 받았다
+dashboard_messages_tablereceivedoptions === 옵션
+dashboard_messages_tabletemplatesname === 템플릿 이름
+dashboard_messages_tabletemplatesformat === 템플릿 형식
+dashboard_messages_tabletemplatesoptions === 옵션
+dashboard_contacts_title === 콘택트 렌즈
+dashboard_contacts_menusaved === 저장됨
+dashboard_contacts_menugroups === 여러 떼
+dashboard_contacts_tabsavedtitle === 저장된 연락처
+dashboard_contacts_tabgroupstitle === 연락처 그룹
+dashboard_contacts_tablesavedname === 담당자 이름
+dashboard_contacts_tablesavednumber === 연락처
+dashboard_contacts_tablesavedoptions === 옵션
+dashboard_contacts_tablegroupsname === 그룹 이름
+dashboard_contacts_tablegroupsoptions === 옵션
+dashboard_devices_tableregisteredbrand === 제조사
+dashboard_devices_tableregisteredversion === 버전
+dashboard_devices_tableregisteredadded === 등기
+dashboard_devices_tableregisteredoptions === 옵션
+dashboard_tools_title === 도구
+dashboard_tools_menukeys === API 키
+dashboard_tools_menuhooks === 웹훅
+dashboard_tools_tabkeystitle === API 키
+dashboard_tools_tabhookstitle === 웹훅
+dashboard_tools_tablekeysname === 이름
+dashboard_tools_tablekeyspermissions === 권한
+dashboard_tools_tablekeysoptions === 옵션
+dashboard_tools_tablehooksname === 이름
+dashboard_tools_tablehooksurl === 웹훅 URL
+dashboard_tools_tablehooksoptions === 옵션
+dashboard_admin_title === 관리자
+dashboard_admin_menustats === 통계
+dashboard_admin_menuusers === 사용자
+dashboard_admin_menupackages === 패키지
+dashboard_admin_menusubscriptions === 구독
+dashboard_admin_menutransactions === 업무
+dashboard_admin_menuwidgets === 위젯
+dashboard_admin_menulanguages === 언어
+dashboard_admin_tabdefaultearningstitle === 수입
+dashboard_admin_tabdefaultmessageslast === 지난 30일
+dashboard_admin_tabuserstitle === 사용자
+dashboard_admin_tabpackagestitle === 패키지
+dashboard_admin_tabsubscriptionstitle === 구독
+dashboard_admin_tabtransactionstitle === 업무
+dashboard_admin_tabwidgetstitle === 위젯
+dashboard_admin_tablanguagestitle === 언어
+dashboard_admin_tableusersname === 이름
+dashboard_admin_tableusersemail === 이메일
+dashboard_admin_tableusersoptions === 옵션
+dashboard_admin_tablepackagesname === 이름
+dashboard_admin_tablepackagesprice === 가격
+dashboard_admin_tablepackagesoptions === 옵션
+dashboard_admin_tablesubscriptionsuser === 사용자
+dashboard_admin_tablesubscriptionspackage === 패키지
+dashboard_admin_tablesubscriptionsprice === 가격
+dashboard_admin_tablesubscriptionsexpire === 만료일
+dashboard_admin_tablesubscriptionsoptions === 옵션
+dashboard_admin_tabletransactionscustomer === 고객
+dashboard_admin_tabletransactionsprovider === 공급자
+dashboard_admin_tablewidgetsname === 위젯 이름
+dashboard_admin_tablewidgetstype === 유형
+dashboard_admin_tablewidgetssize === 크기
+dashboard_admin_tablewidgetsposition === 위치
+dashboard_admin_tablewidgetsoptions === 옵션
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === 언어 이름
+dashboard_admin_tablelanguagescreated === 만들어진
+dashboard_admin_tablelanguagesoptions === 옵션
+table_search_text === 검색
+table_search_placeholder === 여기에 키워드를 입력하세요...
+response_invalid === 잘못된 요청!
+response_went_wrong === 문제가 발생했습니다!
+response_session_false === 세션이 존재하지 않습니다!
+response_session_true === 세션이 이미 존재합니다!
+response_invalid_emailpass === 이메일/비밀번호가 잘못되었습니다!
+response_loggedin_success === 로그인 성공!
+response_loggedout_success === 성공적으로 로그아웃되었습니다!
+response_invalid_email === 잘못된 이메일 주소!
+response_retrieval_received === 계정 검색 요청을 받았습니다. 요청하지 않은 경우 무시하십시오.
+response_solve_captcha === 안티봇 챌린지를 풀어주세요!
+response_register_false === 등록이 비활성화되었습니다!
+response_name_short === 이름이 너무 짧습니다!
+response_password_short === 비밀번호는 5자 이상이어야 합니다!
+response_password_notmatch === 비밀번호가 일치하지 않습니다!
+response_register_success === 등록 성공!
+response_email_unavailable === 이메일 주소가 이미 등록되었습니다!
+response_upload_applogo === 앱 로고를 업로드하세요!
+response_upload_appsplash === 앱 스플래시를 업로드하세요!
+response_pcode_empty === 시스템 설정에서 구매 코드를 입력하세요!
+response_buildserver_false === 빌드 서버에 연결할 수 없습니다!
+response_invalid_number === 잘못된 휴대폰 번호입니다!
+response_message_short === 메시지가 너무 짧습니다!
+response_message_queued === 메시지가 대기열에 추가되었습니다!
+response_message_bulkqueued === 대량 메시지가 보내기 위해 대기 중입니다!
+response_format_short === 형식이 너무 짧습니다!
+response_template_added === 템플릿이 추가되었습니다!
+response_number_exist === 연락처가 이미 존재합니다!
+response_contact_added === 연락처가 추가되었습니다!
+response_group_added === 연락처 그룹이 추가되었습니다!
+response_permission_min === 권한을 1개 이상 선택하세요!
+response_key_added === API 키가 추가되었습니다!
+response_invalid_webhookurl === 잘못된 웹훅 URL입니다!
+response_webhook_added === 웹훅이 추가되었습니다!
+response_user_added === 사용자가 추가되었습니다!
+response_package_added === 패키지가 추가되었습니다!
+response_widget_added === 위젯이 추가되었습니다!
+response_language_added === 언어가 추가되었습니다!
+response_avatar_invalid === 아바타를 업로드할 수 없습니다!
+response_profile_updated === 프로필이 업데이트되었습니다!
+response_package_purchasedtitle === 프리미엄 패키지를 구독하셨습니다. 여기 영수증이 있습니다!
+response_package_purchased === 패키지에 성공적으로 가입했습니다!
+response_template_updated === 템플릿이 업데이트되었습니다!
+response_contact_updated === 연락처가 업데이트되었습니다!
+response_group_updated === 연락처 그룹이 업데이트되었습니다!
+response_key_updated === API 키가 업데이트되었습니다!
+response_webhook_updated === 웹훅이 업데이트되었습니다!
+response_user_updated === 사용자가 업데이트되었습니다!
+response_package_updated === 패키지가 업데이트되었습니다!
+response_widget_updated === 위젯이 업데이트되었습니다!
+response_language_updated === 언어가 업데이트되었습니다!
+response_builder_packagenameshort === 패키지 이름이 너무 짧습니다!
+response_builder_appnameshort === 앱 이름이 너무 짧습니다!
+response_builder_applogofail === 앱 로고를 업로드할 수 없습니다!
+response_builder_appsplashfail === 앱 스플래시를 업로드할 수 없습니다!
+response_builder_settingsupdated === 빌더 설정이 업데이트되었습니다!
+response_theme_updated === 테마 설정이 업데이트되었습니다!
+response_system_settingsupdated === 시스템 설정이 업데이트되었습니다!
+response_deleted_sent === 보낸 메시지가 삭제되었습니다!
+response_deleted_received === 수신된 메시지가 삭제되었습니다!
+response_deleted_template === 템플릿이 삭제되었습니다!
+response_deleted_contact === 연락처가 삭제되었습니다!
+response_deleted_group === 연락처 그룹이 삭제되었습니다!
+response_deleted_device === 기기가 삭제되었습니다!
+response_deleted_key === API 키가 삭제되었습니다!
+response_deleted_hook === 웹훅이 삭제되었습니다!
+response_deleted_defaultuserfalse === 기본 사용자는 삭제할 수 없습니다!
+response_deleted_user === 사용자가 삭제되었습니다!
+response_deleted_defaultpackagefalse === 기본 패키지는 삭제할 수 없습니다!
+response_deleted_package === 패키지가 삭제되었습니다!
+response_deleted_subscription === 구독이 삭제되었습니다!
+response_deleted_widget === 위젯이 삭제되었습니다!
+response_deleted_defaultlangfalse === 기본 언어는 삭제할 수 없습니다!
+response_deleted_language === 언어가 삭제되었습니다!
+response_lang_changed === 언어가 변경되었습니다!
+modal_usersettings_title === 설정
+modal_subscription_title === 신청
+modal_packages_title === 패키지
+modal_smsquick_title === 빠른 SMS
+modal_smsbulk_title === 대량 SMS
+modal_addtemplate_title === 템플릿 추가
+modal_edittemplate_title === 템플릿 편집
+modal_addcontact_title === 주소록에 추가
+modal_editcontact_title === 연락처 편집
+modal_addgroup_title === 그룹 추가
+modal_editgroup_title === 그룹 편집
+modal_adddevice_title === 기기 추가
+modal_addkey_title === API 키 추가
+modal_editkey_title === API 키 수정
+modal_edithook_title === 웹훅 수정
+modal_buildersettings_title === 빌더 설정
+modal_themesettings_title === 주제 설정
+modal_systemsettings_title === 환경 설정
+modal_adduser_title === 사용자 추가
+modal_edituser_title === 사용자 편집
+modal_addpackage_title === 패키지 추가
+modal_editpackage_title === 패키지 편집
+modal_addwidget_title === 위젯 추가
+modal_editwidget_title === 위젯 수정
+modal_addlanguage_title === 언어 추가
+modal_editlanguage_title === 언어 수정
+require_email === 이메일 주소
+require_password === 비밀번호
+require_name === 성명
+require_cpassword === 비밀번호 확인
+require_phone === 전화 번호
+require_device === 장치
+require_message === 메시지
+require_groups === 연락처 그룹
+require_sim === 심 슬롯
+require_priority === 우선순위 옵션
+require_api === API 옵션
+require_templatename === 템플릿 이름
+require_templateformat === 템플릿 형식
+require_contactname === 담당자 이름
+require_group === 연락처 그룹
+require_groupname === 그룹 이름
+require_apiname === API 키 이름
+require_permissions === 권한
+require_hookname === 웹훅 이름
+require_hookurl === 웹훅 URL
+require_appname === 앱 이름
+require_appcolor === 앱 색상
+require_packagename === 패키지 이름
+require_widgetname === 위젯 이름
+require_widgetsize === 위젯 크기
+require_widgetposition === 위젯 위치
+require_widgettype === 위젯 유형
+require_languagename === 언어 이름
+require_languageiso === 언어 ISO
+require_languagestr === 언어 번역
+btn_submit === 제출하다
+btn_download === 다운로드
+btn_done === 완료
+btn_purchase === 구입
+btn_free === 무료
+btn_send === 보내다
+btn_save === 구하다
+btn_packages === 패키지
+btn_retrieve === 검색하다
+btn_signin === 로그인
+btn_signup === 가입하기
+form_name === 이름
+form_number === 전화 번호
+form_group === 연락처 그룹
+form_adddevice_one === 계정에 새 Android 기기를 추가하는 것은 매우 쉽습니다. 소중한 시간을 낭비하지 않고 계속할 수 있도록 다음 단계를 따르세요.
+form_adddevice_two === 1. 다운로드 및 설치
+form_adddevice_three === 먼저 이 버튼을 클릭하여 게이트웨이 앱을 다운로드하고 설치합니다.
+form_adddevice_four === 2. 기기 등록
+form_adddevice_five === 이제 게이트웨이 앱을 열고 스캔 버튼을 클릭한 다음 이 qrcode를 스캔하십시오.
+form_adddevice_six === 3. 완료!
+form_adddevice_seven === 기기가 계정에 추가되었습니다. 이제 메시지를 보낼 수 있습니다!
+form_permissions === 권한
+form_countrycode === 국가 코드
+form_translations === 번역 문자열
+form_translations_placeholder === 여기에 번역을 입력하세요...
+form_packageprice === 가격
+form_packagesend === 전송 제한
+form_packagereceive === 수신 한도
+form_packagedevice === 기기 제한
+form_packagekey === 키 제한
+form_packagehook === 웹훅 제한
+form_templatename_placeholder === 발표
+form_templateformat === 체재
+form_templateformat_placeholder === 여기에 템플릿 형식을 입력하세요...
+form_shortcodes === 단축 코드
+form_emailaddress === 이메일 주소
+form_password === 비밀번호
+form_password_leave === 현재 비밀번호를 유지하려면 비워 둡니다.
+form_language === 언어
+form_webhookname_placeholder === 답장봇
+form_webhookurl === URL
+form_widgetname_placeholder === 서비스 약관
+form_widgeticon === 상
+form_widgettype === 유형
+form_widgetsize === 크기
+form_widgetsmall === 작은
+form_widgetmedium === 중간
+form_widgetlarge === 크기가 큰
+form_widgetxlarge === 특대
+form_widgetposition === 위치
+form_widgetcenter === 센터
+form_widgetleft === 왼쪽
+form_widgetright === 오른쪽
+form_widgetcontent === 콘텐츠
+form_builderpackagename === 패키지 이름
+form_builderappname === 앱 이름
+form_builderappdesc === 앱 설명
+form_builderappdesc_placeholder === 이것은 멋진 앱입니다
+form_builderapplogo === 앱 로고
+form_builderappsplash === 앱 시작 화면
+form_uploaded === 업로드됨
+form_notuploaded === 없음
+form_themebg === 배경색
+form_themetext === 하이라이트 색상
+form_settingsite === 대지
+form_settingssitename === 사이트 이름
+form_settingssitedesc === 사이트 설명
+form_settingspcode === 구매 코드
+form_settingsprotocol === 규약
+form_settingsdeflang === 기본 설정 언어
+form_settingsreg === 등록
+form_settingsmailing === 메일링
+form_settingsmailfunc === 메일 기능
+form_settingssitemail === 사이트 이메일
+form_settingssmtphost === SMTP 호스트
+form_settingssmtpport === SMTP 포트
+form_settingssmtpusername === SMTP 사용자 이름
+form_settingssmtppassword === SMTP 비밀번호
+form_settingssmtp_small === 원격 SMTP에 필요
+form_settingspayments === 지불
+form_settingspaypaltest === 페이팔 테스트 모드
+form_settingssecurity === 보안
+form_settingsrecaptchakey === Recaptcha 사이트 키
+form_settingsrecaptchasecret === Recaptcha 비밀 키
+form_enable === 할 수 있게 하다
+form_disable === 장애를 입히다
+form_native === 토종의
+form_remotesmtp === 원격 SMTP
+form_device === 휴대 기기
+form_sim === 심 슬롯
+form_priority === 우선 사항
+form_yes === 예
+form_no === 아니
+form_freefor === 영원히 무료
+form_monthly === 월간 간행물
+form_groups === 연락처 그룹
+form_template === 주형
+form_none === 없음
+form_message === 메시지
+form_message_placeholder === 여기에 메시지를 입력하세요...
+form_avatar === 화신
+form_changepass === 비밀번호 변경
+form_package === 패키지
+form_keys === API 키
+form_hooks === 웹훅
+form_daily === 일일
+form_forgotpass === 비밀번호를 잊으 셨나요
+form_fullname === 성명
+form_cpassword === 비밀번호 확인
+form_haveaccount === 계정이 있습니다.
+datatable_processing === 처리 중입니다. 잠시만 기다려 주십시오...
+datatable_length === _MENU_개의 항목 표시 중
+datatable_info === _TOTAL_개 항목 중 _START_개에서 _END_개 표시
+datatable_empty === 항목 0개 중 0개 표시
+datatable_filtered === (총 _MAX_개의 항목에서 필터링됨)
+datatable_loading === 로딩 중 기다려주세요...
+datatable_zero === 검색어와 일치하는 항목을 찾을 수 없습니다!
+datatable_null === 표시할 데이터가 없습니다!
+datatable_first === 첫 번째
+datatable_prev === 이전의
+datatable_next === 다음
+datatable_last === 마지막
+delete_title === 삭제?
+delete_tagline === 이 작업은 취소할 수 없습니다!
+validate_cannotemp === 비워둘 수 없습니다!
+alert_attention === 주목
+copy_data === 데이터가 클립보드에 복사되었습니다!
+date_today === 오늘
+date_yesterday === 어제
+date_7days === 지난 7일
+date_30days === 지난 30일
+date_month === 이번 달
+date_lmonth === 지난 달
+date_custom === 사용자 정의 범위
+unknown_action_method === 알 수 없는 조치 방법!
+mollie_redirecting_page === 몰리 결제 페이지로 이동 중...
+form_settingsmolliekey === 몰리 API 키
+btn_confirm === 확인하다
+btn_cancel === 취소
+recaptcha_add_keys === 이 기능을 활성화하려면 보안 문자 키를 추가하세요!
+pay_with_paypal === 페이팔로 결제
+pay_with_mollie === 몰리로 결제
+form_settingsenabledproviders === 활성화된 공급자
+form_builderappicon === 앱 아이콘
+payment_transact_failed === 결제 거래 실패!
+cookieconsent_message === 당사는 귀하가 당사 웹사이트에서 최상의 경험을 얻을 수 있도록 쿠키를 사용하고 있습니다.
+cookieconsent_link === 더 알아보기
+role_added === 역할이 추가되었습니다!
+role_updated === 역할이 업데이트되었습니다!
+role_deleted === 역할이 삭제되었습니다!
+role_default_update === 기본 역할은 편집할 수 없습니다!
+role_default_delete === 기본 역할은 삭제할 수 없습니다!
+voucher_added === 상품권이 추가되었습니다!
+form_voucher === 바우처 코드
+btn_redeem === 상환하다
+invalid_voucher_code === 유효하지 않은 쿠폰 코드!
+voucher_deleted === 바우처가 삭제되었습니다!
+form_title_addvoucher === 바우처 추가
+form_title_addsubscription === 구독 추가
+form_adduser_role === 역할
+require_pagename === 페이지 이름
+require_pageroles === 허용된 역할
+form_pageroles === 허용된 역할
+require_vouchercode === 바우처 코드
+form_settingscurrency === 통화
+btn_bulkexcel === 뛰어나다
+response_leastprovider === 결제 제공업체를 1개 이상 선택하세요!
+user_subscriptioncontacts === 콘택트 렌즈
+response_suspended === 귀하의 계정은 관리자에 의해 정지되었습니다!
+response_adminsuspend === 기본 계정은 정지할 수 없습니다!
+response_successsuspend === 사용자가 정지되었습니다!
+response_successunsuspend === 사용자가 정지 해제되었습니다!
+suspend_user_title === 사용자를 일시 중지하시겠습니까?
+suspend_user_desc === 이 사용자는 로그인하여 서비스를 사용할 수 없습니다.
+unsuspend_user_title === 사용자 일시 중지를 해제하시겠습니까?
+unsuspend_user_desc === 이 사용자는 로그인하여 서비스를 다시 사용할 수 있습니다.
+all_languages === 모든 언어
+response_invalid_excel === 잘못된 엑셀 파일!
+response_contacts_imported === 연락처를 가져왔습니다!
+table_role_name === 역할 이름
+table_role_permissions === 권한
+table_voucher_name === 이름
+table_voucher_package === 패키지
+table_page_name === 페이지 이름
+table_page_require === 로그인 필요
+table_page_roles === 허용된 역할
+import_btn === 수입
+form_excelfile === 엑셀 파일
+form_hook_addtitle === 후크 작업 추가
+form_hook_edittitle === 후크 작업 편집
+form_hook_event === 이벤트
+form_hook_link === 링크 구조
+form_autoreply_addtitle === 응답 작업 추가
+form_autoreply_edittitle === 회신 작업 수정
+form_autoreply_keywords === 키워드
+form_autoreply_message === 답장 메시지
+require_action_name === 작업 이름
+require_action_event === 이벤트 유형
+require_action_link === 링크 구조
+require_action_keywords === 키워드
+require_action_message === 답장 메시지
+response_invalid_linkstructure === 잘못된 링크 구조!
+response_hook_added === SMS 후크 액션이 추가되었습니다!
+response_invalid_keywords === 키워드를 1개 이상 입력해야 합니다!
+response_autoreply_added === SMS 답장 액션이 추가되었습니다!
+response_hook_updated === SMS 후크 액션이 업데이트되었습니다!
+response_autoreply_updated === SMS 응답 작업이 업데이트되었습니다!
+response_action_deleted === SMS 작업이 삭제되었습니다!
+table_action_name === 이름
+form_scheduled_title === SMS 예약
+response_scheduled_deleted === 예약된 메시지가 삭제되었습니다!
+response_no_permission === 이 작업에 대한 권한이 없습니다!
+response_builder_appiconfail === 앱 아이콘을 업로드할 수 없습니다!
+form_require_login === 로그인 필요
+widget_addpage_title === 페이지 추가
+widget_editpage_title === 페이지 편집
+require_subscription_user === 사용자
+require_voucher_name === 바우처 이름
+require_voucher_package === 패키지
+widget_alllang_title === 모든 언어
+widget_smsexcel_title === Excel로 대량 SMS
+require_scheduled_name === 이름
+require_scheduled_date === 일정 날짜
+widget_importcontacts_title === 연락처 가져오기
+require_addrole_name === 역할 이름
+require_addrole_permissions === 권한
+widget_editrole_title === 역할 수정
+response_page_added === 페이지가 추가되었습니다!
+response_page_updated === 페이지가 업데이트되었습니다!
+response_page_deleted === 페이지가 삭제되었습니다!
+table_scheduled_name === 이름
+messages_scheduled_title === 예정
+messages_scheduled_schedule === SMS 예약
+form_schedule_numbers === 휴대폰 번호
+form_schedule_schedule === 일정
+form_schedule_repeat === 반복하다
+form_bulksms_numbers === 휴대폰 번호
+dashboard_tools_menuactions === 행위
+dashboard_admin_menuroles === 역할
+dashboard_admin_menuvouchers === 바우처
+dashboard_admin_menupages === 페이지
+admin_gateway_title === 게이트웨이
+admin_gateway_status === 상태
+admin_gateway_notuploaded === 업로드되지 않음
+admin_gateway_uploaded === 업로드됨
+dashboard_roles_title === 사용자 역할
+dashboard_roles_addrole === 역할 추가
+dashboard_vouchers_title === 바우처
+dashboard_vouchers_addrole === 바우처 추가
+form_voucher_package === 패키지
+dashboard_pages_title === 페이지
+dashboard_pages_addpage === 페이지 추가
+form_theme_favicon === 파비콘
+form_package_contactslimit === 연락처 제한
+response_limitation_send === 오늘 허용된 최대 전송 수에 도달했습니다!
+response_limitation_contact === 최대 허용 연락처에 도달했습니다!
+response_limitation_key === 최대 허용 API 키에 도달했습니다!
+response_limitation_webhook === 최대 허용 웹훅에 도달했습니다!
+form_adminsettings_token === 시스템 토큰
+response_upload_appicon === 앱 아이콘을 업로드하세요!
+app_status_gateway_running === 게이트웨이가 실행 중입니다!
+app_device_registered === 연결됨
+app_device_unregistered === 연결되지 않음
+app_terminal_gateway_ready === 게이트웨이가 준비되었습니다...
+app_terminal_gateway_register === 기기가 아직 연결되지 않았습니다...
+app_terminal_gateway_hash === 해시시
+app_terminal_gateway_registered === 기기가 연결되었습니다...
+app_terminal_gateway_device === 기기 연결 실패...
+app_terminal_gateway_connecterror === 서버에 연결하는 동안 오류가 발생했습니다...
+app_terminal_gateway_started === 게이트웨이가 시작되었습니다...
+app_terminal_gateway_stopped === 게이트웨이가 중지되었습니다...
+app_terminal_gateway_unregistered === 게이트웨이를 시작할 수 없습니다. 기기가 아직 계정에 연결되어 있지 않습니다...
+app_terminal_feature_error === SMS 기능 오류
+app_terminal_sms_sent === 메시지가 보내졌습니다
+app_terminal_message_failed === 메시지 전송 실패
+app_dialog_wait === 기다리세요...
+app_dialog_exit === 출구 게이트웨이
+app_dialog_exit_desc === 종료하고 게이트웨이를 종료하시겠습니까?
+app_camera_qrcode_inside === 내부에 QRCode를 넣으십시오.
+app_ui_status === 상태
+app_ui_exit === 출구
+require_voucher_count === 바우처 수는 비워둘 수 없습니다!
+form_voucher_count === 바우처 개수
+cookieconsent_dismiss === 알았어요!
+title_payment_success === 주문 확인
+title_payment_cancel === 취소된 주문
+header_payment_success === 주문 확인
+header_payment_cancel === 취소된 주문
+body_payment_cancel === 주문 요청을 취소했습니다.
+transaction_payment_success === 거래 ID:
+back_payment_page === 대시보드로 돌아가기
+form_settingspaypalemail === 페이팔 비즈니스 이메일
+form_settingsanalytics === 구글 애널리틱스 키
+form_messagecounterchars === 캐릭터
+form_settingspagination === 페이지 매김 제한
+form_settingssentpage === 페이지당 보낸 메시지
+form_settingsreceivedpage === 페이지당 받은 메시지
+form_settingsmessage === 메시지 설정
+form_settingsmessagemin === 최소 문자
+form_settingsmessagemax === 최대 문자
+form_settingsmessagemark === 메시지 바닥글
+form_packagefootermark === 메시지 바닥글
+form_settingssmtpsecure === SMTP 보안
+form_durationtitle === 지속
+form_durationpackage === 패키지:
+form_durationpay === 당신은 지불할 것입니다:
+form_durationmonth === 월 기간
+form_subscriptionmonth === 월 기간
+authenticate_fblogin === 페이스북으로 로그인...
+authenticate_googlelogin === 구글 로그인 중...
+authenticate_vklogin === vkontakte로 로그인...
+response_minplatforms === 소셜 플랫폼을 1개 이상 선택하세요!
+form_settingssocialtitle === 소셜 설정
+form_settingssocial === 소셜 인증
+form_settingssocialplatforms === 활성화된 플랫폼
+form_usertimezone === 시간대
+form_settingsloginrecaptcha === 로그인 Recaptcha
+form_loginor === 또는
+form_adddevicescandl === QR 스캔을 통해 다운로드
+form_status_online === 온라인
+form_status_offline === 오프라인
+form_smsbulknonumbers === 연락처 그룹을 선택하거나 수신자 번호를 입력하세요!
+form_addsubscriptionuser === 사용자
+form_addsubscriptionpackage === 패키지
+table_vouchersduration === 월 기간
+table_pluginsname === 플러그인 이름
+table_pluginsoptions === 옵션
+dashboard_admin_menuplugins === 플러그인
+dashboard_admin_pluginstitle === 플러그인
+dashboard_admin_pluginsadd === 플러그인 추가
+require_pluginfile === 플러그인 파일
+modal_addplugin_title === 플러그인 추가
+response_pluginwentwrong === 플러그인을 업로드하는 동안 문제가 발생했습니다!
+response_plugininstalled === 플러그인이 설치되었습니다!
+dashboard_title_login === 로그인
+dashboard_title_forgot === 비밀번호를 잊으 셨나요
+dashboard_title_register === 등록하다
+response_limitation_contact2 === 구독의 최대 연락처 수에 도달했습니다. _8880_개의 연락처만 가져왔습니다!
+response_contacts_imported2 === _8880_ 연락처를 성공적으로 가져왔습니다!
+form_systemsettingshomepage === 기본 홈페이지
+app_dialog_update_desc === 게이트웨이 앱에 사용할 수 있는 새 릴리스 버전이 있습니다. 업데이트가 필요합니다!
+app_dialog_update_download === 다운로드
+app_gateway_build_text === 게이트웨이 빌드
+response_gateway_available === 게이트웨이를 다운로드 중입니다. 잠시만 기다려 주십시오...
+response_gateway_unavailable === 게이트웨이를 사용할 수 없습니다. 사이트 관리자에게 문의하세요!
+response_gateway_randommax === 최대 전송 간격은 300초를 초과할 수 없습니다!
+response_device_updated === 장치가 업데이트되었습니다!
+form_editdevice_devicename === 장치 이름
+form_editdevice_randomsend === 무작위 전송 간격
+form_editdevice_randommin === 최소 전송 간격
+form_editdevice_randommax === 전송 간격 최대
+form_smsall_globalstatus === 글로벌
+form_select_multinone === 없음
+form_package_hiddenselect === 숨겨진
+landing_footer_ourcompnew === 우리 회사
+form_smsschedule_submit === 일정
+require_devicename === 장치 이름
+require_randommin === 임의의 최소 간격
+require_randommax === 무작위 최대 간격
+admin_update_installed === 설치됨
+admin_update_btn === 업데이트
+response_update_success === 시스템이 업데이트되었습니다!
+form_settings_tawkchatlink === 톡 다이렉트 채팅 링크
+model_title_editplugin === 플러그인 편집
+btn_other_paymentmethods === 기타 지불 방법
+dashboard_btn_support === 지원하다
+pendingdelete_title === 보류 중인 삭제?
+pendingdelete_desc === 보류 중인 모든 메시지를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다!
+dashboard_messages_tablefullmessage === 전체 메시지
+administration_landing_btncache === 은닉처
+administration_landing_payouts === 지불금
+administration_landing_marketing === 마케팅
+administration_landing_gateways === 게이트웨이
+administration_landing_shorteners === 쇼트너
+administration_landing_editor === 템플릿 편집기
+administration_landing_api === 관리 API
+administration_landing_build === 짓다
+administration_landing_system === 체계
+requests_charts_smssent === SMS 전송
+requests_charts_smsreceived === SMS 수신
+requests_charts_wasent === WhatsApp 전송
+requests_charts_wareceived === WhatsApp 수신
+requests_charts_ussd === USSD
+requests_charts_notifications === 알림
+requests_charts_credits === 크레딧
+administration_default_visitors === 방문자
+administration_default_countries === 국가
+administration_default_browsers === 브라우저
+administration_default_os === 운영체제
+administration_default_usages === 사용법
+administration_default_messages === 메시지
+administration_default_utilities === 유용
+administration_default_subscriptions === 구독
+administration_default_credits === 크레딧
+tables_users_registered === 등기
+tables_users_details === 세부
+dashboard_title_android === 기계적 인조 인간
+dashboard_title_whatsapp === 왓츠앱
+dashboard_title_gatewayrates === 게이트웨이 요금
+dashboard_title_docs === 문서
+app_status_gateway_touch === 게이트웨이를 열려면 여기를 터치하세요.
+app_dialog_downloading_update === 업데이트 다운로드 중
+app_dialog_interface_disabled === 인터페이스가 비활성화되었습니다. 앱을 최신 버전으로 업데이트하세요!
+app_dialog_somethingwent_wrong === 아차! 문제가 발생했습니다!
+app_intro_level_1 === 우리 플랫폼을 사용해 주셔서 감사합니다. 경험을 극대화하고 앱에 익숙해지도록 합시다. 탐색하고 알아야 할 모든 필수 기능을 설명하겠습니다.
+app_intro_level_2 === 여기에서 장치 이름과 링크 상태를 볼 수 있습니다.
+app_intro_level_3 === 장치를 계정에 연결하려면 이 버튼을 사용하여 로그인하거나 연결을 위해 QRCode를 스캔하십시오.
+app_intro_level_4 === 이 스위치를 사용하여 게이트웨이를 켜거나 끕니다.
+app_intro_level_5 === 이 스위치를 활성화하면 게이트웨이 앱이 플랫폼에서 프로그래밍 방식으로 관리할 수 있는 새 알림을 수신하게 됩니다. 기본적으로 비활성화되어 있습니다.
+app_intro_level_6 === 이 버튼을 사용하여 게이트웨이 앱을 종료하고 종료합니다.
+app_intro_level_7 === 이것은 터미널, 메시지 트랜잭션 및 기타 활동 로그가 여기에 표시됩니다.
+app_intro_level_8 === 이것은 플로팅 작업 버튼입니다. 여기에서 <b>백그라운드에서 실행</b>과 같은 일부 옵션 및 추가 페이지에 액세스할 수 있습니다.
+app_dialog_tour_complete === 이제 응용 프로그램이 어떻게 작동하는지 이해하셨을 것입니다. 추가 질문이 있는 경우 당사에 문의하십시오!
+app_push_right_now === 지금
+app_device_detailes_updated === 장치 세부 정보가 업데이트되었습니다!
+app_ussd_requests_notsupported === USSD 요청이 지원되지 않습니다...
+app_notifications_listening_now === 새 알림 수신 중...
+app_button_ok === 확인하다
+app_dialog_update_smoothperm === 원활하고 효율적인 업데이트를 위해 이 앱에서 설치 권한을 허용해 주세요.
+app_dialog_logging_in === 로그인 중...
+app_dialog_invalid_email === 잘못된 이메일을 입력했습니다!
+app_dialog_invalid_password === 비밀번호가 너무 짧아서 유효하지 않습니다!
+app_dialog_notsupported_notinougat === 현재 nougat 이하에서는 알림이 지원되지 않습니다. 불편을 드려 죄송합니다.
+app_dialog_notifications_permission === 프로그래밍 방식으로 알림에 액세스하려면 앱에 특별한 권한이 필요합니다. 목록에서 앱을 선택한 다음 알림 액세스를 허용하세요.
+app_dialog_gateway_listennoti === 게이트웨이는 이제 새 알림을 수신합니다.
+app_dialog_gateway_notirestart === 게이트웨이가 다시 시작되고 새 알림 수신을 중지합니다.
+app_dialog_needto_link === 이 기능을 사용하려면 먼저 기기를 계정에 연결해야 합니다.
+app_dialog_logoutfrom_device === 이 게이트웨이 장치에서 로그아웃하시겠습니까?
+app_document_runbackground === 백그라운드에서 실행
+app_document_input_email === 이메일 주소
+app_document_input_password === 비밀번호
+app_document_btn_login === 로그인
+app_document_text_or === 또는
+app_document_btn_scan === QR코드 스캔
+app_document_btn_cancel === 취소
+app_intro_next_btn === 다음
+app_intro_back_btn === 뒤
+response_token_generated === 시스템 토큰이 재생성되었습니다!
+response_trigger_done === 웹훅이 실행되었습니다!
+response_build_gservicesfile === Google 서비스 파일을 업로드하세요!
+response_build_fcredentialsfile === Firebase 자격 증명 파일을 업로드하세요!
+response_build_loginlogo === 앱 로그인 로고를 업로드하세요!
+response_whatsapp_notprem === 계정이 프리미엄 패키지에 가입되어 있지 않습니다!
+response_whatsapp_maxaccounts === 패키지에 허용되는 최대 WhatsApp 계정에 도달했습니다!
+response_whatsapp_creatingqr === WhatsApp QRCode 생성
+response_whatsapp_noconnectserver === WhatsApp 서버에 연결할 수 없습니다!
+response_chart_dashsmssent === SMS 전송
+response_chart_dashsmsreceive === SMS 수신
+response_chart_dashwasent === 워싱턴 보낸
+response_chart_dashwareceive === WA 접수
+response_chart_dashwebhooks === 웹훅
+response_chart_dashactions === 행위
+response_chart_dashussd === USSD
+response_chart_dashnoti === 알림
+response_resend_queued === 메시지가 전송 대기 중입니다!
+mail_title_payoutapproved === 지불 요청이 지불되었습니다!
+response_payout_confirmed === 입금이 확인되었습니다!
+mail_title_payoutrejected === 지불 요청이 거부되었습니다!
+response_payout_rejected === 지불이 거부되었습니다!
+response_translate_msgshort === 메시지가 너무 짧습니다!
+response_clear_systemcleared === 시스템 캐시 파일이 지워졌습니다!
+response_clear_smscleared === 보류 중인 메시지가 삭제되었습니다!
+response_clear_ussdcleared === 보류 중인 USSD 요청이 삭제되었습니다!
+response_reorder_languages === 언어가 재정렬되었습니다!
+response_trash_selectedremoved === 선택한 항목이 삭제되었습니다!
+response_voucher_redeemed === 바우처가 사용되었습니다!
+response_payout_invalidamount === 판매 대금이 잘못되었습니다. 소수점 이하 자릿수를 포함할 수 없습니다.
+response_payout_notenoughbal === 요청을 처리하기에 수입 잔액이 충분하지 않습니다!
+response_payout_reqreceive === 지불 요청이 접수되었습니다!
+response_payout_pendingreq === 아직 대기 중인 지불 요청이 있습니다!
+response_system_sysconfigerr === 시스템 구성 오류!
+response_message_toolong === 메시지가 너무 깁니다!
+response_package_nosubwarn === 패키지 구독이 없습니다!
+response_message_notenoughcredsend === 이 메시지를 보내기에 크레딧이 충분하지 않습니다!
+response_message_queuedforsend === 메시지가 전송 대기 중입니다!
+response_message_sentsuccess === 메시지가 전송되었습니다!
+response_message_unablesendmesg === 메시지를 보낼 수 없습니다!
+response_smsexcel_phonenotfound === Excel 파일에서 _8880_ 열을 찾을 수 없습니다!
+response_smssched_queued === 메시지가 예약되었습니다!
+response_ussd_maximumreq === 최대 USSD 요청 수에 도달했습니다!
+response_ussd_queued === USSD 요청이 대기 중입니다!
+response_whatsapp_reachedmaxchat === 이미 보낼 수 있는 최대 채팅 수에 도달했습니다!
+response_whatsapp_chatqueued === WhatsApp 메시지가 보내기 위해 대기 중입니다!
+response_whatsapp_unableconnectserv === WhatsApp 서버에 연결할 수 없습니다!
+response_whatsapp_bulkchatsqueued === WhatsApp 대량 채팅이 대기 중입니다!
+response_whatsapp_excelphonecolnotfound === Excel 파일에서 _8880_ 열을 찾을 수 없습니다!
+response_whatsapp_chatscheduled === 채팅이 예약되었습니다!
+response_importcontacts_phonenotfound === Excel 파일에서 _8880_ 열을 찾을 수 없습니다!
+response_importcontacts_groupsnotfound === Excel 파일에서 _8880_ 열을 찾을 수 없습니다!
+response_importcontacts_namenotfound === Excel 파일에서 _8880_ 열을 찾을 수 없습니다!
+response_package_pricenotlessone === 패키지 가격은 1보다 작을 수 없습니다!
+response_subscription_addedsuccess === 구독이 생성되었습니다!
+response_push_selectatleastoneuser === 하나 이상의 사용자 또는 역할을 선택하십시오!
+response_push_mesgtooshort === 메시지가 너무 짧습니다!
+response_push_titletooshort === 제목이 너무 짧습니다!
+response_push_imgfailed === 이미지 파일 업로드 실패!
+response_push_created === 푸시 방송이 생성되었습니다!
+response_push_nousers === 보낼 사용자가 없습니다!
+response_notify_titletooshort === 제목이 너무 짧습니다!
+response_notify_mesgtooshort === 메시지가 너무 짧습니다!
+response_notify_selectuserrole === 하나 이상의 사용자 또는 역할을 선택하십시오!
+response_notify_imgfailed === 이미지 파일 업로드 실패!
+response_notify_created === 알림 방송이 생성되었습니다!
+response_notify_nousers === 보낼 사용자가 없습니다!
+response_mailer_titletooshort === 제목이 너무 짧습니다!
+response_mailer_contentooshort === 내용이 너무 짧습니다!
+response_mailer_nouserorrole === 하나 이상의 사용자 또는 역할을 선택하십시오!
+response_mailer_sendcounter === _8880_ 중 _8881_ 보류 중인 이메일이 메일러에서 보냈습니다!
+response_mailer_mailprocessed === 대량 발송 처리되었습니다!
+response_mailer_nousersorrole === 보낼 사용자가 없습니다!
+response_gateway_controllercannotempty === 컨트롤러 파일은 비워둘 수 없습니다!
+response_gateway_invalidcontroller === 잘못된 컨트롤러 파일입니다!
+response_gateway_addeddcontroller === 게이트웨이가 추가되었습니다!
+response_shortener_cannotempty === 컨트롤러 파일은 비워둘 수 없습니다!
+response_shortener_invalidcontroller === 잘못된 컨트롤러 파일입니다!
+response_shortener_addedcontroller === 쇼트너가 추가되었습니다!
+response_plugin_samenameinstalled === 같은 이름의 플러그인이 이미 설치되었습니다!
+response_smscheduled_editsuccess === 예약 메시지가 업데이트되었습니다!
+response_chatscheduled_editsuccess === 채팅 일정이 업데이트되었습니다!
+response_editdevice_invalidrate === 유효하지 않은 비율 값입니다. 유효한 부동 소수점 숫자여야 합니다!
+response_editdevice_nametooshort === 장치 이름이 너무 짧습니다!
+response_editdevice_nametoolong === 장치 이름이 너무 깁니다!
+response_editdevice_invalidmaxinterval === 잘못된 최대 간격 값!
+response_gateway_updatedsuccess === 게이트웨이가 업데이트되었습니다!
+response_shortener_editsuccess === 쇼트너가 업데이트되었습니다!
+response_editplugin_success === 플러그인 설정이 업데이트되었습니다!
+response_updatepluin_corrupted === 플러그인 업데이트 파일이 손상되었습니다!
+response_updateplugin_updated === 플러그인이 업데이트되었습니다!
+response_builder_invalidgooglefile === 잘못된 Google 서비스 자격 증명 파일입니다!
+response_builder_invalidfirebasefile === 잘못된 Firebase 자격 증명 파일입니다!
+response_theme_sitelogofailed === 사이트 로고 업로드 실패!
+response_theme_sitebgfailed === 사이트 배경 업로드에 실패했습니다!
+response_theme_sitefavfailed === 파비콘 이미지 업로드 실패!
+response_notification_deletedsuccess === 알림이 삭제되었습니다!
+response_whatsapp_sentdeletesuccess === 보낸 WhatsApp 채팅이 삭제되었습니다!
+response_whatsapp_receivedeletesuccess === 받은 WhatsApp 채팅이 삭제되었습니다!
+response_whatsapp_scheduleddeletesuccess === WhatsApp 예약 채팅이 삭제되었습니다!
+response_whatsapp_accountdeletesuccess === WhatsApp 계정이 삭제되었습니다!
+response_unsibscribe_contactdeletedsuccess === 수신거부번호가 삭제되었습니다!
+response_marketing_logdeletedsuccess === 마케팅 로그가 삭제되었습니다!
+response_gateway_controllerdeletedsuccess === 게이트웨이가 삭제되었습니다!
+response_shortener_controllerdeletedsuccess === 쇼트너가 삭제되었습니다!
+table_androidsent_clipcopy === 보낸 클립보드 사본 _8880_
+table_androidsent_excel === 보낸 Excel 내보내기 _8880_
+table_androidsent_pdf === 보낸 PDF 내보내기 _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === 보고서
+table_unknown_data === 알려지지 않은
+table_androidsent_statuspending === 보류 중
+table_androidsent_statusqueued === 대기 중
+table_androidsent_statussent === 전송된
+table_androidsent_statusfailed === 실패한
+table_none_data === 없음
+table_yes_data === 예
+table_no_data === 아니
+table_removed_data === 제거됨
+table_androidver_kitkat === 안드로이드 킷캣
+table_androidver_lollipop === 안드로이드 롤리팝
+table_androidver_marshmallow === 안드로이드 마시멜로
+table_androidver_nougat === 안드로이드 누가
+table_androidver_oreo === 안드로이드 오레오
+table_androidver_pie === 안드로이드 파이
+table_androidver_10 === 안드로이드 10
+table_androidver_11 === 안드로이드 11
+table_androidver_12 === 안드로이드 12
+table_androidsent_exportone === 상태: _8880_, 모드: _8881_, 코드: _8882_, 우선순위: _8883_, API 전송: _8884_, Sim 슬롯: SIM _8885_, 장치: _8886_, OS: _8887_
+table_androidsent_modenamedevice === 장치
+table_androidsent_modenamecredits === 크레딧
+table_androidsent_reportline1 === 상태: _8880_
+table_androidsent_reportline2 === 모드: _8880_
+table_androidsent_reportline3 === 코드: _8880_
+table_androidsent_reportline4 === 우선순위: _8880_
+table_androidsent_reportline5 === API 전송: _8880_
+table_androidsent_reportline6 === SIM 슬롯: SIM _8880_
+table_androidsent_reportline7 === 장치: _8880_
+table_androidsent_reportline8 === 운영 체제: _8880_
+table_androidsent_exporttwo === 상태: _8880_, 모드: _8881_, 게이트웨이: _8882_
+table_androidsent_reportline9 === 상태: _8880_
+table_androidsent_reportline10 === 모드: _8880_
+table_androidsent_reportline11 === 게이트웨이: _8880_
+table_androidsent_exportthree === 상태: _8880_, 모드: _8881_, 코드: _8882_, API 전송: _8883_, Sim 슬롯: SIM _8884_, 게이트웨이: _8885_
+table_androidsent_reportline12 === 상태: _8880_
+table_androidsent_reportline13 === 모드: _8880_
+table_androidsent_reportline14 === 코드: _8880_
+table_androidsent_reportline15 === API 전송: _8880_
+table_androidsent_reportline16 === SIM 슬롯: SIM _8880_
+table_androidsent_reportline17 === 게이트웨이: _8880_
+table_androidsent_titleresend === 이 메시지 다시 보내기
+table_title_deletethisitem === 이 항목 삭제
+table_androidreceive_exportcopy === 받은 클립보드 사본 _8880_
+table_androidreceive_exportexcel === 엑셀 수출 _8880_ 접수
+table_androidreceive_exportpdf === PDF 내보내기 _8880_ 수신됨
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === 보고서
+table_androidreceive_exportdata === Sim 슬롯: SIM _8880_, 장치: _8881_, OS: _8882_
+table_androidreceive_reportline1 === SIM 슬롯: SIM _8880_
+table_androidreceive_reportline2 === 장치: _8880_
+table_androidreceive_reportline3 === 운영 체제: _8880_
+table_androidreceive_titlereply === 번호에 답장
+table_androidscheduled_titleschedule === 일정
+table_androidscheduled_titledetails === 세부
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === 모드: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === 반복: _8880_
+table_androidscheduled_detailsline4 === 장치: _8880_
+table_androidscheduled_detailsgroupslabel === 여러 떼:
+table_androidscheduled_detailsnumberslabel === 번호:
+table_androidscheduled_detailsline5 === 모드: _8880_
+table_androidscheduled_detailsline6 === 반복: _8880_
+table_androidscheduled_detailsline7 === 게이트웨이: _8880_
+table_androidscheduled_detailsline8 === 모드: _8880_
+table_androidscheduled_detailsline9 === 반복: _8880_
+table_androidscheduled_detailsline10 === 장치: _8880_
+table_title_editthisitem === 이 항목 수정
+table_whatsappsent_exportcopy === 보낸 클립보드 사본
+table_whatsappsent_exportexcel === 보낸 Excel 내보내기
+table_whatsappsent_exportpdf === 보낸 PDF 내보내기
+table_whatsappsent_accounttitle === 계정
+table_whatsappsent_recipienttitle === 받는 사람
+table_whatsappsent_msgtitle === 메시지
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === 상태
+table_ussd_exportcopy === USSD 클립보드 복사
+table_ussd_exportexcel === USSD 엑셀 내보내기
+table_ussd_exportpdf === USSD PDF 내보내기
+table_ussd_createdtitle === 만들어진
+table_ussd_codetitle === 암호
+table_ussd_responsetitle === 응답
+table_ussd_simtitle === SIM
+table_ussd_statustitle === 상태
+table_ussd_devicetitle === 장치
+table_ussd_optionstitle === 옵션
+table_ussd_pendingresponsetext === 대기 중인 응답
+table_empty_data === 비어 있는
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === 보류 중
+table_ussd_queuelabel === 대기 중
+table_ussd_completelabel === 완전한
+table_ussd_detailsline1 === 장치: _8880_
+table_ussd_detailsline2 === 운영 체제: _8880_
+table_notifications_exportcopy === 알림 클립보드 복사
+table_notifications_exportexcel === 알림 Excel 내보내기
+table_notifications_exportpdf === 알림 PDF 내보내기
+table_notifications_createdtitle === 만들어진
+table_notifications_packagetitle === 패키지 이름
+table_notifications_title === 제목
+table_notification_texttitle === 텍스트
+table_notification_devicetitle === 장치
+table_notification_optiontitle === 옵션
+table_notification_devicelabel === 장치:
+table_notification_oslabel === 운영 체제:
+table_devices_nametitle === 이름
+table_devices_globaltitle === 글로벌
+table_enabled_data === 활성화됨
+table_disabled_data === 장애가 있는
+table_notifications_exportone === 장치: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === 보류 중
+table_whatsapp_queuelabel === 대기 중
+table_whatsapp_sentlabel === 전송된
+table_whatsapp_failedlabel === 실패한
+table_whatsappreceive_exportcopy === 클립보드 사본을 받았습니다.
+table_whatsappreceive_exportexcel === 엑셀 수출 접수
+table_whatsappreceive_exportpdf === PDF 내보내기 수신
+table_whatsappreceive_replytitle === 번호에 답장
+table_waschedule_scheduletitle === 일정
+table_waschedule_detailstitle === 세부
+table_waschedule_detailsline1 === 반복: _8880_
+table_waschedule_detailsline2 === 계정:
+table_waschedule_detailsline3 === 여러 떼:
+table_waschedule_detailsline4 === 번호:
+table_waaccounts_loggedtitle === 로그인
+device_login_usevalidemail === 유효한 이메일 주소를 사용하세요!
+device_login_accountsuspended === 죄송합니다. 계정이 정지되었습니다!
+device_login_incorrectmailorpass === 잘못된 이메일 또는 비밀번호를 입력했습니다!
+device_login_nosubscription === 패키지 구독이 없습니다!
+device_login_nomoredevice === 더 이상 장치를 등록할 수 없습니다!
+device_scan_qrcodeinvalid === QRCode가 잘못되었습니다!
+device_scan_nosub === 패키지 구독이 없습니다!
+device_scan_usersuspended === 죄송합니다. 계정이 정지되었습니다!
+device_scan_nomoredevices === 더 이상 장치를 등록할 수 없습니다!
+device_report_smssentsuccess === 메시지 _8880_이(가) _8881_에서 전송되었습니다.
+device_report_smssentfailed === _8881_에서 메시지 _8880_을(를) 보내지 못했습니다.
+device_received_smsreceived === _8881_에서 새로운 _8880_을(를) 받았습니다.
+requests_resend_devicenotexist === 장치가 존재하지 않습니다!
+device_ussd_responsereceive === _8880_에서 USSD 응답을 받았습니다.
+device_notification_notireceive === _8880_에서 새 알림이 수신되었습니다.
+payment_success_unknowntx === 알려지지 않은
+payment_webhook_molliecreditsadded === 계정에 크레딧이 추가되었습니다!
+payment_webhook_paypalcreditsadded === 계정에 크레딧이 추가되었습니다!
+payment_webhook_unknowntn === 알려지지 않은
+mail_tpl_creditstitle === 안녕하세요,
+mail_tpl_creditsdesc === 귀하는 크레딧을 구매했으며 귀하의 계정에 총 _8880_의 크레딧을 제공했으며 즉시 사용할 수 있습니다.
+mail_tpl_creditstnx === 고맙습니다!
+mail_tpl_poweredby === _8880_ 제공
+forgot_response_recoverysent === 검색 지침이 _8880_(으)로 전송되었습니다.
+forgot_response_recoveryfail === 이메일을 보낼 수 없습니다!
+cron_package_expired === 패키지 구독이 만료되었습니다!
+cron_package_expiring === 패키지 구독이 5일 후에 만료됩니다!
+table_waaccounts_waidtitle === 왓츠앱 아이디
+table_waaccounts_wauniquetitle === 고유 ID
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === 그룹스 클립보드 복사 _8880_
+table_contactssaved_exportexcel === 그룹 엑셀 내보내기 _8880_
+table_contactssaved_exportpdf === 그룹스 PDF 내보내기 _8880_
+table_contactssaved_grouptitle === 여러 떼
+table_contactsgroups_gidtitle === 그룹 ID
+table_contactsunsub_exportcopy === 구독하지 않은 클립보드 복사 _8880_
+table_contactsunsub_exportexcel === 구독하지 않은 Excel 내보내기 _8880_
+table_contactsunsub_exportpdf === 구독하지 않은 PDF 내보내기 _8880_
+table_toolskeys_createdtitle === 만들어진
+table_toolskeys_copyapisecret === API 암호를 클립보드에 복사
+table_toolswebhooks_createtitle === 만들어진
+table_tootlswebhooks_eventstitle === 이벤트
+table_toolswebhooks_simulatebtn === 방아쇠
+table_toolswebhooks_simulatedesc === 웹훅 요청 시뮬레이션
+table_toolswebhooks_copywebhooksecret === 웹훅 비밀을 클립보드에 복사
+table_toolsactions_createtitle === 만들어진
+table_toolsactions_detailstitle === 세부
+table_toolsactions_typehook === 훅
+table_toolsactions_typeautoreply === 자동응답
+table_toolsactions_source === 출처: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === 왓츠앱
+table_toolsactions_event === 이벤트: _8880_
+table_toolsactions_eventonsend === 보낼 때
+table_toolsactions_eventonreceive === 수신 시
+table_toolsactions_link === 링크:
+table_toolsactions_keywords === 키워드:
+table_toolsactions_message === 메시지:
+table_toolsactions_type === 유형: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === 만들어진
+table_ratespartners_countrytitle === 국가
+table_ratespartners_detailstitle === 장치 세부 정보
+table_ratespartners_ratetitle === 메시지 비율
+table_ratespartners_prioritytitle === 우선 사항
+table_ratespartners_simtitle === 허용된 SIM 슬롯
+table_ratespartners_name === 이름:
+table_ratespartners_owner === 소유자:
+table_ratespartners_localrate === 현지 요금:
+table_ratespartners_convertedrate === 환산율:
+table_ratespartners_simdual === SIM 1 및 SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === 사용자 클립보드 복사 _8880_
+table_adminusers_exportexcel === 사용자 Excel 내보내기 _8880_
+table_adminusers_exportpdf === 사용자 PDF 내보내기 _8880_
+table_adminusersexportdata === 역할: _8880_, 국가: _8881_, 언어: _8882_, 시간대: _8883_, 수입: _8884_, 크레딧: _8885_, 구독: _8886_, 사운드: _8887_, 일시 중단됨: _8888_
+table_adminusers_exportdata1 === 역할: _8880_
+table_adminusers_exportdata2 === 국가: _8880_
+table_adminusers_exportdata3 === 언어: _8880_
+table_adminusers_exportdata4 === 시간대:
+table_adminusers_exportdata5 === 수입: _8880_
+table_adminusers_exportdata6 === 크레딧: _8880_
+table_adminusers_exportdata7 === 신청:
+table_adminusers_exportdata8 === 소리: _8880_
+table_adminusers_exportdata9 === 정지: _8880_
+table_adminusers_unsuspendaccount === 이 계정 정지 해제
+table_adminusers_suspendaccount === 이 계정 정지
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === 만들어진
+table_adminpackages_detailstitle === 패키지 세부 정보
+table_adminpackages_freelabel === 무료
+table_unlimited_data === 제한 없는
+table_adminpackages_labeldetails1 === 숨겨진:
+table_adminpackages_labeldetails2 === 바닥글 표시:
+table_adminpackages_labeldetails3 === SMS 전송 제한:
+table_adminpackages_labeldetails4 === SMS 수신 제한:
+table_adminpackages_labeldetails5 === WhatsApp 보내기 제한:
+table_adminpackages_labeldetails6 === WhatsApp 수신 제한:
+table_adminpackages_labeldetails7 === WhatsApp 계정 한도:
+table_adminpackages_labeldetails8 === USSD 한도:
+table_adminpackages_labeldetails9 === 알림 제한:
+table_adminpackages_labeldetails10 === 장치 제한:
+table_adminpackages_labeldetails11 === 접촉 제한:
+table_adminpackages_labeldetails12 === API 키 제한:
+table_adminpackages_labeldetails13 === 웹훅 제한:
+table_adminpackages_labeldetails14 === 작업 제한:
+table_adminpackages_labeldetails15 === 예정된 한도:
+table_adminvouchers_exportcopy === 상품권 클립보드 복사 _8880_
+table_adminvouchers_exportexcel === 상품권 Excel 내보내기 _8880_
+table_adminvouchers_exportpdf === 상품권 PDF 내보내기 _8880_
+table_adminvouchers_createdtitle === 만들어진
+table_adminvouchers_codetitle === 코드를 사용
+table_adminvouchers_copycode === 클립보드에 쿠폰 코드 복사
+table_adminsubscriptions_createdtitle === 만들어진
+table_admintransactions_createdtitle === 만들어진
+table_admintransactions_itemtitle === 안건
+table_admintransactions_amounttitle === 양
+table_admintransactions_durationtitle === 지속
+table_admintransactions_creditslabel === 크레딧
+table_admintransactions_monthslabel === _8880_ 개월
+table_adminpayouts_createdtitle === 만들어진
+table_adminpayouts_partnertitle === 파트너
+table_adminpayouts_amounttitle === 양
+table_adminpayouts_addresstitle === 지불 주소
+table_adminpayouts_optionstitle === 옵션
+table_adminpayouts_approve === 지불 요청을 지불됨으로 표시
+table_adminpayouts_reject === 지불 요청 거부
+table_adminwidgets_createdtitle === 만들어진
+table_adminwidgets_typeblock === 차단하다
+table_adminwidgets_typemodal === 모달
+table_adminwidgets_copywidgethook === 위젯 후크를 클립보드에 복사
+table_adminpages_createdtitle === 만들어진
+table_adminpages_optionstitle === 옵션
+table_adminpages_copypagehook === 클립보드에 페이지 후크 복사
+table_adminmarketing_createdtitle === 만들어진
+table_adminmarketing_typetitle === 유형
+table_adminmarketing_titletitle === 제목
+table_adminmarketing_contenttitle === 콘텐츠
+table_adminmarketing_recipientstitle === 수신자
+table_adminmarketing_optionstitle === 옵션
+table_adminmarketing_notifylabel === 알림
+table_adminmarketing_mailerlabel === 우편 발신인
+table_adminmarketing_pushlabel === 푸시
+table_adminmarketing_roleslabel === 역할:
+table_adminmarketing_userslabel === 사용자:
+table_admingateways_createdtitle === 만들어진
+table_admingateways_nametitle === 이름
+table_admingateways_pricingtitle === 가격
+table_admingateways_optionstitle === 옵션
+table_admingateways_invalidjson === 잘못된 JSON 형식입니다!
+table_admingateways_defaultprice === 기본 가격: _8880_
+table_admingateways_percountryprcie === 국가별 가격:
+table_adminshorteners_createdtitle === 만들어진
+table_adminshorteners_nametitle === 이름
+table_adminshorteners_optionstitle === 옵션
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === 설치된 버전
+table_adminplugins_actionstitle === 행위
+table_adminplugins_updatedesc === 이 플러그인 업데이트
+table_adminplugins_editdesc === 플러그인 옵션 수정
+table_adminplugins_removedesc === 이 플러그인 제거
+whatsapp_sent_sentsuccess === WhatsApp 채팅 _8880_이(가) 전송되었습니다!
+whatsapp_sent_sentfailed === 채팅 _8880_ 전송에 실패했습니다!
+whatsapp_received_chat === 새로운 채팅 _8880_이(가) 수신되었습니다!
+widget_systemupdate_title === 시스템 업데이트
+widget_systemupdate_loader === 시스템 업데이트
+widget_systemupdate_requireupdate === 업데이트 파일은 비워둘 수 없습니다!
+requests_systemupdate_faileduploadingfile === 업데이트 파일 업로드 실패!
+widget_usersettings_loader === 계정 설정 저장
+widget_payment_title === 지불
+widget_payment_creditamountnotless === 크레딧 금액은 10보다 작을 수 없습니다!
+widget_payment_creditslabel === 크레딧
+widget_view_contentremoved === 콘텐츠가 삭제되었습니다!
+widget_redeem_title === 상환하다
+widget_redeem_loader === 바우처 코드 확인
+widget_addcredits_title === 크레딧 추가
+widget_addpayout_title === 지불 요청
+widget_addpayout_loader === 지불 요청 생성
+widget_addpayout_requireamount === 금액은 비워둘 수 없습니다!
+widget_addpayout_requireprovider === 결제 제공자는 비워둘 수 없습니다!
+widget_addpayout_requireaddress === 지불 주소는 비워둘 수 없습니다!
+widget_smsquick_loader === 대기열에 메시지 추가
+widget_smsbulk_loader === 대기열에 메시지 추가
+widget_smsexcel_loader === Excel 파일에서 대기열로 메시지 추가
+widget_addsmsscheduled_loader === 예약된 메시지 저장
+widget_editscheduled_title === 일정 수정
+widget_editscheduled_loader === 예약된 메시지 저장
+widget_addussd_title === USSD 요청
+widget_addussd_loader === 대기열에 usd 요청 추가
+widget_editdevice_title === 장치 편집
+widget_editdevice_loader === 장치 변경 사항 저장
+widget_waquick_title === 빠른 채팅
+widget_waquick_loader === 대기열에 Whatsapp 채팅 추가
+widget_waquick_requireaccount === WhatsApp 계정이 필요합니다!
+widget_wabulk_title === 대량 채팅
+widget_wabulk_loader === 대기열에 Whatsapp 채팅 추가
+widget_waexcel_title === Excel로 대량 채팅
+widget_waexcel_loader === 대기열에 Whatsapp 채팅 추가
+widget_wascheduled_title === 채팅 예약
+widget_wascheduled_loader === 대기열에 Whatsapp 채팅 추가
+widget_wascheduled_requireaccount === WhatsApp 계정이 필요합니다!
+widget_waeditscheduled_title === 일정 수정
+widget_waeditscheduled_loader === 대기열에 Whatsapp 채팅 추가
+widget_waeditscheduled_requireaccount === WhatsApp 계정이 필요합니다!
+widget_waaddaccount_title === 계정을 추가
+widget_importcontacts_loaded === 엑셀 파일에서 연락처 가져오기
+widget_addcontact_loader === 새 연락처 항목 만들기
+default_pricecolumns_monthlabel === 월
+default_pricecolumns_dailylabel === 일일
+default_pricecolumns_monthlylabel === 월간 간행물
+default_pricecolumns_unlimitedlabel === 제한 없는
+form_literal_spintaxdesc2 === _8880_ 및 _8881_ 값은 무작위로 사용됩니다.
+dashboard_packagesmodal_smssend === SMS 보내기
+default_footerquote_obama === 되는 것은 어딘가에 도착하거나 특정 목표를 달성하는 것이 아닙니다. 나는 그것을 전진 운동, 진화의 수단, 더 나은 자아를 향해 지속적으로 도달하는 방법으로 봅니다. 여행은 끝나지 않습니다.
+widgets_editcontact_loader === 연락처 변경 사항 저장
+widgets_addgroup_loader === 새 그룹 항목 만들기
+widgets_editgroup_loader === 그룹 변경 사항 저장
+widgets_addapikey_loader === 새 API 키 생성
+widgets_editapikey_loader === API 키 변경 사항 저장
+widgets_addwebhook_title === 웹훅 추가
+widgets_addwebhook_loader === 새 웹훅 만들기
+widgets_addwebhook_requireevents === 이벤트는 비워둘 수 없습니다!
+widgets_editwebhook_loader === 웹훅 변경 사항 저장
+widgets_addhook_loader === 새로운 후크 액션 생성
+widgets_edithook_loader === 후크 작업 변경 사항 저장
+widgets_addautoreply_loader === 새 자동 회신 작업 만들기
+widgets_editautoreply_loader === 자동 회신 작업 변경 사항 저장
+widgets_addtemplate_loader === 새 메시지 템플릿 만들기
+widgets_edittemplate_loader === 템플릿 변경 사항 저장
+widgets_adminbuilder_loader === 빌더 설정 저장
+widgets_adminsettings_loader === 시스템 설정 저장
+widgets_admintheme_loader === 테마 설정 저장
+widgets_adduser_loader === 새 사용자 계정 만들기
+widgets_edituser_loader === 사용자 계정 변경 사항 저장
+widgets_addrole_loader === 새 사용자 역할 생성
+widgets_addrole_title === 역할 추가
+widgets_editrole_loader === 사용자 역할 변경 사항 저장
+widgets_addpackage_loader === 새 시스템 패키지 만들기
+widgets_editpackage_loader === 패키지 변경 사항 저장
+widgets_addvoucher_loader === 새 상품권 만들기
+widgets_addsubscription_loader === 새 사용자 구독 만들기
+widgets_addwidgets_loader === 새 위젯 만들기
+widgets_editwidget_loader === 위젯 변경 사항 저장
+widgets_addpage_loader === 새 페이지 만들기
+widgets_editpage_loader === 페이지 변경 사항 저장
+widgets_addpush_title === 푸시 브로드캐스트
+widgets_addpush_loader === 푸시 알림 방송
+widgets_addpush_requiretitle === 제목은 비워둘 수 없습니다!
+widgets_addpush_requiremessage === 메시지는 비워둘 수 없습니다!
+widgets_addnotify_title === 브로드캐스트 알림
+widgets_addnotify_loader === 실시간 알림 방송
+widgets_addnotify_requiretitle === 제목은 비워둘 수 없습니다!
+widgets_addnotify_requiremessage === 메시지는 비워둘 수 없습니다!
+widgets_addmailer_title === 대량 메일러
+widgets_addmailer_loader === 이메일 메시지 보내기
+widgets_addmailer_requiretitle === 제목은 비워둘 수 없습니다!
+widgets_addlanguage_loader === 새 언어 추가
+widgets_editlanguage_loader === 언어 변경 사항 저장
+widgets_addgateway_title === 게이트웨이 추가
+widgets_addgateway_loader === 새 게이트웨이 추가
+widgets_addgateway_requirename === 게이트웨이 이름은 비워둘 수 없습니다!
+widgets_editgateway_title === 게이트웨이 수정
+widgets_editgateway_loader === 게이트웨이 변경사항 저장
+widgets_editgateway_requirename === 게이트웨이 이름은 비워둘 수 없습니다!
+widgets_addshortener_title === 쇼트너 추가
+widgets_addshortener_loader === 새로운 쇼트너 추가
+widgets_addshortener_requirename === 단축기 이름은 비워둘 수 없습니다!
+widgets_editshortener_title === 단축기 편집
+widgets_editshortener_loader === 단축기 변경 사항 저장
+widgets_editshortener_requirename === 단축기 이름은 비워둘 수 없습니다!
+widgets_editplugin_loader === 시스템에 플러그인 변경 사항 적용
+widgets_updateplugin_title === 플러그인 업데이트
+widgets_updateplugin_loader === 플러그인 업데이트 중
+device_backgroundpage_line1 === 백그라운드에서 실행
+device_backgroundpage_line2 === 게이트웨이 앱이 백그라운드에서 실행되어야 하는 이유는 무엇입니까?
+device_backgroundpage_line3 === 앱은 보내고 받을 새 메시지를 계속 수신 대기하려면 백그라운드에서 실행해야 하며 새 알림을 처리하는 데도 필요합니다. 알림이 필요하지 않은 경우 앱 설정에서 이 기능을 비활성화할 수 있습니다. 비활성화하면 시스템이 장치에서 알림 데이터를 수신하지 못하게 됩니다.
+device_backgroundpage_line4 === Avast, Eset 등과 같은 타사 보안 앱이 있는 경우. 예외에 게이트웨이 앱을 추가하세요.
+device_backgroundpage_line5 === 다음 목록에서 휴대폰 브랜드에 대한 적절한 가이드를 읽으십시오.
+device_backgroundpage_line6 === 샤오미 MIUI
+device_backgroundpage_line7 === 배터리 세이버
+device_backgroundpage_line8 === 1. 설정을 엽니다.
+device_backgroundpage_line9 === 2. "배터리 및 성능"을 선택합니다.
+device_backgroundpage_line10 === 3. "앱 선택"을 선택합니다.
+device_backgroundpage_line11 === 4. _8880_을 찾아 백그라운드 설정에서 "제한 없음"을 선택하십시오.
+device_backgroundpage_line12 === 앱 잠금
+device_backgroundpage_line13 === 1. 메뉴 버튼을 눌러 최근 페이지로 이동합니다.
+device_backgroundpage_line14 === 2. _8880_ 카드를 선택하고 잠급니다.
+device_backgroundpage_line15 === 화웨이 EMUI
+device_backgroundpage_line16 === 배터리 세이버
+device_backgroundpage_line17 === 1. 설정을 엽니다.
+device_backgroundpage_line18 === 2. 고급 설정을 선택합니다.
+device_backgroundpage_line19 === 3. 배터리 관리자를 선택합니다.
+device_backgroundpage_line20 === 4. 보호된 앱을 선택합니다.
+device_backgroundpage_line21 === 5. _8880_을 찾아 스위치를 켭니다.
+device_backgroundpage_line22 === EMUI 버전이 최근 업데이트된 경우 설정에서 변경할 필요가 없습니다.
+device_backgroundpage_line23 === 앱 잠금
+device_backgroundpage_line24 === 1. 메뉴 버튼을 누르고 최근 페이지로 들어갑니다.
+device_backgroundpage_line25 === 2. 잠금 아이콘이 나타날 때까지 _8880_을 아래로 당깁니다.
+device_backgroundpage_line26 === 삼성
+device_backgroundpage_line27 === 배터리 세이버
+device_backgroundpage_line28 === 1. 스마트 매니저를 누릅니다.
+device_backgroundpage_line29 === 2. 배터리를 선택하고 탭하여 설정 페이지로 들어갑니다.
+device_backgroundpage_line30 === 3. 모니터링되지 않는 앱을 ​​누르고 _8880_을 찾은 다음 눌러 들어갑니다.
+device_backgroundpage_line31 === 4. 배터리를 누르고 배터리 사용 최적화를 누릅니다.
+device_backgroundpage_line32 === 5. 모든 앱을 선택하고 _8880_을 찾아 스위치를 끕니다.
+device_backgroundpage_line33 === 앱 잠금
+device_backgroundpage_line34 === 1. 메뉴 버튼을 누르고 최근에 연 프로그램 페이지로 들어갑니다.
+device_backgroundpage_line35 === 2. 더 보기 아이콘을 눌러 앱 잠금을 선택합니다.
+device_backgroundpage_line36 === 3. _8880_의 자물쇠 아이콘을 탭하세요.
+device_backgroundpage_line37 === 4. 완료를 눌러 작업을 완료합니다.
+device_backgroundpage_line38 === 메이즈 플라임
+device_backgroundpage_line39 === 앱 잠금
+device_backgroundpage_line40 === 1. 홈 화면의 왼쪽에서 위로 스와이프하여 "최근"으로 들어갑니다.
+device_backgroundpage_line41 === 2. 잠금 아이콘이 나타날 때까지 _8880_을 길게 누릅니다.
+device_backgroundpage_line42 === 오포 컬러OS
+device_backgroundpage_line43 === 배터리 세이버
+device_backgroundpage_line44 === 1. 설정을 열고 배터리를 탭합니다.
+device_backgroundpage_line45 === 2. 에너지 절약을 탭합니다.
+device_backgroundpage_line46 === 3. _8880_을 찾아 백그라운드 정지 및 비정상적인 앱 최적화를 끕니다.
+device_backgroundpage_line47 === 위 단계를 완료한 후에도 설정할 수 없으면 다음을 시도하십시오.
+device_backgroundpage_line48 === 1. 전화 관리자를 열고 깨끗한 배경을 찾으십시오.
+device_backgroundpage_line49 === 2. 탭하여 앱을 추가합니다.
+device_backgroundpage_line50 === 3. _8880_을 선택하고 확인을 누릅니다.
+device_backgroundpage_line51 === 앱 잠금
+device_backgroundpage_line52 === 1. 메뉴 버튼을 누르고 최근 페이지로 들어갑니다.
+device_backgroundpage_line53 === 2. 잠금 아이콘이 나타날 때까지 _8880_을 아래로 당깁니다.
+device_backgroundpage_line54 === 비보 펀터치OS
+device_backgroundpage_line55 === 배터리 세이버
+device_backgroundpage_line56 === 1. 관리자를 열고 전원 관리자를 누릅니다.
+device_backgroundpage_line57 === 2. Backstage 전원을 선택합니다.
+device_backgroundpage_line58 === 3. _8880_을 찾아 스위치를 켭니다.
+device_backgroundpage_line59 === 앱 잠금
+device_backgroundpage_line60 === 1. 메뉴 버튼을 누르고 최근 페이지로 들어갑니다.
+device_backgroundpage_line61 === 2. 잠금 아이콘이 나타날 때까지 _8880_을 아래로 당깁니다.
+device_backgroundpage_line62 === 스마티산 OS
+device_backgroundpage_line63 === 배터리 세이버
+device_backgroundpage_line64 === 1. 전화 관리자를 엽니다.
+device_backgroundpage_line65 === 2. 앱 배터리 사용 최적화를 탭합니다.
+device_backgroundpage_line66 === 3. _8880_을 찾아 스위치를 끕니다.
+device_backgroundpage_line67 === 앱 잠금
+device_backgroundpage_line68 === 1. 메뉴 버튼을 두 번 누르고 최근 페이지로 들어갑니다.
+device_backgroundpage_line69 === 2. 압정 아이콘이 나타날 때까지 _8880_을 길게 누릅니다.
+device_backgroundpage_line70 === 기타 브랜드
+device_backgroundpage_line71 === 1. 최근 항목에서 _8880_ 앱을 잠급니다.
+device_backgroundpage_line72 === 2. 예외에 _8880_을 추가합니다.
+device_backgroundpage_line73 === 3. 다른 시작 관리자를 설치했다면 차단 목록에서 _8880_을(를) 제거하십시오.
+dashboard_adminmarketing_pushbtndesc === 장치에 푸시 알림 브로드캐스트
+dashboard_adminmarketing_notifybtndesc === 사용자에게 브라우저 알림 브로드캐스트
+dashboard_adminmarketing_mailerbtndesc === 사용자에게 대량 이메일 보내기
+js_loader_pleasewait === 기다리세요
+js_userstatus_online === 온라인
+js_userstatus_offline === 오프라인
+js_whatsapp_linksuccess === WhatsApp 계정이 성공적으로 연결되었습니다!
+js_whatsapp_linkfailed === WhatsApp 계정 연결에 실패했습니다!
+js_whatsapp_linkexist === WhatsApp은 이미 귀하의 계정에 연결되었습니다!
+js_whatsapp_loaderprocessing === 처리 요청
+js_clearpending_title === 보류 중인 항목을 지우시겠습니까?
+js_clearpending_desc === 보내기를 기다리는 모든 항목이 지워지고 삭제됩니다!
+js_clearpending_processing === 처리 요청
+js_authenticate_processing === 처리 요청
+js_actiontrigger_title === 웹훅 시뮬레이션
+js_actiontrigger_typetitle === 데이터 형식
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === 왓츠앱
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === 공고
+js_actiontrigger_loader === 웹훅 시뮬레이션
+js_actiontranslator_title === 역자
+js_actiontranslator_from === 번역 출처
+js_actiontranslator_to === 번역
+js_actiontranslator_loader === 메시지 번역
+js_actionregen_title === 시스템 토큰을 재생성하시겠습니까?
+js_actionregen_desc === 새 시스템 토큰을 만드는 것은 되돌릴 수 없습니다!
+js_actionregen_loader === 토큰 생성
+js_actionclear_title === 캐시를 지우시겠습니까?
+js_actionclear_desc === 모든 시스템 캐시 데이터가 지워집니다!
+js_processing_dataloader === 처리 요청
+js_build_title === 새 APK를 빌드하시겠습니까?
+js_build_desc === 빌더 설정을 올바르게 구성했는지 확인하십시오!
+js_build_btnbuild === 짓다
+js_reorder_title === 언어를 재정렬하시겠습니까?
+js_reorder_desc === 언어가 재정렬됩니다. 이 작업은 취소할 수 없습니다.
+js_deletetrash_title === 항목을 삭제하시겠습니까?
+js_deletetrash_desc === 선택한 항목을 삭제하시겠습니까?
+js_tablesexport_copy === 클립보드
+js_tablesexport_excel === 엑셀 내보내기
+js_tablesexport_pdf === PDF 내보내기
+mail_expiredtpl_line1 === 안녕하세요,
+mail_expiredtpl_line2 === 활성 프리미엄 패키지 구독이 이미 만료되었기 때문에 이 메시지를 받았습니다!
+mail_expiredtpl_line3 === 구독이 삭제되었습니다. 프리미엄 패키지를 다시 구독하려면 당사 사이트를 방문하십시오.
+mail_expiredtpl_line4 === 질문 및 문제가 있는 경우 주저하지 말고 저희에게 연락하십시오!
+mail_expiredtpl_line5 === 고맙습니다!
+mail_expiringtpl_line1 === 안녕하세요,
+mail_expiringtpl_line2 === 활성 프리미엄 패키지 구독이 5일 후에 만료된다는 친절한 알림입니다!
+mail_expiringtpl_line3 === 서비스 중단을 방지하려면 프리미엄 패키지에 다시 가입하는 것을 잊지 마십시오. 다시 주문하려면 당사 사이트를 방문하십시오.
+mail_expiringtpl_line4 === 질문 및 문제가 있는 경우 주저하지 말고 저희에게 연락하십시오!
+mail_expiringtpl_line5 === 고맙습니다!
+mail_failedtpl_line1 === 안녕하세요,
+mail_failedtpl_line2 === 결제 거래를 처리할 수 없습니다. 다른 제공업체나 결제 수단을 사용하여 다시 시도해 주세요.
+mail_failedtpl_line3 === 결제 ID:
+mail_failedtpl_line4 === 불편을 드려 죄송합니다.
+mail_forgottpl_line1 === 안녕하세요,
+mail_forgottpl_line2 === 귀하의 계정에 대한 계정 검색 요청이 접수되었습니다. 이 임시 비밀번호를 사용하여 로그인하십시오.
+mail_forgottpl_line3 === 로그인 후 비밀번호 변경을 잊지 마세요!
+mail_forgottpl_line4 === 비밀번호는 10분 후에 만료됩니다. 서둘러 주세요. 요청하지 않은 경우 이 이메일을 무시하십시오.
+mail_forgottpl_line5 === 고맙습니다! 효과가 있기를 바랍니다.
+mail_payoutpaidtpl_line1 === 안녕하세요,
+mail_payoutpaidtpl_line2 === 당사 팀에서 귀하의 지불 요청을 귀하의 주소와 선택한 지불 제공업체로 보냈습니다.
+mail_payoutpaidtpl_line3 === 양:
+mail_payoutpaidtpl_line4 === 즐거운 지출!
+mail_payoutrejecttpl_line1 === 안녕하세요,
+mail_payoutrejecttpl_line2 === 지급 요청을 처리할 수 없습니다. 수취인 주소에 문제가 있을 수 있습니다. 자세한 내용은 당사 팀에 문의하십시오.
+mail_payoutrejecttpl_line3 === 양:
+mail_payoutrejecttpl_line4 === 불편을 드려 죄송합니다.
+mail_subscribetpl_line1 === 안녕하세요,
+mail_subscribetpl_line2 === 프리미엄 패키지 중 하나를 구독해 주셔서 감사합니다. 구매 내역은 다음과 같습니다.
+mail_subscribetpl_line3 === _8880_ 패키지
+mail_subscribetpl_line4 === 이 구독은 _8880_ 후에 만료됩니다.
+mail_subscribetpl_line5 === 이는 즉시 적용됩니다. 질문 및 문제가 있는 경우 주저하지 말고 저희에게 연락하십시오!
+mail_subscribetpl_line6 === 고맙습니다!
+requests_build_submitrequest === 처리 요청
+requests_reorder_loader === 처리 요청
+requests_deleteitem_loader === 처리 요청
+requests_packageform_invalidint === 일부 필드에 잘못된 정수가 있습니다!
+widgets_viewbank_title === 은행 송금
+modal_paymentbtn_banktransfer === 은행 송금
+modal_adminsettings_banktransfer1 === 은행 송금 템플릿
+modal_adminsettings_banktransfer2 === 결제 옵션에서 은행 송금을 활성화한 경우 템플릿을 만들어야 합니다. 사용자가 버튼을 클릭했을 때 이 템플릿이 표시됩니다. 여기에 지침과 은행 주소를 추가할 수 있습니다. HTML이 허용됩니다.
+modal_adminsettings_banktransfer3 === 은행 송금 템플릿에서 사용할 수 있는 변수 집합입니다.
+requests_delete_pluginssuccess === 플러그인이 성공적으로 삭제되었습니다!
+table_whatsappreceived_chattitle === 채팅
+table_whatsappreceived_accounttitle === 계정
+tabs_whatsappaccounts_titleheader === WhatsApp 계정
+form_editwhatsapp_randominterval === 무작위 전송 간격
+form_editwhatsapp_randomintervalhelp === 활성화하면 채팅이 2개의 값 사이에서 임의의 간격으로 전송됩니다. 아래에서 구성할 수 있습니다.
+form_editwhatsapp_randommin === 최소 전송 간격
+form_editwhatsapp_randomminhelp === 최소 전송 간격(초)입니다.
+form_editwhatsapp_randommax === 전송 간격 최대
+form_editwhatsapp_randommaxhelp === 최대 전송 간격(초).
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === WhatsApp 편집
+widgets_editwhatsapp_loader === Whatsapp 계정 변경 사항 저장
+mail_waunlink_title === WhatsApp 계정이 연결 해제되었습니다!
+mail_waunlink_contentline1 === 안녕하세요!
+mail_waunlink_contentline2 === 연결된 WhatsApp 계정 중 하나가 다음 고유 ID로 제거되었습니다.
+mail_waunlink_contentline3 === 이 계정은 WhatsApp 관련 이벤트로 인해 더 이상 시스템에 연결되지 않습니다. 다시 연결하십시오.
+mail_waunlink_contentline4 === 고맙습니다!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === 핸드폰
+form_btnall_visitlink === 방문
+unsubscribe_header_title === 구독 취소
+unsubscribe_content_title === 구독 취소
+unsubscribe_content_desc === 당신은 우리의 발신 목록에서 탈퇴했습니다.
+requests_editwhatsapp_success === WhatsApp 계정이 업데이트되었습니다!
+form_addusertpl_credits === 크레딧
+form_addusertpl_creditsdesc === 이 사용자 계정에 대한 시작 크레딧입니다.
+form_addusertpl_creditsdesc2 === 이 사용자 계정의 크레딧을 수정하십시오.
+form_registerconfirm_desc === 이메일 주소가 성공적으로 확인되었습니다. 아래 버튼을 사용하여 계정에 로그인할 수 있습니다.
+requests_loginnotverified_response === 계정 이메일 주소가 아직 확인되지 않았습니다. 다음 주소로 확인 링크를 보냈습니다: _8880_
+requests_loginnotverified_response2 === 귀하의 계정이 성공적으로 등록되었습니다. 사용하기 전에 이메일 주소를 확인해야 합니다. 다음 주소로 확인 링크를 보냈습니다: _8880_
+requests_loginnotverified_responseunable === 확인 이메일을 보낼 수 없습니다!
+requests_loginnotverified_emailtitle === _8880_에 오신 것을 환영합니다! 여기에서 계정의 이메일 주소를 확인하십시오.
+requests_loginnotverified_emaildesc1 === 안녕하세요!
+requests_loginnotverified_emaildesc2 === 계정을 만들어 주셔서 감사합니다. 다음 링크를 방문하여 이메일 주소를 확인하십시오.
+requests_loginnotverified_emaildesc3 === 고맙습니다!
+form_adminsettings_authredi === 인증 리디렉션
+form_adminsettings_authredidesc === 인증 성공 후 리디렉션 위치를 선택합니다.
+form_adminsettings_authredihomepage === 홈페이지
+form_adminsettings_authredidashboard === 계기반
+form_adminsettings_defaultcoun === 기본 국가
+form_adminsettings_defaultcoundesc === 사용자 등록 양식에서 기본적으로 선택된 국가.
+form_adminsettings_defaulttimezo === 기본 시간대
+form_adminsettings_defaulttimezodesc === 사용자 등록 양식에서 기본적으로 선택된 시간대.
+form_adminsettings_mailingtrig === 메일링 트리거
+form_adminsettings_mailingtrigdesc === 활성화할 메일링 트리거를 선택하세요.
+form_adminsettings_adminemail === 관리자 이메일
+form_adminsettings_adminemaildesc === 관리자에 대한 메일링 트리거 메시지는 이 이메일 주소로 전송됩니다. 이 메시지는 영어로만 제공되며 번역할 수 없습니다.
+form_adminsettings_recaptchatitle === 요약
+form_adminsettings_recaptchadesc === 활성화되면 등록, 로그인 및 비밀번호 분실과 같은 인증 양식에 recaptcha가 표시됩니다.
+form_editdevice_receiveoptiontitle === SMS 수신
+form_editdevice_receiveoptiondesc === 비활성화하면 Android 받은 편지함에서 받은 메시지가 시스템에 저장되지 않습니다. 웹훅 및 기타 관련 도구가 비활성화되면 장치에서 작동하지 않습니다.
+form_editwhatsapp_receiveoptiontitle === 채팅 받기
+form_editwhatsapp_receiveoptiondesc === 비활성화된 경우 Whatsapp 계정에서 받은 채팅은 시스템에 저장되지 않습니다. Webhook 및 기타 관련 도구가 비활성화되면 WhatsApp 계정에 대해 작동하지 않습니다.
+js_calendarall_option === 모두
+js_calendarall_apply === 적용하다
+js_calendarall_cancel === 취소
+js_calendarall_from === 에서
+js_calendarall_to === 에게
+js_calendarall_week === 여
+js_calendarall_daysu === 수
+js_calendarall_daymo === 모
+js_calendarall_daytu === 투
+js_calendarall_daywe === 우리
+js_calendarall_dayth === 일
+js_calendarall_dayfr === 정말로
+js_calendarall_daysa === 사
+js_calendarall_monjan === 1월
+js_calendarall_monfeb === 2월
+js_calendarall_monmar === 3월
+js_calendarall_monapr === 4월
+js_calendarall_monmay === 5월
+js_calendarall_monjun === 6월
+js_calendarall_monjul === 칠월
+js_calendarall_monaug === 팔월
+js_calendarall_monsep === 구월
+js_calendarall_monoct === 십월
+js_calendarall_monnov === 십일월
+js_calendarall_mondec === 12월
+response_ussddelete_success === USSD 요청이 삭제되었습니다!
+response_titanecho_invaltoken === 시스템 구성 오류!
+widgets_addplugin_loader === 시스템에 새 플러그인 설치
+widgets_addwhatsapp_newmodal === 버튼을 클릭하여 WhatsApp에 연결하여 QRCode를 표시한 다음 앱의 _8880_ 버튼을 통해 스캔하세요. QRCode를 스캔할 수 있는 시간은 단 15초입니다.
+widgets_addwhatsapp_newmodal2 === _8880_이(가) 만료되었습니다. 계정이 연결되었는지 여부는 아래 버튼을 클릭하십시오.
+widgets_addwhatsapp_newmodal3 === 계속하다
+widgets_addwhatsapp_newmodal4 === 취소
+datatable_addedtoclipboard === 클립보드에 추가됨
+datatable_addedtoclipboardkeys === 복사 버튼을 클릭하여 표시된 행을 클립보드에 추가합니다.
+datatable_addedtoclipboardmulti === 복사된 행:
+datatable_addedtoclipboardsingle === 1행 복사됨
+table_details_schedulednewrepeat === 반복하다:
+and_edit_dev_line70_1_new === 메시지당 청구하려는 금액, 기기 국가가 통화 기준으로 사용됩니다. 센트와 같은 부동 소수점 값도 지원됩니다.
+widget_waquick_requireaccountnew1 === WhatsApp 계정
+requests_whatsapp_notavail === WhatsApp 서버를 사용할 수 없습니다!
+requests_whatsapp_unablegenqr === WhatsApp QRCode를 생성할 수 없습니다!
+requests_charts_commisionstitle === 커미션
+requests_token_refreshecho === _8880_의 토큰이 새로 고쳐졌습니다!
+requests_remote_smscampaignresumed === SMS 캠페인이 재개되었습니다!
+requests_remote_smscampaignpaused === SMS 캠페인이 일시 중지되었습니다!
+requests_remote_wacampaignresumed === WhatsApp 캠페인이 재개되었습니다!
+requests_remote_wacampaignpaused === WhatsApp 캠페인이 일시 중지되었습니다!
+requests_create_payoutwithdrawalamountatleast === 출금 금액은 최소 _8880_ _8881_이어야 합니다!
+requests_sms_intervaltypereachedmax === 이 장치에 대해 _8880_ 허용된 메시지에 도달했습니다. 나중에 다시 시도하십시오!
+requests_sms_encounteredgatewayerror === 게이트웨이 오류가 발생했습니다!
+requests_sms_gatewaycannotsendowndevices === 자신의 기기를 사용하여 크레딧이 포함된 메시지를 보낼 수 없습니다!
+requests_create_encounteredshortenererror === 단축기 오류가 발생했습니다!
+requests_create_campaignnametooshort === 캠페인 이름이 너무 짧습니다!
+requests_sms_intervaltypedaily === 일일
+requests_sms_intervaltypemonthly === 월간 간행물
+requests_sms_reachedmaximumsentpackage === 현재 패키지의 최대 전송 메시지 수에 도달했습니다!
+response_message_bulkqueuednew === _8880_ 메시지가 전송 대기 중입니다!
+response_whatsapp_invalidmediafile === 잘못된 미디어 파일입니다!
+response_whatsapp_atleastonebutt === 버튼을 하나 이상 추가하세요!
+response_whatsapp_invalidimagefile === 잘못된 이미지 파일입니다!
+response_whatsapp_listtitlereq === 목록 제목은 필수 항목입니다!
+response_whatsapp_listmenureq === 목록 메뉴 제목은 필수 항목입니다!
+response_whatsapp_listformatreq === 목록 형식이 필요합니다!
+response_whatsapp_listformatinval === 목록 형식이 잘못되었습니다!
+response_whatsapp_tempformatreq === 템플릿 형식이 필요합니다!
+response_whatsapp_tempformatinval === 템플릿 형식이 잘못되었습니다!
+response_whatsapp_failedchatsqueue === WhatsApp 대기열에 채팅을 추가하지 못했습니다!
+response_whatsapp_bulkchatssentcount === _8880_ 채팅이 전송 대기 중입니다!
+response_whatsapp_failedchatsqueuemany === WhatsApp 대기열에 채팅을 추가하지 못했습니다!
+response_whatsapp_nochatsqueuedpacklimit === 죄송합니다. 대기열에 있는 채팅이 없습니다. 패키지 발송 한도를 확인하세요!
+response_whatsapp_successfetchgroups === _8880_ 그룹을 가져왔습니다!
+response_whatsapp_nogroupsfoundfetch === 그룹을 찾을 수 없습니다!
+response_partners_commisionerror === 파트너 커미션 비율은 1보다 작고 80보다 클 수 없습니다!
+response_delete_smsdeletecampaign === SMS 캠페인이 삭제되었습니다!
+response_delete_wacampaigndeleted === WhatsApp 캠페인이 삭제되었습니다!
+response_delete_wagroupdeleted === WhatsApp 그룹이 삭제되었습니다!
+table_smscampaign_createdtitle === 만들어진
+table_smscampaign_nametitle === 이름
+table_smscampaign_gatewaytitle === 게이트웨이
+table_smscampaign_contactstitle === 콘택트 렌즈
+table_smscampaign_statustitle === 상태
+table_smscampaign_optionstitle === 옵션
+table_campaign_completedstatus === 완전한
+table_smscagmpaign_processingstatus === _8880_ 중 _8881_ 처리됨
+table_campaign_pausecampaign === 이 캠페인 일시중지
+table_campaign_resumecampaign === 이 캠페인 재개
+table_smsscheduled_lastsendinfo === 마지막 보내기
+table_smstransac_createdtitle === 만들어진
+table_smstransac_sendertitle === 보내는 사람
+table_smstransac_devicetitle === 장치
+table_smstransac_messagetitle === 메시지
+table_smstransac_earningstitle === 수입
+table_smstransac_messageremoved === 메시지가 제거되었습니다!
+table_wacampaign_createdtitle === 만들어진
+table_wacampaign_nametitle === 이름
+table_wacampaign_accounttitle === 계정
+table_wacampaign_typetitle === 유형
+table_wacampaign_contactstitle === 콘택트 렌즈
+table_wacampaign_statustitle === 상태
+table_wacampaign_optionstitle === 옵션
+table_wacampaign_processingstatus === _8880_ 중 _8881_ 처리됨
+table_wascheduled_lastsendinfo === 마지막 보내기
+table_campaign_pendingstatus === 보류 중
+table_wagroups_nametitle === 이름
+table_wagroups_accounttitle === 계정
+table_wagroups_addresstitle === 그룹 주소
+table_wagroups_optionstitle === 옵션
+table_waaccounts_statustitle === 상태
+table_waaccounts_statusconnected === 연결됨
+table_waaccounts_statusconnecting === 연결 중
+table_waaccounts_statusdisconnecting === 연결 해제
+table_waaccounts_statusdisconnected === 연결 끊김
+table_waaccounts_statuserror === 오류
+table_waaccounts_copyaccountid === 계정 ID 복사
+table_android_brandtitle === 상표
+table_android_partnertitle === 파트너
+table_android_statustitle === 상태
+table_android_statusonline === 온라인
+table_android_statusoffline === 오프라인
+table_android_copydeviceid === 기기 고유 ID 복사
+table_partnerrates_devicename === 장치 이름
+widget_fetchgroups_titlefetch === 그룹 가져오기
+widget_fetchgroups_loaderfetch === 계정에서 그룹 가져오기
+pages_admin_tokenrefreshbutt === 토큰
+pages_admin_tokenrefreshbutthelp === 소켓 통신 토큰을 새로 고칩니다. 시스템이 라이브 토스트 알림을 표시하지 않거나 실시간으로 업데이트되지 않는 경우 이 버튼을 클릭하십시오.
+pages_admin_cachehelp === 전체 시스템 캐시를 지웁니다. 경고! API, 인증 및 결제와 관련된 캐시도 지워집니다. 시스템을 업그레이드할 때만 이 작업을 수행하는 것이 좋습니다.
+pages_admin_themehelp === 사이트 템플릿 및 디자인을 수정합니다.
+pages_admin_systemsettingshelp === 중요한 시스템 설정을 조정합니다.
+pages_sms_campaignstab === 캠페인
+pages_sms_partnertransactions === 업무
+pages_whatsapp_campaignstab === 캠페인
+pages_whatsapp_groupstab === 여러 떼
+forms_repeatdays_title === 반복 일
+forms_repeatdays_tagline === 메시지를 다시 보낼 때까지 기다리는 일 수를 입력합니다. 매년 같은 월, 일, 시간에 반복하려면 365를 입력하고, 그렇지 않은 경우 시간만 따릅니다. 반복을 비활성화하려면 0을 입력합니다.
+forms_whatsapp_messagetype === 메시지 유형
+forms_whatsapp_messagetypehelp === WhatsApp 메시지 유형을 선택하십시오.
+forms_whatsapp_typetext === 텍스트
+forms_whatsapp_typemedia === 미디어
+forms_whatsapp_typebutton === 단추
+forms_whatsapp_typelist === 목록
+forms_whatsapp_typetemplate === 주형
+forms_whatsapp_mediafile === 미디어 파일
+forms_whatsapp_mediafilehelp === 미디어 파일, 업로드할 미디어 파일입니다. .jpg, .png, .gif 및 .mp4 파일을 지원합니다.
+forms_whatsapp_imagefile === 이미지 파일
+forms_whatsapp_imagefilehelp === 사용자 정의 이미지 파일, 이것은 선택 사항입니다.
+forms_whatsapp_buttons === 버튼
+forms_whatsapp_buttonshelp === 사용자 정의 버튼, 첫 번째 버튼이 필요합니다.
+forms_whatsapp_buttonsplace1 === 버튼 1
+forms_whatsapp_buttonsplace2 === 버튼 2(선택 사항)
+forms_whatsapp_buttonsplace3 === 버튼 3(선택 사항)
+forms_whatsapp_listtitle === 목록 제목
+forms_whatsapp_listtitlehelp === 목록 제목입니다.
+forms_whatsapp_listplacetitle === 나의 목록
+forms_whatsapp_listmenutitle === 메뉴 제목
+forms_whatsapp_listmenutitlehelp === 메뉴 제목입니다.
+forms_whatsapp_listmenutitleplace === 메뉴 제목
+forms_whatsapp_footermessage === 바닥글 메시지
+forms_whatsapp_footermessagehelp === 사용자 정의 바닥글 메시지, 이것은 선택 사항입니다.
+forms_whatsapp_footermessageplace === 바닥글 메시지입니다...
+forms_whatsapp_listformat === 목록 형식
+forms_whatsapp_listformathelp === 이것은 목록 형식이며 제공된 json이 유효해야 합니다.
+forms_whatsapp_templateformat === 템플릿 형식
+forms_whatsapp_templateformathelp === 이것은 템플릿 형식이며 제공된 json이 유효해야 합니다.
+and_settings_line159new === 이 토큰은 누구와도 공유할 수 없습니다. 이것은 cronjob, 시스템 API, WhatsApp 요청 및 기타 외부 요청의 보안에 사용됩니다. 시스템 토큰이 손상되었다고 생각되면 새 토큰을 다시 생성하십시오. 새 토큰을 생성한 후 cronjob, 시스템 API 및 기타 관련 설정을 다시 구성해야 합니다. 이것은 WhatsApp 시스템에도 영향을 미치며 연결된 모든 계정이 더 이상 작동하지 않습니다.
+forms_systemsettings_servicestitle === 서비스
+forms_systemsettings_waserver === WhatsApp 서버 URL
+forms_systemsettings_waserverhelp === WhatsApp 서버의 URL은 자체 서버에서 호스팅해야 합니다. 설정 지침에 대한 설명서를 읽으십시오.
+forms_systemsettings_waport === WhatsApp 서버 포트
+forms_systemsettings_waporthelp === WhatsApp 서버의 포트, 기본 포트는 7001입니다. 설정 지침은 설명서를 참조하십시오.
+forms_systemsettings_messagestitle === 메시지
+forms_systemsettings_partnercommission === 파트너 커미션
+forms_systemsettings_partnercommissionhelp === 보낸 각 메시지에 대해 파트너의 수입에서 공제하려는 수수료 비율입니다. 이것은 귀하의 돈이 되며 관리자 패널의 통계에 표시됩니다. 백분율은 1 이상 80 이상이어야 합니다!
+forms_systemsettings_partnerminimum === 파트너 최소 지불금
+forms_systemsettings_partnerminimumhelp === 출금을 요청할 수 있는 최소 수입 금액입니다. 이 금액은 수입과 동일한 기본 시스템 통화도 사용합니다.
+forms_editdevice_sendinglimittitle === 전송 제한
+forms_editdevice_limitstatus === 제한 상태
+forms_editdevice_limitstatushelp === 활성화하면 이 장치를 사용하여 보낼 수 있는 허용된 메시지 수가 일 또는 월별로 제한됩니다.
+forms_editdevice_limitinterv === 제한 간격
+forms_editdevice_limitintervhelp === 제한 카운터를 새로 고치기 전에 지연 유형을 선택합니다.
+forms_editdevice_messagecount === 메시지 수
+forms_editdevice_messagecounthelp === 제한 간격 동안 보낼 수 있는 메시지 수입니다.
+forms_editdevice_limitintervselect1 === 일일
+forms_editdevice_limitintervselect2 === 월간 간행물
+forms_editdevice_partnerstatus === 파트너 상태
+forms_edituser_clockformat === 시계 형식
+forms_edituser_clockformathelp === 시스템에서 시간을 표시할 때 사용할 시계 형식을 선택합니다.
+forms_edituser_clockformatselect1 === 12 시간
+forms_edituser_clockformatselect2 === 24 시간
+forms_edituser_dateformat === 날짜 형식
+forms_edituser_dateformathelp === 시스템에서 날짜를 표시할 때 사용할 날짜 형식을 선택합니다.
+forms_edituser_dateseparator === 날짜 구분자
+forms_edituser_dateseparatorhelp === 시스템에서 날짜를 표시할 때 사용할 날짜 구분 기호를 선택합니다.
+forms_campagin_formname === 캠페인 이름
+forms_campagin_formhelp === 캠페인 이름, 이러한 대량 메시지에 대한 활동 로그가 생성되며 캠페인 관리자를 통해 전송을 쉽게 중지할 수 있습니다.
+forms_campaign_formplaceholder === 예를 들어 샘플 캠페인
+forms_whatsapp_numbersgroupsname === 번호 또는 그룹 주소
+forms_whatsapp_numbersgroupshelp === 줄 바꿈으로 구분된 여러 E.164 번호 및 WhatsApp 그룹 주소.
+forms_whatsapp_groupsimportname === WhatsApp 계정
+forms_whatsapp_groupsimportnamehelp === 그룹을 가져올 whatsapp 계정을 선택하십시오.
+forms_whatsapp_groupsimportbutton === 술책
+forms_whatsapp_phonegroupsname === 전화 또는 그룹 주소
+forms_whatsapp_phonegroupshelp === E.164 수신자 전화번호 또는 WhatsApp 그룹 주소.
+pages_administration_commissionstitle === 커미션
+pages_smscampaigns_header === 캠페인
+pages_smstransactions_header === 업무
+pages_smstransactions_comtagline === 파트너 장치를 사용하여 전송된 모든 SMS에는 _8880_%의 거래 수수료가 있습니다. 이것은 이미 다음 표에서 공제됩니다.
+pages_wacampaigns_header === 캠페인
+pages_wagroups_header === 여러 떼
+pages_wagroups_fetchbtn === 그룹 가져오기
+tables_plugins_noactionsline === 작업 없음
+plugin_header_selectmethod === 지불 방법 선택
+title_plugin_paymentpage === 결제 페이지
+payment_title_pending === 주문 보류 중
+btn_plugin_cancelorderpayment === 결제 취소
+payment_title_orderfailed === 주문 실패
+payment_page_orderfailed === 주문 요청을 처리하는 동안 문제가 발생했습니다.
+and_rate_gate_3new === _8880_ 요금
+and_rate_gate_idname === 아이디: _8880_
+table_ratespartners_optionstitle === 옵션

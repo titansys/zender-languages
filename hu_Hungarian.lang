@@ -2405,3 +2405,194 @@ js_calendarall_mondec === december
 response_ussddelete_success === Az USSD kérés törölve!
 response_titanecho_invaltoken === Rendszerkonfigurációs hiba!
 widgets_addplugin_loader === Új bővítmény telepítése a rendszerbe
+widgets_addwhatsapp_newmodal === Csatlakoztassa WhatsApp-ját a gombra kattintva a QRCode megjelenítéséhez, majd olvassa be az alkalmazás _8880_ gombjával. Csak 15 másodperce van a QRCode beolvasására.
+widgets_addwhatsapp_newmodal2 === _8880_ lejárt, ha fiókja össze van kapcsolva vagy sem, kattintson az alábbi gombra.
+widgets_addwhatsapp_newmodal3 === Folytatni
+widgets_addwhatsapp_newmodal4 === Megszünteti
+datatable_addedtoclipboard === Hozzáadva a vágólaphoz
+datatable_addedtoclipboardkeys === Kattintson a másolás gombra a megjelenített sorok vágólapra való hozzáadásához.
+datatable_addedtoclipboardmulti === Másolt sorok:
+datatable_addedtoclipboardsingle === 1 sor másolva
+table_details_schedulednewrepeat === Ismétlés:
+and_edit_dev_line70_1_new === A pénznem alapja az üzenetenként felszámítani kívánt összeg, az eszköz országa. A lebegő értékek, például a centek is támogatottak.
+widget_waquick_requireaccountnew1 === WhatsApp fiók
+requests_whatsapp_notavail === A WhatsApp szerver nem elérhető!
+requests_whatsapp_unablegenqr === Nem sikerült létrehozni a WhatsApp QRCode-ot!
+requests_charts_commisionstitle === Jutalékok
+requests_token_refreshecho === A _8880_ tokenje frissítve!
+requests_remote_smscampaignresumed === Az SMS kampány újraindul!
+requests_remote_smscampaignpaused === SMS kampány szünetel!
+requests_remote_wacampaignresumed === A WhatsApp kampány újraindul!
+requests_remote_wacampaignpaused === A WhatsApp kampány szünetel!
+requests_create_payoutwithdrawalamountatleast === A kifizetési összeg legalább _8880_ _8881_ legyen!
+requests_sms_intervaltypereachedmax === Elérte a _8880_ engedélyezett üzeneteket ezen az eszközön, próbálja újra később!
+requests_sms_encounteredgatewayerror === Átjáró hibába ütköztünk!
+requests_sms_gatewaycannotsendowndevices === Saját eszközeivel nem küldhet jóváírást tartalmazó üzenetet!
+requests_create_encounteredshortenererror === Rövidítő hibába ütköztünk!
+requests_create_campaignnametooshort === A kampány neve túl rövid!
+requests_sms_intervaltypedaily === napi
+requests_sms_intervaltypemonthly === havi
+requests_sms_reachedmaximumsentpackage === Elérted az aktuális csomagodhoz tartozó maximális elküldött üzenetek számát!
+response_message_bulkqueuednew === _8880_ üzenetek küldési sorba kerültek!
+response_whatsapp_invalidmediafile === Érvénytelen médiafájl!
+response_whatsapp_atleastonebutt === Kérjük, adjon hozzá legalább egy gombot!
+response_whatsapp_invalidimagefile === Érvénytelen képfájl!
+response_whatsapp_listtitlereq === A lista címe kötelező!
+response_whatsapp_listmenureq === A lista menü címe kötelező!
+response_whatsapp_listformatreq === A lista formátuma kötelező!
+response_whatsapp_listformatinval === A lista formátuma érvénytelen!
+response_whatsapp_tempformatreq === A sablon formátuma kötelező!
+response_whatsapp_tempformatinval === A sablon formátuma érvénytelen!
+response_whatsapp_failedchatsqueue === Nem sikerült hozzáadni a csevegést a WhatsApp-sorhoz!
+response_whatsapp_bulkchatssentcount === A _8880_ csevegés sorba került küldésre!
+response_whatsapp_failedchatsqueuemany === Nem sikerült hozzáadni a csevegéseket a WhatsApp-sorhoz!
+response_whatsapp_nochatsqueuedpacklimit === Sajnáljuk, egyetlen csevegés sem került sorba. Kérjük, ellenőrizze csomagja feladási határát!
+response_whatsapp_successfetchgroups === _8880_ csoport sikeresen lekérve!
+response_whatsapp_nogroupsfoundfetch === Nem találhatók csoportok!
+response_partners_commisionerror === A partner jutalék százaléka nem lehet 1-nél kisebb és 80-nál nagyobb!
+response_delete_smsdeletecampaign === SMS kampány törölve!
+response_delete_wacampaigndeleted === WhatsApp kampány törölve!
+response_delete_wagroupdeleted === A WhatsApp csoport törölve!
+table_smscampaign_createdtitle === Létrehozva
+table_smscampaign_nametitle === Név
+table_smscampaign_gatewaytitle === Átjáró
+table_smscampaign_contactstitle === Kapcsolatok
+table_smscampaign_statustitle === Állapot
+table_smscampaign_optionstitle === Lehetőségek
+table_campaign_completedstatus === Befejezve
+table_smscagmpaign_processingstatus === _8881_/_8880_ feldolgozva
+table_campaign_pausecampaign === A kampány szüneteltetése
+table_campaign_resumecampaign === A kampány folytatása
+table_smsscheduled_lastsendinfo === Utolsó küldés
+table_smstransac_createdtitle === Létrehozva
+table_smstransac_sendertitle === Feladó
+table_smstransac_devicetitle === Eszköz
+table_smstransac_messagetitle === Üzenet
+table_smstransac_earningstitle === Kereset
+table_smstransac_messageremoved === Az üzenet eltávolítva!
+table_wacampaign_createdtitle === Létrehozva
+table_wacampaign_nametitle === Név
+table_wacampaign_accounttitle === fiók
+table_wacampaign_typetitle === típus
+table_wacampaign_contactstitle === Kapcsolatok
+table_wacampaign_statustitle === Állapot
+table_wacampaign_optionstitle === Lehetőségek
+table_wacampaign_processingstatus === _8881_/_8880_ feldolgozva
+table_wascheduled_lastsendinfo === Utolsó küldés
+table_campaign_pendingstatus === Függőben levő
+table_wagroups_nametitle === Név
+table_wagroups_accounttitle === fiók
+table_wagroups_addresstitle === Csoport címe
+table_wagroups_optionstitle === Lehetőségek
+table_waaccounts_statustitle === Állapot
+table_waaccounts_statusconnected === csatlakoztatva
+table_waaccounts_statusconnecting === Csatlakozás
+table_waaccounts_statusdisconnecting === Leválasztás
+table_waaccounts_statusdisconnected === Szétkapcsolt
+table_waaccounts_statuserror === Hiba
+table_waaccounts_copyaccountid === Fiókazonosító másolása
+table_android_brandtitle === Márka
+table_android_partnertitle === Partner
+table_android_statustitle === Állapot
+table_android_statusonline === Online
+table_android_statusoffline === Offline
+table_android_copydeviceid === Másolja az eszköz egyedi azonosítóját
+table_partnerrates_devicename === Eszköz neve
+widget_fetchgroups_titlefetch === Csoportok lekérése
+widget_fetchgroups_loaderfetch === Csoportok lekérése a fiókból
+pages_admin_tokenrefreshbutt === Jelképes
+pages_admin_tokenrefreshbutthelp === Frissítse a socket kommunikációs tokent. Ha a rendszer nem jelenít meg élő pohárköszöntőt, vagy nem frissül valós időben, kattintson erre a gombra.
+pages_admin_cachehelp === Törölje a teljes rendszer gyorsítótárat. Figyelem! Ezzel az API-val, a hitelesítéssel és a fizetéssel kapcsolatos gyorsítótárak is törlődnek. Ezt csak a rendszer frissítésekor javasolt megtenni.
+pages_admin_themehelp === A webhely sablonjának és kialakításának módosítása.
+pages_admin_systemsettingshelp === Módosítsa a fontos rendszerbeállításokat.
+pages_sms_campaignstab === Kampányok
+pages_sms_partnertransactions === Tranzakciók
+pages_whatsapp_campaignstab === Kampányok
+pages_whatsapp_groupstab === Csoportok
+forms_repeatdays_title === Napok ismétlése
+forms_repeatdays_tagline === Adja meg, hány napot kell várni az üzenet ismételt elküldéséig. Írja be a 365-öt, hogy minden évben ugyanazon a hónapon, napon és időben ismételje meg, ha nem, akkor csak az időt fogja követni. Írjon be 0-t az ismétlés letiltásához.
+forms_whatsapp_messagetype === Üzenet típusa
+forms_whatsapp_messagetypehelp === Válassza ki a WhatsApp üzenet típusát.
+forms_whatsapp_typetext === Szöveg
+forms_whatsapp_typemedia === Média
+forms_whatsapp_typebutton === Gomb
+forms_whatsapp_typelist === Lista
+forms_whatsapp_typetemplate === Sablon
+forms_whatsapp_mediafile === Médiafájl
+forms_whatsapp_mediafilehelp === Médiafájl, a feltöltendő médiafájl. Támogatja a .jpg, .png, .gif és .mp4 fájlokat.
+forms_whatsapp_imagefile === Képfájl
+forms_whatsapp_imagefilehelp === Egyéni képfájl, ez nem kötelező.
+forms_whatsapp_buttons === Gombok
+forms_whatsapp_buttonshelp === Egyedi gombok, az első gomb szükséges.
+forms_whatsapp_buttonsplace1 === 1. gomb
+forms_whatsapp_buttonsplace2 === 2. gomb (opcionális)
+forms_whatsapp_buttonsplace3 === 3. gomb (opcionális)
+forms_whatsapp_listtitle === Lista címe
+forms_whatsapp_listtitlehelp === Ez a lista címe.
+forms_whatsapp_listplacetitle === A listám
+forms_whatsapp_listmenutitle === Menü címe
+forms_whatsapp_listmenutitlehelp === Ez a menü címe.
+forms_whatsapp_listmenutitleplace === Menü címe
+forms_whatsapp_footermessage === Lábléc üzenet
+forms_whatsapp_footermessagehelp === Egyéni lábléc üzenet, ez nem kötelező.
+forms_whatsapp_footermessageplace === Ez a lábléc üzenet...
+forms_whatsapp_listformat === Lista formátum
+forms_whatsapp_listformathelp === Ez a listaformátum, a mellékelt json-nak érvényesnek kell lennie.
+forms_whatsapp_templateformat === Sablon formátum
+forms_whatsapp_templateformathelp === Ez a sablonformátum, a mellékelt json-nak érvényesnek kell lennie.
+and_settings_line159new === Ezt a tokent nem szabad megosztani senkivel. Ezt a cronjobok, a rendszer API, a WhatsApp kérések és más külső kérések biztonságára használják. Ha úgy gondolja, hogy a rendszerjogkivonatot feltörték, hozzon létre egy újat. Új token újragenerálása után újra kell konfigurálnia a cronjobokat, a rendszer API-t és az egyéb kapcsolódó beállításokat. Ez a WhatsApp rendszert is érinti, az összes csatlakoztatott fiók nem fog többé működni.
+forms_systemsettings_servicestitle === Szolgáltatások
+forms_systemsettings_waserver === WhatsApp szerver URL-je
+forms_systemsettings_waserverhelp === A WhatsApp szerver URL-je, ezt a saját szerverén kell tárolnia. Kérjük, olvassa el a dokumentációt a beállítási utasításokért.
+forms_systemsettings_waport === WhatsApp szerver port
+forms_systemsettings_waporthelp === A WhatsApp-kiszolgáló portja, alapértelmezett portja a 7001. Kérjük, olvassa el a dokumentációt a beállítási utasításokért.
+forms_systemsettings_messagestitle === üzenetek
+forms_systemsettings_partnercommission === Partner Bizottság
+forms_systemsettings_partnercommissionhelp === A jutalék azon százaléka, amelyet le szeretne vonni a partnerek bevételéből minden egyes elküldött üzenet után. Ez lesz az Ön pénze, és megjelenik az adminisztrációs panel statisztikájában. A százalék nem lehet 1-nél kisebb és 80-nál nagyobb!
+forms_systemsettings_partnerminimum === Partner minimális kifizetése
+forms_systemsettings_partnerminimumhelp === Minimális kereset összege, hogy kérni lehessen a kifizetést. Ez az összeg is az alapértelmezett rendszer pénznemet fogja használni, amely megegyezik a bevételekkel.
+forms_editdevice_sendinglimittitle === Küldési limit
+forms_editdevice_limitstatus === Limit állapot
+forms_editdevice_limitstatushelp === Ha engedélyezve van, az eszközzel elküldhető üzenetek megengedett száma naponta vagy havonta korlátozott.
+forms_editdevice_limitinterv === Limit Interval
+forms_editdevice_limitintervhelp === A határérték számláló frissítése előtt válassza ki a késleltetés típusát.
+forms_editdevice_messagecount === Üzenetek száma
+forms_editdevice_messagecounthelp === A limitintervallum alatt elküldhető üzenetek száma.
+forms_editdevice_limitintervselect1 === Napi
+forms_editdevice_limitintervselect2 === Havi
+forms_editdevice_partnerstatus === Partner állapota
+forms_edituser_clockformat === Óra formátum
+forms_edituser_clockformathelp === Válassza ki a használni kívánt óraformátumot, amikor a rendszerben bárhol megjeleníti az időt.
+forms_edituser_clockformatselect1 === 12 óra
+forms_edituser_clockformatselect2 === 24 óra
+forms_edituser_dateformat === Dátum formátum
+forms_edituser_dateformathelp === Válassza ki a dátumformátumot a dátum megjelenítéséhez a rendszerben.
+forms_edituser_dateseparator === Dátumelválasztó
+forms_edituser_dateseparatorhelp === Válassza ki a dátumelválasztót a dátum megjelenítéséhez a rendszerben.
+forms_campagin_formname === Kampány név
+forms_campagin_formhelp === Kampány neve, ezekhez a tömeges üzenetekhez tevékenységi napló készül, a küldést a kampánykezelőn keresztül egyszerűen leállíthatja.
+forms_campaign_formplaceholder === például. Mintakampány
+forms_whatsapp_numbersgroupsname === Számok vagy csoportcím
+forms_whatsapp_numbersgroupshelp === Több E.164 szám és WhatsApp csoportcím sortöréssel elválasztva.
+forms_whatsapp_groupsimportname === WhatsApp fiók
+forms_whatsapp_groupsimportnamehelp === Válassza ki a WhatsApp-fiókot, ahonnan a csoportok lekérésre kerülnek.
+forms_whatsapp_groupsimportbutton === Fetch
+forms_whatsapp_phonegroupsname === Telefon vagy csoport címe
+forms_whatsapp_phonegroupshelp === E.164 címzett telefonszáma vagy WhatsApp csoport címe.
+pages_administration_commissionstitle === Jutalékok
+pages_smscampaigns_header === Kampányok
+pages_smstransactions_header === Tranzakciók
+pages_smstransactions_comtagline === Minden partnereszközzel küldött SMS _8880_%-os tranzakciós díjat számít fel. Ezt a következő táblázat már levonja.
+pages_wacampaigns_header === Kampányok
+pages_wagroups_header === Csoportok
+pages_wagroups_fetchbtn === Csoportok lekérése
+tables_plugins_noactionsline === Nincs művelet
+plugin_header_selectmethod === Válassza a Fizetési mód lehetőséget
+title_plugin_paymentpage === Fizetési oldal
+payment_title_pending === Megrendelés függőben
+btn_plugin_cancelorderpayment === Fizetés törlése
+payment_title_orderfailed === Megrendelés sikertelen
+payment_page_orderfailed === Hiba történt a rendelési kérelem feldolgozása során.
+and_rate_gate_3new === _8880_ Árak
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Lehetőségek

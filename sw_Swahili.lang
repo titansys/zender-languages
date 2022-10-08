@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === Paneli ya Msimamizi
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Imepangwa
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Arifa
+and_dashboard_pages_android_line58 === Vifaa
+and_dashboard_pages_contacts_line40 === Umejiondoa
+and_dashboard_pages_defailt_line37 === Viwango vya lango
+and_dashboard_pages_default_line42 === Hati
+and_dashboard_pages_default_line58 === Ujumbe
+and_dashboard_pages_default_line60 === Siku 7 zilizopita
+and_dashboard_pages_default_line74 === Matukio
+and_dashboard_pages_default_line76 === Siku 7 zilizopita
+and_dashboard_pages_default_line90 === Huduma
+and_dashboard_pages_default_line92 === Siku 7 zilizopita
+and_dashboard_pages_default_line109 === Washirika
+and_dashboard_pages_default_line117 === Mapato
+and_dashboard_pages_default_line131 === Malipo
+and_dashboard_pages_default_line140 === Mizani
+and_dashboard_pages_default_line148 === Mikopo
+and_dashboard_pages_default_line162 === Juu juu
+and_dashboard_pages_default_line170 === Uwiano wa Uwasilishaji
+and_dash_pg_def_line178 === Mafanikio
+and_dash_pg_def_line190 === Imeshindwa
+and_dash_pg_def_line204 === Watumaji
+and_dash_pg_def_line209 === Hujajisajili kwa kifurushi chetu chochote cha malipo!
+and_dash_pg_def_line217 === Vifaa
+and_dash_pg_def_line224 === Imeunganishwa
+and_dash_pg_def_line232 === Akaunti
+and_dash_pg_def_line239 === Imeunganishwa
+and_dash_pg_def_line250 === Pakua na usakinishe programu yetu rasmi ili kupata matumizi bora ya mtumiaji
+and_dash_pg_doc_line10 === Nyaraka
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Viboko vya mtandao
+and_dash_pg_doc_line40 === Vitendo
+and_dash_pg_doc_line46 === Vifaa
+and_dash_pg_doc_line52 === Ushirikiano
+and_dash_pg_for_line29 === Ghairi
+and_dash_pg_log_line14 === Ingia kwa kutumia Facebook
+and_dash_pg_log_line17 === Ingia kwa kutumia Google
+and_dash_pg_log_line20 === Ingia na VKontakte
+and_dash_pg_log_line54 === Tengeneza akaunti
+and_dash_pg_pay_line45 === Tumepokea ombi lako la agizo, mfumo wetu utakutumia barua pepe kiotomatiki na kutumia mabadiliko kwenye akaunti yako mara tu muamala wa malipo utakapothibitishwa.
+and_dash_pg_rates_line10 === Viwango vya lango
+and_dash_pg_rates_line39 === Washirika
+and_dash_pg_reg_line15 === Jisajili na Facebook
+and_dash_pg_reg_line20 === Jisajili na Google
+and_dash_pg_reg_line25 === Jisajili na VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Imetumwa
+and_dash_pg_whats_line34 === Imepokelewa
+and_dash_pg_whats_line40 === Imepangwa
+and_dash_pg_whats_line46 === Akaunti
+and_dash_api_line17 === Jina muhimu.
+and_dash_api_line19 === km. Kwa Seva Yangu
+and_dash_api_line24 === Ruhusa muhimu.
+and_dash_auto_line17 === Jina la kitendo.
+and_dash_auto_line19 === km. Mikaeli
+and_dash_auto_line24 === Chanzo
+and_dash_auto_line24_1 === Chanzo cha tukio la kupokea.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Jibu manenomsingi yaliyotenganishwa na koma. Maneno muhimu haya yataanzisha majibu ya kiotomatiki yakitambuliwa katika maudhui ya ujumbe.
+and_dash_auto_line36 === km. asante, sawa, jiandikishe, ndio
+and_dash_auto_line41 === Ujumbe utakaotumwa kwa mtumaji.
+and_dash_auto_line43 === km. Ujumbe wako wa kujibu hapa, misimbo fupi imekubaliwa
+and_dash_auto_line48 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_dash_con_line24 === Namba ya mawasiliano.
+and_dash_con_line31 === Kikundi cha mawasiliano.
+and_dash_con_line17 === Jina la mawasiliano.
+and_dash_cre_line28 === Nunua
+and_dash_gate_line17 === Jina
+and_dash_gate_line17_1 === Hili ndilo jina la lango litakaloonyeshwa kwa watumiaji wako.
+and_dash_gate_line19 === km. Twilio
+and_dash_gate_line24 === Kidhibiti
+and_dash_gate_line24_1 === Chagua faili ya kidhibiti lango, hii itakuwa na mantiki ya lango lako na msimbo. Inashauriwa kuangalia nyaraka.
+and_dash_gate_line27 === Boilerplate ya Kidhibiti:
+and_dash_gate_line34 === Nipigie
+and_dash_gate_line34_1 === Ikiwashwa, ujumbe utahitaji kuthibitishwa kwa kutumia kipengele cha kupiga simu cha lango la wahusika wengine kwa hali ya kutuma, vinginevyo, ujumbe utawekwa alama mara moja kuwa umetumwa unapotumwa.
+and_dash_gate_line37 === Washa
+and_dash_gate_line38 === Zima
+and_dash_gate_line44 === Kitambulisho cha kupiga simu
+and_dash_gate_line44_1 === Ikiwa upigaji simu tena umewezeshwa, lazima unakili kitambulisho hiki na ukibandike kwa kidhibiti chako ili mfumo uweze kutambua upigaji simu.
+and_dash_gate_line47 === Nakili na ubandike ili upate kitambulisho cha kurudisha nyuma simu
+and_dash_gate_line54 === Kuweka bei
+and_dash_gate_line54_1 === Jedwali lako maalum la bei la lango hili. Hii itakuruhusu kutoza juu ya bei za watu wengine. Kwa mfano, ikiwa twilio inatoza 0.01 kwa nchi mahususi, basi unaweza kutoza 0.02 badala yake, sarafu inatokana na sarafu ya mfumo wako. Tafadhali fuata umbizo la bei kwa usahihi.
+and_dash_gate_line57 === Mfano wa Bei ya JSON:
+and_dash_gate_line57_1 === Pakua
+and_dash_grp_line17 === Jina la kikundi.
+and_dash_grp_line19 === km. Marafiki
+and_dash_hook_line17 === Jina la kitendo.
+and_dash_hook_line19 === km. Kitendo cha Mtihani
+and_dash_hook_line24 === Chanzo
+and_dash_hook_line24_1 === Chanzo cha tukio.
+and_dash_hook_line34 === Chagua tukio ambapo ndoano hii itaalikwa.
+and_dash_hook_line44 === Muundo wa kiungo cha ndoano, hii ndiyo url ambayo itatumiwa na mfumo. Mbinu ya GET pekee ndiyo inayotumika.
+and_dash_hook_line51 === Seti ya vigeu ambavyo unaweza kutumia kwenye ndoano yako ya URL.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Kwenye Tuma
+and_dash_hook_line38 === Juu ya Kupokea
+and_dash_lang_line17 === Jina la lugha.
+and_dash_lang_line19 === km. Kikorea
+and_dash_lang_line24 === Msimbo wa nchi.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Ikiwashwa, lugha itatambuliwa kama mwelekeo wa kulia kwenda kushoto.
+and_dash_lang_line38 === Ndiyo
+and_dash_lang_line39 === Hapana
+and_dash_lang_line45 === Mistari ya tafsiri.
+and_dash_mail_line17 === Kichwa
+and_dash_mail_line17_1 === Kichwa cha barua.
+and_dash_mail_line19 === km. Tangazo
+and_dash_mail_line24 === Watumiaji
+and_dash_mail_line24_1 === Tuma na watumiaji.
+and_dash_mail_line36 === Majukumu
+and_dash_mail_line36_1 === Tuma kwa majukumu.
+and_dash_mail_line48 === Maudhui
+and_dash_mail_line48_1 === Maudhui ya barua pepe, html inaruhusiwa.
+and_dash_mail_line50 === Salamu, Dunia!
+and_dash_not_line17 === Kichwa
+and_dash_not_line17_1 === Arifu kichwa.
+and_dash_not_line19 === km. Tangazo
+and_dash_not_line24 === Ujumbe
+and_dash_not_line24_1 === Arifu ujumbe.
+and_dash_not_line31 === Rangi
+and_dash_not_line31_1 === Arifu rangi.
+and_dash_not_line35 === Mafanikio
+and_dash_not_line36 === Onyo
+and_dash_not_line37 === Hatari
+and_dash_not_line43 === Picha
+and_dash_not_line43_1 === Arifu picha, hii ni hiari.
+and_dash_not_line46 === Hiari
+and_dash_not_line53 === Watumiaji
+and_dash_not_line53_1 === Tangazo na watumiaji.
+and_dash_not_line65 === Majukumu
+and_dash_not_line65_1 === Tangaza kwa majukumu.
+and_pack_line17 === Jina la kifurushi.
+and_pack_line19 === km. Kifurushi cha VIP
+and_pack_line24 === Bei ya kifurushi, hii inapaswa kufuata sarafu ya mfumo. Thamani za kuelea haziruhusiwi.
+and_pack_line29 === km. 25
+and_pack_line34 === Ikiwashwa, ujumbe na gumzo za whatsapp zitakuwa na alama ya kijachini zikipokelewa na wapokeaji.
+and_pack_line44 === Ikiwashwa, kifurushi kitafichwa kutoka kwa modali ya kifurushi na ukurasa wa nyumbani.
+and_pack_line58 === Kikomo cha Kutuma SMS
+and_pack_line58_1 === Idadi ya juu zaidi ya ujumbe unaoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line60 === km. 300
+and_pack_line65 === Kikomo cha Kupokea SMS
+and_pack_line65_1 === Idadi ya juu zaidi ya ujumbe unaoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line67 === km. 150
+and_pack_line72 === Kiwango cha juu cha USSD
+and_pack_line72_1 === Idadi ya juu zaidi ya ussd inayoweza kuombwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line74 === km. 25
+and_pack_line79 === Kikomo cha Arifa
+and_pack_line79_1 === Idadi ya juu zaidi ya arifa zinazoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line81 === km. 1300
+and_pack_line86 === Idadi ya juu zaidi ya vifaa vya android vinavyoweza kuunganishwa kwenye akaunti ya mtumiaji. Weka 0 bila kikomo.
+and_pack_line88 === km. 25
+and_pack_line92 === Mipangilio ya WhatsApp
+and_pack_line97 === Idadi ya juu zaidi ya soga inayoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line99 === km. 300
+and_pack_line104 === Idadi ya juu zaidi ya soga inayoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_pack_line106 === km. 150
+and_pack_line111 === Ukomo wa Akaunti
+and_pack_line111_1 === Idadi ya juu zaidi ya akaunti za WhatsApp ambazo zinaweza kuunganishwa kwa akaunti ya mtumiaji. Weka 0 bila kikomo.
+and_pack_line113 === km. 10
+and_pack_line117 === Mipangilio ya Ultility
+and_pack_line122 === Idadi ya juu zaidi ya anwani zinazoweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo.
+and_pack_line124 === km. 25
+and_pack_line129 === Ukomo Uliopangwa
+and_pack_line129_1 === Idadi ya juu zaidi ya ujumbe/soga zilizoratibiwa ambazo zinaweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo. Hii imeunganishwa kwa sms na whatsapp.
+and_pack_line131 === km. 25
+and_pack_line136 === Idadi ya juu zaidi ya funguo za API zinazoweza kuundwa. Weka 0 bila kikomo.
+and_pack_line138 === km. 10
+and_pack_line143 === Idadi ya juu zaidi ya Webhooks zinazoweza kuundwa. Weka 0 bila kikomo.
+and_pack_line145 === km. 5
+and_pack_line150 === Ukomo wa Vitendo
+and_pack_line150_1 === Idadi ya juu zaidi ya Vitendo vinavyoweza kuundwa. Weka 0 bila kikomo.
+and_pack_line152 === km. 5
+and_page_line17 === Jina la ukurasa.
+and_page_line24 === Majukumu yaliyochaguliwa pekee yataweza kufikia ukurasa huu.
+and_page_line35 === Ikiwashwa, ukurasa hautapatikana ikiwa haujaingia.
+and_page_line45 === Maudhui ya ukurasa. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
+and_payout_line17 === Kiasi
+and_payout_line17_1 === Kiasi cha kutoa, nambari nzima pekee.
+and_payout_line19 === km. 50
+and_payout_line24 === Mtoa huduma
+and_payout_line24_1 === Chagua mtoa huduma wa malipo unayotaka kutumia kupokea pesa.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Anwani ya Malipo
+and_payout_line34_1 === Anwani ya malipo au barua pepe, tafadhali angalia kwa makini ili kuzuia matatizo ya malipo.
+and_payout_line36 === km. Barua pepe yako ya PayPal
+and_payout_line43 === Ombi
+and_plug_line17 === Faili ya programu-jalizi
+and_plug_line17_1 === Jalizi faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
+and_push_line17 === Kichwa
+and_push_line17_1 === Kichwa cha kushinikiza.
+and_push_line19 === km. Tangazo
+and_push_line24 === Picha
+and_push_line24_1 === Sukuma kijipicha cha picha, hii ni hiari.
+and_push_line27 === Hiari
+and_push_line34 === Ujumbe
+and_push_line34_1 === Push ujumbe.
+and_push_line41 === Watumiaji
+and_push_line41_1 === Tangazo na watumiaji.
+and_push_line53 === Majukumu
+and_push_line53_1 === Tangaza kwa majukumu.
+and_role_line17 === Jina la jukumu.
+and_role_line19 === km. Msanidi
+and_role_line24 === Chagua ruhusa na vipengele unavyotaka kuzima/kuwezesha kwa jukumu hili. Mabadiliko yanatekelezwa katika muda halisi, vichupo vya kivinjari vya watumiaji waliounganishwa walio na jukumu hilo hupakiwa upya kiotomatiki.
+and_short_line17 === Jina
+and_short_line17_1 === Jina fupi.
+and_short_line19 === km. Bitly
+and_short_line24 === Kidhibiti
+and_short_line24_1 === Chagua faili ya kidhibiti cha kifupi, hii itakuwa na mantiki na msimbo wako wa kifupi. Inashauriwa kuangalia nyaraka.
+and_short_line27 === Boilerplate ya Kidhibiti:
+and_sms_line17 === Jina la ujumbe ulioratibiwa.
+and_sms_line19 === km. Ujumbe Wangu
+and_sms_line24 === Chagua tarehe ya ratiba.
+and_sms_line26 === km. 06/22/2020 12:00 AM
+and_sms_line31 === Ikiwashwa, ujumbe utaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
+and_sms_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
+and_sms_line55 === Chagua vikundi vingi vya anwani
+and_sms_line67 === Kifupi
+and_sms_line67_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_sms_line70 === Usifupishe viungo
+and_sms_line79 === Njia ya lango
+and_sms_line79_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
+and_sms_line82 === Vifaa
+and_sms_line83 === Mikopo
+and_sms_line88 === Slot ya SIM kadi ya kutumia.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_sms_line110 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
+and_sms_line121 === Lango la SMS
+and_sms_line121_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
+and_sms_line141 === Spintax
+and_sms_line144 === Mfano:
+and_sms_line144_1 === Tom ni
+and_sms_line144_2 === paka
+and_sms_line147 === Maadili
+and_sms_line147_1 === nzuri
+and_sms_line147_2 === na
+and_sms_line147_3 === mbaya
+and_sms_line147_4 === itatumika bila mpangilio.
+and_subs_line17 === Akaunti ya mtumiaji.
+and_subs_line28 === Kifurushi cha usajili.
+and_subs_line41 === Muda wa usajili.
+and_subs_line43 === km. 12
+and_temp_line17 === Jina la kiolezo.
+and_temp_line24 === Umbizo la kiolezo.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_temp_line35 === Mfano:
+and_temp_line35_1 === Tom ni
+and_temp_line35_2 === paka
+and_temp_line38 === Maadili
+and_temp_line38_1 === nzuri
+and_temp_line38_2 === mbaya
+and_temp_line38_3 === itatumika bila mpangilio.
+and_temp_line43 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_user_line17 === Jina kamili la kisheria.
+and_user_line19 === km. Michael Cors
+and_user_line24 === Anwani ya barua pepe iliyo sahihi.
+and_user_line26 === km. user@mail.com
+and_user_line31 === Weka nenosiri la mtumiaji.
+and_user_line38 === Saa za eneo la mtumiaji, badilisha hii ikiwa wako katika nchi tofauti. Saa za eneo hutumika kwa tarehe na saa usahihi wa ujumbe uliotumwa na data nyingine.
+and_user_line49 === Nchi
+and_user_line49_1 === Nchi ya watumiaji, hii inatumika kwa malipo na uumbizaji wa nambari za simu.
+and_user_line60 === Sauti za Arifa
+and_user_line60_1 === Ikizimwa, arifa zitakuwa kimya.
+and_user_line70 === Chagua jukumu la mtumiaji.
+and_user_line81 === Chagua lugha ya mtumiaji.
+and_user_line92 === Mpango wa Washirika
+and_user_line92_1 === Ikiwashwa, mtumiaji ataweza kutumia vifaa vyao kama vifaa vya kimataifa jambo ambalo litawawezesha kupata pesa wakati watumiaji wengine wanatuma ujumbe kwa kutumia vifaa vyao.
+and_ussd_line17 === Msimbo wa USSD
+and_ussd_line17_1 === msimbo wa ombi la USSD.
+and_ussd_line19 === km. *121#
+and_ussd_line24 === Slot ya SIM kadi ya kutumia.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kwa ombi la ussd.
+and_ussd_line47 === Ombi
+and_vouch_line17 === Jina la vocha.
+and_vouch_line19 === km. Maalum
+and_vouch_line24 === Kiasi cha vocha unayotaka kuunda. Thamani ya juu ni 1000!
+and_vouch_line26 === km. 100
+and_vouch_line31 === Muda wa usajili.
+and_vouch_line33 === km. 12
+and_vouch_line38 === Kifurushi cha usajili.
+and_web_line17 === Jina la Webhook.
+and_web_line24 === Pokea Matukio
+and_web_line24_1 === Chagua matukio ya kupokea unayohitaji, yatatumwa kwa url yako ya ndoano ya wavuti kupitia njia ya POST.
+and_web_line27 === SMS
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Arifa
+and_web_line36 === Url yako ya mtandao, data yote ya upakiaji itatumwa hapa kupitia njia ya POST.
+and_web_line38 === km. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Jina la soga iliyoratibiwa.
+and_whatssched_line19 === km. Ujumbe Wangu
+and_whatssched_line24 === Chagua tarehe ya ratiba.
+and_whatssched_line26 === km. 06/22/2020 12:00 AM
+and_whatssched_line31 === Ikiwashwa, soga itaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
+and_whatssched_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
+and_whatssched_line55 === Chagua vikundi vingi vya anwani
+and_whatssched_line67 === Kifupi
+and_whatssched_line67_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_whatssched_line70 === Usifupishe viungo
+and_whatssched_line79 === Akaunti
+and_whatssched_line79_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
+and_whatsached_line88 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_whatssched_line107 === Mfano:
+and_whatssched_line101_1 === Tom ni
+and_whatssched_line107_2 === paka
+and_whatssched_line110 === Maadili
+and_whatssched_line110_1 === nzuri
+and_whatssched_line110_2 === na
+and_whatssched_line110_3 === mbaya
+and_whatssched_line110_4 === itatumika bila mpangilio.
+and_whatssched_line115 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_whatssched_line128 === Wasilisha
+and_whatsapp_line15 === Unganisha WhatsApp yako kwa kubofya kitufe ili kuonyesha QRCode kisha uchanganue kupitia
+and_whatsapp_line15_1 === Unganisha Kifaa
+and_whatsapp_line15_2 === kitufe kwenye programu. Una sekunde 60 pekee za kuchanganua QRCode.
+and_whatsapp_line16 === Unganisha Akaunti
+and_add_widget_line17 === Widget jina.
+and_add_widget_line24 === Aikoni ya Wijeti, kwa moduli pekee. Tafadhali tembelea mstari mzuri kwa marejeleo ya ikoni.
+and_add_widget_line26 === km. la la-info-mduara
+and_add_widget_line31 === Aina ya Widget. Vitalu ni kwa ajili ya kuweka sehemu mbalimbali za violezo, moduli ni za maudhui yanayobadilika. Tangu v3, moduli zitafanya kazi kwenye dashibodi pekee.
+and_add_widget_line34 === Zuia
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Ukubwa wa Widget, kwa moduli pekee.
+and_add_widget_line53 === Nafasi ya Wijeti, kwa moduli pekee.
+and_add_widget_line64 === Maudhui ya Wijeti. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
+and_add_widget_line66 === Salamu, Dunia!
+and_admin_build_line16 === Maombi
+and_admin_build_line21 === Jina la kifurushi cha programu, linapaswa kuwa la kipekee na lifuate kikoa kama umbizo kama vile com.yourdomain.yourapp, tunapendekeza ufuate jina la kikoa chako ili kukifanya kiwe cha kipekee.
+and_admin_build_line23 === km. com.lango.sampuli
+and_admin_build_line28 === Jina la programu, hili linaonyeshwa kwenye droo ya programu na sehemu zingine za programu.
+and_admin_build_line30 === km. Lango la Zender
+and_admin_build_line35 === Maelezo ya programu, maelezo mafupi ya programu yako.
+and_admin_build_line42 === Mandhari ya Rangi ya Programu
+and_admin_build_line42_1 === Mandhari ya rangi ya programu, inashauriwa kulinganisha hili na nembo ya programu yako na rangi za picha zinazovuma.
+and_admin_build_line44 === km. #000000
+and_admin_build_line49 === Toleo la APK
+and_admin_build_line_49_1 === Toleo la APK, ikiwa unaunda upya programu yako, tafadhali pia sasisha sehemu hii kwa kuongeza thamani, ikiwa thamani ya sasa ni 1, unapaswa kuiongeza hadi 2 kabla ya kuunda programu yako. Hii inahitajika ili kuanzisha kipengele cha sasisho katika programu na itamlazimu mtumiaji kusasisha.
+and_admin_build_line51 === km. 1.0
+and_admin_build_line56 === Tengeneza Barua pepe
+and_admin_build_line_56_1 === Barua pepe yako halali, tafadhali hakikisha kuwa umebadilisha hii. Matokeo ya muundo yatatumwa kwa barua pepe hii!
+and_admin_build_line58 === km. myvalidemail@mail.com
+and_admin_build_line62 === Hati tambulishi
+and_admin_build_line67 === Huduma za Google
+and_admin_build_line67_1 === Faili yako ya json ya huduma za google, hii inahitajika kwa miamala ya FCM katika programu ya lango.
+and_admin_build_line75 === Vitambulisho vya Firebase
+and_admin_build_line75_1 === Vitambulisho vya msimamizi wako wa firebase kwenye faili ya json, hii inahitajika ili kuruhusu mfumo kuwasiliana na programu.
+and_admin_build_line82 === Mali
+and_admin_build_line87 === Nembo ya picha ya programu, hii ndiyo picha iliyoonyeshwa kwenye kichwa cha programu. Vipimo vinavyopendekezwa ni 251x53 kwa px. Mandharinyuma yenye uwazi ni bora zaidi.
+and_admin_build_line95 === Nembo ya Kuingia kwa Programu
+and_admin_build_line95_1 === Nembo ya picha ya kuingia kwenye programu, hii ndiyo picha iliyoonyeshwa kwenye modi ya kuingia. Vipimo vinavyopendekezwa ni 250x100 katika px na fonti nyeusi. Mandharinyuma yenye uwazi ni bora zaidi.
+and_admin_build_line103 === Aikoni ya picha ya programu, hii inaonyeshwa kwenye droo ya programu na mfumo wa android. Vipimo vinavyopendekezwa ni 1024x1024 katika umbizo la px na png.
+and_admin_build_line111 === Picha ya skrini ya programu, hii inaonyeshwa wakati mtumiaji anafungua programu. Vipimo vinavyopendekezwa ni 2732x2732 katika umbizo la px na png.
+and_admin_build_line118 === Muundo
+and_admin_build_line123 === JavaScript Maalum
+and_admin_build_line123_1 === Ikiwa ungependa kutumia msimbo maalum wa javascript, tafadhali uiongeze hapa. Hii imepakiwa kwa nguvu katika programu.
+and_admin_build_line125 === kwa mfano, tahadhari('Hujambo Ulimwengu!');
+and_admin_build_line130 === CSS maalum
+and_admin_build_line130_1 === Ikiwa ungependa kutumia msimbo maalum wa css, tafadhali uiongeze hapa. Hii imepakiwa kwa nguvu katika programu.
+and_admin_build_line137 === Muundo Maalum
+and_admin_build_line137_1 === Ikiwa ungependa kutumia muundo maalum wa programu, tafadhali rekebisha maudhui ya html, ikiwa hujui unachofanya, tafadhali acha thamani chaguomsingi.
+and_admin_build_line139 === Salamu, Dunia!
+and_settings_line21 === Jina la tovuti, hili linaonyeshwa kila mahali ambapo chapa inahitajika.
+and_settings_line23 === km. Zender
+and_settings_line28 === Maelezo ya tovuti, hii ni kwa ajili ya uboreshaji wa injini ya utafutaji, kwa hivyo kuwa mbunifu.
+and_settings_line30 === km. Hii ni huduma nzuri ya lango la sms
+and_settings_line35 === Msimbo wako wa ununuzi wa envato, hii inahitajika ili kufungua baadhi ya vipengele vya kipekee vya hati.
+and_settings_line37 === km. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Ufunguo wako wa uchanganuzi wa google, hii ni ya hiari kwa sababu mfumo tayari una takwimu za wageni zilizojumuishwa.
+and_settings_line44 === km. UA-179148389-1
+and_settings_line49 === Itifaki ya tovuti yako, tafadhali hakikisha umechagua sahihi. Ikiwa tovuti yako inatumia https, tafadhali chagua, vinginevyo, chagua http.
+and_settings_line59 === Lugha chaguo-msingi ya mfumo, hii hutumika mtumiaji mpya anapotembelea tovuti yako.
+and_settings_line70 === Ikiwa imezimwa, usajili kupitia ukurasa wa usajili hautaruhusiwa.
+and_settings_line80 === Modi ya Kuweka upya Kifurushi
+and_settings_line80_1 === Muda wa kuweka upya vikomo kama vile kutuma, kupokea, ussd na arifa. Hii inatumika kwa vipengele vyote vya Android na WhatsApp. Chaguo lako hapa lazima pia litumike katika usanidi wa cron.
+and_settings_line83 === Kila siku
+and_settings_line84 === Kila mwezi
+and_settings_line90 === Mfano wa Bure
+and_settings_line90_1 === Ikiwashwa, kifurushi cha chaguo-msingi kisicholipishwa huwekwa kiotomatiki kwa mtumiaji baada ya usajili.
+and_settings_line100 === Ikiwa imezimwa, ukurasa wa nyumbani hautatumika. Matembeleo yote katika saraka ya mizizi yataelekezwa kwenye dashibodi.
+and_settings_line110 === Wijeti ya Gumzo ya TAWK
+and_settings_line110_1 === Ikiwashwa, wijeti ya gumzo la tawk itaonekana kwa watumiaji.
+and_settings_line120 === Kiungo chako cha wijeti ya gumzo la tawk, hii inahitajika ikiwa unataka kutumia usaidizi wa gumzo la tawk.
+and_settings_line127 === API ya Msimamizi
+and_settings_line127_1 === Chagua miisho ya API ya msimamizi unayotaka kuwezesha. Inapendekezwa kuwa uwashe sehemu za mwisho ambazo unahitaji pekee.
+and_settings_line159 === Tokeni hii haipaswi kushirikiwa na mtu yeyote. Hii inatumika kwa usalama wa cronjobs, API ya mfumo na maombi mengine ya nje. Iwapo unafikiri, tokeni ya mfumo wako iliingiliwa, tafadhali tengeneza mpya, utahitaji kusanidi upya cronjobs zako, API ya mfumo na mipangilio mingine inayohusiana baada ya kuunda upya tokeni mpya.
+and_settings_line160 === Tengeneza upya
+and_settings_line173 === Ikiwa unataka kutumia seva ya barua iliyojengewa ndani, tafadhali chagua asili, vinginevyo, chagua smtp kisha usanidi kitambulisho chako cha barua.
+and_settings_line183 === Itifaki ya smtp ya kutumia, tafadhali chagua itifaki inayotumika ya seva yako ya barua pepe ya mbali.
+and_settings_line193 === Barua pepe ya tovuti, hili ndilo jina la barua pepe linaloonyeshwa kwa wapokeaji, inashauriwa kutumia noreply@yoursite.com kwa madhumuni ya kuweka chapa.
+and_settings_line195 === km. noreply@domain.com
+and_settings_line200 === Anwani yako ya seva pangishi ya smtp ya mbali.
+and_settings_line205 === km. smtp.gmail.com
+and_settings_line210 === Lango yako ya mbali ya seva ya smtp.
+and_settings_line215 === km. 587
+and_settings_line220 === Jina lako la mtumiaji la seva ya smtp ya mbali.
+and_settings_line225 === km. jina la mtumiaji@gmail.com
+and_settings_line230 === Nenosiri lako la seva ya smtp ya mbali.
+and_settings_line235 === Nenosiri lako la akaunti ya gmail
+and_settings_line244 === Barua pepe yako ya biashara ya paypal.
+and_settings_line246 === km. barua pepe@domain.com
+and_settings_line251 === Ikiwashwa, miamala yote ya paypal itaelekezwa kwenye hali ya sandbox.
+and_settings_line261 === Kitufe chako cha mollie api.
+and_settings_line263 === km. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Sarafu ya mfumo ya kutumia, hii itatumika kama msingi wakati wa kubadilisha miamala hadi USD.
+and_settings_line279 === Chagua watoa huduma za malipo unaotaka kutumia.
+and_settings_line293 === Vibambo vya chini zaidi vya ujumbe. Hii inatumika kwa SMS na WhatsApp.
+and_settings_line295 === km. 5
+and_settings_line300 === Upeo wa herufi kwa ujumbe. Hii inatumika kwa SMS na WhatsApp. Weka 0 kwa herufi zisizo na kikomo.
+and_settings_line302 === km. 300
+and_settings_line307 === Alama ya kijachini ya ujumbe, hii inaongezwa kwa ujumbe ikiwa kifurushi chake kina alama ya kijachini kimewashwa.
+and_settings_line309 === km. Imetumwa kutoka kwa Mfumo wa Zender
+and_settings_line318 === Nambari chaguomsingi ya safu mlalo ya kuonyesha katika jedwali la ujumbe uliotumwa. Hii inatumika kwa SMS na WhatsApp.
+and_settings_line320 === km. 10
+and_settings_line325 === Nambari chaguomsingi ya safu mlalo ya kuonyesha katika jedwali la ujumbe uliopokelewa. Hii inatumika kwa SMS na WhatsApp.
+and_settings_line327 === km. 10
+and_settings_line336 === Ikiwashwa, wageni wataweza kuingia kwa kutumia akaunti zao za mitandao ya kijamii.
+and_settings_line346 === Chagua watoa huduma wa mitandao ya kijamii unaotaka kutumia.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Kitambulisho cha Facebook
+and_settings_line357_1 === Kitambulisho cha programu ya facebook, tafadhali soma hati kwa habari zaidi.
+and_settings_line359 === km. 738812983731558
+and_settings_line364 === Siri ya Facebook
+and_settings_line364_1 === Siri ya programu ya facebook, tafadhali soma hati kwa habari zaidi.
+and_settings_line366 === km. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Kitambulisho cha Google
+and_settings_line371_1 === Kitambulisho cha programu ya google, tafadhali soma hati kwa maelezo zaidi.
+and_settings_line373 === km. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Siri ya Google
+and_settings_line378_1 === Siri ya programu ya google, tafadhali soma hati kwa maelezo zaidi.
+and_settings_line380 === km. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === Kitambulisho cha VK
+and_settings_line385_1 === Kitambulisho cha programu ya vkontakte, tafadhali soma hati kwa maelezo zaidi.
+and_settings_line387 === km. 7768236
+and_settings_line392 === Siri ya VK
+and_settings_line392_1 === Siri ya programu ya vkontakte, tafadhali soma hati kwa habari zaidi.
+and_settings_line394 === km. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Ikiwashwa, recaptcha pia itaonyeshwa kwenye ukurasa wa kuingia. Tafadhali hakikisha kuwa umesanidi ufunguo wako wa recaptcha na siri ya recaptcha kabla ya kuwezesha kipengele hiki au sivyo hutaweza kuingia!
+and_settings_line413 === Kitufe cha recaptcha, tafadhali soma hati kwa habari zaidi.
+and_settings_line415 === km. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Siri ya recaptcha, tafadhali soma hati kwa habari zaidi.
+and_settings_line422 === km. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Mwanga wa Nembo
+and_theme_line17_1 === Picha ya nembo nyepesi, hii inaonyeshwa katika ukurasa wa nyumbani na kurasa za uthibitishaji wakati kipengele cha usuli ni giza. Ukubwa unaopendekezwa ni px 250x50.
+and_theme_line23 === Nembo ya giza
+and_theme_line223_1 === Picha ya nembo iliyokoza, hii inaonyeshwa katika ukurasa wa nyumbani na kurasa za uthibitishaji wakati kipengele cha usuli ni chepesi. Ukubwa unaopendekezwa ni px 250x50.
+and_theme_line29 === Picha ya favicon ya tovuti, hii inaonyeshwa kwenye kichupo cha kivinjari. Ukubwa unaopendekezwa ni px 50x50.
+and_theme_line35 === Picha ya Mandharinyuma
+and_theme_line35_1 === Picha ya mandharinyuma ya tovuti, hii inaonyeshwa kila mahali. Inashauriwa kutumia picha ya azimio la juu.
+and_theme_line41 === Chagua mandhari ya rangi unayotaka kutumia kwa tovuti.
+and_theme_line46 === Chagua rangi ya kuangazia kwa maandishi.
+and_theme_line51 === Rangi ya Spinner
+and_theme_line51_1 === Chagua rangi unayotaka kutumia kwa spinner ya juu ya ajax.
+and_theme_line58 === JavaScript Maalum
+and_theme_line58_1 === Ikiwa ungependa kutumia msimbo maalum wa javascript, tafadhali uiongeze hapa. Hii imepakiwa kwa nguvu katika kila ukurasa.
+and_theme_line60 === Salamu, Dunia!
+and_theme_line63 === CSS maalum
+and_theme_line63_1 === Ikiwa unataka kubadilisha baadhi ya mitindo ya css, unaweza kuifanya hapa.
+and_apikey_line17 === Jina muhimu.
+and_apikey_line19 === km. Kwa Seva Yangu
+and_apikey_line24 === Ruhusa muhimu.
+and_edit_auto_line17 === Jina la kitendo.
+and_edit_auto_line19 === km. Jibu Otomatiki
+and_edit_auto_line24 === Chanzo
+and_edit_auto_line24_1 === Chanzo cha tukio la kupokea.
+and_edit_auto_line34 === Jibu manenomsingi yaliyotenganishwa na koma. Maneno muhimu haya yataanzisha majibu ya kiotomatiki yakitambuliwa katika maudhui ya ujumbe.
+and_edit_auto_line36 === km. asante, sawa, jiandikishe, ndio
+and_edit_auto_line41 === Ujumbe utakaotumwa kwa mtumaji.
+and_edit_auto_line43 === km. Ujumbe wako wa kujibu hapa, misimbo fupi imekubaliwa
+and_edit_auto_line48 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_edit_con_line17 === Jina la mawasiliano.
+and_edit_con_line19 === km. Mikaeli
+and_edit_con_line24 === Namba ya mawasiliano.
+and_edit_con_line31 === Kikundi cha mawasiliano.
+and_edit_dev_line16 === Maelezo ya Kifaa
+and_edit_dev_line21 === Jina la kifaa.
+and_edit_dev_line23 === km. Kifaa Changu
+and_edit_dev_line28 === Ikiwashwa, ujumbe utatumwa kwa vipindi nasibu kati ya thamani 2. Unaweza kuzisanidi hapa chini.
+and_edit_dev_line38 === Muda wa chini zaidi katika sekunde.
+and_edit_dev_line41 === km. 5
+and_edit_dev_line46 === Muda wa juu zaidi katika sekunde.
+and_edit_dev_line49 === km. 20
+and_edit_dev_line53 === Mipangilio ya Arifa
+and_edit_dev_line58 === Maombi
+and_edit_dev_line58_1 === Weka majina ya kifurushi cha programu unazotaka kupata arifa kutoka. Watenganishe kwa vivunja mstari.
+and_edit_dev_line65 === Mipangilio ya Washirika
+and_edit_dev_line70 === Kiwango
+and_edit_dev_line70_1 === Kiasi unachotaka kutoza kwa kila ujumbe, nchi ya kifaa itatumika kama msingi wa sarafu. Thamani za kuelea zinatumika kama vile senti.
+and_edit_dev_line73 === km. 0.50
+and_edit_dev_line78 === Hali ya Ulimwenguni
+and_edit_dev_line78_1 === Kikizimwa, kifaa hakitapatikana kama lango la kimataifa la sms na hutapata pesa. Tafadhali kumbuka kuwa vifaa vya kimataifa haviwezi kupokea ujumbe kwa sababu za usalama.
+and_edit_dev_line89 === Nchi
+and_edit_dev_line89_1 === Nchi ya kifaa, hutumika kubainisha nambari za simu na kama sarafu ya msingi ya eneo la bei.
+and_edit_dev_line101 === Kipaumbele
+and_edit_dev_line101_1 === Ujumbe wa kimataifa utatumwa kwanza kabla ya ujumbe wako mwenyewe.
+and_edit_dev_line112 === Slots za SIM
+and_edit_dev_line112_1 === Chagua nafasi za sim unazotaka kutumia kutuma, ukichagua zote mbili, ujumbe utatumwa bila mpangilio.
+and_edit_email_line16 === Kiolezo cha Barua Pepe
+and_edit_email_line18 === HTML inaruhusiwa
+and_edit_gate_line17 === Jina
+and_edit_gate_line17_1 === Hili ndilo jina la lango litakaloonyeshwa kwa watumiaji wako.
+and_edit_gate_line19 === km. Twilio
+and_edit_gate_line24 === Kidhibiti
+and_edit_gate_line24_1 === Chagua faili ya kidhibiti lango, hii itakuwa na mantiki ya lango lako na msimbo. Inashauriwa kuangalia nyaraka.
+and_edit_gate_line31 === Nipigie
+and_edit_gate_line31_1 === Ikiwashwa, ujumbe utahitaji kuthibitishwa kwa kutumia kipengele cha kupiga simu cha lango la wahusika wengine kwa hali ya kutuma, vinginevyo, ujumbe utawekwa alama mara moja kuwa umetumwa unapotumwa.
+and_edit_gate_line34 === Washa
+and_edit_gate_line35 === Zima
+and_edit_gate_line41 === Kitambulisho cha kupiga simu
+and_edit_gate_line41_1 === Ikiwa upigaji simu tena umewezeshwa, lazima unakili kitambulisho hiki na ukibandike kwa kidhibiti chako ili mfumo uweze kutambua upigaji simu.
+and_edit_gate_line44 === Nakili na ubandike ili upate kitambulisho cha kurudisha nyuma simu
+and_edit_gate_line51 === Kuweka bei
+and_edit_gate_line51_1 === Jedwali lako maalum la bei la lango hili. Hii itakuruhusu kutoza juu ya bei za watu wengine. Kwa mfano, ikiwa twilio inatoza 0.01 kwa nchi mahususi, basi unaweza kutoza 0.02 badala yake, sarafu inatokana na sarafu ya mfumo wako. Tafadhali fuata umbizo la bei kwa usahihi.
+and_edit_gate_line54 === Mfano wa Bei ya JSON:
+and_edit_gate_line54_1 === Pakua
+and_edit_grp_line17 === Jina la kikundi.
+and_edit_grp_line19 === km. Marafiki
+and_edit_hook_line17 === Jina la kitendo.
+and_edit_hook_line19 === km. Kitendo cha Mtihani
+and_edit_hook_line24 === Chanzo
+and_edit_hook_line24_1 === Chanzo cha tukio.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Chagua tukio ambapo ndoano hii itaalikwa.
+and_edit_hook_line37 === Kwenye Tuma
+and_edit_hook_line38 === Juu ya Kupokea
+and_edit_hook_line44 === Muundo wa kiungo cha ndoano, hii ndiyo url ambayo itatumiwa na mfumo. Mbinu ya GET pekee ndiyo inayotumika.
+and_edit_hook_line51 === Seti ya vigeu ambavyo unaweza kutumia kwenye ndoano yako ya URL.
+and_edit_lang_line17 === km. Kikorea
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Ndiyo
+and_edit_lang_line33 === Hapana
+and_edit_pack_line17 === Jina la kifurushi.
+and_edit_pack_line19 === km. Kifurushi cha VIP
+and_edit_pack_line24 === Bei ya kifurushi, hii inapaswa kufuata sarafu ya mfumo. Thamani za kuelea haziruhusiwi.
+and_edit_pack_line29 === km. 25
+and_edit_pack_line34 === Ikiwashwa, ujumbe na gumzo za whatsapp zitakuwa na alama ya kijachini zikipokelewa na wapokeaji.
+and_edit_pack_line44 === Ikiwashwa, kifurushi kitafichwa kutoka kwa modali ya kifurushi na ukurasa wa nyumbani.
+and_edit_pack_line53 === Mipangilio ya Android
+and_edit_pack_line58 === Kikomo cha Kutuma SMS
+and_edit_pack_line58_1 === Idadi ya juu zaidi ya ujumbe unaoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line60 === km. 300
+and_edit_pack_line65 === Kikomo cha Kupokea SMS
+and_edit_pack_line65_1 === Idadi ya juu zaidi ya ujumbe unaoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line67 === km. 150
+and_edit_pack_line72 === Kiwango cha juu cha USSD
+and_edit_pack_line72_1 === Idadi ya juu zaidi ya ussd inayoweza kuombwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line74 === km. 25
+and_edit_pack_line79 === Kikomo cha Arifa
+and_edit_pack_line79_1 === Idadi ya juu zaidi ya arifa zinazoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line81 === km. 1300
+and_edit_pack_line86 === Idadi ya juu zaidi ya vifaa vya android vinavyoweza kuunganishwa kwenye akaunti ya mtumiaji. Weka 0 bila kikomo.
+and_edit_pack_line88 === km. 25
+and_edit_pack_line92 === Mipangilio ya WhatsApp
+and_edit_pack_line97 === Idadi ya juu zaidi ya soga inayoweza kutumwa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line99 === km. 300
+and_edit_pack_line104 === Idadi ya juu zaidi ya soga inayoweza kupokelewa na mtumiaji kabla ya kuweka upya. Weka 0 bila kikomo.
+and_edit_pack_line106 === km. 150
+and_edit_pack_line111 === Ukomo wa Akaunti
+and_edit_pack_line111_1 === Idadi ya juu zaidi ya akaunti za WhatsApp ambazo zinaweza kuunganishwa kwa akaunti ya mtumiaji. Weka 0 bila kikomo.
+and_edit_pack_line113 === km. 10
+and_edit_pack_line117 === Mipangilio ya Ultility
+and_edit_pack_line122 === Idadi ya juu zaidi ya anwani zinazoweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo.
+and_edit_pack_line124 === km. 25
+and_edit_pack_line129 === Ukomo Uliopangwa
+and_edit_pack_line129_1 === Idadi ya juu zaidi ya ujumbe/soga zilizoratibiwa ambazo zinaweza kuhifadhiwa na mtumiaji. Weka 0 bila kikomo. Hii imeunganishwa kwa sms na whatsapp.
+and_edit_pack_line131 === km. 25
+and_edit_pack_line136 === Idadi ya juu zaidi ya funguo za API zinazoweza kuundwa. Weka 0 bila kikomo.
+and_edit_pack_line138 === km. 10
+and_edit_pack_line143 === Idadi ya juu zaidi ya Webhooks zinazoweza kuundwa. Weka 0 bila kikomo.
+and_edit_pack_line145 === km. 5
+and_edit_pack_line150 === Ukomo wa Vitendo
+and_edit_pack_line150_1 === Idadi ya juu zaidi ya Vitendo vinavyoweza kuundwa. Weka 0 bila kikomo.
+and_edit_pack_line152 === km. 5
+and_edit_page_line17 === Jina la ukurasa.
+and_edit_page_line24 === Majukumu yaliyochaguliwa pekee yataweza kufikia ukurasa huu.
+and_edit_page_line35 === Ikiwashwa, ukurasa hautapatikana ikiwa haujaingia.
+and_edit_page_line45 === Maudhui ya ukurasa. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
+and_edit_role_line17 === Jina la jukumu.
+and_edit_role_line19 === km. Msanidi
+and_edit_role_line24 === Chagua ruhusa na vipengele unavyotaka kuzima/kuwezesha kwa jukumu hili. Mabadiliko yanatekelezwa katika muda halisi, vichupo vya kivinjari vya watumiaji waliounganishwa walio na jukumu hilo hupakiwa upya kiotomatiki.
+and_edit_short_line17 === Jina
+and_edit_short_line17_1 === Jina fupi.
+and_edit_short_line19 === km. Bitly
+and_edit_short_line24 === Kidhibiti
+and_edit_short_line24_1 === Chagua faili ya kidhibiti cha kifupi, hii itakuwa na mantiki na msimbo wako wa kifupi. Inashauriwa kuangalia nyaraka.
+and_edit_sms_line17 === Jina la ujumbe ulioratibiwa.
+and_edit_sms_line19 === km. Ujumbe Wangu
+and_edit_sms_line24 === Chagua tarehe ya ratiba.
+and_edit_sms_line26 === km. 06/22/2020 12:00 AM
+and_edit_sms_line31 === Ikiwashwa, ujumbe utaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
+and_edit_sms_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
+and_edit_sms_line55 === Chagua vikundi vingi vya anwani
+and_edit_sms_line67 === Njia ya lango
+and_edit_sms_line67_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
+and_edit_sms_line70 === Vifaa
+and_edit_sms_line71 === Mikopo
+and_edit_sms_line76 === Slot ya SIM kadi ya kutumia.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
+and_edit_sms_line99 === Lango la SMS
+and_edit_sms_line99_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Mfano:
+and_edit_sms_line122_1 === Tom ni
+and_edit_sms_line122_2 === paka
+and_edit_sms_line125 === Maadili
+and_edit_sms_line125_1 === nzuri
+and_edit_sms_line125_2 === na
+and_edit_sms_line125_3 === mbaya
+and_edit_sms_line125_4 === itatumika bila mpangilio.
+and_edit_temp_line17 === Jina la kiolezo.
+and_edit_temp_line24 === Umbizo la kiolezo.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_edit_temp_line35 === Mfano:
+and_edit_temp_line35_1 === Tom ni
+and_edit_temp_line35_2 === paka
+and_edit_temp_line38 === Maadili
+and_edit_temp_line38_1 === nzuri
+and_edit_temp_line38_2 === na
+and_edit_temp_line38_3 === mbaya
+and_edit_temp_line38_4 === itatumika bila mpangilio.
+and_edit_temp_line43 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_eduse_line17 === Jina lako kamili la kisheria, tafadhali kumbuka kuwa kutumia jina bandia kunaweza kusimamisha akaunti yako.
+and_eduse_line19 === km. Michael Cors
+and_eduse_line24 === Anwani sahihi ya barua pepe, puuza sehemu hii ikiwa ungependa kuhifadhi barua pepe ya sasa.
+and_eduse_line26 === km. user@mail.com
+and_eduse_line31 === Ikiwa ungependa kuweka nenosiri la sasa, tafadhali puuza sehemu hii, vinginevyo, ingiza nenosiri jipya.
+and_eduse_line38 === Saa za eneo lako, badilisha hii ikiwa uko katika nchi tofauti. Saa za eneo hutumika kwa tarehe na saa usahihi wa ujumbe uliotumwa na data nyingine.
+and_eduse_line49 === Nchi
+and_eduse_line49_1 === Nchi yako, hii inatumika kwa malipo na uumbizaji wa nambari za simu.
+and_eduse_line60 === Sauti za Arifa
+and_eduse_line60_1 === Ikizimwa, arifa zitakuwa kimya.
+and_eduse_line70 === Chagua jukumu la mtumiaji.
+and_eduse_line81 === Chagua lugha ya mtumiaji.
+and_eduse_line92 === Mpango wa Washirika
+and_eduse_line92_1 === Ikiwashwa, mtumiaji ataweza kutumia vifaa vyao kama vifaa vya kimataifa jambo ambalo litawawezesha kupata pesa wakati watumiaji wengine wanatuma ujumbe kwa kutumia vifaa vyao.
+and_edweb_line17 === Jina la Webhook.
+and_edweb_line24 === Pokea Matukio
+and_edweb_line24_1 === Chagua matukio ya kupokea unayohitaji, yatatumwa kwa url yako ya ndoano ya wavuti kupitia njia ya POST.
+and_edweb_line30 === Arifa
+and_edweb_line36 === Url yako ya mtandao, data yote ya upakiaji itatumwa hapa kupitia njia ya POST.
+and_edweb_line38 === km. https://yourdomain.com/reply.php
+and_edwhat_line17 === Jina la soga iliyoratibiwa.
+and_edwhat_line19 === km. Ujumbe Wangu
+and_edwhat_line24 === Chagua tarehe ya ratiba.
+and_edwhat_line26 === km. 06/22/2020 12:00 AM
+and_edwhat_line31 === Ikiwashwa, soga itaratibiwa kila wakati tarehe iliyoratibiwa inapolingana.
+and_edwhat_line42 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
+and_edwhat_line55 === Chagua vikundi vingi vya anwani
+and_edwhat_line67 === Akaunti
+and_edwhat_line67_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
+and_edwhat_line76 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_edwhat_line95 === Mfano:
+and_edwhat_line95_1 === Tom ni
+and_edwhat_line95_2 === paka
+and_edwhat_line98 === Maadili
+and_edwhat_line98_1 === nzuri
+and_edwhat_line98_2 === na
+and_edwhat_line98_3 === mbaya
+and_edwhat_line98_4 === itatumika bila mpangilio.
+and_edwhat_line103 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_edwhat_line116 === Wasilisha
+and_edwid_line17 === Widget jina.
+and_edwid_line24 === Aikoni ya Wijeti, kwa moduli pekee. Tafadhali tembelea mstari mzuri kwa marejeleo ya ikoni.
+and_edwid_line31 === Aina ya Widget. Vitalu ni kwa ajili ya kuweka sehemu mbalimbali za violezo, moduli ni za maudhui yanayobadilika. Tangu v3, moduli zitafanya kazi kwenye dashibodi pekee.
+and_edwid_line34 === Zuia
+and_edwid_line35 === Modal
+and_edwid_line41 === Ukubwa wa Widget, kwa moduli pekee.
+and_edwid_line53 === Nafasi ya Wijeti, kwa moduli pekee.
+and_edwid_line64 === Maudhui ya Wijeti. Lebo zote za html zinaruhusiwa, kuwa mwangalifu unapoongeza hati kutoka kwa vyanzo visivyojulikana!
+and_import_line17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
+and_import_line20 === Faili ya Mfano:
+and_import_line20_1 === Pakua
+and_package_line36 === Pokea SMS
+and_package_line41 === Tuma WhatsApp
+and_package_line46 === WhatsApp Pokea
+and_package_line51 === USSD
+and_package_line56 === Arifa
+and_package_line61 === SMS/Soga Zilizoratibiwa
+and_package_line66 === Anwani
+and_package_line71 === Vifunguo vya API
+and_package_line76 === Viboko vya mtandao
+and_package_line81 === Vitendo
+and_package_line86 === Vifaa vya Android
+and_package_line91 === Akaunti za WhatsApp
+and_redeem_line18 === Tumia msimbo.
+and_redeem_line20 === km. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari. Ujumbe 1 pekee ndio utakaotumwa kwa nambari hata kama ulichagua vikundi ambapo uliongezwa.
+and_sms_bulk_31 === Chagua vikundi vingi vya anwani. Ujumbe 1 pekee ndio utakaotumwa kwa mwasiliani hata kama ulichagua vikundi vingi ambapo uliongezwa.
+and_sms_bulk_43 === Kifupi
+and_sms_bulk_43_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_sms_bulk_46 === Usifupishe viungo
+and_sms_bulk_55 === Njia ya lango
+and_sms_bulk_55_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
+and_sms_bulk_58 === Vifaa
+and_sms_bulk_59 === Mikopo
+and_sms_bulk_64 === Slot ya SIM kadi ya kutumia.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Ikiwashwa, barua pepe hizi zitatumwa kabla ya kitu kingine chochote.
+and_sms_bulk_81 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_sms_bulk_94 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
+and_sms_bulk_105 === Lango la SMS
+and_sms_bulk_105_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia
+and_sms_bulk_126 === Tafsiri ujumbe.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_sms_bulk_135 === Mfano:
+and_sms_bulk_143 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_sms_exe17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
+and_sms_exe20 === Faili ya Mfano:
+and_sms_exe20_1 === Pakua
+and_sms_exe27 === Kifupi
+and_sms_exe27_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_sms_exe30 === Usifupishe viungo
+and_sms_exe39 === Njia ya lango
+and_sms_exe39_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
+and_sms_exe42 === Vifaa
+and_sms_exe43 === Mikopo
+and_sms_exe47 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_sms_exe60 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
+and_sms_exe70 === Lango la SMS
+and_sms_exe70_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
+and_sms_exe92 === Tafsiri ujumbe.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_sms_exe109 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_sms_quick17 === Nambari ya simu ya mpokeaji.
+and_sms_quick24 === Njia ya lango
+and_sms_quick24_1 === Njia ya lango unayotaka kutumia. Ukichagua vifaa, vifaa vyako vilivyounganishwa vitaonyeshwa kwa ajili ya kutumwa, vinginevyo, lango la washirika na wengine litaonyeshwa.
+and_sms_quick27 === Vifaa
+and_sms_quick28 === Mikopo
+and_sms_quick34 === Kifupi
+and_sms_quick34_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_sms_quick37 === Usifupishe viungo
+and_sms_quick46 === Slot ya SIM kadi ya kutumia.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Ikiwashwa, barua pepe hizi zitatumwa kabla ya kitu kingine chochote.
+and_sms_quick66 === Vifaa vyako vilivyounganishwa, chagua unachotaka kutumia kutuma.
+and_sms_quick77 === Lango la SMS
+and_sms_quick77_1 === Lango la wahusika wengine na la washirika, mikopo yako itatumika unapotuma ujumbe kwa kutumia lango hili. Tunapendekeza uangalie bei za lango kabla ya kuzitumia.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_sysup17 === Sasisha Faili
+and_sysup17_1 === Sasisha faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
+and_upplug17 === Sasisha Faili
+and_upplug17_1 === Sasisha faili ya zip, tafadhali hakikisha kuwa umechagua faili sahihi.
+and_uset17 === Picha ya avatar ya wasifu wako.
+and_uset24 === Jina lako kamili la kisheria, tafadhali kumbuka kuwa kutumia jina bandia kunaweza kusimamisha akaunti yako.
+and_uset26 === km. Michael Shmuck
+and_uset31 === Anwani yako halali ya barua pepe, puuza sehemu hii ikiwa ungependa kuhifadhi barua pepe yako ya sasa.
+and_uset33 === km. yourmail@mail.com
+and_uset38 === Saa za eneo lako, badilisha hii ikiwa uko katika nchi tofauti. Saa za eneo hutumika kwa tarehe na saa usahihi wa ujumbe uliotumwa na data nyingine.
+and_uset49 === Nchi
+and_uset49_1 === Nchi yako, hii inatumika kwa malipo na uumbizaji wa nambari za simu.
+and_uset60 === Sauti za Arifa
+and_uset60_1 === Ikizimwa, arifa zitakuwa kimya.
+and_uset70 === Ikiwa ungependa kuhifadhi nenosiri lako la sasa, tafadhali puuza sehemu hii, vinginevyo, weka nenosiri lako jipya.
+and_usub23 === Inatumika hadi
+and_usub28 === Tuma SMS
+and_usub34 === Pokea SMS
+and_usub40 === Tuma WhatsApp
+and_usub46 === WhatsApp Pokea
+and_usub57 === USSD
+and_usub63 === Arifa
+and_usub69 === SMS/Soga Zilizoratibiwa
+and_usub98 === Vitendo
+and_usub104 === Vifaa vya Android
+and_usub110 === Akaunti za WhatsApp
+and_view20 === Mwonekano Kamili
+and_whatsbulk_18 === Nambari nyingi za E.164 zikitenganishwa na kukatika kwa mstari.
+and_whatsbulk_31 === Chagua vikundi vingi vya anwani. Tafadhali kumbuka kuwa ikiwa mtu ana vikundi vingi, ujumbe unaweza kutumwa kwake mara nyingi ikiwa utachagua vikundi ambapo ulijumuishwa.
+and_whatsbulk_43 === Kifupi
+and_whatsbulk_43_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_whatsbulk_46 === Usifupishe viungo
+and_whatsbulk_55 === Akaunti
+and_whatsbulk_55_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
+and_whatsbulk_64 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_whatsbulk_79 === Tafsiri ujumbe.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_whatsbulk_96 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_whatex17 === Faili ya Excel unayotaka kuleta, tafadhali hakikisha kuwa umefuata umbizo linalohitajika.
+and_whatex20 === Faili ya Mfano:
+and_whatex20_1 === Pakua
+and_whatex27 === Kifupi
+and_whatex27_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_whatex30 === Usifupishe viungo
+and_whatex39 === Akaunti
+and_whatex39_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
+and_whatex48 === Violezo vya ujumbe wako uliotayarishwa mapema.
+and_whatex63 === Tafsiri ujumbe.
+and_whatex68 === Spintax
+and_whatex68_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_whatex80 === Seti ya vigeu ambavyo unaweza kutumia katika ujumbe wako.
+and_whatquick_17 === Nambari ya simu ya mpokeaji E.164.
+and_whatquick_24 === Kifupi
+and_whatquick_24_1 === Ikiwashwa, viungo katika ujumbe vitafupishwa kiotomatiki kwa kutumia kifupisho kilichochaguliwa.
+and_whatquick_27 === Usifupishe viungo
+and_whatquick_36 === Akaunti
+and_whatquick_36_1 === Chagua akaunti ya WhatsApp unayotaka kutumia.
+and_whatquick_50 === Tafsiri ujumbe.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Kipengele kinachokuruhusu kuweka maneno nasibu katika ujumbe wako ambayo huzuia ugunduzi wa barua taka.
+and_admin_api_3 === API ya Utawala
+and_admin_fileman_3 === Kihariri Kiolezo
+and_admin_gate_3 === Njia za SMS
+and_admin_gate_8 === Ongeza Gateway
+and_admin_lang_6 === Panga upya lugha
+and_admin_mark_3 === Masoko
+and_admin_mark_6 === Futa vipengee vilivyochaguliwa
+and_admin_mark_12 === Sukuma
+and_admin_mark_17 === Arifu
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Maombi ya Malipo
+and_admin_short_3 === Vifupisho
+and_admin_short_8 === Ongeza Kifupi
+and_admin_subs_8 === Ongeza Usajili
+and_admin_vouch_6 === Futa vipengee vilivyochaguliwa
+and_droid_dev_3 === Vifaa vya Android
+and_droid_dev_6 === Soma nyaraka
+and_droid_dev_8 === Hati
+and_droid_dev_11 === Omba kuwa mtoaji lango la washirika
+and_droid_dev_13 === Ushirikiano
+and_droid_dev_16 === Sajili kifaa kipya cha android
+and_droid_not_3 === Arifa
+and_droid_not_6 === Futa vipengee vilivyochaguliwa
+and_droid_rev_3 === Umepokea SMS
+and_droid_rev_6 === Futa ujumbe uliochaguliwa
+and_droid_sched_6 === Futa vipengee vilivyochaguliwa
+and_droid_sent_3 === Imetumwa SMS
+and_droid_sent_6 === Futa vipengee vilivyochaguliwa
+and_droid_sent_10 === Futa barua pepe zote ambazo hazijashughulikiwa
+and_droid_sent_14 === Tuma SMS Haraka
+and_droid_sent_16 === Haraka
+and_droid_sent_19 === Tuma SMS nyingi
+and_droid_sent_21 === Wingi
+and_droid_sent_24 === Tuma SMS nyingi kupitia Excel
+and_droid_ussd_3 === Maombi ya USSD
+and_droid_ussd_6 === Futa vipengee vilivyochaguliwa
+and_droid_ussd_10 === Futa maombi yote yanayosubiri
+and_droid_ussd_14 === Ombi jipya la USSD
+and_droid_ussd_16 === Ombi
+and_con_grp_6 === Futa vipengee vilivyochaguliwa
+and_con_grp_10 === Ongeza kikundi kipya cha anwani
+and_con_sav_6 === Futa vipengee vilivyochaguliwa
+and_con_sav_10 === Ongeza anwani mpya
+and_con_sav_15 === Ingiza waasiliani kutoka kwa faili ya Excel
+and_con_unsub_3 === Umejiondoa
+and_con_unsub_6 === Futa vipengee vilivyochaguliwa
+and_doc_act_3 === Vitendo
+and_doc_api_3 === Nyaraka za API
+and_doc_dev_3 === Vifaa
+and_doc_partner_3 === Ushirikiano
+and_doc_webhook_3 === Viboko vya mtandao
+and_rate_gate_3 === Viwango
+and_rate_gate_10 === Nchi
+and_rate_gate_11 === Kwa Kiwango cha Ujumbe
+and_rate_gate_22 === Nchi Nyingine
+and_rate_partner_3 === Viwango vya Washirika
+and_tool_act_3 === Vitendo
+and_tool_act_6 === Soma nyaraka
+and_tool_act_8 === Hati
+and_tool_act_11 === Ongeza kitendo kipya cha ndoano
+and_tool_act_13 === ndoano
+and_tool_act_16 === Ongeza kitendo kipya cha kujibu kiotomatiki
+and_tool_act_18 === Jibu kiotomatiki
+and_tool_key_6 === Soma nyaraka
+and_tool_key_8 === Hati
+and_tool_key_11 === Unda ufunguo mpya wa API
+and_tool_webhook_6 === Soma nyaraka
+and_tool_webhook_8 === Hati
+and_what_accnt_6 === Unganisha akaunti mpya
+and_what_accnt_8 === Ongeza Akaunti
+and_what_attach_8 === Futa ujumbe uliochaguliwa
+and_what_rev_3 === Imepokea Gumzo
+and_what_rev_6 === Futa vipengee vilivyochaguliwa
+and_what_sched_6 === Futa vipengee vilivyochaguliwa
+and_what_sched_12 === Panga Gumzo
+and_what_sent_3 === Imetuma Gumzo
+and_what_sent_6 === Futa vipengee vilivyochaguliwa
+and_what_sent_10 === Tuma Gumzo Haraka
+and_what_sent_12 === Haraka
+and_what_sent_15 === Tuma Gumzo Wingi
+and_what_sent_17 === Wingi
+and_what_sent_20 === Tuma Gumzo Wingi kupitia Excel
+and_def_f_blck_6 === Anza Masoko
+and_def_f_blck_7 === Wacha tuanze na kukuza biashara pamoja, tujiandikishe sasa na tujionee jukwaa la ubora wa juu la uuzaji!
+and_def_f_blck_8 === Jiunge nasi
+and_def_f_blck_35 === Wasiliana
+and_head_blck_21 === Nyumbani
+and_head_blck_24 === Vipengele
+and_head_blck_27 === Kuweka bei
+and_head_blck_30 === Wateja
+and_head_blck_39 === Dashibodi
+and_head_blck_42 === Ondoka
+and_pages_default_8 === Uuzaji wa SMS na WhatsApp kwa ubora zaidi
+and_pages_default_29 === Ujumbe wa SMS
+and_pages_default_31 === Tumia vifaa vyako vya Android kama lango la SMS, hii ni nafuu kuliko kutumia lango la watu wengine.
+and_pages_default_40 === Ujumbe wa WhatsApp
+and_pages_default_42 === Tumia WhatsApp kwa kampeni zako za uuzaji, jukwaa letu linatoa zana za kukusaidia kuanza.
+and_pages_default_51 === Zana Intuitive
+and_pages_default_53 === Tunatoa zana za kukusaidia na kazi za uuzaji kama vile kujibu kiotomatiki, viboreshaji vya wavuti na zaidi.
+and_pages_default_62 === Pata Pesa
+and_pages_default_64 === Kuwa mmoja wa washirika wetu na utumie vifaa vyako vya android kama lango na upate pesa kwa kila ujumbe unaotumwa.
+and_pages_default_73 === Kwa nini utumie huduma zetu?
+and_pages_default_74 === Hapa kuna baadhi ya sababu kwa nini unapaswa kuanza kutumia huduma zetu
+and_pages_default_84 === Utumaji wa haraka na mwingi
+and_pages_default_86 === Tuma ujumbe mwingi kwa vikundi tofauti vya anwani kwa urahisi na unaweza pia kutuma ujumbe wa haraka kwa shughuli za haraka. Mfumo wetu pia unajumuisha dashibodi ya moja kwa moja, pata arifa ujumbe wako unapotumwa au kupokelewa!
+and_pages_default_89 === Njia fupi
+and_pages_default_89_1 === kwa kutunga ujumbe wako na data iliyoainishwa awali.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === kwa kuweka maneno nasibu ili kupambana na masuala ya barua taka.
+and_pages_default_91 === Mfasiri
+and_pages_default_91_1 === kwa kulenga hadhira kulingana na lugha zao.
+and_pages_default_98 === Zana otomatiki na mahiri
+and_pages_default_100 === Simamia biashara yako huku tunashughulikia kazi chafu, jukwaa letu ni mahiri na linahitaji tu ujumbe unaotaka kutuma kisha tutafanya yaliyosalia!
+and_pages_default_103 === Ratiba
+and_pages_default_103_1 === sms zako na gumzo za whatsapp tarehe yoyote unayotaka.
+and_pages_default_104 === Viboko vya mtandao
+and_pages_default_104_1 === kwa kufanyia kazi baadhi kiotomatiki unapopokea ujumbe kutoka kwa sms na whatsapp.
+and_pages_default_105 === Vitendo
+and_pages_default_105_1 === kwa kuunda majibu ya kiotomatiki na ukaguzi wa data wa haraka wa matukio.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === kwa kufanya maombi yanayohusiana na mtandao kama vile kuangalia salio kutoka kwa opereta.
+and_pages_default_107 === Arifa
+and_pages_default_107_1 === kutoka kwa vifaa vilivyounganishwa vya android pia vinaweza kutumika kwa kazi za kiotomatiki.
+and_pages_default_137 === Tunakuhakikishia mafanikio ya biashara yako kwa vipengele vyetu vya kimkakati
+and_pages_default_139 === Jukwaa letu limeundwa vyema ili kukidhi matakwa ya biashara zinazoendelea kukua, tunataka kuhakikisha kwamba kila senti uliyotumia kwa huduma yetu inastahili na inakupa kuridhika kwa 100%.
+and_pages_default_145 === Rahisi kutumia na jukwaa la maji
+and_pages_default_148 === Nafuu lakini hudumisha huduma bora
+and_pages_default_156 === Zana angavu na dashibodi
+and_pages_default_159 === Uzoefu wa haraka na usiochelewa unapotangaza bidhaa zako
+and_pages_default_171 === Bei ya Huduma
+and_pages_default_187 === Tuma SMS
+and_pages_default_194 === Pokea SMS
+and_pages_default_201 === Tuma WhatsApp
+and_pages_default_208 === WhatsApp Pokea
+and_pages_default_215 === USSD
+and_pages_default_222 === Arifa
+and_pages_default_229 === SMS/Soga Zilizoratibiwa
+and_pages_default_236 === Anwani
+and_pages_default_243 === Vifunguo vya API
+and_pages_default_250 === Viboko vya mtandao
+and_pages_default_257 === Vitendo
+and_pages_default_264 === Vifaa vya Android
+and_pages_default_271 === Akaunti za WhatsApp
+and_pages_default_287 === Wateja wetu
+and_pages_default_290 === Inaaminiwa na zaidi ya wateja 3,000+. Anza kuuza bidhaa zako na kukuza biashara yako nasi!
+landing_title_default === Vifaa vya Simu za Android kama Lango la SMS
+landing_nav_login === Weka sahihi
+landing_lead_desc === Tumia mpango wa sms usio na kikomo wa mtoa huduma wako wa mtandao, suluhisho la bei nafuu na la gharama nafuu kwa uuzaji, sms nyingi na miradi katika nchi yako. Tumia WhatsApp kufikia hadhira kubwa zaidi, jukwaa letu linatoa zana kamili za kukusaidia kuanza.
+landing_footer_ourcomp === Kampuni ya nje
+landing_footer_about === Kuhusu
+landing_footer_tos === Masharti ya Huduma
+landing_footer_privacy === Sera ya Faragha
+landing_footer_links === Viungo vya tovuti
+landing_footer_login === Weka sahihi
+landing_footer_register === Jisajili
+landing_footer_copyright === Haki zote zimehifadhiwa
+dashboard_title_default === Dashibodi
+dashboard_title_contacts === Anwani
+dashboard_title_tools === Zana
+dashboard_title_admin === Utawala
+dashboard_nav_default === Dashibodi
+dashboard_nav_contacts === Anwani
+dashboard_nav_tools === Zana
+dashboard_nav_menusubscription === Usajili
+dashboard_nav_menusettings === Mipangilio
+dashboard_nav_menulogout === Ondoka
+dashboard_btn_addcontact === Ongeza Anwani
+dashboard_btn_adddevice === Ongeza Kifaa
+dashboard_btn_addgroup === Ongeza Kikundi
+dashboard_btn_addtemplate === Ongeza Kiolezo
+dashboard_btn_addkey === Ongeza Ufunguo
+dashboard_btn_addhook === Ongeza Webhook
+dashboard_btn_build === Jenga
+dashboard_btn_buildsettings === Mipangilio
+dashboard_btn_settings === Mfumo
+dashboard_btn_theme === Mandhari
+dashboard_btn_adduser === Ongeza Mtumiaji
+dashboard_btn_addpackage === Ongeza Kifurushi
+dashboard_btn_addwidget === Ongeza Wijeti
+dashboard_btn_addlanguage === Ongeza Lugha
+dashboard_footer_about === Kuhusu
+dashboard_footer_terms === Masharti ya Huduma
+dashboard_footer_privacy === Sera ya Faragha
+dashboard_footer_copyright === Haki zote zimehifadhiwa
+dashboard_messages_menusent === Imetumwa
+dashboard_messages_menureceived === Imepokelewa
+dashboard_messages_menutemplates === Violezo
+dashboard_messages_tabreceivedtitle === Umepokea Ujumbe
+dashboard_messages_tabtemplatestitle === Violezo
+dashboard_messages_tablesentrecipient === Mpokeaji
+dashboard_messages_tablesentmessage === Ujumbe
+dashboard_messages_tablesentcreated === Imeundwa
+dashboard_messages_tablesentoptions === Chaguzi
+dashboard_messages_tablereceivedsender === Mtumaji
+dashboard_messages_tablereceivedmessage === Ujumbe
+dashboard_messages_tablereceivedreceived === Imepokelewa
+dashboard_messages_tablereceivedoptions === Chaguzi
+dashboard_messages_tabletemplatesname === Jina la Kiolezo
+dashboard_messages_tabletemplatesformat === Umbizo la Kiolezo
+dashboard_messages_tabletemplatesoptions === Chaguzi
+dashboard_contacts_title === Anwani
+dashboard_contacts_menusaved === Imehifadhiwa
+dashboard_contacts_menugroups === Vikundi
+dashboard_contacts_tabsavedtitle === Anwani Zilizohifadhiwa
+dashboard_contacts_tabgroupstitle === Vikundi vya Mawasiliano
+dashboard_contacts_tablesavedname === Jina la mawasiliano
+dashboard_contacts_tablesavednumber === Namba ya mawasiliano
+dashboard_contacts_tablesavedoptions === Chaguzi
+dashboard_contacts_tablegroupsname === Jina la Kikundi
+dashboard_contacts_tablegroupsoptions === Chaguzi
+dashboard_devices_tableregisteredbrand === Mtengenezaji
+dashboard_devices_tableregisteredversion === Toleo
+dashboard_devices_tableregisteredadded === Imesajiliwa
+dashboard_devices_tableregisteredoptions === Chaguzi
+dashboard_tools_title === Zana
+dashboard_tools_menukeys === Vifunguo vya API
+dashboard_tools_menuhooks === Viboko vya mtandao
+dashboard_tools_tabkeystitle === Vifunguo vya API
+dashboard_tools_tabhookstitle === Viboko vya mtandao
+dashboard_tools_tablekeysname === Jina
+dashboard_tools_tablekeyspermissions === Ruhusa
+dashboard_tools_tablekeysoptions === Chaguzi
+dashboard_tools_tablehooksname === Jina
+dashboard_tools_tablehooksurl === URL ya Mtandao
+dashboard_tools_tablehooksoptions === Chaguzi
+dashboard_admin_title === Msimamizi
+dashboard_admin_menustats === Takwimu
+dashboard_admin_menuusers === Watumiaji
+dashboard_admin_menupackages === Vifurushi
+dashboard_admin_menusubscriptions === Usajili
+dashboard_admin_menutransactions === Shughuli
+dashboard_admin_menuwidgets === Wijeti
+dashboard_admin_menulanguages === Lugha
+dashboard_admin_tabdefaultearningstitle === Mapato
+dashboard_admin_tabdefaultmessageslast === Siku 30 zilizopita
+dashboard_admin_tabuserstitle === Watumiaji
+dashboard_admin_tabpackagestitle === Vifurushi
+dashboard_admin_tabsubscriptionstitle === Usajili
+dashboard_admin_tabtransactionstitle === Shughuli
+dashboard_admin_tabwidgetstitle === Wijeti
+dashboard_admin_tablanguagestitle === Lugha
+dashboard_admin_tableusersname === Jina
+dashboard_admin_tableusersemail === Barua pepe
+dashboard_admin_tableusersoptions === Chaguzi
+dashboard_admin_tablepackagesname === Jina
+dashboard_admin_tablepackagesprice === Bei
+dashboard_admin_tablepackagesoptions === Chaguzi
+dashboard_admin_tablesubscriptionsuser === Mtumiaji
+dashboard_admin_tablesubscriptionspackage === Kifurushi
+dashboard_admin_tablesubscriptionsprice === Bei
+dashboard_admin_tablesubscriptionsexpire === Tarehe ya kuisha
+dashboard_admin_tablesubscriptionsoptions === Chaguzi
+dashboard_admin_tabletransactionscustomer === Mteja
+dashboard_admin_tabletransactionsprovider === Mtoa huduma
+dashboard_admin_tablewidgetsname === Jina la Widget
+dashboard_admin_tablewidgetstype === Aina
+dashboard_admin_tablewidgetssize === Ukubwa
+dashboard_admin_tablewidgetsposition === Nafasi
+dashboard_admin_tablewidgetsoptions === Chaguzi
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Jina la Lugha
+dashboard_admin_tablelanguagescreated === Imeundwa
+dashboard_admin_tablelanguagesoptions === Chaguzi
+table_search_text === Tafuta
+table_search_placeholder === Weka manenomsingi hapa...
+response_invalid === Ombi Batili!
+response_went_wrong === Hitilafu fulani imetokea!
+response_session_false === Kikao hakipo!
+response_session_true === Kipindi tayari kipo!
+response_invalid_emailpass === Barua pepe/nenosiri si sahihi!
+response_loggedin_success === Imefanikiwa kuingia!
+response_loggedout_success === Imefanikiwa kuondoka!
+response_invalid_email === Anwani ya barua pepe si sahihi!
+response_retrieval_received === Tumepokea ombi la kurejesha akaunti, puuza ikiwa hukuomba.
+response_solve_captcha === Tafadhali tatua changamoto ya kupambana na roboti!
+response_register_false === Usajili umezimwa!
+response_name_short === Jina ni fupi mno!
+response_password_short === Nenosiri lazima liwe zaidi ya herufi 5!
+response_password_notmatch === Manenosiri hayalingani!
+response_register_success === Usajili umefaulu!
+response_email_unavailable === Anwani ya barua pepe ilikuwa tayari imesajiliwa!
+response_upload_applogo === Tafadhali pakia nembo ya programu yako!
+response_upload_appsplash === Tafadhali pakia programu yako Splash!
+response_pcode_empty === Tafadhali weka msimbo wako wa ununuzi katika mipangilio ya mfumo!
+response_buildserver_false === Haiwezi kuunganisha ili kuunda seva!
+response_invalid_number === Nambari ya simu ya mkononi si sahihi!
+response_message_short === Ujumbe mfupi sana!
+response_message_queued === Ujumbe umeongezwa kwenye foleni!
+response_message_bulkqueued === Ujumbe mwingi umewekwa kwenye foleni ili kutumwa!
+response_format_short === Umbizo ni fupi mno!
+response_template_added === Kiolezo kimeongezwa!
+response_number_exist === Nambari ya mawasiliano tayari ipo!
+response_contact_added === Anwani imeongezwa!
+response_group_added === Kikundi cha mawasiliano kimeongezwa!
+response_permission_min === Tafadhali chagua angalau ruhusa 1!
+response_key_added === Ufunguo wa API umeongezwa!
+response_invalid_webhookurl === URL batili ya Webbook!
+response_webhook_added === Webhook imeongezwa!
+response_user_added === Mtumiaji ameongezwa!
+response_package_added === Kifurushi kimeongezwa!
+response_widget_added === Wijeti imeongezwa!
+response_language_added === Lugha imeongezwa!
+response_avatar_invalid === Avatar haiwezi kupakiwa!
+response_profile_updated === Wasifu umesasishwa!
+response_package_purchasedtitle === Umejiandikisha kupokea kifurushi kinacholipiwa, risiti yako ndiyo hii!
+response_package_purchased === Umejisajili kwa kifurushi!
+response_template_updated === Kiolezo kimesasishwa!
+response_contact_updated === Anwani imesasishwa!
+response_group_updated === Kikundi cha mawasiliano kimesasishwa!
+response_key_updated === Ufunguo wa API umesasishwa!
+response_webhook_updated === Webbook imesasishwa!
+response_user_updated === Mtumiaji amesasishwa!
+response_package_updated === Kifurushi kimesasishwa!
+response_widget_updated === Wijeti imesasishwa!
+response_language_updated === Lugha imesasishwa!
+response_builder_packagenameshort === Jina la kifurushi ni fupi mno!
+response_builder_appnameshort === Jina la programu ni fupi mno!
+response_builder_applogofail === Nembo ya programu haiwezi kupakiwa!
+response_builder_appsplashfail === Programu ya Splash haiwezi kupakiwa!
+response_builder_settingsupdated === Mipangilio ya wajenzi imesasishwa!
+response_theme_updated === Mipangilio ya mandhari imesasishwa!
+response_system_settingsupdated === Mipangilio ya mfumo imesasishwa!
+response_deleted_sent === Ujumbe uliotumwa umefutwa!
+response_deleted_received === Ujumbe uliopokelewa umefutwa!
+response_deleted_template === Kiolezo kimefutwa!
+response_deleted_contact === Anwani imefutwa!
+response_deleted_group === Kikundi cha anwani kimefutwa!
+response_deleted_device === Kifaa kimefutwa!
+response_deleted_key === Ufunguo wa API umefutwa!
+response_deleted_hook === Webbook imefutwa!
+response_deleted_defaultuserfalse === Mtumiaji chaguo-msingi hawezi kufutwa!
+response_deleted_user === Mtumiaji amefutwa!
+response_deleted_defaultpackagefalse === Kifurushi chaguomsingi hakiwezi kufutwa!
+response_deleted_package === Kifurushi kimefutwa!
+response_deleted_subscription === Usajili umefutwa!
+response_deleted_widget === Wijeti imefutwa!
+response_deleted_defaultlangfalse === Lugha chaguo-msingi haiwezi kufutwa!
+response_deleted_language === Lugha imefutwa!
+response_lang_changed === Lugha imebadilishwa!
+modal_usersettings_title === Mipangilio
+modal_subscription_title === Usajili
+modal_packages_title === Vifurushi
+modal_smsquick_title === SMS ya haraka
+modal_smsbulk_title === SMS nyingi
+modal_addtemplate_title === Ongeza Kiolezo
+modal_edittemplate_title === Badilisha Kiolezo
+modal_addcontact_title === Ongeza Anwani
+modal_editcontact_title === Hariri Anwani
+modal_addgroup_title === Ongeza Kikundi
+modal_editgroup_title === Badilisha Kikundi
+modal_adddevice_title === Ongeza Kifaa
+modal_addkey_title === Ongeza Ufunguo wa API
+modal_editkey_title === Badilisha Ufunguo wa API
+modal_edithook_title === Hariri Webbook
+modal_buildersettings_title === Mipangilio ya Wajenzi
+modal_themesettings_title === Mipangilio ya Mandhari
+modal_systemsettings_title === Mipangilio ya Mfumo
+modal_adduser_title === Ongeza Mtumiaji
+modal_edituser_title === Badilisha Mtumiaji
+modal_addpackage_title === Ongeza Kifurushi
+modal_editpackage_title === Badilisha Kifurushi
+modal_addwidget_title === Ongeza Wijeti
+modal_editwidget_title === Hariri Wijeti
+modal_addlanguage_title === Ongeza lugha
+modal_editlanguage_title === Badilisha Lugha
+require_email === Barua pepe
+require_password === Nenosiri
+require_name === Jina kamili
+require_cpassword === Uthibitishaji wa nenosiri
+require_phone === Nambari ya simu
+require_device === Kifaa
+require_message === Ujumbe
+require_groups === Vikundi vya mawasiliano
+require_sim === SIM yanayopangwa
+require_priority === Chaguo la kipaumbele
+require_api === Chaguo la API
+require_templatename === Jina la kiolezo
+require_templateformat === Umbizo la kiolezo
+require_contactname === Jina la mawasiliano
+require_group === Kikundi cha mawasiliano
+require_groupname === Jina la kikundi
+require_apiname === Jina la ufunguo wa API
+require_permissions === Ruhusa
+require_hookname === Jina la Webhook
+require_hookurl === Url ya mtandao
+require_appname === Jina la programu
+require_appcolor === Rangi ya programu
+require_packagename === Jina la kifurushi
+require_widgetname === Widget jina
+require_widgetsize === Ukubwa wa Widget
+require_widgetposition === Nafasi ya Widget
+require_widgettype === Aina ya Widget
+require_languagename === Jina la lugha
+require_languageiso === Lugha iso
+require_languagestr === Tafsiri za lugha
+btn_submit === Wasilisha
+btn_download === Pakua
+btn_done === Imekamilika
+btn_purchase === Nunua
+btn_free === Bure
+btn_send === Tuma
+btn_save === Hifadhi
+btn_packages === Vifurushi
+btn_retrieve === Rejesha
+btn_signin === Weka sahihi
+btn_signup === Jisajili
+form_name === Jina
+form_number === Nambari ya simu
+form_group === Kikundi cha Mawasiliano
+form_adddevice_one === Kuongeza kifaa kipya cha android kwenye akaunti yako ni rahisi sana, tulihakikisha kuwa unaweza kuendelea bila kupoteza baadhi ya muda wako muhimu, fuata hatua hizi.
+form_adddevice_two === 1. Pakua na Usakinishe
+form_adddevice_three === Kwanza, pakua na usakinishe programu yetu ya lango kwa kubofya kitufe hiki.
+form_adddevice_four === 2. Kusajili Kifaa
+form_adddevice_five === Sasa fungua programu ya lango na ubofye kitufe cha kutambaza kisha uchanganue msimbo huu wa qrcode.
+form_adddevice_six === 3. Imekamilika!
+form_adddevice_seven === Kifaa kimeongezwa kwenye akaunti yako, sasa unaweza kuanza kutuma ujumbe!
+form_permissions === Ruhusa
+form_countrycode === Msimbo wa Nchi
+form_translations === Kamba za Tafsiri
+form_translations_placeholder === Ingiza tafsiri hapa...
+form_packageprice === Bei
+form_packagesend === Tuma Kikomo
+form_packagereceive === Pokea Kikomo
+form_packagedevice === Kikomo cha Kifaa
+form_packagekey === Kikomo muhimu
+form_packagehook === Kikomo cha Webhook
+form_templatename_placeholder === Tangazo
+form_templateformat === Umbizo
+form_templateformat_placeholder === Ingiza umbizo la kiolezo chako hapa...
+form_shortcodes === Njia fupi
+form_emailaddress === Barua pepe
+form_password === Nenosiri
+form_password_leave === Acha tupu ili kuweka nenosiri la sasa
+form_language === Lugha
+form_webhookname_placeholder === Jibu Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Masharti ya Huduma
+form_widgeticon === Aikoni
+form_widgettype === Aina
+form_widgetsize === Ukubwa
+form_widgetsmall === Ndogo
+form_widgetmedium === Kati
+form_widgetlarge === Kubwa
+form_widgetxlarge === Ziada kubwa
+form_widgetposition === Nafasi
+form_widgetcenter === Kituo
+form_widgetleft === Kushoto
+form_widgetright === Haki
+form_widgetcontent === Maudhui
+form_builderpackagename === Jina la Kifurushi
+form_builderappname === Jina la Programu
+form_builderappdesc === Maelezo ya Programu
+form_builderappdesc_placeholder === Hii ni programu ya kushangaza
+form_builderapplogo === Nembo ya Programu
+form_builderappsplash === Programu ya Splashscreen
+form_uploaded === Imepakiwa
+form_notuploaded === Hakuna
+form_themebg === Rangi ya Mandharinyuma
+form_themetext === Angazia Rangi
+form_settingsite === Tovuti
+form_settingssitename === Jina la Tovuti
+form_settingssitedesc === Maelezo ya Tovuti
+form_settingspcode === Kanuni ya Ununuzi
+form_settingsprotocol === Itifaki
+form_settingsdeflang === Lugha Chaguomsingi
+form_settingsreg === Usajili
+form_settingsmailing === Utumaji barua
+form_settingsmailfunc === Kazi ya Barua
+form_settingssitemail === Barua pepe ya tovuti
+form_settingssmtphost === Mpangishi wa SMTP
+form_settingssmtpport === Bandari ya SMTP
+form_settingssmtpusername === Jina la mtumiaji la SMTP
+form_settingssmtppassword === Nenosiri la SMTP
+form_settingssmtp_small === Inahitajika kwa SMTP ya mbali
+form_settingspayments === Malipo
+form_settingspaypaltest === Njia ya Mtihani wa Paypal
+form_settingssecurity === Usalama
+form_settingsrecaptchakey === Recaptcha Site Key
+form_settingsrecaptchasecret === Ufunguo wa Siri wa Recaptcha
+form_enable === Washa
+form_disable === Zima
+form_native === Asili
+form_remotesmtp === SMTP ya mbali
+form_device === Kifaa cha Mkononi
+form_sim === Sim Slot
+form_priority === Kipaumbele
+form_yes === Ndiyo
+form_no === Hapana
+form_freefor === Bure Milele
+form_monthly === Kila mwezi
+form_groups === Vikundi vya Mawasiliano
+form_template === Kiolezo
+form_none === Hakuna
+form_message === Ujumbe
+form_message_placeholder === Weka ujumbe wako hapa...
+form_avatar === Avatar
+form_changepass === Badilisha neno la siri
+form_package === Kifurushi
+form_keys === Vifunguo vya API
+form_hooks === Viboko vya mtandao
+form_daily === kila siku
+form_forgotpass === Umesahau nywila
+form_fullname === Jina kamili
+form_cpassword === Thibitisha Nenosiri
+form_haveaccount === Nina Akaunti
+datatable_processing === Inachakata, tafadhali subiri...
+datatable_length === Inaonyesha maingizo 8881
+datatable_info === Inaonyesha _START_ hadi _END_ kati ya maingizo _TOTAL_
+datatable_empty === Inaonyesha 0 hadi 0 kati ya maingizo 0
+datatable_filtered === (imechujwa kutoka jumla ya maingizo _MAX_)
+datatable_loading === Inapakia, tafadhali subiri...
+datatable_zero === Hatujapata chochote kinacholingana na hoja yako!
+datatable_null === Hakuna data ya kuonyesha!
+datatable_first === Kwanza
+datatable_prev === Iliyotangulia
+datatable_next === Inayofuata
+datatable_last === Mwisho
+delete_title === Ungependa kufuta?
+delete_tagline === Kitendo hiki hakiwezi kutenduliwa!
+validate_cannotemp === haiwezi kuwa tupu!
+alert_attention === Tahadhari
+copy_data === Data imenakiliwa kwenye ubao wa kunakili!
+date_today === Leo
+date_yesterday === Jana
+date_7days === Siku 7 zilizopita
+date_30days === Siku 30 zilizopita
+date_month === Mwezi huu
+date_lmonth === Mwezi uliopita
+date_custom === Masafa Maalum
+unknown_action_method === Mbinu ya hatua isiyojulikana!
+mollie_redirecting_page === Inaelekezwa kwenye ukurasa wa malipo wa mollie...
+form_settingsmolliekey === Ufunguo wa API ya Mollie
+btn_confirm === Thibitisha
+btn_cancel === Ghairi
+recaptcha_add_keys === Tafadhali ongeza funguo zako za recaptcha ili kuwezesha kipengele hiki!
+pay_with_paypal === Lipa kwa Paypal
+pay_with_mollie === Lipa na Mollie
+form_settingsenabledproviders === Watoa Huduma Waliowezeshwa
+form_builderappicon === Aikoni ya Programu
+payment_transact_failed === Shughuli ya malipo imeshindwa!
+cookieconsent_message === Tunatumia vidakuzi ili kuhakikisha kuwa unapata matumizi bora kwenye tovuti yetu.
+cookieconsent_link === Jifunze zaidi
+role_added === Jukumu limeongezwa!
+role_updated === Jukumu limesasishwa!
+role_deleted === Jukumu limefutwa!
+role_default_update === Jukumu chaguo-msingi haliwezi kuhaririwa!
+role_default_delete === Jukumu chaguo-msingi haliwezi kufutwa!
+voucher_added === Vocha imeongezwa!
+form_voucher === Msimbo wa Vocha
+btn_redeem === Komboa
+invalid_voucher_code === Msimbo wa vocha si sahihi!
+voucher_deleted === Vocha imefutwa!
+form_title_addvoucher === Ongeza Vocha
+form_title_addsubscription === Ongeza Usajili
+form_adduser_role === Jukumu
+require_pagename === Jina la Ukurasa
+require_pageroles === Majukumu yanayoruhusiwa
+form_pageroles === Majukumu yanayoruhusiwa
+require_vouchercode === Msimbo wa vocha
+form_settingscurrency === Sarafu
+btn_bulkexcel === Excel
+response_leastprovider === Tafadhali chagua angalau mtoaji 1 wa malipo!
+user_subscriptioncontacts === Anwani
+response_suspended === Akaunti yako imesimamishwa na msimamizi!
+response_adminsuspend === Akaunti chaguo-msingi haiwezi kusimamishwa!
+response_successsuspend === Mtumiaji amesimamishwa!
+response_successunsuspend === Mtumiaji amesimamishwa!
+suspend_user_title === Ungependa Kusimamisha Mtumiaji?
+suspend_user_desc === Mtumiaji huyu hataweza kuingia na kutumia huduma
+unsuspend_user_title === Ungependa Kusimamisha Mtumiaji?
+unsuspend_user_desc === Mtumiaji huyu ataweza kuingia na kutumia huduma tena
+all_languages === Lugha Zote
+response_invalid_excel === Faili ya excel si sahihi!
+response_contacts_imported === Anwani zimeingizwa!
+table_role_name === Jina la jukumu
+table_role_permissions === Ruhusa
+table_voucher_name === Jina
+table_voucher_package === Kifurushi
+table_page_name === Jina la Ukurasa
+table_page_require === Inahitaji Kuingia
+table_page_roles === Majukumu yanayoruhusiwa
+import_btn === Ingiza
+form_excelfile === Faili ya Excel
+form_hook_addtitle === Ongeza Kitendo cha Hook
+form_hook_edittitle === Hariri Hook Action
+form_hook_event === Tukio
+form_hook_link === Muundo wa Kiungo
+form_autoreply_addtitle === Ongeza Kitendo cha Kujibu
+form_autoreply_edittitle === Badilisha Kitendo cha Kujibu
+form_autoreply_keywords === Maneno muhimu
+form_autoreply_message === Jibu Ujumbe
+require_action_name === Jina la kitendo
+require_action_event === Aina ya tukio
+require_action_link === Muundo wa kiungo
+require_action_keywords === Maneno muhimu
+require_action_message === Jibu ujumbe
+response_invalid_linkstructure === Muundo wa kiungo batili!
+response_hook_added === Kitendo cha ndoano cha SMS kimeongezwa!
+response_invalid_keywords === Lazima uweke angalau nenomsingi 1!
+response_autoreply_added === Kitendo cha kujibu SMS kimeongezwa!
+response_hook_updated === Kitendo cha kuunganisha SMS kimesasishwa!
+response_autoreply_updated === Kitendo cha kujibu SMS kimesasishwa!
+response_action_deleted === Kitendo cha SMS kimefutwa!
+table_action_name === Jina
+form_scheduled_title === Panga SMS
+response_scheduled_deleted === Ujumbe ulioratibiwa umefutwa!
+response_no_permission === Huna ruhusa ya kitendo hiki!
+response_builder_appiconfail === Aikoni ya programu haiwezi kupakiwa!
+form_require_login === Inahitaji Kuingia
+widget_addpage_title === Ongeza Ukurasa
+widget_editpage_title === Badilisha Ukurasa
+require_subscription_user === Mtumiaji
+require_voucher_name === Jina la vocha
+require_voucher_package === Kifurushi
+widget_alllang_title === Lugha Zote
+widget_smsexcel_title === SMS nyingi kutoka kwa Excel
+require_scheduled_name === Jina
+require_scheduled_date === Tarehe ya ratiba
+widget_importcontacts_title === Ingiza Anwani
+require_addrole_name === Jina la jukumu
+require_addrole_permissions === Ruhusa
+widget_editrole_title === Badilisha Jukumu
+response_page_added === Ukurasa umeongezwa!
+response_page_updated === Ukurasa umesasishwa!
+response_page_deleted === Ukurasa umefutwa!
+table_scheduled_name === Jina
+messages_scheduled_title === Imepangwa
+messages_scheduled_schedule === Panga SMS
+form_schedule_numbers === Nambari za Simu
+form_schedule_schedule === Ratiba
+form_schedule_repeat === Rudia
+form_bulksms_numbers === Nambari za Simu
+dashboard_tools_menuactions === Vitendo
+dashboard_admin_menuroles === Majukumu
+dashboard_admin_menuvouchers === Vocha
+dashboard_admin_menupages === Kurasa
+admin_gateway_title === Lango
+admin_gateway_status === Hali
+admin_gateway_notuploaded === Haijapakiwa
+admin_gateway_uploaded === Imepakiwa
+dashboard_roles_title === Majukumu ya Mtumiaji
+dashboard_roles_addrole === Ongeza Jukumu
+dashboard_vouchers_title === Vocha
+dashboard_vouchers_addrole === Ongeza Vocha
+form_voucher_package === Kifurushi
+dashboard_pages_title === Kurasa
+dashboard_pages_addpage === Ongeza Ukurasa
+form_theme_favicon === Favicon
+form_package_contactslimit === Kikomo cha Anwani
+response_limitation_send === Umefikia upeo wa juu unaoruhusiwa kutuma kwa leo!
+response_limitation_contact === Umefikia idadi ya juu zaidi ya anwani zinazoruhusiwa!
+response_limitation_key === Umefikia upeo wa juu wa funguo za API!
+response_limitation_webhook === Umefikia idadi ya juu zaidi ya vivinjari vinavyoruhusiwa!
+form_adminsettings_token === Ishara ya Mfumo
+response_upload_appicon === Tafadhali pakia aikoni ya programu yako!
+app_status_gateway_running === Lango linakimbia!
+app_device_registered === Imeunganishwa
+app_device_unregistered === Haijaunganishwa
+app_terminal_gateway_ready === Gateway iko tayari...
+app_terminal_gateway_register === Kifaa bado hakijaunganishwa...
+app_terminal_gateway_hash === Hashi
+app_terminal_gateway_registered === Kifaa kimeunganishwa...
+app_terminal_gateway_device === Imeshindwa kuunganisha kifaa...
+app_terminal_gateway_connecterror === Hitilafu wakati wa kuunganisha kwenye seva...
+app_terminal_gateway_started === Gateway imeanzishwa...
+app_terminal_gateway_stopped === Lango limesimamishwa...
+app_terminal_gateway_unregistered === Haiwezi kuwasha lango, kifaa bado hakijaunganishwa kwenye akaunti yoyote...
+app_terminal_feature_error === Hitilafu ya kipengele cha SMS
+app_terminal_sms_sent === Ujumbe umetumwa
+app_terminal_message_failed === Imeshindwa kutuma ujumbe
+app_dialog_wait === Tafadhali subiri...
+app_dialog_exit === Toka Lango
+app_dialog_exit_desc === Ungependa kuzima na kutoka kwenye lango?
+app_camera_qrcode_inside === Weka QRCcode yako ndani
+app_ui_status === Hali
+app_ui_exit === Utgång
+require_voucher_count === Idadi ya vocha haiwezi kuwa tupu!
+form_voucher_count === Hesabu ya Vocha
+cookieconsent_dismiss === Nimeelewa!
+title_payment_success === Uthibitishaji wa Agizo
+title_payment_cancel === Agizo Limeghairiwa
+header_payment_success === Uthibitishaji wa Agizo
+header_payment_cancel === Agizo Limeghairiwa
+body_payment_cancel === Umeghairi ombi lako la agizo.
+transaction_payment_success === Kitambulisho cha muamala:
+back_payment_page === Rudi kwenye Dashibodi
+form_settingspaypalemail === Barua pepe ya Biashara ya Paypal
+form_settingsanalytics === Ufunguo wa Google Analytics
+form_messagecounterchars === wahusika
+form_settingspagination === Mipaka ya Pagination
+form_settingssentpage === Ujumbe Uliotumwa Kwa Kila Ukurasa
+form_settingsreceivedpage === Ujumbe Uliopokewa kwa Kila Ukurasa
+form_settingsmessage === Mipangilio ya Ujumbe
+form_settingsmessagemin === Wahusika Wachache
+form_settingsmessagemax === Upeo wa Wahusika
+form_settingsmessagemark === Alama ya chini ya Ujumbe
+form_packagefootermark === Alama ya chini ya Ujumbe
+form_settingssmtpsecure === Usalama wa SMTP
+form_durationtitle === Muda
+form_durationpackage === Kifurushi chako:
+form_durationpay === Utalipa:
+form_durationmonth === Muda wa Mwezi
+form_subscriptionmonth === Muda wa Mwezi
+authenticate_fblogin === Ingia kwa kutumia facebook...
+authenticate_googlelogin === Ingia kwa google...
+authenticate_vklogin === Ingia kwa kutumia vkontakte...
+response_minplatforms === Tafadhali chagua angalau jukwaa 1 la kijamii!
+form_settingssocialtitle === Mipangilio ya Kijamii
+form_settingssocial === Uthibitishaji wa Kijamii
+form_settingssocialplatforms === Majukwaa Yanayowashwa
+form_usertimezone === Saa za eneo
+form_settingsloginrecaptcha === Ingia Recaptcha
+form_loginor === AU
+form_adddevicescandl === Pakua kupitia QR Scan
+form_status_online === Mtandaoni
+form_status_offline === Nje ya mtandao
+form_smsbulknonumbers === Tafadhali chagua kikundi cha anwani au weka nambari za mpokeaji!
+form_addsubscriptionuser === Mtumiaji
+form_addsubscriptionpackage === Kifurushi
+table_vouchersduration === Muda wa Mwezi
+table_pluginsname === Jina la programu-jalizi
+table_pluginsoptions === Chaguzi
+dashboard_admin_menuplugins === Programu-jalizi
+dashboard_admin_pluginstitle === Programu-jalizi
+dashboard_admin_pluginsadd === Ongeza programu-jalizi
+require_pluginfile === Faili ya programu-jalizi
+modal_addplugin_title === Ongeza programu-jalizi
+response_pluginwentwrong === Hitilafu fulani imetokea wakati wa kupakia programu-jalizi!
+response_plugininstalled === Programu-jalizi imesakinishwa!
+dashboard_title_login === Ingia
+dashboard_title_forgot === Umesahau nywila
+dashboard_title_register === Sajili
+response_limitation_contact2 === Umefikia idadi ya juu zaidi ya anwani kwenye usajili wako, ni anwani _8880_ pekee ndizo zimeingizwa!
+response_contacts_imported2 === Anwani _8880_ zimeletwa kwa ufanisi!
+form_systemsettingshomepage === Ukurasa wa Nyumbani Chaguomsingi
+app_dialog_update_desc === Kuna toleo jipya la toleo linalopatikana kwa programu ya lango, kusasisha kunahitajika!
+app_dialog_update_download === Pakua
+app_gateway_build_text === Ujenzi wa lango
+response_gateway_available === Inapakua lango, tafadhali subiri...
+response_gateway_unavailable === Lango halipatikani, tafadhali wasiliana na msimamizi wa tovuti!
+response_gateway_randommax === Muda wa juu zaidi wa kutuma hauwezi kuwa zaidi ya sekunde 300!
+response_device_updated === Kifaa kimesasishwa!
+form_editdevice_devicename === Jina la Kifaa
+form_editdevice_randomsend === Muda wa Kutuma bila mpangilio
+form_editdevice_randommin === Muda wa Kutuma Muda
+form_editdevice_randommax === Tuma Muda wa Max
+form_smsall_globalstatus === Ulimwenguni
+form_select_multinone === Hakuna
+form_package_hiddenselect === Imefichwa
+landing_footer_ourcompnew === Kampuni yetu
+form_smsschedule_submit === Ratiba
+require_devicename === Jina la kifaa
+require_randommin === Muda wa chini bila mpangilio
+require_randommax === Muda wa juu bila mpangilio
+admin_update_installed === Imesakinishwa
+admin_update_btn === Sasisha
+response_update_success === Mfumo umesasishwa!
+form_settings_tawkchatlink === Kiungo cha Gumzo la Tawk moja kwa moja
+model_title_editplugin === Hariri Programu-jalizi
+btn_other_paymentmethods === Mbinu Nyingine za Malipo
+dashboard_btn_support === Msaada
+pendingdelete_title === Ungependa kufuta ambayo Inasubiri?
+pendingdelete_desc === Je, ungependa kufuta barua pepe zote ambazo hazijashughulikiwa? Kitendo hiki hakiwezi kutenduliwa!
+dashboard_messages_tablefullmessage === Ujumbe Kamili
+administration_landing_btncache === Akiba
+administration_landing_payouts === Malipo
+administration_landing_marketing === Masoko
+administration_landing_gateways === Milango
+administration_landing_shorteners === Vifupisho
+administration_landing_editor === Kihariri Kiolezo
+administration_landing_api === API ya Msimamizi
+administration_landing_build === Jenga
+administration_landing_system === Mfumo
+requests_charts_smssent === SMS Imetumwa
+requests_charts_smsreceived === SMS Imepokelewa
+requests_charts_wasent === WhatsApp Imetumwa
+requests_charts_wareceived === WhatsApp Imepokelewa
+requests_charts_ussd === USSD
+requests_charts_notifications === Arifa
+requests_charts_credits === Mikopo
+administration_default_visitors === Wageni
+administration_default_countries === Nchi
+administration_default_browsers === Vivinjari
+administration_default_os === Mifumo ya Uendeshaji
+administration_default_usages === Matumizi
+administration_default_messages === Ujumbe
+administration_default_utilities === Huduma
+administration_default_subscriptions === Usajili
+administration_default_credits === Mikopo
+tables_users_registered === Imesajiliwa
+tables_users_details === Maelezo
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Viwango vya lango
+dashboard_title_docs === Nyaraka
+app_status_gateway_touch === Gusa hapa ili kufungua lango
+app_dialog_downloading_update === Inapakua Sasisho
+app_dialog_interface_disabled === Kiolesura kimezimwa, tafadhali sasisha programu hadi toleo jipya zaidi!
+app_dialog_somethingwent_wrong === Lo, hitilafu fulani imetokea!
+app_intro_level_1 === Asante kwa kutumia mfumo wetu, ili kuboresha matumizi yako na kujifahamisha na programu, hebu tuchunguze na tutakueleza vipengele vyote muhimu unavyohitaji kujua.
+app_intro_level_2 === Utaona jina la kifaa na hali ya kiungo hapa.
+app_intro_level_3 === Ili kuunganisha kifaa kwenye akaunti yako, tumia kitufe hiki kuingia au kuchanganua QRCode yako ili kuunganisha.
+app_intro_level_4 === Tumia swichi hii kuwasha au kuzima lango.
+app_intro_level_5 === Kuwasha swichi hii kutafanya programu ya lango kusikiliza arifa mpya ambazo zinaweza kudhibitiwa kiprogramu kwenye jukwaa. Hii imezimwa kwa chaguo-msingi.
+app_intro_level_6 === Tumia kitufe hiki kuzima na kutoka kwenye programu ya lango.
+app_intro_level_7 === Hiki ndicho kituo, miamala ya ujumbe na kumbukumbu za shughuli zingine zitaonyeshwa hapa.
+app_intro_level_8 === Hiki ni kitufe cha kitendo kinachoelea, unaweza kufikia baadhi ya chaguo na kurasa za ziada kama vile <b>Endesha Usuli</b> hapa.
+app_dialog_tour_complete === Unapaswa sasa kuelewa jinsi programu inavyofanya kazi, kwa maswali ya ziada, tafadhali wasiliana nasi!
+app_push_right_now === sasa
+app_device_detailes_updated === Maelezo ya kifaa yamesasishwa!
+app_ussd_requests_notsupported === Maombi ya USSD hayatumiki...
+app_notifications_listening_now === Inasikiliza arifa mpya...
+app_button_ok === Thibitisha
+app_dialog_update_smoothperm === Kwa masasisho laini na yanayofaa, tafadhali ruhusu ruhusa ya kusakinisha kutoka kwa programu hii.
+app_dialog_logging_in === Inaingia...
+app_dialog_invalid_email === Umeingiza barua pepe batili!
+app_dialog_invalid_password === Nenosiri ni fupi mno kuwa halali!
+app_dialog_notsupported_notinougat === Arifa kwa sasa hazitumiki kwa nougat na hapa chini, samahani kwa usumbufu.
+app_dialog_notifications_permission === Ili kufikia arifa kwa utaratibu, programu inahitaji ruhusa maalum. Tafadhali chagua programu kwenye orodha kisha uruhusu ufikiaji wa arifa.
+app_dialog_gateway_listennoti === Gateway sasa itasikiliza arifa mpya.
+app_dialog_gateway_notirestart === Gateway itaanza tena na itaacha kusikiliza arifa mpya.
+app_dialog_needto_link === Unahitaji kuunganisha kifaa kwenye akaunti yako kabla ya kutumia kipengele hiki.
+app_dialog_logoutfrom_device === Je, ungependa kuondoka kwenye kifaa hiki cha lango?
+app_document_runbackground === Endesha chinichini
+app_document_input_email === Barua pepe
+app_document_input_password === Nenosiri
+app_document_btn_login === Ingia
+app_document_text_or === au
+app_document_btn_scan === Changanua Msimbo wa QRC
+app_document_btn_cancel === Ghairi
+app_intro_next_btn === Inayofuata
+app_intro_back_btn === Nyuma
+response_token_generated === Tokeni ya mfumo imeundwa upya!
+response_trigger_done === Webhook imeanzishwa!
+response_build_gservicesfile === Tafadhali pakia faili yako ya huduma za google!
+response_build_fcredentialsfile === Tafadhali pakia faili yako ya vitambulisho vya firebase!
+response_build_loginlogo === Tafadhali pakia nembo ya kuingia kwenye programu yako!
+response_whatsapp_notprem === Akaunti haijasajiliwa kwa kifurushi chochote cha malipo!
+response_whatsapp_maxaccounts === Umefikia upeo wa juu unaoruhusiwa wa akaunti za WhatsApp kwa kifurushi chako!
+response_whatsapp_creatingqr === Inaunda WhatsApp QRCcode
+response_whatsapp_noconnectserver === Imeshindwa kuunganisha kwenye seva za WhatsApp!
+response_chart_dashsmssent === SMS Imetumwa
+response_chart_dashsmsreceive === SMS Imepokelewa
+response_chart_dashwasent === WA Imetumwa
+response_chart_dashwareceive === WA Imepokelewa
+response_chart_dashwebhooks === Viboko vya mtandao
+response_chart_dashactions === Vitendo
+response_chart_dashussd === USSD
+response_chart_dashnoti === Arifa
+response_resend_queued === Ujumbe umewekwa kwenye foleni ili kutumwa!
+mail_title_payoutapproved === Ombi lako la malipo limelipwa!
+response_payout_confirmed === Malipo yamethibitishwa!
+mail_title_payoutrejected === Ombi lako la malipo limekataliwa!
+response_payout_rejected === Malipo yamekataliwa!
+response_translate_msgshort === Ujumbe ni mfupi sana!
+response_clear_systemcleared === Faili za akiba ya mfumo zimefutwa!
+response_clear_smscleared === Barua pepe ambazo hazijashughulikiwa zimefutwa!
+response_clear_ussdcleared === Maombi ya USSD yanayosubiri yamefutwa!
+response_reorder_languages === Lugha zimepangwa upya!
+response_trash_selectedremoved === Vipengee vilivyochaguliwa vimefutwa!
+response_voucher_redeemed === Vocha imetumika!
+response_payout_invalidamount === Kiasi cha malipo si sahihi, haipaswi kuwa na thamani za desimali.
+response_payout_notenoughbal === Hakuna salio la kutosha kushughulikia ombi!
+response_payout_reqreceive === Ombi lako la malipo limepokelewa!
+response_payout_pendingreq === Bado una ombi la malipo linalosubiri!
+response_system_sysconfigerr === Hitilafu ya usanidi wa mfumo!
+response_message_toolong === Ujumbe wako ni mrefu sana!
+response_package_nosubwarn === Huna usajili wa kifurushi!
+response_message_notenoughcredsend === Hakuna salio la kutosha kutuma ujumbe huu!
+response_message_queuedforsend === Ujumbe umewekwa kwenye foleni ili kutumwa!
+response_message_sentsuccess === Ujumbe umetumwa!
+response_message_unablesendmesg === Hatuwezi kutuma ujumbe wako!
+response_smsexcel_phonenotfound === Safu wima ya _8880_ haikupatikana kwenye faili yako ya excel!
+response_smssched_queued === Ujumbe umeratibiwa!
+response_ussd_maximumreq === Idadi ya juu zaidi ya maombi ya USSD imefikiwa!
+response_ussd_queued === Ombi la USSD limewekwa kwenye foleni!
+response_whatsapp_reachedmaxchat === Tayari umefikia upeo wa juu wa gumzo unayoweza kutuma!
+response_whatsapp_chatqueued === Ujumbe wa WhatsApp umepangwa kutumwa!
+response_whatsapp_unableconnectserv === Imeshindwa kuunganisha kwenye seva za WhatsApp!
+response_whatsapp_bulkchatsqueued === Soga nyingi za WhatsApp zimewekwa kwenye foleni!
+response_whatsapp_excelphonecolnotfound === Safu wima ya _8880_ haikupatikana kwenye faili yako ya excel!
+response_whatsapp_chatscheduled === Soga imeratibiwa!
+response_importcontacts_phonenotfound === Safu wima ya _8880_ haikupatikana kwenye faili yako ya excel!
+response_importcontacts_groupsnotfound === Safu wima ya _8880_ haikupatikana kwenye faili yako ya excel!
+response_importcontacts_namenotfound === Safu wima ya _8880_ haikupatikana kwenye faili yako ya excel!
+response_package_pricenotlessone === Bei ya kifurushi haiwezi kuwa chini ya 1!
+response_subscription_addedsuccess === Usajili umeundwa!
+response_push_selectatleastoneuser === Tafadhali chagua angalau mtumiaji mmoja au jukumu!
+response_push_mesgtooshort === Ujumbe ni mfupi sana!
+response_push_titletooshort === Kichwa ni kifupi sana!
+response_push_imgfailed === Imeshindwa kupakia faili ya picha!
+response_push_created === Matangazo ya kushinikiza yameundwa!
+response_push_nousers === Hakuna watumiaji waliopatikana wa kutuma!
+response_notify_titletooshort === Kichwa ni kifupi sana!
+response_notify_mesgtooshort === Ujumbe ni mfupi sana!
+response_notify_selectuserrole === Tafadhali chagua angalau mtumiaji mmoja au jukumu!
+response_notify_imgfailed === Imeshindwa kupakia faili ya picha!
+response_notify_created === Tangazo la arifa limeundwa!
+response_notify_nousers === Hakuna watumiaji waliopatikana wa kutuma!
+response_mailer_titletooshort === Kichwa ni kifupi sana!
+response_mailer_contentooshort === Maudhui ni mafupi mno!
+response_mailer_nouserorrole === Tafadhali chagua angalau mtumiaji mmoja au jukumu!
+response_mailer_sendcounter === _8880_ kati ya _8881_ barua pepe zinazosubiri zimetumwa na mtumaji!
+response_mailer_mailprocessed === Utumaji barua nyingi umechakatwa!
+response_mailer_nousersorrole === Hakuna watumiaji waliopatikana wa kutuma!
+response_gateway_controllercannotempty === Faili ya kidhibiti haiwezi kuwa tupu!
+response_gateway_invalidcontroller === Faili ya kidhibiti si sahihi!
+response_gateway_addeddcontroller === Lango limeongezwa!
+response_shortener_cannotempty === Faili ya kidhibiti haiwezi kuwa tupu!
+response_shortener_invalidcontroller === Faili ya kidhibiti si sahihi!
+response_shortener_addedcontroller === Shortener imeongezwa!
+response_plugin_samenameinstalled === Programu-jalizi yenye jina sawa ilikuwa tayari imesakinishwa!
+response_smscheduled_editsuccess === Ujumbe ulioratibiwa umesasishwa!
+response_chatscheduled_editsuccess === Ratiba ya gumzo imesasishwa!
+response_editdevice_invalidrate === Thamani ya kiwango si sahihi, inapaswa kuwa nambari halali ya kuelea!
+response_editdevice_nametooshort === Jina la kifaa ni fupi mno!
+response_editdevice_nametoolong === Jina la kifaa ni refu sana!
+response_editdevice_invalidmaxinterval === Thamani ya juu batili ya muda!
+response_gateway_updatedsuccess === Gateway imesasishwa!
+response_shortener_editsuccess === Shortener imesasishwa!
+response_editplugin_success === Mipangilio ya programu-jalizi imesasishwa!
+response_updatepluin_corrupted === Faili ya kusasisha programu-jalizi imeharibika!
+response_updateplugin_updated === Programu-jalizi imesasishwa!
+response_builder_invalidgooglefile === Faili batili ya vitambulisho vya huduma za google!
+response_builder_invalidfirebasefile === Faili batili ya vitambulisho vya firebase!
+response_theme_sitelogofailed === Imeshindwa kupakia nembo ya tovuti!
+response_theme_sitebgfailed === Upakiaji wa usuli wa tovuti umeshindwa!
+response_theme_sitefavfailed === Upakiaji wa picha ya aikoni haujafaulu!
+response_notification_deletedsuccess === Arifa imefutwa!
+response_whatsapp_sentdeletesuccess === Gumzo la WhatsApp lililotumwa limefutwa!
+response_whatsapp_receivedeletesuccess === Gumzo la WhatsApp lililopokelewa limefutwa!
+response_whatsapp_scheduleddeletesuccess === Gumzo lililoratibiwa la WhatsApp limefutwa!
+response_whatsapp_accountdeletesuccess === Akaunti ya WhatsApp imefutwa!
+response_unsibscribe_contactdeletedsuccess === Nambari uliyojiondoa imefutwa!
+response_marketing_logdeletedsuccess === Rekodi ya uuzaji imefutwa!
+response_gateway_controllerdeletedsuccess === Lango limefutwa!
+response_shortener_controllerdeletedsuccess === Shortener imefutwa!
+table_androidsent_clipcopy === Nakala ya Ubao wa kunakili Uliotumwa _8880_
+table_androidsent_excel === Imetuma Excel Export _8880_
+table_androidsent_pdf === Imetuma PDF Hamisha _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Ripoti
+table_unknown_data === Haijulikani
+table_androidsent_statuspending === Inasubiri
+table_androidsent_statusqueued === Imewekwa kwenye foleni
+table_androidsent_statussent === Imetumwa
+table_androidsent_statusfailed === Imeshindwa
+table_none_data === Hakuna
+table_yes_data === Ndiyo
+table_no_data === Hapana
+table_removed_data === Imeondolewa
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Hali: _8880_, Modi: _8881_, Kanuni: _8882_, Kipaumbele: _8883_, API Imetumwa: _8884_, Sim Slot: SIM _8885_, Kifaa: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Vifaa
+table_androidsent_modenamecredits === Mikopo
+table_androidsent_reportline1 === Hali: _8880_
+table_androidsent_reportline2 === Njia: _8880_
+table_androidsent_reportline3 === Kodi: _8880_
+table_androidsent_reportline4 === Kipaumbele: _8880_
+table_androidsent_reportline5 === API Imetumwa: _8880_
+table_androidsent_reportline6 === Nafasi ya Sim: SIM _8880_
+table_androidsent_reportline7 === Kifaa: _8880_
+table_androidsent_reportline8 === Mfumo wa Uendeshaji: _8880_
+table_androidsent_exporttwo === Hali: _8880_, Modi: _8881_, Gateway: _8882_
+table_androidsent_reportline9 === Hali: _8880_
+table_androidsent_reportline10 === Njia: _8880_
+table_androidsent_reportline11 === Lango: _8880_
+table_androidsent_exportthree === Hali: _8880_, Modi: _8881_, Kanuni: _8882_, API Imetumwa: _8883_, Sim Slot: SIM _8884_, Gateway: _8885_
+table_androidsent_reportline12 === Hali: _8880_
+table_androidsent_reportline13 === Njia: _8880_
+table_androidsent_reportline14 === Kodi: _8880_
+table_androidsent_reportline15 === API Imetumwa: _8880_
+table_androidsent_reportline16 === Nafasi ya Sim: SIM _8880_
+table_androidsent_reportline17 === Lango: _8880_
+table_androidsent_titleresend === Tuma ujumbe huu tena
+table_title_deletethisitem === Futa kipengee hiki
+table_androidreceive_exportcopy === Nakala ya Ubao wa kunakili Iliyopokea _8880_
+table_androidreceive_exportexcel === Imepokea Usafirishaji wa Excel _8880_
+table_androidreceive_exportpdf === Usafirishaji wa PDF Umepokea _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Ripoti
+table_androidreceive_exportdata === Nafasi ya Sim: SIM _8880_, Kifaa: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Nafasi ya Sim: SIM _8880_
+table_androidreceive_reportline2 === Kifaa: _8880_
+table_androidreceive_reportline3 === Mfumo wa Uendeshaji: _8880_
+table_androidreceive_titlereply === Jibu kwa nambari
+table_androidscheduled_titleschedule === Ratiba
+table_androidscheduled_titledetails === Maelezo
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Njia: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Rudia: _8880_
+table_androidscheduled_detailsline4 === Kifaa: _8880_
+table_androidscheduled_detailsgroupslabel === Vikundi:
+table_androidscheduled_detailsnumberslabel === Nambari:
+table_androidscheduled_detailsline5 === Njia: _8880_
+table_androidscheduled_detailsline6 === Rudia: _8880_
+table_androidscheduled_detailsline7 === Lango: _8880_
+table_androidscheduled_detailsline8 === Njia: _8880_
+table_androidscheduled_detailsline9 === Rudia: _8880_
+table_androidscheduled_detailsline10 === Kifaa: _8880_
+table_title_editthisitem === Hariri kipengee hiki
+table_whatsappsent_exportcopy === Imetuma Nakala ya Ubao wa kunakili
+table_whatsappsent_exportexcel === Imetumwa Excel Export
+table_whatsappsent_exportpdf === Imetuma Usafirishaji wa PDF
+table_whatsappsent_accounttitle === Akaunti
+table_whatsappsent_recipienttitle === Mpokeaji
+table_whatsappsent_msgtitle === Ujumbe
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Hali
+table_ussd_exportcopy === Nakala ya Ubao wa kunakili wa USSD
+table_ussd_exportexcel === Usafirishaji wa USSD Excel
+table_ussd_exportpdf === Usafirishaji wa PDF wa USSD
+table_ussd_createdtitle === Imeundwa
+table_ussd_codetitle === Kanuni
+table_ussd_responsetitle === Jibu
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Hali
+table_ussd_devicetitle === Kifaa
+table_ussd_optionstitle === Chaguzi
+table_ussd_pendingresponsetext === Jibu Linalosubiri
+table_empty_data === Tupu
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Inasubiri
+table_ussd_queuelabel === Imewekwa kwenye foleni
+table_ussd_completelabel === Imekamilika
+table_ussd_detailsline1 === Kifaa: _8880_
+table_ussd_detailsline2 === Mfumo wa Uendeshaji: _8880_
+table_notifications_exportcopy === Nakala ya Ubao Klipu wa Arifa
+table_notifications_exportexcel === Arifa Usafirishaji wa Excel
+table_notifications_exportpdf === Arifa Usafirishaji wa PDF
+table_notifications_createdtitle === Imeundwa
+table_notifications_packagetitle === Jina la Kifurushi
+table_notifications_title === Kichwa
+table_notification_texttitle === Maandishi
+table_notification_devicetitle === Kifaa
+table_notification_optiontitle === Chaguzi
+table_notification_devicelabel === Kifaa:
+table_notification_oslabel === Mfumo wa Uendeshaji:
+table_devices_nametitle === Jina
+table_devices_globaltitle === Ulimwenguni
+table_enabled_data === Imewashwa
+table_disabled_data === Imezimwa
+table_notifications_exportone === Kifaa: _8880_, Mfumo wa Uendeshaji: _8881_
+table_whatsapp_pendinglabel === Inasubiri
+table_whatsapp_queuelabel === Imewekwa kwenye foleni
+table_whatsapp_sentlabel === Imetumwa
+table_whatsapp_failedlabel === Imeshindwa
+table_whatsappreceive_exportcopy === Nakala ya Ubao wa Kunakili Imepokea
+table_whatsappreceive_exportexcel === Imepokea Usafirishaji wa Excel
+table_whatsappreceive_exportpdf === Imepokea Uhamishaji wa PDF
+table_whatsappreceive_replytitle === Jibu kwa nambari
+table_waschedule_scheduletitle === Ratiba
+table_waschedule_detailstitle === Maelezo
+table_waschedule_detailsline1 === Rudia: _8880_
+table_waschedule_detailsline2 === Akaunti:
+table_waschedule_detailsline3 === Vikundi:
+table_waschedule_detailsline4 === Nambari:
+table_waaccounts_loggedtitle === Umeingia
+device_login_usevalidemail === Tafadhali tumia barua pepe halali!
+device_login_accountsuspended === Samahani, akaunti yako imesimamishwa!
+device_login_incorrectmailorpass === Umeingiza barua pepe au nenosiri lisilo sahihi!
+device_login_nosubscription === Huna usajili wa kifurushi!
+device_login_nomoredevice === Huwezi kusajili vifaa zaidi!
+device_scan_qrcodeinvalid === QRCcode yako ni batili!
+device_scan_nosub === Huna usajili wa kifurushi!
+device_scan_usersuspended === Samahani, akaunti yako imesimamishwa!
+device_scan_nomoredevices === Huwezi kusajili vifaa zaidi!
+device_report_smssentsuccess === Ujumbe _8880_ umetumwa kutoka _8881_
+device_report_smssentfailed === Imeshindwa kutuma ujumbe _8880_ kutoka _8881_
+device_received_smsreceived === _8880_ mpya imepokelewa kutoka _8881_
+requests_resend_devicenotexist === Kifaa hakipo!
+device_ussd_responsereceive === Jibu la USSD limepokelewa kutoka _8880_
+device_notification_notireceive === Arifa mpya imepokelewa kutoka _8880_
+payment_success_unknowntx === Haijulikani
+payment_webhook_molliecreditsadded === Mikopo imeongezwa kwenye akaunti yako!
+payment_webhook_paypalcreditsadded === Mikopo imeongezwa kwenye akaunti yako!
+payment_webhook_unknowntn === Haijulikani
+mail_tpl_creditstitle === Habari,
+mail_tpl_creditsdesc === Umenunua mikopo, tumeweka jumla ya _8880_ kwenye akaunti yako na unaweza kuitumia mara moja.
+mail_tpl_creditstnx === Asante!
+mail_tpl_poweredby === Inaendeshwa na _8880_
+forgot_response_recoverysent === Maagizo ya kurejesha yametumwa kwa _8880_
+forgot_response_recoveryfail === Hatuwezi kukutumia barua pepe!
+cron_package_expired === Muda wa usajili wako wa kifurushi umeisha!
+cron_package_expiring === Usajili wa kifurushi unaisha baada ya siku 5!
+table_waaccounts_waidtitle === Kitambulisho cha WhatsApp
+table_waaccounts_wauniquetitle === Kitambulisho cha kipekee
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Nakala ya Ubao wa kunakili kwa Vikundi _8880_
+table_contactssaved_exportexcel === Vikundi Excel Export _8880_
+table_contactssaved_exportpdf === Usafirishaji wa PDF wa Vikundi _8880_
+table_contactssaved_grouptitle === Vikundi
+table_contactsgroups_gidtitle === Kitambulisho cha kikundi
+table_contactsunsub_exportcopy === Nakala ya Ubao wa kunakili Uliojiondoa _8880_
+table_contactsunsub_exportexcel === Usafirishaji wa Excel uliojiondoa _8880_
+table_contactsunsub_exportpdf === Usafirishaji wa PDF Uliojiondoa _8880_
+table_toolskeys_createdtitle === Imeundwa
+table_toolskeys_copyapisecret === Nakili siri ya API kwenye ubao wa kunakili
+table_toolswebhooks_createtitle === Imeundwa
+table_tootlswebhooks_eventstitle === Matukio
+table_toolswebhooks_simulatebtn === Anzisha
+table_toolswebhooks_simulatedesc === Iga ombi la mtandao
+table_toolswebhooks_copywebhooksecret === Nakili siri ya kitabu cha wavuti kwenye ubao wa kunakili
+table_toolsactions_createtitle === Imeundwa
+table_toolsactions_detailstitle === Maelezo
+table_toolsactions_typehook === ndoano
+table_toolsactions_typeautoreply === Jibu kiotomatiki
+table_toolsactions_source === Chanzo: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Tukio: _8880_
+table_toolsactions_eventonsend === Kwenye Tuma
+table_toolsactions_eventonreceive === Juu ya Kupokea
+table_toolsactions_link === Kiungo:
+table_toolsactions_keywords === Maneno muhimu:
+table_toolsactions_message === Ujumbe:
+table_toolsactions_type === Aina: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Imeundwa
+table_ratespartners_countrytitle === Nchi
+table_ratespartners_detailstitle === Maelezo ya Kifaa
+table_ratespartners_ratetitle === Kiwango cha Ujumbe
+table_ratespartners_prioritytitle === Kipaumbele
+table_ratespartners_simtitle === Nafasi za SIM zinazoruhusiwa
+table_ratespartners_name === Jina:
+table_ratespartners_owner === Mmiliki:
+table_ratespartners_localrate === Kiwango cha Karibu:
+table_ratespartners_convertedrate === Kiwango Kilichobadilishwa:
+table_ratespartners_simdual === SIM 1 na SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Nakala ya Ubao Klipu wa Watumiaji _8880_
+table_adminusers_exportexcel === Watumiaji Excel Export _8880_
+table_adminusers_exportpdf === Watumiaji Hamisha PDF _8880_
+table_adminusersexportdata === Jukumu: _8880_, Nchi: _8881_, Lugha: _8882_, Saa za eneo: _8883_, Mapato: _8884_, Mikopo: _8885_, Usajili: _8886_, Sauti: _8887_, Imesimamishwa88888
+table_adminusers_exportdata1 === Jukumu: _8880_
+table_adminusers_exportdata2 === Nchi: _8880_
+table_adminusers_exportdata3 === Lugha: _8880_
+table_adminusers_exportdata4 === Saa za eneo:
+table_adminusers_exportdata5 === Mapato: _8880_
+table_adminusers_exportdata6 === Salio: _8880_
+table_adminusers_exportdata7 === Usajili:
+table_adminusers_exportdata8 === Sauti: _8880_
+table_adminusers_exportdata9 === Imesimamishwa: _8880_
+table_adminusers_unsuspendaccount === Acha kusimamisha akaunti hii
+table_adminusers_suspendaccount === Sitisha akaunti hii
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Imeundwa
+table_adminpackages_detailstitle === Maelezo ya Kifurushi
+table_adminpackages_freelabel === Bure
+table_unlimited_data === Bila kikomo
+table_adminpackages_labeldetails1 === Imefichwa:
+table_adminpackages_labeldetails2 === Alama ya chini ya ukurasa:
+table_adminpackages_labeldetails3 === Kikomo cha Kutuma SMS:
+table_adminpackages_labeldetails4 === Kikomo cha Kupokea SMS:
+table_adminpackages_labeldetails5 === Kikomo cha Kutuma WhatsApp:
+table_adminpackages_labeldetails6 === WhatsApp Pokea Kikomo:
+table_adminpackages_labeldetails7 === Kikomo cha Akaunti ya WhatsApp:
+table_adminpackages_labeldetails8 === Kiwango cha juu cha USSD:
+table_adminpackages_labeldetails9 === Kikomo cha Arifa:
+table_adminpackages_labeldetails10 === Kikomo cha Kifaa:
+table_adminpackages_labeldetails11 === Kikomo cha Mawasiliano:
+table_adminpackages_labeldetails12 === Kikomo cha Ufunguo wa API:
+table_adminpackages_labeldetails13 === Kikomo cha Webhook:
+table_adminpackages_labeldetails14 === Kikomo cha Kitendo:
+table_adminpackages_labeldetails15 === Kikomo Kilichoratibiwa:
+table_adminvouchers_exportcopy === Nakala ya Ubao Klipu wa Vocha _8880_
+table_adminvouchers_exportexcel === Vocha Excel Export _8880_
+table_adminvouchers_exportpdf === Vocha Hamisha PDF _8880_
+table_adminvouchers_createdtitle === Imeundwa
+table_adminvouchers_codetitle === Tumia Msimbo
+table_adminvouchers_copycode === Nakili msimbo wa vocha kwenye ubao wa kunakili
+table_adminsubscriptions_createdtitle === Imeundwa
+table_admintransactions_createdtitle === Imeundwa
+table_admintransactions_itemtitle === Kipengee
+table_admintransactions_amounttitle === Kiasi
+table_admintransactions_durationtitle === Muda
+table_admintransactions_creditslabel === Mikopo
+table_admintransactions_monthslabel === Miezi _8880_
+table_adminpayouts_createdtitle === Imeundwa
+table_adminpayouts_partnertitle === Mshirika
+table_adminpayouts_amounttitle === Kiasi
+table_adminpayouts_addresstitle === Anwani ya Malipo
+table_adminpayouts_optionstitle === Chaguzi
+table_adminpayouts_approve === Tia alama ombi la malipo kuwa limelipwa
+table_adminpayouts_reject === Kataa ombi la malipo
+table_adminwidgets_createdtitle === Imeundwa
+table_adminwidgets_typeblock === Zuia
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Nakili ndoano ya wijeti kwenye ubao wa kunakili
+table_adminpages_createdtitle === Imeundwa
+table_adminpages_optionstitle === Chaguzi
+table_adminpages_copypagehook === Nakili ndoano ya ukurasa kwenye ubao wa kunakili
+table_adminmarketing_createdtitle === Imeundwa
+table_adminmarketing_typetitle === Aina
+table_adminmarketing_titletitle === Kichwa
+table_adminmarketing_contenttitle === Maudhui
+table_adminmarketing_recipientstitle === Wapokeaji
+table_adminmarketing_optionstitle === Chaguzi
+table_adminmarketing_notifylabel === Arifu
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === Sukuma
+table_adminmarketing_roleslabel === Majukumu:
+table_adminmarketing_userslabel === Watumiaji:
+table_admingateways_createdtitle === Imeundwa
+table_admingateways_nametitle === Jina
+table_admingateways_pricingtitle === Kuweka bei
+table_admingateways_optionstitle === Chaguzi
+table_admingateways_invalidjson === Umbizo batili la JSON!
+table_admingateways_defaultprice === Bei Chaguomsingi: _8880_
+table_admingateways_percountryprcie === Bei kwa Kila Nchi:
+table_adminshorteners_createdtitle === Imeundwa
+table_adminshorteners_nametitle === Jina
+table_adminshorteners_optionstitle === Chaguzi
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Toleo Lililosakinishwa
+table_adminplugins_actionstitle === Vitendo
+table_adminplugins_updatedesc === Sasisha programu-jalizi hii
+table_adminplugins_editdesc === Badilisha chaguzi za programu-jalizi
+table_adminplugins_removedesc === Sanidua programu-jalizi hii
+whatsapp_sent_sentsuccess === Gumzo la WhatsApp _8880_ limetumwa!
+whatsapp_sent_sentfailed === Imeshindwa kutuma gumzo _8880_!
+whatsapp_received_chat === Soga mpya _8880_ imepokewa!
+widget_systemupdate_title === Sasisho la Mfumo
+widget_systemupdate_loader === Mfumo wa kusasisha
+widget_systemupdate_requireupdate === Faili ya kusasisha haiwezi kuwa tupu!
+requests_systemupdate_faileduploadingfile === Imeshindwa kupakia faili ya sasisho!
+widget_usersettings_loader === Inahifadhi mipangilio ya akaunti
+widget_payment_title === Malipo
+widget_payment_creditamountnotless === Kiasi cha mkopo hakiwezi kuwa chini ya 10!
+widget_payment_creditslabel === Mikopo
+widget_view_contentremoved === Maudhui yameondolewa!
+widget_redeem_title === Komboa
+widget_redeem_loader === Inathibitisha msimbo wa vocha
+widget_addcredits_title === Ongeza Mikopo
+widget_addpayout_title === Omba Malipo
+widget_addpayout_loader === Inaunda ombi la malipo
+widget_addpayout_requireamount === Kiasi hakiwezi kuwa tupu!
+widget_addpayout_requireprovider === Mtoa huduma wa malipo hawezi kuwa tupu!
+widget_addpayout_requireaddress === Anwani ya malipo haiwezi kuwa tupu!
+widget_smsquick_loader === Inaongeza ujumbe kwenye foleni
+widget_smsbulk_loader === Inaongeza ujumbe kwenye foleni
+widget_smsexcel_loader === Kuongeza ujumbe kutoka kwa faili ya excel kwenye foleni
+widget_addsmsscheduled_loader === Inahifadhi ujumbe ulioratibiwa
+widget_editscheduled_title === Badilisha Ratiba
+widget_editscheduled_loader === Inahifadhi ujumbe ulioratibiwa
+widget_addussd_title === Ombi la USSD
+widget_addussd_loader === Inaongeza ombi la ussd kwenye foleni
+widget_editdevice_title === Badilisha Kifaa
+widget_editdevice_loader === Inahifadhi mabadiliko ya kifaa
+widget_waquick_title === Gumzo la Haraka
+widget_waquick_loader === Inaongeza gumzo la whatsapp kwenye foleni
+widget_waquick_requireaccount === Akaunti ya WhatsApp inahitajika!
+widget_wabulk_title === Gumzo la Wingi
+widget_wabulk_loader === Inaongeza gumzo za whatsapp kwenye foleni
+widget_waexcel_title === Gumzo la Wingi kwa Excel
+widget_waexcel_loader === Inaongeza gumzo za whatsapp kwenye foleni
+widget_wascheduled_title === Panga Gumzo
+widget_wascheduled_loader === Inaongeza gumzo za whatsapp kwenye foleni
+widget_wascheduled_requireaccount === Akaunti ya WhatsApp inahitajika!
+widget_waeditscheduled_title === Badilisha Ratiba
+widget_waeditscheduled_loader === Inaongeza gumzo za whatsapp kwenye foleni
+widget_waeditscheduled_requireaccount === Akaunti ya WhatsApp inahitajika!
+widget_waaddaccount_title === Ongeza Akaunti
+widget_importcontacts_loaded === Inaleta waasiliani kutoka kwa faili ya Excel
+widget_addcontact_loader === Inaunda ingizo jipya la mwasiliani
+default_pricecolumns_monthlabel === mwezi
+default_pricecolumns_dailylabel === kila siku
+default_pricecolumns_monthlylabel === kila mwezi
+default_pricecolumns_unlimitedlabel === Bila kikomo
+form_literal_spintaxdesc2 === Thamani _8880_ na _8881_ zitatumika nasibu.
+dashboard_packagesmodal_smssend === Tuma SMS
+default_footerquote_obama === Kuwa haimaanishi kufika mahali fulani au kufikia lengo fulani. Ninaona badala yake kama mwendo wa mbele, njia ya kubadilika, njia ya kufikia ubinafsi bora. Safari haina mwisho.
+widgets_editcontact_loader === Inahifadhi mabadiliko ya anwani
+widgets_addgroup_loader === Inaunda ingizo jipya la kikundi
+widgets_editgroup_loader === Inahifadhi mabadiliko ya kikundi
+widgets_addapikey_loader === Inaunda ufunguo mpya wa API
+widgets_editapikey_loader === Inahifadhi mabadiliko muhimu ya API
+widgets_addwebhook_title === Ongeza Webhook
+widgets_addwebhook_loader === Inaunda kitabu kipya cha wavuti
+widgets_addwebhook_requireevents === Matukio hayawezi kuwa tupu!
+widgets_editwebhook_loader === Inahifadhi mabadiliko ya kitabu cha wavuti
+widgets_addhook_loader === Kuunda hatua mpya ya ndoano
+widgets_edithook_loader === Kuhifadhi mabadiliko ya kitendo cha ndoano
+widgets_addautoreply_loader === Inaunda kitendo kipya cha kujibu kiotomatiki
+widgets_editautoreply_loader === Inahifadhi mabadiliko ya kitendo cha kujibu kiotomatiki
+widgets_addtemplate_loader === Inaunda kiolezo kipya cha ujumbe
+widgets_edittemplate_loader === Inahifadhi mabadiliko ya violezo
+widgets_adminbuilder_loader === Inahifadhi mipangilio ya wajenzi
+widgets_adminsettings_loader === Kuhifadhi mipangilio ya mfumo
+widgets_admintheme_loader === Inahifadhi mipangilio ya mandhari
+widgets_adduser_loader === Kuunda akaunti mpya ya mtumiaji
+widgets_edituser_loader === Inahifadhi mabadiliko ya akaunti ya mtumiaji
+widgets_addrole_loader === Kuunda jukumu mpya la mtumiaji
+widgets_addrole_title === Ongeza Jukumu
+widgets_editrole_loader === Inahifadhi mabadiliko ya jukumu la mtumiaji
+widgets_addpackage_loader === Inaunda kifurushi kipya cha mfumo
+widgets_editpackage_loader === Inahifadhi mabadiliko ya kifurushi
+widgets_addvoucher_loader === Kutengeneza vocha mpya
+widgets_addsubscription_loader === Inaunda usajili mpya wa mtumiaji
+widgets_addwidgets_loader === Inaunda wijeti mpya
+widgets_editwidget_loader === Inahifadhi mabadiliko ya wijeti
+widgets_addpage_loader === Inaunda ukurasa mpya
+widgets_editpage_loader === Kuhifadhi mabadiliko ya ukurasa
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Utangazaji arifa kwa kushinikiza
+widgets_addpush_requiretitle === Kichwa hakiwezi kuwa tupu!
+widgets_addpush_requiremessage === Ujumbe hauwezi kuwa tupu!
+widgets_addnotify_title === Arifu Matangazo
+widgets_addnotify_loader === Inatangaza arifa ya moja kwa moja
+widgets_addnotify_requiretitle === Kichwa hakiwezi kuwa tupu!
+widgets_addnotify_requiremessage === Ujumbe hauwezi kuwa tupu!
+widgets_addmailer_title === Mass Mailer
+widgets_addmailer_loader === Kutuma ujumbe wa barua pepe
+widgets_addmailer_requiretitle === Kichwa hakiwezi kuwa tupu!
+widgets_addlanguage_loader === Kuongeza lugha mpya
+widgets_editlanguage_loader === Inahifadhi mabadiliko ya lugha
+widgets_addgateway_title === Ongeza Gateway
+widgets_addgateway_loader === Inaongeza lango jipya
+widgets_addgateway_requirename === Jina la lango haliwezi kuwa tupu!
+widgets_editgateway_title === Hariri Gateway
+widgets_editgateway_loader === Inahifadhi mabadiliko ya lango
+widgets_editgateway_requirename === Jina la lango haliwezi kuwa tupu!
+widgets_addshortener_title === Ongeza Kifupi
+widgets_addshortener_loader === Inaongeza kifupisho kipya
+widgets_addshortener_requirename === Jina la kifupi haliwezi kuwa tupu!
+widgets_editshortener_title === Hariri Kifupi
+widgets_editshortener_loader === Inahifadhi mabadiliko ya kifupi
+widgets_editshortener_requirename === Jina la kifupi haliwezi kuwa tupu!
+widgets_editplugin_loader === Inatumia mabadiliko ya programu-jalizi kwenye mfumo
+widgets_updateplugin_title === Sasisha programu-jalizi
+widgets_updateplugin_loader === Inasasisha programu-jalizi
+device_backgroundpage_line1 === Endesha chinichini
+device_backgroundpage_line2 === Kwa nini Gateway App inahitaji kuendeshwa chinichini?
+device_backgroundpage_line3 === Programu inahitaji kukimbia chinichini ili kuendelea kusikiliza ujumbe mpya ili kutuma na kupokea, hii pia inahitajika ili kuchakata arifa mpya. Ikiwa huhitaji arifa, unaweza kuzima hii katika mipangilio ya programu, kuizima kutasimamisha mfumo kupokea data ya taarifa kutoka kwa kifaa.
+device_backgroundpage_line4 === Ikiwa una programu ya usalama ya watu wengine kama vile Avast, Eset na wengine. Tafadhali ongeza programu ya lango kwa vighairi vyake.
+device_backgroundpage_line5 === Tafadhali soma mwongozo unaofaa kwa chapa ya simu yako katika orodha ifuatayo.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Kiokoa Betri
+device_backgroundpage_line8 === 1. Fungua Mipangilio.
+device_backgroundpage_line9 === 2. Chagua "Betri na utendaji".
+device_backgroundpage_line10 === 3. Chagua "Chagua programu".
+device_backgroundpage_line11 === 4. Tafuta _8880_ na uchague "Hakuna vikwazo" katika mipangilio ya usuli.
+device_backgroundpage_line12 === Funga Programu
+device_backgroundpage_line13 === 1. Gusa kitufe cha Menyu ili kuingiza ukurasa wa Hivi Majuzi.
+device_backgroundpage_line14 === 2. Chagua _8880_ kadi na uifunge.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Kiokoa Betri
+device_backgroundpage_line17 === 1. Fungua Mipangilio.
+device_backgroundpage_line18 === 2. Chagua Mipangilio ya Kina.
+device_backgroundpage_line19 === 3. Chagua Kidhibiti cha Betri.
+device_backgroundpage_line20 === 4. Chagua programu Zilizolindwa.
+device_backgroundpage_line21 === 5. Tafuta _8880_ na uwashe swichi.
+device_backgroundpage_line22 === Ikiwa toleo la EMUI limesasishwa hivi majuzi, si lazima kufanya mabadiliko katika Mipangilio.
+device_backgroundpage_line23 === Funga Programu
+device_backgroundpage_line24 === 1. Gusa kitufe cha Menyu, ingiza ukurasa wa Hivi Majuzi.
+device_backgroundpage_line25 === 2. Vuta chini _8880_ hadi ikoni ya kufuli ionekane.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Kiokoa Betri
+device_backgroundpage_line28 === 1. Gonga Kidhibiti Mahiri.
+device_backgroundpage_line29 === 2. Chagua Betri na ugonge ili kuingiza ukurasa wa mipangilio.
+device_backgroundpage_line30 === 3. Gusa programu zisizofuatiliwa, pata _8880_ na uguse ili kuingiza.
+device_backgroundpage_line31 === 4. Gusa Betri na uguse Boresha matumizi ya betri.
+device_backgroundpage_line32 === 5. Chagua Programu Zote, pata _8880_ na uzime swichi.
+device_backgroundpage_line33 === Funga Programu
+device_backgroundpage_line34 === 1. Gonga kitufe cha Menyu na uweke kurasa za programu zilizofunguliwa hivi karibuni.
+device_backgroundpage_line35 === 2. Gonga aikoni ya Zaidi ili kuchagua Funga programu.
+device_backgroundpage_line36 === 3. Gusa aikoni ya Kufuli ya _8880_.
+device_backgroundpage_line37 === 4. Gusa Nimemaliza ili kukamilisha kitendo.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Funga Programu
+device_backgroundpage_line40 === 1. Telezesha kidole juu upande wa kushoto wa Skrini ya kwanza ili kuandika "Hivi karibuni".
+device_backgroundpage_line41 === 2. Bonyeza na ushikilie _8880_ hadi ikoni ya kufunga ionekane.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Kiokoa Betri
+device_backgroundpage_line44 === 1. Fungua Mipangilio na uguse Betri.
+device_backgroundpage_line45 === 2. Gonga Kiokoa Nishati.
+device_backgroundpage_line46 === 3. Tafuta _8880_ ili kuzima Kugandisha Mandharinyuma na Uboreshaji wa Programu Zisizo za Kawaida.
+device_backgroundpage_line47 === Ikiwa huwezi kuweka baada ya kukamilisha hatua zilizo hapo juu, jaribu zifuatazo:
+device_backgroundpage_line48 === 1. Fungua Kidhibiti cha Simu na upate Usuli Safi.
+device_backgroundpage_line49 === 2. Gusa ili kuongeza programu.
+device_backgroundpage_line50 === 3. Weka tiki _8880_ na ugonge Sawa.
+device_backgroundpage_line51 === Funga Programu
+device_backgroundpage_line52 === 1. Gusa kitufe cha Menyu, ingiza ukurasa wa Hivi Majuzi.
+device_backgroundpage_line53 === 2. Vuta chini _8880_ hadi ikoni ya kufuli ionekane.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Kiokoa Betri
+device_backgroundpage_line56 === 1. Fungua Kidhibiti na uguse Kidhibiti cha Nguvu.
+device_backgroundpage_line57 === 2. Chagua Nguvu ya Backstage.
+device_backgroundpage_line58 === 3. Tafuta _8880_ na uwashe swichi.
+device_backgroundpage_line59 === Funga Programu
+device_backgroundpage_line60 === 1. Gusa kitufe cha Menyu, ingiza ukurasa wa Hivi Majuzi.
+device_backgroundpage_line61 === 2. Vuta chini _8880_ hadi ikoni ya kufuli ionekane.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Kiokoa Betri
+device_backgroundpage_line64 === 1. Fungua Kidhibiti cha Simu.
+device_backgroundpage_line65 === 2. Gusa Uboreshaji wa Matumizi ya Betri ya Programu.
+device_backgroundpage_line66 === 3. Tafuta _8880_ na uzime swichi.
+device_backgroundpage_line67 === Funga Programu
+device_backgroundpage_line68 === 1. Gusa mara mbili kitufe cha Menyu, ingiza ukurasa wa Hivi Majuzi.
+device_backgroundpage_line69 === 2. Bonyeza na ushikilie _8880_ hadi ikoni ya pini ionekane.
+device_backgroundpage_line70 === Bidhaa Nyingine
+device_backgroundpage_line71 === 1. Funga programu _8880_ katika Hivi Majuzi.
+device_backgroundpage_line72 === 2. Ongeza _8880_ kwa vighairi.
+device_backgroundpage_line73 === 3. Ikiwa umesakinisha kidhibiti kingine cha kuanzisha, ondoa _8880_ kutoka kwenye orodha yake ya kuzuia.
+dashboard_adminmarketing_pushbtndesc === Tangaza arifa kwa programu kwa vifaa
+dashboard_adminmarketing_notifybtndesc === Tangaza arifa ya kivinjari kwa watumiaji
+dashboard_adminmarketing_mailerbtndesc === Tuma barua pepe nyingi kwa watumiaji
+js_loader_pleasewait === Tafadhali subiri
+js_userstatus_online === Mtandaoni
+js_userstatus_offline === Nje ya mtandao
+js_whatsapp_linksuccess === Akaunti ya WhatsApp imeunganishwa kwa mafanikio!
+js_whatsapp_linkfailed === Imeshindwa kuunganisha akaunti ya WhatsApp!
+js_whatsapp_linkexist === WhatsApp tayari ilikuwa imeunganishwa kwenye akaunti yako!
+js_whatsapp_loaderprocessing === Inachakata ombi
+js_clearpending_title === Ungependa Kufuta Inasubiri?
+js_clearpending_desc === Vipengee vyote vinavyosubiri kutumwa vitafutwa na kufutwa!
+js_clearpending_processing === Inachakata ombi
+js_authenticate_processing === Inachakata ombi
+js_actiontrigger_title === Iga Webhook
+js_actiontrigger_typetitle === Aina ya Data
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Taarifa
+js_actiontrigger_loader === Inaiga kitabu cha wavuti
+js_actiontranslator_title === Mfasiri
+js_actiontranslator_from === Tafsiri Kutoka
+js_actiontranslator_to === Tafsiri Kwa
+js_actiontranslator_loader === Kutafsiri ujumbe
+js_actionregen_title === Ungependa Kuunda Upya Tokeni ya Mfumo?
+js_actionregen_desc === Kuunda tokeni ya mfumo mpya hakuwezi kutenduliwa!
+js_actionregen_loader === Inazalisha tokeni
+js_actionclear_title === Ungependa kufuta Akiba?
+js_actionclear_desc === Data yote ya akiba ya mfumo itafutwa!
+js_processing_dataloader === Inachakata ombi
+js_build_title === Unda APK Mpya?
+js_build_desc === Tafadhali hakikisha kuwa umesanidi mipangilio yako ya kijenzi ipasavyo!
+js_build_btnbuild === Jenga
+js_reorder_title === Panga Upya Lugha?
+js_reorder_desc === Lugha zitapangwa upya, hili haliwezi kutenduliwa!
+js_deletetrash_title === Ungependa kufuta Vipengee?
+js_deletetrash_desc === Je, ungependa kufuta vipengee vilivyochaguliwa?
+js_tablesexport_copy === Ubao wa kunakili
+js_tablesexport_excel === Hamisha Excel
+js_tablesexport_pdf === Hamisha PDF
+mail_expiredtpl_line1 === Habari,
+mail_expiredtpl_line2 === Umepokea ujumbe huu kwa sababu muda wa usajili wako wa kifurushi kinacholipiwa tayari umekwisha!
+mail_expiredtpl_line3 === Usajili wako umeondolewa. Ili kujiandikisha tena kwa kifurushi chochote cha malipo, tembelea tovuti yetu.
+mail_expiredtpl_line4 === Kwa maswali na masuala, tafadhali usisite kuwasiliana nasi!
+mail_expiredtpl_line5 === Asante!
+mail_expiringtpl_line1 === Habari,
+mail_expiringtpl_line2 === Hiki ni kikumbusho cha kirafiki kwamba usajili wako wa kifurushi kinacholipiwa utaisha baada ya siku 5!
+mail_expiringtpl_line3 === Ili kuzuia kukatizwa kwa huduma, tafadhali usisahau kujiandikisha tena kwa kifurushi chochote kinacholipishwa. Tafadhali tembelea tovuti yetu ili kuagiza tena.
+mail_expiringtpl_line4 === Kwa maswali na masuala, tafadhali usisite kuwasiliana nasi!
+mail_expiringtpl_line5 === Asante!
+mail_failedtpl_line1 === Habari,
+mail_failedtpl_line2 === Hatujaweza kuchakata muamala wako, tafadhali jaribu tena ukitumia mtoa huduma au njia tofauti ya kulipa.
+mail_failedtpl_line3 === Kitambulisho cha malipo:
+mail_failedtpl_line4 === Pole kwa usumbufu.
+mail_forgottpl_line1 === Habari,
+mail_forgottpl_line2 === Tumepokea ombi la kurejesha akaunti kwa akaunti yako, tafadhali tumia nenosiri hili la muda kuingia:
+mail_forgottpl_line3 === Usisahau kubadilisha nenosiri lako baada ya kuingia!
+mail_forgottpl_line4 === Nenosiri litaisha baada ya dakika 10, fanya haraka. Ikiwa hukuomba hili, tafadhali puuza barua pepe hii.
+mail_forgottpl_line5 === Asante! Natumai inafanya kazi.
+mail_payoutpaidtpl_line1 === Habari,
+mail_payoutpaidtpl_line2 === Ombi lako la malipo limetumwa na timu yetu kwa anwani yako na mtoa huduma aliyechaguliwa.
+mail_payoutpaidtpl_line3 === Kiasi:
+mail_payoutpaidtpl_line4 === Furaha matumizi!
+mail_payoutrejecttpl_line1 === Habari,
+mail_payoutrejecttpl_line2 === Hatujaweza kushughulikia ombi lako la malipo, kunaweza kuwa na tatizo na anwani yako ya malipo. Tafadhali wasiliana na timu yetu ili kujua zaidi.
+mail_payoutrejecttpl_line3 === Kiasi:
+mail_payoutrejecttpl_line4 === Pole kwa usumbufu.
+mail_subscribetpl_line1 === Habari,
+mail_subscribetpl_line2 === Asante kwa kujiandikisha kwa mojawapo ya vifurushi vyetu vinavyolipiwa, hapa kuna muhtasari mdogo wa ununuzi wako:
+mail_subscribetpl_line3 === _8880_ Kifurushi
+mail_subscribetpl_line4 === Usajili huu utaisha baada ya _8880_
+mail_subscribetpl_line5 === Hii itaanza kutumika mara moja. Kwa maswali na masuala, tafadhali usisite kuwasiliana nasi!
+mail_subscribetpl_line6 === Asante!
+requests_build_submitrequest === Inachakata ombi
+requests_reorder_loader === Inachakata ombi
+requests_deleteitem_loader === Inachakata ombi
+requests_packageform_invalidint === Baadhi ya sehemu zina nambari kamili zisizo sahihi!
+widgets_viewbank_title === Uhamisho wa Benki
+modal_paymentbtn_banktransfer === Uhamisho wa Benki
+modal_adminsettings_banktransfer1 === Kigezo cha Uhamisho wa Benki
+modal_adminsettings_banktransfer2 === Ikiwa uliwasha uhamishaji wa benki katika chaguo za malipo, unapaswa kuunda kiolezo chake, hivi ndivyo watumiaji watakavyoona walipobofya kitufe. Unaweza kuongeza maagizo na anwani ya benki hapa. HTML imekubaliwa.
+modal_adminsettings_banktransfer3 === Seti ya vigezo unaweza kutumia katika kiolezo cha uhamisho wa benki.
+requests_delete_pluginssuccess === Programu-jalizi imefutwa kwa ufanisi!
+table_whatsappreceived_chattitle === Soga
+table_whatsappreceived_accounttitle === Akaunti
+tabs_whatsappaccounts_titleheader === Akaunti za WhatsApp
+form_editwhatsapp_randominterval === Muda wa Kutuma bila mpangilio
+form_editwhatsapp_randomintervalhelp === Ikiwashwa, soga zitatumwa kwa vipindi nasibu kati ya thamani 2. Unaweza kuzisanidi hapa chini.
+form_editwhatsapp_randommin === Muda wa Kutuma Muda
+form_editwhatsapp_randomminhelp === Muda wa chini wa kutuma kwa sekunde.
+form_editwhatsapp_randommax === Tuma Muda wa Max
+form_editwhatsapp_randommaxhelp === Muda wa juu zaidi wa kutuma kwa sekunde.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === Hariri WhatsApp
+widgets_editwhatsapp_loader === Inahifadhi mabadiliko ya akaunti ya whatsapp
+mail_waunlink_title === Akaunti yako ya WhatsApp imetenganishwa!
+mail_waunlink_contentline1 === Habari!
+mail_waunlink_contentline2 === Moja ya akaunti yako ya WhatsApp iliyounganishwa imeondolewa kwa kitambulisho kifuatacho cha kipekee:
+mail_waunlink_contentline3 === Akaunti hii haijaunganishwa kwenye mfumo wetu tena kwa sababu ya tukio linalohusiana na WhatsApp, tafadhali iunganishe tena.
+mail_waunlink_contentline4 === Asante!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Simu
+form_btnall_visitlink === Tembelea
+unsubscribe_header_title === Jiondoe
+unsubscribe_content_title === Umejiondoa
+unsubscribe_content_desc === Umejiondoa kutoka kwa orodha yetu ya utumaji.
+requests_editwhatsapp_success === Akaunti ya WhatsApp imesasishwa!
+form_addusertpl_credits === Mikopo
+form_addusertpl_creditsdesc === Mikopo ya kuanzia kwa akaunti hii ya mtumiaji.
+form_addusertpl_creditsdesc2 === Rekebisha mikopo ya akaunti hii ya mtumiaji.
+form_registerconfirm_desc === Barua pepe yako imethibitishwa. Unaweza kuingia kwenye akaunti yako kwa kutumia kitufe kilicho hapa chini.
+requests_loginnotverified_response === Barua pepe ya akaunti yako bado haijathibitishwa. Tumetuma kiungo cha uthibitishaji kwa anwani hii: _8880_
+requests_loginnotverified_response2 === Akaunti yako imesajiliwa kwa mafanikio. Kabla ya kuitumia, utahitaji kuthibitisha anwani yako ya barua pepe. Tumetuma kiungo cha uthibitishaji kwa anwani hii: _8880_
+requests_loginnotverified_responseunable === Hatuwezi kutuma uthibitisho wa barua pepe!
+requests_loginnotverified_emailtitle === Karibu _8880_! Thibitisha anwani ya barua pepe ya akaunti yako hapa.
+requests_loginnotverified_emaildesc1 === Habari!
+requests_loginnotverified_emaildesc2 === Asante kwa kufungua akaunti yako nasi, tafadhali thibitisha anwani yako ya barua pepe kwa kutembelea kiungo hiki:
+requests_loginnotverified_emaildesc3 === Asante!
+form_adminsettings_authredi === Uelekezaji Upya wa Uthibitishaji
+form_adminsettings_authredidesc === Chagua eneo la kuelekeza kwingine baada ya uthibitishaji uliofaulu.
+form_adminsettings_authredihomepage === Ukurasa wa nyumbani
+form_adminsettings_authredidashboard === Dashibodi
+form_adminsettings_defaultcoun === Nchi Chaguomsingi
+form_adminsettings_defaultcoundesc === Nchi iliyochaguliwa chaguomsingi kwenye fomu ya usajili wa mtumiaji.
+form_adminsettings_defaulttimezo === Saa Chaguomsingi
+form_adminsettings_defaulttimezodesc === Saa za eneo zilizochaguliwa chaguomsingi kwenye fomu ya usajili wa mtumiaji.
+form_adminsettings_mailingtrig === Vichochezi vya Utumaji barua
+form_adminsettings_mailingtrigdesc === Chagua vichochezi vya utumaji barua ili kuwezesha.
+form_adminsettings_adminemail === Barua pepe ya Msimamizi
+form_adminsettings_adminemaildesc === Utumaji ujumbe ulioanzishwa kwa msimamizi utatumwa kwa anwani hii ya barua pepe. Ujumbe huu unapatikana kwa Kiingereza pekee na hauwezi kutafsiriwa.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Ikiwashwa, recaptcha itaonyeshwa kwa fomu za uthibitishaji kama vile kujiandikisha, kuingia na nenosiri lililosahau.
+form_editdevice_receiveoptiontitle === Pokea SMS
+form_editdevice_receiveoptiondesc === Ikiwa imezimwa, ujumbe uliopokewa kutoka kwa kikasha pokezi cha android hautahifadhiwa na mfumo. Webhooks na zana zingine zinazohusiana hazitafanya kazi kwa kifaa hiki kikiwa kimezimwa.
+form_editwhatsapp_receiveoptiontitle === Pokea Gumzo
+form_editwhatsapp_receiveoptiondesc === Ikizimwa, soga zilizopokelewa kutoka kwa akaunti ya whatsapp hazitahifadhiwa na mfumo. Webhooks na zana zingine zinazohusiana hazitafanya kazi kwa akaunti ya WhatsApp wakati hii imezimwa.
+js_calendarall_option === Wote
+js_calendarall_apply === Omba
+js_calendarall_cancel === Ghairi
+js_calendarall_from === Kutoka
+js_calendarall_to === Kwa
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === Sisi
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Saa
+js_calendarall_monjan === Januari
+js_calendarall_monfeb === Februari
+js_calendarall_monmar === Machi
+js_calendarall_monapr === Aprili
+js_calendarall_monmay === Mei
+js_calendarall_monjun === Juni
+js_calendarall_monjul === Julai
+js_calendarall_monaug === Agosti
+js_calendarall_monsep === Septemba
+js_calendarall_monoct === Oktoba
+js_calendarall_monnov === Novemba
+js_calendarall_mondec === Desemba
+response_ussddelete_success === Ombi la USSD limefutwa!
+response_titanecho_invaltoken === Hitilafu ya usanidi wa mfumo!
+widgets_addplugin_loader === Inasakinisha programu-jalizi mpya kwenye mfumo
+widgets_addwhatsapp_newmodal === Unganisha WhatsApp yako kwa kubofya kitufe ili kuonyesha QRCode kisha uchanganue kupitia kitufe cha _8880_ katika programu. Una sekunde 15 pekee za kuchanganua QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ muda wake umeisha, ikiwa akaunti yako imeunganishwa, au la, tafadhali bofya kitufe kilicho hapa chini.
+widgets_addwhatsapp_newmodal3 === Endelea
+widgets_addwhatsapp_newmodal4 === Ghairi
+datatable_addedtoclipboard === Imeongezwa kwenye ubao wa kunakili
+datatable_addedtoclipboardkeys === Bofya kitufe cha kunakili ili kuongeza safu mlalo zilizoonyeshwa kwenye ubao wa kunakili.
+datatable_addedtoclipboardmulti === Safu mlalo zimenakiliwa:
+datatable_addedtoclipboardsingle === Safu mlalo 1 imenakiliwa
+table_details_schedulednewrepeat === Rudia:
+and_edit_dev_line70_1_new === Kiasi unachotaka kutoza kwa kila ujumbe, nchi ya kifaa itatumika kama msingi wa sarafu. Thamani za kuelea pia zinatumika kama vile senti.
+widget_waquick_requireaccountnew1 === Akaunti ya WhatsApp
+requests_whatsapp_notavail === Seva ya WhatsApp haipatikani!
+requests_whatsapp_unablegenqr === Imeshindwa kutengeneza WhatsApp QRCCode!
+requests_charts_commisionstitle === Tume
+requests_token_refreshecho === Tokeni ya _8880_ imeonyeshwa upya!
+requests_remote_smscampaignresumed === Kampeni ya SMS imerejeshwa!
+requests_remote_smscampaignpaused === Kampeni ya SMS imesitishwa!
+requests_remote_wacampaignresumed === Kampeni ya WhatsApp imerejeshwa!
+requests_remote_wacampaignpaused === Kampeni ya WhatsApp imesitishwa!
+requests_create_payoutwithdrawalamountatleast === Kiasi cha uondoaji kinapaswa kuwa angalau _8880_ _8881_!
+requests_sms_intervaltypereachedmax === Ujumbe _8880_ unaoruhusiwa umefikiwa kwa kifaa hiki, tafadhali jaribu tena baadaye!
+requests_sms_encounteredgatewayerror === Tumekumbana na hitilafu ya lango!
+requests_sms_gatewaycannotsendowndevices === Huwezi kutuma ujumbe na mikopo kwa kutumia vifaa vyako mwenyewe!
+requests_create_encounteredshortenererror === Tumekumbana na hitilafu ya kifupisho!
+requests_create_campaignnametooshort === Jina la kampeni ni fupi mno!
+requests_sms_intervaltypedaily === kila siku
+requests_sms_intervaltypemonthly === kila mwezi
+requests_sms_reachedmaximumsentpackage === Umefikia upeo wa juu wa ujumbe uliotumwa kwa kifurushi chako cha sasa!
+response_message_bulkqueuednew === Ujumbe _8880_ umewekwa kwenye foleni ili kutumwa!
+response_whatsapp_invalidmediafile === Faili ya Midia Batili!
+response_whatsapp_atleastonebutt === Tafadhali ongeza angalau kitufe kimoja!
+response_whatsapp_invalidimagefile === Faili ya picha si sahihi!
+response_whatsapp_listtitlereq === Kichwa cha orodha kinahitajika!
+response_whatsapp_listmenureq === Kichwa cha menyu ya orodha kinahitajika!
+response_whatsapp_listformatreq === Umbizo la orodha linahitajika!
+response_whatsapp_listformatinval === Umbizo la orodha ni batili!
+response_whatsapp_tempformatreq === Umbizo la kiolezo inahitajika!
+response_whatsapp_tempformatinval === Umbizo la kiolezo si sahihi!
+response_whatsapp_failedchatsqueue === Imeshindwa kuongeza gumzo kwenye foleni ya WhatsApp!
+response_whatsapp_bulkchatssentcount === Soga _8880_ zimewekwa kwenye foleni ili kutumwa!
+response_whatsapp_failedchatsqueuemany === Imeshindwa kuongeza gumzo kwenye foleni ya WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === Samahani, hakuna soga zilizowekwa kwenye foleni. Tafadhali angalia kikomo cha kutuma kwa kifurushi chako!
+response_whatsapp_successfetchgroups === Imefaulu kuleta vikundi _8880_!
+response_whatsapp_nogroupsfoundfetch === Hakuna vikundi vilivyopatikana!
+response_partners_commisionerror === Asilimia ya tume ya washirika haiwezi kuwa chini ya 1 na zaidi ya 80!
+response_delete_smsdeletecampaign === Kampeni ya SMS imefutwa!
+response_delete_wacampaigndeleted === Kampeni ya WhatsApp imefutwa!
+response_delete_wagroupdeleted === Kikundi cha WhatsApp kimefutwa!
+table_smscampaign_createdtitle === Imeundwa
+table_smscampaign_nametitle === Jina
+table_smscampaign_gatewaytitle === Lango
+table_smscampaign_contactstitle === Anwani
+table_smscampaign_statustitle === Hali
+table_smscampaign_optionstitle === Chaguo
+table_campaign_completedstatus === Imekamilika
+table_smscagmpaign_processingstatus === _8880_ ya _8881_ imechakatwa
+table_campaign_pausecampaign === Sitisha kampeni hii
+table_campaign_resumecampaign === Endelea na kampeni hii
+table_smsscheduled_lastsendinfo === Mwisho Kutuma
+table_smstransac_createdtitle === Imeundwa
+table_smstransac_sendertitle === Mtumaji
+table_smstransac_devicetitle === Kifaa
+table_smstransac_messagetitle === Ujumbe
+table_smstransac_earningstitle === Mapato
+table_smstransac_messageremoved === Ujumbe umeondolewa!
+table_wacampaign_createdtitle === Imeundwa
+table_wacampaign_nametitle === Jina
+table_wacampaign_accounttitle === Akaunti
+table_wacampaign_typetitle === Aina
+table_wacampaign_contactstitle === Anwani
+table_wacampaign_statustitle === Hali
+table_wacampaign_optionstitle === Chaguo
+table_wacampaign_processingstatus === _8880_ ya _8881_ imechakatwa
+table_wascheduled_lastsendinfo === Mwisho Kutuma
+table_campaign_pendingstatus === Inasubiri
+table_wagroups_nametitle === Jina
+table_wagroups_accounttitle === Akaunti
+table_wagroups_addresstitle === Anwani ya Kikundi
+table_wagroups_optionstitle === Chaguo
+table_waaccounts_statustitle === Hali
+table_waaccounts_statusconnected === Imeunganishwa
+table_waaccounts_statusconnecting === Inaunganisha
+table_waaccounts_statusdisconnecting === Inatenganisha
+table_waaccounts_statusdisconnected === Imetenganishwa
+table_waaccounts_statuserror === Hitilafu
+table_waaccounts_copyaccountid === Nakili Kitambulisho cha Akaunti
+table_android_brandtitle === Chapa
+table_android_partnertitle === Mshirika
+table_android_statustitle === Hali
+table_android_statusonline === Mtandaoni
+table_android_statusoffline === Nje ya mtandao
+table_android_copydeviceid === Nakili Kitambulisho cha Kipekee cha Kifaa
+table_partnerrates_devicename === Jina la Kifaa
+widget_fetchgroups_titlefetch === Leta Vikundi
+widget_fetchgroups_loaderfetch === Inaleta vikundi kutoka kwa akaunti
+pages_admin_tokenrefreshbutt === Ishara
+pages_admin_tokenrefreshbutthelp === Onyesha upya tokeni ya mawasiliano ya tundu. Ikiwa mfumo hauonyeshi arifa zozote za toast moja kwa moja au hausasishi katika wakati halisi, tafadhali bofya kitufe hiki.
+pages_admin_cachehelp === Futa kashe ya mfumo mzima. Onyo! Hii pia itafuta akiba zinazohusiana na API, uthibitishaji na malipo. Inashauriwa kufanya hivyo tu wakati wa kuboresha mfumo.
+pages_admin_themehelp === Rekebisha kiolezo na muundo wa tovuti.
+pages_admin_systemsettingshelp === Rekebisha mipangilio muhimu ya mfumo.
+pages_sms_campaignstab === Kampeni
+pages_sms_partnertransactions === Shughuli
+pages_whatsapp_campaignstab === Kampeni
+pages_whatsapp_groupstab === Vikundi
+forms_repeatdays_title === Rudia Siku
+forms_repeatdays_tagline === Weka siku ngapi za kusubiri hadi ujumbe urudiwe. Ingiza 365 ili kurudia kila mwaka kwa mwezi huo huo, siku na wakati, ikiwa sivyo, itafuata wakati tu. Weka 0 ili kuzima kurudia.
+forms_whatsapp_messagetype === Aina ya Ujumbe
+forms_whatsapp_messagetypehelp === Chagua aina ya ujumbe wa WhatsApp.
+forms_whatsapp_typetext === Maandishi
+forms_whatsapp_typemedia === Vyombo vya habari
+forms_whatsapp_typebutton === Kitufe
+forms_whatsapp_typelist === Orodha
+forms_whatsapp_typetemplate === Kiolezo
+forms_whatsapp_mediafile === Faili ya Midia
+forms_whatsapp_mediafilehelp === Faili ya midia, faili ya midia ya kupakiwa. Inaauni faili za .jpg, .png, .gif na .mp4.
+forms_whatsapp_imagefile === Faili ya Picha
+forms_whatsapp_imagefilehelp === Faili ya picha maalum, hii ni ya hiari.
+forms_whatsapp_buttons === Vifungo
+forms_whatsapp_buttonshelp === Vifungo maalum, kifungo cha kwanza kinahitajika.
+forms_whatsapp_buttonsplace1 === Kitufe cha 1
+forms_whatsapp_buttonsplace2 === Kitufe cha 2 (Si lazima)
+forms_whatsapp_buttonsplace3 === Kitufe cha 3 (Si lazima)
+forms_whatsapp_listtitle === Kichwa cha Orodha
+forms_whatsapp_listtitlehelp === Hiki ndicho kichwa cha orodha.
+forms_whatsapp_listplacetitle === Orodha Yangu
+forms_whatsapp_listmenutitle === Kichwa cha Menyu
+forms_whatsapp_listmenutitlehelp === Hiki ndicho kichwa cha menyu.
+forms_whatsapp_listmenutitleplace === Kichwa cha Menyu
+forms_whatsapp_footermessage === Ujumbe wa chini
+forms_whatsapp_footermessagehelp === Ujumbe maalum wa kijachini, hii ni ya hiari.
+forms_whatsapp_footermessageplace === Huu ni ujumbe ulio chini ya ukurasa...
+forms_whatsapp_listformat === Umbizo la Orodha
+forms_whatsapp_listformathelp === Huu ndio umbizo la orodha, json iliyotolewa lazima iwe halali.
+forms_whatsapp_templateformat === Umbizo la Kiolezo
+forms_whatsapp_templateformathelp === Huu ni umbizo la kiolezo, json iliyotolewa lazima iwe halali.
+and_settings_line159new === Tokeni hii haipaswi kushirikiwa na mtu yeyote. Hii inatumika kwa usalama wa cronjobs, API ya mfumo, maombi ya WhatsApp na maombi mengine ya nje. Ikiwa unafikiri, tokeni ya mfumo wako iliingiliwa, tafadhali tengeneza mpya, utahitaji kusanidi upya cronjobs zako, API ya mfumo na mipangilio mingine inayohusiana baada ya kutengeneza upya tokeni mpya. Hili pia litaathiri mfumo wa WhatsApp, akaunti zote zilizounganishwa hazitafanya kazi tena.
+forms_systemsettings_servicestitle === Huduma
+forms_systemsettings_waserver === URL ya Seva ya WhatsApp
+forms_systemsettings_waserverhelp === URL ya seva yako ya WhatsApp, unahitaji kupangisha hii kwenye seva yako mwenyewe. Tafadhali soma hati kwa maagizo ya usanidi.
+forms_systemsettings_waport === Bandari ya Seva ya WhatsApp
+forms_systemsettings_waporthelp === Lango la seva yako ya WhatsApp, lango chaguo-msingi ni 7001. Tafadhali soma hati kwa maagizo ya usanidi.
+forms_systemsettings_messagestitle === Ujumbe
+forms_systemsettings_partnercommission === Tume ya Washirika
+forms_systemsettings_partnercommissionhelp === Asilimia ya tume unayotaka kukatwa kutoka kwa mapato ya washirika kwa kila ujumbe unaotumwa. Hizi zitakuwa pesa zako na zitaonyeshwa kwenye takwimu kwenye paneli ya msimamizi. Asilimia lazima isiwe chini ya 1 na zaidi ya 80!
+forms_systemsettings_partnerminimum === Kiwango cha Chini cha Malipo cha Mshirika
+forms_systemsettings_partnerminimumhelp === Kiasi cha chini cha mapato ili kuweza kuomba kujiondoa. Kiasi hiki pia kitatumia sarafu ya mfumo chaguo-msingi ambayo ni sawa na mapato.
+forms_editdevice_sendinglimittitle === Kikomo cha Kutuma
+forms_editdevice_limitstatus === Hali ya Kikomo
+forms_editdevice_limitstatushelp === Ikiwashwa, nambari inayoruhusiwa ya ujumbe unaoweza kutumwa kwa kutumia kifaa hiki itazuiliwa kwa siku au mwezi.
+forms_editdevice_limitinterv === Muda wa Kikomo
+forms_editdevice_limitintervhelp === Chagua aina ya kuchelewa kabla ya kuonyesha upya kihesabu kikomo.
+forms_editdevice_messagecount === Idadi ya Ujumbe
+forms_editdevice_messagecounthelp === Idadi ya ujumbe unaoweza kutumwa katika kipindi cha kikomo.
+forms_editdevice_limitintervselect1 === Kila siku
+forms_editdevice_limitintervselect2 === Kila mwezi
+forms_editdevice_partnerstatus === Hali ya Mshirika
+forms_edituser_clockformat === Umbizo la Saa
+forms_edituser_clockformathelp === Chagua umbizo la saa la kutumia unapoonyesha muda popote kwenye mfumo.
+forms_edituser_clockformatselect1 === Saa 12
+forms_edituser_clockformatselect2 === Saa 24
+forms_edituser_dateformat === Umbizo la Tarehe
+forms_edituser_dateformathelp === Chagua fomati ya tarehe ya kutumia unapoonyesha tarehe popote kwenye mfumo.
+forms_edituser_dateseparator === Kitenganishi cha Tarehe
+forms_edituser_dateseparatorhelp === Chagua kitenganishi cha tarehe cha kutumia unapoonyesha tarehe popote kwenye mfumo.
+forms_campagin_formname === Jina la Kampeni
+forms_campagin_formhelp === Jina la kampeni, kumbukumbu ya shughuli itaundwa kwa ajili ya ujumbe huu mwingi, utaweza kusimamisha kutuma kwa urahisi kupitia msimamizi wa kampeni.
+forms_campaign_formplaceholder === km. Kampeni ya Mfano
+forms_whatsapp_numbersgroupsname === Nambari au Anwani ya Kikundi
+forms_whatsapp_numbersgroupshelp === Nambari nyingi za E.164 na anwani za vikundi vya WhatsApp zikitenganishwa kwa kukatika kwa laini.
+forms_whatsapp_groupsimportname === Akaunti ya WhatsApp
+forms_whatsapp_groupsimportnamehelp === Chagua akaunti ya whatsapp ambapo vikundi vitaletwa.
+forms_whatsapp_groupsimportbutton === Leta
+forms_whatsapp_phonegroupsname === Anwani ya Simu au Kikundi
+forms_whatsapp_phonegroupshelp === Nambari ya simu ya mpokeaji E.164 au anwani ya kikundi cha WhatsApp.
+pages_administration_commissionstitle === Tume
+pages_smscampaigns_header === Kampeni
+pages_smstransactions_header === Shughuli
+pages_smstransactions_comtagline === SMS zote zinazotumwa kwa kutumia vifaa vya washirika zina ada ya muamala ya _8880_%. Hii tayari imekatwa katika jedwali lifuatalo.
+pages_wacampaigns_header === Kampeni
+pages_wagroups_header === Vikundi
+pages_wagroups_fetchbtn === Leta Vikundi
+tables_plugins_noactionsline === Hakuna Vitendo
+plugin_header_selectmethod === Chagua Njia ya Kulipa
+title_plugin_paymentpage === Ukurasa wa Malipo
+payment_title_pending === Agizo Linasubiri
+btn_plugin_cancelorderpayment === Ghairi Malipo
+payment_title_orderfailed === Agizo Limeshindwa
+payment_page_orderfailed === Hitilafu fulani imetokea wakati wa kuchakata ombi lako la agizo.
+and_rate_gate_3new === _8880_ Viwango
+and_rate_gate_idname === Kitambulisho: _8880_
+table_ratespartners_optionstitle === Chaguo

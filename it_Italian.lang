@@ -2405,3 +2405,194 @@ js_calendarall_mondec === Dicembre
 response_ussddelete_success === La richiesta USSD è stata cancellata!
 response_titanecho_invaltoken === Errore di configurazione del sistema!
 widgets_addplugin_loader === Installazione del nuovo plugin nel sistema
+widgets_addwhatsapp_newmodal === Collega il tuo WhatsApp facendo clic sul pulsante per visualizzare il QRCode, quindi scansionalo tramite il pulsante _8880_ nell'app. Hai solo 15 secondi per scansionare il QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ è scaduto, se il tuo account è stato collegato o meno, fai clic sul pulsante in basso.
+widgets_addwhatsapp_newmodal3 === Continua
+widgets_addwhatsapp_newmodal4 === Annulla
+datatable_addedtoclipboard === Aggiunto negli appunti
+datatable_addedtoclipboardkeys === Fare clic sul pulsante di copia per aggiungere le righe visualizzate negli appunti.
+datatable_addedtoclipboardmulti === Righe copiate:
+datatable_addedtoclipboardsingle === 1 riga copiata
+table_details_schedulednewrepeat === Ripetere:
+and_edit_dev_line70_1_new === L'importo che desideri addebitare per messaggio, paese del dispositivo verrà utilizzato come base di valuta. Sono supportati anche i valori mobili come i centesimi.
+widget_waquick_requireaccountnew1 === Account WhatsApp
+requests_whatsapp_notavail === Il server WhatsApp non è disponibile!
+requests_whatsapp_unablegenqr === Impossibile generare il QRCode di WhatsApp!
+requests_charts_commisionstitle === Commissioni
+requests_token_refreshecho === Il token per _8880_ è stato aggiornato!
+requests_remote_smscampaignresumed === La campagna SMS è stata ripresa!
+requests_remote_smscampaignpaused === La campagna SMS è stata sospesa!
+requests_remote_wacampaignresumed === La campagna WhatsApp è stata ripresa!
+requests_remote_wacampaignpaused === La campagna WhatsApp è stata sospesa!
+requests_create_payoutwithdrawalamountatleast === L'importo del prelievo dovrebbe essere almeno _8880_ _8881_!
+requests_sms_intervaltypereachedmax === I _8880_ messaggi consentiti sono stati raggiunti per questo dispositivo, riprova più tardi!
+requests_sms_encounteredgatewayerror === Si è verificato un errore del gateway!
+requests_sms_gatewaycannotsendowndevices === Non puoi inviare messaggi con crediti utilizzando i tuoi dispositivi!
+requests_create_encounteredshortenererror === Si è verificato un errore di accorciatore!
+requests_create_campaignnametooshort === Il nome della campagna è troppo corto!
+requests_sms_intervaltypedaily === quotidiano
+requests_sms_intervaltypemonthly === mensile
+requests_sms_reachedmaximumsentpackage === Hai raggiunto il numero massimo di messaggi inviati per il tuo pacchetto attuale!
+response_message_bulkqueuednew === _8880_ messaggi sono stati messi in coda per l'invio!
+response_whatsapp_invalidmediafile === File multimediale non valido!
+response_whatsapp_atleastonebutt === Si prega di aggiungere almeno un pulsante!
+response_whatsapp_invalidimagefile === File immagine non valido!
+response_whatsapp_listtitlereq === Il titolo della lista è obbligatorio!
+response_whatsapp_listmenureq === Il titolo del menu elenco è obbligatorio!
+response_whatsapp_listformatreq === Il formato dell'elenco è obbligatorio!
+response_whatsapp_listformatinval === Il formato dell'elenco non è valido!
+response_whatsapp_tempformatreq === Il formato del modello è richiesto!
+response_whatsapp_tempformatinval === Il formato del modello non è valido!
+response_whatsapp_failedchatsqueue === Aggiunta della chat alla coda di WhatsApp non riuscita!
+response_whatsapp_bulkchatssentcount === _8880_ chat è stato messo in coda per l'invio!
+response_whatsapp_failedchatsqueuemany === Aggiunta delle chat alla coda di WhatsApp non riuscita!
+response_whatsapp_nochatsqueuedpacklimit === Spiacenti, nessuna chat era in coda. Controlla il limite di invio del tuo pacco!
+response_whatsapp_successfetchgroups === Gruppi di _8880_ recuperati con successo!
+response_whatsapp_nogroupsfoundfetch === Nessun gruppo trovato!
+response_partners_commisionerror === La percentuale di commissione del partner non può essere inferiore a 1 e superiore a 80!
+response_delete_smsdeletecampaign === La campagna SMS è stata eliminata!
+response_delete_wacampaigndeleted === La campagna WhatsApp è stata eliminata!
+response_delete_wagroupdeleted === Il gruppo WhatsApp è stato eliminato!
+table_smscampaign_createdtitle === Creato
+table_smscampaign_nametitle === Nome
+table_smscampaign_gatewaytitle === Gateway
+table_smscampaign_contactstitle === Contatti
+table_smscampaign_statustitle === Stato
+table_smscampaign_optionstitle === Opzioni
+table_campaign_completedstatus === Completato
+table_smscagmpaign_processingstatus === _8880_ di _8881_ elaborati
+table_campaign_pausecampaign === Metti in pausa questa campagna
+table_campaign_resumecampaign === Riprendi questa campagna
+table_smsscheduled_lastsendinfo === Ultimo invio
+table_smstransac_createdtitle === Creato
+table_smstransac_sendertitle === Mittente
+table_smstransac_devicetitle === Dispositivo
+table_smstransac_messagetitle === Messaggio
+table_smstransac_earningstitle === Guadagno
+table_smstransac_messageremoved === Il messaggio è stato rimosso!
+table_wacampaign_createdtitle === Creato
+table_wacampaign_nametitle === Nome
+table_wacampaign_accounttitle === Account
+table_wacampaign_typetitle === Tipo
+table_wacampaign_contactstitle === Contatti
+table_wacampaign_statustitle === Stato
+table_wacampaign_optionstitle === Opzioni
+table_wacampaign_processingstatus === _8880_ di _8881_ elaborati
+table_wascheduled_lastsendinfo === Ultimo invio
+table_campaign_pendingstatus === In attesa di
+table_wagroups_nametitle === Nome
+table_wagroups_accounttitle === Account
+table_wagroups_addresstitle === Indirizzo di gruppo
+table_wagroups_optionstitle === Opzioni
+table_waaccounts_statustitle === Stato
+table_waaccounts_statusconnected === Collegato
+table_waaccounts_statusconnecting === Collegamento
+table_waaccounts_statusdisconnecting === Disconnessione
+table_waaccounts_statusdisconnected === Disconnesso
+table_waaccounts_statuserror === Errore
+table_waaccounts_copyaccountid === Copia ID account
+table_android_brandtitle === Marca
+table_android_partnertitle === Compagno
+table_android_statustitle === Stato
+table_android_statusonline === in linea
+table_android_statusoffline === disconnesso
+table_android_copydeviceid === Copia l'ID univoco del dispositivo
+table_partnerrates_devicename === Nome del dispositivo
+widget_fetchgroups_titlefetch === Recupera gruppi
+widget_fetchgroups_loaderfetch === Recupero dei gruppi dall'account
+pages_admin_tokenrefreshbutt === Gettone
+pages_admin_tokenrefreshbutthelp === Aggiorna il token di comunicazione del socket. Se il sistema non visualizza notifiche di brindisi in tempo reale o non si aggiorna in tempo reale, fare clic su questo pulsante.
+pages_admin_cachehelp === Svuota l'intera cache di sistema. Avvertimento! Ciò cancellerà anche le cache relative all'API, all'autenticazione e al pagamento. Si consiglia di farlo solo durante l'aggiornamento del sistema.
+pages_admin_themehelp === Modifica il modello e il design del sito.
+pages_admin_systemsettingshelp === Regola importanti impostazioni di sistema.
+pages_sms_campaignstab === Campagne
+pages_sms_partnertransactions === Transazioni
+pages_whatsapp_campaignstab === Campagne
+pages_whatsapp_groupstab === Gruppi
+forms_repeatdays_title === Ripeti i giorni
+forms_repeatdays_tagline === Immettere quanti giorni attendere prima di ripetere l'invio del messaggio. Immettere 365 da ripetere ogni anno nello stesso mese, giorno e ora, in caso contrario, seguirà solo l'ora. Immettere 0 per disabilitare la ripetizione.
+forms_whatsapp_messagetype === Tipo di messaggio
+forms_whatsapp_messagetypehelp === Seleziona il tipo di messaggio WhatsApp.
+forms_whatsapp_typetext === Testo
+forms_whatsapp_typemedia === Media
+forms_whatsapp_typebutton === Pulsante
+forms_whatsapp_typelist === Elenco
+forms_whatsapp_typetemplate === Modello
+forms_whatsapp_mediafile === File multimediale
+forms_whatsapp_mediafilehelp === File multimediale, il file multimediale da caricare. Supporta file .jpg, .png, .gif e .mp4.
+forms_whatsapp_imagefile === File immagine
+forms_whatsapp_imagefilehelp === File immagine personalizzato, questo è facoltativo.
+forms_whatsapp_buttons === Bottoni
+forms_whatsapp_buttonshelp === Pulsanti personalizzati, è necessario il primo pulsante.
+forms_whatsapp_buttonsplace1 === Pulsante 1
+forms_whatsapp_buttonsplace2 === Pulsante 2 (opzionale)
+forms_whatsapp_buttonsplace3 === Pulsante 3 (opzionale)
+forms_whatsapp_listtitle === Titolo elenco
+forms_whatsapp_listtitlehelp === Questo è il titolo della lista.
+forms_whatsapp_listplacetitle === La mia lista
+forms_whatsapp_listmenutitle === Titolo del menu
+forms_whatsapp_listmenutitlehelp === Questo è il titolo del menu.
+forms_whatsapp_listmenutitleplace === Titolo del menu
+forms_whatsapp_footermessage === Messaggio a piè di pagina
+forms_whatsapp_footermessagehelp === Messaggio a piè di pagina personalizzato, questo è facoltativo.
+forms_whatsapp_footermessageplace === Questo è il messaggio a piè di pagina...
+forms_whatsapp_listformat === Formato elenco
+forms_whatsapp_listformathelp === Questo è il formato dell'elenco, il json fornito deve essere valido.
+forms_whatsapp_templateformat === Formato modello
+forms_whatsapp_templateformathelp === Questo è il formato del modello, il json fornito deve essere valido.
+and_settings_line159new === Questo token non deve essere condiviso con nessuno. Viene utilizzato per la sicurezza di cronjob, API di sistema, richieste WhatsApp e altre richieste esterne. Se ritieni che il tuo token di sistema sia stato compromesso, rigenerane uno nuovo, dovrai riconfigurare i tuoi cronjob, l'API di sistema e altre impostazioni correlate dopo aver rigenerato un nuovo token. Ciò influenzerà anche il sistema WhatsApp, tutti gli account collegati non funzioneranno più.
+forms_systemsettings_servicestitle === Servizi
+forms_systemsettings_waserver === URL del server WhatsApp
+forms_systemsettings_waserverhelp === L'URL del tuo server WhatsApp, devi ospitarlo sul tuo server. Si prega di leggere la documentazione per le istruzioni di configurazione.
+forms_systemsettings_waport === Porta del server WhatsApp
+forms_systemsettings_waporthelp === La porta del tuo server WhatsApp, la porta predefinita è 7001. Leggi la documentazione per le istruzioni di configurazione.
+forms_systemsettings_messagestitle === Messaggi
+forms_systemsettings_partnercommission === Commissione Partner
+forms_systemsettings_partnercommissionhelp === Percentuale di commissione che vuoi detrarre dai guadagni dei partner per ogni messaggio inviato. Questo sarà il tuo denaro e verrà visualizzato nelle statistiche nel pannello di amministrazione. La percentuale non deve essere inferiore a 1 e superiore a 80!
+forms_systemsettings_partnerminimum === Pagamento minimo del partner
+forms_systemsettings_partnerminimumhelp === Importo minimo di guadagno per poter richiedere il ritiro. Questo importo utilizzerà anche la valuta di sistema predefinita che è la stessa con i guadagni.
+forms_editdevice_sendinglimittitle === Limite di invio
+forms_editdevice_limitstatus === Stato limite
+forms_editdevice_limitstatushelp === Se abilitato, il numero consentito di messaggi che possono essere inviati utilizzando questo dispositivo sarà limitato per giorno o mese.
+forms_editdevice_limitinterv === Intervallo limite
+forms_editdevice_limitintervhelp === Selezionare il tipo di ritardo prima di aggiornare il contatore limite.
+forms_editdevice_messagecount === Numero di messaggi
+forms_editdevice_messagecounthelp === Il numero di messaggi che possono essere inviati durante l'intervallo limite.
+forms_editdevice_limitintervselect1 === Quotidiano
+forms_editdevice_limitintervselect2 === Mensile
+forms_editdevice_partnerstatus === Stato partner
+forms_edituser_clockformat === Formato orologio
+forms_edituser_clockformathelp === Selezionare il formato dell'orologio da utilizzare quando si visualizza l'ora in qualsiasi punto del sistema.
+forms_edituser_clockformatselect1 === 12 ore
+forms_edituser_clockformatselect2 === 24 ore
+forms_edituser_dateformat === Formato data
+forms_edituser_dateformathelp === Selezionare il formato della data da utilizzare quando si visualizza la data in qualsiasi punto del sistema.
+forms_edituser_dateseparator === Separatore di data
+forms_edituser_dateseparatorhelp === Selezionare il separatore di data da utilizzare quando si visualizza la data in qualsiasi punto del sistema.
+forms_campagin_formname === Nome della campagna
+forms_campagin_formhelp === Nome della campagna, verrà creato un registro delle attività per questi messaggi in blocco, sarai in grado di interrompere facilmente l'invio tramite il gestore della campagna.
+forms_campaign_formplaceholder === per esempio. Esempio di campagna
+forms_whatsapp_numbersgroupsname === Numeri o indirizzo di gruppo
+forms_whatsapp_numbersgroupshelp === Più numeri E.164 e indirizzi di gruppo WhatsApp separati da un'interruzione di riga.
+forms_whatsapp_groupsimportname === Account WhatsApp
+forms_whatsapp_groupsimportnamehelp === Seleziona l'account whatsapp in cui verranno recuperati i gruppi.
+forms_whatsapp_groupsimportbutton === Andare a prendere
+forms_whatsapp_phonegroupsname === Telefono o indirizzo di gruppo
+forms_whatsapp_phonegroupshelp === E.164 numero di telefono del destinatario o indirizzo del gruppo WhatsApp.
+pages_administration_commissionstitle === Commissioni
+pages_smscampaigns_header === Campagne
+pages_smstransactions_header === Transazioni
+pages_smstransactions_comtagline === Tutti gli SMS inviati utilizzando i dispositivi dei partner hanno una commissione di transazione del _8880_%. Questo è già dedotto nella tabella seguente.
+pages_wacampaigns_header === Campagne
+pages_wagroups_header === Gruppi
+pages_wagroups_fetchbtn === Recupera gruppi
+tables_plugins_noactionsline === Nessuna azione
+plugin_header_selectmethod === scegli il metodo di pagamento
+title_plugin_paymentpage === Pagina di pagamento
+payment_title_pending === Ordine in sospeso
+btn_plugin_cancelorderpayment === Annulla pagamento
+payment_title_orderfailed === Ordine fallito
+payment_page_orderfailed === Qualcosa è andato storto durante l'elaborazione della tua richiesta d'ordine.
+and_rate_gate_3new === _8880_ Tariffe
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Opzioni

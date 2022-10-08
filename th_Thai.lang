@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === แผงธุรการ
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === กำหนดการ
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === การแจ้งเตือน
+and_dashboard_pages_android_line58 === อุปกรณ์
+and_dashboard_pages_contacts_line40 === Unsubscribed
+and_dashboard_pages_defailt_line37 === อัตราเกตเวย์
+and_dashboard_pages_default_line42 === เอกสาร
+and_dashboard_pages_default_line58 === ข้อความ
+and_dashboard_pages_default_line60 === 7 วันที่ผ่านมา
+and_dashboard_pages_default_line74 === กิจกรรม
+and_dashboard_pages_default_line76 === 7 วันที่ผ่านมา
+and_dashboard_pages_default_line90 === สาธารณูปโภค
+and_dashboard_pages_default_line92 === 7 วันที่ผ่านมา
+and_dashboard_pages_default_line109 === พันธมิตร
+and_dashboard_pages_default_line117 === รายได้
+and_dashboard_pages_default_line131 === การจ่ายเงิน
+and_dashboard_pages_default_line140 === สมดุล
+and_dashboard_pages_default_line148 === เครดิต
+and_dashboard_pages_default_line162 === เติม
+and_dashboard_pages_default_line170 === อัตราส่วนการจัดส่ง
+and_dash_pg_def_line178 === ความสำเร็จ
+and_dash_pg_def_line190 === ล้มเหลว
+and_dash_pg_def_line204 === ผู้ส่ง
+and_dash_pg_def_line209 === คุณไม่ได้สมัครแพ็คเกจพรีเมี่ยมของเรา!
+and_dash_pg_def_line217 === อุปกรณ์
+and_dash_pg_def_line224 === เชื่อมโยง
+and_dash_pg_def_line232 === บัญชี
+and_dash_pg_def_line239 === เชื่อมโยง
+and_dash_pg_def_line250 === ดาวน์โหลดและติดตั้งแอปอย่างเป็นทางการของเราเพื่อรับประสบการณ์การใช้งานที่ดีที่สุด
+and_dash_pg_doc_line10 === เอกสาร
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === เว็บฮุค
+and_dash_pg_doc_line40 === การกระทำ
+and_dash_pg_doc_line46 === อุปกรณ์
+and_dash_pg_doc_line52 === ห้างหุ้นส่วน
+and_dash_pg_for_line29 === ยกเลิก
+and_dash_pg_log_line14 === เข้าสู่ระบบด้วย Facebook
+and_dash_pg_log_line17 === เข้าสู่ระบบด้วย Google
+and_dash_pg_log_line20 === เข้าสู่ระบบด้วย VKontakte
+and_dash_pg_log_line54 === สร้างบัญชี
+and_dash_pg_pay_line45 === เราได้รับคำขอสั่งซื้อของคุณแล้ว ระบบของเราจะส่งอีเมลถึงคุณโดยอัตโนมัติและใช้การเปลี่ยนแปลงกับบัญชีของคุณเมื่อธุรกรรมการชำระเงินได้รับการยืนยันแล้ว
+and_dash_pg_rates_line10 === อัตราเกตเวย์
+and_dash_pg_rates_line39 === พันธมิตร
+and_dash_pg_reg_line15 === ลงทะเบียนด้วย Facebook
+and_dash_pg_reg_line20 === ลงทะเบียนกับ Google
+and_dash_pg_reg_line25 === ลงทะเบียนกับ VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === เบต้า
+and_dash_pg_whats_line28 === ส่งแล้ว
+and_dash_pg_whats_line34 === ได้รับ
+and_dash_pg_whats_line40 === กำหนดการ
+and_dash_pg_whats_line46 === บัญชี
+and_dash_api_line17 === ชื่อคีย์
+and_dash_api_line19 === เช่น. สำหรับเซิร์ฟเวอร์ของฉัน
+and_dash_api_line24 === สิทธิ์ที่สำคัญ
+and_dash_auto_line17 === ชื่อการกระทำ
+and_dash_auto_line19 === เช่น. ไมเคิล
+and_dash_auto_line24 === แหล่งที่มา
+and_dash_auto_line24_1 === ที่มาของเหตุการณ์รับ
+and_dash_auto_line27 === ข้อความ
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === คีย์เวิร์ดตอบกลับโดยคั่นด้วยเครื่องหมายจุลภาค คำหลักเหล่านี้จะทริกเกอร์การตอบกลับอัตโนมัติหากตรวจพบในเนื้อหาข้อความ
+and_dash_auto_line36 === เช่น. ขอบคุณ โอเค สมัครสมาชิก ใช่
+and_dash_auto_line41 === ข้อความที่จะส่งไปยังผู้ส่ง
+and_dash_auto_line43 === เช่น. ข้อความตอบกลับของคุณที่นี่ ยอมรับรหัสย่อแล้ว
+and_dash_auto_line48 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_dash_con_line24 === เบอร์ติดต่อ.
+and_dash_con_line31 === กลุ่มติดต่อ.
+and_dash_con_line17 === ชื่อผู้ติดต่อ.
+and_dash_cre_line28 === ซื้อ
+and_dash_gate_line17 === ชื่อ
+and_dash_gate_line17_1 === นี่คือชื่อเกตเวย์ที่จะแสดงต่อผู้ใช้ของคุณ
+and_dash_gate_line19 === เช่น. ทวิลิโอ
+and_dash_gate_line24 === คอนโทรลเลอร์
+and_dash_gate_line24_1 === เลือกไฟล์ตัวควบคุมเกตเวย์ ซึ่งจะมีตรรกะและรหัสเกตเวย์ของคุณ ขอแนะนำให้ตรวจสอบเอกสาร
+and_dash_gate_line27 === Boilerplate คอนโทรลเลอร์:
+and_dash_gate_line34 === โทรกลับ
+and_dash_gate_line34_1 === หากเปิดใช้งาน ข้อความจะต้องได้รับการยืนยันโดยใช้คุณสมบัติการโทรกลับของเกตเวย์บุคคลที่สามสำหรับสถานะการส่ง มิฉะนั้น ข้อความจะถูกทำเครื่องหมายว่าส่งแล้วทันทีที่ส่ง
+and_dash_gate_line37 === เปิดใช้งาน
+and_dash_gate_line38 === ปิดการใช้งาน
+and_dash_gate_line44 === รหัสโทรกลับ
+and_dash_gate_line44_1 === หากเปิดใช้งานการโทรกลับ คุณต้องคัดลอก ID นี้และวางลงในคอนโทรลเลอร์ของคุณ เพื่อให้ระบบสามารถระบุการเรียกกลับได้
+and_dash_gate_line47 === คัดลอกและวางสำหรับ ID การโทรกลับ
+and_dash_gate_line54 === ราคา
+and_dash_gate_line54_1 === ตารางราคาที่คุณกำหนดเองสำหรับเกตเวย์นี้ ซึ่งจะช่วยให้คุณสามารถเรียกเก็บเงินจากราคาของบุคคลที่สามได้ ตัวอย่างเช่น หาก twilio เรียกเก็บเงิน 0.01 สำหรับประเทศที่ระบุ คุณสามารถเรียกเก็บเงิน 0.02 แทนได้ สกุลเงินจะขึ้นอยู่กับสกุลเงินของระบบของคุณ โปรดปฏิบัติตามรูปแบบการกำหนดราคาอย่างถูกต้อง
+and_dash_gate_line57 === ตัวอย่างราคา JSON:
+and_dash_gate_line57_1 === ดาวน์โหลด
+and_dash_grp_line17 === ชื่อกลุ่ม.
+and_dash_grp_line19 === เช่น. เพื่อน
+and_dash_hook_line17 === ชื่อการกระทำ
+and_dash_hook_line19 === เช่น. การดำเนินการทดสอบ
+and_dash_hook_line24 === แหล่งที่มา
+and_dash_hook_line24_1 === ที่มาของเหตุการณ์
+and_dash_hook_line34 === เลือกเหตุการณ์ที่จะเรียกใช้ hook นี้
+and_dash_hook_line44 === โครงสร้างลิงค์เบ็ด นี่คือ url ที่ระบบจะเรียกใช้ รองรับวิธี GET เท่านั้น
+and_dash_hook_line51 === ชุดตัวแปรที่คุณสามารถใช้ใน hook URL ของคุณ
+and_dash_hook_line27 === ข้อความ
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === เมื่อส่ง
+and_dash_hook_line38 === เมื่อได้รับ
+and_dash_lang_line17 === ชื่อภาษา
+and_dash_lang_line19 === เช่น. เกาหลี
+and_dash_lang_line24 === รหัสประเทศ.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === หากเปิดใช้งาน ภาษาจะถูกระบุว่าเป็นทิศทางจากขวาไปซ้าย
+and_dash_lang_line38 === ใช่
+and_dash_lang_line39 === ไม่
+and_dash_lang_line45 === สตริงการแปล
+and_dash_mail_line17 === ชื่อ
+and_dash_mail_line17_1 === ชื่อจดหมาย.
+and_dash_mail_line19 === เช่น. ประกาศ
+and_dash_mail_line24 === ผู้ใช้
+and_dash_mail_line24_1 === ส่งโดยผู้ใช้
+and_dash_mail_line36 === บทบาท
+and_dash_mail_line36_1 === ส่งตามบทบาท
+and_dash_mail_line48 === เนื้อหา
+and_dash_mail_line48_1 === เนื้อหาเมล อนุญาตให้ใช้ html
+and_dash_mail_line50 === สวัสดีชาวโลก!
+and_dash_not_line17 === ชื่อ
+and_dash_not_line17_1 === แจ้งชื่อ.
+and_dash_not_line19 === เช่น. ประกาศ
+and_dash_not_line24 === ข้อความ
+and_dash_not_line24_1 === แจ้งข้อความ.
+and_dash_not_line31 === สี
+and_dash_not_line31_1 === แจ้งสี.
+and_dash_not_line35 === ความสำเร็จ
+and_dash_not_line36 === คำเตือน
+and_dash_not_line37 === อันตราย
+and_dash_not_line43 === ภาพ
+and_dash_not_line43_1 === แจ้งรูปภาพ นี่เป็นทางเลือก
+and_dash_not_line46 === ไม่จำเป็น
+and_dash_not_line53 === ผู้ใช้
+and_dash_not_line53_1 === ออกอากาศโดยผู้ใช้
+and_dash_not_line65 === บทบาท
+and_dash_not_line65_1 === ออกอากาศตามบทบาท
+and_pack_line17 === ชื่อแพ็คเกจ
+and_pack_line19 === เช่น. แพ็คเกจวีไอพี
+and_pack_line24 === ราคาแพ็คเกจควรเป็นไปตามสกุลเงินของระบบ ไม่อนุญาตให้ใช้ค่าโฟลต
+and_pack_line29 === เช่น. 25
+and_pack_line34 === หากเปิดใช้งาน ข้อความและแชท whatsapp จะมีเครื่องหมายส่วนท้ายเมื่อผู้รับได้รับ
+and_pack_line44 === หากเปิดใช้งาน แพ็คเกจจะถูกซ่อนจาก modal ของแพ็คเกจและโฮมเพจ
+and_pack_line58 === ขีดจำกัดการส่ง SMS
+and_pack_line58_1 === จำนวนข้อความสูงสุดที่ผู้ใช้ส่งได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line60 === เช่น. 300
+and_pack_line65 === ขีดจำกัดการรับ SMS
+and_pack_line65_1 === จำนวนข้อความสูงสุดที่ผู้ใช้สามารถรับได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line67 === เช่น. 150
+and_pack_line72 === USSD Limit
+and_pack_line72_1 === จำนวน ussd สูงสุดที่ผู้ใช้สามารถร้องขอได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line74 === เช่น. 25
+and_pack_line79 === ขีด จำกัด การแจ้งเตือน
+and_pack_line79_1 === จำนวนการแจ้งเตือนสูงสุดที่ผู้ใช้จะได้รับก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line81 === เช่น. 1300
+and_pack_line86 === จำนวนอุปกรณ์ Android สูงสุดที่สามารถเชื่อมโยงกับบัญชีผู้ใช้ได้ ป้อน 0 ไม่จำกัด
+and_pack_line88 === เช่น. 25
+and_pack_line92 === การตั้งค่า WhatsApp
+and_pack_line97 === จำนวนการแชทสูงสุดที่ผู้ใช้ส่งได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line99 === เช่น. 300
+and_pack_line104 === จำนวนแชทสูงสุดที่ผู้ใช้สามารถรับได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_pack_line106 === เช่น. 150
+and_pack_line111 === ขีดจำกัดบัญชี
+and_pack_line111_1 === จำนวนบัญชี WhatsApp สูงสุดที่สามารถเชื่อมโยงกับบัญชีผู้ใช้ได้ ป้อน 0 ไม่จำกัด
+and_pack_line113 === เช่น. 10
+and_pack_line117 === การตั้งค่า Ultility
+and_pack_line122 === จำนวนผู้ติดต่อสูงสุดที่ผู้ใช้สามารถบันทึกได้ ป้อน 0 ไม่จำกัด
+and_pack_line124 === เช่น. 25
+and_pack_line129 === ขีด จำกัด ที่กำหนดไว้
+and_pack_line129_1 === จำนวนข้อความ/แชทตามกำหนดเวลาสูงสุดที่ผู้ใช้บันทึกได้ ป้อน 0 ไม่จำกัด สิ่งนี้รวมกันสำหรับทั้ง sms และ whatsapp
+and_pack_line131 === เช่น. 25
+and_pack_line136 === จำนวนคีย์ API สูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_pack_line138 === เช่น. 10
+and_pack_line143 === จำนวน Webhooks สูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_pack_line145 === เช่น. 5
+and_pack_line150 === ขีด จำกัด การดำเนินการ
+and_pack_line150_1 === จำนวนการกระทำสูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_pack_line152 === เช่น. 5
+and_page_line17 === ชื่อเพจ.
+and_page_line24 === เฉพาะบทบาทที่เลือกเท่านั้นที่จะสามารถเข้าถึงหน้านี้ได้
+and_page_line35 === หากเปิดใช้งาน หน้าจะไม่สามารถเข้าถึงได้หากไม่ได้ลงชื่อเข้าใช้
+and_page_line45 === เนื้อหาหน้า. อนุญาตแท็ก html ทั้งหมด โปรดใช้ความระมัดระวังเมื่อเพิ่มสคริปต์จากแหล่งที่ไม่รู้จัก!
+and_payout_line17 === จำนวน
+and_payout_line17_1 === จำนวนเงินที่ต้องการถอน เฉพาะจำนวนเต็มเท่านั้น
+and_payout_line19 === เช่น. 50
+and_payout_line24 === ผู้ให้บริการ
+and_payout_line24_1 === เลือกผู้ให้บริการชำระเงินที่คุณต้องการใช้สำหรับรับเงิน
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === ที่อยู่การชำระเงิน
+and_payout_line34_1 === ที่อยู่การชำระเงินหรืออีเมล โปรดตรวจสอบอย่างระมัดระวังเพื่อป้องกันปัญหาการชำระเงิน
+and_payout_line36 === เช่น. อีเมล PayPal ของคุณ
+and_payout_line43 === ขอ
+and_plug_line17 === ไฟล์ปลั๊กอิน
+and_plug_line17_1 === ไฟล์ zip ของปลั๊กอิน โปรดตรวจสอบให้แน่ใจว่าได้เลือกไฟล์ที่ถูกต้อง
+and_push_line17 === ชื่อ
+and_push_line17_1 === ดันชื่อเรื่อง.
+and_push_line19 === เช่น. ประกาศ
+and_push_line24 === ภาพ
+and_push_line24_1 === พุชภาพขนาดย่อ นี้เป็นทางเลือก
+and_push_line27 === ไม่จำเป็น
+and_push_line34 === ข้อความ
+and_push_line34_1 === ดันข้อความ.
+and_push_line41 === ผู้ใช้
+and_push_line41_1 === ออกอากาศโดยผู้ใช้
+and_push_line53 === บทบาท
+and_push_line53_1 === ออกอากาศตามบทบาท
+and_role_line17 === ชื่อบทบาท
+and_role_line19 === เช่น. นักพัฒนา
+and_role_line24 === เลือกการอนุญาตและคุณสมบัติที่คุณต้องการปิดใช้งาน/เปิดใช้งานสำหรับบทบาทนี้ การเปลี่ยนแปลงมีผลแบบเรียลไทม์ แท็บเบราว์เซอร์ของผู้ใช้ที่เชื่อมต่อที่มีบทบาทจะถูกโหลดซ้ำโดยอัตโนมัติ
+and_short_line17 === ชื่อ
+and_short_line17_1 === ชื่อย่อ.
+and_short_line19 === เช่น. Bitly
+and_short_line24 === คอนโทรลเลอร์
+and_short_line24_1 === เลือกไฟล์ตัวควบคุมตัวย่อ ซึ่งจะประกอบด้วยตรรกะและรหัสตัวย่อของคุณ ขอแนะนำให้ตรวจสอบเอกสาร
+and_short_line27 === Boilerplate คอนโทรลเลอร์:
+and_sms_line17 === ชื่อของข้อความที่กำหนดเวลาไว้
+and_sms_line19 === เช่น. ข้อความของฉัน
+and_sms_line24 === เลือกวันที่กำหนด
+and_sms_line26 === เช่น. 06/22/2020 12:00 น.
+and_sms_line31 === หากเปิดใช้งาน ข้อความจะถูกกำหนดเวลาทุกครั้งที่มีการจับคู่วันที่ตามกำหนดการ
+and_sms_line42 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด
+and_sms_line55 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม
+and_sms_line67 === ชอร์ตเทนเนอร์
+and_sms_line67_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_sms_line70 === อย่าย่อลิงค์
+and_sms_line79 === โหมดเกตเวย์
+and_sms_line79_1 === โหมดเกตเวย์ที่คุณต้องการใช้ หากคุณเลือกอุปกรณ์ อุปกรณ์ที่ลิงก์ไว้จะแสดงเพื่อส่ง มิฉะนั้น ระบบจะแสดงเกตเวย์ของบุคคลที่สามและพาร์ทเนอร์
+and_sms_line82 === อุปกรณ์
+and_sms_line83 === เครดิต
+and_sms_line88 === ช่องใส่ซิมการ์ดในการใช้งาน
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_sms_line110 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับส่ง
+and_sms_line121 === เกตเวย์ SMS
+and_sms_line121_1 === เกตเวย์บุคคลที่สามและพาร์ทเนอร์ เครดิตของคุณจะถูกใช้เมื่อคุณส่งข้อความโดยใช้เกตเวย์เหล่านี้ เราขอแนะนำให้คุณตรวจสอบราคาเกตเวย์ก่อนใช้งาน
+and_sms_line141 === Spintax
+and_sms_line144 === ตัวอย่าง:
+and_sms_line144_1 === ทอมเป็น
+and_sms_line144_2 === แมว
+and_sms_line147 === ค่า
+and_sms_line147_1 === ดี
+and_sms_line147_2 === และ
+and_sms_line147_3 === แย่
+and_sms_line147_4 === จะถูกใช้แบบสุ่ม
+and_subs_line17 === บัญชีผู้ใช้.
+and_subs_line28 === แพ็คเกจสมัครสมาชิก
+and_subs_line41 === ระยะเวลาการสมัครสมาชิก
+and_subs_line43 === เช่น. 12
+and_temp_line17 === ชื่อเทมเพลต
+and_temp_line24 === รูปแบบเทมเพลต
+and_temp_line31 === Spintax
+and_temp_line31_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_temp_line35 === ตัวอย่าง:
+and_temp_line35_1 === ทอมเป็น
+and_temp_line35_2 === แมว
+and_temp_line38 === ค่า
+and_temp_line38_1 === ดี
+and_temp_line38_2 === แย่
+and_temp_line38_3 === จะถูกใช้แบบสุ่ม
+and_temp_line43 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_user_line17 === ชื่อเต็มตามกฎหมาย
+and_user_line19 === เช่น. Michael Cors
+and_user_line24 === ที่อยู่อีเมลที่ถูกต้อง
+and_user_line26 === เช่น. user@mail.com
+and_user_line31 === ป้อนรหัสผ่านผู้ใช้
+and_user_line38 === เขตเวลาของตำแหน่งของผู้ใช้ เปลี่ยนสิ่งนี้หากอยู่ในประเทศอื่น เขตเวลาใช้สำหรับความถูกต้องของวันที่และเวลาของข้อความที่ส่งและข้อมูลอื่นๆ
+and_user_line49 === ประเทศ
+and_user_line49_1 === ประเทศของผู้ใช้ ใช้สำหรับการชำระคืนและการจัดรูปแบบหมายเลขโทรศัพท์
+and_user_line60 === เสียงแจ้งเตือน
+and_user_line60_1 === หากปิดใช้งาน การแจ้งเตือนจะเงียบ
+and_user_line70 === เลือกบทบาทของผู้ใช้
+and_user_line81 === เลือกภาษาของผู้ใช้
+and_user_line92 === โปรแกรมพันธมิตร
+and_user_line92_1 === หากเปิดใช้งาน ผู้ใช้จะสามารถใช้อุปกรณ์ของตนเป็นอุปกรณ์สากล ซึ่งจะทำให้พวกเขาได้รับเงินเมื่อผู้ใช้รายอื่นส่งข้อความโดยใช้อุปกรณ์ของตน
+and_ussd_line17 === รหัส USSD
+and_ussd_line17_1 === รหัสคำขอ USSD
+and_ussd_line19 === เช่น. *121#
+and_ussd_line24 === ช่องใส่ซิมการ์ดในการใช้งาน
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับคำขอ ussd
+and_ussd_line47 === ขอ
+and_vouch_line17 === ชื่อบัตรกำนัล
+and_vouch_line19 === เช่น. พิเศษ
+and_vouch_line24 === จำนวนบัตรกำนัลที่คุณต้องการสร้าง มูลค่าสูงสุดคือ 1,000!
+and_vouch_line26 === เช่น. 100
+and_vouch_line31 === ระยะเวลาการสมัครสมาชิก
+and_vouch_line33 === เช่น. 12
+and_vouch_line38 === แพ็คเกจสมัครสมาชิก
+and_web_line17 === ชื่อเว็บฮุค
+and_web_line24 === รับกิจกรรม
+and_web_line24_1 === เลือกรับเหตุการณ์ที่คุณต้องการ เหตุการณ์จะถูกส่งไปยัง URL hook ของเว็บของคุณผ่านวิธี POST
+and_web_line27 === ข้อความ
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === การแจ้งเตือน
+and_web_line36 === URL เว็บฮุคของคุณ ข้อมูลเพย์โหลดทั้งหมดจะถูกส่งมาที่นี่ด้วยวิธี POST
+and_web_line38 === เช่น. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === ชื่อของแชทที่กำหนดเวลาไว้
+and_whatssched_line19 === เช่น. ข้อความของฉัน
+and_whatssched_line24 === เลือกวันที่กำหนด
+and_whatssched_line26 === เช่น. 06/22/2020 12:00 น.
+and_whatssched_line31 === หากเปิดใช้งาน แชทจะถูกจัดกำหนดการทุกครั้งที่มีการจับคู่วันที่ตามกำหนดการ
+and_whatssched_line42 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด
+and_whatssched_line55 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม
+and_whatssched_line67 === ชอร์ตเทนเนอร์
+and_whatssched_line67_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_whatssched_line70 === อย่าย่อลิงค์
+and_whatssched_line79 === บัญชี
+and_whatssched_line79_1 === เลือกบัญชี WhatsApp ที่คุณต้องการใช้
+and_whatsached_line88 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_whatssched_line107 === ตัวอย่าง:
+and_whatssched_line101_1 === ทอมเป็น
+and_whatssched_line107_2 === แมว
+and_whatssched_line110 === ค่า
+and_whatssched_line110_1 === ดี
+and_whatssched_line110_2 === และ
+and_whatssched_line110_3 === แย่
+and_whatssched_line110_4 === จะถูกใช้แบบสุ่ม
+and_whatssched_line115 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_whatssched_line128 === ส่ง
+and_whatsapp_line15 === เชื่อมต่อ WhatsApp ของคุณโดยคลิกที่ปุ่มเพื่อแสดง QRCode จากนั้นสแกนผ่าน
+and_whatsapp_line15_1 === เชื่อมโยงอุปกรณ์
+and_whatsapp_line15_2 === ปุ่มในแอป คุณมีเวลาเพียง 60 วินาทีในการสแกน QRCode
+and_whatsapp_line16 === เชื่อมโยงบัญชี
+and_add_widget_line17 === ชื่อวิดเจ็ต
+and_add_widget_line24 === ไอคอนวิดเจ็ต สำหรับโมดอลเท่านั้น กรุณาเยี่ยมชม line Awesome สำหรับการอ้างอิงไอคอน
+and_add_widget_line26 === เช่น. la la-info-circle
+and_add_widget_line31 === ประเภทวิดเจ็ต บล็อกมีไว้สำหรับวางในส่วนต่างๆ ของเทมเพลต โมดอลมีไว้สำหรับเนื้อหาแบบไดนามิก ตั้งแต่ v3 โมดอลจะทำงานในแดชบอร์ดเท่านั้น
+and_add_widget_line34 === ปิดกั้น
+and_add_widget_line35 === โมดอล
+and_add_widget_line41 === ขนาดวิดเจ็ต สำหรับโมดอลเท่านั้น
+and_add_widget_line53 === ตำแหน่งวิดเจ็ต สำหรับโมดอลเท่านั้น
+and_add_widget_line64 === เนื้อหาวิดเจ็ต อนุญาตให้ใช้แท็ก html ทั้งหมด โปรดใช้ความระมัดระวังเมื่อเพิ่มสคริปต์จากแหล่งที่ไม่รู้จัก!
+and_add_widget_line66 === สวัสดีชาวโลก!
+and_admin_build_line16 === แอปพลิเคชัน
+and_admin_build_line21 === ชื่อแพ็กเกจของแอปควรไม่ซ้ำกันและเป็นไปตามโดเมนเช่นรูปแบบ com.yourdomain.yourapp เราแนะนำให้ทำตามชื่อโดเมนของคุณเพื่อทำให้ไม่ซ้ำกัน
+and_admin_build_line23 === เช่น. com.gateway.sample
+and_admin_build_line28 === ชื่อแอป ซึ่งแสดงในลิ้นชักแอปและส่วนอื่นๆ ของแอป
+and_admin_build_line30 === เช่น. เกตเวย์เซนเดอร์
+and_admin_build_line35 === คำอธิบายแอป คำอธิบายสั้นๆ เกี่ยวกับแอปของคุณ
+and_admin_build_line42 === ธีมสีของแอพ
+and_admin_build_line42_1 === ธีมสีของแอป ขอแนะนำให้จับคู่กับโลโก้แอปและสีของภาพสแปลช
+and_admin_build_line44 === เช่น. #000000
+and_admin_build_line49 === เวอร์ชัน APK
+and_admin_build_line_49_1 === เวอร์ชัน APK หากคุณกำลังสร้างแอปของคุณใหม่ โปรดอัปเดตฟิลด์นี้ด้วยการเพิ่มค่า หากค่าปัจจุบันคือ 1 คุณควรเพิ่มเป็น 2 ก่อนสร้างแอปของคุณ สิ่งนี้จำเป็นสำหรับการเรียกใช้คุณสมบัติการอัปเดตในแอป และจะบังคับให้ผู้ใช้อัปเดต
+and_admin_build_line51 === เช่น. 1.0
+and_admin_build_line56 === สร้างอีเมล
+and_admin_build_line_56_1 === อีเมลที่ถูกต้องของคุณ โปรดตรวจสอบให้แน่ใจว่าได้เปลี่ยนแปลงสิ่งนี้ ผลลัพธ์ของการสร้างจะถูกส่งไปยังอีเมลนี้!
+and_admin_build_line58 === เช่น. myvalidemail@mail.com
+and_admin_build_line62 === ข้อมูลประจำตัว
+and_admin_build_line67 === บริการของ Google
+and_admin_build_line67_1 === ไฟล์ json บริการของ Google ของคุณ จำเป็นสำหรับธุรกรรม FCM ในแอปเกตเวย์
+and_admin_build_line75 === ข้อมูลรับรอง Firebase
+and_admin_build_line75_1 === ไฟล์ json ข้อมูลรับรองผู้ดูแลระบบ firebase ของคุณ จำเป็นเพื่อให้ระบบสื่อสารกับแอปได้
+and_admin_build_line82 === ทรัพย์สิน
+and_admin_build_line87 === โลโก้รูปภาพแอป นี่คือรูปภาพที่แสดงในส่วนหัวของแอป ขนาดที่แนะนำคือ 251x53 พิกเซล พื้นหลังโปร่งใสจะดีกว่า
+and_admin_build_line95 === โลโก้เข้าสู่ระบบแอป
+and_admin_build_line95_1 === โลโก้รูปภาพการเข้าสู่ระบบแอป นี่คือภาพที่แสดงในโมดอลการเข้าสู่ระบบ ขนาดที่แนะนำคือ 250x100 เป็นพิกเซลและแบบอักษรสีเข้ม พื้นหลังโปร่งใสจะดีกว่า
+and_admin_build_line103 === ไอคอนรูปภาพของแอป ซึ่งแสดงในลิ้นชักแอปและระบบ Android ขนาดที่แนะนำคือ 1024x1024 ในรูปแบบ px และ png
+and_admin_build_line111 === รูปภาพหน้าจอเริ่มต้นของแอป ซึ่งจะแสดงเมื่อผู้ใช้เปิดแอป ขนาดที่แนะนำคือ 2732x2732 ในรูปแบบ px และ png
+and_admin_build_line118 === โครงสร้าง
+and_admin_build_line123 === JavaScript ที่กำหนดเอง
+and_admin_build_line123_1 === หากคุณต้องการใช้โค้ดจาวาสคริปต์ที่กำหนดเอง โปรดเพิ่มที่นี่ สิ่งนี้ถูกโหลดแบบไดนามิกในแอพ
+and_admin_build_line125 === เช่น alert('Hello World!');
+and_admin_build_line130 === CSS ที่กำหนดเอง
+and_admin_build_line130_1 === หากคุณต้องการใช้โค้ด css ที่กำหนดเอง โปรดเพิ่มที่นี่ สิ่งนี้ถูกโหลดแบบไดนามิกในแอพ
+and_admin_build_line137 === เค้าโครงที่กำหนดเอง
+and_admin_build_line137_1 === หากคุณต้องการใช้โครงสร้างแอปที่กำหนดเอง โปรดแก้ไขเนื้อหา html หากคุณไม่ทราบว่าคุณกำลังทำอะไรอยู่ โปรดปล่อยให้เป็นค่าเริ่มต้น
+and_admin_build_line139 === สวัสดีชาวโลก!
+and_settings_line21 === ชื่อไซต์ ซึ่งจะแสดงทุกที่ที่ต้องการสร้างแบรนด์
+and_settings_line23 === เช่น. เซนเดอร์
+and_settings_line28 === คำอธิบายเว็บไซต์ สำหรับการเพิ่มประสิทธิภาพกลไกค้นหา ดังนั้นจงสร้างสรรค์
+and_settings_line30 === เช่น. นี่คือบริการเกตเวย์ SMS ที่ยอดเยี่ยม
+and_settings_line35 === รหัสซื้อ Envato ของคุณ ต้องใช้เพื่อปลดล็อกคุณลักษณะพิเศษบางอย่างของสคริปต์
+and_settings_line37 === เช่น. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === คีย์ Google Analytics ของคุณ เป็นทางเลือก เนื่องจากระบบมีสถิติผู้เยี่ยมชมในตัวอยู่แล้ว
+and_settings_line44 === เช่น. UA-179148389-1
+and_settings_line49 === โปรโตคอลไซต์ของคุณ โปรดตรวจสอบให้แน่ใจว่าคุณได้เลือกโปรโตคอลที่ถูกต้อง หากไซต์ของคุณใช้ https โปรดเลือกมิฉะนั้น ให้เลือก http
+and_settings_line59 === ภาษาของระบบเริ่มต้น ใช้เมื่อผู้ใช้ใหม่เข้าชมไซต์ของคุณ
+and_settings_line70 === หากปิดใช้งาน จะไม่อนุญาตให้ลงทะเบียนผ่านหน้าลงทะเบียน
+and_settings_line80 === โหมดรีเซ็ตแพ็คเกจ
+and_settings_line80_1 === ช่วงเวลาการรีเซ็ตขีดจำกัด เช่น ส่ง รับ ussd และการแจ้งเตือน สิ่งนี้ใช้ได้กับทั้งคุณสมบัติ Android และ WhatsApp การเลือกของคุณที่นี่จะต้องนำไปใช้ในการตั้งค่า cron ด้วย
+and_settings_line83 === รายวัน
+and_settings_line84 === รายเดือน
+and_settings_line90 === รุ่นฟรี
+and_settings_line90_1 === หากเปิดใช้งาน แพ็คเกจฟรีเริ่มต้นจะถูกกำหนดให้กับผู้ใช้โดยอัตโนมัติหลังจากการลงทะเบียน
+and_settings_line100 === หากปิดการใช้งานโฮมเพจจะไม่ถูกใช้งาน การเข้าชมทั้งหมดในไดเรกทอรีรากจะถูกเปลี่ยนเส้นทางไปยังแดชบอร์ด
+and_settings_line110 === TAWK Chat Widget
+and_settings_line110_1 === หากเปิดใช้งาน วิดเจ็ตแชท tawk จะปรากฏขึ้นให้ผู้ใช้เห็น
+and_settings_line120 === ลิงก์วิดเจ็ตแชท tawk ของคุณ จำเป็นหากคุณต้องการใช้การสนับสนุนการแชท tawk
+and_settings_line127 === Admin API
+and_settings_line127_1 === เลือกตำแหน่งข้อมูล API ของผู้ดูแลระบบที่คุณต้องการเปิดใช้งาน ขอแนะนำให้คุณเปิดใช้งานปลายทางที่คุณต้องการเท่านั้น
+and_settings_line159 === โทเค็นนี้ต้องไม่แชร์ให้ใครทราบ ใช้เพื่อความปลอดภัยของ cronjobs, API ระบบ และคำขอภายนอกอื่นๆ หากคุณคิดว่าโทเค็นระบบของคุณถูกบุกรุก โปรดสร้างใหม่ คุณจะต้องกำหนดค่า cronjobs, API ระบบ และการตั้งค่าอื่น ๆ ที่เกี่ยวข้องใหม่หลังจากสร้างโทเค็นใหม่
+and_settings_line160 === สร้างใหม่
+and_settings_line173 === หากคุณต้องการใช้เซิร์ฟเวอร์เมลในตัว โปรดเลือกเนทีฟ หรือเลือก smtp จากนั้นกำหนดค่าข้อมูลรับรองเมลของคุณ
+and_settings_line183 === โปรโตคอล smtp ที่จะใช้ โปรดเลือกโปรโตคอลที่รองรับของเซิร์ฟเวอร์เมลระยะไกลของคุณ
+and_settings_line193 === อีเมลของไซต์ นี่คือชื่ออีเมลที่แสดงต่อผู้รับ ขอแนะนำให้ใช้ noreply@yoursite.com เพื่อวัตถุประสงค์ในการสร้างแบรนด์
+and_settings_line195 === เช่น. noreply@domain.com
+and_settings_line200 === ที่อยู่โฮสต์เซิร์ฟเวอร์ smtp ระยะไกลของคุณ
+and_settings_line205 === เช่น. smtp.gmail.com
+and_settings_line210 === พอร์ตเซิร์ฟเวอร์ smtp ระยะไกลของคุณ
+and_settings_line215 === เช่น. 587
+and_settings_line220 === ชื่อผู้ใช้เซิร์ฟเวอร์ smtp ระยะไกลของคุณ
+and_settings_line225 === เช่น. username@gmail.com
+and_settings_line230 === รหัสผ่านเซิร์ฟเวอร์ smtp ระยะไกลของคุณ
+and_settings_line235 === รหัสผ่านบัญชี gmail ของคุณ
+and_settings_line244 === อีเมลธุรกิจ paypal ของคุณ
+and_settings_line246 === เช่น. mail@domain.com
+and_settings_line251 === หากเปิดใช้งาน ธุรกรรม paypal ทั้งหมดจะถูกเปลี่ยนเส้นทางไปยังโหมดแซนด์บ็อกซ์
+and_settings_line261 === คีย์ mollie api ของคุณ
+and_settings_line263 === เช่น. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === สกุลเงินของระบบที่จะใช้ ซึ่งจะใช้เป็นฐานในการแปลงธุรกรรมเป็น USD
+and_settings_line279 === เลือกผู้ให้บริการชำระเงินที่คุณต้องการใช้
+and_settings_line293 === อักขระขั้นต่ำสำหรับข้อความ สิ่งนี้ใช้ได้กับทั้ง SMS และ WhatsApp
+and_settings_line295 === เช่น. 5
+and_settings_line300 === อักขระสูงสุดสำหรับข้อความ สิ่งนี้ใช้ได้กับทั้ง SMS และ WhatsApp ป้อน 0 สำหรับอักขระที่ไม่มีที่สิ้นสุด
+and_settings_line302 === เช่น. 300
+and_settings_line307 === เครื่องหมายส่วนท้ายของข้อความ ซึ่งจะต่อท้ายข้อความหากแพ็กเกจเปิดใช้งานเครื่องหมายส่วนท้าย
+and_settings_line309 === เช่น. ส่งจากระบบ Zender
+and_settings_line318 === จำนวนแถวเริ่มต้นที่จะแสดงในตารางข้อความที่ส่ง สิ่งนี้ใช้ได้กับทั้ง SMS และ WhatsApp
+and_settings_line320 === เช่น. 10
+and_settings_line325 === จำนวนแถวเริ่มต้นที่จะแสดงในตารางข้อความที่ได้รับ สิ่งนี้ใช้ได้กับทั้ง SMS และ WhatsApp
+and_settings_line327 === เช่น. 10
+and_settings_line336 === หากเปิดใช้งาน ผู้เยี่ยมชมจะสามารถเข้าสู่ระบบโดยใช้บัญชีโซเชียลมีเดียของพวกเขา
+and_settings_line346 === เลือกผู้ให้บริการโซเชียลมีเดียที่คุณต้องการใช้
+and_settings_line349 === เฟสบุ๊ค
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === ชื่อผู้ใช้เฟสบุ๊ค
+and_settings_line357_1 === ID แอพ facebook โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line359 === เช่น. 7388129837331558
+and_settings_line364 === ความลับของเฟสบุ๊ค
+and_settings_line364_1 === ความลับของแอพ facebook โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line366 === เช่น. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === ID แอป Google โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line373 === เช่น. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Secret
+and_settings_line378_1 === ความลับของแอป Google โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line380 === เช่น. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK ID
+and_settings_line385_1 === รหัสแอป vkontakte โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line387 === เช่น. 7768236
+and_settings_line392 === VK Secret
+and_settings_line392_1 === ความลับของแอป vkontakte โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line394 === เช่น. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === หากเปิดใช้งาน recaptcha จะแสดงในหน้าเข้าสู่ระบบด้วย โปรดตรวจสอบให้แน่ใจว่าคุณได้กำหนดค่าคีย์ recaptcha และความลับของ recaptcha ก่อนเปิดใช้งานคุณสมบัตินี้ ไม่เช่นนั้นคุณจะไม่สามารถเข้าสู่ระบบได้!
+and_settings_line413 === คีย์ recaptcha โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line415 === เช่น. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === ความลับ recaptcha โปรดอ่านเอกสารสำหรับข้อมูลเพิ่มเติม
+and_settings_line422 === เช่น. 6LdUnjsUAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === ไฟโลโก้
+and_theme_line17_1 === รูปภาพโลโก้สีอ่อน แสดงในหน้าแรกและหน้าการตรวจสอบสิทธิ์เมื่อองค์ประกอบพื้นหลังมืด ขนาดที่แนะนำคือ 250x50 พิกเซล
+and_theme_line23 === โลโก้เข้ม
+and_theme_line223_1 === รูปภาพโลโก้สีเข้ม แสดงในหน้าแรกและหน้าการตรวจสอบสิทธิ์เมื่อองค์ประกอบพื้นหลังสว่าง ขนาดที่แนะนำคือ 250x50 พิกเซล
+and_theme_line29 === รูปภาพ favicon ของไซต์ ซึ่งแสดงในแท็บเบราว์เซอร์ ขนาดที่แนะนำคือ 50x50 พิกเซล
+and_theme_line35 === ภาพพื้นหลัง
+and_theme_line35_1 === ภาพพื้นหลังของไซต์ แสดงได้ทุกที่ ขอแนะนำให้ใช้ภาพที่มีความละเอียดสูง
+and_theme_line41 === เลือกธีมสีที่คุณต้องการใช้สำหรับไซต์
+and_theme_line46 === เลือกสีไฮไลท์สำหรับข้อความ
+and_theme_line51 === สีสปินเนอร์
+and_theme_line51_1 === เลือกสีที่คุณต้องการใช้สำหรับอาแจ็กซ์สปินเนอร์ตัวบน
+and_theme_line58 === JavaScript ที่กำหนดเอง
+and_theme_line58_1 === หากคุณต้องการใช้โค้ดจาวาสคริปต์ที่กำหนดเอง โปรดเพิ่มที่นี่ มีการโหลดแบบไดนามิกในทุกหน้า
+and_theme_line60 === สวัสดีชาวโลก!
+and_theme_line63 === CSS ที่กำหนดเอง
+and_theme_line63_1 === หากคุณต้องการเปลี่ยนสไตล์ CSS คุณสามารถทำได้ที่นี่
+and_apikey_line17 === ชื่อคีย์
+and_apikey_line19 === เช่น. สำหรับเซิร์ฟเวอร์ของฉัน
+and_apikey_line24 === สิทธิ์ที่สำคัญ
+and_edit_auto_line17 === ชื่อการกระทำ
+and_edit_auto_line19 === เช่น. ตอบกลับอัตโนมัติ
+and_edit_auto_line24 === แหล่งที่มา
+and_edit_auto_line24_1 === ที่มาของเหตุการณ์รับ
+and_edit_auto_line34 === คีย์เวิร์ดตอบกลับโดยคั่นด้วยเครื่องหมายจุลภาค คำหลักเหล่านี้จะทริกเกอร์การตอบกลับอัตโนมัติหากตรวจพบในเนื้อหาข้อความ
+and_edit_auto_line36 === เช่น. ขอบคุณ โอเค สมัครสมาชิก ใช่
+and_edit_auto_line41 === ข้อความที่จะส่งไปยังผู้ส่ง
+and_edit_auto_line43 === เช่น. ข้อความตอบกลับของคุณที่นี่ ยอมรับรหัสย่อแล้ว
+and_edit_auto_line48 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_edit_con_line17 === ชื่อผู้ติดต่อ.
+and_edit_con_line19 === เช่น. ไมเคิล
+and_edit_con_line24 === เบอร์ติดต่อ.
+and_edit_con_line31 === กลุ่มติดต่อ.
+and_edit_dev_line16 === รายละเอียดอุปกรณ์
+and_edit_dev_line21 === ชื่ออุปกรณ์.
+and_edit_dev_line23 === เช่น. อุปกรณ์ของฉัน
+and_edit_dev_line28 === หากเปิดใช้งาน ข้อความจะถูกส่งแบบสุ่มระหว่าง 2 ค่า คุณสามารถกำหนดค่าได้ด้านล่าง
+and_edit_dev_line38 === ช่วงเวลาต่ำสุดในหน่วยวินาที
+and_edit_dev_line41 === เช่น. 5
+and_edit_dev_line46 === ช่วงเวลาสูงสุดเป็นวินาที
+and_edit_dev_line49 === เช่น. 20
+and_edit_dev_line53 === การตั้งค่าการแจ้งเตือน
+and_edit_dev_line58 === แอปพลิเคชั่น
+and_edit_dev_line58_1 === ป้อนชื่อแพ็คเกจของแอพที่คุณต้องการรับการแจ้งเตือน แยกพวกเขาด้วยการแบ่งบรรทัด
+and_edit_dev_line65 === การตั้งค่าพันธมิตร
+and_edit_dev_line70 === ประเมินค่า
+and_edit_dev_line70_1 === จำนวนเงินที่คุณต้องการเรียกเก็บต่อข้อความ ประเทศของอุปกรณ์จะถูกใช้เป็นฐานของสกุลเงิน รองรับค่าทศนิยมเช่นเซ็นต์
+and_edit_dev_line73 === เช่น. 0.50
+and_edit_dev_line78 === สถานะทั่วโลก
+and_edit_dev_line78_1 === หากปิดใช้งาน อุปกรณ์จะไม่สามารถใช้เป็นเกตเวย์ SMS ทั่วโลกและคุณจะไม่ได้รับเงิน โปรดทราบว่าอุปกรณ์ทั่วโลกไม่สามารถรับข้อความได้เนื่องจากเหตุผลด้านความปลอดภัย
+and_edit_dev_line89 === ประเทศ
+and_edit_dev_line89_1 === ประเทศของอุปกรณ์ ใช้สำหรับกำหนดหมายเลขโทรศัพท์และเป็นสกุลเงินหลักของฟิลด์อัตรา
+and_edit_dev_line101 === ลำดับความสำคัญ
+and_edit_dev_line101_1 === ข้อความสากลจะถูกส่งก่อนข้อความของคุณ
+and_edit_dev_line112 === ช่องใส่ซิม
+and_edit_dev_line112_1 === เลือกช่องซิมที่คุณต้องการใช้ส่ง หากคุณเลือกทั้งสองช่อง ข้อความจะถูกส่งแบบสุ่ม
+and_edit_email_line16 === เทมเพลตอีเมล
+and_edit_email_line18 === อนุญาตให้ใช้ HTML
+and_edit_gate_line17 === ชื่อ
+and_edit_gate_line17_1 === นี่คือชื่อเกตเวย์ที่จะแสดงต่อผู้ใช้ของคุณ
+and_edit_gate_line19 === เช่น. ทวิลิโอ
+and_edit_gate_line24 === คอนโทรลเลอร์
+and_edit_gate_line24_1 === เลือกไฟล์ตัวควบคุมเกตเวย์ ซึ่งจะมีตรรกะและรหัสเกตเวย์ของคุณ ขอแนะนำให้ตรวจสอบเอกสาร
+and_edit_gate_line31 === โทรกลับ
+and_edit_gate_line31_1 === หากเปิดใช้งาน ข้อความจะต้องได้รับการยืนยันโดยใช้คุณสมบัติการโทรกลับของเกตเวย์บุคคลที่สามสำหรับสถานะการส่ง มิฉะนั้น ข้อความจะถูกทำเครื่องหมายว่าส่งแล้วทันทีที่ส่ง
+and_edit_gate_line34 === เปิดใช้งาน
+and_edit_gate_line35 === ปิดการใช้งาน
+and_edit_gate_line41 === รหัสโทรกลับ
+and_edit_gate_line41_1 === หากเปิดใช้งานการโทรกลับ คุณต้องคัดลอก ID นี้และวางลงในคอนโทรลเลอร์ของคุณ เพื่อให้ระบบสามารถระบุการเรียกกลับได้
+and_edit_gate_line44 === คัดลอกและวางสำหรับ ID การโทรกลับ
+and_edit_gate_line51 === ราคา
+and_edit_gate_line51_1 === ตารางราคาที่คุณกำหนดเองสำหรับเกตเวย์นี้ ซึ่งจะช่วยให้คุณสามารถเรียกเก็บเงินจากราคาของบุคคลที่สามได้ ตัวอย่างเช่น หาก twilio เรียกเก็บเงิน 0.01 สำหรับประเทศที่ระบุ คุณสามารถเรียกเก็บเงิน 0.02 แทนได้ สกุลเงินจะขึ้นอยู่กับสกุลเงินของระบบของคุณ โปรดปฏิบัติตามรูปแบบการกำหนดราคาอย่างถูกต้อง
+and_edit_gate_line54 === ตัวอย่างราคา JSON:
+and_edit_gate_line54_1 === ดาวน์โหลด
+and_edit_grp_line17 === ชื่อกลุ่ม.
+and_edit_grp_line19 === เช่น. เพื่อน
+and_edit_hook_line17 === ชื่อการกระทำ
+and_edit_hook_line19 === เช่น. การดำเนินการทดสอบ
+and_edit_hook_line24 === แหล่งที่มา
+and_edit_hook_line24_1 === ที่มาของเหตุการณ์
+and_edit_hook_line27 === ข้อความ
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === เลือกเหตุการณ์ที่จะเรียกใช้ hook นี้
+and_edit_hook_line37 === เมื่อส่ง
+and_edit_hook_line38 === เมื่อได้รับ
+and_edit_hook_line44 === โครงสร้างลิงค์เบ็ด นี่คือ url ที่ระบบจะเรียกใช้ รองรับวิธี GET เท่านั้น
+and_edit_hook_line51 === ชุดตัวแปรที่คุณสามารถใช้ใน hook URL ของคุณ
+and_edit_lang_line17 === เช่น. เกาหลี
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === ใช่
+and_edit_lang_line33 === ไม่
+and_edit_pack_line17 === ชื่อแพ็คเกจ
+and_edit_pack_line19 === เช่น. แพ็คเกจวีไอพี
+and_edit_pack_line24 === ราคาแพ็คเกจควรเป็นไปตามสกุลเงินของระบบ ไม่อนุญาตให้ใช้ค่าโฟลต
+and_edit_pack_line29 === เช่น. 25
+and_edit_pack_line34 === หากเปิดใช้งาน ข้อความและแชท whatsapp จะมีเครื่องหมายส่วนท้ายเมื่อผู้รับได้รับ
+and_edit_pack_line44 === หากเปิดใช้งาน แพ็คเกจจะถูกซ่อนจาก modal ของแพ็คเกจและโฮมเพจ
+and_edit_pack_line53 === การตั้งค่า Android
+and_edit_pack_line58 === ขีดจำกัดการส่ง SMS
+and_edit_pack_line58_1 === จำนวนข้อความสูงสุดที่ผู้ใช้ส่งได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line60 === เช่น. 300
+and_edit_pack_line65 === ขีดจำกัดการรับ SMS
+and_edit_pack_line65_1 === จำนวนข้อความสูงสุดที่ผู้ใช้สามารถรับได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line67 === เช่น. 150
+and_edit_pack_line72 === USSD Limit
+and_edit_pack_line72_1 === จำนวน ussd สูงสุดที่ผู้ใช้สามารถร้องขอได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line74 === เช่น. 25
+and_edit_pack_line79 === ขีด จำกัด การแจ้งเตือน
+and_edit_pack_line79_1 === จำนวนการแจ้งเตือนสูงสุดที่ผู้ใช้จะได้รับก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line81 === เช่น. 1300
+and_edit_pack_line86 === จำนวนอุปกรณ์ Android สูงสุดที่สามารถเชื่อมโยงกับบัญชีผู้ใช้ได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line88 === เช่น. 25
+and_edit_pack_line92 === การตั้งค่า WhatsApp
+and_edit_pack_line97 === จำนวนการแชทสูงสุดที่ผู้ใช้ส่งได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line99 === เช่น. 300
+and_edit_pack_line104 === จำนวนแชทสูงสุดที่ผู้ใช้สามารถรับได้ก่อนการรีเซ็ต ป้อน 0 ไม่จำกัด
+and_edit_pack_line106 === เช่น. 150
+and_edit_pack_line111 === ขีดจำกัดบัญชี
+and_edit_pack_line111_1 === จำนวนบัญชี WhatsApp สูงสุดที่สามารถเชื่อมโยงกับบัญชีผู้ใช้ได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line113 === เช่น. 10
+and_edit_pack_line117 === การตั้งค่า Ultility
+and_edit_pack_line122 === จำนวนผู้ติดต่อสูงสุดที่ผู้ใช้สามารถบันทึกได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line124 === เช่น. 25
+and_edit_pack_line129 === กำหนดการจำกัด
+and_edit_pack_line129_1 === จำนวนข้อความ/แชทตามกำหนดเวลาสูงสุดที่ผู้ใช้บันทึกได้ ป้อน 0 ไม่จำกัด สิ่งนี้รวมกันสำหรับทั้ง sms และ whatsapp
+and_edit_pack_line131 === เช่น. 25
+and_edit_pack_line136 === จำนวนคีย์ API สูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line138 === เช่น. 10
+and_edit_pack_line143 === จำนวน Webhooks สูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line145 === เช่น. 5
+and_edit_pack_line150 === ขีด จำกัด การดำเนินการ
+and_edit_pack_line150_1 === จำนวนการกระทำสูงสุดที่สามารถสร้างได้ ป้อน 0 ไม่จำกัด
+and_edit_pack_line152 === เช่น. 5
+and_edit_page_line17 === ชื่อเพจ.
+and_edit_page_line24 === เฉพาะบทบาทที่เลือกเท่านั้นที่จะสามารถเข้าถึงหน้านี้ได้
+and_edit_page_line35 === หากเปิดใช้งาน หน้าจะไม่สามารถเข้าถึงได้หากไม่ได้ลงชื่อเข้าใช้
+and_edit_page_line45 === เนื้อหาหน้า. อนุญาตแท็ก html ทั้งหมด โปรดใช้ความระมัดระวังเมื่อเพิ่มสคริปต์จากแหล่งที่ไม่รู้จัก!
+and_edit_role_line17 === ชื่อบทบาท
+and_edit_role_line19 === เช่น. นักพัฒนา
+and_edit_role_line24 === เลือกการอนุญาตและคุณสมบัติที่คุณต้องการปิดใช้งาน/เปิดใช้งานสำหรับบทบาทนี้ การเปลี่ยนแปลงมีผลแบบเรียลไทม์ แท็บเบราว์เซอร์ของผู้ใช้ที่เชื่อมต่อที่มีบทบาทจะถูกโหลดซ้ำโดยอัตโนมัติ
+and_edit_short_line17 === ชื่อ
+and_edit_short_line17_1 === ชื่อย่อ.
+and_edit_short_line19 === เช่น. Bitly
+and_edit_short_line24 === คอนโทรลเลอร์
+and_edit_short_line24_1 === เลือกไฟล์ตัวควบคุมตัวย่อ ซึ่งจะประกอบด้วยตรรกะและรหัสตัวย่อของคุณ ขอแนะนำให้ตรวจสอบเอกสาร
+and_edit_sms_line17 === ชื่อของข้อความที่กำหนดเวลาไว้
+and_edit_sms_line19 === เช่น. ข้อความของฉัน
+and_edit_sms_line24 === เลือกวันที่กำหนด
+and_edit_sms_line26 === เช่น. 06/22/2020 12:00 น.
+and_edit_sms_line31 === หากเปิดใช้งาน ข้อความจะถูกกำหนดเวลาทุกครั้งที่มีการจับคู่วันที่ตามกำหนดการ
+and_edit_sms_line42 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด
+and_edit_sms_line55 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม
+and_edit_sms_line67 === โหมดเกตเวย์
+and_edit_sms_line67_1 === โหมดเกตเวย์ที่คุณต้องการใช้ หากคุณเลือกอุปกรณ์ อุปกรณ์ที่ลิงก์ไว้จะแสดงเพื่อส่ง มิฉะนั้น ระบบจะแสดงเกตเวย์ของบุคคลที่สามและพาร์ทเนอร์
+and_edit_sms_line70 === อุปกรณ์
+and_edit_sms_line71 === เครดิต
+and_edit_sms_line76 === ช่องใส่ซิมการ์ดในการใช้งาน
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับส่ง
+and_edit_sms_line99 === เกตเวย์ SMS
+and_edit_sms_line99_1 === เกตเวย์บุคคลที่สามและพาร์ทเนอร์ เครดิตของคุณจะถูกใช้เมื่อคุณส่งข้อความโดยใช้เกตเวย์เหล่านี้ เราขอแนะนำให้คุณตรวจสอบราคาเกตเวย์ก่อนใช้งาน
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === ตัวอย่าง:
+and_edit_sms_line122_1 === ทอมเป็น
+and_edit_sms_line122_2 === แมว
+and_edit_sms_line125 === ค่า
+and_edit_sms_line125_1 === ดี
+and_edit_sms_line125_2 === และ
+and_edit_sms_line125_3 === แย่
+and_edit_sms_line125_4 === จะถูกใช้แบบสุ่ม
+and_edit_temp_line17 === ชื่อเทมเพลต
+and_edit_temp_line24 === รูปแบบเทมเพลต
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_edit_temp_line35 === ตัวอย่าง:
+and_edit_temp_line35_1 === ทอมเป็น
+and_edit_temp_line35_2 === แมว
+and_edit_temp_line38 === ค่า
+and_edit_temp_line38_1 === ดี
+and_edit_temp_line38_2 === และ
+and_edit_temp_line38_3 === แย่
+and_edit_temp_line38_4 === จะถูกใช้แบบสุ่ม
+and_edit_temp_line43 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_eduse_line17 === ชื่อนามสกุลตามกฎหมายของคุณ โปรดทราบว่าการใช้ชื่อปลอมอาจทำให้บัญชีของคุณถูกระงับได้
+and_eduse_line19 === เช่น. Michael Cors
+and_eduse_line24 === ที่อยู่อีเมลที่ถูกต้อง ละเว้นฟิลด์นี้หากคุณต้องการเก็บที่อยู่อีเมลปัจจุบัน
+and_eduse_line26 === เช่น. user@mail.com
+and_eduse_line31 === หากคุณต้องการเก็บรหัสผ่านปัจจุบัน โปรดละเว้นฟิลด์นี้ มิฉะนั้น ให้ป้อนรหัสผ่านใหม่
+and_eduse_line38 === เขตเวลาที่ตั้งของคุณ เปลี่ยนแปลงสิ่งนี้หากคุณอยู่ในประเทศอื่น เขตเวลาใช้สำหรับความถูกต้องของวันที่และเวลาของข้อความที่คุณส่งและข้อมูลอื่นๆ
+and_eduse_line49 === ประเทศ
+and_eduse_line49_1 === ประเทศของคุณ ใช้สำหรับการชำระคืนและการจัดรูปแบบหมายเลขโทรศัพท์
+and_eduse_line60 === เสียงแจ้งเตือน
+and_eduse_line60_1 === หากปิดใช้งาน การแจ้งเตือนจะเงียบ
+and_eduse_line70 === เลือกบทบาทของผู้ใช้
+and_eduse_line81 === เลือกภาษาของผู้ใช้
+and_eduse_line92 === โปรแกรมพันธมิตร
+and_eduse_line92_1 === หากเปิดใช้งาน ผู้ใช้จะสามารถใช้อุปกรณ์ของตนเป็นอุปกรณ์สากล ซึ่งจะทำให้พวกเขาได้รับเงินเมื่อผู้ใช้รายอื่นส่งข้อความโดยใช้อุปกรณ์ของตน
+and_edweb_line17 === ชื่อเว็บฮุค
+and_edweb_line24 === รับกิจกรรม
+and_edweb_line24_1 === เลือกรับเหตุการณ์ที่คุณต้องการ เหตุการณ์จะถูกส่งไปยัง URL hook ของเว็บของคุณผ่านวิธี POST
+and_edweb_line30 === การแจ้งเตือน
+and_edweb_line36 === URL เว็บฮุคของคุณ ข้อมูลเพย์โหลดทั้งหมดจะถูกส่งมาที่นี่ด้วยวิธี POST
+and_edweb_line38 === เช่น. https://yourdomain.com/reply.php
+and_edwhat_line17 === ชื่อของแชทที่กำหนดเวลาไว้
+and_edwhat_line19 === เช่น. ข้อความของฉัน
+and_edwhat_line24 === เลือกวันที่กำหนด
+and_edwhat_line26 === เช่น. 06/22/2020 12:00 น.
+and_edwhat_line31 === หากเปิดใช้งาน แชทจะถูกจัดกำหนดการทุกครั้งที่มีการจับคู่วันที่ตามกำหนดการ
+and_edwhat_line42 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด
+and_edwhat_line55 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม
+and_edwhat_line67 === บัญชี
+and_edwhat_line67_1 === เลือกบัญชี WhatsApp ที่คุณต้องการใช้
+and_edwhat_line76 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_edwhat_line95 === ตัวอย่าง:
+and_edwhat_line95_1 === ทอมเป็น
+and_edwhat_line95_2 === แมว
+and_edwhat_line98 === ค่า
+and_edwhat_line98_1 === ดี
+and_edwhat_line98_2 === และ
+and_edwhat_line98_3 === แย่
+and_edwhat_line98_4 === จะถูกใช้แบบสุ่ม
+and_edwhat_line103 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_edwhat_line116 === ส่ง
+and_edwid_line17 === ชื่อวิดเจ็ต
+and_edwid_line24 === ไอคอนวิดเจ็ต สำหรับโมดอลเท่านั้น กรุณาเยี่ยมชม line Awesome สำหรับการอ้างอิงไอคอน
+and_edwid_line31 === ประเภทวิดเจ็ต บล็อกมีไว้สำหรับวางในส่วนต่างๆ ของเทมเพลต โมดอลมีไว้สำหรับเนื้อหาแบบไดนามิก ตั้งแต่ v3 โมดอลจะทำงานในแดชบอร์ดเท่านั้น
+and_edwid_line34 === ปิดกั้น
+and_edwid_line35 === โมดอล
+and_edwid_line41 === ขนาดวิดเจ็ต สำหรับโมดอลเท่านั้น
+and_edwid_line53 === ตำแหน่งวิดเจ็ต สำหรับโมดอลเท่านั้น
+and_edwid_line64 === เนื้อหาวิดเจ็ต อนุญาตให้ใช้แท็ก html ทั้งหมด โปรดใช้ความระมัดระวังเมื่อเพิ่มสคริปต์จากแหล่งที่ไม่รู้จัก!
+and_import_line17 === ไฟล์ excel ที่คุณต้องการนำเข้า โปรดตรวจสอบให้แน่ใจว่าได้ปฏิบัติตามรูปแบบที่กำหนด
+and_import_line20 === ไฟล์ตัวอย่าง:
+and_import_line20_1 === ดาวน์โหลด
+and_package_line36 === รับ SMS
+and_package_line41 === WhatsApp ส่ง
+and_package_line46 === รับ WhatsApp
+and_package_line51 === USSD
+and_package_line56 === การแจ้งเตือน
+and_package_line61 === SMS/แชทตามกำหนดการ
+and_package_line66 === รายชื่อผู้ติดต่อ
+and_package_line71 === คีย์ API
+and_package_line76 === เว็บฮุค
+and_package_line81 === การกระทำ
+and_package_line86 === อุปกรณ์ Android
+and_package_line91 === บัญชี WhatsApp
+and_redeem_line18 === รหัสแลก.
+and_redeem_line20 === เช่น. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด ระบบจะส่งข้อความไปยังหมายเลขเพียง 1 ข้อความ แม้ว่าคุณจะเลือกกลุ่มที่เพิ่มไว้
+and_sms_bulk_31 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม ระบบจะส่งข้อความไปยังผู้ติดต่อเพียง 1 ข้อความ แม้ว่าคุณจะเลือกหลายกลุ่มที่เพิ่มไว้
+and_sms_bulk_43 === ชอร์ตเทนเนอร์
+and_sms_bulk_43_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_sms_bulk_46 === อย่าย่อลิงค์
+and_sms_bulk_55 === โหมดเกตเวย์
+and_sms_bulk_55_1 === โหมดเกตเวย์ที่คุณต้องการใช้ หากคุณเลือกอุปกรณ์ อุปกรณ์ที่ลิงก์ไว้จะแสดงเพื่อส่ง มิฉะนั้น ระบบจะแสดงเกตเวย์ของบุคคลที่สามและพาร์ทเนอร์
+and_sms_bulk_58 === อุปกรณ์
+and_sms_bulk_59 === เครดิต
+and_sms_bulk_64 === ช่องใส่ซิมการ์ดในการใช้งาน
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === หากเปิดใช้งาน ข้อความเหล่านี้จะถูกส่งก่อนสิ่งอื่นใด
+and_sms_bulk_81 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_sms_bulk_94 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับส่ง
+and_sms_bulk_105 === เกตเวย์ SMS
+and_sms_bulk_105_1 === เกตเวย์บุคคลที่สามและพาร์ทเนอร์ เครดิตของคุณจะถูกใช้เมื่อคุณส่งข้อความโดยใช้เกตเวย์เหล่านี้ เราขอแนะนำให้คุณตรวจสอบราคาเกตเวย์ก่อนใช้งาน
+and_sms_bulk_126 === แปลข้อความ
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_sms_bulk_135 === ตัวอย่าง:
+and_sms_bulk_143 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_sms_exe17 === ไฟล์ excel ที่คุณต้องการนำเข้า โปรดตรวจสอบให้แน่ใจว่าได้ปฏิบัติตามรูปแบบที่กำหนด
+and_sms_exe20 === ไฟล์ตัวอย่าง:
+and_sms_exe20_1 === ดาวน์โหลด
+and_sms_exe27 === ชอร์ตเทนเนอร์
+and_sms_exe27_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_sms_exe30 === อย่าย่อลิงค์
+and_sms_exe39 === โหมดเกตเวย์
+and_sms_exe39_1 === โหมดเกตเวย์ที่คุณต้องการใช้ หากคุณเลือกอุปกรณ์ อุปกรณ์ที่ลิงก์ไว้จะแสดงเพื่อส่ง มิฉะนั้น ระบบจะแสดงเกตเวย์ของบุคคลที่สามและพาร์ทเนอร์
+and_sms_exe42 === อุปกรณ์
+and_sms_exe43 === เครดิต
+and_sms_exe47 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_sms_exe60 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับส่ง
+and_sms_exe70 === เกตเวย์ SMS
+and_sms_exe70_1 === เกตเวย์บุคคลที่สามและพาร์ทเนอร์ เครดิตของคุณจะถูกใช้เมื่อคุณส่งข้อความโดยใช้เกตเวย์เหล่านี้ เราขอแนะนำให้คุณตรวจสอบราคาเกตเวย์ก่อนใช้งาน
+and_sms_exe92 === แปลข้อความ
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_sms_exe109 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_sms_quick17 === หมายเลขโทรศัพท์ของผู้รับ.
+and_sms_quick24 === โหมดเกตเวย์
+and_sms_quick24_1 === โหมดเกตเวย์ที่คุณต้องการใช้ หากคุณเลือกอุปกรณ์ อุปกรณ์ที่ลิงก์ไว้จะแสดงเพื่อส่ง มิฉะนั้น ระบบจะแสดงเกตเวย์ของบุคคลที่สามและพาร์ทเนอร์
+and_sms_quick27 === อุปกรณ์
+and_sms_quick28 === เครดิต
+and_sms_quick34 === ชอร์ตเทนเนอร์
+and_sms_quick34_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_sms_quick37 === อย่าย่อลิงค์
+and_sms_quick46 === ช่องใส่ซิมการ์ดในการใช้งาน
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === หากเปิดใช้งาน ข้อความเหล่านี้จะถูกส่งก่อนสิ่งอื่นใด
+and_sms_quick66 === อุปกรณ์ที่เชื่อมโยงของคุณ เลือกสิ่งที่คุณต้องการใช้สำหรับส่ง
+and_sms_quick77 === เกตเวย์ SMS
+and_sms_quick77_1 === เกตเวย์บุคคลที่สามและพาร์ทเนอร์ เครดิตของคุณจะถูกใช้เมื่อคุณส่งข้อความโดยใช้เกตเวย์เหล่านี้ เราขอแนะนำให้คุณตรวจสอบราคาเกตเวย์ก่อนใช้งาน
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_sysup17 === อัปเดตไฟล์
+and_sysup17_1 === อัปเดตไฟล์ zip โปรดเลือกไฟล์ที่ถูกต้อง
+and_upplug17 === อัปเดตไฟล์
+and_upplug17_1 === อัปเดตไฟล์ zip โปรดเลือกไฟล์ที่ถูกต้อง
+and_uset17 === รูปโปรไฟล์ของคุณ
+and_uset24 === ชื่อนามสกุลตามกฎหมายของคุณ โปรดทราบว่าการใช้ชื่อปลอมอาจทำให้บัญชีของคุณถูกระงับได้
+and_uset26 === เช่น. Michael Shmuck
+and_uset31 === ที่อยู่อีเมลที่ถูกต้องของคุณ ไม่ต้องสนใจฟิลด์นี้หากคุณต้องการเก็บที่อยู่อีเมลปัจจุบันของคุณไว้
+and_uset33 === เช่น. yourmail@mail.com
+and_uset38 === เขตเวลาที่ตั้งของคุณ เปลี่ยนแปลงสิ่งนี้หากคุณอยู่ในประเทศอื่น เขตเวลาใช้สำหรับความถูกต้องของวันที่และเวลาของข้อความที่คุณส่งและข้อมูลอื่นๆ
+and_uset49 === ประเทศ
+and_uset49_1 === ประเทศของคุณ ใช้สำหรับการชำระคืนและการจัดรูปแบบหมายเลขโทรศัพท์
+and_uset60 === เสียงแจ้งเตือน
+and_uset60_1 === หากปิดใช้งาน การแจ้งเตือนจะเงียบ
+and_uset70 === หากคุณต้องการเก็บรหัสผ่านปัจจุบันของคุณไว้ โปรดอย่าสนใจฟิลด์นี้ มิฉะนั้น ให้ป้อนรหัสผ่านใหม่ของคุณ
+and_usub23 === ใช้ได้ถึงวันที่
+and_usub28 === ส่ง SMS
+and_usub34 === รับ SMS
+and_usub40 === WhatsApp ส่ง
+and_usub46 === รับ WhatsApp
+and_usub57 === USSD
+and_usub63 === การแจ้งเตือน
+and_usub69 === SMS/แชทตามกำหนดการ
+and_usub98 === การกระทำ
+and_usub104 === อุปกรณ์ Android
+and_usub110 === บัญชี WhatsApp
+and_view20 === ดูแบบเต็ม
+and_whatsbulk_18 === ตัวเลข E.164 หลายตัวคั่นด้วยตัวแบ่งบรรทัด
+and_whatsbulk_31 === เลือกกลุ่มผู้ติดต่อหลายกลุ่ม โปรดทราบว่าหากผู้ติดต่อมีหลายกลุ่ม ข้อความอาจถูกส่งไปหลายครั้งหากคุณเลือกกลุ่มที่รวมไว้
+and_whatsbulk_43 === ชอร์ตเทนเนอร์
+and_whatsbulk_43_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_whatsbulk_46 === อย่าย่อลิงค์
+and_whatsbulk_55 === บัญชี
+and_whatsbulk_55_1 === เลือกบัญชี WhatsApp ที่คุณต้องการใช้
+and_whatsbulk_64 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_whatsbulk_79 === แปลข้อความ
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_whatsbulk_96 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_whatex17 === ไฟล์ excel ที่คุณต้องการนำเข้า โปรดตรวจสอบให้แน่ใจว่าได้ปฏิบัติตามรูปแบบที่กำหนด
+and_whatex20 === ไฟล์ตัวอย่าง:
+and_whatex20_1 === ดาวน์โหลด
+and_whatex27 === ชอร์ตเทนเนอร์
+and_whatex27_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_whatex30 === อย่าย่อลิงค์
+and_whatex39 === บัญชี
+and_whatex39_1 === เลือกบัญชี WhatsApp ที่คุณต้องการใช้
+and_whatex48 === เทมเพลตข้อความที่สร้างไว้ล่วงหน้าของคุณ
+and_whatex63 === แปลข้อความ
+and_whatex68 === Spintax
+and_whatex68_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_whatex80 === ชุดตัวแปรที่คุณใช้ได้ในข้อความของคุณ
+and_whatquick_17 === E.164 หมายเลขโทรศัพท์ผู้รับ
+and_whatquick_24 === ชอร์ตเทนเนอร์
+and_whatquick_24_1 === หากเปิดใช้งาน ลิงก์ในข้อความจะถูกย่อโดยอัตโนมัติโดยใช้ตัวย่อที่เลือก
+and_whatquick_27 === อย่าย่อลิงค์
+and_whatquick_36 === บัญชี
+and_whatquick_36_1 === เลือกบัญชี WhatsApp ที่คุณต้องการใช้
+and_whatquick_50 === แปลข้อความ
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === คุณลักษณะที่ช่วยให้คุณสามารถสุ่มคำในข้อความของคุณซึ่งจะช่วยป้องกันการตรวจจับสแปมได้อย่างมีประสิทธิภาพ
+and_admin_api_3 === การบริหาร API
+and_admin_fileman_3 === ตัวแก้ไขเทมเพลต
+and_admin_gate_3 === เกตเวย์ SMS
+and_admin_gate_8 === เพิ่มเกตเวย์
+and_admin_lang_6 === เรียงลำดับภาษาใหม่
+and_admin_mark_3 === การตลาด
+and_admin_mark_6 === ลบรายการที่เลือก
+and_admin_mark_12 === ดัน
+and_admin_mark_17 === แจ้ง
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === คำขอจ่ายเงิน
+and_admin_short_3 === ตัวสั้น
+and_admin_short_8 === เพิ่ม Shortener
+and_admin_subs_8 === เพิ่มการสมัครสมาชิก
+and_admin_vouch_6 === ลบรายการที่เลือก
+and_droid_dev_3 === อุปกรณ์ Android
+and_droid_dev_6 === อ่านเอกสาร
+and_droid_dev_8 === เอกสาร
+and_droid_dev_11 === สมัครเป็นพันธมิตรผู้ให้บริการเกตเวย์
+and_droid_dev_13 === ห้างหุ้นส่วน
+and_droid_dev_16 === ลงทะเบียนอุปกรณ์ Android ใหม่
+and_droid_not_3 === การแจ้งเตือน
+and_droid_not_6 === ลบรายการที่เลือก
+and_droid_rev_3 === ได้รับ SMS
+and_droid_rev_6 === ลบข้อความที่เลือก
+and_droid_sched_6 === ลบรายการที่เลือก
+and_droid_sent_3 === ส่ง SMS
+and_droid_sent_6 === ลบรายการที่เลือก
+and_droid_sent_10 === ล้างข้อความที่รอดำเนินการทั้งหมด
+and_droid_sent_14 === ส่ง SMS ด่วน
+and_droid_sent_16 === เร็ว
+and_droid_sent_19 === ส่ง SMS จำนวนมาก
+and_droid_sent_21 === จำนวนมาก
+and_droid_sent_24 === ส่ง SMS จำนวนมากผ่าน Excel
+and_droid_ussd_3 === คำขอ USSD
+and_droid_ussd_6 === ลบรายการที่เลือก
+and_droid_ussd_10 === ลบคำขอที่รอดำเนินการทั้งหมด
+and_droid_ussd_14 === คำขอ USSD ใหม่
+and_droid_ussd_16 === ขอ
+and_con_grp_6 === ลบรายการที่เลือก
+and_con_grp_10 === เพิ่มกลุ่มผู้ติดต่อใหม่
+and_con_sav_6 === ลบรายการที่เลือก
+and_con_sav_10 === เพิ่มผู้ติดต่อใหม่
+and_con_sav_15 === นำเข้าผู้ติดต่อจากไฟล์ excel
+and_con_unsub_3 === Unsubscribed
+and_con_unsub_6 === ลบรายการที่เลือก
+and_doc_act_3 === การกระทำ
+and_doc_api_3 === เอกสาร API
+and_doc_dev_3 === อุปกรณ์
+and_doc_partner_3 === ห้างหุ้นส่วน
+and_doc_webhook_3 === เว็บฮุค
+and_rate_gate_3 === ราคา
+and_rate_gate_10 === ประเทศ
+and_rate_gate_11 === อัตราต่อข้อความ
+and_rate_gate_22 === ประเทศอื่น ๆ
+and_rate_partner_3 === อัตราพันธมิตร
+and_tool_act_3 === การกระทำ
+and_tool_act_6 === อ่านเอกสาร
+and_tool_act_8 === เอกสาร
+and_tool_act_11 === เพิ่มแอคชั่นเบ็ดใหม่
+and_tool_act_13 === ตะขอ
+and_tool_act_16 === เพิ่มการดำเนินการตอบกลับอัตโนมัติใหม่
+and_tool_act_18 === ตอบกลับอัตโนมัติ
+and_tool_key_6 === อ่านเอกสาร
+and_tool_key_8 === เอกสาร
+and_tool_key_11 === สร้างคีย์ API ใหม่
+and_tool_webhook_6 === อ่านเอกสาร
+and_tool_webhook_8 === เอกสาร
+and_what_accnt_6 === เชื่อมต่อบัญชีใหม่
+and_what_accnt_8 === เพิ่มบัญชี
+and_what_attach_8 === ลบข้อความที่เลือก
+and_what_rev_3 === แชทที่ได้รับ
+and_what_rev_6 === ลบรายการที่เลือก
+and_what_sched_6 === ลบรายการที่เลือก
+and_what_sched_12 === กำหนดการแชท
+and_what_sent_3 === ส่งแชท
+and_what_sent_6 === ลบรายการที่เลือก
+and_what_sent_10 === ส่งแชทด่วน
+and_what_sent_12 === เร็ว
+and_what_sent_15 === ส่งแชทจำนวนมาก
+and_what_sent_17 === จำนวนมาก
+and_what_sent_20 === ส่งแชทจำนวนมากผ่าน Excel
+and_def_f_blck_6 === เริ่มการตลาด
+and_def_f_blck_7 === มาเริ่มต้นและขยายธุรกิจด้วยกัน ลงทะเบียนตอนนี้ และสัมผัสประสบการณ์แพลตฟอร์มการตลาดคุณภาพสูง!
+and_def_f_blck_8 === เข้าร่วมกับเรา
+and_def_f_blck_35 === ได้รับการติดต่อ
+and_head_blck_21 === บ้าน
+and_head_blck_24 === คุณสมบัติ
+and_head_blck_27 === ราคา
+and_head_blck_30 === ลูกค้า
+and_head_blck_39 === แผงควบคุม
+and_head_blck_42 === ออกจากระบบ
+and_pages_default_8 === การตลาด SMS และ WhatsApp ที่ดีที่สุด
+and_pages_default_29 === ข้อความ SMS
+and_pages_default_31 === ใช้อุปกรณ์ Android ของคุณเป็นเกตเวย์ SMS ซึ่งมีราคาถูกกว่าการใช้เกตเวย์ของบุคคลที่สาม
+and_pages_default_40 === การส่งข้อความ WhatsApp
+and_pages_default_42 === ใช้ WhatsApp สำหรับแคมเปญการตลาดของคุณ แพลตฟอร์มของเรามีเครื่องมือที่จะช่วยคุณในการเริ่มต้น
+and_pages_default_51 === เครื่องมือที่ใช้งานง่าย
+and_pages_default_53 === เรามีเครื่องมือที่จะช่วยคุณในงานด้านการตลาด เช่น การตอบกลับอัตโนมัติ เว็บฮุค และอื่นๆ
+and_pages_default_62 === ได้รับเงิน
+and_pages_default_64 === ร่วมเป็นหนึ่งในพันธมิตรของเราและใช้อุปกรณ์ Android ของคุณเป็นเกตเวย์และรับเงินสำหรับทุกข้อความที่ส่ง
+and_pages_default_73 === ทำไมต้องใช้บริการของเรา?
+and_pages_default_74 === นี่คือเหตุผลบางประการที่คุณควรเริ่มใช้บริการของเรา
+and_pages_default_84 === ส่งด่วนและจำนวนมาก
+and_pages_default_86 === ส่งข้อความจำนวนมากไปยังกลุ่มผู้ติดต่อต่างๆ ได้อย่างง่ายดาย และคุณยังสามารถส่งข้อความด่วนสำหรับการทำธุรกรรมที่รวดเร็วได้อีกด้วย แพลตฟอร์มของเรายังมีแดชบอร์ดแบบสด รับการแจ้งเตือนเมื่อมีการส่งหรือรับข้อความของคุณ!
+and_pages_default_89 === รหัสย่อ
+and_pages_default_89_1 === สำหรับเขียนข้อความของคุณด้วยข้อมูลที่กำหนดไว้ล่วงหน้า
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === สำหรับการสุ่มชุดคำเพื่อต่อสู้กับปัญหาสแปม
+and_pages_default_91 === นักแปล
+and_pages_default_91_1 === สำหรับการกำหนดเป้าหมายผู้ชมตามภาษาของพวกเขา
+and_pages_default_98 === เครื่องมืออัตโนมัติและสมาร์ท
+and_pages_default_100 === จัดการธุรกิจของคุณในขณะที่เราดูแลงานสกปรก แพลตฟอร์มของเราฉลาดและต้องการเพียงข้อความที่คุณต้องการส่ง จากนั้นเราจะจัดการที่เหลือ!
+and_pages_default_103 === กำหนดการ
+and_pages_default_103_1 === SMS และแชท whatsapp ของคุณในวันใดก็ได้ที่คุณต้องการ
+and_pages_default_104 === เว็บฮุค
+and_pages_default_104_1 === สำหรับการทำงานบางอย่างโดยอัตโนมัติเมื่อคุณได้รับข้อความจากทั้ง sms และ whatsapp
+and_pages_default_105 === การกระทำ
+and_pages_default_105_1 === สำหรับสร้างการตอบสนองอัตโนมัติและการตรวจสอบข้อมูลเหตุการณ์อย่างรวดเร็ว
+and_pages_default_106 === USSD
+and_pages_default_106_1 === เพื่อดำเนินการตามคำขอที่เกี่ยวข้องกับเครือข่าย เช่น การตรวจสอบยอดเงินจากผู้ให้บริการ
+and_pages_default_107 === การแจ้งเตือน
+and_pages_default_107_1 === จากอุปกรณ์ Android ที่เชื่อมต่อสามารถใช้กับงานอัตโนมัติได้
+and_pages_default_137 === เรารับประกันความสำเร็จของธุรกิจของคุณด้วยคุณสมบัติเชิงกลยุทธ์ของเรา
+and_pages_default_139 === แพลตฟอร์มของเราสร้างขึ้นมาอย่างดีเพื่อตอบสนองความต้องการของธุรกิจการตลาดที่กำลังเติบโต เราต้องการให้แน่ใจว่าทุก ๆ เซ็นต์ที่คุณใช้ไปกับบริการของเรานั้นสมควรได้รับและให้ความพึงพอใจ 100%!
+and_pages_default_145 === แพลตฟอร์มที่ใช้งานง่ายและลื่นไหล
+and_pages_default_148 === ราคาไม่แพงแต่คงบริการที่มีคุณภาพ
+and_pages_default_156 === เครื่องมือและแดชบอร์ดที่ใช้งานง่าย
+and_pages_default_159 === ประสบการณ์ที่รวดเร็วและปราศจากความล่าช้าในขณะที่คุณทำการตลาดผลิตภัณฑ์ของคุณ
+and_pages_default_171 === ราคาค่าบริการ
+and_pages_default_187 === ส่ง SMS
+and_pages_default_194 === รับ SMS
+and_pages_default_201 === WhatsApp ส่ง
+and_pages_default_208 === รับ WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === การแจ้งเตือน
+and_pages_default_229 === SMS/แชทตามกำหนดการ
+and_pages_default_236 === รายชื่อผู้ติดต่อ
+and_pages_default_243 === คีย์ API
+and_pages_default_250 === เว็บฮุค
+and_pages_default_257 === การกระทำ
+and_pages_default_264 === อุปกรณ์ Android
+and_pages_default_271 === บัญชี WhatsApp
+and_pages_default_287 === ลูกค้าของเรา
+and_pages_default_290 === ได้รับความไว้วางใจจากลูกค้ากว่า 3,000+ ราย เริ่มทำการตลาดผลิตภัณฑ์ของคุณและทำให้ธุรกิจของคุณเติบโตไปพร้อมกับเรา!
+landing_title_default === อุปกรณ์มือถือ Android เป็น SMS Gateway
+landing_nav_login === เข้าสู่ระบบ
+landing_lead_desc === ใช้แผนการส่ง SMS ไม่จำกัดของผู้ให้บริการเครือข่าย โซลูชันราคาถูกและคุ้มค่าสำหรับการตลาด SMS จำนวนมาก และโครงการในประเทศของคุณ ใช้ WhatsApp เพื่อเข้าถึงกลุ่มเป้าหมายได้มากขึ้น แพลตฟอร์มของเรามีเครื่องมือที่สมบูรณ์เพื่อช่วยคุณในการเริ่มต้น
+landing_footer_ourcomp === ออกบริษัท
+landing_footer_about === เกี่ยวกับ
+landing_footer_tos === เงื่อนไขการให้บริการ
+landing_footer_privacy === นโยบายความเป็นส่วนตัว
+landing_footer_links === ลิงค์เว็บไซต์
+landing_footer_login === เข้าสู่ระบบ
+landing_footer_register === ลงชื่อ
+landing_footer_copyright === สงวนลิขสิทธิ์
+dashboard_title_default === แผงควบคุม
+dashboard_title_contacts === รายชื่อผู้ติดต่อ
+dashboard_title_tools === เครื่องมือ
+dashboard_title_admin === การบริหาร
+dashboard_nav_default === แผงควบคุม
+dashboard_nav_contacts === รายชื่อผู้ติดต่อ
+dashboard_nav_tools === เครื่องมือ
+dashboard_nav_menusubscription === สมัครสมาชิก
+dashboard_nav_menusettings === การตั้งค่า
+dashboard_nav_menulogout === ออกจากระบบ
+dashboard_btn_addcontact === เพิ่มผู้ติดต่อ
+dashboard_btn_adddevice === เพิ่มอุปกรณ์
+dashboard_btn_addgroup === เพิ่มกลุ่ม
+dashboard_btn_addtemplate === เพิ่มเทมเพลต
+dashboard_btn_addkey === เพิ่มคีย์
+dashboard_btn_addhook === เพิ่มเว็บฮุค
+dashboard_btn_build === สร้าง
+dashboard_btn_buildsettings === การตั้งค่า
+dashboard_btn_settings === ระบบ
+dashboard_btn_theme === ธีม
+dashboard_btn_adduser === เพิ่มผู้ใช้
+dashboard_btn_addpackage === เพิ่มแพ็คเกจ
+dashboard_btn_addwidget === เพิ่มวิดเจ็ต
+dashboard_btn_addlanguage === เพิ่มภาษา
+dashboard_footer_about === เกี่ยวกับ
+dashboard_footer_terms === เงื่อนไขการให้บริการ
+dashboard_footer_privacy === นโยบายความเป็นส่วนตัว
+dashboard_footer_copyright === สงวนลิขสิทธิ์
+dashboard_messages_menusent === ส่งแล้ว
+dashboard_messages_menureceived === ได้รับ
+dashboard_messages_menutemplates === แม่แบบ
+dashboard_messages_tabreceivedtitle === ข้อความที่ได้รับ
+dashboard_messages_tabtemplatestitle === แม่แบบ
+dashboard_messages_tablesentrecipient === ผู้รับ
+dashboard_messages_tablesentmessage === ข้อความ
+dashboard_messages_tablesentcreated === สร้าง
+dashboard_messages_tablesentoptions === ตัวเลือก
+dashboard_messages_tablereceivedsender === ผู้ส่ง
+dashboard_messages_tablereceivedmessage === ข้อความ
+dashboard_messages_tablereceivedreceived === ได้รับ
+dashboard_messages_tablereceivedoptions === ตัวเลือก
+dashboard_messages_tabletemplatesname === ชื่อเทมเพลต
+dashboard_messages_tabletemplatesformat === รูปแบบเทมเพลต
+dashboard_messages_tabletemplatesoptions === ตัวเลือก
+dashboard_contacts_title === รายชื่อผู้ติดต่อ
+dashboard_contacts_menusaved === บันทึกแล้ว
+dashboard_contacts_menugroups === กลุ่ม
+dashboard_contacts_tabsavedtitle === ผู้ติดต่อที่บันทึกไว้
+dashboard_contacts_tabgroupstitle === ติดต่อกลุ่ม
+dashboard_contacts_tablesavedname === ชื่อผู้ติดต่อ
+dashboard_contacts_tablesavednumber === เบอร์ติดต่อ
+dashboard_contacts_tablesavedoptions === ตัวเลือก
+dashboard_contacts_tablegroupsname === ชื่อกลุ่ม
+dashboard_contacts_tablegroupsoptions === ตัวเลือก
+dashboard_devices_tableregisteredbrand === ผู้ผลิต
+dashboard_devices_tableregisteredversion === เวอร์ชั่น
+dashboard_devices_tableregisteredadded === ลงทะเบียน
+dashboard_devices_tableregisteredoptions === ตัวเลือก
+dashboard_tools_title === เครื่องมือ
+dashboard_tools_menukeys === คีย์ API
+dashboard_tools_menuhooks === เว็บฮุค
+dashboard_tools_tabkeystitle === คีย์ API
+dashboard_tools_tabhookstitle === เว็บฮุค
+dashboard_tools_tablekeysname === ชื่อ
+dashboard_tools_tablekeyspermissions === สิทธิ์
+dashboard_tools_tablekeysoptions === ตัวเลือก
+dashboard_tools_tablehooksname === ชื่อ
+dashboard_tools_tablehooksurl === URL ของเว็บฮุค
+dashboard_tools_tablehooksoptions === ตัวเลือก
+dashboard_admin_title === แอดมิน
+dashboard_admin_menustats === สถิติ
+dashboard_admin_menuusers === ผู้ใช้
+dashboard_admin_menupackages === แพ็คเกจ
+dashboard_admin_menusubscriptions === การสมัครรับข้อมูล
+dashboard_admin_menutransactions === ธุรกรรม
+dashboard_admin_menuwidgets === วิดเจ็ต
+dashboard_admin_menulanguages === ภาษา
+dashboard_admin_tabdefaultearningstitle === รายได้
+dashboard_admin_tabdefaultmessageslast === 30 วันที่ผ่านมา
+dashboard_admin_tabuserstitle === ผู้ใช้
+dashboard_admin_tabpackagestitle === แพ็คเกจ
+dashboard_admin_tabsubscriptionstitle === การสมัครรับข้อมูล
+dashboard_admin_tabtransactionstitle === ธุรกรรม
+dashboard_admin_tabwidgetstitle === วิดเจ็ต
+dashboard_admin_tablanguagestitle === ภาษา
+dashboard_admin_tableusersname === ชื่อ
+dashboard_admin_tableusersemail === อีเมล
+dashboard_admin_tableusersoptions === ตัวเลือก
+dashboard_admin_tablepackagesname === ชื่อ
+dashboard_admin_tablepackagesprice === ราคา
+dashboard_admin_tablepackagesoptions === ตัวเลือก
+dashboard_admin_tablesubscriptionsuser === ผู้ใช้
+dashboard_admin_tablesubscriptionspackage === บรรจุุภัณฑ์
+dashboard_admin_tablesubscriptionsprice === ราคา
+dashboard_admin_tablesubscriptionsexpire === วันที่หมดอายุ
+dashboard_admin_tablesubscriptionsoptions === ตัวเลือก
+dashboard_admin_tabletransactionscustomer === ลูกค้า
+dashboard_admin_tabletransactionsprovider === ผู้ให้บริการ
+dashboard_admin_tablewidgetsname === ชื่อวิดเจ็ต
+dashboard_admin_tablewidgetstype === พิมพ์
+dashboard_admin_tablewidgetssize === ขนาด
+dashboard_admin_tablewidgetsposition === ตำแหน่ง
+dashboard_admin_tablewidgetsoptions === ตัวเลือก
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === ชื่อภาษา
+dashboard_admin_tablelanguagescreated === สร้าง
+dashboard_admin_tablelanguagesoptions === ตัวเลือก
+table_search_text === ค้นหา
+table_search_placeholder === ใส่คีย์เวิร์ดที่นี่...
+response_invalid === คำขอไม่ถูกต้อง!
+response_went_wrong === บางอย่างผิดพลาด!
+response_session_false === ไม่มีเซสชัน!
+response_session_true === มีเซสชันอยู่แล้ว!
+response_invalid_emailpass === อีเมล/รหัสผ่านไม่ถูกต้อง!
+response_loggedin_success === เข้าสู่ระบบสำเร็จ!
+response_loggedout_success === ออกจากระบบสำเร็จแล้ว!
+response_invalid_email === ที่อยู่อีเมลที่ไม่ถูกต้อง!
+response_retrieval_received === เราได้รับคำขอให้ดึงข้อมูลบัญชี โปรดอย่าสนใจหากคุณไม่ได้ร้องขอ
+response_solve_captcha === โปรดแก้ปัญหาการต่อต้านบอท!
+response_register_false === การลงทะเบียนถูกปิดการใช้งาน!
+response_name_short === ชื่อสั้นเกินไป!
+response_password_short === รหัสผ่านต้องมากกว่า 5 ตัวอักษร!
+response_password_notmatch === รหัสผ่านไม่ตรงกัน!
+response_register_success === ลงทะเบียนสำเร็จ!
+response_email_unavailable === ที่อยู่อีเมลถูกลงทะเบียนแล้ว!
+response_upload_applogo === โปรดอัปโหลดโลโก้แอปของคุณ!
+response_upload_appsplash === กรุณาอัปโหลด app splash ของคุณ!
+response_pcode_empty === กรุณาใส่รหัสซื้อของคุณในการตั้งค่าระบบ!
+response_buildserver_false === ไม่สามารถเชื่อมต่อเพื่อสร้างเซิร์ฟเวอร์!
+response_invalid_number === เบอร์มือถือไม่ถูกต้อง!
+response_message_short === ข้อความสั้นเกินไป!
+response_message_queued === เพิ่มข้อความในคิวแล้ว!
+response_message_bulkqueued === ข้อความจำนวนมากถูกจัดคิวเพื่อส่ง!
+response_format_short === รูปแบบสั้นเกินไป!
+response_template_added === เพิ่มเทมเพลตแล้ว!
+response_number_exist === มีเบอร์ติดต่ออยู่แล้ว!
+response_contact_added === เพิ่มผู้ติดต่อแล้ว!
+response_group_added === เพิ่มกลุ่มผู้ติดต่อแล้ว!
+response_permission_min === โปรดเลือกอย่างน้อย 1 สิทธิ์!
+response_key_added === เพิ่มคีย์ API แล้ว!
+response_invalid_webhookurl === URL ของเว็บฮุคไม่ถูกต้อง!
+response_webhook_added === Webhook ahs ถูกเพิ่มแล้ว!
+response_user_added === เพิ่มผู้ใช้แล้ว!
+response_package_added === เพิ่มแพ็คเกจแล้ว!
+response_widget_added === เพิ่มวิดเจ็ตแล้ว!
+response_language_added === เพิ่มภาษาแล้ว!
+response_avatar_invalid === ไม่สามารถอัปโหลดอวาตาร์ได้!
+response_profile_updated === อัพเดทโปรไฟล์แล้ว!
+response_package_purchasedtitle === คุณได้สมัครแพ็กเกจพรีเมียม นี่คือใบเสร็จของคุณ!
+response_package_purchased === สมัครสมาชิกแพ็คเกจสำเร็จ!
+response_template_updated === อัปเดตเทมเพลตแล้ว!
+response_contact_updated === อัปเดตรายชื่อติดต่อแล้ว!
+response_group_updated === อัปเดตกลุ่มผู้ติดต่อแล้ว!
+response_key_updated === อัปเดตคีย์ API แล้ว!
+response_webhook_updated === ปรับปรุงเว็บฮุคแล้ว!
+response_user_updated === ผู้ใช้ได้รับการปรับปรุง!
+response_package_updated === อัพเดทแพ็คเกจแล้ว!
+response_widget_updated === วิดเจ็ตได้รับการอัปเดตแล้ว!
+response_language_updated === ภาษาได้รับการปรับปรุง!
+response_builder_packagenameshort === ชื่อแพ็คเกจสั้นเกินไป!
+response_builder_appnameshort === ชื่อแอปสั้นเกินไป!
+response_builder_applogofail === ไม่สามารถอัปโหลดโลโก้แอปได้!
+response_builder_appsplashfail === ไม่สามารถอัปโหลด App splash!
+response_builder_settingsupdated === อัปเดตการตั้งค่าตัวสร้างแล้ว!
+response_theme_updated === อัปเดตการตั้งค่าธีมแล้ว!
+response_system_settingsupdated === อัปเดตการตั้งค่าระบบแล้ว!
+response_deleted_sent === ข้อความที่ส่งถูกลบไปแล้ว!
+response_deleted_received === ข้อความที่ได้รับถูกลบ!
+response_deleted_template === แม่แบบถูกลบ!
+response_deleted_contact === ผู้ติดต่อถูกลบ!
+response_deleted_group === กลุ่มผู้ติดต่อถูกลบ!
+response_deleted_device === อุปกรณ์ถูกลบ!
+response_deleted_key === คีย์ API ถูกลบแล้ว!
+response_deleted_hook === เว็บฮุคถูกลบไปแล้ว!
+response_deleted_defaultuserfalse === ผู้ใช้เริ่มต้นไม่สามารถลบได้!
+response_deleted_user === ผู้ใช้ถูกลบ!
+response_deleted_defaultpackagefalse === แพ็คเกจเริ่มต้นไม่สามารถลบได้!
+response_deleted_package === แพ็คเกจถูกลบ!
+response_deleted_subscription === การสมัครรับข้อมูลถูกลบ!
+response_deleted_widget === วิดเจ็ตถูกลบแล้ว!
+response_deleted_defaultlangfalse === ไม่สามารถลบภาษาเริ่มต้นได้!
+response_deleted_language === ภาษาถูกลบ!
+response_lang_changed === ภาษามีการเปลี่ยนแปลง!
+modal_usersettings_title === การตั้งค่า
+modal_subscription_title === สมัครสมาชิก
+modal_packages_title === แพ็คเกจ
+modal_smsquick_title === SMS ด่วน
+modal_smsbulk_title === SMS จำนวนมาก
+modal_addtemplate_title === เพิ่มเทมเพลต
+modal_edittemplate_title === แก้ไขเทมเพลต
+modal_addcontact_title === เพิ่มผู้ติดต่อ
+modal_editcontact_title === แก้ไขผู้ติดต่อ
+modal_addgroup_title === เพิ่มกลุ่ม
+modal_editgroup_title === แก้ไขกลุ่ม
+modal_adddevice_title === เพิ่มอุปกรณ์
+modal_addkey_title === เพิ่มคีย์ API
+modal_editkey_title === แก้ไขคีย์ API
+modal_edithook_title === แก้ไขเว็บฮุค
+modal_buildersettings_title === การตั้งค่าตัวสร้าง
+modal_themesettings_title === การตั้งค่าธีม
+modal_systemsettings_title === การตั้งค่าระบบ
+modal_adduser_title === เพิ่มผู้ใช้
+modal_edituser_title === แก้ไขผู้ใช้
+modal_addpackage_title === เพิ่มแพ็คเกจ
+modal_editpackage_title === แก้ไขแพ็คเกจ
+modal_addwidget_title === เพิ่มวิดเจ็ต
+modal_editwidget_title === แก้ไขวิดเจ็ต
+modal_addlanguage_title === เพิ่มภาษา
+modal_editlanguage_title === แก้ไขภาษา
+require_email === ที่อยู่อีเมล
+require_password === รหัสผ่าน
+require_name === ชื่อเต็ม
+require_cpassword === การยืนยันรหัสผ่าน
+require_phone === หมายเลขโทรศัพท์
+require_device === อุปกรณ์
+require_message === ข้อความ
+require_groups === กลุ่มผู้ติดต่อ
+require_sim === ซิมสล็อต
+require_priority === ตัวเลือกลำดับความสำคัญ
+require_api === ตัวเลือก API
+require_templatename === ชื่อเทมเพลต
+require_templateformat === รูปแบบเทมเพลต
+require_contactname === ชื่อผู้ติดต่อ
+require_group === ติดต่อกลุ่ม
+require_groupname === ชื่อกลุ่ม
+require_apiname === ชื่อคีย์ API
+require_permissions === สิทธิ์
+require_hookname === ชื่อเว็บฮุค
+require_hookurl === URL ของเว็บฮุค
+require_appname === ชื่อแอป
+require_appcolor === สีของแอพ
+require_packagename === ชื่อแพ็คเกจ
+require_widgetname === ชื่อวิดเจ็ต
+require_widgetsize === ขนาดวิดเจ็ต
+require_widgetposition === ตำแหน่งวิดเจ็ต
+require_widgettype === ประเภทวิดเจ็ต
+require_languagename === ชื่อภาษา
+require_languageiso === ภาษา iso
+require_languagestr === แปลภาษา
+btn_submit === ส่ง
+btn_download === ดาวน์โหลด
+btn_done === เสร็จแล้ว
+btn_purchase === ซื้อ
+btn_free === ฟรี
+btn_send === ส่ง
+btn_save === บันทึก
+btn_packages === แพ็คเกจ
+btn_retrieve === ดึงข้อมูล
+btn_signin === เข้าสู่ระบบ
+btn_signup === ลงชื่อ
+form_name === ชื่อ
+form_number === หมายเลขโทรศัพท์
+form_group === ติดต่อกลุ่ม
+form_adddevice_one === การเพิ่มอุปกรณ์ Android ใหม่ในบัญชีของคุณนั้นง่ายมาก เราแน่ใจว่าคุณสามารถดำเนินการต่อได้โดยไม่ต้องเสียเวลาอันมีค่าของคุณ ทำตามขั้นตอนเหล่านี้
+form_adddevice_two === 1. ดาวน์โหลดและติดตั้ง
+form_adddevice_three === ขั้นแรก ดาวน์โหลดและติดตั้งแอปเกตเวย์ของเราโดยคลิกที่ปุ่มนี้
+form_adddevice_four === 2. ลงทะเบียนอุปกรณ์
+form_adddevice_five === ตอนนี้เปิดแอปเกตเวย์แล้วคลิกปุ่มสแกน จากนั้นสแกน qrcode นี้
+form_adddevice_six === 3. เสร็จแล้ว!
+form_adddevice_seven === เพิ่มอุปกรณ์ในบัญชีของคุณแล้ว คุณสามารถเริ่มส่งข้อความได้แล้ว!
+form_permissions === สิทธิ์
+form_countrycode === รหัสประเทศ
+form_translations === สตริงการแปล
+form_translations_placeholder === ใส่คำแปลที่นี่...
+form_packageprice === ราคา
+form_packagesend === ขีด จำกัด ส่ง
+form_packagereceive === รับวงเงิน
+form_packagedevice === ขีดจำกัดอุปกรณ์
+form_packagekey === ขีด จำกัด ของคีย์
+form_packagehook === ขีดจำกัดของเว็บฮุค
+form_templatename_placeholder === ประกาศ
+form_templateformat === รูปแบบ
+form_templateformat_placeholder === ป้อนรูปแบบเทมเพลตของคุณที่นี่...
+form_shortcodes === รหัสย่อ
+form_emailaddress === ที่อยู่อีเมล
+form_password === รหัสผ่าน
+form_password_leave === เว้นว่างไว้เพื่อเก็บรหัสผ่านปัจจุบัน
+form_language === ภาษา
+form_webhookname_placeholder === ตอบกลับ Bot
+form_webhookurl === URL
+form_widgetname_placeholder === เงื่อนไขการให้บริการ
+form_widgeticon === ไอคอน
+form_widgettype === พิมพ์
+form_widgetsize === ขนาด
+form_widgetsmall === เล็ก
+form_widgetmedium === ปานกลาง
+form_widgetlarge === ใหญ่
+form_widgetxlarge === ขนาดใหญ่พิเศษ
+form_widgetposition === ตำแหน่ง
+form_widgetcenter === ศูนย์กลาง
+form_widgetleft === ซ้าย
+form_widgetright === ถูกต้อง
+form_widgetcontent === เนื้อหา
+form_builderpackagename === ชื่อแพ็คเกจ
+form_builderappname === ชื่อแอป
+form_builderappdesc === คำอธิบายแอป
+form_builderappdesc_placeholder === นี่เป็นแอพที่ยอดเยี่ยม
+form_builderapplogo === โลโก้แอพ
+form_builderappsplash === หน้าจอสแปลชของแอป
+form_uploaded === อัพโหลดแล้ว
+form_notuploaded === ไม่มี
+form_themebg === สีพื้นหลัง
+form_themetext === เน้นสี
+form_settingsite === เว็บไซต์
+form_settingssitename === ชื่อเว็บไซต์
+form_settingssitedesc === คำอธิบายเว็บไซต์
+form_settingspcode === ซื้อรหัส
+form_settingsprotocol === มาตรการ
+form_settingsdeflang === ภาษาเริ่มต้น
+form_settingsreg === การลงทะเบียน
+form_settingsmailing === การส่งจดหมาย
+form_settingsmailfunc === ฟังก์ชันจดหมาย
+form_settingssitemail === อีเมลไซต์
+form_settingssmtphost === โฮสต์ SMTP
+form_settingssmtpport === พอร์ต SMTP
+form_settingssmtpusername === ชื่อผู้ใช้ SMTP
+form_settingssmtppassword === รหัสผ่าน SMTP
+form_settingssmtp_small === จำเป็นสำหรับ SMTP . ระยะไกล
+form_settingspayments === การชำระเงิน
+form_settingspaypaltest === โหมดทดสอบ Paypal
+form_settingssecurity === ความปลอดภัย
+form_settingsrecaptchakey === คีย์ไซต์ Recaptcha
+form_settingsrecaptchasecret === Recaptcha Secret Key
+form_enable === เปิดใช้งาน
+form_disable === ปิดการใช้งาน
+form_native === พื้นเมือง
+form_remotesmtp === SMTP ระยะไกล
+form_device === อุปกรณ์โทรศัพท์
+form_sim === ซิมสล็อต
+form_priority === ลำดับความสำคัญ
+form_yes === ใช่
+form_no === ไม่
+form_freefor === ฟรีตลอดไป
+form_monthly === รายเดือน
+form_groups === ติดต่อกลุ่ม
+form_template === แม่แบบ
+form_none === ไม่มี
+form_message === ข้อความ
+form_message_placeholder === ใส่ข้อความของคุณที่นี่...
+form_avatar === สัญลักษณ์
+form_changepass === เปลี่ยนรหัสผ่าน
+form_package === บรรจุุภัณฑ์
+form_keys === คีย์ API
+form_hooks === เว็บฮุค
+form_daily === รายวัน
+form_forgotpass === ลืมรหัสผ่าน
+form_fullname === ชื่อเต็ม
+form_cpassword === ยืนยันรหัสผ่าน
+form_haveaccount === ฉันมีบัญชี
+datatable_processing === กำลังดำเนินการ โปรดรอสักครู่...
+datatable_length === แสดง _MENU_ รายการ
+datatable_info === แสดง _START_ ถึง _END_ จาก _TOTAL_ รายการ
+datatable_empty === แสดง 0 ถึง 0 จาก 0 รายการ
+datatable_filtered === (กรองจาก _MAX_ รายการทั้งหมด)
+datatable_loading === กำลังโหลด โปรดรอสักครู่...
+datatable_zero === เราไม่พบสิ่งที่ตรงกับข้อความค้นหาของคุณ!
+datatable_null === ไม่มีข้อมูลที่จะแสดง!
+datatable_first === อันดับแรก
+datatable_prev === ก่อนหน้า
+datatable_next === ต่อไป
+datatable_last === ล่าสุด
+delete_title === ลบ?
+delete_tagline === การดำเนินการนี้ไม่สามารถยกเลิกได้!
+validate_cannotemp === ไม่สามารถว่างเปล่า!
+alert_attention === ความสนใจ
+copy_data === คัดลอกข้อมูลไปยังคลิปบอร์ดแล้ว!
+date_today === วันนี้
+date_yesterday === เมื่อวาน
+date_7days === 7 วันที่ผ่านมา
+date_30days === 30 วันที่ผ่านมา
+date_month === เดือนนี้
+date_lmonth === เดือนที่แล้ว
+date_custom === ช่วงกำหนดเอง
+unknown_action_method === วิธีดำเนินการที่ไม่รู้จัก!
+mollie_redirecting_page === กำลังเปลี่ยนเส้นทางไปยังหน้าการชำระเงิน mollie...
+form_settingsmolliekey === คีย์ API ของ Mollie
+btn_confirm === ยืนยัน
+btn_cancel === ยกเลิก
+recaptcha_add_keys === โปรดเพิ่มคีย์ recaptcha ของคุณเพื่อเปิดใช้งานคุณสมบัตินี้!
+pay_with_paypal === ชำระเงินด้วย Paypal
+pay_with_mollie === ชำระเงินกับมอลลี่
+form_settingsenabledproviders === ผู้ให้บริการที่เปิดใช้งาน
+form_builderappicon === ไอคอนแอพ
+payment_transact_failed === ธุรกรรมการชำระเงินล้มเหลว!
+cookieconsent_message === เราใช้คุกกี้เพื่อให้แน่ใจว่าคุณได้รับประสบการณ์ที่ดีที่สุดบนเว็บไซต์ของเรา
+cookieconsent_link === เรียนรู้เพิ่มเติม
+role_added === เพิ่มบทบาทแล้ว!
+role_updated === อัปเดตบทบาทแล้ว!
+role_deleted === บทบาทถูกลบ!
+role_default_update === แก้ไขบทบาทเริ่มต้นไม่ได้!
+role_default_delete === ไม่สามารถลบบทบาทเริ่มต้นได้!
+voucher_added === เพิ่ม Voucher แล้ว!
+form_voucher === รหัสบัตรกำนัล
+btn_redeem === ไถ่ถอน
+invalid_voucher_code === รหัสบัตรกำนัลไม่ถูกต้อง!
+voucher_deleted === Voucher ถูกลบ!
+form_title_addvoucher === เพิ่มบัตรกำนัล
+form_title_addsubscription === เพิ่มการสมัครสมาชิก
+form_adduser_role === บทบาท
+require_pagename === ชื่อเพจ
+require_pageroles === บทบาทที่อนุญาต
+form_pageroles === บทบาทที่อนุญาต
+require_vouchercode === รหัสบัตรกำนัล
+form_settingscurrency === สกุลเงิน
+btn_bulkexcel === Excel
+response_leastprovider === โปรดเลือกผู้ให้บริการชำระเงินอย่างน้อย 1 ราย!
+user_subscriptioncontacts === รายชื่อผู้ติดต่อ
+response_suspended === บัญชีของคุณถูกระงับโดยผู้ดูแลระบบ!
+response_adminsuspend === บัญชีเริ่มต้นไม่สามารถระงับได้!
+response_successsuspend === ผู้ใช้ถูกระงับ!
+response_successunsuspend === ผู้ใช้ถูกยกเลิกการระงับ!
+suspend_user_title === ระงับผู้ใช้?
+suspend_user_desc === ผู้ใช้รายนี้จะไม่สามารถเข้าสู่ระบบและใช้บริการได้
+unsuspend_user_title === ยกเลิกการระงับผู้ใช้?
+unsuspend_user_desc === ผู้ใช้รายนี้จะสามารถเข้าสู่ระบบและใช้บริการได้อีกครั้ง
+all_languages === ทุกภาษา
+response_invalid_excel === ไฟล์ excel ไม่ถูกต้อง!
+response_contacts_imported === นำเข้าผู้ติดต่อแล้ว!
+table_role_name === ชื่อบทบาท
+table_role_permissions === สิทธิ์
+table_voucher_name === ชื่อ
+table_voucher_package === บรรจุุภัณฑ์
+table_page_name === ชื่อเพจ
+table_page_require === ต้องเข้าสู่ระบบ
+table_page_roles === บทบาทที่อนุญาต
+import_btn === นำเข้า
+form_excelfile === ไฟล์ Excel
+form_hook_addtitle === เพิ่มแอคชั่นเบ็ด
+form_hook_edittitle === แก้ไขตะขอแอคชั่น
+form_hook_event === เหตุการณ์
+form_hook_link === โครงสร้างลิงค์
+form_autoreply_addtitle === เพิ่มการดำเนินการตอบกลับ
+form_autoreply_edittitle === แก้ไขการตอบกลับ
+form_autoreply_keywords === คีย์เวิร์ด
+form_autoreply_message === ตอบกลับข้อความ
+require_action_name === ชื่อการกระทำ
+require_action_event === ประเภทงาน
+require_action_link === โครงสร้างลิงค์
+require_action_keywords === คีย์เวิร์ด
+require_action_message === ตอบกลับข้อความ
+response_invalid_linkstructure === โครงสร้างลิงค์ไม่ถูกต้อง!
+response_hook_added === เพิ่มการกระทำของ SMS hook แล้ว!
+response_invalid_keywords === คุณต้องป้อนอย่างน้อย 1 คำสำคัญ!
+response_autoreply_added === เพิ่มการดำเนินการตอบกลับ SMS แล้ว!
+response_hook_updated === อัปเดตการกระทำของ SMS hook แล้ว!
+response_autoreply_updated === อัปเดตการดำเนินการตอบกลับ SMS แล้ว!
+response_action_deleted === การกระทำทาง SMS ถูกลบ!
+table_action_name === ชื่อ
+form_scheduled_title === กำหนดการ SMS
+response_scheduled_deleted === ข้อความตามกำหนดการถูกลบไปแล้ว!
+response_no_permission === คุณไม่ได้รับอนุญาตให้ดำเนินการนี้!
+response_builder_appiconfail === ไม่สามารถอัปโหลดไอคอนแอปได้!
+form_require_login === ต้องเข้าสู่ระบบ
+widget_addpage_title === เพิ่มหน้า
+widget_editpage_title === แก้ไขหน้า
+require_subscription_user === ผู้ใช้
+require_voucher_name === ชื่อบัตรกำนัล
+require_voucher_package === บรรจุุภัณฑ์
+widget_alllang_title === ทุกภาษา
+widget_smsexcel_title === SMS จำนวนมากโดย Excel
+require_scheduled_name === ชื่อ
+require_scheduled_date === วันที่กำหนด
+widget_importcontacts_title === นำเข้าผู้ติดต่อ
+require_addrole_name === ชื่อบทบาท
+require_addrole_permissions === สิทธิ์
+widget_editrole_title === แก้ไขบทบาท
+response_page_added === เพิ่มหน้าแล้ว!
+response_page_updated === อัพเดทเพจแล้ว!
+response_page_deleted === เพจถูกลบ!
+table_scheduled_name === ชื่อ
+messages_scheduled_title === กำหนดการ
+messages_scheduled_schedule === กำหนดการ SMS
+form_schedule_numbers === เบอร์มือถือ
+form_schedule_schedule === กำหนดการ
+form_schedule_repeat === ทำซ้ำ
+form_bulksms_numbers === เบอร์มือถือ
+dashboard_tools_menuactions === การกระทำ
+dashboard_admin_menuroles === บทบาท
+dashboard_admin_menuvouchers === บัตรกำนัล
+dashboard_admin_menupages === หน้า
+admin_gateway_title === ประตู
+admin_gateway_status === สถานะ
+admin_gateway_notuploaded === ไม่ได้อัปโหลด
+admin_gateway_uploaded === อัพโหลดแล้ว
+dashboard_roles_title === บทบาทของผู้ใช้
+dashboard_roles_addrole === เพิ่มบทบาท
+dashboard_vouchers_title === บัตรกำนัล
+dashboard_vouchers_addrole === เพิ่มบัตรกำนัล
+form_voucher_package === บรรจุุภัณฑ์
+dashboard_pages_title === หน้า
+dashboard_pages_addpage === เพิ่มหน้า
+form_theme_favicon === Favicon
+form_package_contactslimit === ขีด จำกัด การติดต่อ
+response_limitation_send === คุณได้ส่งถึงจำนวนสูงสุดที่อนุญาตสำหรับวันนี้แล้ว!
+response_limitation_contact === คุณมีรายชื่อติดต่อถึงจำนวนสูงสุดที่อนุญาตแล้ว!
+response_limitation_key === คุณมีคีย์ API ถึงจำนวนสูงสุดที่อนุญาตแล้ว!
+response_limitation_webhook === คุณมีเว็บฮุคถึงจำนวนสูงสุดที่อนุญาตแล้ว!
+form_adminsettings_token === โทเค็นระบบ
+response_upload_appicon === โปรดอัปโหลดไอคอนแอปของคุณ!
+app_status_gateway_running === เกตเวย์กำลังทำงาน!
+app_device_registered === เชื่อมโยง
+app_device_unregistered === ไม่เชื่อมโยง
+app_terminal_gateway_ready === เกตเวย์พร้อม...
+app_terminal_gateway_register === ยังไม่ได้เชื่อมโยงอุปกรณ์...
+app_terminal_gateway_hash === กัญชา
+app_terminal_gateway_registered === เชื่อมโยงอุปกรณ์แล้ว...
+app_terminal_gateway_device === การเชื่อมโยงอุปกรณ์ล้มเหลว...
+app_terminal_gateway_connecterror === เกิดข้อผิดพลาดขณะเชื่อมต่อกับเซิร์ฟเวอร์...
+app_terminal_gateway_started === เกตเวย์เริ่มแล้ว...
+app_terminal_gateway_stopped === เกตเวย์ถูกระงับ...
+app_terminal_gateway_unregistered === เริ่มเกตเวย์ไม่ได้ อุปกรณ์ยังไม่ได้เชื่อมโยงกับบัญชีใดๆ...
+app_terminal_feature_error === ข้อผิดพลาดของคุณสมบัติ SMS
+app_terminal_sms_sent === ส่งข้อความ
+app_terminal_message_failed === ส่งข้อความไม่สำเร็จ
+app_dialog_wait === โปรดรอ...
+app_dialog_exit === ทางออกประตู
+app_dialog_exit_desc === ปิดและออกจากเกตเวย์?
+app_camera_qrcode_inside === วาง QRCode ของคุณไว้ข้างใน
+app_ui_status === สถานะ
+app_ui_exit === ทางออก
+require_voucher_count === จำนวนเวาเชอร์ไม่สามารถเว้นว่างได้!
+form_voucher_count === จำนวนบัตรกำนัล
+cookieconsent_dismiss === เข้าใจแล้ว!
+title_payment_success === ยืนยันการสั่งซื้อ
+title_payment_cancel === ยกเลิกคำสั่งซื้อ
+header_payment_success === ยืนยันการสั่งซื้อ
+header_payment_cancel === ยกเลิกคำสั่งซื้อ
+body_payment_cancel === คุณได้ยกเลิกคำขอสั่งซื้อของคุณ
+transaction_payment_success === รหัสธุรกรรม:
+back_payment_page === กลับไปที่แดชบอร์ด
+form_settingspaypalemail === อีเมลธุรกิจ Paypal
+form_settingsanalytics === คีย์ Google Analytics
+form_messagecounterchars === ตัวอักษร
+form_settingspagination === ขีด จำกัด การแบ่งหน้า
+form_settingssentpage === ส่งข้อความต่อหน้า
+form_settingsreceivedpage === ข้อความที่ได้รับต่อหน้า
+form_settingsmessage === การตั้งค่าข้อความ
+form_settingsmessagemin === ตัวอักษรขั้นต่ำ
+form_settingsmessagemax === จำนวนอักขระสูงสุด
+form_settingsmessagemark === เครื่องหมายท้ายกระดาษ
+form_packagefootermark === เครื่องหมายท้ายกระดาษ
+form_settingssmtpsecure === ความปลอดภัยของ SMTP
+form_durationtitle === ระยะเวลา
+form_durationpackage === แพ็คเกจของคุณ:
+form_durationpay === คุณจะจ่าย:
+form_durationmonth === ระยะเวลาเดือน
+form_subscriptionmonth === ระยะเวลาเดือน
+authenticate_fblogin === ล็อกอินด้วยเฟสบุ๊ค...
+authenticate_googlelogin === เข้าสู่ระบบด้วย google...
+authenticate_vklogin === ล็อกอินด้วย vkontakte...
+response_minplatforms === โปรดเลือกอย่างน้อย 1 แพลตฟอร์มโซเชียล!
+form_settingssocialtitle === การตั้งค่าโซเชียล
+form_settingssocial === การตรวจสอบทางสังคม
+form_settingssocialplatforms === แพลตฟอร์มที่เปิดใช้งาน
+form_usertimezone === เขตเวลา
+form_settingsloginrecaptcha === เข้าสู่ระบบ Recaptcha
+form_loginor === หรือ
+form_adddevicescandl === ดาวน์โหลดผ่าน QR Scan
+form_status_online === ออนไลน์
+form_status_offline === ออฟไลน์
+form_smsbulknonumbers === โปรดเลือกกลุ่มผู้ติดต่อหรือป้อนหมายเลขผู้รับ!
+form_addsubscriptionuser === ผู้ใช้
+form_addsubscriptionpackage === บรรจุุภัณฑ์
+table_vouchersduration === ระยะเวลาเดือน
+table_pluginsname === ชื่อปลั๊กอิน
+table_pluginsoptions === ตัวเลือก
+dashboard_admin_menuplugins === ปลั๊กอิน
+dashboard_admin_pluginstitle === ปลั๊กอิน
+dashboard_admin_pluginsadd === เพิ่มปลั๊กอิน
+require_pluginfile === ไฟล์ปลั๊กอิน
+modal_addplugin_title === เพิ่มปลั๊กอิน
+response_pluginwentwrong === เกิดข้อผิดพลาดขณะอัปโหลดปลั๊กอิน!
+response_plugininstalled === ติดตั้งปลั๊กอินแล้ว!
+dashboard_title_login === เข้าสู่ระบบ
+dashboard_title_forgot === ลืมรหัสผ่าน
+dashboard_title_register === ลงทะเบียน
+response_limitation_contact2 === คุณมีรายชื่อติดต่อถึงจำนวนสูงสุดในการสมัครรับข้อมูลแล้ว มีการนำเข้ารายชื่อติดต่อเพียง _8880_ รายการเท่านั้น!
+response_contacts_imported2 === _8880_ นำเข้าผู้ติดต่อสำเร็จแล้ว!
+form_systemsettingshomepage === หน้าแรกเริ่มต้น
+app_dialog_update_desc === มีเวอร์ชันใหม่สำหรับแอปเกตเวย์ จำเป็นต้องอัปเดต!
+app_dialog_update_download === ดาวน์โหลด
+app_gateway_build_text === เกตเวย์บิลด์
+response_gateway_available === กำลังดาวน์โหลดเกตเวย์ โปรดรอสักครู่...
+response_gateway_unavailable === ไม่มีเกตเวย์ โปรดติดต่อผู้ดูแลไซต์!
+response_gateway_randommax === ช่วงเวลาการส่งสูงสุดต้องไม่เกิน 300 วินาที!
+response_device_updated === อัปเดตอุปกรณ์แล้ว!
+form_editdevice_devicename === ชื่ออุปกรณ์
+form_editdevice_randomsend === สุ่มส่งช่วงเวลา
+form_editdevice_randommin === ส่งช่วงเวลา Min
+form_editdevice_randommax === ส่งช่วงเวลาสูงสุด
+form_smsall_globalstatus === ทั่วโลก
+form_select_multinone === ไม่มี
+form_package_hiddenselect === ที่ซ่อนอยู่
+landing_footer_ourcompnew === บริษัท ของเรา
+form_smsschedule_submit === กำหนดการ
+require_devicename === ชื่ออุปกรณ์
+require_randommin === ช่วงเวลาต่ำสุดแบบสุ่ม
+require_randommax === ช่วงเวลาสูงสุดแบบสุ่ม
+admin_update_installed === ติดตั้งแล้ว
+admin_update_btn === อัปเดต
+response_update_success === อัพเดทระบบแล้ว!
+form_settings_tawkchatlink === Tawk ลิงค์แชทโดยตรง
+model_title_editplugin === แก้ไขปลั๊กอิน
+btn_other_paymentmethods === ช่องทางการชำระเงินอื่นๆ
+dashboard_btn_support === สนับสนุน
+pendingdelete_title === ลบ รอดำเนินการ?
+pendingdelete_desc === ลบข้อความที่รอดำเนินการทั้งหมดไหม การดำเนินการนี้ไม่สามารถยกเลิกได้!
+dashboard_messages_tablefullmessage === ข้อความเต็ม
+administration_landing_btncache === แคช
+administration_landing_payouts === การจ่ายเงิน
+administration_landing_marketing === การตลาด
+administration_landing_gateways === เกตเวย์
+administration_landing_shorteners === ตัวสั้น
+administration_landing_editor === ตัวแก้ไขเทมเพลต
+administration_landing_api === Admin API
+administration_landing_build === สร้าง
+administration_landing_system === ระบบ
+requests_charts_smssent === ส่ง SMS แล้ว
+requests_charts_smsreceived === ได้รับ SMS
+requests_charts_wasent === WhatsApp ส่งแล้ว
+requests_charts_wareceived === WhatsApp ได้รับแล้ว
+requests_charts_ussd === USSD
+requests_charts_notifications === การแจ้งเตือน
+requests_charts_credits === เครดิต
+administration_default_visitors === ผู้เข้าชม
+administration_default_countries === ประเทศ
+administration_default_browsers === เบราว์เซอร์
+administration_default_os === ระบบปฏิบัติการ
+administration_default_usages === ประเพณี
+administration_default_messages === ข้อความ
+administration_default_utilities === สาธารณูปโภค
+administration_default_subscriptions === การสมัครรับข้อมูล
+administration_default_credits === เครดิต
+tables_users_registered === ลงทะเบียน
+tables_users_details === รายละเอียด
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === อัตราเกตเวย์
+dashboard_title_docs === เอกสาร
+app_status_gateway_touch === แตะที่นี่เพื่อเปิดเกตเวย์
+app_dialog_downloading_update === กำลังดาวน์โหลดอัปเดต
+app_dialog_interface_disabled === อินเทอร์เฟซถูกปิดใช้งาน โปรดอัปเดตแอปเป็นเวอร์ชันล่าสุด!
+app_dialog_somethingwent_wrong === อ๊ะ มีบางอย่างผิดพลาด!
+app_intro_level_1 === ขอขอบคุณที่ใช้แพลตฟอร์มของเรา เพื่อเพิ่มประสบการณ์ของคุณและทำความคุ้นเคยกับแอป มาสำรวจกัน แล้วเราจะอธิบายฟังก์ชันที่จำเป็นทั้งหมดที่คุณต้องรู้
+app_intro_level_2 === คุณจะเห็นชื่ออุปกรณ์และสถานะลิงก์ที่นี่
+app_intro_level_3 === หากต้องการเชื่อมโยงอุปกรณ์กับบัญชีของคุณ ให้ใช้ปุ่มนี้เพื่อเข้าสู่ระบบหรือสแกน QRCode เพื่อเชื่อมโยง
+app_intro_level_4 === ใช้สวิตช์นี้เพื่อเปิดหรือปิดเกตเวย์
+app_intro_level_5 === การเปิดใช้งานสวิตช์นี้จะทำให้แอปเกตเวย์รับฟังการแจ้งเตือนใหม่ ซึ่งสามารถจัดการด้วยโปรแกรมในแพลตฟอร์มได้ สิ่งนี้ถูกปิดใช้งานโดยค่าเริ่มต้น
+app_intro_level_6 === ใช้ปุ่มนี้เพื่อปิดและออกจากแอปเกตเวย์
+app_intro_level_7 === นี่คือเทอร์มินัล ธุรกรรมข้อความ และบันทึกกิจกรรมอื่นๆ จะแสดงที่นี่
+app_intro_level_8 === นี่คือปุ่มการทำงานแบบลอย คุณสามารถเข้าถึงบางตัวเลือกและหน้าเพิ่มเติม เช่น <b>เรียกใช้ในพื้นหลัง</b> ได้ที่นี่
+app_dialog_tour_complete === ตอนนี้คุณควรเข้าใจวิธีการทำงานของแอปพลิเคชันแล้ว หากมีคำถามเพิ่มเติม โปรดติดต่อเรา!
+app_push_right_now === ตอนนี้
+app_device_detailes_updated === อัปเดตรายละเอียดอุปกรณ์แล้ว!
+app_ussd_requests_notsupported === ไม่รองรับคำขอ USSD...
+app_notifications_listening_now === กำลังฟังการแจ้งเตือนใหม่...
+app_button_ok === ยืนยัน
+app_dialog_update_smoothperm === เพื่อการอัปเดตที่ราบรื่นและมีประสิทธิภาพ โปรดอนุญาตให้ติดตั้งจากแอปนี้
+app_dialog_logging_in === กำลังเข้าสู่ระบบ...
+app_dialog_invalid_email === คุณป้อนอีเมลที่ไม่ถูกต้อง!
+app_dialog_invalid_password === รหัสผ่านสั้นเกินไปที่จะใช้งานได้!
+app_dialog_notsupported_notinougat === ขณะนี้การแจ้งเตือนไม่ได้รับการสนับสนุนสำหรับตังเมและด้านล่าง ขออภัยในความไม่สะดวก
+app_dialog_notifications_permission === ในการเข้าถึงการแจ้งเตือนทางโปรแกรม แอปต้องได้รับการอนุญาตพิเศษ โปรดเลือกแอปในรายการแล้วอนุญาตการเข้าถึงการแจ้งเตือน
+app_dialog_gateway_listennoti === เกตเวย์จะฟังการแจ้งเตือนใหม่
+app_dialog_gateway_notirestart === เกตเวย์จะรีสตาร์ทและหยุดฟังการแจ้งเตือนใหม่
+app_dialog_needto_link === คุณต้องเชื่อมโยงอุปกรณ์กับบัญชีของคุณก่อนจึงจะสามารถใช้คุณสมบัตินี้ได้
+app_dialog_logoutfrom_device === ออกจากระบบอุปกรณ์เกตเวย์นี้หรือไม่
+app_document_runbackground === ทำงานในเบื้องหลัง
+app_document_input_email === ที่อยู่อีเมล
+app_document_input_password === รหัสผ่าน
+app_document_btn_login === เข้าสู่ระบบ
+app_document_text_or === หรือ
+app_document_btn_scan === สแกน QRCode
+app_document_btn_cancel === ยกเลิก
+app_intro_next_btn === ต่อไป
+app_intro_back_btn === กลับ
+response_token_generated === ระบบสร้างโทเค็นใหม่แล้ว!
+response_trigger_done === Webhook ถูกทริกเกอร์!
+response_build_gservicesfile === โปรดอัปโหลดไฟล์บริการ Google ของคุณ!
+response_build_fcredentialsfile === โปรดอัปโหลดไฟล์ข้อมูลรับรอง firebase ของคุณ!
+response_build_loginlogo === โปรดอัปโหลดโลโก้เข้าสู่ระบบแอปของคุณ!
+response_whatsapp_notprem === บัญชีไม่ได้สมัครแพ็คเกจพรีเมี่ยมใด ๆ !
+response_whatsapp_maxaccounts === คุณมีบัญชี WhatsApp ถึงจำนวนสูงสุดที่อนุญาตสำหรับแพ็คเกจของคุณแล้ว!
+response_whatsapp_creatingqr === การสร้าง WhatsApp QRCode
+response_whatsapp_noconnectserver === ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ WhatsApp!
+response_chart_dashsmssent === ส่ง SMS แล้ว
+response_chart_dashsmsreceive === ได้รับ SMS
+response_chart_dashwasent === WA ส่ง
+response_chart_dashwareceive === WA ได้รับ
+response_chart_dashwebhooks === เว็บฮุค
+response_chart_dashactions === การกระทำ
+response_chart_dashussd === USSD
+response_chart_dashnoti === การแจ้งเตือน
+response_resend_queued === ข้อความถูกจัดคิวสำหรับการส่งข้อความ!
+mail_title_payoutapproved === คำขอการจ่ายเงินของคุณได้รับการชำระแล้ว!
+response_payout_confirmed === ยืนยันการจ่ายเงินแล้ว!
+mail_title_payoutrejected === คำขอรับเงินของคุณถูกปฏิเสธ!
+response_payout_rejected === การจ่ายเงินถูกปฏิเสธ!
+response_translate_msgshort === ข้อความสั้นเกินไป!
+response_clear_systemcleared === ไฟล์แคชของระบบถูกล้างแล้ว!
+response_clear_smscleared === ล้างข้อความที่รอดำเนินการแล้ว!
+response_clear_ussdcleared === คำขอ USSD ที่รอดำเนินการได้รับการล้างแล้ว!
+response_reorder_languages === ภาษาได้รับการจัดลำดับใหม่!
+response_trash_selectedremoved === ลบรายการที่เลือกแล้ว!
+response_voucher_redeemed === Voucher ถูกแลกแล้ว!
+response_payout_invalidamount === จำนวนเงินที่จ่ายไม่ถูกต้อง ไม่ควรมีค่าทศนิยม
+response_payout_notenoughbal === ยอดรายได้ไม่เพียงพอในการดำเนินการตามคำขอ!
+response_payout_reqreceive === ได้รับคำขอรับเงินของคุณแล้ว!
+response_payout_pendingreq === คุณยังมีคำขอรับเงินที่รอดำเนินการอยู่!
+response_system_sysconfigerr === ข้อผิดพลาดในการกำหนดค่าระบบ!
+response_message_toolong === ข้อความของคุณยาวเกินไป!
+response_package_nosubwarn === คุณไม่ได้สมัครแพ็คเกจ!
+response_message_notenoughcredsend === เครดิตไม่เพียงพอที่จะส่งข้อความนี้!
+response_message_queuedforsend === ข้อความถูกจัดคิวสำหรับการส่งข้อความ!
+response_message_sentsuccess === ส่งข้อความแล้ว!
+response_message_unablesendmesg === เราไม่สามารถส่งข้อความของคุณ!
+response_smsexcel_phonenotfound === ไม่พบคอลัมน์ _8880_ ในไฟล์ excel ของคุณ!
+response_smssched_queued === ข้อความได้รับการกำหนด!
+response_ussd_maximumreq === ถึงจำนวนสูงสุดของคำขอ USSD แล้ว!
+response_ussd_queued === คำขอ USSD อยู่ในคิวแล้ว!
+response_whatsapp_reachedmaxchat === คุณส่งแชทถึงจำนวนสูงสุดแล้ว!
+response_whatsapp_chatqueued === ข้อความ WhatsApp ถูกจัดคิวเพื่อส่ง!
+response_whatsapp_unableconnectserv === ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ WhatsApp!
+response_whatsapp_bulkchatsqueued === การแชทเป็นกลุ่มของ WhatsApp อยู่ในคิวแล้ว!
+response_whatsapp_excelphonecolnotfound === ไม่พบคอลัมน์ _8880_ ในไฟล์ excel ของคุณ!
+response_whatsapp_chatscheduled === กำหนดแชทแล้ว!
+response_importcontacts_phonenotfound === ไม่พบคอลัมน์ _8880_ ในไฟล์ excel ของคุณ!
+response_importcontacts_groupsnotfound === ไม่พบคอลัมน์ _8880_ ในไฟล์ excel ของคุณ!
+response_importcontacts_namenotfound === ไม่พบคอลัมน์ _8880_ ในไฟล์ excel ของคุณ!
+response_package_pricenotlessone === ราคาแพ็คเกจต้องไม่ต่ำกว่า 1!
+response_subscription_addedsuccess === สร้างการสมัครรับข้อมูลแล้ว!
+response_push_selectatleastoneuser === โปรดเลือกผู้ใช้หรือบทบาทอย่างน้อยหนึ่งราย!
+response_push_mesgtooshort === ข้อความสั้นเกินไป!
+response_push_titletooshort === ชื่อเรื่องสั้นเกินไป!
+response_push_imgfailed === การอัปโหลดไฟล์ภาพล้มเหลว!
+response_push_created === สร้างการออกอากาศแบบพุชแล้ว!
+response_push_nousers === ไม่พบผู้ใช้ที่ส่ง!
+response_notify_titletooshort === ชื่อเรื่องสั้นเกินไป!
+response_notify_mesgtooshort === ข้อความสั้นเกินไป!
+response_notify_selectuserrole === โปรดเลือกผู้ใช้หรือบทบาทอย่างน้อยหนึ่งราย!
+response_notify_imgfailed === การอัปโหลดไฟล์ภาพล้มเหลว!
+response_notify_created === สร้างการแจ้งเตือนการออกอากาศแล้ว!
+response_notify_nousers === ไม่พบผู้ใช้ที่ส่ง!
+response_mailer_titletooshort === ชื่อเรื่องสั้นเกินไป!
+response_mailer_contentooshort === เนื้อหาสั้นเกินไป!
+response_mailer_nouserorrole === โปรดเลือกผู้ใช้หรือบทบาทอย่างน้อยหนึ่งราย!
+response_mailer_sendcounter === _8881_ จาก _8881_ อีเมลที่รอดำเนินการถูกส่งโดยเมลล์แล้ว!
+response_mailer_mailprocessed === ดำเนินการจัดส่งจำนวนมากแล้ว!
+response_mailer_nousersorrole === ไม่พบผู้ใช้ที่ส่ง!
+response_gateway_controllercannotempty === ไฟล์คอนโทรลเลอร์ต้องไม่ว่างเปล่า!
+response_gateway_invalidcontroller === ไฟล์คอนโทรลเลอร์ไม่ถูกต้อง!
+response_gateway_addeddcontroller === เพิ่มเกตเวย์แล้ว!
+response_shortener_cannotempty === ไฟล์คอนโทรลเลอร์ต้องไม่ว่างเปล่า!
+response_shortener_invalidcontroller === ไฟล์คอนโทรลเลอร์ไม่ถูกต้อง!
+response_shortener_addedcontroller === เพิ่ม Shortener แล้ว!
+response_plugin_samenameinstalled === ติดตั้งปลั๊กอินที่มีชื่อเดียวกันแล้ว!
+response_smscheduled_editsuccess === อัปเดตข้อความตามกำหนดการแล้ว!
+response_chatscheduled_editsuccess === อัปเดตตารางแชทแล้ว!
+response_editdevice_invalidrate === ค่าอัตราไม่ถูกต้อง ควรเป็นจำนวนโฟลตที่ถูกต้อง!
+response_editdevice_nametooshort === ชื่ออุปกรณ์สั้นเกินไป!
+response_editdevice_nametoolong === ชื่ออุปกรณ์ยาวเกินไป!
+response_editdevice_invalidmaxinterval === ค่าช่วงสูงสุดไม่ถูกต้อง!
+response_gateway_updatedsuccess === เกตเวย์ได้รับการปรับปรุง!
+response_shortener_editsuccess === ตัวย่อได้รับการอัพเดตแล้ว!
+response_editplugin_success === อัปเดตการตั้งค่าปลั๊กอินแล้ว!
+response_updatepluin_corrupted === ไฟล์อัพเดทปลั๊กอินเสียหาย!
+response_updateplugin_updated === ปลั๊กอินได้รับการอัพเดต!
+response_builder_invalidgooglefile === ไฟล์ข้อมูลรับรองบริการของ Google ไม่ถูกต้อง!
+response_builder_invalidfirebasefile === ไฟล์ข้อมูลรับรอง firebase ไม่ถูกต้อง!
+response_theme_sitelogofailed === การอัปโหลดโลโก้เว็บไซต์ล้มเหลว!
+response_theme_sitebgfailed === การอัปโหลดพื้นหลังของไซต์ล้มเหลว!
+response_theme_sitefavfailed === การอัปโหลดรูปภาพ Favicon ล้มเหลว!
+response_notification_deletedsuccess === การแจ้งเตือนถูกลบ!
+response_whatsapp_sentdeletesuccess === ลบแชท WhatsApp ที่ส่งแล้ว!
+response_whatsapp_receivedeletesuccess === แชท WhatsApp ที่ได้รับถูกลบแล้ว!
+response_whatsapp_scheduleddeletesuccess === ลบแชทตามกำหนดเวลาของ WhatsApp แล้ว!
+response_whatsapp_accountdeletesuccess === บัญชี WhatsApp ถูกลบแล้ว!
+response_unsibscribe_contactdeletedsuccess === ลบหมายเลขที่ไม่ได้สมัครแล้ว!
+response_marketing_logdeletedsuccess === บันทึกการตลาดถูกลบแล้ว!
+response_gateway_controllerdeletedsuccess === เกตเวย์ถูกลบ!
+response_shortener_controllerdeletedsuccess === ตัวย่อถูกลบแล้ว!
+table_androidsent_clipcopy === ส่งคลิปบอร์ดคัดลอก _8880_
+table_androidsent_excel === ส่ง Excel ส่งออก _8880_
+table_androidsent_pdf === ส่งไฟล์ PDF ส่งออก _8880_
+table_androidsent_sms === ข้อความ
+table_androidsend_report === รายงาน
+table_unknown_data === ไม่รู้จัก
+table_androidsent_statuspending === รอดำเนินการ
+table_androidsent_statusqueued === เข้าคิว
+table_androidsent_statussent === ส่งแล้ว
+table_androidsent_statusfailed === ล้มเหลว
+table_none_data === ไม่มี
+table_yes_data === ใช่
+table_no_data === ไม่
+table_removed_data === ลบออก
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === สถานะ: _8880_ โหมด: _8881_ รหัส: _8882_ ลำดับความสำคัญ: _8883_ ส่ง API: _8884_ ช่องซิม: SIM _8885_ อุปกรณ์: _8886_ ระบบปฏิบัติการ: _8887_
+table_androidsent_modenamedevice === อุปกรณ์
+table_androidsent_modenamecredits === เครดิต
+table_androidsent_reportline1 === สถานะ: _8880_
+table_androidsent_reportline2 === โหมด: _8880_
+table_androidsent_reportline3 === รหัส: _8880_
+table_androidsent_reportline4 === ลำดับความสำคัญ: _888_
+table_androidsent_reportline5 === API ส่ง: _8880_
+table_androidsent_reportline6 === ช่องใส่ซิม: SIM _8880_
+table_androidsent_reportline7 === อุปกรณ์: _8880_
+table_androidsent_reportline8 === ระบบปฏิบัติการ: _8880_
+table_androidsent_exporttwo === สถานะ: _8882_ โหมด: _8881_ เกตเวย์: _8882_
+table_androidsent_reportline9 === สถานะ: _8880_
+table_androidsent_reportline10 === โหมด: _8880_
+table_androidsent_reportline11 === เกตเวย์: _8880_
+table_androidsent_exportthree === สถานะ: _8880_ โหมด: _8881_ รหัส: _8882_ ส่ง API: _8883_ ช่องซิม: SIM _8884_ เกตเวย์: _8885_
+table_androidsent_reportline12 === สถานะ: _8880_
+table_androidsent_reportline13 === โหมด: _8880_
+table_androidsent_reportline14 === รหัส: _8880_
+table_androidsent_reportline15 === API ส่ง: _8880_
+table_androidsent_reportline16 === ช่องใส่ซิม: SIM _8880_
+table_androidsent_reportline17 === เกตเวย์: _8880_
+table_androidsent_titleresend === ส่งข้อความนี้อีกครั้ง
+table_title_deletethisitem === ลบรายการนี้
+table_androidreceive_exportcopy === ได้รับสำเนาคลิปบอร์ด _8880_
+table_androidreceive_exportexcel === ได้รับการส่งออก Excel _888_
+table_androidreceive_exportpdf === ได้รับการส่งออก PDF _8880_
+table_androidreceive_smstitle === ข้อความ
+table_androidreceive_reporttitle === รายงาน
+table_androidreceive_exportdata === ช่องใส่ซิม: SIM _8882_ อุปกรณ์: _8881_ ระบบปฏิบัติการ: _8882_
+table_androidreceive_reportline1 === ช่องใส่ซิม: SIM _8880_
+table_androidreceive_reportline2 === อุปกรณ์: _8880_
+table_androidreceive_reportline3 === ระบบปฏิบัติการ: _8880_
+table_androidreceive_titlereply === ตอบกลับหมายเลข
+table_androidscheduled_titleschedule === กำหนดการ
+table_androidscheduled_titledetails === รายละเอียด
+table_androidscheduled_sim1 === ซิม1
+table_androidscheduled_sim2 === ซิม2
+table_androidscheduled_detailsline1 === โหมด: _8880_
+table_androidscheduled_detailsline2 === ซิม: _8880_
+table_androidscheduled_detailsline3 === ซ้ำ: _8880_
+table_androidscheduled_detailsline4 === อุปกรณ์: _8880_
+table_androidscheduled_detailsgroupslabel === กลุ่ม:
+table_androidscheduled_detailsnumberslabel === ตัวเลข:
+table_androidscheduled_detailsline5 === โหมด: _8880_
+table_androidscheduled_detailsline6 === ซ้ำ: _8880_
+table_androidscheduled_detailsline7 === เกตเวย์: _8880_
+table_androidscheduled_detailsline8 === โหมด: _8880_
+table_androidscheduled_detailsline9 === ซ้ำ: _8880_
+table_androidscheduled_detailsline10 === อุปกรณ์: _8880_
+table_title_editthisitem === แก้ไขรายการนี้
+table_whatsappsent_exportcopy === ส่งคลิปบอร์ดคัดลอก
+table_whatsappsent_exportexcel === ส่ง Excel Export
+table_whatsappsent_exportpdf === ส่ง PDF ส่งออก
+table_whatsappsent_accounttitle === บัญชี
+table_whatsappsent_recipienttitle === ผู้รับ
+table_whatsappsent_msgtitle === ข้อความ
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === สถานะ
+table_ussd_exportcopy === คัดลอกคลิปบอร์ด USSD
+table_ussd_exportexcel === ส่งออก USSD Excel
+table_ussd_exportpdf === การส่งออก PDF ของ USSD
+table_ussd_createdtitle === สร้าง
+table_ussd_codetitle === รหัส
+table_ussd_responsetitle === การตอบสนอง
+table_ussd_simtitle === ซิม
+table_ussd_statustitle === สถานะ
+table_ussd_devicetitle === อุปกรณ์
+table_ussd_optionstitle === ตัวเลือก
+table_ussd_pendingresponsetext === รอการตอบกลับ
+table_empty_data === ว่างเปล่า
+table_ussd_sim1 === ซิม1
+table_ussd_sim2 === ซิม2
+table_ussd_pendinglabel === รอดำเนินการ
+table_ussd_queuelabel === เข้าคิว
+table_ussd_completelabel === สมบูรณ์
+table_ussd_detailsline1 === อุปกรณ์: _8880_
+table_ussd_detailsline2 === ระบบปฏิบัติการ: _8880_
+table_notifications_exportcopy === คัดลอกคลิปบอร์ดการแจ้งเตือน
+table_notifications_exportexcel === การแจ้งเตือนการส่งออก Excel
+table_notifications_exportpdf === การแจ้งเตือน PDF ส่งออก
+table_notifications_createdtitle === สร้าง
+table_notifications_packagetitle === ชื่อแพ็คเกจ
+table_notifications_title === ชื่อ
+table_notification_texttitle === ข้อความ
+table_notification_devicetitle === อุปกรณ์
+table_notification_optiontitle === ตัวเลือก
+table_notification_devicelabel === อุปกรณ์:
+table_notification_oslabel === ระบบปฏิบัติการ:
+table_devices_nametitle === ชื่อ
+table_devices_globaltitle === ทั่วโลก
+table_enabled_data === เปิดใช้งาน
+table_disabled_data === พิการ
+table_notifications_exportone === อุปกรณ์: _8881_ ระบบปฏิบัติการ: _8881_
+table_whatsapp_pendinglabel === รอดำเนินการ
+table_whatsapp_queuelabel === เข้าคิว
+table_whatsapp_sentlabel === ส่งแล้ว
+table_whatsapp_failedlabel === ล้มเหลว
+table_whatsappreceive_exportcopy === ได้รับสำเนาคลิปบอร์ด
+table_whatsappreceive_exportexcel === ได้รับการส่งออก Excel
+table_whatsappreceive_exportpdf === ได้รับการส่งออก PDF
+table_whatsappreceive_replytitle === ตอบกลับหมายเลข
+table_waschedule_scheduletitle === กำหนดการ
+table_waschedule_detailstitle === รายละเอียด
+table_waschedule_detailsline1 === ซ้ำ: _8880_
+table_waschedule_detailsline2 === บัญชี:
+table_waschedule_detailsline3 === กลุ่ม:
+table_waschedule_detailsline4 === ตัวเลข:
+table_waaccounts_loggedtitle === เข้าสู่ระบบ
+device_login_usevalidemail === กรุณาใช้ที่อยู่อีเมลที่ถูกต้อง!
+device_login_accountsuspended === ขออภัย บัญชีของคุณถูกระงับ!
+device_login_incorrectmailorpass === คุณป้อนอีเมลหรือรหัสผ่านไม่ถูกต้อง!
+device_login_nosubscription === คุณไม่ได้สมัครแพ็คเกจ!
+device_login_nomoredevice === คุณไม่สามารถลงทะเบียนอุปกรณ์เพิ่มเติมได้!
+device_scan_qrcodeinvalid === QRCode ของคุณไม่ถูกต้อง!
+device_scan_nosub === คุณไม่ได้สมัครแพ็คเกจ!
+device_scan_usersuspended === ขออภัย บัญชีของคุณถูกระงับ!
+device_scan_nomoredevices === คุณไม่สามารถลงทะเบียนอุปกรณ์เพิ่มเติมได้!
+device_report_smssentsuccess === ข้อความ _8881_ ถูกส่งมาจาก _8881_
+device_report_smssentfailed === การส่งข้อความ _8881_ ล้มเหลวจาก _8881_
+device_received_smsreceived === ใหม่ _8881_ ได้รับจาก _8881_ แล้ว
+requests_resend_devicenotexist === ไม่มีอุปกรณ์!
+device_ussd_responsereceive === ได้รับการตอบสนอง USSD จาก _8880_
+device_notification_notireceive === ได้รับการแจ้งเตือนใหม่จาก _8880_
+payment_success_unknowntx === ไม่รู้จัก
+payment_webhook_molliecreditsadded === เพิ่มเครดิตในบัญชีของคุณแล้ว!
+payment_webhook_paypalcreditsadded === เพิ่มเครดิตในบัญชีของคุณแล้ว!
+payment_webhook_unknowntn === ไม่รู้จัก
+mail_tpl_creditstitle === สวัสดี,
+mail_tpl_creditsdesc === คุณได้ซื้อเครดิต เราได้เพิ่มเครดิตไปยังบัญชีของคุณแล้วจำนวน _8880_ และคุณสามารถใช้ได้ทันที
+mail_tpl_creditstnx === ขอขอบคุณ!
+mail_tpl_poweredby === ขับเคลื่อนโดย _8880_
+forgot_response_recoverysent === คำแนะนำในการดึงข้อมูลถูกส่งไปยัง _8880_ แล้ว
+forgot_response_recoveryfail === เราไม่สามารถส่งอีเมลถึงคุณได้!
+cron_package_expired === การสมัครแพ็กเกจของคุณหมดอายุแล้ว!
+cron_package_expiring === การสมัครแพ็กเกจจะหมดอายุใน 5 วัน!
+table_waaccounts_waidtitle === ID WhatsApp
+table_waaccounts_wauniquetitle === ID ไม่ซ้ำกัน
+table_contactssaved_idtitle === ไอดี
+table_contactssaved_exportcopy === คัดลอกคลิปบอร์ดของกลุ่ม _8880_
+table_contactssaved_exportexcel === กลุ่มการส่งออก Excel _888_
+table_contactssaved_exportpdf === กลุ่ม PDF ส่งออก _888_
+table_contactssaved_grouptitle === กลุ่ม
+table_contactsgroups_gidtitle === รหัสกลุ่ม
+table_contactsunsub_exportcopy === คัดลอกคลิปบอร์ดที่ไม่ได้สมัครรับข้อมูล _8880_
+table_contactsunsub_exportexcel === ยกเลิกการสมัคร Excel ส่งออก _8880_
+table_contactsunsub_exportpdf === ยกเลิกการสมัคร PDF ส่งออก _8880_
+table_toolskeys_createdtitle === สร้าง
+table_toolskeys_copyapisecret === คัดลอกความลับ API ไปยังคลิปบอร์ด
+table_toolswebhooks_createtitle === สร้าง
+table_tootlswebhooks_eventstitle === กิจกรรม
+table_toolswebhooks_simulatebtn === สิ่งกระตุ้น
+table_toolswebhooks_simulatedesc === จำลองคำขอเว็บฮุค
+table_toolswebhooks_copywebhooksecret === คัดลอกความลับของเว็บฮุคไปยังคลิปบอร์ด
+table_toolsactions_createtitle === สร้าง
+table_toolsactions_detailstitle === รายละเอียด
+table_toolsactions_typehook === ตะขอ
+table_toolsactions_typeautoreply === ตอบกลับอัตโนมัติ
+table_toolsactions_source === ที่มา: _8880_
+table_toolsactions_sourcesms === ข้อความ
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === เหตุการณ์: _8880_
+table_toolsactions_eventonsend === เมื่อส่ง
+table_toolsactions_eventonreceive === เมื่อได้รับ
+table_toolsactions_link === ลิงค์:
+table_toolsactions_keywords === คำสำคัญ:
+table_toolsactions_message === ข้อความ:
+table_toolsactions_type === ประเภท: _8880_
+table_toolstemplates_idtitle === ไอดี
+table_ratespartners_createdtitle === สร้าง
+table_ratespartners_countrytitle === ประเทศ
+table_ratespartners_detailstitle === รายละเอียดอุปกรณ์
+table_ratespartners_ratetitle === อัตราข้อความ
+table_ratespartners_prioritytitle === ลำดับความสำคัญ
+table_ratespartners_simtitle === ช่องใส่ซิมที่อนุญาต
+table_ratespartners_name === ชื่อ:
+table_ratespartners_owner === เจ้าของ:
+table_ratespartners_localrate === อัตราท้องถิ่น:
+table_ratespartners_convertedrate === อัตราการแปลง:
+table_ratespartners_simdual === ซิม 1 และซิม 2
+table_ratespartners_simsingle === ซิม _8880_
+table_adminusers_exportcopy === คัดลอกคลิปบอร์ดของผู้ใช้ _8880_
+table_adminusers_exportexcel === ผู้ใช้ Excel ส่งออก _8880_
+table_adminusers_exportpdf === ผู้ใช้ PDF ส่งออก _8880_
+table_adminusersexportdata === บทบาท: _8880_ ประเทศ: _8881_ ภาษา: _8882_ เขตเวลา: _8883_ รายได้: _8884_ เครดิต: _8885_ การสมัครสมาชิก: _8886_ เสียง: _8887_ ถูกระงับ: _8888_
+table_adminusers_exportdata1 === บทบาท: _8880_
+table_adminusers_exportdata2 === ประเทศ: _8880_
+table_adminusers_exportdata3 === ภาษา: _8880_
+table_adminusers_exportdata4 === เขตเวลา:
+table_adminusers_exportdata5 === รายได้: _8880_
+table_adminusers_exportdata6 === เครดิต: _8880_
+table_adminusers_exportdata7 === สมัครสมาชิก:
+table_adminusers_exportdata8 === เสียง: _8880_
+table_adminusers_exportdata9 === ถูกระงับ: _8880_
+table_adminusers_unsuspendaccount === ยกเลิกการระงับบัญชีนี้
+table_adminusers_suspendaccount === ระงับบัญชีนี้
+table_adminroles_idtitle === ไอดี
+table_adminpackages_createdtitle === สร้าง
+table_adminpackages_detailstitle === รายละเอียดแพ็คเกจ
+table_adminpackages_freelabel === ฟรี
+table_unlimited_data === ไม่ จำกัด
+table_adminpackages_labeldetails1 === ที่ซ่อนอยู่:
+table_adminpackages_labeldetails2 === เครื่องหมายส่วนท้าย:
+table_adminpackages_labeldetails3 === ขีด จำกัด การส่ง SMS:
+table_adminpackages_labeldetails4 === ขีด จำกัด การรับ SMS:
+table_adminpackages_labeldetails5 === ขีด จำกัด การส่ง WhatsApp:
+table_adminpackages_labeldetails6 === ขีด จำกัด การรับ WhatsApp:
+table_adminpackages_labeldetails7 === ขีด จำกัด บัญชี WhatsApp:
+table_adminpackages_labeldetails8 === ขีด จำกัด USSD:
+table_adminpackages_labeldetails9 === ขีด จำกัด การแจ้งเตือน:
+table_adminpackages_labeldetails10 === ขีดจำกัดอุปกรณ์:
+table_adminpackages_labeldetails11 === ขีด จำกัด การติดต่อ:
+table_adminpackages_labeldetails12 === ขีดจำกัดคีย์ API:
+table_adminpackages_labeldetails13 === ขีดจำกัดของเว็บฮุค:
+table_adminpackages_labeldetails14 === ขีด จำกัด การดำเนินการ:
+table_adminpackages_labeldetails15 === ขีด จำกัด ที่กำหนด:
+table_adminvouchers_exportcopy === บัตรกำนัล คลิปบอร์ด คัดลอก _8880_
+table_adminvouchers_exportexcel === บัตรกำนัลส่งออก Excel _8880_
+table_adminvouchers_exportpdf === บัตรกำนัลการส่งออก PDF _8880_
+table_adminvouchers_createdtitle === สร้าง
+table_adminvouchers_codetitle === แลกรหัส
+table_adminvouchers_copycode === คัดลอกรหัสบัตรกำนัลไปที่คลิปบอร์ด
+table_adminsubscriptions_createdtitle === สร้าง
+table_admintransactions_createdtitle === สร้าง
+table_admintransactions_itemtitle === สิ่งของ
+table_admintransactions_amounttitle === จำนวน
+table_admintransactions_durationtitle === ระยะเวลา
+table_admintransactions_creditslabel === เครดิต
+table_admintransactions_monthslabel === _8880_เดือน
+table_adminpayouts_createdtitle === สร้าง
+table_adminpayouts_partnertitle === พันธมิตร
+table_adminpayouts_amounttitle === จำนวน
+table_adminpayouts_addresstitle === ที่อยู่การชำระเงิน
+table_adminpayouts_optionstitle === ตัวเลือก
+table_adminpayouts_approve === ทำเครื่องหมายคำขอการจ่ายเงินว่าชำระแล้ว
+table_adminpayouts_reject === ปฏิเสธคำขอจ่ายเงิน
+table_adminwidgets_createdtitle === สร้าง
+table_adminwidgets_typeblock === ปิดกั้น
+table_adminwidgets_typemodal === โมดอล
+table_adminwidgets_copywidgethook === คัดลอกเบ็ดวิดเจ็ตไปยังคลิปบอร์ด
+table_adminpages_createdtitle === สร้าง
+table_adminpages_optionstitle === ตัวเลือก
+table_adminpages_copypagehook === คัดลอกเบ็ดหน้าไปยังคลิปบอร์ด
+table_adminmarketing_createdtitle === สร้าง
+table_adminmarketing_typetitle === พิมพ์
+table_adminmarketing_titletitle === ชื่อ
+table_adminmarketing_contenttitle === เนื้อหา
+table_adminmarketing_recipientstitle === ผู้รับ
+table_adminmarketing_optionstitle === ตัวเลือก
+table_adminmarketing_notifylabel === แจ้ง
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === ดัน
+table_adminmarketing_roleslabel === บทบาท:
+table_adminmarketing_userslabel === ผู้ใช้:
+table_admingateways_createdtitle === สร้าง
+table_admingateways_nametitle === ชื่อ
+table_admingateways_pricingtitle === ราคา
+table_admingateways_optionstitle === ตัวเลือก
+table_admingateways_invalidjson === รูปแบบ JSON ไม่ถูกต้อง!
+table_admingateways_defaultprice === ราคาเริ่มต้น: _8880_
+table_admingateways_percountryprcie === ราคาต่อประเทศ:
+table_adminshorteners_createdtitle === สร้าง
+table_adminshorteners_nametitle === ชื่อ
+table_adminshorteners_optionstitle === ตัวเลือก
+table_adminplugins_idtitle === ไอดี
+table_adminplugins_versiontitle === เวอร์ชันที่ติดตั้ง
+table_adminplugins_actionstitle === การกระทำ
+table_adminplugins_updatedesc === อัปเดตปลั๊กอินนี้
+table_adminplugins_editdesc === แก้ไขตัวเลือกปลั๊กอิน
+table_adminplugins_removedesc === ถอนการติดตั้งปลั๊กอินนี้
+whatsapp_sent_sentsuccess === ส่งแชท WhatsApp _8880_ แล้ว!
+whatsapp_sent_sentfailed === ส่งแชท _8880_ ล้มเหลว!
+whatsapp_received_chat === แชทใหม่ _8880_ ได้รับแล้ว!
+widget_systemupdate_title === การอัปเดตระบบ
+widget_systemupdate_loader === กำลังปรับปรุงระบบ
+widget_systemupdate_requireupdate === ไฟล์อัปเดตต้องไม่ว่างเปล่า!
+requests_systemupdate_faileduploadingfile === อัพโหลดไฟล์อัพเดทไม่สำเร็จ!
+widget_usersettings_loader === บันทึกการตั้งค่าบัญชี
+widget_payment_title === การชำระเงิน
+widget_payment_creditamountnotless === จำนวนเครดิตต้องไม่น้อยกว่า 10!
+widget_payment_creditslabel === เครดิต
+widget_view_contentremoved === เนื้อหาถูกลบ!
+widget_redeem_title === ไถ่ถอน
+widget_redeem_loader === กำลังตรวจสอบรหัสบัตรกำนัล
+widget_addcredits_title === เพิ่มเครดิต
+widget_addpayout_title === ขอการจ่ายเงิน
+widget_addpayout_loader === กำลังสร้างคำขอจ่ายเงิน
+widget_addpayout_requireamount === จำนวนเงินต้องไม่ว่างเปล่า!
+widget_addpayout_requireprovider === ต้องระบุผู้ให้บริการชำระเงิน!
+widget_addpayout_requireaddress === ต้องระบุที่อยู่การชำระเงิน!
+widget_smsquick_loader === กำลังเพิ่มข้อความไปยังคิว
+widget_smsbulk_loader === การเพิ่มข้อความไปยังคิว
+widget_smsexcel_loader === การเพิ่มข้อความจากไฟล์ excel ไปยังคิว
+widget_addsmsscheduled_loader === กำลังบันทึกข้อความตามกำหนดการของคุณ
+widget_editscheduled_title === แก้ไขกำหนดการ
+widget_editscheduled_loader === กำลังบันทึกข้อความตามกำหนดการของคุณ
+widget_addussd_title === คำขอ USSD
+widget_addussd_loader === กำลังเพิ่มคำขอ ussd ไปยังคิว
+widget_editdevice_title === แก้ไขอุปกรณ์
+widget_editdevice_loader === กำลังบันทึกการเปลี่ยนแปลงอุปกรณ์
+widget_waquick_title === แชทด่วน
+widget_waquick_loader === กำลังเพิ่มแชท whatsapp ลงในคิว
+widget_waquick_requireaccount === ต้องใช้บัญชี WhatsApp!
+widget_wabulk_title === แชทเป็นกลุ่ม
+widget_wabulk_loader === กำลังเพิ่มแชท whatsapp ลงในคิว
+widget_waexcel_title === แชทเป็นกลุ่มโดย Excel
+widget_waexcel_loader === กำลังเพิ่มแชท whatsapp ลงในคิว
+widget_wascheduled_title === กำหนดการแชท
+widget_wascheduled_loader === กำลังเพิ่มแชท whatsapp ลงในคิว
+widget_wascheduled_requireaccount === ต้องใช้บัญชี WhatsApp!
+widget_waeditscheduled_title === แก้ไขกำหนดการ
+widget_waeditscheduled_loader === กำลังเพิ่มแชท whatsapp ลงในคิว
+widget_waeditscheduled_requireaccount === ต้องใช้บัญชี WhatsApp!
+widget_waaddaccount_title === เพิ่มบัญชี
+widget_importcontacts_loaded === การนำเข้าผู้ติดต่อจากไฟล์ excel
+widget_addcontact_loader === กำลังสร้างรายการติดต่อใหม่
+default_pricecolumns_monthlabel === เดือน
+default_pricecolumns_dailylabel === รายวัน
+default_pricecolumns_monthlylabel === รายเดือน
+default_pricecolumns_unlimitedlabel === ไม่ จำกัด
+form_literal_spintaxdesc2 === ค่า _8881_ และ _8881_ จะถูกสุ่มใช้
+dashboard_packagesmodal_smssend === ส่ง SMS
+default_footerquote_obama === การเป็นไม่ได้เกี่ยวกับการไปถึงที่ใดที่หนึ่งหรือบรรลุเป้าหมายบางอย่าง ข้าพเจ้ามองว่าเป็นการเคลื่อนไหวไปข้างหน้า วิธีการพัฒนา วิธีเข้าถึงตนเองที่ดีขึ้นอย่างต่อเนื่อง การเดินทางไม่สิ้นสุด
+widgets_editcontact_loader === กำลังบันทึกการเปลี่ยนแปลงผู้ติดต่อ
+widgets_addgroup_loader === กำลังสร้างรายการกลุ่มใหม่
+widgets_editgroup_loader === กำลังบันทึกการเปลี่ยนแปลงกลุ่ม
+widgets_addapikey_loader === การสร้างคีย์ API ใหม่
+widgets_editapikey_loader === กำลังบันทึกการเปลี่ยนแปลงคีย์ API
+widgets_addwebhook_title === เพิ่มเว็บฮุค
+widgets_addwebhook_loader === การสร้างเว็บฮุคใหม่
+widgets_addwebhook_requireevents === กิจกรรมไม่สามารถเว้นว่างได้!
+widgets_editwebhook_loader === กำลังบันทึกการเปลี่ยนแปลงเว็บฮุค
+widgets_addhook_loader === การสร้างแอคชั่นเบ็ดใหม่
+widgets_edithook_loader === กำลังบันทึกการเปลี่ยนแปลงการกระทำของเบ็ด
+widgets_addautoreply_loader === การสร้างการดำเนินการตอบกลับอัตโนมัติใหม่
+widgets_editautoreply_loader === กำลังบันทึกการเปลี่ยนแปลงการดำเนินการตอบกลับอัตโนมัติ
+widgets_addtemplate_loader === การสร้างเทมเพลตข้อความใหม่
+widgets_edittemplate_loader === กำลังบันทึกการเปลี่ยนแปลงเทมเพลต
+widgets_adminbuilder_loader === กำลังบันทึกการตั้งค่าตัวสร้าง
+widgets_adminsettings_loader === กำลังบันทึกการตั้งค่าระบบ
+widgets_admintheme_loader === กำลังบันทึกการตั้งค่าธีม
+widgets_adduser_loader === การสร้างบัญชีผู้ใช้ใหม่
+widgets_edituser_loader === กำลังบันทึกการเปลี่ยนแปลงบัญชีผู้ใช้
+widgets_addrole_loader === การสร้างบทบาทผู้ใช้ใหม่
+widgets_addrole_title === เพิ่มบทบาท
+widgets_editrole_loader === กำลังบันทึกการเปลี่ยนแปลงบทบาทของผู้ใช้
+widgets_addpackage_loader === การสร้างแพ็คเกจระบบใหม่
+widgets_editpackage_loader === กำลังบันทึกการเปลี่ยนแปลงแพ็คเกจ
+widgets_addvoucher_loader === การสร้างบัตรกำนัลใหม่
+widgets_addsubscription_loader === การสร้างการสมัครสมาชิกผู้ใช้ใหม่
+widgets_addwidgets_loader === การสร้างวิดเจ็ตใหม่
+widgets_editwidget_loader === กำลังบันทึกการเปลี่ยนแปลงวิดเจ็ต
+widgets_addpage_loader === กำลังสร้างเพจใหม่
+widgets_editpage_loader === กำลังบันทึกการเปลี่ยนแปลงหน้า
+widgets_addpush_title === กดออกอากาศ
+widgets_addpush_loader === การแจ้งเตือนแบบพุชออกอากาศ
+widgets_addpush_requiretitle === ชื่อไม่สามารถเว้นว่างได้!
+widgets_addpush_requiremessage === ต้องระบุข้อความ!
+widgets_addnotify_title === แจ้งออกอากาศ
+widgets_addnotify_loader === ถ่ายทอดสดการแจ้งเตือน
+widgets_addnotify_requiretitle === ชื่อไม่สามารถเว้นว่างได้!
+widgets_addnotify_requiremessage === ต้องระบุข้อความ!
+widgets_addmailer_title === แมสเมลเลอร์
+widgets_addmailer_loader === การส่งข้อความอีเมล
+widgets_addmailer_requiretitle === ชื่อไม่สามารถเว้นว่างได้!
+widgets_addlanguage_loader === เพิ่มภาษาใหม่
+widgets_editlanguage_loader === กำลังบันทึกการเปลี่ยนแปลงภาษา
+widgets_addgateway_title === เพิ่มเกตเวย์
+widgets_addgateway_loader === เพิ่มเกตเวย์ใหม่
+widgets_addgateway_requirename === ชื่อเกตเวย์ไม่สามารถเว้นว่างได้!
+widgets_editgateway_title === แก้ไขเกตเวย์
+widgets_editgateway_loader === กำลังบันทึกการเปลี่ยนแปลงเกตเวย์
+widgets_editgateway_requirename === ชื่อเกตเวย์ไม่สามารถเว้นว่างได้!
+widgets_addshortener_title === เพิ่ม Shortener
+widgets_addshortener_loader === เพิ่มตัวย่อใหม่
+widgets_addshortener_requirename === ชื่อย่อต้องไม่เว้นว่าง!
+widgets_editshortener_title === แก้ไข Shortener
+widgets_editshortener_loader === กำลังบันทึกการเปลี่ยนแปลงตัวย่อ
+widgets_editshortener_requirename === ชื่อย่อต้องไม่เว้นว่าง!
+widgets_editplugin_loader === การใช้การเปลี่ยนแปลงปลั๊กอินกับระบบ
+widgets_updateplugin_title === อัปเดตปลั๊กอิน
+widgets_updateplugin_loader === กำลังอัปเดตปลั๊กอิน
+device_backgroundpage_line1 === ทำงานในเบื้องหลัง
+device_backgroundpage_line2 === ทำไมแอปเกตเวย์จึงต้องทำงานในพื้นหลัง
+device_backgroundpage_line3 === แอปต้องทำงานในพื้นหลังเพื่อคอยฟังข้อความใหม่เพื่อส่งและรับ ซึ่งจำเป็นสำหรับการประมวลผลการแจ้งเตือนใหม่ หากคุณไม่ต้องการการแจ้งเตือน คุณสามารถปิดใช้งานสิ่งนี้ได้ในการตั้งค่าแอพ การปิดใช้งานจะทำให้ระบบไม่ได้รับข้อมูลการแจ้งเตือนจากอุปกรณ์
+device_backgroundpage_line4 === หากคุณมีแอปรักษาความปลอดภัยของบริษัทอื่น เช่น Avast, Eset และอื่นๆ โปรดเพิ่มแอปเกตเวย์ในข้อยกเว้น
+device_backgroundpage_line5 === โปรดอ่านคำแนะนำที่เหมาะสมสำหรับยี่ห้อโทรศัพท์ของคุณในรายการต่อไปนี้
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === ประหยัดแบตเตอรี่
+device_backgroundpage_line8 === 1. เปิดการตั้งค่า
+device_backgroundpage_line9 === 2. เลือก "แบตเตอรี่และประสิทธิภาพ"
+device_backgroundpage_line10 === 3. เลือก "เลือกแอป"
+device_backgroundpage_line11 === 4. ค้นหา _8880_ และเลือก "ไม่มีข้อจำกัด" ในการตั้งค่าพื้นหลัง
+device_backgroundpage_line12 === ล็อคแอพ
+device_backgroundpage_line13 === 1. แตะปุ่มเมนูเพื่อเข้าสู่หน้าล่าสุด
+device_backgroundpage_line14 === 2. เลือกการ์ด _8880_ และล็อค
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === ประหยัดแบตเตอรี่
+device_backgroundpage_line17 === 1. เปิดการตั้งค่า
+device_backgroundpage_line18 === 2. เลือกการตั้งค่าขั้นสูง
+device_backgroundpage_line19 === 3. เลือกตัวจัดการแบตเตอรี่
+device_backgroundpage_line20 === 4. เลือกแอปที่ได้รับการป้องกัน
+device_backgroundpage_line21 === 5. ค้นหา _8880_ แล้วเปิดสวิตช์
+device_backgroundpage_line22 === หากเวอร์ชัน EMUI ได้รับการอัปเดตเมื่อเร็วๆ นี้ ไม่จำเป็นต้องทำการเปลี่ยนแปลงในการตั้งค่า
+device_backgroundpage_line23 === ล็อคแอพ
+device_backgroundpage_line24 === 1. แตะปุ่มเมนู เข้าสู่หน้าล่าสุด
+device_backgroundpage_line25 === 2. ดึง _8880_ ลงจนกระทั่งไอคอนแม่กุญแจปรากฏขึ้น
+device_backgroundpage_line26 === ซัมซุง
+device_backgroundpage_line27 === ประหยัดแบตเตอรี่
+device_backgroundpage_line28 === 1. แตะตัวจัดการอัจฉริยะ
+device_backgroundpage_line29 === 2. เลือก แบตเตอรี่ แล้วแตะ เพื่อเข้าสู่หน้าการตั้งค่า
+device_backgroundpage_line30 === 3. แตะแอปที่ไม่ได้ตรวจสอบ ค้นหา _8880_ แล้วแตะเพื่อเข้าสู่
+device_backgroundpage_line31 === 4. แตะ แบตเตอรี่ แล้วแตะ เพิ่มประสิทธิภาพการใช้แบตเตอรี่
+device_backgroundpage_line32 === 5. เลือกแอปทั้งหมด ค้นหา _8880_ แล้วปิดสวิตช์
+device_backgroundpage_line33 === ล็อคแอพ
+device_backgroundpage_line34 === 1. แตะปุ่มเมนูและเข้าสู่หน้าโปรแกรมที่เพิ่งเปิด
+device_backgroundpage_line35 === 2. แตะไอคอน เพิ่มเติม เพื่อเลือก ล็อกแอป
+device_backgroundpage_line36 === 3. แตะไอคอนล็อกของ _8880_
+device_backgroundpage_line37 === 4. แตะ เสร็จสิ้น เพื่อดำเนินการให้เสร็จสิ้น
+device_backgroundpage_line38 === เมอิสึ ฟลายมี
+device_backgroundpage_line39 === ล็อคแอพ
+device_backgroundpage_line40 === 1. ปัดขึ้นที่ด้านซ้ายของหน้าจอหลักเพื่อเข้าสู่ "ล่าสุด"
+device_backgroundpage_line41 === 2. กด _8880_ ค้างไว้จนกระทั่งไอคอนแม่กุญแจปรากฏขึ้น
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === ประหยัดแบตเตอรี่
+device_backgroundpage_line44 === 1. เปิดการตั้งค่าแล้วแตะแบตเตอรี่
+device_backgroundpage_line45 === 2. แตะตัวประหยัดพลังงาน
+device_backgroundpage_line46 === 3. ค้นหา _8880_ เพื่อปิด Background Freeze และ Abnormal Apps Optimization
+device_backgroundpage_line47 === หากคุณไม่สามารถตั้งค่าได้หลังจากทำตามขั้นตอนข้างต้นแล้ว ให้ลองทำดังนี้:
+device_backgroundpage_line48 === 1. เปิดตัวจัดการโทรศัพท์และค้นหาพื้นหลังที่สะอาด
+device_backgroundpage_line49 === 2. แตะเพื่อเพิ่มแอป
+device_backgroundpage_line50 === 3. ติ๊ก _8880_ แล้วแตะตกลง
+device_backgroundpage_line51 === ล็อคแอพ
+device_backgroundpage_line52 === 1. แตะปุ่มเมนู เข้าสู่หน้าล่าสุด
+device_backgroundpage_line53 === 2. ดึง _8880_ ลงจนกระทั่งไอคอนแม่กุญแจปรากฏขึ้น
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === ประหยัดแบตเตอรี่
+device_backgroundpage_line56 === 1. เปิดตัวจัดการแล้วแตะตัวจัดการพลังงาน
+device_backgroundpage_line57 === 2. เลือกพาวเวอร์แบ็คสเตจ
+device_backgroundpage_line58 === 3. ค้นหา _8880_ แล้วเปิดสวิตช์
+device_backgroundpage_line59 === ล็อคแอพ
+device_backgroundpage_line60 === 1. แตะปุ่มเมนู เข้าสู่หน้าล่าสุด
+device_backgroundpage_line61 === 2. ดึง _8880_ ลงจนกระทั่งไอคอนแม่กุญแจปรากฏขึ้น
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === ประหยัดแบตเตอรี่
+device_backgroundpage_line64 === 1. เปิดตัวจัดการโทรศัพท์
+device_backgroundpage_line65 === 2. แตะ App Battery Use Optimization
+device_backgroundpage_line66 === 3. ค้นหา _8880_ แล้วปิดสวิตช์
+device_backgroundpage_line67 === ล็อคแอพ
+device_backgroundpage_line68 === 1. แตะสองครั้งที่ปุ่มเมนู เข้าสู่หน้าล่าสุด
+device_backgroundpage_line69 === 2. กด _8880_ ค้างไว้จนกระทั่งไอคอนหมุดปรากฏขึ้น
+device_backgroundpage_line70 === ยี่ห้ออื่นๆ
+device_backgroundpage_line71 === 1. ล็อกแอป _8880_ ในรายการล่าสุด
+device_backgroundpage_line72 === 2. เพิ่ม _8880_ ไปยังข้อยกเว้น
+device_backgroundpage_line73 === 3. หากคุณได้ติดตั้งตัวจัดการการเริ่มต้นระบบอื่น ให้ลบ _8880_ ออกจากรายการบล็อก
+dashboard_adminmarketing_pushbtndesc === ออกอากาศการแจ้งเตือนแบบพุชไปยังอุปกรณ์
+dashboard_adminmarketing_notifybtndesc === ออกอากาศการแจ้งเตือนเบราว์เซอร์ไปยังผู้ใช้
+dashboard_adminmarketing_mailerbtndesc === ส่งอีเมลจำนวนมากถึงผู้ใช้
+js_loader_pleasewait === โปรดรอ
+js_userstatus_online === ออนไลน์
+js_userstatus_offline === ออฟไลน์
+js_whatsapp_linksuccess === เชื่อมโยงบัญชี WhatsApp สำเร็จแล้ว!
+js_whatsapp_linkfailed === การเชื่อมโยงบัญชี WhatsApp ล้มเหลว!
+js_whatsapp_linkexist === WhatsApp เชื่อมโยงกับบัญชีของคุณแล้ว!
+js_whatsapp_loaderprocessing === กำลังดำเนินการตามคำขอ
+js_clearpending_title === เคลียร์รอดำเนินการ?
+js_clearpending_desc === รายการที่รอส่งทั้งหมดจะถูกล้างและลบ!
+js_clearpending_processing === กำลังดำเนินการตามคำขอ
+js_authenticate_processing === กำลังดำเนินการตามคำขอ
+js_actiontrigger_title === จำลอง Webhook
+js_actiontrigger_typetitle === ประเภทข้อมูล
+js_actiontrigger_typesms === ข้อความ
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === การแจ้งเตือน
+js_actiontrigger_loader === การจำลองเว็บฮุค
+js_actiontranslator_title === นักแปล
+js_actiontranslator_from === แปลจาก
+js_actiontranslator_to === แปลเป็นภาษา
+js_actiontranslator_loader === กำลังแปลข้อความ
+js_actionregen_title === สร้างโทเค็นระบบใหม่?
+js_actionregen_desc === การสร้างโทเค็นระบบใหม่จะย้อนกลับไม่ได้!
+js_actionregen_loader === กำลังสร้างโทเค็น
+js_actionclear_title === ล้างแคช?
+js_actionclear_desc === ข้อมูลแคชของระบบทั้งหมดจะถูกล้าง!
+js_processing_dataloader === กำลังดำเนินการตามคำขอ
+js_build_title === สร้าง APK ใหม่?
+js_build_desc === โปรดตรวจสอบให้แน่ใจว่าคุณได้กำหนดการตั้งค่าตัวสร้างของคุณอย่างถูกต้อง!
+js_build_btnbuild === สร้าง
+js_reorder_title === เรียงลำดับภาษาใหม่?
+js_reorder_desc === ภาษาจะถูกจัดเรียงใหม่ ซึ่งไม่สามารถยกเลิกได้!
+js_deletetrash_title === ลบรายการ?
+js_deletetrash_desc === คุณต้องการลบรายการที่เลือกหรือไม่?
+js_tablesexport_copy === คลิปบอร์ด
+js_tablesexport_excel === ส่งออก Excel
+js_tablesexport_pdf === ส่งออก PDF
+mail_expiredtpl_line1 === สวัสดี,
+mail_expiredtpl_line2 === คุณได้รับข้อความนี้เนื่องจากการสมัครสมาชิกแพ็คเกจพรีเมียมที่ใช้งานอยู่ของคุณหมดอายุแล้ว!
+mail_expiredtpl_line3 === การสมัครของคุณถูกลบออก หากต้องการสมัครแพ็กเกจพรีเมียมอีกครั้ง เพียงไปที่ไซต์ของเรา
+mail_expiredtpl_line4 === สำหรับคำถามและปัญหา โปรดอย่าลังเลที่จะติดต่อเรา!
+mail_expiredtpl_line5 === ขอขอบคุณ!
+mail_expiringtpl_line1 === สวัสดี,
+mail_expiringtpl_line2 === นี่เป็นการเตือนความจำที่เป็นมิตร การสมัครสมาชิกแพ็คเกจพรีเมียมที่ใช้งานอยู่ของคุณจะหมดอายุใน 5 วัน!
+mail_expiringtpl_line3 === เพื่อป้องกันการหยุดชะงักของบริการ โปรดอย่าลืมสมัครแพ็กเกจพรีเมียมใดๆ อีกครั้ง กรุณาเยี่ยมชมเว็บไซต์ของเราเพื่อสั่งซื้ออีกครั้ง
+mail_expiringtpl_line4 === สำหรับคำถามและปัญหา โปรดอย่าลังเลที่จะติดต่อเรา!
+mail_expiringtpl_line5 === ขอขอบคุณ!
+mail_failedtpl_line1 === สวัสดี,
+mail_failedtpl_line2 === เราไม่สามารถประมวลผลธุรกรรมการชำระเงินของคุณได้ โปรดลองอีกครั้งโดยใช้ผู้ให้บริการหรือวิธีการชำระเงินอื่น
+mail_failedtpl_line3 === รหัสการชำระเงิน:
+mail_failedtpl_line4 === ขออภัยในความไม่สะดวก.
+mail_forgottpl_line1 === สวัสดี,
+mail_forgottpl_line2 === เราได้รับคำขอเรียกข้อมูลบัญชีของคุณสำหรับบัญชีของคุณ โปรดใช้รหัสผ่านชั่วคราวนี้เพื่อเข้าสู่ระบบ:
+mail_forgottpl_line3 === อย่าลืมเปลี่ยนรหัสผ่านหลังจากเข้าสู่ระบบ!
+mail_forgottpl_line4 === รหัสผ่านจะหมดอายุหลังจาก 10 นาที เร็วเข้า หากคุณไม่ได้ร้องขอ โปรดเพิกเฉยต่ออีเมลนี้
+mail_forgottpl_line5 === ขอขอบคุณ! หวังว่าจะใช้งานได้
+mail_payoutpaidtpl_line1 === สวัสดี,
+mail_payoutpaidtpl_line2 === ทีมงานของเราได้ส่งคำขอการจ่ายเงินของคุณไปยังที่อยู่ของคุณและผู้ให้บริการการชำระเงินที่เลือก
+mail_payoutpaidtpl_line3 === จำนวน:
+mail_payoutpaidtpl_line4 === มีความสุขการใช้จ่าย!
+mail_payoutrejecttpl_line1 === สวัสดี,
+mail_payoutrejecttpl_line2 === เราไม่สามารถดำเนินการตามคำขอรับเงินของคุณได้ อาจมีปัญหากับที่อยู่การชำระเงินของคุณ โปรดติดต่อทีมงานของเราเพื่อทราบข้อมูลเพิ่มเติม
+mail_payoutrejecttpl_line3 === จำนวน:
+mail_payoutrejecttpl_line4 === ขออภัยในความไม่สะดวก.
+mail_subscribetpl_line1 === สวัสดี,
+mail_subscribetpl_line2 === ขอขอบคุณที่สมัครรับหนึ่งในแพ็คเกจพรีเมียมของเรา นี่เป็นข้อมูลสรุปเล็กน้อยในการซื้อของคุณ:
+mail_subscribetpl_line3 === _888_ แพ็คเกจ
+mail_subscribetpl_line4 === การสมัครนี้จะหมดอายุหลังจาก _888_
+mail_subscribetpl_line5 === ซึ่งจะมีผลทันที สำหรับคำถามและปัญหา โปรดอย่าลังเลที่จะติดต่อเรา!
+mail_subscribetpl_line6 === ขอขอบคุณ!
+requests_build_submitrequest === กำลังดำเนินการตามคำขอ
+requests_reorder_loader === กำลังดำเนินการตามคำขอ
+requests_deleteitem_loader === กำลังดำเนินการตามคำขอ
+requests_packageform_invalidint === บางฟิลด์มีจำนวนเต็มที่ไม่ถูกต้อง!
+widgets_viewbank_title === โอนเงินผ่านธนาคาร
+modal_paymentbtn_banktransfer === โอนเงินผ่านธนาคาร
+modal_adminsettings_banktransfer1 === เทมเพลตการโอนเงิน
+modal_adminsettings_banktransfer2 === หากคุณเปิดใช้งานการโอนเงินผ่านธนาคารในตัวเลือกการชำระเงิน คุณควรสร้างเทมเพลตให้ นี่คือสิ่งที่ผู้ใช้จะเห็นเมื่อคลิกปุ่ม คุณสามารถเพิ่มคำแนะนำและที่อยู่ธนาคารได้ที่นี่ ยอมรับ HTML แล้ว
+modal_adminsettings_banktransfer3 === ชุดตัวแปรที่คุณใช้ได้ในเทมเพลตการโอนเงินผ่านธนาคาร
+requests_delete_pluginssuccess === ปลั๊กอินถูกลบเรียบร้อยแล้ว!
+table_whatsappreceived_chattitle === แชท
+table_whatsappreceived_accounttitle === บัญชี
+tabs_whatsappaccounts_titleheader === บัญชี WhatsApp
+form_editwhatsapp_randominterval === สุ่มส่งช่วงเวลา
+form_editwhatsapp_randomintervalhelp === หากเปิดใช้งาน แชทจะถูกส่งแบบสุ่มระหว่าง 2 ค่า คุณสามารถกำหนดค่าได้ด้านล่าง
+form_editwhatsapp_randommin === ส่งช่วงเวลา Min
+form_editwhatsapp_randomminhelp === ช่วงเวลาการส่งขั้นต่ำในหน่วยวินาที
+form_editwhatsapp_randommax === ส่งช่วงเวลาสูงสุด
+form_editwhatsapp_randommaxhelp === ช่วงเวลาการส่งสูงสุดเป็นวินาที
+dashpages_sms_headertitle === ข้อความ
+dashnav_sms_navname === ข้อความ
+widgets_editwhatsapp_title === แก้ไข WhatsApp
+widgets_editwhatsapp_loader === กำลังบันทึกการเปลี่ยนแปลงบัญชี whatsapp
+mail_waunlink_title === บัญชี WhatsApp ของคุณถูกยกเลิกการเชื่อมโยง!
+mail_waunlink_contentline1 === สวัสดี!
+mail_waunlink_contentline2 === บัญชี WhatsApp ที่เชื่อมโยงอยู่บัญชีหนึ่งของคุณถูกลบด้วย ID เฉพาะต่อไปนี้:
+mail_waunlink_contentline3 === บัญชีนี้ไม่ได้เชื่อมต่อกับระบบของเราอีกต่อไปเนื่องจากกิจกรรมที่เกี่ยวข้องกับ WhatsApp โปรดเชื่อมโยงอีกครั้ง
+mail_waunlink_contentline4 === ขอขอบคุณ!
+table_contactsunsubscribed_idtitle === ไอดี
+table_contactsunsubscribed_phonetitle === โทรศัพท์
+form_btnall_visitlink === เยี่ยม
+unsubscribe_header_title === Unsubscribe
+unsubscribe_content_title === Unsubscribed
+unsubscribe_content_desc === คุณได้ยกเลิกการสมัครจากรายการส่งของเรา
+requests_editwhatsapp_success === อัปเดตบัญชี WhatsApp แล้ว!
+form_addusertpl_credits === เครดิต
+form_addusertpl_creditsdesc === เครดิตเริ่มต้นสำหรับบัญชีผู้ใช้นี้
+form_addusertpl_creditsdesc2 === แก้ไขเครดิตของบัญชีผู้ใช้นี้
+form_registerconfirm_desc === ที่อยู่อีเมลของคุณได้รับการยืนยันเรียบร้อยแล้ว คุณสามารถลงชื่อเข้าใช้บัญชีของคุณโดยใช้ปุ่มด้านล่าง
+requests_loginnotverified_response === ที่อยู่อีเมลของบัญชีของคุณยังไม่ได้รับการยืนยัน เราได้ส่งลิงก์ยืนยันไปยังที่อยู่นี้: _8880_
+requests_loginnotverified_response2 === บัญชีของคุณได้รับการลงทะเบียนเรียบร้อยแล้ว ก่อนที่คุณจะสามารถใช้งานได้ คุณจะต้องยืนยันที่อยู่อีเมลของคุณ เราได้ส่งลิงก์ยืนยันไปยังที่อยู่นี้: _8880_
+requests_loginnotverified_responseunable === เราไม่สามารถส่งอีเมลยืนยันได้!
+requests_loginnotverified_emailtitle === ยินดีต้อนรับสู่ _8880_! ยืนยันที่อยู่อีเมลของบัญชีของคุณที่นี่
+requests_loginnotverified_emaildesc1 === สวัสดี!
+requests_loginnotverified_emaildesc2 === ขอขอบคุณที่สร้างบัญชีของคุณกับเรา โปรดยืนยันที่อยู่อีเมลของคุณโดยไปที่ลิงก์นี้:
+requests_loginnotverified_emaildesc3 === ขอขอบคุณ!
+form_adminsettings_authredi === การเปลี่ยนเส้นทางการตรวจสอบสิทธิ์
+form_adminsettings_authredidesc === เลือกตำแหน่งเปลี่ยนเส้นทางหลังจากรับรองความถูกต้องสำเร็จ
+form_adminsettings_authredihomepage === หน้าแรก
+form_adminsettings_authredidashboard === แผงควบคุม
+form_adminsettings_defaultcoun === ประเทศเริ่มต้น
+form_adminsettings_defaultcoundesc === เริ่มต้นประเทศที่เลือกในแบบฟอร์มการลงทะเบียนผู้ใช้
+form_adminsettings_defaulttimezo === เขตเวลาเริ่มต้น
+form_adminsettings_defaulttimezodesc === ค่าเริ่มต้นของเขตเวลาที่เลือกในแบบฟอร์มการลงทะเบียนผู้ใช้
+form_adminsettings_mailingtrig === ทริกเกอร์การส่งจดหมาย
+form_adminsettings_mailingtrigdesc === เลือกทริกเกอร์การส่งจดหมายเพื่อเปิดใช้งาน
+form_adminsettings_adminemail === อีเมลผู้ดูแลระบบ
+form_adminsettings_adminemaildesc === การส่งจดหมายสำหรับผู้ดูแลระบบจะถูกส่งไปยังที่อยู่อีเมลนี้ ข้อความเหล่านี้มีให้บริการเป็นภาษาอังกฤษเท่านั้นและไม่สามารถแปลได้
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === เมื่อเปิดใช้งาน recaptcha จะแสดงแบบฟอร์มการรับรองความถูกต้อง เช่น การลงทะเบียน เข้าสู่ระบบ และลืมรหัสผ่าน
+form_editdevice_receiveoptiontitle === รับ SMS
+form_editdevice_receiveoptiondesc === หากปิดใช้งาน ระบบจะไม่บันทึกข้อความที่ได้รับจากกล่องจดหมาย Android เว็บฮุคและเครื่องมืออื่นๆ ที่เกี่ยวข้องจะไม่ทำงานกับอุปกรณ์เมื่อปิดใช้
+form_editwhatsapp_receiveoptiontitle === รับแชท
+form_editwhatsapp_receiveoptiondesc === หากปิดใช้งาน ระบบจะไม่บันทึกแชทที่ได้รับจากบัญชี whatsapp Webhooks และเครื่องมืออื่นๆ ที่เกี่ยวข้องจะไม่ทำงานสำหรับบัญชี WhatsApp เมื่อปิดใช้งาน
+js_calendarall_option === ทั้งหมด
+js_calendarall_apply === นำมาใช้
+js_calendarall_cancel === ยกเลิก
+js_calendarall_from === จาก
+js_calendarall_to === ถึง
+js_calendarall_week === W
+js_calendarall_daysu === ซู
+js_calendarall_daymo === โม
+js_calendarall_daytu === ตู่
+js_calendarall_daywe === เรา
+js_calendarall_dayth === ไทย
+js_calendarall_dayfr === คุณพ่อ
+js_calendarall_daysa === ซา
+js_calendarall_monjan === มกราคม
+js_calendarall_monfeb === กุมภาพันธ์
+js_calendarall_monmar === มีนาคม
+js_calendarall_monapr === เมษายน
+js_calendarall_monmay === อาจ
+js_calendarall_monjun === มิถุนายน
+js_calendarall_monjul === กรกฎาคม
+js_calendarall_monaug === สิงหาคม
+js_calendarall_monsep === กันยายน
+js_calendarall_monoct === ตุลาคม
+js_calendarall_monnov === พฤศจิกายน
+js_calendarall_mondec === ธันวาคม
+response_ussddelete_success === คำขอ USSD ถูกลบแล้ว!
+response_titanecho_invaltoken === ข้อผิดพลาดในการกำหนดค่าระบบ!
+widgets_addplugin_loader === การติดตั้งปลั๊กอินใหม่ให้กับระบบ
+widgets_addwhatsapp_newmodal === เชื่อมต่อ WhatsApp ของคุณโดยคลิกปุ่มเพื่อแสดง QRCode จากนั้นสแกนผ่านปุ่ม _8880_ ในแอป คุณมีเวลาเพียง 15 วินาทีในการสแกน QRCode
+widgets_addwhatsapp_newmodal2 === _8880_ หมดอายุแล้ว หากบัญชีของคุณมีการเชื่อมโยงหรือไม่ โปรดคลิกปุ่มด้านล่าง
+widgets_addwhatsapp_newmodal3 === ดำเนินการต่อ
+widgets_addwhatsapp_newmodal4 === ยกเลิก
+datatable_addedtoclipboard === เพิ่มในคลิปบอร์ดแล้ว
+datatable_addedtoclipboardkeys === คลิกปุ่มคัดลอกเพื่อเพิ่มแถวที่แสดงลงในคลิปบอร์ด
+datatable_addedtoclipboardmulti === แถวที่คัดลอก:
+datatable_addedtoclipboardsingle === คัดลอกแล้ว 1 แถว
+table_details_schedulednewrepeat === ทำซ้ำ:
+and_edit_dev_line70_1_new === จำนวนเงินที่คุณต้องการเรียกเก็บต่อข้อความ ประเทศของอุปกรณ์จะถูกใช้เป็นฐานของสกุลเงิน รองรับค่าทศนิยมเช่นเซ็นต์
+widget_waquick_requireaccountnew1 === บัญชี WhatsApp
+requests_whatsapp_notavail === เซิร์ฟเวอร์ WhatsApp ไม่พร้อมใช้งาน!
+requests_whatsapp_unablegenqr === ไม่สามารถสร้าง WhatsApp QRCode ได้!
+requests_charts_commisionstitle === ค่าคอมมิชชั่น
+requests_token_refreshecho === โทเค็นสำหรับ _8880_ ได้รับการรีเฟรชแล้ว!
+requests_remote_smscampaignresumed === แคมเปญ SMS กลับมาทำงานอีกครั้ง!
+requests_remote_smscampaignpaused === แคมเปญ SMS ถูกหยุดชั่วคราว!
+requests_remote_wacampaignresumed === แคมเปญ WhatsApp กลับมาทำงานอีกครั้งแล้ว!
+requests_remote_wacampaignpaused === แคมเปญ WhatsApp ถูกหยุดชั่วคราว!
+requests_create_payoutwithdrawalamountatleast === จำนวนเงินที่ถอนควรเป็นอย่างน้อย _8880_ _8881_!
+requests_sms_intervaltypereachedmax === มีข้อความที่อนุญาต _8880_ ข้อความสำหรับอุปกรณ์นี้แล้ว โปรดลองอีกครั้งในภายหลัง!
+requests_sms_encounteredgatewayerror === เราพบข้อผิดพลาดของเกตเวย์!
+requests_sms_gatewaycannotsendowndevices === คุณไม่สามารถส่งข้อความพร้อมเครดิตโดยใช้อุปกรณ์ของคุณเองได้!
+requests_create_encounteredshortenererror === เราพบข้อผิดพลาดในการย่อ!
+requests_create_campaignnametooshort === ชื่อแคมเปญสั้นเกินไป!
+requests_sms_intervaltypedaily === รายวัน
+requests_sms_intervaltypemonthly === รายเดือน
+requests_sms_reachedmaximumsentpackage === คุณมีข้อความที่ส่งถึงจำนวนสูงสุดสำหรับแพ็คเกจปัจจุบันของคุณแล้ว!
+response_message_bulkqueuednew === _8880_ ข้อความถูกจัดคิวเพื่อส่ง!
+response_whatsapp_invalidmediafile === ไฟล์สื่อไม่ถูกต้อง!
+response_whatsapp_atleastonebutt === โปรดเพิ่มอย่างน้อยหนึ่งปุ่ม!
+response_whatsapp_invalidimagefile === ไฟล์ภาพไม่ถูกต้อง!
+response_whatsapp_listtitlereq === ต้องระบุชื่อรายการ!
+response_whatsapp_listmenureq === ต้องระบุชื่อเมนู!
+response_whatsapp_listformatreq === ต้องระบุรูปแบบรายการ!
+response_whatsapp_listformatinval === รูปแบบรายการไม่ถูกต้อง!
+response_whatsapp_tempformatreq === ต้องใช้รูปแบบเทมเพลต!
+response_whatsapp_tempformatinval === รูปแบบเทมเพลตไม่ถูกต้อง!
+response_whatsapp_failedchatsqueue === ไม่สามารถเพิ่มแชทในคิว WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ แชทถูกจัดคิวเพื่อส่ง!
+response_whatsapp_failedchatsqueuemany === ไม่สามารถเพิ่มการแชทในคิว WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === ขออภัย ไม่มีการแชทในคิว โปรดตรวจสอบขีดจำกัดการส่งพัสดุของคุณ!
+response_whatsapp_successfetchgroups === ดึงข้อมูล _8880_ กลุ่มสำเร็จแล้ว!
+response_whatsapp_nogroupsfoundfetch === ไม่พบกลุ่ม!
+response_partners_commisionerror === เปอร์เซ็นต์ค่าคอมมิชชั่นของพาร์ทเนอร์ต้องไม่ต่ำกว่า 1 และมากกว่า 80!
+response_delete_smsdeletecampaign === แคมเปญ SMS ถูกลบ!
+response_delete_wacampaigndeleted === แคมเปญ WhatsApp ถูกลบแล้ว!
+response_delete_wagroupdeleted === กลุ่ม WhatsApp ถูกลบแล้ว!
+table_smscampaign_createdtitle === สร้าง
+table_smscampaign_nametitle === ชื่อ
+table_smscampaign_gatewaytitle === ประตู
+table_smscampaign_contactstitle === ติดต่อ
+table_smscampaign_statustitle === สถานะ
+table_smscampaign_optionstitle === ตัวเลือก
+table_campaign_completedstatus === สมบูรณ์
+table_smscagmpaign_processingstatus === _8881_ ประมวลผลแล้ว _8881_ จาก _8881_ รายการ
+table_campaign_pausecampaign === หยุดแคมเปญนี้ชั่วคราว
+table_campaign_resumecampaign === ดำเนินแคมเปญนี้ต่อ
+table_smsscheduled_lastsendinfo === ส่งล่าสุด
+table_smstransac_createdtitle === สร้าง
+table_smstransac_sendertitle === ผู้ส่ง
+table_smstransac_devicetitle === อุปกรณ์
+table_smstransac_messagetitle === ข้อความ
+table_smstransac_earningstitle === รายได้
+table_smstransac_messageremoved === ข้อความถูกลบ!
+table_wacampaign_createdtitle === สร้าง
+table_wacampaign_nametitle === ชื่อ
+table_wacampaign_accounttitle === บัญชี
+table_wacampaign_typetitle === พิมพ์
+table_wacampaign_contactstitle === ติดต่อ
+table_wacampaign_statustitle === สถานะ
+table_wacampaign_optionstitle === ตัวเลือก
+table_wacampaign_processingstatus === _8881_ ประมวลผลแล้ว _8881_ จาก _8881_ รายการ
+table_wascheduled_lastsendinfo === ส่งล่าสุด
+table_campaign_pendingstatus === รอดำเนินการ
+table_wagroups_nametitle === ชื่อ
+table_wagroups_accounttitle === บัญชี
+table_wagroups_addresstitle === ที่อยู่กลุ่ม
+table_wagroups_optionstitle === ตัวเลือก
+table_waaccounts_statustitle === สถานะ
+table_waaccounts_statusconnected === เชื่อมต่อแล้ว
+table_waaccounts_statusconnecting === กำลังเชื่อมต่อ
+table_waaccounts_statusdisconnecting === กำลังตัดการเชื่อมต่อ
+table_waaccounts_statusdisconnected === ตัดการเชื่อมต่อ
+table_waaccounts_statuserror === ข้อผิดพลาด
+table_waaccounts_copyaccountid === คัดลอกรหัสบัญชี
+table_android_brandtitle === ยี่ห้อ
+table_android_partnertitle === พันธมิตร
+table_android_statustitle === สถานะ
+table_android_statusonline === ออนไลน์
+table_android_statusoffline === ออฟไลน์
+table_android_copydeviceid === คัดลอก ID เฉพาะของอุปกรณ์
+table_partnerrates_devicename === ชื่ออุปกรณ์
+widget_fetchgroups_titlefetch === ดึงข้อมูลกลุ่ม
+widget_fetchgroups_loaderfetch === กำลังดึงกลุ่มจากบัญชี
+pages_admin_tokenrefreshbutt === โทเค็น
+pages_admin_tokenrefreshbutthelp === รีเฟรชโทเค็นการสื่อสารของซ็อกเก็ต หากระบบไม่แสดงการแจ้งเตือน Live Toast ใดๆ หรือไม่อัปเดตแบบเรียลไทม์ โปรดคลิกปุ่มนี้
+pages_admin_cachehelp === ล้างแคชของระบบทั้งหมด คำเตือน! การดำเนินการนี้จะล้างแคชที่เกี่ยวข้องกับ API การตรวจสอบสิทธิ์และการชำระเงินด้วย ขอแนะนำให้ทำเช่นนี้เมื่ออัพเกรดระบบเท่านั้น
+pages_admin_themehelp === แก้ไขเทมเพลตและการออกแบบของไซต์
+pages_admin_systemsettingshelp === ปรับการตั้งค่าระบบที่สำคัญ
+pages_sms_campaignstab === แคมเปญ
+pages_sms_partnertransactions === ธุรกรรม
+pages_whatsapp_campaignstab === แคมเปญ
+pages_whatsapp_groupstab === กลุ่ม
+forms_repeatdays_title === ทำซ้ำวัน
+forms_repeatdays_tagline === ป้อนจำนวนวันที่จะรอจนกว่าจะส่งข้อความซ้ำ ป้อน 365 เพื่อทำซ้ำทุกปีในเดือน วัน และเวลาเดียวกัน ถ้าไม่เช่นนั้นจะเป็นไปตามเวลาเท่านั้น ป้อน 0 เพื่อปิดใช้งานการทำซ้ำ
+forms_whatsapp_messagetype === ประเภทข้อความ
+forms_whatsapp_messagetypehelp === เลือกประเภทข้อความ WhatsApp
+forms_whatsapp_typetext === ข้อความ
+forms_whatsapp_typemedia === สื่อ
+forms_whatsapp_typebutton === ปุ่ม
+forms_whatsapp_typelist === รายการ
+forms_whatsapp_typetemplate === แม่แบบ
+forms_whatsapp_mediafile === ไฟล์สื่อ
+forms_whatsapp_mediafilehelp === ไฟล์สื่อ ไฟล์สื่อที่จะอัพโหลด รองรับไฟล์ .jpg, .png, .gif และ .mp4
+forms_whatsapp_imagefile === ไฟล์ภาพ
+forms_whatsapp_imagefilehelp === ไฟล์รูปภาพที่กำหนดเอง เป็นตัวเลือก
+forms_whatsapp_buttons === ปุ่ม
+forms_whatsapp_buttonshelp === ปุ่มกำหนดเอง จำเป็นต้องมีปุ่มแรก
+forms_whatsapp_buttonsplace1 === ปุ่ม 1
+forms_whatsapp_buttonsplace2 === ปุ่ม 2 (ไม่บังคับ)
+forms_whatsapp_buttonsplace3 === ปุ่ม 3 (ไม่บังคับ)
+forms_whatsapp_listtitle === ชื่อรายการ
+forms_whatsapp_listtitlehelp === นี่คือชื่อรายการ
+forms_whatsapp_listplacetitle === รายการของฉัน
+forms_whatsapp_listmenutitle === ชื่อเมนู
+forms_whatsapp_listmenutitlehelp === นี่คือชื่อเมนู
+forms_whatsapp_listmenutitleplace === ชื่อเมนู
+forms_whatsapp_footermessage === ข้อความส่วนท้าย
+forms_whatsapp_footermessagehelp === ข้อความส่วนท้ายแบบกำหนดเอง นี่เป็นทางเลือก
+forms_whatsapp_footermessageplace === นี่คือข้อความส่วนท้าย...
+forms_whatsapp_listformat === รายการรูปแบบ
+forms_whatsapp_listformathelp === นี่คือรูปแบบรายการ โดย json ที่ให้มาจะต้องถูกต้อง
+forms_whatsapp_templateformat === รูปแบบเทมเพลต
+forms_whatsapp_templateformathelp === นี่คือรูปแบบเทมเพลต json ที่ให้มาจะต้องถูกต้อง
+and_settings_line159new === โทเค็นนี้ต้องไม่แชร์กับใคร ใช้เพื่อความปลอดภัยของ cronjobs, API ระบบ, คำขอ WhatsApp และคำขอภายนอกอื่น ๆ หากคุณคิดว่าโทเค็นระบบของคุณถูกบุกรุก โปรดสร้างใหม่ คุณจะต้องกำหนดค่า cronjobs, API ของระบบ และการตั้งค่าอื่น ๆ ที่เกี่ยวข้องใหม่หลังจากสร้างโทเค็นใหม่ สิ่งนี้จะส่งผลต่อระบบ WhatsApp ด้วย บัญชีที่เชื่อมต่อทั้งหมดจะไม่ทำงานอีกต่อไป
+forms_systemsettings_servicestitle === บริการ
+forms_systemsettings_waserver === URL เซิร์ฟเวอร์ WhatsApp
+forms_systemsettings_waserverhelp === URL ของเซิร์ฟเวอร์ WhatsApp ของคุณ คุณต้องโฮสต์สิ่งนี้บนเซิร์ฟเวอร์ของคุณเอง โปรดอ่านเอกสารสำหรับคำแนะนำในการตั้งค่า
+forms_systemsettings_waport === พอร์ตเซิร์ฟเวอร์ WhatsApp
+forms_systemsettings_waporthelp === พอร์ตของเซิร์ฟเวอร์ WhatsApp ของคุณ พอร์ตเริ่มต้นคือ 7001 โปรดอ่านเอกสารสำหรับคำแนะนำในการตั้งค่า
+forms_systemsettings_messagestitle === ข้อความ
+forms_systemsettings_partnercommission === ค่าคอมมิชชั่นพันธมิตร
+forms_systemsettings_partnercommissionhelp === เปอร์เซ็นต์ของค่าคอมมิชชั่นที่คุณต้องการหักออกจากรายได้ของพันธมิตรสำหรับแต่ละข้อความที่ส่ง นี่จะเป็นเงินของคุณและจะแสดงในสถิติในแผงการดูแลระบบ เปอร์เซ็นต์ต้องไม่ต่ำกว่า 1 และมากกว่า 80!
+forms_systemsettings_partnerminimum === การจ่ายเงินขั้นต่ำของพันธมิตร
+forms_systemsettings_partnerminimumhelp === จำนวนรายได้ขั้นต่ำที่สามารถขอถอนได้ จำนวนเงินนี้จะใช้สกุลเงินเริ่มต้นของระบบซึ่งเท่ากับรายได้
+forms_editdevice_sendinglimittitle === ขีดจำกัดการส่ง
+forms_editdevice_limitstatus === สถานะจำกัด
+forms_editdevice_limitstatushelp === หากเปิดใช้งาน จำนวนข้อความที่อนุญาตที่ส่งโดยใช้อุปกรณ์นี้จะถูกจำกัดต่อวันหรือเดือน
+forms_editdevice_limitinterv === ช่วงเวลาจำกัด
+forms_editdevice_limitintervhelp === เลือกประเภทของการหน่วงเวลาก่อนรีเฟรชตัวนับขีดจำกัด
+forms_editdevice_messagecount === จำนวนข้อความ
+forms_editdevice_messagecounthelp === จำนวนข้อความที่สามารถส่งได้ในช่วงเวลาจำกัด
+forms_editdevice_limitintervselect1 === รายวัน
+forms_editdevice_limitintervselect2 === รายเดือน
+forms_editdevice_partnerstatus === สถานะพันธมิตร
+forms_edituser_clockformat === รูปแบบนาฬิกา
+forms_edituser_clockformathelp === เลือกรูปแบบนาฬิกาที่จะใช้เมื่อแสดงเวลาได้ทุกที่ในระบบ
+forms_edituser_clockformatselect1 === 12 ชั่วโมง
+forms_edituser_clockformatselect2 === 24 ชั่วโมง
+forms_edituser_dateformat === รูปแบบวันที่
+forms_edituser_dateformathelp === เลือกรูปแบบวันที่ที่จะใช้เมื่อแสดงวันที่ที่ใดก็ได้ในระบบ
+forms_edituser_dateseparator === ตัวคั่นวันที่
+forms_edituser_dateseparatorhelp === เลือกตัวคั่นวันที่ที่จะใช้เมื่อแสดงวันที่ที่ใดก็ได้ในระบบ
+forms_campagin_formname === ชื่อแคมเปญ
+forms_campagin_formhelp === ชื่อแคมเปญ บันทึกกิจกรรมจะถูกสร้างขึ้นสำหรับข้อความจำนวนมากเหล่านี้ คุณจะสามารถหยุดการส่งผ่านตัวจัดการแคมเปญได้อย่างง่ายดาย
+forms_campaign_formplaceholder === เช่น. ตัวอย่างแคมเปญ
+forms_whatsapp_numbersgroupsname === เบอร์หรือที่อยู่กลุ่ม
+forms_whatsapp_numbersgroupshelp === หมายเลข E.164 และที่อยู่กลุ่ม WhatsApp หลายรายการคั่นด้วยการขึ้นบรรทัดใหม่
+forms_whatsapp_groupsimportname === บัญชี WhatsApp
+forms_whatsapp_groupsimportnamehelp === เลือกบัญชี whatsapp ที่จะดึงข้อมูลกลุ่ม
+forms_whatsapp_groupsimportbutton === ดึงข้อมูล
+forms_whatsapp_phonegroupsname === หมายเลขโทรศัพท์หรือที่อยู่กลุ่ม
+forms_whatsapp_phonegroupshelp === E.164 หมายเลขโทรศัพท์ผู้รับหรือที่อยู่กลุ่ม WhatsApp
+pages_administration_commissionstitle === ค่าคอมมิชชั่น
+pages_smscampaigns_header === แคมเปญ
+pages_smstransactions_header === ธุรกรรม
+pages_smstransactions_comtagline === SMS ทั้งหมดที่ส่งโดยใช้อุปกรณ์ของพันธมิตรมีค่าธรรมเนียมการทำธุรกรรม _8880_% ซึ่งได้หักไปแล้วในตารางต่อไปนี้
+pages_wacampaigns_header === แคมเปญ
+pages_wagroups_header === กลุ่ม
+pages_wagroups_fetchbtn === ดึงข้อมูลกลุ่ม
+tables_plugins_noactionsline === ไม่มีการดำเนินการ
+plugin_header_selectmethod === เลือกวิธีการชำระเงิน
+title_plugin_paymentpage === หน้าชำระเงิน
+payment_title_pending === คำสั่งซื้อที่รอดำเนินการ
+btn_plugin_cancelorderpayment === ยกเลิกการชำระเงิน
+payment_title_orderfailed === การสั่งซื้อล้มเหลว
+payment_page_orderfailed === เกิดข้อผิดพลาดขณะประมวลผลคำขอสั่งซื้อของคุณ
+and_rate_gate_3new === _888_ อัตรา
+and_rate_gate_idname === ไอดี: _8880_
+table_ratespartners_optionstitle === ตัวเลือก

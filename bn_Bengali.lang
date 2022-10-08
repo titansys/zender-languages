@@ -2405,3 +2405,194 @@ js_calendarall_mondec === ডিসেম্বর
 response_ussddelete_success === USSD অনুরোধ মুছে ফেলা হয়েছে!
 response_titanecho_invaltoken === সিস্টেম কনফিগারেশন ত্রুটি!
 widgets_addplugin_loader === সিস্টেমে নতুন প্লাগইন ইনস্টল করা হচ্ছে
+widgets_addwhatsapp_newmodal === QRCode প্রদর্শন করতে বোতামে ক্লিক করে আপনার WhatsApp সংযুক্ত করুন তারপর অ্যাপে _8880_ বোতামের মাধ্যমে স্ক্যান করুন। QRCode স্ক্যান করার জন্য আপনার কাছে মাত্র 15 সেকেন্ড আছে।
+widgets_addwhatsapp_newmodal2 === _8880_ মেয়াদ শেষ হয়ে গেছে, যদি আপনার অ্যাকাউন্ট লিঙ্ক করা হয়, বা না হয়, অনুগ্রহ করে নীচের বোতামে ক্লিক করুন।
+widgets_addwhatsapp_newmodal3 === চালিয়ে যান
+widgets_addwhatsapp_newmodal4 === বাতিল করুন
+datatable_addedtoclipboard === ক্লিপবোর্ডে যোগ করা হয়েছে
+datatable_addedtoclipboardkeys === ক্লিপবোর্ডে প্রদর্শিত সারি যোগ করতে অনুলিপি বোতামে ক্লিক করুন।
+datatable_addedtoclipboardmulti === সারি অনুলিপি করা হয়েছে:
+datatable_addedtoclipboardsingle === ১টি সারি কপি করা হয়েছে
+table_details_schedulednewrepeat === পুনরাবৃত্তি:
+and_edit_dev_line70_1_new === আপনি প্রতি বার্তায় যে পরিমাণ চার্জ করতে চান, ডিভাইসের দেশ মুদ্রার ভিত্তি হিসাবে ব্যবহার করা হবে। ফ্লোট মানগুলিও সমর্থিত যেমন সেন্ট।
+widget_waquick_requireaccountnew1 === হোয়াটসঅ্যাপ অ্যাকাউন্ট
+requests_whatsapp_notavail === হোয়াটসঅ্যাপ সার্ভার অনুপলব্ধ!
+requests_whatsapp_unablegenqr === WhatsApp QRCode তৈরি করতে অক্ষম!
+requests_charts_commisionstitle === কমিশন
+requests_token_refreshecho === _8880_ এর টোকেন রিফ্রেশ করা হয়েছে!
+requests_remote_smscampaignresumed === আবার শুরু হয়েছে এসএমএস ক্যাম্পেইন!
+requests_remote_smscampaignpaused === এসএমএস প্রচার বন্ধ করা হয়েছে!
+requests_remote_wacampaignresumed === হোয়াটসঅ্যাপ প্রচার আবার শুরু!
+requests_remote_wacampaignpaused === হোয়াটসঅ্যাপ প্রচারে বিরতি দেওয়া হয়েছে!
+requests_create_payoutwithdrawalamountatleast === উত্তোলনের পরিমাণ কমপক্ষে _8880_ _8881_ হতে হবে!
+requests_sms_intervaltypereachedmax === এই ডিভাইসের জন্য _8880_ অনুমোদিত বার্তা পৌঁছে গেছে, অনুগ্রহ করে পরে আবার চেষ্টা করুন!
+requests_sms_encounteredgatewayerror === আমরা একটি গেটওয়ে ত্রুটির সম্মুখীন হয়েছি!
+requests_sms_gatewaycannotsendowndevices === আপনি আপনার নিজস্ব ডিভাইস ব্যবহার করে ক্রেডিট সহ বার্তা পাঠাতে পারবেন না!
+requests_create_encounteredshortenererror === আমরা একটি সংক্ষিপ্ত ত্রুটির সম্মুখীন হয়েছি!
+requests_create_campaignnametooshort === প্রচারণার নাম খুব ছোট!
+requests_sms_intervaltypedaily === দৈনিক
+requests_sms_intervaltypemonthly === মাসিক
+requests_sms_reachedmaximumsentpackage === আপনি আপনার বর্তমান প্যাকেজের জন্য সর্বাধিক পাঠানো বার্তা পৌঁছেছেন!
+response_message_bulkqueuednew === _8880_ বার্তা পাঠানোর জন্য সারিবদ্ধ করা হয়েছে!
+response_whatsapp_invalidmediafile === অবৈধ মিডিয়া ফাইল!
+response_whatsapp_atleastonebutt === অন্তত একটি বোতাম যোগ করুন!
+response_whatsapp_invalidimagefile === অবৈধ ইমেজ ফাইল!
+response_whatsapp_listtitlereq === তালিকার শিরোনাম প্রয়োজন!
+response_whatsapp_listmenureq === তালিকা মেনু শিরোনাম প্রয়োজন!
+response_whatsapp_listformatreq === তালিকা বিন্যাস প্রয়োজন!
+response_whatsapp_listformatinval === তালিকা বিন্যাস অবৈধ!
+response_whatsapp_tempformatreq === টেমপ্লেট বিন্যাস প্রয়োজন!
+response_whatsapp_tempformatinval === টেমপ্লেট বিন্যাস অবৈধ!
+response_whatsapp_failedchatsqueue === WhatsApp সারিতে চ্যাট যোগ করা ব্যর্থ হয়েছে!
+response_whatsapp_bulkchatssentcount === _8880_ চ্যাট পাঠানোর জন্য সারিবদ্ধ করা হয়েছে!
+response_whatsapp_failedchatsqueuemany === WhatsApp সারিতে চ্যাট যোগ করতে ব্যর্থ!
+response_whatsapp_nochatsqueuedpacklimit === দুঃখিত, কোন চ্যাট সারিবদ্ধ ছিল না. আপনার প্যাকেজ পাঠানোর সীমা চেক করুন!
+response_whatsapp_successfetchgroups === সফলভাবে _8880_ গ্রুপ আনা হয়েছে!
+response_whatsapp_nogroupsfoundfetch === কোন দল পাওয়া যায়নি!
+response_partners_commisionerror === অংশীদার কমিশন শতাংশ 1 এর কম এবং 80 এর বেশি হতে পারে না!
+response_delete_smsdeletecampaign === এসএমএস প্রচারাভিযান মুছে ফেলা হয়েছে!
+response_delete_wacampaigndeleted === হোয়াটসঅ্যাপ প্রচার মুছে ফেলা হয়েছে!
+response_delete_wagroupdeleted === হোয়াটসঅ্যাপ গ্রুপ মুছে ফেলা হয়েছে!
+table_smscampaign_createdtitle === তৈরি হয়েছে
+table_smscampaign_nametitle === নাম
+table_smscampaign_gatewaytitle === প্রবেশপথ
+table_smscampaign_contactstitle === পরিচিতি
+table_smscampaign_statustitle === স্ট্যাটাস
+table_smscampaign_optionstitle === অপশন
+table_campaign_completedstatus === সম্পন্ন
+table_smscagmpaign_processingstatus === _8881_ এর _8880_ প্রক্রিয়া করা হয়েছে
+table_campaign_pausecampaign === এই প্রচারাভিযান থামান
+table_campaign_resumecampaign === এই প্রচারণা পুনরায় শুরু করুন
+table_smsscheduled_lastsendinfo === শেষ পাঠান
+table_smstransac_createdtitle === তৈরি হয়েছে
+table_smstransac_sendertitle === প্রেরক
+table_smstransac_devicetitle === যন্ত্র
+table_smstransac_messagetitle === বার্তা
+table_smstransac_earningstitle === আয়
+table_smstransac_messageremoved === বার্তা মুছে ফেলা হয়েছে!
+table_wacampaign_createdtitle === তৈরি হয়েছে
+table_wacampaign_nametitle === নাম
+table_wacampaign_accounttitle === হিসাব
+table_wacampaign_typetitle === টাইপ
+table_wacampaign_contactstitle === পরিচিতি
+table_wacampaign_statustitle === স্ট্যাটাস
+table_wacampaign_optionstitle === অপশন
+table_wacampaign_processingstatus === _8881_ এর _8880_ প্রক্রিয়া করা হয়েছে
+table_wascheduled_lastsendinfo === শেষ পাঠান
+table_campaign_pendingstatus === বিচারাধীন
+table_wagroups_nametitle === নাম
+table_wagroups_accounttitle === হিসাব
+table_wagroups_addresstitle === গ্রুপ ঠিকানা
+table_wagroups_optionstitle === অপশন
+table_waaccounts_statustitle === স্ট্যাটাস
+table_waaccounts_statusconnected === সংযুক্ত
+table_waaccounts_statusconnecting === সংযোগ করা হচ্ছে
+table_waaccounts_statusdisconnecting === সংযোগ বিচ্ছিন্ন করা হচ্ছে
+table_waaccounts_statusdisconnected === সংযোগ বিচ্ছিন্ন
+table_waaccounts_statuserror === ত্রুটি
+table_waaccounts_copyaccountid === অ্যাকাউন্ট আইডি কপি করুন
+table_android_brandtitle === ব্র্যান্ড
+table_android_partnertitle === অংশীদার
+table_android_statustitle === স্ট্যাটাস
+table_android_statusonline === অনলাইন
+table_android_statusoffline === অফলাইন
+table_android_copydeviceid === ডিভাইসের অনন্য আইডি কপি করুন
+table_partnerrates_devicename === ডিভাইসের নাম
+widget_fetchgroups_titlefetch === গোষ্ঠীগুলি আনুন৷
+widget_fetchgroups_loaderfetch === অ্যাকাউন্ট থেকে গ্রুপ আনা হচ্ছে
+pages_admin_tokenrefreshbutt === টোকেন
+pages_admin_tokenrefreshbutthelp === সকেট যোগাযোগ টোকেন রিফ্রেশ করুন। যদি সিস্টেম কোনো লাইভ টোস্ট বিজ্ঞপ্তি প্রদর্শন না করে বা রিয়েলটাইমে আপডেট না করে, অনুগ্রহ করে এই বোতামটি ক্লিক করুন।
+pages_admin_cachehelp === পুরো সিস্টেম ক্যাশে সাফ করুন। সতর্কতা ! এটি API, প্রমাণীকরণ এবং অর্থপ্রদান সম্পর্কিত ক্যাশেও সাফ করবে। সিস্টেম আপগ্রেড করার সময় শুধুমাত্র এটি করার পরামর্শ দেওয়া হয়।
+pages_admin_themehelp === সাইট টেমপ্লেট এবং ডিজাইন পরিবর্তন করুন।
+pages_admin_systemsettingshelp === গুরুত্বপূর্ণ সিস্টেম সেটিংস সামঞ্জস্য করুন।
+pages_sms_campaignstab === প্রচারণা
+pages_sms_partnertransactions === লেনদেন
+pages_whatsapp_campaignstab === প্রচারণা
+pages_whatsapp_groupstab === গোষ্ঠী
+forms_repeatdays_title === পুনরাবৃত্তি দিন
+forms_repeatdays_tagline === বারবার মেসেজ পাঠানো পর্যন্ত কত দিন অপেক্ষা করতে হবে তা লিখুন। প্রতি বছর একই মাস, দিন এবং সময়ে পুনরাবৃত্তি করতে 365 লিখুন, যদি না হয় তবে এটি শুধুমাত্র সময় অনুসরণ করবে। পুনরাবৃত্তি নিষ্ক্রিয় করতে 0 লিখুন।
+forms_whatsapp_messagetype === বার্তার ধরন
+forms_whatsapp_messagetypehelp === হোয়াটসঅ্যাপ বার্তার ধরন নির্বাচন করুন।
+forms_whatsapp_typetext === পাঠ্য
+forms_whatsapp_typemedia === মিডিয়া
+forms_whatsapp_typebutton === বোতাম
+forms_whatsapp_typelist === তালিকা
+forms_whatsapp_typetemplate === টেমপ্লেট
+forms_whatsapp_mediafile === মিডিয়া ফাইল
+forms_whatsapp_mediafilehelp === মিডিয়া ফাইল, মিডিয়া ফাইল আপলোড করতে হবে। .jpg, .png, .gif এবং .mp4 ফাইল সমর্থন করে।
+forms_whatsapp_imagefile === ইমেজ ফাইল
+forms_whatsapp_imagefilehelp === কাস্টম ইমেজ ফাইল, এটি ঐচ্ছিক.
+forms_whatsapp_buttons === বোতাম
+forms_whatsapp_buttonshelp === কাস্টম বোতাম, প্রথম বোতাম প্রয়োজন.
+forms_whatsapp_buttonsplace1 === বোতাম 1
+forms_whatsapp_buttonsplace2 === বোতাম 2 (ঐচ্ছিক)
+forms_whatsapp_buttonsplace3 === বোতাম 3 (ঐচ্ছিক)
+forms_whatsapp_listtitle === তালিকার শিরোনাম
+forms_whatsapp_listtitlehelp === এই তালিকা শিরোনাম.
+forms_whatsapp_listplacetitle === আমার তালিকা
+forms_whatsapp_listmenutitle === মেনু শিরোনাম
+forms_whatsapp_listmenutitlehelp === এই মেনু শিরোনাম.
+forms_whatsapp_listmenutitleplace === মেনু শিরোনাম
+forms_whatsapp_footermessage === ফুটার বার্তা
+forms_whatsapp_footermessagehelp === কাস্টম ফুটার বার্তা, এটি ঐচ্ছিক।
+forms_whatsapp_footermessageplace === এটি ফুটার বার্তা...
+forms_whatsapp_listformat === তালিকা বিন্যাস
+forms_whatsapp_listformathelp === এটি তালিকা বিন্যাস, সরবরাহ করা json অবশ্যই বৈধ হতে হবে।
+forms_whatsapp_templateformat === টেমপ্লেট বিন্যাস
+forms_whatsapp_templateformathelp === এটি টেমপ্লেট বিন্যাস, সরবরাহ করা json অবশ্যই বৈধ হতে হবে।
+and_settings_line159new === এই টোকেন কারো সাথে শেয়ার করা উচিত নয়। এটি ক্রোনজব, সিস্টেম API, হোয়াটসঅ্যাপ অনুরোধ এবং অন্যান্য বহিরাগত অনুরোধগুলির নিরাপত্তার জন্য ব্যবহৃত হয়। আপনি যদি মনে করেন, আপনার সিস্টেম টোকেনটি আপস করা হয়েছে, অনুগ্রহ করে একটি নতুন টোকেন পুনরুত্পাদন করুন, একটি নতুন টোকেন পুনরুত্থিত করার পরে আপনাকে আপনার ক্রোনজবস, সিস্টেম API এবং অন্যান্য সম্পর্কিত সেটিংস পুনরায় কনফিগার করতে হবে৷ এটি হোয়াটসঅ্যাপ সিস্টেমকেও প্রভাবিত করবে, সমস্ত সংযুক্ত অ্যাকাউন্ট আর কাজ করবে না।
+forms_systemsettings_servicestitle === সেবা
+forms_systemsettings_waserver === হোয়াটসঅ্যাপ সার্ভার URL
+forms_systemsettings_waserverhelp === আপনার হোয়াটসঅ্যাপ সার্ভারের URL, আপনাকে এটি আপনার নিজের সার্ভারে হোস্ট করতে হবে। সেটআপ নির্দেশাবলীর জন্য ডকুমেন্টেশন পড়ুন.
+forms_systemsettings_waport === হোয়াটসঅ্যাপ সার্ভার পোর্ট
+forms_systemsettings_waporthelp === আপনার WhatsApp সার্ভারের পোর্ট, ডিফল্ট পোর্ট হল 7001। সেটআপ নির্দেশাবলীর জন্য অনুগ্রহ করে ডকুমেন্টেশন পড়ুন।
+forms_systemsettings_messagestitle === বার্তা
+forms_systemsettings_partnercommission === অংশীদার কমিশন
+forms_systemsettings_partnercommissionhelp === প্রেরিত প্রতিটি বার্তার জন্য অংশীদারদের উপার্জন থেকে আপনি কত শতাংশ কমিশন কাটাতে চান। এটি আপনার অর্থ হবে এবং অ্যাডমিন প্যানেলে পরিসংখ্যানে প্রদর্শিত হবে৷ শতাংশ 1 এর কম এবং 80 এর বেশি হওয়া উচিত নয়!
+forms_systemsettings_partnerminimum === অংশীদার ন্যূনতম পেআউট
+forms_systemsettings_partnerminimumhelp === প্রত্যাহারের জন্য অনুরোধ করতে সক্ষম হওয়ার জন্য ন্যূনতম উপার্জনের পরিমাণ। এই পরিমাণটি ডিফল্ট সিস্টেম মুদ্রাও ব্যবহার করবে যা উপার্জনের সাথে একই।
+forms_editdevice_sendinglimittitle === পাঠানোর সীমা
+forms_editdevice_limitstatus === সীমা স্থিতি
+forms_editdevice_limitstatushelp === যদি সক্ষম করা থাকে, তাহলে এই ডিভাইসটি ব্যবহার করে পাঠানো বার্তার অনুমোদিত সংখ্যা প্রতিদিন বা মাসে সীমিত হবে৷
+forms_editdevice_limitinterv === সীমা ব্যবধান
+forms_editdevice_limitintervhelp === সীমা কাউন্টার রিফ্রেশ করার আগে বিলম্বের ধরন নির্বাচন করুন।
+forms_editdevice_messagecount === বার্তার সংখ্যা
+forms_editdevice_messagecounthelp === সীমার ব্যবধানে যত বার্তা পাঠানো যেতে পারে।
+forms_editdevice_limitintervselect1 === দৈনিক
+forms_editdevice_limitintervselect2 === মাসিক
+forms_editdevice_partnerstatus === পার্টনার স্ট্যাটাস
+forms_edituser_clockformat === ঘড়ি বিন্যাস
+forms_edituser_clockformathelp === সিস্টেমের যেকোনো জায়গায় সময় প্রদর্শন করার সময় ব্যবহার করার জন্য ঘড়ির বিন্যাসটি নির্বাচন করুন।
+forms_edituser_clockformatselect1 === 1 ২ ঘণ্টা
+forms_edituser_clockformatselect2 === ২ 4 ঘন্টা
+forms_edituser_dateformat === তারিখ বিন্যাস
+forms_edituser_dateformathelp === সিস্টেমের যেকোনো জায়গায় তারিখ প্রদর্শন করার সময় ব্যবহার করার জন্য তারিখ বিন্যাস নির্বাচন করুন।
+forms_edituser_dateseparator === তারিখ বিভাজক
+forms_edituser_dateseparatorhelp === সিস্টেমের যেকোনো স্থানে তারিখ প্রদর্শন করার সময় ব্যবহার করার জন্য তারিখ বিভাজক নির্বাচন করুন।
+forms_campagin_formname === প্রচারাভিযান নাম
+forms_campagin_formhelp === প্রচারাভিযানের নাম, এই বাল্ক বার্তাগুলির জন্য একটি কার্যকলাপ লগ তৈরি করা হবে, আপনি প্রচারাভিযান পরিচালকের মাধ্যমে সহজেই প্রেরণ বন্ধ করতে সক্ষম হবেন।
+forms_campaign_formplaceholder === যেমন নমুনা প্রচারণা
+forms_whatsapp_numbersgroupsname === নম্বর বা গ্রুপ ঠিকানা
+forms_whatsapp_numbersgroupshelp === একাধিক E.164 নম্বর এবং হোয়াটসঅ্যাপ গ্রুপের ঠিকানা লাইন বিরতির মাধ্যমে আলাদা করা হয়েছে।
+forms_whatsapp_groupsimportname === হোয়াটসঅ্যাপ অ্যাকাউন্ট
+forms_whatsapp_groupsimportnamehelp === হোয়াটসঅ্যাপ অ্যাকাউন্ট নির্বাচন করুন যেখানে গোষ্ঠীগুলি আনা হবে।
+forms_whatsapp_groupsimportbutton === আনুন
+forms_whatsapp_phonegroupsname === ফোন বা গ্রুপ ঠিকানা
+forms_whatsapp_phonegroupshelp === E.164 প্রাপকের ফোন নম্বর বা হোয়াটসঅ্যাপ গ্রুপ ঠিকানা।
+pages_administration_commissionstitle === কমিশন
+pages_smscampaigns_header === প্রচারণা
+pages_smstransactions_header === লেনদেন
+pages_smstransactions_comtagline === অংশীদার ডিভাইসগুলি ব্যবহার করে পাঠানো সমস্ত SMS-এর একটি _8880_% লেনদেন ফি রয়েছে৷ এটি ইতিমধ্যে নিম্নলিখিত সারণীতে কাটা হয়েছে।
+pages_wacampaigns_header === প্রচারণা
+pages_wagroups_header === গোষ্ঠী
+pages_wagroups_fetchbtn === গোষ্ঠীগুলি আনুন৷
+tables_plugins_noactionsline === কোনো অ্যাকশন নেই
+plugin_header_selectmethod === পেমেন্ট পদ্ধতি নির্বাচন করুন
+title_plugin_paymentpage === পেমেন্ট পৃষ্ঠা
+payment_title_pending === অর্ডার পেন্ডিং
+btn_plugin_cancelorderpayment === পেমেন্ট বাতিল করুন
+payment_title_orderfailed === অর্ডার ব্যর্থ হয়েছে
+payment_page_orderfailed === আপনার অর্ডার অনুরোধ প্রক্রিয়া করার সময় কিছু ভুল হয়েছে.
+and_rate_gate_3new === _8880_ রেট
+and_rate_gate_idname === আইডি: _8880_
+table_ratespartners_optionstitle === অপশন

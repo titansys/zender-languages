@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === Naber
+and_dashboard_modules_header_line45 === Admin Paneli
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === zamanlanmış
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Bildirimler
+and_dashboard_pages_android_line58 === cihazlar
+and_dashboard_pages_contacts_line40 === abonelikten çıktı
+and_dashboard_pages_defailt_line37 === Ağ Geçidi Oranları
+and_dashboard_pages_default_line42 === Dokümanlar
+and_dashboard_pages_default_line58 === Mesajlar
+and_dashboard_pages_default_line60 === Son 7 gün
+and_dashboard_pages_default_line74 === Olaylar
+and_dashboard_pages_default_line76 === Son 7 gün
+and_dashboard_pages_default_line90 === Araçlar
+and_dashboard_pages_default_line92 === Son 7 gün
+and_dashboard_pages_default_line109 === Ortaklar
+and_dashboard_pages_default_line117 === Kazanç
+and_dashboard_pages_default_line131 === ödeme
+and_dashboard_pages_default_line140 === Denge
+and_dashboard_pages_default_line148 === Kredi
+and_dashboard_pages_default_line162 === tamamla
+and_dashboard_pages_default_line170 === Teslimat Oranı
+and_dash_pg_def_line178 === Başarı
+and_dash_pg_def_line190 === Arızalı
+and_dash_pg_def_line204 === gönderenler
+and_dash_pg_def_line209 === Premium paketlerimizin hiçbirine abone değilsiniz!
+and_dash_pg_def_line217 === cihazlar
+and_dash_pg_def_line224 === bağlantılı
+and_dash_pg_def_line232 === hesaplar
+and_dash_pg_def_line239 === bağlantılı
+and_dash_pg_def_line250 === En iyi kullanıcı deneyimini elde etmek için resmi uygulamamızı indirin ve yükleyin
+and_dash_pg_doc_line10 === Belgeler
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Web kancaları
+and_dash_pg_doc_line40 === Hareketler
+and_dash_pg_doc_line46 === cihazlar
+and_dash_pg_doc_line52 === ortaklık
+and_dash_pg_for_line29 === İptal
+and_dash_pg_log_line14 === Facebook ile giriş
+and_dash_pg_log_line17 === Google ile giriş yapın
+and_dash_pg_log_line20 === VKontakte ile giriş yapın
+and_dash_pg_log_line54 === Hesap oluştur
+and_dash_pg_pay_line45 === Sipariş talebinizi aldık, sistemimiz size otomatik olarak bir e-posta gönderecek ve ödeme işlemi doğrulandıktan sonra değişiklikleri hesabınıza uygulayacaktır.
+and_dash_pg_rates_line10 === Ağ Geçidi Oranları
+and_dash_pg_rates_line39 === Ortaklar
+and_dash_pg_reg_line15 === Facebook'a kaydol
+and_dash_pg_reg_line20 === Google'a kaydolun
+and_dash_pg_reg_line25 === VKontakte'ye kaydolun
+and_dash_pg_whats_line10 === Naber
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Gönderilmiş
+and_dash_pg_whats_line34 === Alınan
+and_dash_pg_whats_line40 === zamanlanmış
+and_dash_pg_whats_line46 === hesaplar
+and_dash_api_line17 === Anahtar adı.
+and_dash_api_line19 === Örneğin. Sunucum İçin
+and_dash_api_line24 === Anahtar izinleri.
+and_dash_auto_line17 === Eylem adı.
+and_dash_auto_line19 === Örneğin. Michael
+and_dash_auto_line24 === Kaynak
+and_dash_auto_line24_1 === Alma olayının kaynağı.
+and_dash_auto_line27 === SMS
+and_dash_auto_line28 === Naber
+and_dash_auto_line34 === Virgülle ayrılmış anahtar kelimeleri yanıtlayın. Bu anahtar kelimeler, mesaj içeriğinde algılanırsa otomatik yanıtı tetikleyecektir.
+and_dash_auto_line36 === Örneğin. teşekkür ederim, tamam, abone ol, evet
+and_dash_auto_line41 === Gönderene gönderilecek mesaj.
+and_dash_auto_line43 === Örneğin. Yanıt mesajınız burada, kısa kodlar kabul edildi
+and_dash_auto_line48 === Mesajınızda kullanabileceğiniz değişkenler kümesi.
+and_dash_con_line24 === İletişim numarası.
+and_dash_con_line31 === İletişim grubu.
+and_dash_con_line17 === Kişi adı.
+and_dash_cre_line28 === Satın alma
+and_dash_gate_line17 === İsim
+and_dash_gate_line17_1 === Bu, kullanıcılarınıza gösterilecek ağ geçidi adıdır.
+and_dash_gate_line19 === Örneğin. Twilio
+and_dash_gate_line24 === kontrolör
+and_dash_gate_line24_1 === Ağ geçidi denetleyici dosyasını seçin, bu, ağ geçidi mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
+and_dash_gate_line27 === Kontrolör Kazan Plakası:
+and_dash_gate_line34 === Geri aramak
+and_dash_gate_line34_1 === Etkinleştirilirse, gönderme durumu için 3. taraf ağ geçidinin geri arama özelliği kullanılarak mesajların doğrulanması gerekir, aksi takdirde mesajlar gönderildikten hemen sonra gönderildi olarak işaretlenir.
+and_dash_gate_line37 === Olanak vermek
+and_dash_gate_line38 === Devre dışı bırakmak
+and_dash_gate_line44 === geri arama kimliği
+and_dash_gate_line44_1 === Geri arama etkinse, sistemin geri aramaları tanımlayabilmesi için bu kimliği kopyalamanız ve denetleyicinize yapıştırmanız gerekir.
+and_dash_gate_line47 === Geri arama kimliği için kopyalayıp yapıştırın
+and_dash_gate_line54 === fiyatlandırma
+and_dash_gate_line54_1 === Bu ağ geçidi için özel fiyatlandırma tablonuz. Bu, 3. taraf fiyatlarının üzerine ücretlendirmenizi sağlar. Örneğin, belirli bir ülke için twilio 0,01 ücret alıyorsa, bunun yerine 0,02 ücret alabilirsiniz, para birimi sistem para biriminize bağlıdır. Lütfen fiyatlandırma biçimini doğru takip edin.
+and_dash_gate_line57 === Örnek JSON Fiyatlandırması:
+and_dash_gate_line57_1 === İndirmek
+and_dash_grp_line17 === Grup ismi.
+and_dash_grp_line19 === Örneğin. Arkadaşlar
+and_dash_hook_line17 === Eylem adı.
+and_dash_hook_line19 === Örneğin. Test Eylemi
+and_dash_hook_line24 === Kaynak
+and_dash_hook_line24_1 === Olay kaynağı.
+and_dash_hook_line34 === Bu kancanın çağrılacağı olayı seçin.
+and_dash_hook_line44 === Hook link yapısı, bu sistem tarafından çağrılacak url'dir. Yalnızca GET yöntemi desteklenir.
+and_dash_hook_line51 === Kanca URL'nizde kullanabileceğiniz değişkenler kümesi.
+and_dash_hook_line27 === SMS
+and_dash_hook_line28 === Naber
+and_dash_hook_line37 === Gönderildiğinde
+and_dash_hook_line38 === Alındığında
+and_dash_lang_line17 === Dil adı.
+and_dash_lang_line19 === Örneğin. Koreli
+and_dash_lang_line24 === Ülke kodu.
+and_dash_lang_line35 === sağdan sola
+and_dash_lang_line35_1 === Etkinleştirilirse, dil sağdan sola yön olarak tanımlanacaktır.
+and_dash_lang_line38 === Evet
+and_dash_lang_line39 === Numara
+and_dash_lang_line45 === Çeviri dizeleri.
+and_dash_mail_line17 === Başlık
+and_dash_mail_line17_1 === Posta başlığı.
+and_dash_mail_line19 === Örneğin. Duyuru
+and_dash_mail_line24 === Kullanıcılar
+and_dash_mail_line24_1 === Kullanıcılar tarafından gönder.
+and_dash_mail_line36 === Roller
+and_dash_mail_line36_1 === Rollere göre gönder.
+and_dash_mail_line48 === İçerik
+and_dash_mail_line48_1 === Posta içeriği, html'ye izin verilir.
+and_dash_mail_line50 === Selam Dünya!
+and_dash_not_line17 === Başlık
+and_dash_not_line17_1 === Başlığa bildir.
+and_dash_not_line19 === Örneğin. Duyuru
+and_dash_not_line24 === İleti
+and_dash_not_line24_1 === Mesajı bildir.
+and_dash_not_line31 === Renk
+and_dash_not_line31_1 === Renk bildir.
+and_dash_not_line35 === Başarı
+and_dash_not_line36 === Uyarı
+and_dash_not_line37 === Tehlike
+and_dash_not_line43 === resim
+and_dash_not_line43_1 === Resmi bildir, bu isteğe bağlıdır.
+and_dash_not_line46 === İsteğe bağlı
+and_dash_not_line53 === Kullanıcılar
+and_dash_not_line53_1 === Kullanıcılar tarafından yayın.
+and_dash_not_line65 === Roller
+and_dash_not_line65_1 === Rollere göre yayın.
+and_pack_line17 === Paket ismi.
+and_pack_line19 === Örneğin. VIP Paket
+and_pack_line24 === Paket fiyatı, bu sistem para birimini takip etmelidir. Kayan değerlere izin verilmez.
+and_pack_line29 === Örneğin. 25
+and_pack_line34 === Etkinleştirilirse, mesajlar ve whatsapp sohbetleri, alıcılar tarafından alındığında alt bilgi işareti içerecektir.
+and_pack_line44 === Etkinleştirilirse, paket modal ve ana sayfasından gizlenecektir.
+and_pack_line58 === SMS Gönderme Sınırı
+and_pack_line58_1 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum mesaj sayısı. Sınırsız için 0 girin.
+and_pack_line60 === Örneğin. 300
+and_pack_line65 === SMS Alma Sınırı
+and_pack_line65_1 === Sıfırlamadan önce kullanıcının alabileceği maksimum mesaj sayısı. Sınırsız için 0 girin.
+and_pack_line67 === Örneğin. 150
+and_pack_line72 === USSD Sınırı
+and_pack_line72_1 === Sıfırlamadan önce kullanıcı tarafından talep edilebilecek maksimum ussd sayısı. Sınırsız için 0 girin.
+and_pack_line74 === Örneğin. 25
+and_pack_line79 === Bildirim Sınırı
+and_pack_line79_1 === Sıfırlamadan önce kullanıcı tarafından alınabilecek maksimum bildirim sayısı. Sınırsız için 0 girin.
+and_pack_line81 === Örneğin. 1300
+and_pack_line86 === Kullanıcının hesabına bağlanabilecek maksimum android cihaz sayısı. Sınırsız için 0 girin.
+and_pack_line88 === Örneğin. 25
+and_pack_line92 === WhatsApp Ayarları
+and_pack_line97 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum sohbet sayısı. Sınırsız için 0 girin.
+and_pack_line99 === Örneğin. 300
+and_pack_line104 === Sıfırlamadan önce kullanıcının alabileceği maksimum sohbet sayısı. Sınırsız için 0 girin.
+and_pack_line106 === Örneğin. 150
+and_pack_line111 === Hesap Limiti
+and_pack_line111_1 === Kullanıcının hesabına bağlanabilecek maksimum WhatsApp hesabı sayısı. Sınırsız için 0 girin.
+and_pack_line113 === Örneğin. 10
+and_pack_line117 === Ultilite Ayarları
+and_pack_line122 === Kullanıcı tarafından kaydedilebilecek maksimum kişi sayısı. Sınırsız için 0 girin.
+and_pack_line124 === Örneğin. 25
+and_pack_line129 === Planlanmış Sınır
+and_pack_line129_1 === Kullanıcı tarafından kaydedilebilecek maksimum planlanmış mesaj/sohbet sayısı. Sınırsız için 0 girin. Bu hem sms hem de whatsapp için birleştirilir.
+and_pack_line131 === Örneğin. 25
+and_pack_line136 === Oluşturulabilecek maksimum API anahtarı sayısı. Sınırsız için 0 girin.
+and_pack_line138 === Örneğin. 10
+and_pack_line143 === Oluşturulabilecek maksimum Web kancası sayısı. Sınırsız için 0 girin.
+and_pack_line145 === Örneğin. 5
+and_pack_line150 === Eylem Sınırı
+and_pack_line150_1 === Oluşturulabilecek maksimum Eylem sayısı. Sınırsız için 0 girin.
+and_pack_line152 === Örneğin. 5
+and_page_line17 === Sayfa ismi.
+and_page_line24 === Bu sayfaya yalnızca seçilen roller erişebilecek.
+and_page_line35 === Etkinleştirilirse, oturum açılmamışsa sayfaya erişilemez.
+and_page_line45 === Sayfa içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
+and_payout_line17 === Tutar
+and_payout_line17_1 === Çekilecek tutar, yalnızca tam sayılar.
+and_payout_line19 === Örneğin. 50
+and_payout_line24 === Sağlayıcı
+and_payout_line24_1 === Parayı almak için kullanmak istediğiniz ödeme sağlayıcısını seçin.
+and_payout_line27 === paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === fatura adresi
+and_payout_line34_1 === Ödeme adresi veya e-posta, ödeme sorunlarını önlemek için lütfen dikkatlice kontrol edin.
+and_payout_line36 === Örneğin. PayPal e-postanız
+and_payout_line43 === Rica etmek
+and_plug_line17 === Eklenti Dosyası
+and_plug_line17_1 === Eklenti zip dosyası, lütfen doğru dosyayı seçtiğinizden emin olun.
+and_push_line17 === Başlık
+and_push_line17_1 === Başlığı itin.
+and_push_line19 === Örneğin. Duyuru
+and_push_line24 === resim
+and_push_line24_1 === Küçük resmi itin, bu isteğe bağlıdır.
+and_push_line27 === İsteğe bağlı
+and_push_line34 === İleti
+and_push_line34_1 === Mesajı itin.
+and_push_line41 === Kullanıcılar
+and_push_line41_1 === Kullanıcılar tarafından yayın.
+and_push_line53 === Roller
+and_push_line53_1 === Rollere göre yayın.
+and_role_line17 === Rol ismi.
+and_role_line19 === Örneğin. geliştirici
+and_role_line24 === Bu rol için devre dışı bırakmak/etkinleştirmek istediğiniz izinleri ve özellikleri seçin. Değişiklikler gerçek zamanlı olarak uygulanır, role sahip bağlı kullanıcıların tarayıcı sekmeleri otomatik olarak yeniden yüklenir.
+and_short_line17 === İsim
+and_short_line17_1 === Kısaltma adı.
+and_short_line19 === Örneğin. biraz
+and_short_line24 === kontrolör
+and_short_line24_1 === Kısaltıcı denetleyici dosyasını seçin, bu, kısaltıcı mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
+and_short_line27 === Kontrolör Kazan Plakası:
+and_sms_line17 === Planlanan mesajın adı.
+and_sms_line19 === Örneğin. Benim mesajım
+and_sms_line24 === Program tarihini seçin.
+and_sms_line26 === Örneğin. 22.06.2020 12:00
+and_sms_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde mesaj programlanır.
+and_sms_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
+and_sms_line55 === Birden çok kişi grubu seçin
+and_sms_line67 === kısaltıcı
+and_sms_line67_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_sms_line70 === Linkleri kısaltmayın
+and_sms_line79 === Ağ Geçidi Modu
+and_sms_line79_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
+and_sms_line82 === cihazlar
+and_sms_line83 === Kredi
+and_sms_line88 === Kullanılacak Sim kart yuvası.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Hazır mesaj şablonlarınız.
+and_sms_line110 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
+and_sms_line121 === SMS Ağ Geçidi
+and_sms_line121_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
+and_sms_line141 === omurilik
+and_sms_line144 === Örnek:
+and_sms_line144_1 === Tom bir
+and_sms_line144_2 === kedi
+and_sms_line147 === Değerler
+and_sms_line147_1 === iyi
+and_sms_line147_2 === ve
+and_sms_line147_3 === kötü
+and_sms_line147_4 === rastgele kullanılacaktır.
+and_subs_line17 === Kullanıcı hesabı.
+and_subs_line28 === Abonelik paketi.
+and_subs_line41 === Abonelik süresi.
+and_subs_line43 === Örneğin. 12
+and_temp_line17 === Şablon adı.
+and_temp_line24 === Şablon biçimi.
+and_temp_line31 === omurilik
+and_temp_line31_1 === Spam algılamalarını etkili bir şekilde önleyen, iletilerinizdeki sözcükleri rastgele seçmenize olanak tanıyan bir özellik.
+and_temp_line35 === Örnek:
+and_temp_line35_1 === Tom bir
+and_temp_line35_2 === kedi
+and_temp_line38 === Değerler
+and_temp_line38_1 === iyi
+and_temp_line38_2 === kötü
+and_temp_line38_3 === rastgele kullanılacaktır.
+and_temp_line43 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_user_line17 === Tam yasal isim.
+and_user_line19 === Örneğin. Michael Kors
+and_user_line24 === Geçerli E.
+and_user_line26 === Örneğin. kullanıcı@mail.com
+and_user_line31 === Kullanıcı şifresini girin.
+and_user_line38 === Kullanıcı konumu saat dilimi, farklı bir ülkedeyse bunu değiştirin. Gönderilen mesajların ve diğer verilerin tarih ve saat doğruluğu için saat dilimi kullanılır.
+and_user_line49 === Ülke
+and_user_line49_1 === Kullanıcı ülkesi, bu, ödemeler ve telefon numarası biçimlendirmesi için kullanılır.
+and_user_line60 === Bildirim Sesleri
+and_user_line60_1 === Devre dışı bırakılırsa, bildirimler sessiz olacaktır.
+and_user_line70 === Kullanıcı rolünü seçin.
+and_user_line81 === Kullanıcı dilini seçin.
+and_user_line92 === Ortak Programı
+and_user_line92_1 === Etkinleştirilirse, kullanıcı cihazlarını küresel cihazlar olarak kullanabilecek ve diğer kullanıcılar cihazlarını kullanarak mesaj gönderdiğinde para kazanmalarına olanak tanıyacaktır.
+and_ussd_line17 === USSD Kodu
+and_ussd_line17_1 === USSD istek kodu.
+and_ussd_line19 === Örneğin. *121#
+and_ussd_line24 === Kullanılacak Sim kart yuvası.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Bağlı cihazlarınız, ussd talebi için ne kullanmak istediğinizi seçin.
+and_ussd_line47 === Rica etmek
+and_vouch_line17 === Kupon adı.
+and_vouch_line19 === Örneğin. Özel
+and_vouch_line24 === Oluşturmak istediğiniz kupon miktarı. Maksimum değer 1000!
+and_vouch_line26 === Örneğin. 100
+and_vouch_line31 === Abonelik süresi.
+and_vouch_line33 === Örneğin. 12
+and_vouch_line38 === Abonelik paketi.
+and_web_line17 === Web kancası adı.
+and_web_line24 === Olayları Al
+and_web_line24_1 === İhtiyacınız olan alma olaylarını seçin, bunlar POST yöntemiyle web kanca url'nize gönderilecektir.
+and_web_line27 === SMS
+and_web_line28 === Naber
+and_web_line29 === USSD
+and_web_line30 === Bildirimler
+and_web_line36 === Webhook url'niz, tüm yük verileri buraya POST yöntemiyle gönderilecektir.
+and_web_line38 === Örneğin. http://alaniniz.com/hook_listen.php
+and_whatssched_line17 === Planlanmış sohbetin adı.
+and_whatssched_line19 === Örneğin. Benim mesajım
+and_whatssched_line24 === Program tarihini seçin.
+and_whatssched_line26 === Örneğin. 22.06.2020 12:00
+and_whatssched_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde sohbet planlanır.
+and_whatssched_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
+and_whatssched_line55 === Birden çok kişi grubu seçin
+and_whatssched_line67 === kısaltıcı
+and_whatssched_line67_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_whatssched_line70 === Linkleri kısaltmayın
+and_whatssched_line79 === Hesap
+and_whatssched_line79_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
+and_whatsached_line88 === Hazır mesaj şablonlarınız.
+and_whatssched_line103 === omurilik
+and_whatssched_line103_1 === Spam algılamalarını etkili bir şekilde önleyen, iletilerinizdeki sözcükleri rastgele seçmenize olanak tanıyan bir özellik.
+and_whatssched_line107 === Örnek:
+and_whatssched_line101_1 === Tom bir
+and_whatssched_line107_2 === kedi
+and_whatssched_line110 === Değerler
+and_whatssched_line110_1 === iyi
+and_whatssched_line110_2 === ve
+and_whatssched_line110_3 === kötü
+and_whatssched_line110_4 === rastgele kullanılacaktır.
+and_whatssched_line115 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_whatssched_line128 === Göndermek
+and_whatsapp_line15 === QRCode'u görüntülemek için düğmeye tıklayarak WhatsApp'ınızı bağlayın ve ardından aracılığıyla tarayın.
+and_whatsapp_line15_1 === Bir Cihazı Bağla
+and_whatsapp_line15_2 === uygulamadaki düğmesine basın. QRCode'u taramak için yalnızca 60 saniyeniz var.
+and_whatsapp_line16 === Bağlantı hesabı
+and_add_widget_line17 === Eklenti adı.
+and_add_widget_line24 === Widget simgesi, yalnızca modlar için. Simge referansı için lütfen harika satırı ziyaret edin.
+and_add_widget_line26 === Örneğin. la la-bilgi çemberi
+and_add_widget_line31 === Widget türü. Bloklar, şablonların farklı bölümlerine yerleştirmek içindir, modals dinamik içerikler içindir. V3'ten beri, modals yalnızca gösterge tablosunda çalışacaktır.
+and_add_widget_line34 === Engellemek
+and_add_widget_line35 === kalıcı
+and_add_widget_line41 === Widget boyutu, yalnızca modlar için.
+and_add_widget_line53 === Widget konumu, yalnızca modlar için.
+and_add_widget_line64 === Widget içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
+and_add_widget_line66 === Selam Dünya!
+and_admin_build_line16 === Başvuru
+and_admin_build_line21 === Uygulama paketi adı, benzersiz olmalı ve com.alanadiniz.uygulamanız gibi bir alan adı biçimine uymalıdır, benzersiz hale getirmek için alan adınızı izlemenizi öneririz.
+and_admin_build_line23 === Örneğin. com.gateway.örnek
+and_admin_build_line28 === Uygulama adı, bu, uygulama çekmecesinde ve uygulamanın diğer bölümlerinde gösterilir.
+and_admin_build_line30 === Örneğin. Zender Ağ Geçidi
+and_admin_build_line35 === Uygulama açıklaması, uygulamanızın kısa bir açıklaması.
+and_admin_build_line42 === Uygulama Renk Teması
+and_admin_build_line42_1 === Uygulama rengi teması, bunu uygulama logonuz ve açılış görseli renklerinizle eşleştirmeniz önerilir.
+and_admin_build_line44 === Örneğin. #000000
+and_admin_build_line49 === APK Sürümü
+and_admin_build_line_49_1 === APK versiyonu, eğer uygulamanızı yeniden oluşturuyorsanız, lütfen bu alanı değeri artırarak güncelleyin, mevcut değer 1 ise, uygulamanızı oluşturmadan önce 2'ye çıkarmalısınız. Bu, uygulamadaki güncelleme özelliğini tetiklemek için gereklidir ve kullanıcıyı güncellemeye zorlar.
+and_admin_build_line51 === Örneğin. 1.0
+and_admin_build_line56 === E-posta Oluştur
+and_admin_build_line_56_1 === Geçerli e-postanız, lütfen bunu değiştirdiğinizden emin olun. Derlemenin sonucu bu e-postaya gönderilecek!
+and_admin_build_line58 === Örneğin. myvalidemail@mail.com
+and_admin_build_line62 === kimlik bilgileri
+and_admin_build_line67 === Google Hizmetleri
+and_admin_build_line67_1 === Google hizmetleri json dosyanız, bu, ağ geçidi uygulamasındaki FCM işlemleri için gereklidir.
+and_admin_build_line75 === Firebase Kimlik Bilgileri
+and_admin_build_line75_1 === Firebase yönetici kimlik bilgileriniz json dosyanız, sistemin uygulama ile iletişim kurmasına izin vermek için bu gereklidir.
+and_admin_build_line82 === Varlıklar
+and_admin_build_line87 === Uygulama resmi logosu, bu, uygulama başlığında gösterilen resimdir. Önerilen boyutlar piksel cinsinden 251x53'tür. Şeffaf bir arka plan daha iyidir.
+and_admin_build_line95 === Uygulama Giriş Logosu
+and_admin_build_line95_1 === Uygulama oturum açma resmi logosu, bu, oturum açma modunda gösterilen resimdir. Önerilen boyutlar 250x100 piksel ve koyu yazı tipidir. Şeffaf bir arka plan daha iyidir.
+and_admin_build_line103 === Uygulama resmi simgesi, bu, uygulama çekmecesinde ve android sisteminde gösterilir. Önerilen boyutlar px ve png formatında 1024x1024'tür.
+and_admin_build_line111 === Uygulama açılış ekranı görüntüsü, bu, kullanıcı uygulamayı açtığında gösterilir. Önerilen boyutlar px ve png formatında 2732x2732'dir.
+and_admin_build_line118 === Yapı
+and_admin_build_line123 === Özel JavaScript
+and_admin_build_line123_1 === Özel bir javascript kodu kullanmak istiyorsanız, lütfen buraya ekleyin. Bu, uygulamada dinamik olarak yüklenir.
+and_admin_build_line125 === örneğin, alert('Merhaba Dünya!');
+and_admin_build_line130 === Özel CSS
+and_admin_build_line130_1 === Özel bir css kodu kullanmak istiyorsanız, lütfen buraya ekleyin. Bu, uygulamada dinamik olarak yüklenir.
+and_admin_build_line137 === Özel Düzen
+and_admin_build_line137_1 === Özel bir uygulama yapısı kullanmak istiyorsanız, lütfen html içeriğini değiştirin, ne yaptığınızı bilmiyorsanız lütfen varsayılan değeri bırakın.
+and_admin_build_line139 === Selam Dünya!
+and_settings_line21 === Site adı, markalaşmanın gerekli olduğu her yerde bu gösterilir.
+and_settings_line23 === Örneğin. Zender
+and_settings_line28 === Site açıklaması, bu arama motoru optimizasyonu içindir, bu yüzden yaratıcı olun.
+and_settings_line30 === Örneğin. Bu harika bir sms ağ geçidi hizmetidir
+and_settings_line35 === Envato satın alma kodunuz, bu, betiğin bazı özel özelliklerinin kilidini açmak için gereklidir.
+and_settings_line37 === Örneğin. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Google analitik anahtarınız, sistem zaten yerleşik ziyaretçi istatistiklerine sahip olduğundan bu isteğe bağlıdır.
+and_settings_line44 === Örneğin. UA-179148389-1
+and_settings_line49 === Site protokolünüz, lütfen doğru olanı seçtiğinizden emin olun. Siteniz https kullanıyorsa lütfen seçin, aksi halde http'yi seçin.
+and_settings_line59 === Varsayılan sistem dili, bu, yeni bir kullanıcı sitenizi ziyaret ettiğinde kullanılır.
+and_settings_line70 === Devre dışı bırakılırsa, kayıt sayfası üzerinden kayıtlara izin verilmeyecektir.
+and_settings_line80 === Paket Sıfırlama Modu
+and_settings_line80_1 === Gönderme, alma, ussd ve bildirimler gibi limitlerin sıfırlama aralığı. Bu hem Android hem de WhatsApp özellikleri için geçerlidir. Buradaki seçiminiz ayrıca cron kurulumunda da uygulanmalıdır.
+and_settings_line83 === Günlük
+and_settings_line84 === Aylık
+and_settings_line90 === Ücretsiz Model
+and_settings_line90_1 === Etkinleştirilirse, varsayılan ücretsiz paket, kayıttan sonra otomatik olarak kullanıcıya atanır.
+and_settings_line100 === Devre dışı bırakılırsa, ana sayfa kullanılmayacaktır. Kök dizindeki tüm ziyaretler kontrol paneline yönlendirilecektir.
+and_settings_line110 === TAWK Sohbet Widget'ı
+and_settings_line110_1 === Etkinleştirilirse, kullanıcılara tawk sohbet widget'ı görünecektir.
+and_settings_line120 === Tawk sohbet widget bağlantınız, tawk sohbet desteğini kullanmak istiyorsanız bu gereklidir.
+and_settings_line127 === Yönetici API'sı
+and_settings_line127_1 === Etkinleştirmek istediğiniz yönetici API uç noktalarını seçin. Yalnızca ihtiyacınız olan uç noktaları etkinleştirmeniz önerilir.
+and_settings_line159 === Bu jeton kimseyle paylaşılmamalıdır. Bu, cronjobs, sistem API'si ve diğer harici isteklerin güvenliği için kullanılır. Sistem jetonunuzun güvenliğinin ihlal edildiğini düşünüyorsanız, lütfen yeni bir tane oluşturun, yeni bir jeton oluşturduktan sonra cronjobs, sistem API ve diğer ilgili ayarlarınızı yeniden yapılandırmanız gerekecektir.
+and_settings_line160 === yeniden oluştur
+and_settings_line173 === Yerleşik posta sunucusunu kullanmak istiyorsanız, lütfen yerel seçin, aksi takdirde smtp'yi seçin ve ardından posta kimlik bilgilerinizi yapılandırın.
+and_settings_line183 === Kullanılacak smtp protokolü, lütfen uzak posta sunucunuzun desteklenen protokolünü seçin.
+and_settings_line193 === Site e-postası, alıcılara gösterilen e-posta adıdır, markalaşma amacıyla noreply@siteniz.com'u kullanmanız önerilir.
+and_settings_line195 === Örneğin. noreply@domain.com
+and_settings_line200 === Uzak smtp sunucusu ana bilgisayar adresiniz.
+and_settings_line205 === Örneğin. smtp.gmail.com
+and_settings_line210 === Uzak smtp sunucu bağlantı noktanız.
+and_settings_line215 === Örneğin. 587
+and_settings_line220 === Uzak smtp sunucusu kullanıcı adınız.
+and_settings_line225 === Örneğin. kullanıcıadı@gmail.com
+and_settings_line230 === Uzak smtp sunucusu şifreniz.
+and_settings_line235 === gmail hesabı şifreniz
+and_settings_line244 === paypal iş e-postanız.
+and_settings_line246 === Örneğin. mail@domain.com
+and_settings_line251 === Etkinleştirilirse, tüm paypal işlemleri korumalı alan moduna yönlendirilecektir.
+and_settings_line261 === Mollie API anahtarınız.
+and_settings_line263 === Örneğin. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Kullanılacak sistem para birimi, işlemler USD'ye çevrilirken temel olarak kullanılacaktır.
+and_settings_line279 === Kullanmak istediğiniz ödeme sağlayıcılarını seçin.
+and_settings_line293 === Mesajlar için minimum karakter. Bu hem SMS hem de WhatsApp için geçerlidir.
+and_settings_line295 === Örneğin. 5
+and_settings_line300 === Mesajlar için maksimum karakter. Bu hem SMS hem de WhatsApp için geçerlidir. Sonsuz karakterler için 0 girin.
+and_settings_line302 === Örneğin. 300
+and_settings_line307 === Mesaj alt bilgi işareti, bu, paketlerinde alt bilgi işareti etkinleştirilmişse mesajlara eklenir.
+and_settings_line309 === Örneğin. Zender Sisteminden Gönderildi
+and_settings_line318 === Gönderilen iletiler tablosunda görüntülenecek varsayılan satır sayısı. Bu hem SMS hem de WhatsApp için geçerlidir.
+and_settings_line320 === Örneğin. 10
+and_settings_line325 === Alınan mesajlar tablosunda görüntülenecek varsayılan satır sayısı. Bu hem SMS hem de WhatsApp için geçerlidir.
+and_settings_line327 === Örneğin. 10
+and_settings_line336 === Etkinleştirilirse, ziyaretçiler sosyal medya hesaplarını kullanarak giriş yapabilirler.
+and_settings_line346 === Kullanmak istediğiniz sosyal medya sağlayıcılarını seçin.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook kimliği
+and_settings_line357_1 === Facebook uygulama kimliği, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line359 === Örneğin. 738812983731558
+and_settings_line364 === Facebook Sırrı
+and_settings_line364_1 === Facebook uygulaması sırrı, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line366 === Örneğin. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google kimliği
+and_settings_line371_1 === Google uygulama kimliği, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line373 === Örneğin. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Sırrı
+and_settings_line378_1 === Google uygulama sırrı, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line380 === Örneğin. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK kimliği
+and_settings_line385_1 === vkontakte uygulama kimliği, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line387 === Örneğin. 7768236
+and_settings_line392 === VK Gizli
+and_settings_line392_1 === vkontakte uygulaması sırrı, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line394 === Örneğin. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Etkinleştirilirse, recaptcha oturum açma sayfasında da gösterilecektir. Lütfen bu özelliği etkinleştirmeden önce recaptcha anahtarınızı ve recaptcha sırrınızı yapılandırdığınızdan emin olun, aksi takdirde giriş yapamazsınız!
+and_settings_line413 === Recaptcha anahtarı, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line415 === Örneğin. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Recaptcha sırrı, daha fazla bilgi için lütfen belgeleri okuyun.
+and_settings_line422 === Örneğin. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo Işığı
+and_theme_line17_1 === Açık logo resmi, bu, arka plan öğesi karanlık olduğunda ana sayfada ve kimlik doğrulama sayfalarında gösterilir. Önerilen boyut, piksel cinsinden 250x50'dir.
+and_theme_line23 === Logo Koyu
+and_theme_line223_1 === Koyu logo resmi, bu, arka plan öğesi açık olduğunda ana sayfada ve kimlik doğrulama sayfalarında gösterilir. Önerilen boyut, piksel cinsinden 250x50'dir.
+and_theme_line29 === Site favicon resmi, bu tarayıcı sekmesinde gösterilir. Önerilen boyut, piksel cinsinden 50x50'dir.
+and_theme_line35 === Arka plan görüntüsü
+and_theme_line35_1 === Site arka plan resmi, bu her yerde gösterilir. Yüksek çözünürlüklü bir resim kullanılması tavsiye edilir.
+and_theme_line41 === Site için kullanmak istediğiniz renk temasını seçin.
+and_theme_line46 === Metinler için vurgu rengini seçin.
+and_theme_line51 === Döndürücü Renk
+and_theme_line51_1 === En iyi ajax döndürücü için kullanmak istediğiniz rengi seçin.
+and_theme_line58 === Özel JavaScript
+and_theme_line58_1 === Özel bir javascript kodu kullanmak istiyorsanız, lütfen buraya ekleyin. Bu, her sayfada dinamik olarak yüklenir.
+and_theme_line60 === Selam Dünya!
+and_theme_line63 === Özel CSS
+and_theme_line63_1 === Bazı css stillerini değiştirmek istiyorsanız, buradan yapabilirsiniz.
+and_apikey_line17 === Anahtar adı.
+and_apikey_line19 === Örneğin. Sunucum İçin
+and_apikey_line24 === Anahtar izinleri.
+and_edit_auto_line17 === Eylem adı.
+and_edit_auto_line19 === Örneğin. Otomatik Yanıt
+and_edit_auto_line24 === Kaynak
+and_edit_auto_line24_1 === Alma olayının kaynağı.
+and_edit_auto_line34 === Virgülle ayrılmış anahtar kelimeleri yanıtlayın. Bu anahtar kelimeler, mesaj içeriğinde algılanırsa otomatik yanıtı tetikleyecektir.
+and_edit_auto_line36 === Örneğin. teşekkür ederim, tamam, abone ol, evet
+and_edit_auto_line41 === Gönderene gönderilecek mesaj.
+and_edit_auto_line43 === Örneğin. Yanıt mesajınız burada, kısa kodlar kabul edildi
+and_edit_auto_line48 === Mesajınızda kullanabileceğiniz değişkenler kümesi.
+and_edit_con_line17 === Kişi adı.
+and_edit_con_line19 === Örneğin. Michael
+and_edit_con_line24 === İletişim numarası.
+and_edit_con_line31 === İletişim grubu.
+and_edit_dev_line16 === Cihaz Ayrıntıları
+and_edit_dev_line21 === Cihaz adı.
+and_edit_dev_line23 === Örneğin. Cihazım
+and_edit_dev_line28 === Etkinleştirilirse, mesajlar 2 değer arasında rastgele aralıklarla gönderilir. Bunları aşağıda yapılandırabilirsiniz.
+and_edit_dev_line38 === Saniye cinsinden minimum aralık.
+and_edit_dev_line41 === Örneğin. 5
+and_edit_dev_line46 === Saniye cinsinden maksimum aralık.
+and_edit_dev_line49 === Örneğin. 20
+and_edit_dev_line53 === Bildirim ayarları
+and_edit_dev_line58 === Uygulamalar
+and_edit_dev_line58_1 === Bildirim almak istediğiniz uygulamaların paket adlarını girin. Onları satır sonları ile ayırın.
+and_edit_dev_line65 === İş Ortağı Ayarları
+and_edit_dev_line70 === Oran
+and_edit_dev_line70_1 === Mesaj başına almak istediğiniz tutar, cihaz ülkesi para birimi olarak kullanılacaktır. Yüzer değerler sent gibi desteklenir.
+and_edit_dev_line73 === Örneğin. 0,50
+and_edit_dev_line78 === Küresel Durum
+and_edit_dev_line78_1 === Devre dışı bırakılırsa, cihaz global sms ağ geçidi olarak kullanılamaz ve para kazanmazsınız. Lütfen global cihazların güvenlik nedeniyle mesaj alamadığını unutmayın.
+and_edit_dev_line89 === Ülke
+and_edit_dev_line89_1 === Cihazın ülkesi, telefon numaralarının belirlenmesinde ve kur alanında temel para birimi olarak kullanılır.
+and_edit_dev_line101 === Öncelik
+and_edit_dev_line101_1 === Global mesajlar, kendi mesajlarınızdan önce gönderilecektir.
+and_edit_dev_line112 === SIM Yuvaları
+and_edit_dev_line112_1 === Göndermek için kullanmak istediğiniz sim slotlarını seçin, ikisini de seçerseniz mesajlar rastgele slotta gönderilecektir.
+and_edit_email_line16 === E-posta şablonu
+and_edit_email_line18 === HTML'ye izin verildi
+and_edit_gate_line17 === İsim
+and_edit_gate_line17_1 === Bu, kullanıcılarınıza gösterilecek ağ geçidi adıdır.
+and_edit_gate_line19 === Örneğin. Twilio
+and_edit_gate_line24 === kontrolör
+and_edit_gate_line24_1 === Ağ geçidi denetleyici dosyasını seçin, bu, ağ geçidi mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
+and_edit_gate_line31 === Geri aramak
+and_edit_gate_line31_1 === Etkinleştirilirse, gönderme durumu için 3. taraf ağ geçidinin geri arama özelliği kullanılarak mesajların doğrulanması gerekir, aksi takdirde mesajlar gönderildikten hemen sonra gönderildi olarak işaretlenir.
+and_edit_gate_line34 === Olanak vermek
+and_edit_gate_line35 === Devre dışı bırakmak
+and_edit_gate_line41 === geri arama kimliği
+and_edit_gate_line41_1 === Geri arama etkinse, sistemin geri aramaları tanımlayabilmesi için bu kimliği kopyalamanız ve denetleyicinize yapıştırmanız gerekir.
+and_edit_gate_line44 === Geri arama kimliği için kopyalayıp yapıştırın
+and_edit_gate_line51 === fiyatlandırma
+and_edit_gate_line51_1 === Bu ağ geçidi için özel fiyatlandırma tablonuz. Bu, 3. taraf fiyatlarının üzerine ücretlendirmenizi sağlar. Örneğin, belirli bir ülke için twilio 0,01 ücret alıyorsa, bunun yerine 0,02 ücret alabilirsiniz, para birimi sistem para biriminize bağlıdır. Lütfen fiyatlandırma biçimini doğru takip edin.
+and_edit_gate_line54 === Örnek JSON Fiyatlandırması:
+and_edit_gate_line54_1 === İndirmek
+and_edit_grp_line17 === Grup ismi.
+and_edit_grp_line19 === Örneğin. Arkadaşlar
+and_edit_hook_line17 === Eylem adı.
+and_edit_hook_line19 === Örneğin. Test Eylemi
+and_edit_hook_line24 === Kaynak
+and_edit_hook_line24_1 === Olay kaynağı.
+and_edit_hook_line27 === SMS
+and_edit_hook_line28 === Naber
+and_edit_hook_line34 === Bu kancanın çağrılacağı olayı seçin.
+and_edit_hook_line37 === Gönderildiğinde
+and_edit_hook_line38 === Alındığında
+and_edit_hook_line44 === Hook link yapısı, bu sistem tarafından çağrılacak url'dir. Yalnızca GET yöntemi desteklenir.
+and_edit_hook_line51 === Kanca URL'nizde kullanabileceğiniz değişkenler kümesi.
+and_edit_lang_line17 === Örneğin. Koreli
+and_edit_lang_line30 === sağdan sola
+and_edit_lang_line32 === Evet
+and_edit_lang_line33 === Numara
+and_edit_pack_line17 === Paket ismi.
+and_edit_pack_line19 === Örneğin. VIP Paket
+and_edit_pack_line24 === Paket fiyatı, bu sistem para birimini takip etmelidir. Kayan değerlere izin verilmez.
+and_edit_pack_line29 === Örneğin. 25
+and_edit_pack_line34 === Etkinleştirilirse, mesajlar ve whatsapp sohbetleri, alıcılar tarafından alındığında alt bilgi işareti içerecektir.
+and_edit_pack_line44 === Etkinleştirilirse, paket modal ve ana sayfasından gizlenecektir.
+and_edit_pack_line53 === Android Ayarları
+and_edit_pack_line58 === SMS Gönderme Sınırı
+and_edit_pack_line58_1 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum mesaj sayısı. Sınırsız için 0 girin.
+and_edit_pack_line60 === Örneğin. 300
+and_edit_pack_line65 === SMS Alma Sınırı
+and_edit_pack_line65_1 === Sıfırlamadan önce kullanıcının alabileceği maksimum mesaj sayısı. Sınırsız için 0 girin.
+and_edit_pack_line67 === Örneğin. 150
+and_edit_pack_line72 === USSD Sınırı
+and_edit_pack_line72_1 === Sıfırlamadan önce kullanıcı tarafından talep edilebilecek maksimum ussd sayısı. Sınırsız için 0 girin.
+and_edit_pack_line74 === Örneğin. 25
+and_edit_pack_line79 === Bildirim Sınırı
+and_edit_pack_line79_1 === Sıfırlamadan önce kullanıcı tarafından alınabilecek maksimum bildirim sayısı. Sınırsız için 0 girin.
+and_edit_pack_line81 === Örneğin. 1300
+and_edit_pack_line86 === Kullanıcının hesabına bağlanabilecek maksimum android cihaz sayısı. Sınırsız için 0 girin.
+and_edit_pack_line88 === Örneğin. 25
+and_edit_pack_line92 === WhatsApp Ayarları
+and_edit_pack_line97 === Sıfırlamadan önce kullanıcı tarafından gönderilebilecek maksimum sohbet sayısı. Sınırsız için 0 girin.
+and_edit_pack_line99 === Örneğin. 300
+and_edit_pack_line104 === Sıfırlamadan önce kullanıcının alabileceği maksimum sohbet sayısı. Sınırsız için 0 girin.
+and_edit_pack_line106 === Örneğin. 150
+and_edit_pack_line111 === Hesap Limiti
+and_edit_pack_line111_1 === Kullanıcının hesabına bağlanabilecek maksimum WhatsApp hesabı sayısı. Sınırsız için 0 girin.
+and_edit_pack_line113 === Örneğin. 10
+and_edit_pack_line117 === Ultilite Ayarları
+and_edit_pack_line122 === Kullanıcı tarafından kaydedilebilecek maksimum kişi sayısı. Sınırsız için 0 girin.
+and_edit_pack_line124 === Örneğin. 25
+and_edit_pack_line129 === Planlanmış Sınır
+and_edit_pack_line129_1 === Kullanıcı tarafından kaydedilebilecek maksimum planlanmış mesaj/sohbet sayısı. Sınırsız için 0 girin. Bu hem sms hem de whatsapp için birleştirilir.
+and_edit_pack_line131 === Örneğin. 25
+and_edit_pack_line136 === Oluşturulabilecek maksimum API anahtarı sayısı. Sınırsız için 0 girin.
+and_edit_pack_line138 === Örneğin. 10
+and_edit_pack_line143 === Oluşturulabilecek maksimum Web kancası sayısı. Sınırsız için 0 girin.
+and_edit_pack_line145 === Örneğin. 5
+and_edit_pack_line150 === Eylem Sınırı
+and_edit_pack_line150_1 === Oluşturulabilecek maksimum Eylem sayısı. Sınırsız için 0 girin.
+and_edit_pack_line152 === Örneğin. 5
+and_edit_page_line17 === Sayfa ismi.
+and_edit_page_line24 === Bu sayfaya yalnızca seçilen roller erişebilecek.
+and_edit_page_line35 === Etkinleştirilirse, oturum açılmamışsa sayfaya erişilemez.
+and_edit_page_line45 === Sayfa içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
+and_edit_role_line17 === Rol ismi.
+and_edit_role_line19 === Örneğin. geliştirici
+and_edit_role_line24 === Bu rol için devre dışı bırakmak/etkinleştirmek istediğiniz izinleri ve özellikleri seçin. Değişiklikler gerçek zamanlı olarak uygulanır, role sahip bağlı kullanıcıların tarayıcı sekmeleri otomatik olarak yeniden yüklenir.
+and_edit_short_line17 === İsim
+and_edit_short_line17_1 === Kısaltma adı.
+and_edit_short_line19 === Örneğin. biraz
+and_edit_short_line24 === kontrolör
+and_edit_short_line24_1 === Kısaltıcı denetleyici dosyasını seçin, bu, kısaltıcı mantığınızı ve kodunuzu içerecektir. Belgeleri kontrol etmeniz önerilir.
+and_edit_sms_line17 === Planlanan mesajın adı.
+and_edit_sms_line19 === Örneğin. Benim mesajım
+and_edit_sms_line24 === Program tarihini seçin.
+and_edit_sms_line26 === Örneğin. 22.06.2020 12:00
+and_edit_sms_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde mesaj programlanır.
+and_edit_sms_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
+and_edit_sms_line55 === Birden çok kişi grubu seçin
+and_edit_sms_line67 === Ağ Geçidi Modu
+and_edit_sms_line67_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
+and_edit_sms_line70 === Cihazlar
+and_edit_sms_line71 === Kredi
+and_edit_sms_line76 === Kullanılacak sim kart yuvası.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
+and_edit_sms_line99 === SMS Ağ Geçidi
+and_edit_sms_line99_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
+and_edit_sms_line119 === omurilik
+and_edit_sms_line122 === Örnek:
+and_edit_sms_line122_1 === Tom bir
+and_edit_sms_line122_2 === kedi
+and_edit_sms_line125 === Değerler
+and_edit_sms_line125_1 === iyi
+and_edit_sms_line125_2 === ve
+and_edit_sms_line125_3 === kötü
+and_edit_sms_line125_4 === rastgele kullanılacaktır.
+and_edit_temp_line17 === Şablon adı.
+and_edit_temp_line24 === Şablon biçimi.
+and_edit_temp_line31 === omurilik
+and_edit_temp_line31_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_edit_temp_line35 === Örnek:
+and_edit_temp_line35_1 === Tom bir
+and_edit_temp_line35_2 === kedi
+and_edit_temp_line38 === Değerler
+and_edit_temp_line38_1 === iyi
+and_edit_temp_line38_2 === ve
+and_edit_temp_line38_3 === kötü
+and_edit_temp_line38_4 === rastgele kullanılacaktır.
+and_edit_temp_line43 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_eduse_line17 === Tam yasal adınız, lütfen sahte bir ad kullanmanın hesabınızın askıya alınmasına neden olabileceğini unutmayın.
+and_eduse_line19 === Örneğin. Michael Kors
+and_eduse_line24 === Geçerli e-posta adresi, mevcut e-posta adresini saklamak istiyorsanız bu alanı yok sayın.
+and_eduse_line26 === Örneğin. kullanıcı@mail.com
+and_eduse_line31 === Mevcut şifreyi saklamak istiyorsanız lütfen bu alanı dikkate almayınız, aksi takdirde yeni şifreyi giriniz.
+and_eduse_line38 === Bulunduğunuz yerin saat dilimi, farklı bir ülkedeyseniz bunu değiştirin. Gönderilen mesajların ve diğer verilerin tarih ve saat doğruluğu için saat dilimi kullanılır.
+and_eduse_line49 === Ülke
+and_eduse_line49_1 === Ülkeniz, bu ödemeler ve telefon numarası biçimlendirmesi için kullanılır.
+and_eduse_line60 === Bildirim Sesleri
+and_eduse_line60_1 === Devre dışı bırakılırsa, bildirimler sessiz olacaktır.
+and_eduse_line70 === Kullanıcı rolünü seçin.
+and_eduse_line81 === Kullanıcı dilini seçin.
+and_eduse_line92 === Ortak Programı
+and_eduse_line92_1 === Etkinleştirilirse, kullanıcı cihazlarını küresel cihazlar olarak kullanabilecek ve diğer kullanıcılar cihazlarını kullanarak mesaj gönderdiğinde para kazanmalarına olanak tanıyacaktır.
+and_edweb_line17 === Web kancası adı.
+and_edweb_line24 === Olayları Al
+and_edweb_line24_1 === İhtiyacınız olan alma olaylarını seçin, bunlar POST yöntemiyle web kanca url'nize gönderilecektir.
+and_edweb_line30 === Bildirimler
+and_edweb_line36 === Webhook url'niz, tüm yük verileri buraya POST yöntemiyle gönderilecektir.
+and_edweb_line38 === Örneğin. https://alaniniz.com/reply.php
+and_edwhat_line17 === Planlanmış sohbetin adı.
+and_edwhat_line19 === Örneğin. Benim mesajım
+and_edwhat_line24 === Program tarihini seçin.
+and_edwhat_line26 === Örneğin. 22.06.2020 12:00
+and_edwhat_line31 === Etkinleştirilirse, planlanan tarih her eşleştiğinde sohbet planlanır.
+and_edwhat_line42 === Satır sonu ile ayrılmış birden çok E.164 numarası.
+and_edwhat_line55 === Birden çok kişi grubu seçin
+and_edwhat_line67 === Hesap
+and_edwhat_line67_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
+and_edwhat_line76 === Hazır mesaj şablonlarınız.
+and_edwhat_line91 === omurilik
+and_edwhat_line91_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_edwhat_line95 === Örnek:
+and_edwhat_line95_1 === Tom bir
+and_edwhat_line95_2 === kedi
+and_edwhat_line98 === Değerler
+and_edwhat_line98_1 === iyi
+and_edwhat_line98_2 === ve
+and_edwhat_line98_3 === kötü
+and_edwhat_line98_4 === rastgele kullanılacaktır.
+and_edwhat_line103 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_edwhat_line116 === Göndermek
+and_edwid_line17 === Eklenti adı.
+and_edwid_line24 === Widget simgesi, yalnızca modlar için. Simge referansı için lütfen harika satırı ziyaret edin.
+and_edwid_line31 === Widget türü. Bloklar, şablonların farklı bölümlerine yerleştirmek içindir, modals dinamik içerikler içindir. V3'ten beri, modals yalnızca gösterge tablosunda çalışacaktır.
+and_edwid_line34 === Engellemek
+and_edwid_line35 === kalıcı
+and_edwid_line41 === Widget boyutu, yalnızca modlar için.
+and_edwid_line53 === Widget konumu, yalnızca modlar için.
+and_edwid_line64 === Widget içeriği. Tüm html etiketlerine izin verilir, bilinmeyen kaynaklardan komut dosyaları eklerken dikkatli olun!
+and_import_line17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
+and_import_line20 === Örnek Dosya:
+and_import_line20_1 === İndirmek
+and_package_line36 === SMS Alma
+and_package_line41 === WhatsApp Gönder
+and_package_line46 === WhatsApp Alımı
+and_package_line51 === USSD
+and_package_line56 === Bildirimler
+and_package_line61 === Planlanmış SMS/Sohbetler
+and_package_line66 === Kişiler
+and_package_line71 === API Anahtarları
+and_package_line76 === Web kancaları
+and_package_line81 === Hareketler
+and_package_line86 === Android Cihazlar
+and_package_line91 === WhatsApp Hesapları
+and_redeem_line18 === Kodu kullan.
+and_redeem_line20 === Örneğin. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Satır sonu ile ayrılmış birden çok E.164 numarası. Bir numaraya eklendiği grupları seçmiş olsanız bile sadece 1 mesaj gönderilecektir.
+and_sms_bulk_31 === Birden çok kişi grubu seçin. Eklendiği yerde birden fazla grup seçmiş olsanız bile, bir kişiye yalnızca 1 mesaj gönderilecektir.
+and_sms_bulk_43 === kısaltıcı
+and_sms_bulk_43_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_sms_bulk_46 === Linkleri kısaltmayın
+and_sms_bulk_55 === Ağ Geçidi Modu
+and_sms_bulk_55_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
+and_sms_bulk_58 === Cihazlar
+and_sms_bulk_59 === Kredi
+and_sms_bulk_64 === Kullanılacak sim kart yuvası.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Etkinleştirilirse, bu mesajlar her şeyden önce gönderilir.
+and_sms_bulk_81 === Hazır mesaj şablonlarınız.
+and_sms_bulk_94 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
+and_sms_bulk_105 === SMS Ağ Geçidi
+and_sms_bulk_105_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
+and_sms_bulk_126 === Mesajı çevir.
+and_sms_bulk_131 === omurilik
+and_sms_bulk_131_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_sms_bulk_135 === Örnek:
+and_sms_bulk_143 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_sms_exe17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
+and_sms_exe20 === Örnek Dosya:
+and_sms_exe20_1 === İndirmek
+and_sms_exe27 === kısaltıcı
+and_sms_exe27_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_sms_exe30 === Linkleri kısaltmayın
+and_sms_exe39 === Ağ Geçidi Modu
+and_sms_exe39_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
+and_sms_exe42 === Cihazlar
+and_sms_exe43 === Kredi
+and_sms_exe47 === Hazır mesaj şablonlarınız.
+and_sms_exe60 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
+and_sms_exe70 === SMS Ağ Geçidi
+and_sms_exe70_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
+and_sms_exe92 === Mesajı çevir.
+and_sms_exe97 === omurilik
+and_sms_exe97_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_sms_exe109 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_sms_quick17 === Alıcı telefon numarası.
+and_sms_quick24 === Ağ Geçidi Modu
+and_sms_quick24_1 === Kullanmak istediğiniz ağ geçidi modu. Cihazları seçerseniz, bağlı cihazlarınız gönderilmek üzere gösterilir, aksi takdirde 3. taraf ve ortak ağ geçitleri gösterilir.
+and_sms_quick27 === Cihazlar
+and_sms_quick28 === Kredi
+and_sms_quick34 === kısaltıcı
+and_sms_quick34_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_sms_quick37 === Linkleri kısaltmayın
+and_sms_quick46 === Kullanılacak sim kart yuvası.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Etkinleştirilirse, bu mesajlar her şeyden önce gönderilir.
+and_sms_quick66 === Bağlı cihazlarınız, göndermek için ne kullanmak istediğinizi seçin.
+and_sms_quick77 === SMS Ağ Geçidi
+and_sms_quick77_1 === 3. taraf ve ortak ağ geçitleri, bu ağ geçitlerini kullanarak mesaj gönderdiğinizde kredileriniz kullanılacaktır. Kullanmadan önce ağ geçidi fiyatlarını kontrol etmenizi öneririz.
+and_sms_quick104 === omurilik
+and_sms_quick104_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_sysup17 === Dosyayı Güncelle
+and_sysup17_1 === Zip dosyasını güncelleyin, lütfen doğru dosyayı seçtiğinizden emin olun.
+and_upplug17 === Dosyayı Güncelle
+and_upplug17_1 === Zip dosyasını güncelleyin, lütfen doğru dosyayı seçtiğinizden emin olun.
+and_uset17 === Profil avatar resminiz.
+and_uset24 === Tam yasal adınız, lütfen sahte bir ad kullanmanın hesabınızın askıya alınmasına neden olabileceğini unutmayın.
+and_uset26 === Örneğin. Michael Shmuck
+and_uset31 === Geçerli e-posta adresiniz, mevcut e-posta adresinizi saklamak istiyorsanız bu alanı dikkate almayınız.
+and_uset33 === Örneğin. mail@mail.com
+and_uset38 === Bulunduğunuz yerin saat dilimi, farklı bir ülkedeyseniz bunu değiştirin. Gönderilen mesajların ve diğer verilerin tarih ve saat doğruluğu için saat dilimi kullanılır.
+and_uset49 === Ülke
+and_uset49_1 === Ülkeniz, bu ödemeler ve telefon numarası biçimlendirmesi için kullanılır.
+and_uset60 === Bildirim Sesleri
+and_uset60_1 === Devre dışı bırakılırsa, bildirimler sessiz olacaktır.
+and_uset70 === Mevcut şifrenizi korumak istiyorsanız lütfen bu alanı dikkate almayınız, aksi takdirde yeni şifrenizi giriniz.
+and_usub23 === Şu tarihe kadar geçerlidir:
+and_usub28 === SMS Gönder
+and_usub34 === SMS Alma
+and_usub40 === WhatsApp Gönder
+and_usub46 === WhatsApp Alımı
+and_usub57 === USSD
+and_usub63 === Bildirimler
+and_usub69 === Planlanmış SMS/Sohbetler
+and_usub98 === Hareketler
+and_usub104 === Android Cihazlar
+and_usub110 === WhatsApp Hesapları
+and_view20 === Tam görüntü
+and_whatsbulk_18 === Satır sonu ile ayrılmış birden çok E.164 numarası.
+and_whatsbulk_31 === Birden çok kişi grubu seçin. Bir kişinin birden fazla grubu varsa, dahil edildiği grupları seçerseniz mesajın bu kişiye birden çok kez gönderilebileceğini lütfen unutmayın.
+and_whatsbulk_43 === kısaltıcı
+and_whatsbulk_43_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_whatsbulk_46 === Linkleri kısaltmayın
+and_whatsbulk_55 === Hesap
+and_whatsbulk_55_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
+and_whatsbulk_64 === Hazır mesaj şablonlarınız.
+and_whatsbulk_79 === Mesajı çevir.
+and_whatsbulk_84 === omurilik
+and_whatsbulk_84_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_whatsbulk_96 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_whatex17 === Almak istediğiniz excel dosyası, lütfen gerekli formatı takip ettiğinizden emin olun.
+and_whatex20 === Örnek Dosya:
+and_whatex20_1 === İndirmek
+and_whatex27 === kısaltıcı
+and_whatex27_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_whatex30 === Linkleri kısaltmayın
+and_whatex39 === Hesap
+and_whatex39_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
+and_whatex48 === Hazır mesaj şablonlarınız.
+and_whatex63 === Mesajı çevir.
+and_whatex68 === omurilik
+and_whatex68_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_whatex80 === Mesajlarınızda kullanabileceğiniz değişkenler kümesi.
+and_whatquick_17 === E.164 alıcı telefon numarası.
+and_whatquick_24 === kısaltıcı
+and_whatquick_24_1 === Etkinleştirilirse, mesajlardaki bağlantılar seçilen kısaltıcı kullanılarak otomatik olarak kısaltılacaktır.
+and_whatquick_27 === Linkleri kısaltmayın
+and_whatquick_36 === Hesap
+and_whatquick_36_1 === Kullanmak istediğiniz WhatsApp hesabını seçin.
+and_whatquick_50 === Mesajı çevir.
+and_whatquick_55 === omurilik
+and_whatquick_55_1 === İletilerinizdeki sözcükleri rastgele belirlemenize olanak tanıyan ve spam algılamalarını etkili bir şekilde önleyen bir özellik.
+and_admin_api_3 === Yönetim API'sı
+and_admin_fileman_3 === Şablon Düzenleyici
+and_admin_gate_3 === SMS Ağ Geçitleri
+and_admin_gate_8 === Ağ Geçidi Ekle
+and_admin_lang_6 === Dilleri yeniden sırala
+and_admin_mark_3 === Pazarlama
+and_admin_mark_6 === Seçili öğeleri sil
+and_admin_mark_12 === İtmek
+and_admin_mark_17 === bildir
+and_admin_mark_22 === posta
+and_admin_payout_3 === Ödeme Talepleri
+and_admin_short_3 === kısaltıcılar
+and_admin_short_8 === Kısaltıcı Ekle
+and_admin_subs_8 === Abonelik Ekle
+and_admin_vouch_6 === Seçili öğeleri sil
+and_droid_dev_3 === Android Cihazlar
+and_droid_dev_6 === Belgeleri okuyun
+and_droid_dev_8 === Dokümanlar
+and_droid_dev_11 === İş ortağı ağ geçidi sağlayıcısı olmak için başvurun
+and_droid_dev_13 === ortaklık
+and_droid_dev_16 === Yeni bir android cihaz kaydedin
+and_droid_not_3 === Bildirimler
+and_droid_not_6 === Seçili öğeleri sil
+and_droid_rev_3 === alınan SMS
+and_droid_rev_6 === Seçili mesajları sil
+and_droid_sched_6 === Seçili öğeleri sil
+and_droid_sent_3 === SMS gönderildi
+and_droid_sent_6 === Seçili öğeleri sil
+and_droid_sent_10 === Bekleyen tüm mesajları temizle
+and_droid_sent_14 === Hızlı SMS Gönder
+and_droid_sent_16 === Hızlı
+and_droid_sent_19 === Toplu SMS Gönder
+and_droid_sent_21 === toplu
+and_droid_sent_24 === Excel ile Toplu SMS Gönderin
+and_droid_ussd_3 === USSD Talepleri
+and_droid_ussd_6 === Seçili öğeleri sil
+and_droid_ussd_10 === Bekleyen tüm istekleri sil
+and_droid_ussd_14 === Yeni USSD Talebi
+and_droid_ussd_16 === Rica etmek
+and_con_grp_6 === Seçili öğeleri sil
+and_con_grp_10 === Yeni kişi grubu ekle
+and_con_sav_6 === Seçili öğeleri sil
+and_con_sav_10 === Yeni kişi ekle
+and_con_sav_15 === Kişileri excel dosyasından içe aktar
+and_con_unsub_3 === abonelikten çıktı
+and_con_unsub_6 === Seçili öğeleri sil
+and_doc_act_3 === Hareketler
+and_doc_api_3 === API Belgeleri
+and_doc_dev_3 === Cihazlar
+and_doc_partner_3 === ortaklık
+and_doc_webhook_3 === Web kancaları
+and_rate_gate_3 === oranlar
+and_rate_gate_10 === Ülke
+and_rate_gate_11 === Mesaj Başına Oran
+and_rate_gate_22 === Diğer ülkeler
+and_rate_partner_3 === Ortak Oranları
+and_tool_act_3 === Hareketler
+and_tool_act_6 === Belgeleri okuyun
+and_tool_act_8 === Dokümanlar
+and_tool_act_11 === Yeni kanca eylemi ekle
+and_tool_act_13 === kanca
+and_tool_act_16 === Yeni otomatik yanıt eylemi ekle
+and_tool_act_18 === Otomatik cevap
+and_tool_key_6 === Belgeleri okuyun
+and_tool_key_8 === Dokümanlar
+and_tool_key_11 === Yeni bir API anahtarı oluşturun
+and_tool_webhook_6 === Belgeleri okuyun
+and_tool_webhook_8 === Dokümanlar
+and_what_accnt_6 === Yeni bir hesap bağla
+and_what_accnt_8 === Hesap eklemek
+and_what_attach_8 === Seçili mesajları sil
+and_what_rev_3 === Alınan Sohbetler
+and_what_rev_6 === Seçili öğeleri sil
+and_what_sched_6 === Seçili öğeleri sil
+and_what_sched_12 === Sohbet Planla
+and_what_sent_3 === Gönderilen Sohbetler
+and_what_sent_6 === Seçili öğeleri sil
+and_what_sent_10 === Hızlı Sohbet Gönder
+and_what_sent_12 === Hızlı
+and_what_sent_15 === Toplu Sohbet Gönder
+and_what_sent_17 === toplu
+and_what_sent_20 === Excel ile Toplu Sohbetler Gönderin
+and_def_f_blck_6 === Pazarlamaya Başlayın
+and_def_f_blck_7 === Birlikte işe başlayalım ve büyütelim, şimdi kaydolun ve yüksek kaliteli bir pazarlama platformunu deneyimleyin!
+and_def_f_blck_8 === Bize katılın
+and_def_f_blck_35 === Temasta olmak
+and_head_blck_21 === Ev
+and_head_blck_24 === Özellikler
+and_head_blck_27 === fiyatlandırma
+and_head_blck_30 === müşteriler
+and_head_blck_39 === Gösterge Paneli
+and_head_blck_42 === Çıkış Yap
+and_pages_default_8 === SMS ve WhatsApp pazarlamasının en iyisi
+and_pages_default_29 === SMS Mesajlaşma
+and_pages_default_31 === Android cihazlarınızı SMS ağ geçidi olarak kullanın, bu, üçüncü taraf ağ geçitlerini kullanmaktan daha ucuzdur.
+and_pages_default_40 === WhatsApp Mesajlaşma
+and_pages_default_42 === Pazarlama kampanyalarınız için WhatsApp'ı kullanın, platformumuz başlamanıza yardımcı olacak araçlar sağlar.
+and_pages_default_51 === Sezgisel Araçlar
+and_pages_default_53 === Otomatik yanıt, web kancaları ve daha fazlası gibi pazarlama görevlerinde size yardımcı olacak araçları sağlıyoruz.
+and_pages_default_62 === Para kazan
+and_pages_default_64 === Ortaklarımızdan biri olun ve android cihazlarınızı ağ geçidi olarak kullanın ve gönderilen her mesaj için para kazanın.
+and_pages_default_73 === Neden hizmetimizi kullanmalısınız?
+and_pages_default_74 === Hizmetimizi kullanmaya başlamanız için bazı nedenler
+and_pages_default_84 === Hızlı ve toplu gönderme
+and_pages_default_86 === Farklı kişi gruplarına kolayca tonlarca mesaj gönderin ve hızlı işlemler için hızlı mesajlar da gönderebilirsiniz. Platformumuz ayrıca canlı gösterge tablosu içerir, mesajlarınız gönderildiğinde veya alındığında bildirim alın!
+and_pages_default_89 === Kısa kodlar
+and_pages_default_89_1 === mesajlarınızı önceden tanımlanmış verilerle oluşturmak için.
+and_pages_default_90 === omurilik
+and_pages_default_90_1 === spam sorunlarıyla mücadele etmek için kelime kümesini rastgele hale getirmek için.
+and_pages_default_91 === Çevirmen
+and_pages_default_91_1 === hedef kitleyi dillerine göre hedeflemek için.
+and_pages_default_98 === Otomatik ve akıllı araçlar
+and_pages_default_100 === Biz kirli işlerle ilgilenirken işinizi yönetin, platformumuz akıllıdır ve yalnızca göndermek istediğiniz mesajlara ihtiyaç duyar, gerisini biz hallederiz!
+and_pages_default_103 === Takvim
+and_pages_default_103_1 === sms ve whatsapp sohbetleriniz istediğiniz tarihte.
+and_pages_default_104 === Web kancaları
+and_pages_default_104_1 === Hem sms hem de whatsapp'tan mesaj aldığınızda bazı görevleri otomatikleştirmek için.
+and_pages_default_105 === Hareketler
+and_pages_default_105_1 === otomatik yanıt oluşturmak ve olayların hızlı veri kontrolünü oluşturmak için.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === Operatörden bakiye kontrolü gibi ağla ilgili istekleri yapmak için.
+and_pages_default_107 === Bildirimler
+and_pages_default_107_1 === bağlı android cihazlardan otomatik görevler için de kullanılabilir.
+and_pages_default_137 === Stratejik özelliklerimizle iş başarınızı garanti ediyoruz
+and_pages_default_139 === Platformumuz, sürekli büyüyen pazarlama işletmelerinin taleplerini karşılamak için iyi hazırlanmış, hizmetimize harcadığınız her kuruşun hak edildiğinden ve size %100 memnuniyet sağladığından emin olmak istiyoruz!
+and_pages_default_145 === Kullanımı kolay ve akıcı platform
+and_pages_default_148 === Uygun fiyatlı ancak kaliteli hizmeti korur
+and_pages_default_156 === Sezgisel araçlar ve gösterge tablosu
+and_pages_default_159 === Ürünlerinizi pazarlarken hızlı ve gecikmesiz deneyim
+and_pages_default_171 === Hizmet Fiyatlandırması
+and_pages_default_187 === SMS Gönder
+and_pages_default_194 === SMS Alma
+and_pages_default_201 === WhatsApp Gönder
+and_pages_default_208 === WhatsApp Alımı
+and_pages_default_215 === USSD
+and_pages_default_222 === Bildirimler
+and_pages_default_229 === Planlanmış SMS/Sohbetler
+and_pages_default_236 === Kişiler
+and_pages_default_243 === API Anahtarları
+and_pages_default_250 === Web kancaları
+and_pages_default_257 === Hareketler
+and_pages_default_264 === Android Cihazlar
+and_pages_default_271 === WhatsApp Hesapları
+and_pages_default_287 === Müşterilerimiz
+and_pages_default_290 === 3.000'den fazla müşteri tarafından güvenilmektedir. Ürünlerinizi pazarlamaya başlayın ve işinizi bizimle büyütün!
+landing_title_default === SMS Ağ Geçidi Olarak Android Mobil Cihazlar
+landing_nav_login === Kayıt olmak
+landing_lead_desc === Ülkenizdeki pazarlama, toplu sms ve projeler için şebeke sağlayıcınızın sınırsız sms planını, ucuz ve uygun maliyetli çözümünü kullanın. Daha da geniş bir kitle erişimi için WhatsApp'ı kullanın, platformumuz başlamanıza yardımcı olacak eksiksiz araçlar sağlar.
+landing_footer_ourcomp === şirket dışı
+landing_footer_about === Hakkında
+landing_footer_tos === Kullanım Şartları
+landing_footer_privacy === Gizlilik Politikası
+landing_footer_links === Site Bağlantıları
+landing_footer_login === Kayıt olmak
+landing_footer_register === Üye olmak
+landing_footer_copyright === Tüm hakları Saklıdır
+dashboard_title_default === Gösterge Paneli
+dashboard_title_contacts === Kişiler
+dashboard_title_tools === Aletler
+dashboard_title_admin === Yönetim
+dashboard_nav_default === Gösterge Paneli
+dashboard_nav_contacts === Kişiler
+dashboard_nav_tools === Aletler
+dashboard_nav_menusubscription === abonelik
+dashboard_nav_menusettings === Ayarlar
+dashboard_nav_menulogout === Çıkış Yap
+dashboard_btn_addcontact === Kişi ekle
+dashboard_btn_adddevice === Cihaz ekle
+dashboard_btn_addgroup === Grup ekle
+dashboard_btn_addtemplate === Şablon Ekle
+dashboard_btn_addkey === Anahtar Ekle
+dashboard_btn_addhook === Web kancası ekle
+dashboard_btn_build === İnşa etmek
+dashboard_btn_buildsettings === Ayarlar
+dashboard_btn_settings === sistem
+dashboard_btn_theme === Tema
+dashboard_btn_adduser === Kullanıcı Ekle
+dashboard_btn_addpackage === Paket Ekle
+dashboard_btn_addwidget === Widget Ekle
+dashboard_btn_addlanguage === Dil Ekle
+dashboard_footer_about === Hakkında
+dashboard_footer_terms === Kullanım Şartları
+dashboard_footer_privacy === Gizlilik Politikası
+dashboard_footer_copyright === Tüm hakları Saklıdır
+dashboard_messages_menusent === Gönderilmiş
+dashboard_messages_menureceived === Alınan
+dashboard_messages_menutemplates === şablonlar
+dashboard_messages_tabreceivedtitle === Alınan Mesajlar
+dashboard_messages_tabtemplatestitle === şablonlar
+dashboard_messages_tablesentrecipient === alıcı
+dashboard_messages_tablesentmessage === İleti
+dashboard_messages_tablesentcreated === oluşturuldu
+dashboard_messages_tablesentoptions === Seçenekler
+dashboard_messages_tablereceivedsender === Gönderen
+dashboard_messages_tablereceivedmessage === İleti
+dashboard_messages_tablereceivedreceived === Alınan
+dashboard_messages_tablereceivedoptions === Seçenekler
+dashboard_messages_tabletemplatesname === şablon adı
+dashboard_messages_tabletemplatesformat === Şablon Formatı
+dashboard_messages_tabletemplatesoptions === Seçenekler
+dashboard_contacts_title === Kişiler
+dashboard_contacts_menusaved === kaydedildi
+dashboard_contacts_menugroups === Gruplar
+dashboard_contacts_tabsavedtitle === Kayıtlı Kişiler
+dashboard_contacts_tabgroupstitle === İletişim Grupları
+dashboard_contacts_tablesavedname === Kişi Adı
+dashboard_contacts_tablesavednumber === İletişim numarası
+dashboard_contacts_tablesavedoptions === Seçenekler
+dashboard_contacts_tablegroupsname === Grup ismi
+dashboard_contacts_tablegroupsoptions === Seçenekler
+dashboard_devices_tableregisteredbrand === Üretici firma
+dashboard_devices_tableregisteredversion === sürüm
+dashboard_devices_tableregisteredadded === Kayıtlı
+dashboard_devices_tableregisteredoptions === Seçenekler
+dashboard_tools_title === Aletler
+dashboard_tools_menukeys === API Anahtarları
+dashboard_tools_menuhooks === Web kancaları
+dashboard_tools_tabkeystitle === API Anahtarları
+dashboard_tools_tabhookstitle === Web kancaları
+dashboard_tools_tablekeysname === İsim
+dashboard_tools_tablekeyspermissions === izinler
+dashboard_tools_tablekeysoptions === Seçenekler
+dashboard_tools_tablehooksname === İsim
+dashboard_tools_tablehooksurl === Web kancası URL'si
+dashboard_tools_tablehooksoptions === Seçenekler
+dashboard_admin_title === yönetici
+dashboard_admin_menustats === İstatistik
+dashboard_admin_menuusers === Kullanıcılar
+dashboard_admin_menupackages === paketler
+dashboard_admin_menusubscriptions === abonelikler
+dashboard_admin_menutransactions === işlemler
+dashboard_admin_menuwidgets === Widget'lar
+dashboard_admin_menulanguages === Diller
+dashboard_admin_tabdefaultearningstitle === Kazanç
+dashboard_admin_tabdefaultmessageslast === Son 30 gün
+dashboard_admin_tabuserstitle === Kullanıcılar
+dashboard_admin_tabpackagestitle === paketler
+dashboard_admin_tabsubscriptionstitle === abonelikler
+dashboard_admin_tabtransactionstitle === işlemler
+dashboard_admin_tabwidgetstitle === Widget'lar
+dashboard_admin_tablanguagestitle === Diller
+dashboard_admin_tableusersname === İsim
+dashboard_admin_tableusersemail === E-posta
+dashboard_admin_tableusersoptions === Seçenekler
+dashboard_admin_tablepackagesname === İsim
+dashboard_admin_tablepackagesprice === Fiyat
+dashboard_admin_tablepackagesoptions === Seçenekler
+dashboard_admin_tablesubscriptionsuser === kullanıcı
+dashboard_admin_tablesubscriptionspackage === paket
+dashboard_admin_tablesubscriptionsprice === Fiyat
+dashboard_admin_tablesubscriptionsexpire === Son kullanma tarihi
+dashboard_admin_tablesubscriptionsoptions === Seçenekler
+dashboard_admin_tabletransactionscustomer === Müşteri
+dashboard_admin_tabletransactionsprovider === Sağlayıcı
+dashboard_admin_tablewidgetsname === Eklenti adı
+dashboard_admin_tablewidgetstype === Tip
+dashboard_admin_tablewidgetssize === Boyut
+dashboard_admin_tablewidgetsposition === Durum
+dashboard_admin_tablewidgetsoptions === Seçenekler
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === dil adı
+dashboard_admin_tablelanguagescreated === oluşturuldu
+dashboard_admin_tablelanguagesoptions === Seçenekler
+table_search_text === Arama
+table_search_placeholder === Anahtar kelimeleri buraya girin...
+response_invalid === Geçersiz istek!
+response_went_wrong === Bir şeyler yanlış gitti!
+response_session_false === Oturum mevcut değil!
+response_session_true === Oturum zaten var!
+response_invalid_emailpass === Geçersiz e-posta/şifre!
+response_loggedin_success === Başarıyla giriş yapıldı!
+response_loggedout_success === Başarıyla çıkış yapıldı!
+response_invalid_email === Geçersiz e-posta adresi!
+response_retrieval_received === Hesap alma talebi aldık, sizin tarafınızdan talep edilmediyse dikkate almayın.
+response_solve_captcha === Lütfen anti-bot mücadelesini çözün!
+response_register_false === Kayıtlar devre dışı!
+response_name_short === İsim çok kısa!
+response_password_short === Şifre 5 karakterden uzun olmalıdır!
+response_password_notmatch === Şifreler uyuşmuyor!
+response_register_success === Kayıt başarılı!
+response_email_unavailable === E-posta adresi zaten kayıtlıydı!
+response_upload_applogo === Lütfen uygulama logonuzu yükleyin!
+response_upload_appsplash === Lütfen uygulama sıçramanızı yükleyin!
+response_pcode_empty === Lütfen satın alma kodunu sistem ayarlarına giriniz!
+response_buildserver_false === Sunucu oluşturmak için bağlanılamıyor!
+response_invalid_number === Geçersiz telefon numarası!
+response_message_short === Mesaj çok kısa!
+response_message_queued === Mesaj kuyruğa eklendi!
+response_message_bulkqueued === Toplu mesajlar gönderilmek üzere sıraya alındı!
+response_format_short === Biçim çok kısa!
+response_template_added === Şablon eklendi!
+response_number_exist === İletişim numarası zaten mevcut!
+response_contact_added === İletişim eklendi!
+response_group_added === İletişim grubu eklendi!
+response_permission_min === Lütfen en az 1 izin seçin!
+response_key_added === API anahtarı eklendi!
+response_invalid_webhookurl === Geçersiz Web kancası URL'si!
+response_webhook_added === Web kancası ahs eklendi!
+response_user_added === Kullanıcı eklendi!
+response_package_added === Paket eklendi!
+response_widget_added === Widget eklendi!
+response_language_added === Dil eklendi!
+response_avatar_invalid === Avatar yüklenemiyor!
+response_profile_updated === Profil güncellendi!
+response_package_purchasedtitle === Premium pakete abone oldunuz, işte makbuzunuz!
+response_package_purchased === Pakete başarıyla abone olundu!
+response_template_updated === Şablon güncellendi!
+response_contact_updated === İletişim güncellendi!
+response_group_updated === İletişim grubu güncellendi!
+response_key_updated === API anahtarı güncellendi!
+response_webhook_updated === Web kancası güncellendi!
+response_user_updated === Kullanıcı güncellendi!
+response_package_updated === Paket güncellendi!
+response_widget_updated === Widget güncellendi!
+response_language_updated === Dil güncellendi!
+response_builder_packagenameshort === Paket adı çok kısa!
+response_builder_appnameshort === Uygulama adı çok kısa!
+response_builder_applogofail === Uygulama logosu yüklenemiyor!
+response_builder_appsplashfail === Uygulama sıçraması yüklenemiyor!
+response_builder_settingsupdated === Oluşturucu ayarları güncellendi!
+response_theme_updated === Tema ayarları güncellendi!
+response_system_settingsupdated === Sistem ayarları güncellendi!
+response_deleted_sent === Gönderilen mesaj silindi!
+response_deleted_received === Alınan mesaj silindi!
+response_deleted_template === Şablon silindi!
+response_deleted_contact === Kişi silindi!
+response_deleted_group === Kişi grubu silindi!
+response_deleted_device === Cihaz silindi!
+response_deleted_key === API anahtarı silindi!
+response_deleted_hook === Web kancası silindi!
+response_deleted_defaultuserfalse === Varsayılan kullanıcı silinemez!
+response_deleted_user === Kullanıcı silindi!
+response_deleted_defaultpackagefalse === Varsayılan paket silinemez!
+response_deleted_package === Paket silindi!
+response_deleted_subscription === Abonelikler silindi!
+response_deleted_widget === Widget silindi!
+response_deleted_defaultlangfalse === Varsayılan dil silinemez!
+response_deleted_language === Dil silindi!
+response_lang_changed === Dil değiştirildi!
+modal_usersettings_title === Ayarlar
+modal_subscription_title === abonelik
+modal_packages_title === paketler
+modal_smsquick_title === Hızlı SMS
+modal_smsbulk_title === Toplu sms
+modal_addtemplate_title === Şablon Ekle
+modal_edittemplate_title === Şablonu Düzenle
+modal_addcontact_title === Kişi ekle
+modal_editcontact_title === Kişiyi Düzenle
+modal_addgroup_title === Grup ekle
+modal_editgroup_title === Grubu Düzenle
+modal_adddevice_title === Cihaz ekle
+modal_addkey_title === API Anahtarı Ekle
+modal_editkey_title === API Anahtarını Düzenle
+modal_edithook_title === Web kancasını düzenle
+modal_buildersettings_title === Oluşturucu Ayarları
+modal_themesettings_title === Tema ayarları
+modal_systemsettings_title === Sistem ayarları
+modal_adduser_title === Kullanıcı Ekle
+modal_edituser_title === kullanıcıyı düzenle
+modal_addpackage_title === Paket Ekle
+modal_editpackage_title === Paketi Düzenle
+modal_addwidget_title === Widget Ekle
+modal_editwidget_title === Widget'ı Düzenle
+modal_addlanguage_title === Dil ekle
+modal_editlanguage_title === Dili Düzenle
+require_email === e-posta adresi
+require_password === Şifre
+require_name === Ad Soyad
+require_cpassword === Şifre onayı
+require_phone === Telefon numarası
+require_device === Cihaz
+require_message === İleti
+require_groups === Kişi grupları
+require_sim === Sim yuvası
+require_priority === Öncelik seçeneği
+require_api === API seçeneği
+require_templatename === Şablon adı
+require_templateformat === Şablon biçimi
+require_contactname === Kişi adı
+require_group === Kişi grubu
+require_groupname === Grup ismi
+require_apiname === API anahtarı adı
+require_permissions === izinler
+require_hookname === Web kancası adı
+require_hookurl === Web kancası url'si
+require_appname === Uygulama ismi
+require_appcolor === Uygulama rengi
+require_packagename === Paket ismi
+require_widgetname === Eklenti adı
+require_widgetsize === Widget boyutu
+require_widgetposition === Widget konumu
+require_widgettype === Widget türü
+require_languagename === Dil adı
+require_languageiso === dil izo
+require_languagestr === Dil çevirileri
+btn_submit === Göndermek
+btn_download === İndirmek
+btn_done === Tamamlandı
+btn_purchase === Satın alma
+btn_free === Özgür
+btn_send === Göndermek
+btn_save === Kaydetmek
+btn_packages === paketler
+btn_retrieve === Geri almak
+btn_signin === Kayıt olmak
+btn_signup === Üye olmak
+form_name === İsim
+form_number === Telefon numarası
+form_group === İletişim Grubu
+form_adddevice_one === Hesabınıza yeni bir android cihaz eklemek çok kolay, değerli zamanınızı boşa harcamadan devam edebilmenizi sağladık, aşağıdaki adımları izleyin.
+form_adddevice_two === 1. İndir ve Yükle
+form_adddevice_three === Öncelikle bu butona tıklayarak ağ geçidi uygulamamızı indirin ve kurun.
+form_adddevice_four === 2. Cihazı Kaydet
+form_adddevice_five === Şimdi ağ geçidi uygulamasını açın ve tara düğmesine tıklayın, ardından bu qrcode'u tarayın.
+form_adddevice_six === 3. Bitti!
+form_adddevice_seven === Cihaz hesabınıza eklendi, artık mesaj göndermeye başlayabilirsiniz!
+form_permissions === izinler
+form_countrycode === Ülke kodu
+form_translations === Çeviri Dizeleri
+form_translations_placeholder === Çevirileri buraya girin...
+form_packageprice === Fiyat
+form_packagesend === Sınır Gönder
+form_packagereceive === Alma Sınırı
+form_packagedevice === Cihaz Sınırı
+form_packagekey === Anahtar Sınırı
+form_packagehook === Web kancası Sınırı
+form_templatename_placeholder === Duyuru
+form_templateformat === Biçim
+form_templateformat_placeholder === Şablon biçiminizi buraya girin...
+form_shortcodes === Kısa kodlar
+form_emailaddress === E-posta Adresi
+form_password === Şifre
+form_password_leave === Mevcut şifreyi saklamak için boş bırakın
+form_language === Dil
+form_webhookname_placeholder === Yanıtla Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Kullanım Şartları
+form_widgeticon === simge
+form_widgettype === Tip
+form_widgetsize === Boyut
+form_widgetsmall === Küçük
+form_widgetmedium === Orta
+form_widgetlarge === Büyük
+form_widgetxlarge === Ekstra büyük
+form_widgetposition === Durum
+form_widgetcenter === merkez
+form_widgetleft === Ayrıldı
+form_widgetright === Doğru
+form_widgetcontent === İçerik
+form_builderpackagename === Paket ismi
+form_builderappname === Uygulama ismi
+form_builderappdesc === Uygulama Açıklaması
+form_builderappdesc_placeholder === Bu harika bir uygulama
+form_builderapplogo === Uygulama Logosu
+form_builderappsplash === Uygulama Açılış Ekranı
+form_uploaded === yüklendi
+form_notuploaded === Hiçbiri
+form_themebg === Arka plan rengi
+form_themetext === Vurgu Rengi
+form_settingsite === Alan
+form_settingssitename === Site adı
+form_settingssitedesc === Site Açıklaması
+form_settingspcode === Satın alma kodu
+form_settingsprotocol === Protokol
+form_settingsdeflang === Varsayılan dil
+form_settingsreg === Kayıtlar
+form_settingsmailing === postalama
+form_settingsmailfunc === Posta İşlevi
+form_settingssitemail === Site E-postası
+form_settingssmtphost === SMTP Ana Bilgisayarı
+form_settingssmtpport === SMTP Bağlantı Noktası
+form_settingssmtpusername === SMTP Kullanıcı Adı
+form_settingssmtppassword === SMTP Şifresi
+form_settingssmtp_small === Uzak SMTP için gerekli
+form_settingspayments === ödemeler
+form_settingspaypaltest === Paypal Test Modu
+form_settingssecurity === Güvenlik
+form_settingsrecaptchakey === Recaptcha Site Anahtarı
+form_settingsrecaptchasecret === Recaptcha Gizli Anahtarı
+form_enable === Olanak vermek
+form_disable === Devre dışı bırakmak
+form_native === Yerli
+form_remotesmtp === Uzak SMTP
+form_device === Mobil cihaz
+form_sim === Sim Yuvası
+form_priority === Öncelik
+form_yes === Evet
+form_no === Numara
+form_freefor === sonsuza kadar ücretsiz
+form_monthly === Aylık
+form_groups === İletişim Grupları
+form_template === Şablon
+form_none === Hiçbiri
+form_message === İleti
+form_message_placeholder === Mesajınızı buraya girin...
+form_avatar === avatar
+form_changepass === Şifre değiştir
+form_package === paket
+form_keys === API Anahtarları
+form_hooks === Web kancaları
+form_daily === günlük
+form_forgotpass === Parolanızı mı unuttunuz
+form_fullname === Ad Soyad
+form_cpassword === Şifreyi Onayla
+form_haveaccount === Bir hesabım var
+datatable_processing === İşleniyor .. Lütfen bekleyin...
+datatable_length === _MENU_ giriş gösteriliyor
+datatable_info === _TOTAL_ kayıttan _START_ ile _END_ arası gösteriliyor
+datatable_empty === 0 girdiden 0 ile 0 arası gösteriliyor
+datatable_filtered === (_MAX_ toplam girişten filtrelenmiştir)
+datatable_loading === Yükleniyor lütfen bekleyin...
+datatable_zero === Sorgunuzla eşleşen hiçbir şey bulamıyoruz!
+datatable_null === Görüntülenecek veri yok!
+datatable_first === Öncelikle
+datatable_prev === Öncesi
+datatable_next === Sonraki
+datatable_last === Son
+delete_title === Silmek?
+delete_tagline === Bu işlem geri alınamaz!
+validate_cannotemp === boş olamaz!
+alert_attention === Dikkat
+copy_data === Veriler panoya kopyalandı!
+date_today === Bugün
+date_yesterday === Dün
+date_7days === Son 7 gün
+date_30days === Son 30 gün
+date_month === Bu ay
+date_lmonth === Geçen ay
+date_custom === Özel Aralık
+unknown_action_method === Bilinmeyen eylem yöntemi!
+mollie_redirecting_page === Mollie ödeme sayfasına yönlendiriliyor...
+form_settingsmolliekey === Mollie API Anahtarı
+btn_confirm === Onaylamak
+btn_cancel === İptal
+recaptcha_add_keys === Bu özelliği etkinleştirmek için lütfen recaptcha anahtarlarınızı ekleyin!
+pay_with_paypal === PayPal ile öde
+pay_with_mollie === Mollie ile öde
+form_settingsenabledproviders === Etkin Sağlayıcılar
+form_builderappicon === Uygulama Simgesi
+payment_transact_failed === Ödeme işlemi başarısız oldu!
+cookieconsent_message === Web sitemizde en iyi deneyimi yaşamanızı sağlamak için çerezler kullanıyoruz.
+cookieconsent_link === Daha fazla bilgi edin
+role_added === Rol eklendi!
+role_updated === Rol güncellendi!
+role_deleted === Rol silindi!
+role_default_update === Varsayılan rol düzenlenemez!
+role_default_delete === Varsayılan rol silinemez!
+voucher_added === Kupon eklendi!
+form_voucher === Kupon Kodu
+btn_redeem === Tazmin etmek
+invalid_voucher_code === Geçersiz kupon kodu!
+voucher_deleted === Kupon silindi!
+form_title_addvoucher === Kupon Ekle
+form_title_addsubscription === Abonelik Ekle
+form_adduser_role === rol
+require_pagename === Sayfa ismi
+require_pageroles === İzin Verilen Roller
+form_pageroles === İzin Verilen Roller
+require_vouchercode === kupon kodu
+form_settingscurrency === Para birimi
+btn_bulkexcel === Excel
+response_leastprovider === Lütfen en az 1 ödeme sağlayıcı seçin!
+user_subscriptioncontacts === Kişiler
+response_suspended === Hesabınız yönetici tarafından askıya alındı!
+response_adminsuspend === Varsayılan hesap askıya alınamaz!
+response_successsuspend === Kullanıcı askıya alındı!
+response_successunsuspend === Kullanıcının askıya alma işlemi kaldırıldı!
+suspend_user_title === Kullanıcı Askıya Alınsın mı?
+suspend_user_desc === Bu kullanıcı oturum açamayacak ve hizmetleri kullanamayacak
+unsuspend_user_title === Kullanıcının Askıya Alınması Kaldırılsın mı?
+unsuspend_user_desc === Bu kullanıcı tekrar oturum açabilecek ve hizmetleri tekrar kullanabilecek
+all_languages === Bütün diller
+response_invalid_excel === Geçersiz excel dosyası!
+response_contacts_imported === Kişiler içe aktarıldı!
+table_role_name === Rol ismi
+table_role_permissions === izinler
+table_voucher_name === İsim
+table_voucher_package === paket
+table_page_name === Sayfa ismi
+table_page_require === Giriş Gerektir
+table_page_roles === İzin Verilen Roller
+import_btn === İçe aktarmak
+form_excelfile === Excel Dosyası
+form_hook_addtitle === Kanca Eylemi Ekle
+form_hook_edittitle === Kanca Eylemini Düzenle
+form_hook_event === Etkinlik
+form_hook_link === Bağlantı Yapısı
+form_autoreply_addtitle === Yanıt Eylemi Ekle
+form_autoreply_edittitle === Yanıt Eylemini Düzenle
+form_autoreply_keywords === anahtar kelimeler
+form_autoreply_message === Mesajı Yanıtla
+require_action_name === Eylem adı
+require_action_event === Etkinlik tipi
+require_action_link === Bağlantı yapısı
+require_action_keywords === anahtar kelimeler
+require_action_message === Mesajı yanıtla
+response_invalid_linkstructure === Geçersiz bağlantı yapısı!
+response_hook_added === SMS kancası eylemi eklendi!
+response_invalid_keywords === En az 1 anahtar kelime girmelisiniz!
+response_autoreply_added === SMS cevaplama işlemi eklendi!
+response_hook_updated === SMS kancası eylemi güncellendi!
+response_autoreply_updated === SMS cevaplama işlemi güncellendi!
+response_action_deleted === SMS eylemi silindi!
+table_action_name === İsim
+form_scheduled_title === SMS programlayın
+response_scheduled_deleted === Planlanmış mesaj silindi!
+response_no_permission === Bu işlem için izniniz yok!
+response_builder_appiconfail === Uygulama simgesi yüklenemiyor!
+form_require_login === Giriş Gerektir
+widget_addpage_title === Sayfa ekle
+widget_editpage_title === Sayfayı düzenle
+require_subscription_user === kullanıcı
+require_voucher_name === kupon adı
+require_voucher_package === paket
+widget_alllang_title === Bütün diller
+widget_smsexcel_title === Excel ile Toplu SMS
+require_scheduled_name === İsim
+require_scheduled_date === program tarihi
+widget_importcontacts_title === Kişileri İçe Aktar
+require_addrole_name === Rol ismi
+require_addrole_permissions === izinler
+widget_editrole_title === Rolü Düzenle
+response_page_added === Sayfa eklendi!
+response_page_updated === Sayfa güncellendi!
+response_page_deleted === Sayfa silindi!
+table_scheduled_name === İsim
+messages_scheduled_title === zamanlanmış
+messages_scheduled_schedule === SMS programlayın
+form_schedule_numbers === Cep Numaraları
+form_schedule_schedule === Takvim
+form_schedule_repeat === Tekrar et
+form_bulksms_numbers === Cep Numaraları
+dashboard_tools_menuactions === Hareketler
+dashboard_admin_menuroles === Roller
+dashboard_admin_menuvouchers === Kuponlar
+dashboard_admin_menupages === Sayfalar
+admin_gateway_title === Geçit
+admin_gateway_status === Durum
+admin_gateway_notuploaded === Yüklenmedi
+admin_gateway_uploaded === yüklendi
+dashboard_roles_title === Kullanıcı rolleri
+dashboard_roles_addrole === Rol Ekle
+dashboard_vouchers_title === Kuponlar
+dashboard_vouchers_addrole === Kupon Ekle
+form_voucher_package === paket
+dashboard_pages_title === Sayfalar
+dashboard_pages_addpage === Sayfa ekle
+form_theme_favicon === Favicon
+form_package_contactslimit === Kişi Sınırı
+response_limitation_send === Bugün için izin verilen maksimum gönderim sayısına ulaştınız!
+response_limitation_contact === İzin verilen maksimum kişiye ulaştınız!
+response_limitation_key === İzin verilen maksimum API anahtarına ulaştınız!
+response_limitation_webhook === İzin verilen maksimum web kancasına ulaştınız!
+form_adminsettings_token === Sistem Simgesi
+response_upload_appicon === Lütfen uygulama simgenizi yükleyin!
+app_status_gateway_running === Ağ geçidi çalışıyor!
+app_device_registered === bağlantılı
+app_device_unregistered === Bağlantılı Değil
+app_terminal_gateway_ready === Ağ geçidi hazır...
+app_terminal_gateway_register === Cihaz henüz bağlanmadı...
+app_terminal_gateway_hash === Doğramak
+app_terminal_gateway_registered === Cihaz bağlandı...
+app_terminal_gateway_device === Cihaz bağlanamadı...
+app_terminal_gateway_connecterror === Sunucuya bağlanırken hata oluştu...
+app_terminal_gateway_started === Ağ geçidi başlatıldı...
+app_terminal_gateway_stopped === Ağ geçidi durduruldu...
+app_terminal_gateway_unregistered === Ağ geçidi başlatılamıyor, cihaz henüz herhangi bir hesaba bağlı değil...
+app_terminal_feature_error === SMS özelliği hatası
+app_terminal_sms_sent === Mesajı gönderildi
+app_terminal_message_failed === mesaj gönderilemedi
+app_dialog_wait === Lütfen bekle...
+app_dialog_exit === Ağ Geçidinden Çık
+app_dialog_exit_desc === Kapatma ve ağ geçidinden çıkış?
+app_camera_qrcode_inside === QRCode'unuzu içine yerleştirin
+app_ui_status === Durum
+app_ui_exit === çıkış
+require_voucher_count === Kupon sayısı boş olamaz!
+form_voucher_count === Kupon Sayısı
+cookieconsent_dismiss === Anladım!
+title_payment_success === Sipariş onayı
+title_payment_cancel === Sipariş iptal edildi
+header_payment_success === Sipariş onayı
+header_payment_cancel === Sipariş iptal edildi
+body_payment_cancel === Sipariş isteğinizi iptal ettiniz.
+transaction_payment_success === İşlem Kimliği:
+back_payment_page === Gösterge Tablosuna Geri Dön
+form_settingspaypalemail === Paypal İş E-postası
+form_settingsanalytics === Google Analytics Anahtarı
+form_messagecounterchars === karakterler
+form_settingspagination === Sayfalandırma Sınırları
+form_settingssentpage === Sayfa Başına Gönderilen Mesaj Sayısı
+form_settingsreceivedpage === Sayfa Başına Alınan Mesaj Sayısı
+form_settingsmessage === Mesaj ayarları
+form_settingsmessagemin === Minimum Karakterler
+form_settingsmessagemax === Maksimum Karakter
+form_settingsmessagemark === Mesaj Alt İşareti
+form_packagefootermark === Mesaj Alt İşareti
+form_settingssmtpsecure === SMTP Güvenliği
+form_durationtitle === Süre
+form_durationpackage === Paketin:
+form_durationpay === Ödeyeceksin:
+form_durationmonth === Ay Süre
+form_subscriptionmonth === Ay Süre
+authenticate_fblogin === Facebook ile giriş yapmak...
+authenticate_googlelogin === Google ile giriş yapmak...
+authenticate_vklogin === vkontakte ile giriş yapmak...
+response_minplatforms === Lütfen en az 1 sosyal platform seçin!
+form_settingssocialtitle === Sosyal ayarlar
+form_settingssocial === Sosyal Kimlik Doğrulama
+form_settingssocialplatforms === Etkin Platformlar
+form_usertimezone === Saat dilimi
+form_settingsloginrecaptcha === Giriş Yap
+form_loginor === VEYA
+form_adddevicescandl === QR Taraması ile İndir
+form_status_online === Çevrimiçi
+form_status_offline === Çevrimdışı
+form_smsbulknonumbers === Lütfen bir kişi grubu seçin veya alıcı numaralarını girin!
+form_addsubscriptionuser === kullanıcı
+form_addsubscriptionpackage === paket
+table_vouchersduration === Ay Süre
+table_pluginsname === Eklenti Adı
+table_pluginsoptions === Seçenekler
+dashboard_admin_menuplugins === Eklentiler
+dashboard_admin_pluginstitle === Eklentiler
+dashboard_admin_pluginsadd === Eklenti Ekle
+require_pluginfile === Eklenti Dosyası
+modal_addplugin_title === Eklenti Ekle
+response_pluginwentwrong === Eklenti yüklenirken bir şeyler ters gitti!
+response_plugininstalled === Eklenti kuruldu!
+dashboard_title_login === Giriş yapmak
+dashboard_title_forgot === Parolanızı mı unuttunuz
+dashboard_title_register === Kayıt ol
+response_limitation_contact2 === Aboneliğinizde maksimum kişi sayısına ulaştınız, yalnızca _8880_ kişi içe aktarıldı!
+response_contacts_imported2 === _8880_ kişi başarıyla içe aktarıldı!
+form_systemsettingshomepage === Varsayılan anasayfa
+app_dialog_update_desc === Ağ geçidi uygulaması için yeni bir sürüm var, güncelleme gerekiyor!
+app_dialog_update_download === İndirmek
+app_gateway_build_text === Ağ Geçidi Oluşturma
+response_gateway_available === Ağ geçidi indiriliyor, lütfen bekleyin...
+response_gateway_unavailable === Ağ geçidi kullanılamıyor, lütfen site yöneticisiyle iletişime geçin!
+response_gateway_randommax === Maksimum gönderme aralığı 300 saniyeden fazla olamaz!
+response_device_updated === Cihaz güncellendi!
+form_editdevice_devicename === Cihaz adı
+form_editdevice_randomsend === Rastgele Gönderme Aralığı
+form_editdevice_randommin === Gönderme Aralığı Min
+form_editdevice_randommax === Gönderme Aralığı Maks
+form_smsall_globalstatus === küresel
+form_select_multinone === Hiçbiri
+form_package_hiddenselect === Gizlenmiş
+landing_footer_ourcompnew === Şirketimiz
+form_smsschedule_submit === Takvim
+require_devicename === Cihaz adı
+require_randommin === Rastgele minimum aralık
+require_randommax === Rastgele maksimum aralık
+admin_update_installed === Kurulmuş
+admin_update_btn === Güncelleme
+response_update_success === Sistem güncellendi!
+form_settings_tawkchatlink === Tawk Doğrudan Sohbet Bağlantısı
+model_title_editplugin === Eklentiyi Düzenle
+btn_other_paymentmethods === Diğer ödeme seçenekleri
+dashboard_btn_support === Destek
+pendingdelete_title === Silinsin mi?
+pendingdelete_desc === Bekleyen tüm mesajlar silinsin mi? Bu işlem geri alınamaz!
+dashboard_messages_tablefullmessage === Tam Mesaj
+administration_landing_btncache === önbellek
+administration_landing_payouts === ödemeler
+administration_landing_marketing === Pazarlama
+administration_landing_gateways === ağ geçitleri
+administration_landing_shorteners === kısaltıcılar
+administration_landing_editor === Şablon Düzenleyici
+administration_landing_api === Yönetici API'sı
+administration_landing_build === İnşa etmek
+administration_landing_system === sistem
+requests_charts_smssent === SMS Gönderildi
+requests_charts_smsreceived === SMS Alındı
+requests_charts_wasent === WhatsApp Gönderildi
+requests_charts_wareceived === WhatsApp Alındı
+requests_charts_ussd === USSD
+requests_charts_notifications === Bildirimler
+requests_charts_credits === Kredi
+administration_default_visitors === Ziyaretçi
+administration_default_countries === Ülkeler
+administration_default_browsers === tarayıcılar
+administration_default_os === İşletim sistemleri
+administration_default_usages === kullanımlar
+administration_default_messages === Mesajlar
+administration_default_utilities === Araçlar
+administration_default_subscriptions === abonelikler
+administration_default_credits === Kredi
+tables_users_registered === Kayıtlı
+tables_users_details === Detaylar
+dashboard_title_android === Android
+dashboard_title_whatsapp === Naber
+dashboard_title_gatewayrates === Ağ Geçidi Oranları
+dashboard_title_docs === Belgeler
+app_status_gateway_touch === Ağ geçidini açmak için buraya dokunun
+app_dialog_downloading_update === Güncelleme indiriliyor
+app_dialog_interface_disabled === Arayüz devre dışı, lütfen uygulamayı en son sürüme güncelleyin!
+app_dialog_somethingwent_wrong === Hoop! Birşeyler yanlış gitti!
+app_intro_level_1 === Deneyiminizi en üst düzeye çıkarmak ve uygulamaya aşina olmak için platformumuzu kullandığınız için teşekkür ederiz, hadi keşfedelim ve bilmeniz gereken tüm temel işlevleri açıklayacağız.
+app_intro_level_2 === Burada cihaz adını ve bağlantı durumunu göreceksiniz.
+app_intro_level_3 === Cihazı hesabınıza bağlamak için, giriş yapmak için bu düğmeyi kullanın veya bağlantı için QRCode'unuzu tarayın.
+app_intro_level_4 === Ağ geçidini açmak veya kapatmak için bu anahtarı kullanın.
+app_intro_level_5 === Bu anahtarın etkinleştirilmesi, ağ geçidi uygulamasının daha sonra platformda programlı olarak yönetilebilen yeni bildirimleri dinlemesini sağlar. Bu, varsayılan olarak devre dışıdır.
+app_intro_level_6 === Ağ geçidi uygulamasından çıkmak ve çıkmak için bu düğmeyi kullanın.
+app_intro_level_7 === Bu terminal, mesaj işlemleri ve diğer aktivite günlükleri burada gösterilecektir.
+app_intro_level_8 === Bu, kayan eylem düğmesidir, bazı seçeneklere ve <b>Arka Planda Çalıştır</b> gibi ek sayfalara buradan erişebilirsiniz.
+app_dialog_tour_complete === Artık uygulamanın nasıl çalıştığını anlamalısınız, ek sorularınız için lütfen bizimle iletişime geçin!
+app_push_right_now === şimdi
+app_device_detailes_updated === Cihaz detayları güncellendi!
+app_ussd_requests_notsupported === USSD istekleri desteklenmiyor...
+app_notifications_listening_now === Yeni bildirimler dinleniyor...
+app_button_ok === Onaylamak
+app_dialog_update_smoothperm === Sorunsuz ve verimli güncellemeler için lütfen bu uygulamadan yükleme iznine izin verin.
+app_dialog_logging_in === Giriş...
+app_dialog_invalid_email === Geçersiz bir e-posta girdiniz!
+app_dialog_invalid_password === Şifre geçerli olamayacak kadar kısa!
+app_dialog_notsupported_notinougat === Bildirimler şu anda nuga ve altı için desteklenmiyor, rahatsızlıktan dolayı özür dileriz.
+app_dialog_notifications_permission === Bildirimlere programlı olarak erişmek için uygulama özel bir izin gerektirir. Lütfen listeden uygulamayı seçin ve ardından bildirim erişimine izin verin.
+app_dialog_gateway_listennoti === Ağ geçidi şimdi yeni bildirimleri dinleyecektir.
+app_dialog_gateway_notirestart === Ağ geçidi yeniden başlatılacak ve yeni bildirimleri dinlemeyi durduracaktır.
+app_dialog_needto_link === Bu özelliği kullanmadan önce cihazı hesabınıza bağlamanız gerekir.
+app_dialog_logoutfrom_device === Bu ağ geçidi cihazından çıkış yapılsın mı?
+app_document_runbackground === Arka planda çalıştır
+app_document_input_email === E-posta Adresi
+app_document_input_password === Şifre
+app_document_btn_login === Giriş yapmak
+app_document_text_or === veya
+app_document_btn_scan === QR Kodunu Tara
+app_document_btn_cancel === İptal
+app_intro_next_btn === Sonraki
+app_intro_back_btn === Geri
+response_token_generated === Sistem jetonu yeniden oluşturuldu!
+response_trigger_done === Web kancası tetiklendi!
+response_build_gservicesfile === Lütfen google hizmetleri dosyanızı yükleyin!
+response_build_fcredentialsfile === Lütfen firebase kimlik dosyanızı yükleyin!
+response_build_loginlogo === Lütfen uygulama giriş logonuzu yükleyin!
+response_whatsapp_notprem === Hesap herhangi bir premium pakete abone değil!
+response_whatsapp_maxaccounts === Paketiniz için izin verilen maksimum WhatsApp hesabına ulaştınız!
+response_whatsapp_creatingqr === WhatsApp QRCode Oluşturma
+response_whatsapp_noconnectserver === WhatsApp sunucularına bağlanılamıyor!
+response_chart_dashsmssent === SMS Gönderildi
+response_chart_dashsmsreceive === SMS Alındı
+response_chart_dashwasent === WA Gönderildi
+response_chart_dashwareceive === WA Alındı
+response_chart_dashwebhooks === Web kancaları
+response_chart_dashactions === Hareketler
+response_chart_dashussd === USSD
+response_chart_dashnoti === Bildirimler
+response_resend_queued === İleti gönderilmek üzere sıraya alındı!
+mail_title_payoutapproved === Ödeme talebiniz ödendi!
+response_payout_confirmed === Ödeme onaylandı!
+mail_title_payoutrejected === Ödeme talebiniz reddedildi!
+response_payout_rejected === Ödeme reddedildi!
+response_translate_msgshort === Mesaj çok kısa!
+response_clear_systemcleared === Sistem önbellek dosyaları temizlendi!
+response_clear_smscleared === Bekleyen mesajlar temizlendi!
+response_clear_ussdcleared === Bekleyen USSD istekleri temizlendi!
+response_reorder_languages === Diller yeniden düzenlendi!
+response_trash_selectedremoved === Seçilen öğeler silindi!
+response_voucher_redeemed === Kupon kullanıldı!
+response_payout_invalidamount === Geçersiz ödeme tutarı, ondalık değerler içermemelidir.
+response_payout_notenoughbal === Talebi işleme koymak için yeterli kazanç bakiyesi yok!
+response_payout_reqreceive === Ödeme talebiniz alındı!
+response_payout_pendingreq === Hala bekleyen bir ödeme talebiniz var!
+response_system_sysconfigerr === Sistem yapılandırma hatası!
+response_message_toolong === Mesajınız çok uzun!
+response_package_nosubwarn === Paket aboneliğiniz yok!
+response_message_notenoughcredsend === Bu mesajı göndermek için yeterli kredi yok!
+response_message_queuedforsend === İleti gönderilmek üzere sıraya alındı!
+response_message_sentsuccess === Mesaj gönderildi!
+response_message_unablesendmesg === Mesajınızı gönderemiyoruz!
+response_smsexcel_phonenotfound === _8880_ sütunu excel dosyanızda bulunamadı!
+response_smssched_queued === Mesaj planlandı!
+response_ussd_maximumreq === Maksimum USSD isteği sayısına ulaşıldı!
+response_ussd_queued === USSD talebi sıraya alındı!
+response_whatsapp_reachedmaxchat === Gönderebileceğiniz maksimum sohbet sayısına zaten ulaştınız!
+response_whatsapp_chatqueued === WhatsApp mesajı gönderilmek üzere sıraya alındı!
+response_whatsapp_unableconnectserv === WhatsApp sunucularına bağlanılamıyor!
+response_whatsapp_bulkchatsqueued === WhatsApp toplu sohbetleri sıraya alındı!
+response_whatsapp_excelphonecolnotfound === _8880_ sütunu excel dosyanızda bulunamadı!
+response_whatsapp_chatscheduled === Sohbet planlandı!
+response_importcontacts_phonenotfound === _8880_ sütunu excel dosyanızda bulunamadı!
+response_importcontacts_groupsnotfound === _8880_ sütunu excel dosyanızda bulunamadı!
+response_importcontacts_namenotfound === _8880_ sütunu excel dosyanızda bulunamadı!
+response_package_pricenotlessone === Paket fiyatı 1'den az olamaz!
+response_subscription_addedsuccess === Abonelik oluşturuldu!
+response_push_selectatleastoneuser === Lütfen en az bir kullanıcı veya rol seçin!
+response_push_mesgtooshort === Mesaj çok kısa!
+response_push_titletooshort === Başlık çok kısa!
+response_push_imgfailed === Resim dosyası yüklenemedi!
+response_push_created === Anında yayın oluşturuldu!
+response_push_nousers === Gönderilecek kullanıcı bulunamadı!
+response_notify_titletooshort === Başlık çok kısa!
+response_notify_mesgtooshort === Mesaj çok kısa!
+response_notify_selectuserrole === Lütfen en az bir kullanıcı veya rol seçin!
+response_notify_imgfailed === Resim dosyası yüklenemedi!
+response_notify_created === Bildirim yayını oluşturuldu!
+response_notify_nousers === Gönderilecek kullanıcı bulunamadı!
+response_mailer_titletooshort === Başlık çok kısa!
+response_mailer_contentooshort === İçerik çok kısa!
+response_mailer_nouserorrole === Lütfen en az bir kullanıcı veya rol seçin!
+response_mailer_sendcounter === _8880_ bekleyen e-postadan _8881_ postacı tarafından gönderildi!
+response_mailer_mailprocessed === Toplu postalama işlendi!
+response_mailer_nousersorrole === Gönderilecek kullanıcı bulunamadı!
+response_gateway_controllercannotempty === Denetleyici dosyası boş olamaz!
+response_gateway_invalidcontroller === Geçersiz denetleyici dosyası!
+response_gateway_addeddcontroller === Ağ geçidi eklendi!
+response_shortener_cannotempty === Denetleyici dosyası boş olamaz!
+response_shortener_invalidcontroller === Geçersiz denetleyici dosyası!
+response_shortener_addedcontroller === Kısaltıcı eklendi!
+response_plugin_samenameinstalled === Aynı ada sahip bir eklenti zaten kurulmuştu!
+response_smscheduled_editsuccess === Planlanmış mesaj güncellendi!
+response_chatscheduled_editsuccess === Sohbet programı güncellendi!
+response_editdevice_invalidrate === Geçersiz oran değeri, geçerli bir kayan sayı olmalıdır!
+response_editdevice_nametooshort === Cihaz adı çok kısa!
+response_editdevice_nametoolong === Cihaz adı çok uzun!
+response_editdevice_invalidmaxinterval === Geçersiz maksimum aralık değeri!
+response_gateway_updatedsuccess === Ağ geçidi güncellendi!
+response_shortener_editsuccess === Kısaltıcı güncellendi!
+response_editplugin_success === Eklenti ayarları güncellendi!
+response_updatepluin_corrupted === Eklenti güncelleme dosyası bozuk!
+response_updateplugin_updated === Eklenti güncellendi!
+response_builder_invalidgooglefile === Geçersiz google hizmetleri kimlik bilgileri dosyası!
+response_builder_invalidfirebasefile === Geçersiz firebase kimlik bilgileri dosyası!
+response_theme_sitelogofailed === Site logosu yüklenemedi!
+response_theme_sitebgfailed === Site arka planı yüklenemedi!
+response_theme_sitefavfailed === Favicon resmi yüklenemedi!
+response_notification_deletedsuccess === Bildirim silindi!
+response_whatsapp_sentdeletesuccess === Gönderilen WhatsApp sohbeti silindi!
+response_whatsapp_receivedeletesuccess === Alınan WhatsApp sohbeti silindi!
+response_whatsapp_scheduleddeletesuccess === WhatsApp planlı sohbet silindi!
+response_whatsapp_accountdeletesuccess === WhatsApp hesabı silindi!
+response_unsibscribe_contactdeletedsuccess === Abone olmayan numara silindi!
+response_marketing_logdeletedsuccess === Pazarlama günlüğü silindi!
+response_gateway_controllerdeletedsuccess === Ağ geçidi silindi!
+response_shortener_controllerdeletedsuccess === Kısaltıcı silindi!
+table_androidsent_clipcopy === Gönderilen Pano Kopyası _8880_
+table_androidsent_excel === Gönderilen Excel Dışa Aktarma _8880_
+table_androidsent_pdf === Gönderilen PDF Dışa Aktarma _8880_
+table_androidsent_sms === SMS
+table_androidsend_report === Bildiri
+table_unknown_data === Bilinmeyen
+table_androidsent_statuspending === Askıda olması
+table_androidsent_statusqueued === sıraya alındı
+table_androidsent_statussent === Gönderilmiş
+table_androidsent_statusfailed === Arızalı
+table_none_data === Hiçbiri
+table_yes_data === Evet
+table_no_data === Numara
+table_removed_data === Kaldırıldı
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lolipop
+table_androidver_marshmallow === Android Hatmi
+table_androidver_nougat === Android Nuga
+table_androidver_oreo === Android Oreo'su
+table_androidver_pie === Android Pastası
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Durum: _8880_, Mod: _8881_, Kod: _8882_, Öncelik: _8883_, Gönderilen API: _8884_, Sim Yuvası: SIM _8885_, Cihaz: _8886_, İşletim Sistemi: _8887_
+table_androidsent_modenamedevice === cihazlar
+table_androidsent_modenamecredits === Kredi
+table_androidsent_reportline1 === Durum: _8880_
+table_androidsent_reportline2 === Mod: _8880_
+table_androidsent_reportline3 === Kod: _8880_
+table_androidsent_reportline4 === Öncelik: _8880_
+table_androidsent_reportline5 === API Gönderildi: _8880_
+table_androidsent_reportline6 === Sim Yuvası: SIM _8880_
+table_androidsent_reportline7 === Cihaz: _8880_
+table_androidsent_reportline8 === İşletim Sistemi: _8880_
+table_androidsent_exporttwo === Durum: _8880_, Mod: _8881_, Ağ Geçidi: _8882_
+table_androidsent_reportline9 === Durum: _8880_
+table_androidsent_reportline10 === Mod: _8880_
+table_androidsent_reportline11 === Ağ geçidi: _8880_
+table_androidsent_exportthree === Durum: _8880_, Mod: _8881_, Kod: _8882_, Gönderilen API: _8883_, Sim Yuvası: SIM _8884_, Ağ Geçidi: _8885_
+table_androidsent_reportline12 === Durum: _8880_
+table_androidsent_reportline13 === Mod: _8880_
+table_androidsent_reportline14 === Kod: _8880_
+table_androidsent_reportline15 === API Gönderildi: _8880_
+table_androidsent_reportline16 === Sim Yuvası: SIM _8880_
+table_androidsent_reportline17 === Ağ geçidi: _8880_
+table_androidsent_titleresend === Bu mesajı tekrar gönder
+table_title_deletethisitem === Bu öğeyi sil
+table_androidreceive_exportcopy === Alınan Pano Kopyası _8880_
+table_androidreceive_exportexcel === Alınan Excel Dışa Aktarma _8880_
+table_androidreceive_exportpdf === Alınan PDF Dışa Aktarma _8880_
+table_androidreceive_smstitle === SMS
+table_androidreceive_reporttitle === Bildiri
+table_androidreceive_exportdata === Sim Yuvası: SIM _8880_, Cihaz: _8881_, İşletim Sistemi: _8882_
+table_androidreceive_reportline1 === Sim Yuvası: SIM _8880_
+table_androidreceive_reportline2 === Cihaz: _8880_
+table_androidreceive_reportline3 === İşletim Sistemi: _8880_
+table_androidreceive_titlereply === numarayı yanıtla
+table_androidscheduled_titleschedule === Takvim
+table_androidscheduled_titledetails === Detaylar
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Mod: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Tekrar: _8880_
+table_androidscheduled_detailsline4 === Cihaz: _8880_
+table_androidscheduled_detailsgroupslabel === Gruplar:
+table_androidscheduled_detailsnumberslabel === Sayılar:
+table_androidscheduled_detailsline5 === Mod: _8880_
+table_androidscheduled_detailsline6 === Tekrar: _8880_
+table_androidscheduled_detailsline7 === Ağ geçidi: _8880_
+table_androidscheduled_detailsline8 === Mod: _8880_
+table_androidscheduled_detailsline9 === Tekrar: _8880_
+table_androidscheduled_detailsline10 === Cihaz: _8880_
+table_title_editthisitem === Bu öğeyi düzenle
+table_whatsappsent_exportcopy === Gönderilen Pano Kopyası
+table_whatsappsent_exportexcel === Gönderilen Excel Dışa Aktarma
+table_whatsappsent_exportpdf === Gönderilen PDF Dışa Aktarma
+table_whatsappsent_accounttitle === Hesap
+table_whatsappsent_recipienttitle === alıcı
+table_whatsappsent_msgtitle === İleti
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Durum
+table_ussd_exportcopy === USSD Pano Kopyalama
+table_ussd_exportexcel === USSD Excel Dışa Aktarma
+table_ussd_exportpdf === USSD PDF Dışa Aktarma
+table_ussd_createdtitle === oluşturuldu
+table_ussd_codetitle === kod
+table_ussd_responsetitle === Tepki
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Durum
+table_ussd_devicetitle === Cihaz
+table_ussd_optionstitle === Seçenekler
+table_ussd_pendingresponsetext === Bekleyen Yanıt
+table_empty_data === Boş
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Askıda olması
+table_ussd_queuelabel === sıraya alındı
+table_ussd_completelabel === Tamamlanmış
+table_ussd_detailsline1 === Cihaz: _8880_
+table_ussd_detailsline2 === İşletim Sistemi: _8880_
+table_notifications_exportcopy === Bildirimler Pano Kopyası
+table_notifications_exportexcel === Bildirimler Excel Dışa Aktarma
+table_notifications_exportpdf === Bildirimler PDF Dışa Aktarma
+table_notifications_createdtitle === oluşturuldu
+table_notifications_packagetitle === Paket ismi
+table_notifications_title === Başlık
+table_notification_texttitle === Metin
+table_notification_devicetitle === Cihaz
+table_notification_optiontitle === Seçenekler
+table_notification_devicelabel === Cihaz:
+table_notification_oslabel === İŞLETİM SİSTEMİ:
+table_devices_nametitle === İsim
+table_devices_globaltitle === küresel
+table_enabled_data === Etkinleştirilmiş
+table_disabled_data === Engelli
+table_notifications_exportone === Cihaz: _8880_, İşletim Sistemi: _8881_
+table_whatsapp_pendinglabel === Askıda olması
+table_whatsapp_queuelabel === sıraya alındı
+table_whatsapp_sentlabel === Gönderilmiş
+table_whatsapp_failedlabel === Arızalı
+table_whatsappreceive_exportcopy === Alınan Pano Kopyası
+table_whatsappreceive_exportexcel === Alınan Excel Dışa Aktarma
+table_whatsappreceive_exportpdf === Alınan PDF Dışa Aktarma
+table_whatsappreceive_replytitle === numarayı yanıtla
+table_waschedule_scheduletitle === Takvim
+table_waschedule_detailstitle === Detaylar
+table_waschedule_detailsline1 === Tekrar: _8880_
+table_waschedule_detailsline2 === Hesap:
+table_waschedule_detailsline3 === Gruplar:
+table_waschedule_detailsline4 === Sayılar:
+table_waaccounts_loggedtitle === Giriş
+device_login_usevalidemail === Lütfen geçerli bir e-posta adresi kullanın!
+device_login_accountsuspended === Üzgünüz, hesabınız askıya alındı!
+device_login_incorrectmailorpass === Yanlış bir e-posta veya şifre girdiniz!
+device_login_nosubscription === Paket aboneliğiniz yok!
+device_login_nomoredevice === Daha fazla cihaz kaydedemezsiniz!
+device_scan_qrcodeinvalid === QRCode'unuz geçersiz!
+device_scan_nosub === Paket aboneliğiniz yok!
+device_scan_usersuspended === Üzgünüz, hesabınız askıya alındı!
+device_scan_nomoredevices === Daha fazla cihaz kaydedemezsiniz!
+device_report_smssentsuccess === _8880_ mesajı _8881_'den gönderildi
+device_report_smssentfailed === _8880_ iletisi gönderme, _8881_'den başarısız oldu
+device_received_smsreceived === _8881_'den yeni _8880_ alındı
+requests_resend_devicenotexist === Cihaz mevcut değil!
+device_ussd_responsereceive === _8880_'den USSD yanıtı alındı
+device_notification_notireceive === _8880_'den yeni bildirim alındı
+payment_success_unknowntx === Bilinmeyen
+payment_webhook_molliecreditsadded === Krediler hesabınıza eklendi!
+payment_webhook_paypalcreditsadded === Krediler hesabınıza eklendi!
+payment_webhook_unknowntn === Bilinmeyen
+mail_tpl_creditstitle === Merhaba,
+mail_tpl_creditsdesc === Kredi satın aldınız, hesabınıza toplam _8880_ yatırdık ve hemen kullanabilirsiniz.
+mail_tpl_creditstnx === Teşekkürler!
+mail_tpl_poweredby === _8880_ tarafından desteklenmektedir
+forgot_response_recoverysent === Alma talimatları _8880_ adresine gönderildi
+forgot_response_recoveryfail === Size e-posta gönderemiyoruz!
+cron_package_expired === Paket aboneliğiniz sona erdi!
+cron_package_expiring === 5 gün içinde paket aboneliği sona eriyor!
+table_waaccounts_waidtitle === WhatsApp kimliği
+table_waaccounts_wauniquetitle === benzersiz kimlik
+table_contactssaved_idtitle === İD
+table_contactssaved_exportcopy === Gruplar Pano Kopyalama _8880_
+table_contactssaved_exportexcel === Gruplar Excel Dışa Aktarma _8880_
+table_contactssaved_exportpdf === Gruplar PDF Dışa Aktarma _8880_
+table_contactssaved_grouptitle === Gruplar
+table_contactsgroups_gidtitle === Grup kimliği
+table_contactsunsub_exportcopy === Abonelikten Çıkılmış Pano Kopyalama _8880_
+table_contactsunsub_exportexcel === Abonelikten Çıkılmış Excel Dışa Aktarma _8880_
+table_contactsunsub_exportpdf === Abonelikten Çıkmış PDF Dışa Aktarma _8880_
+table_toolskeys_createdtitle === oluşturuldu
+table_toolskeys_copyapisecret === API sırrını panoya kopyala
+table_toolswebhooks_createtitle === oluşturuldu
+table_tootlswebhooks_eventstitle === Olaylar
+table_toolswebhooks_simulatebtn === Tetiklemek
+table_toolswebhooks_simulatedesc === Web kancası isteğini simüle et
+table_toolswebhooks_copywebhooksecret === Web kancası sırrını panoya kopyala
+table_toolsactions_createtitle === oluşturuldu
+table_toolsactions_detailstitle === Detaylar
+table_toolsactions_typehook === kanca
+table_toolsactions_typeautoreply === Otomatik cevap
+table_toolsactions_source === Kaynak: _8880_
+table_toolsactions_sourcesms === SMS
+table_toolsactions_sourcewa === Naber
+table_toolsactions_event === Etkinlik: _8880_
+table_toolsactions_eventonsend === Gönderildiğinde
+table_toolsactions_eventonreceive === Alındığında
+table_toolsactions_link === Bağlantı:
+table_toolsactions_keywords === Anahtar Kelimeler:
+table_toolsactions_message === İleti:
+table_toolsactions_type === Tür: _8880_
+table_toolstemplates_idtitle === İD
+table_ratespartners_createdtitle === oluşturuldu
+table_ratespartners_countrytitle === Ülke
+table_ratespartners_detailstitle === Cihaz Ayrıntıları
+table_ratespartners_ratetitle === Mesaj Oranı
+table_ratespartners_prioritytitle === Öncelik
+table_ratespartners_simtitle === İzin Verilen SIM Yuvaları
+table_ratespartners_name === İsim:
+table_ratespartners_owner === Sahip:
+table_ratespartners_localrate === Yerel Fiyat:
+table_ratespartners_convertedrate === Dönüştürülmüş Oran:
+table_ratespartners_simdual === SIM 1 ve SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Kullanıcılar Pano Kopyası _8880_
+table_adminusers_exportexcel === Kullanıcılar Excel Dışa Aktarma _8880_
+table_adminusers_exportpdf === Kullanıcılar PDF Dışa Aktarma _8880_
+table_adminusersexportdata === Rol: _8880_, Ülke: _8881_, Dil: _8882_, Saat Dilimi: _8883_, Kazanç: _8884_, Kredi: _8885_, Abonelik: _8886_, Sesler: _8887_, Askıya Alındı: _8888_
+table_adminusers_exportdata1 === Rol: _8880_
+table_adminusers_exportdata2 === Ülke: _8880_
+table_adminusers_exportdata3 === Dil: _8880_
+table_adminusers_exportdata4 === Saat dilimi:
+table_adminusers_exportdata5 === Kazanç: _8880_
+table_adminusers_exportdata6 === Kredi: _8880_
+table_adminusers_exportdata7 === Abonelik:
+table_adminusers_exportdata8 === Sesler: _8880_
+table_adminusers_exportdata9 === Askıya alındı: _8880_
+table_adminusers_unsuspendaccount === Bu hesabın askıya alınmasını kaldır
+table_adminusers_suspendaccount === Bu hesabı askıya al
+table_adminroles_idtitle === İD
+table_adminpackages_createdtitle === oluşturuldu
+table_adminpackages_detailstitle === Paket ayrıntıları
+table_adminpackages_freelabel === Özgür
+table_unlimited_data === Sınırsız
+table_adminpackages_labeldetails1 === Gizlenmiş:
+table_adminpackages_labeldetails2 === Altbilgi İşareti:
+table_adminpackages_labeldetails3 === SMS Gönderme Sınırı:
+table_adminpackages_labeldetails4 === SMS Alma Limiti:
+table_adminpackages_labeldetails5 === WhatsApp Gönderme Sınırı:
+table_adminpackages_labeldetails6 === WhatsApp Alma Sınırı:
+table_adminpackages_labeldetails7 === WhatsApp Hesap Limiti:
+table_adminpackages_labeldetails8 === USSD Sınırı:
+table_adminpackages_labeldetails9 === Bildirim Sınırı:
+table_adminpackages_labeldetails10 === Cihaz Sınırı:
+table_adminpackages_labeldetails11 === İletişim Sınırı:
+table_adminpackages_labeldetails12 === API Anahtar Sınırı:
+table_adminpackages_labeldetails13 === Web kancası Sınırı:
+table_adminpackages_labeldetails14 === Eylem Sınırı:
+table_adminpackages_labeldetails15 === Planlanan Sınır:
+table_adminvouchers_exportcopy === Kuponlar Pano Kopyalama _8880_
+table_adminvouchers_exportexcel === Kuponlar Excel Dışa Aktarma _8880_
+table_adminvouchers_exportpdf === Kuponlar PDF Dışa Aktarma _8880_
+table_adminvouchers_createdtitle === oluşturuldu
+table_adminvouchers_codetitle === Kodu Kullan
+table_adminvouchers_copycode === Kupon kodunu panoya kopyalayın
+table_adminsubscriptions_createdtitle === oluşturuldu
+table_admintransactions_createdtitle === oluşturuldu
+table_admintransactions_itemtitle === Öğe
+table_admintransactions_amounttitle === Tutar
+table_admintransactions_durationtitle === Süre
+table_admintransactions_creditslabel === Kredi
+table_admintransactions_monthslabel === _8880_ ay
+table_adminpayouts_createdtitle === oluşturuldu
+table_adminpayouts_partnertitle === Ortak
+table_adminpayouts_amounttitle === Tutar
+table_adminpayouts_addresstitle === fatura adresi
+table_adminpayouts_optionstitle === Seçenekler
+table_adminpayouts_approve === Ödeme isteğini ödendi olarak işaretle
+table_adminpayouts_reject === Ödeme talebini reddet
+table_adminwidgets_createdtitle === oluşturuldu
+table_adminwidgets_typeblock === Engellemek
+table_adminwidgets_typemodal === kalıcı
+table_adminwidgets_copywidgethook === Widget kancasını panoya kopyala
+table_adminpages_createdtitle === oluşturuldu
+table_adminpages_optionstitle === Seçenekler
+table_adminpages_copypagehook === Sayfa kancasını panoya kopyala
+table_adminmarketing_createdtitle === oluşturuldu
+table_adminmarketing_typetitle === Tip
+table_adminmarketing_titletitle === Başlık
+table_adminmarketing_contenttitle === İçerik
+table_adminmarketing_recipientstitle === alıcılar
+table_adminmarketing_optionstitle === Seçenekler
+table_adminmarketing_notifylabel === bildir
+table_adminmarketing_mailerlabel === posta
+table_adminmarketing_pushlabel === İtmek
+table_adminmarketing_roleslabel === Roller:
+table_adminmarketing_userslabel === Kullanıcılar:
+table_admingateways_createdtitle === oluşturuldu
+table_admingateways_nametitle === İsim
+table_admingateways_pricingtitle === fiyatlandırma
+table_admingateways_optionstitle === Seçenekler
+table_admingateways_invalidjson === Geçersiz JSON biçimi!
+table_admingateways_defaultprice === Varsayılan Fiyat: _8880_
+table_admingateways_percountryprcie === Ülke Başına Fiyatlandırma:
+table_adminshorteners_createdtitle === oluşturuldu
+table_adminshorteners_nametitle === İsim
+table_adminshorteners_optionstitle === Seçenekler
+table_adminplugins_idtitle === İD
+table_adminplugins_versiontitle === Yüklü Sürüm
+table_adminplugins_actionstitle === Hareketler
+table_adminplugins_updatedesc === Bu eklentiyi güncelle
+table_adminplugins_editdesc === Eklenti seçeneklerini düzenle
+table_adminplugins_removedesc === Bu eklentiyi kaldır
+whatsapp_sent_sentsuccess === WhatsApp sohbet _8880_ gönderildi!
+whatsapp_sent_sentfailed === _8880_ sohbeti gönderilemedi!
+whatsapp_received_chat === Yeni sohbet _8880_ alındı!
+widget_systemupdate_title === Sistem güncellemesi
+widget_systemupdate_loader === güncelleme sistemi
+widget_systemupdate_requireupdate === Güncelleme dosyası boş olamaz!
+requests_systemupdate_faileduploadingfile === Güncelleme dosyası yüklenemedi!
+widget_usersettings_loader === Hesap ayarları kaydediliyor
+widget_payment_title === Ödeme
+widget_payment_creditamountnotless === Kredi tutarı 10'dan az olamaz!
+widget_payment_creditslabel === Kredi
+widget_view_contentremoved === İçerik kaldırıldı!
+widget_redeem_title === Tazmin etmek
+widget_redeem_loader === Kupon kodu doğrulanıyor
+widget_addcredits_title === Kredi Ekle
+widget_addpayout_title === Ödeme İsteği
+widget_addpayout_loader === Ödeme talebi oluşturma
+widget_addpayout_requireamount === Tutar boş olamaz!
+widget_addpayout_requireprovider === Ödeme sağlayıcı boş bırakılamaz!
+widget_addpayout_requireaddress === Ödeme adresi boş bırakılamaz!
+widget_smsquick_loader === Kuyruğa mesaj ekleme
+widget_smsbulk_loader === Kuyruğa mesaj ekleme
+widget_smsexcel_loader === Excel dosyasından kuyruğa mesaj ekleme
+widget_addsmsscheduled_loader === Planlanmış mesajınızı kaydetme
+widget_editscheduled_title === Programı Düzenle
+widget_editscheduled_loader === Planlanmış mesajınızı kaydetme
+widget_addussd_title === USSD Talebi
+widget_addussd_loader === Kuyruğa ussd isteği ekleme
+widget_editdevice_title === Cihazı Düzenle
+widget_editdevice_loader === Cihaz değişikliklerini kaydetme
+widget_waquick_title === Hızlı sohbet
+widget_waquick_loader === whatsapp sohbeti kuyruğa ekleme
+widget_waquick_requireaccount === WhatsApp hesabı gerekli!
+widget_wabulk_title === Toplu Sohbet
+widget_wabulk_loader === WhatsApp sohbetlerini kuyruğa ekleme
+widget_waexcel_title === Excel ile Toplu Sohbet
+widget_waexcel_loader === WhatsApp sohbetlerini kuyruğa ekleme
+widget_wascheduled_title === Sohbet Planla
+widget_wascheduled_loader === WhatsApp sohbetlerini kuyruğa ekleme
+widget_wascheduled_requireaccount === WhatsApp hesabı gerekli!
+widget_waeditscheduled_title === Programı Düzenle
+widget_waeditscheduled_loader === WhatsApp sohbetlerini kuyruğa ekleme
+widget_waeditscheduled_requireaccount === WhatsApp hesabı gerekli!
+widget_waaddaccount_title === Hesap eklemek
+widget_importcontacts_loaded === Kişileri excel dosyasından içe aktarma
+widget_addcontact_loader === Yeni kişi girişi oluşturma
+default_pricecolumns_monthlabel === ay
+default_pricecolumns_dailylabel === günlük
+default_pricecolumns_monthlylabel === aylık
+default_pricecolumns_unlimitedlabel === Sınırsız
+form_literal_spintaxdesc2 === _8880_ ve _8881_ değerleri rastgele kullanılacaktır.
+dashboard_packagesmodal_smssend === SMS Gönder
+default_footerquote_obama === Olmak, bir yere varmak ya da belirli bir amaca ulaşmakla ilgili değildir. Bunun yerine ileriye doğru hareket, gelişmenin bir yolu, sürekli olarak daha iyi bir benliğe ulaşmanın bir yolu olarak görüyorum. Yolculuk bitmiyor.
+widgets_editcontact_loader === Kişi değişikliklerini kaydetme
+widgets_addgroup_loader === Yeni grup girişi oluşturma
+widgets_editgroup_loader === Grup değişiklikleri kaydediliyor
+widgets_addapikey_loader === Yeni API anahtarı oluşturma
+widgets_editapikey_loader === API anahtarı değişiklikleri kaydediliyor
+widgets_addwebhook_title === Web kancası ekle
+widgets_addwebhook_loader === Yeni web kancası oluşturma
+widgets_addwebhook_requireevents === Etkinlikler boş olamaz!
+widgets_editwebhook_loader === Web kancası değişikliklerini kaydetme
+widgets_addhook_loader === Yeni kanca eylemi oluşturma
+widgets_edithook_loader === Kanca eylemi değişiklikleri kaydediliyor
+widgets_addautoreply_loader === Yeni otomatik yanıt eylemi oluşturma
+widgets_editautoreply_loader === Otomatik yanıt eylemi değişikliklerini kaydetme
+widgets_addtemplate_loader === Yeni mesaj şablonu oluşturma
+widgets_edittemplate_loader === Şablon değişikliklerini kaydetme
+widgets_adminbuilder_loader === Oluşturucu ayarlarını kaydetme
+widgets_adminsettings_loader === Sistem ayarlarını kaydetme
+widgets_admintheme_loader === Tema ayarlarını kaydetme
+widgets_adduser_loader === Yeni kullanıcı hesabı oluşturma
+widgets_edituser_loader === Kullanıcı hesabı değişikliklerini kaydetme
+widgets_addrole_loader === Yeni kullanıcı rolü oluşturma
+widgets_addrole_title === Rol Ekle
+widgets_editrole_loader === Kullanıcı rolü değişikliklerini kaydetme
+widgets_addpackage_loader === Yeni sistem paketi oluşturma
+widgets_editpackage_loader === Paket değişikliklerini kaydetme
+widgets_addvoucher_loader === Yeni kuponlar oluşturma
+widgets_addsubscription_loader === Yeni kullanıcı aboneliği oluşturma
+widgets_addwidgets_loader === Yeni widget oluşturma
+widgets_editwidget_loader === Widget değişikliklerini kaydetme
+widgets_addpage_loader === Yeni sayfa oluşturma
+widgets_editpage_loader === Sayfa değişikliklerini kaydetme
+widgets_addpush_title === Yayını itin
+widgets_addpush_loader === Yayın push bildirimi
+widgets_addpush_requiretitle === Başlık boş olamaz!
+widgets_addpush_requiremessage === Mesaj boş olamaz!
+widgets_addnotify_title === Yayını Bildir
+widgets_addnotify_loader === Canlı bildirim yayınlanıyor
+widgets_addnotify_requiretitle === Başlık boş olamaz!
+widgets_addnotify_requiremessage === Mesaj boş olamaz!
+widgets_addmailer_title === Toplu Posta Göndericisi
+widgets_addmailer_loader === E-posta mesajları gönderme
+widgets_addmailer_requiretitle === Başlık boş olamaz!
+widgets_addlanguage_loader === Yeni dil ekleme
+widgets_editlanguage_loader === Dil değişikliklerini kaydetme
+widgets_addgateway_title === Ağ Geçidi Ekle
+widgets_addgateway_loader === Yeni ağ geçidi ekleme
+widgets_addgateway_requirename === Ağ geçidi adı boş olamaz!
+widgets_editgateway_title === Ağ Geçidini Düzenle
+widgets_editgateway_loader === Ağ geçidi değişikliklerini kaydetme
+widgets_editgateway_requirename === Ağ geçidi adı boş olamaz!
+widgets_addshortener_title === Kısaltıcı Ekle
+widgets_addshortener_loader === Yeni kısaltıcı ekleme
+widgets_addshortener_requirename === Kısaltıcı isim boş bırakılamaz!
+widgets_editshortener_title === Kısaltıcıyı Düzenle
+widgets_editshortener_loader === Kısaltıcı değişiklikleri kaydetme
+widgets_editshortener_requirename === Kısaltıcı isim boş bırakılamaz!
+widgets_editplugin_loader === Eklenti değişikliklerinin sisteme uygulanması
+widgets_updateplugin_title === Eklentiyi Güncelle
+widgets_updateplugin_loader === Eklenti güncelleniyor
+device_backgroundpage_line1 === Arka planda çalıştır
+device_backgroundpage_line2 === Ağ Geçidi Uygulamasının neden arka planda çalışması gerekiyor?
+device_backgroundpage_line3 === Uygulama, yeni mesajların gönderilmesini ve alınmasını dinlemeye devam etmek için arka planda çalışmayı gerektirir, bu aynı zamanda yeni bildirimleri işlemek için de gereklidir. Bildirimlere ihtiyacınız yoksa, bunu uygulama ayarlarından devre dışı bırakabilirsiniz, devre dışı bırakmak sistemin cihazdan bildirim verilerini almasını durduracaktır.
+device_backgroundpage_line4 === Avast, Eset ve diğerleri gibi üçüncü taraf güvenlik uygulamanız varsa. Lütfen ağ geçidi uygulamasını istisnalarına ekleyin.
+device_backgroundpage_line5 === Lütfen aşağıdaki listede yer alan telefon markanıza uygun kılavuzu okuyun.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Batarya koruyucu
+device_backgroundpage_line8 === 1. Ayarlar'ı açın.
+device_backgroundpage_line9 === 2. "Pil ve performans"ı seçin.
+device_backgroundpage_line10 === 3. "Uygulamaları seç"i seçin.
+device_backgroundpage_line11 === 4. _8880_ öğesini bulun ve arka plan ayarlarında "Kısıtlama yok"u seçin.
+device_backgroundpage_line12 === Uygulamayı Kilitle
+device_backgroundpage_line13 === 1. Son Kullanılanlar sayfasına girmek için Menü düğmesine dokunun.
+device_backgroundpage_line14 === 2. _8880_ kartını seçin ve kilitleyin.
+device_backgroundpage_line15 === Huawei EMUI'si
+device_backgroundpage_line16 === Batarya koruyucu
+device_backgroundpage_line17 === 1. Ayarlar'ı açın.
+device_backgroundpage_line18 === 2. Gelişmiş ayarlar'ı seçin.
+device_backgroundpage_line19 === 3. Pil yöneticisi'ni seçin.
+device_backgroundpage_line20 === 4. Korumalı uygulamalar'ı seçin.
+device_backgroundpage_line21 === 5. _8880_ öğesini bulun ve anahtarı açın.
+device_backgroundpage_line22 === EMUI sürümü yakın zamanda güncellendiyse, Ayarlar'da değişiklik yapmanız gerekmez.
+device_backgroundpage_line23 === Uygulamayı Kilitle
+device_backgroundpage_line24 === 1. Menü düğmesine dokunun, Son Kullanılanlar sayfasına girin.
+device_backgroundpage_line25 === 2. Bir kilit simgesi görünene kadar _8880_ aşağı çekin.
+device_backgroundpage_line26 === SAMSUNG
+device_backgroundpage_line27 === Batarya koruyucu
+device_backgroundpage_line28 === 1. Akıllı Yönetici'ye dokunun.
+device_backgroundpage_line29 === 2. Pil'i seçin ve ayarlar sayfasına girmek için dokunun.
+device_backgroundpage_line30 === 3. İzlenmeyen uygulamalar'a dokunun, _8880_ öğesini bulun ve girmek için dokunun.
+device_backgroundpage_line31 === 4. Pil'e ve Pil kullanımını optimize et'e dokunun.
+device_backgroundpage_line32 === 5. Tüm uygulamalar'ı seçin, _8880_ öğesini bulun ve anahtarı kapatın.
+device_backgroundpage_line33 === Uygulamayı Kilitle
+device_backgroundpage_line34 === 1. Menü düğmesine dokunun ve en son açılan program sayfalarına girin.
+device_backgroundpage_line35 === 2. Uygulamaları kilitle'yi seçmek için Daha Fazla simgesine dokunun.
+device_backgroundpage_line36 === 3. _8880_ öğesinin Kilit simgesine dokunun.
+device_backgroundpage_line37 === 4. İşlemi tamamlamak için Bitti'ye dokunun.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Uygulamayı Kilitle
+device_backgroundpage_line40 === 1. "Son Kullanılanlar"a girmek için Ana ekranın sol tarafında yukarı kaydırın.
+device_backgroundpage_line41 === 2. Bir kilit simgesi görünene kadar _8880_ düğmesini basılı tutun.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Batarya koruyucu
+device_backgroundpage_line44 === 1. Ayarlar'ı açın ve Pil'e dokunun.
+device_backgroundpage_line45 === 2. Enerji Tasarrufu'na dokunun.
+device_backgroundpage_line46 === 3. Arka Plan Dondurma ve Anormal Uygulamalar Optimizasyonu'nu kapatmak için _8880_ öğesini bulun.
+device_backgroundpage_line47 === Yukarıdaki adımları tamamladıktan sonra ayarlayamıyorsanız, aşağıdakileri deneyin:
+device_backgroundpage_line48 === 1. Telefon Yöneticisini açın ve Temiz Arka Planı bulun.
+device_backgroundpage_line49 === 2. Uygulama eklemek için dokunun.
+device_backgroundpage_line50 === 3. _8880_'i işaretleyin ve Tamam'a dokunun.
+device_backgroundpage_line51 === Uygulamayı Kilitle
+device_backgroundpage_line52 === 1. Menü düğmesine dokunun, Son Kullanılanlar sayfasına girin.
+device_backgroundpage_line53 === 2. Bir kilit simgesi görünene kadar _8880_ aşağı çekin.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Batarya koruyucu
+device_backgroundpage_line56 === 1. Yönetici'yi açın ve Güç yöneticisi'ne dokunun.
+device_backgroundpage_line57 === 2. Sahne arkası gücünü seçin.
+device_backgroundpage_line58 === 3. _8880_ öğesini bulun ve anahtarı açın.
+device_backgroundpage_line59 === Uygulamayı Kilitle
+device_backgroundpage_line60 === 1. Menü düğmesine dokunun, Son Kullanılanlar sayfasına girin.
+device_backgroundpage_line61 === 2. Bir kilit simgesi görünene kadar _8880_ aşağı çekin.
+device_backgroundpage_line62 === Akıllı işletim sistemi
+device_backgroundpage_line63 === Batarya koruyucu
+device_backgroundpage_line64 === 1. Telefon Yöneticisini açın.
+device_backgroundpage_line65 === 2. Uygulama Pil Kullanımı Optimizasyonu'na dokunun.
+device_backgroundpage_line66 === 3. _8880_ öğesini bulun ve anahtarı kapatın.
+device_backgroundpage_line67 === Uygulamayı Kilitle
+device_backgroundpage_line68 === 1. Menü düğmesine iki kez dokunun, Son Kullanılanlar sayfasına girin.
+device_backgroundpage_line69 === 2. Bir raptiye simgesi görünene kadar _8880_ düğmesini basılı tutun.
+device_backgroundpage_line70 === diğer markalar
+device_backgroundpage_line71 === 1. _8880_ uygulamasını Son Kullanılanlar'da kilitleyin.
+device_backgroundpage_line72 === 2. İstisnalara _8880_ ekleyin.
+device_backgroundpage_line73 === 3. Başka bir başlangıç ​​yöneticisi yüklediyseniz, _8880_ öğesini engellenenler listesinden kaldırın.
+dashboard_adminmarketing_pushbtndesc === Cihazlara anında iletme bildirimi yayınlayın
+dashboard_adminmarketing_notifybtndesc === Kullanıcılara tarayıcı bildirimi yayınlayın
+dashboard_adminmarketing_mailerbtndesc === Kullanıcılara toplu e-posta gönder
+js_loader_pleasewait === Lütfen bekle
+js_userstatus_online === Çevrimiçi
+js_userstatus_offline === Çevrimdışı
+js_whatsapp_linksuccess === WhatsApp hesabı başarıyla bağlandı!
+js_whatsapp_linkfailed === WhatsApp hesap bağlama başarısız oldu!
+js_whatsapp_linkexist === WhatsApp zaten hesabınıza bağlıydı!
+js_whatsapp_loaderprocessing === istek işleniyor
+js_clearpending_title === Temizle Beklemede?
+js_clearpending_desc === Gönderilmeyi bekleyen tüm öğeler temizlenecek ve silinecek!
+js_clearpending_processing === istek işleniyor
+js_authenticate_processing === istek işleniyor
+js_actiontrigger_title === Web kancasını simüle et
+js_actiontrigger_typetitle === Veri tipi
+js_actiontrigger_typesms === SMS
+js_actiontrigger_typewa === Naber
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Bildirim
+js_actiontrigger_loader === Web kancasını simüle etme
+js_actiontranslator_title === Çevirmen
+js_actiontranslator_from === Den çeviri
+js_actiontranslator_to === Çevir
+js_actiontranslator_loader === çeviri mesajı
+js_actionregen_title === Sistem Simgesini Yenile?
+js_actionregen_desc === Yeni bir sistem jetonu oluşturmak geri alınamaz!
+js_actionregen_loader === jeton oluşturuluyor
+js_actionclear_title === Önbelleği Temizle?
+js_actionclear_desc === Tüm sistem önbellek verileri temizlenecek!
+js_processing_dataloader === istek işleniyor
+js_build_title === Yeni APK Oluştur?
+js_build_desc === Lütfen oluşturucu ayarlarınızı doğru şekilde yapılandırdığınızdan emin olun!
+js_build_btnbuild === İnşa etmek
+js_reorder_title === Diller Yeniden Sıralansın mı?
+js_reorder_desc === Diller yeniden sıralanacak, bu geri alınamaz!
+js_deletetrash_title === Ürünleri sil?
+js_deletetrash_desc === Seçili öğeleri silmek istiyor musunuz?
+js_tablesexport_copy === Pano
+js_tablesexport_excel === Excel'i Dışa Aktar
+js_tablesexport_pdf === PDF'yi dışa aktar
+mail_expiredtpl_line1 === Merhaba,
+mail_expiredtpl_line2 === Bu mesajı, aktif premium paket aboneliğinizin süresi dolmuş olduğu için aldınız!
+mail_expiredtpl_line3 === Aboneliğiniz kaldırıldı. Herhangi bir premium pakete tekrar abone olmak için sitemizi ziyaret etmeniz yeterlidir.
+mail_expiredtpl_line4 === Sorularınız ve sorunlarınız için lütfen bizimle iletişime geçmekten çekinmeyin!
+mail_expiredtpl_line5 === Teşekkürler!
+mail_expiringtpl_line1 === Merhaba,
+mail_expiringtpl_line2 === Bu, aktif premium paket aboneliğinizin 5 gün içinde sona ereceğini dostça bir hatırlatmadır!
+mail_expiringtpl_line3 === Hizmet kesintilerini önlemek için lütfen herhangi bir premium pakete tekrar abone olmayı unutmayın. Tekrar sipariş vermek için lütfen sitemizi ziyaret ediniz.
+mail_expiringtpl_line4 === Sorularınız ve sorunlarınız için lütfen bizimle iletişime geçmekten çekinmeyin!
+mail_expiringtpl_line5 === Teşekkürler!
+mail_failedtpl_line1 === Merhaba,
+mail_failedtpl_line2 === Ödeme işleminizi gerçekleştiremiyoruz, lütfen farklı bir sağlayıcı veya ödeme yöntemi kullanarak tekrar deneyin.
+mail_failedtpl_line3 === Ödeme Kimliği:
+mail_failedtpl_line4 === Rahatsızlıktan dolayı özür dileriz.
+mail_forgottpl_line1 === Merhaba,
+mail_forgottpl_line2 === Hesabınız için bir hesap alma talebi aldık, lütfen giriş yapmak için bu geçici şifreyi kullanın:
+mail_forgottpl_line3 === Giriş yaptıktan sonra şifrenizi değiştirmeyi unutmayın!
+mail_forgottpl_line4 === Parola 10 dakika sonra sona erecek, çabuk olun. Bunu siz talep etmediyseniz, lütfen bu e-postayı dikkate almayın.
+mail_forgottpl_line5 === Teşekkürler! Umarım çalışır.
+mail_payoutpaidtpl_line1 === Merhaba,
+mail_payoutpaidtpl_line2 === Ödeme talebiniz ekibimiz tarafından adresinize ve seçtiğiniz ödeme sağlayıcısına gönderildi.
+mail_payoutpaidtpl_line3 === Tutar:
+mail_payoutpaidtpl_line4 === Mutlu harcamalar!
+mail_payoutrejecttpl_line1 === Merhaba,
+mail_payoutrejecttpl_line2 === Ödeme talebinizi işleme alamıyoruz, ödeme adresinizle ilgili bir sorun olabilir. Daha fazla bilgi için lütfen ekibimizle iletişime geçin.
+mail_payoutrejecttpl_line3 === Tutar:
+mail_payoutrejecttpl_line4 === Rahatsızlıktan dolayı özür dileriz.
+mail_subscribetpl_line1 === Merhaba,
+mail_subscribetpl_line2 === Premium paketlerimizden birine abone olduğunuz için teşekkür ederiz, işte satın alma işleminizin bir kısmı:
+mail_subscribetpl_line3 === _8880_ Paket
+mail_subscribetpl_line4 === Bu abonelik _8880_ tarihinden sonra sona erecek
+mail_subscribetpl_line5 === Bu hemen yürürlüğe girecek. Sorularınız ve sorunlarınız için lütfen bizimle iletişime geçmekten çekinmeyin!
+mail_subscribetpl_line6 === Teşekkürler!
+requests_build_submitrequest === istek işleniyor
+requests_reorder_loader === istek işleniyor
+requests_deleteitem_loader === istek işleniyor
+requests_packageform_invalidint === Bazı alanlar geçersiz tamsayılar içeriyor!
+widgets_viewbank_title === Banka transferi
+modal_paymentbtn_banktransfer === Banka transferi
+modal_adminsettings_banktransfer1 === Banka Havalesi Şablonu
+modal_adminsettings_banktransfer2 === Ödeme seçeneklerinde banka havalesini etkinleştirdiyseniz, bunun için bir şablon oluşturmalısınız, kullanıcılar butona tıkladıklarında bunu göreceklerdir. Talimatları ve banka adresini buraya ekleyebilirsiniz. HTML kabul edildi.
+modal_adminsettings_banktransfer3 === Banka havalesi şablonunda kullanabileceğiniz değişken kümesi.
+requests_delete_pluginssuccess === Eklenti başarıyla silindi!
+table_whatsappreceived_chattitle === Sohbet
+table_whatsappreceived_accounttitle === Hesap
+tabs_whatsappaccounts_titleheader === WhatsApp Hesapları
+form_editwhatsapp_randominterval === Rastgele Gönderme Aralığı
+form_editwhatsapp_randomintervalhelp === Etkinleştirilirse, sohbetler 2 değer arasında rastgele aralıklarla gönderilir. Bunları aşağıda yapılandırabilirsiniz.
+form_editwhatsapp_randommin === Gönderme Aralığı Min
+form_editwhatsapp_randomminhelp === Saniye cinsinden minimum gönderme aralığı.
+form_editwhatsapp_randommax === Gönderme Aralığı Maks
+form_editwhatsapp_randommaxhelp === Saniye cinsinden maksimum gönderme aralığı.
+dashpages_sms_headertitle === SMS
+dashnav_sms_navname === SMS
+widgets_editwhatsapp_title === WhatsApp'ı düzenle
+widgets_editwhatsapp_loader === whatsapp hesap değişikliklerini kaydetme
+mail_waunlink_title === WhatsApp hesabınızın bağlantısı kaldırıldı!
+mail_waunlink_contentline1 === Merhaba!
+mail_waunlink_contentline2 === Aşağıdaki benzersiz kimliğe sahip bağlı WhatsApp hesabınızdan biri kaldırıldı:
+mail_waunlink_contentline3 === Bu hesap, WhatsApp ile ilgili bir olay nedeniyle artık sistemimize bağlı değil, lütfen tekrar bağlayın.
+mail_waunlink_contentline4 === Teşekkürler!
+table_contactsunsubscribed_idtitle === İD
+table_contactsunsubscribed_phonetitle === Telefon
+form_btnall_visitlink === Ziyaret etmek
+unsubscribe_header_title === Aboneliği iptal et
+unsubscribe_content_title === abonelikten çıktı
+unsubscribe_content_desc === Gönderim listemizden çıktınız.
+requests_editwhatsapp_success === WhatsApp hesabı güncellendi!
+form_addusertpl_credits === Kredi
+form_addusertpl_creditsdesc === Bu kullanıcı hesabı için başlangıç ​​kredisi.
+form_addusertpl_creditsdesc2 === Bu kullanıcı hesabının kredilerini değiştirin.
+form_registerconfirm_desc === E-posta adresiniz başarıyla doğrulandı. Aşağıdaki düğmeyi kullanarak hesabınıza giriş yapabilirsiniz.
+requests_loginnotverified_response === Hesap e-posta adresiniz henüz doğrulanmadı. Bu adrese bir onay bağlantısı gönderdik: _8880_
+requests_loginnotverified_response2 === Hesabınız başarıyla kaydedildi. Kullanmadan önce e-posta adresinizi doğrulamanız gerekir. Bu adrese bir onay bağlantısı gönderdik: _8880_
+requests_loginnotverified_responseunable === E-posta onayı gönderemiyoruz!
+requests_loginnotverified_emailtitle === _8880_'e hoş geldiniz! Hesabınızın e-posta adresini buradan onaylayın.
+requests_loginnotverified_emaildesc1 === Merhaba!
+requests_loginnotverified_emaildesc2 === Bizimle hesabınızı oluşturduğunuz için teşekkür ederiz, lütfen bu bağlantıyı ziyaret ederek e-posta adresinizi doğrulayın:
+requests_loginnotverified_emaildesc3 === Teşekkürler!
+form_adminsettings_authredi === Yetkilendirme Yönlendirmesi
+form_adminsettings_authredidesc === Başarılı bir kimlik doğrulamasından sonra yeniden yönlendirme konumunu seçin.
+form_adminsettings_authredihomepage === Ana Sayfa
+form_adminsettings_authredidashboard === Gösterge Paneli
+form_adminsettings_defaultcoun === Varsayılan Ülke
+form_adminsettings_defaultcoundesc === Kullanıcı kayıt formunda varsayılan olarak seçilen ülke.
+form_adminsettings_defaulttimezo === Varsayılan Saat Dilimi
+form_adminsettings_defaulttimezodesc === Kullanıcı kayıt formunda varsayılan seçili saat dilimi.
+form_adminsettings_mailingtrig === Posta Tetikleyicileri
+form_adminsettings_mailingtrigdesc === Etkinleştirilecek posta tetikleyicilerini seçin.
+form_adminsettings_adminemail === Yönetici E-postası
+form_adminsettings_adminemaildesc === Yönetici için postayla tetiklenen mesajlar bu e-posta adresine gönderilecektir. Bu mesajlar sadece İngilizce olarak mevcuttur ve tercüme edilemez.
+form_adminsettings_recaptchatitle === özet
+form_adminsettings_recaptchadesc === Etkinleştirildiğinde, kayıt, oturum açma ve şifremi unuttum gibi kimlik doğrulama formlarına recaptcha gösterilecektir.
+form_editdevice_receiveoptiontitle === SMS al
+form_editdevice_receiveoptiondesc === Devre dışı bırakılırsa, android gelen kutusundan alınan mesajlar sistem tarafından kaydedilmez. Bu devre dışı bırakıldığında Web kancaları ve diğer ilgili araçlar cihaz için çalışmayacaktır.
+form_editwhatsapp_receiveoptiontitle === Sohbet Al
+form_editwhatsapp_receiveoptiondesc === Devre dışı bırakılırsa, whatsapp hesabından alınan sohbetler sistem tarafından kaydedilmez. Web kancaları ve diğer ilgili araçlar, bu devre dışı bırakıldığında WhatsApp hesabı için çalışmayacaktır.
+js_calendarall_option === Herşey
+js_calendarall_apply === Uygulamak
+js_calendarall_cancel === İptal
+js_calendarall_from === İtibaren
+js_calendarall_to === İle
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === ay
+js_calendarall_daytu === sal
+js_calendarall_daywe === Biz
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Cum
+js_calendarall_daysa === Sa
+js_calendarall_monjan === Ocak
+js_calendarall_monfeb === Şubat
+js_calendarall_monmar === Mart
+js_calendarall_monapr === Nisan
+js_calendarall_monmay === Mayıs
+js_calendarall_monjun === Haziran
+js_calendarall_monjul === Temmuz
+js_calendarall_monaug === Ağustos
+js_calendarall_monsep === Eylül
+js_calendarall_monoct === Ekim
+js_calendarall_monnov === Kasım
+js_calendarall_mondec === Aralık
+response_ussddelete_success === USSD talebi silindi!
+response_titanecho_invaltoken === Sistem yapılandırma hatası!
+widgets_addplugin_loader === Yeni eklentinin sisteme yüklenmesi
+widgets_addwhatsapp_newmodal === QRCode'u görüntülemek için düğmeye tıklayarak WhatsApp'ınızı bağlayın ve ardından uygulamadaki _8880_ düğmesiyle tarayın. QRCode'u taramak için sadece 15 saniyeniz var.
+widgets_addwhatsapp_newmodal2 === _8880_ süresi doldu, hesabınız bağlandıysa veya bağlanmadıysa, lütfen aşağıdaki düğmeyi tıklayın.
+widgets_addwhatsapp_newmodal3 === Devam et
+widgets_addwhatsapp_newmodal4 === İptal
+datatable_addedtoclipboard === Panoya eklendi
+datatable_addedtoclipboardkeys === Görüntülenen satırları panoya eklemek için kopyala düğmesini tıklayın.
+datatable_addedtoclipboardmulti === Kopyalanan satırlar:
+datatable_addedtoclipboardsingle === 1 satır kopyalandı
+table_details_schedulednewrepeat === Tekrar et:
+and_edit_dev_line70_1_new === Mesaj başına almak istediğiniz tutar, cihaz ülkesi para birimi olarak kullanılacaktır. Sent gibi kayan değerler de desteklenir.
+widget_waquick_requireaccountnew1 === WhatsApp hesabı
+requests_whatsapp_notavail === WhatsApp sunucusu kullanılamıyor!
+requests_whatsapp_unablegenqr === WhatsApp QRCode oluşturulamıyor!
+requests_charts_commisionstitle === Komisyonlar
+requests_token_refreshecho === _8880_ için jeton yenilendi!
+requests_remote_smscampaignresumed === SMS kampanyası yeniden başladı!
+requests_remote_smscampaignpaused === SMS kampanyası durduruldu!
+requests_remote_wacampaignresumed === WhatsApp kampanyası yeniden başladı!
+requests_remote_wacampaignpaused === WhatsApp kampanyası durduruldu!
+requests_create_payoutwithdrawalamountatleast === Para çekme miktarı en az _8880_ _8881_ olmalıdır!
+requests_sms_intervaltypereachedmax === Bu cihaz için _8880_ izin verilen mesajlara ulaşıldı, lütfen daha sonra tekrar deneyin!
+requests_sms_encounteredgatewayerror === Bir ağ geçidi hatasıyla karşılaştık!
+requests_sms_gatewaycannotsendowndevices === Kendi cihazlarınızı kullanarak kredili mesaj gönderemezsiniz!
+requests_create_encounteredshortenererror === Bir kısaltıcı hatasıyla karşılaştık!
+requests_create_campaignnametooshort === Kampanya adı çok kısa!
+requests_sms_intervaltypedaily === günlük
+requests_sms_intervaltypemonthly === aylık
+requests_sms_reachedmaximumsentpackage === Mevcut paketiniz için maksimum gönderilen mesaj sayısına ulaştınız!
+response_message_bulkqueuednew === _8880_ iletiler gönderilmek üzere kuyruğa alındı!
+response_whatsapp_invalidmediafile === Geçersiz Medya Dosyası!
+response_whatsapp_atleastonebutt === Lütfen en az bir düğme ekleyin!
+response_whatsapp_invalidimagefile === Geçersiz resim dosyası!
+response_whatsapp_listtitlereq === Liste başlığı gerekli!
+response_whatsapp_listmenureq === Liste menüsü başlığı gerekli!
+response_whatsapp_listformatreq === Liste formatı gerekli!
+response_whatsapp_listformatinval === Liste biçimi geçersiz!
+response_whatsapp_tempformatreq === Şablon formatı gerekli!
+response_whatsapp_tempformatinval === Şablon biçimi geçersiz!
+response_whatsapp_failedchatsqueue === WhatsApp kuyruğuna sohbet eklenemedi!
+response_whatsapp_bulkchatssentcount === _8880_ sohbet gönderilmek üzere sıraya alındı!
+response_whatsapp_failedchatsqueuemany === WhatsApp kuyruğuna sohbet eklenemedi!
+response_whatsapp_nochatsqueuedpacklimit === Üzgünüz, hiçbir sohbet sıraya alınmadı. Lütfen paketinizin gönderim limitini kontrol ediniz!
+response_whatsapp_successfetchgroups === _8880_ grup başarıyla getirildi!
+response_whatsapp_nogroupsfoundfetch === Grup bulunamadı!
+response_partners_commisionerror === Ortak komisyon yüzdesi 1'den az ve 80'den büyük olamaz!
+response_delete_smsdeletecampaign === SMS kampanyası silindi!
+response_delete_wacampaigndeleted === WhatsApp kampanyası silindi!
+response_delete_wagroupdeleted === WhatsApp grubu silindi!
+table_smscampaign_createdtitle === oluşturuldu
+table_smscampaign_nametitle === İsim
+table_smscampaign_gatewaytitle === Geçit
+table_smscampaign_contactstitle === Kişiler
+table_smscampaign_statustitle === Durum
+table_smscampaign_optionstitle === Seçenekler
+table_campaign_completedstatus === Tamamlanmış
+table_smscagmpaign_processingstatus === _8880_ / _8881_ işlendi
+table_campaign_pausecampaign === Bu kampanyayı duraklat
+table_campaign_resumecampaign === Bu kampanyayı devam ettir
+table_smsscheduled_lastsendinfo === Son Gönderim
+table_smstransac_createdtitle === oluşturuldu
+table_smstransac_sendertitle === Gönderen
+table_smstransac_devicetitle === Cihaz
+table_smstransac_messagetitle === İleti
+table_smstransac_earningstitle === Kazanç
+table_smstransac_messageremoved === Mesaj kaldırıldı!
+table_wacampaign_createdtitle === oluşturuldu
+table_wacampaign_nametitle === İsim
+table_wacampaign_accounttitle === Hesap
+table_wacampaign_typetitle === Tip
+table_wacampaign_contactstitle === Kişiler
+table_wacampaign_statustitle === Durum
+table_wacampaign_optionstitle === Seçenekler
+table_wacampaign_processingstatus === _8880_ / _8881_ işlendi
+table_wascheduled_lastsendinfo === Son Gönderim
+table_campaign_pendingstatus === Askıda olması
+table_wagroups_nametitle === İsim
+table_wagroups_accounttitle === Hesap
+table_wagroups_addresstitle === Grup Adresi
+table_wagroups_optionstitle === Seçenekler
+table_waaccounts_statustitle === Durum
+table_waaccounts_statusconnected === bağlı
+table_waaccounts_statusconnecting === Bağlanıyor
+table_waaccounts_statusdisconnecting === bağlantı kesiliyor
+table_waaccounts_statusdisconnected === Bağlantı kesildi
+table_waaccounts_statuserror === Hata
+table_waaccounts_copyaccountid === Hesap Kimliğini Kopyala
+table_android_brandtitle === Marka
+table_android_partnertitle === Ortak
+table_android_statustitle === Durum
+table_android_statusonline === Çevrimiçi
+table_android_statusoffline === Çevrimdışı
+table_android_copydeviceid === Aygıt Benzersiz Kimliğini Kopyala
+table_partnerrates_devicename === Cihaz adı
+widget_fetchgroups_titlefetch === Grupları Getir
+widget_fetchgroups_loaderfetch === Gruplar hesaptan getiriliyor
+pages_admin_tokenrefreshbutt === Jeton
+pages_admin_tokenrefreshbutthelp === Soket iletişim belirtecini yenileyin. Sistem herhangi bir canlı tost bildirimi göstermiyorsa veya gerçek zamanlı olarak güncellenmiyorsa, lütfen bu butona tıklayın.
+pages_admin_cachehelp === Tüm sistem önbelleğini temizleyin. Uyarı! Bu ayrıca API, kimlik doğrulama ve ödeme ile ilgili önbellekleri de temizleyecektir. Bunu yalnızca sistemi yükseltirken yapmanız önerilir.
+pages_admin_themehelp === Site şablonunu ve tasarımını değiştirin.
+pages_admin_systemsettingshelp === Önemli sistem ayarlarını düzenleyin.
+pages_sms_campaignstab === kampanyalar
+pages_sms_partnertransactions === işlemler
+pages_whatsapp_campaignstab === kampanyalar
+pages_whatsapp_groupstab === Gruplar
+forms_repeatdays_title === Tekrar Günleri
+forms_repeatdays_tagline === Mesajın tekrar gönderilmesine kadar kaç gün bekleneceğini girin. Her yıl aynı ay, gün ve saatte tekrarlamak için 365 girin, değilse sadece saati takip eder. Tekrarlamayı devre dışı bırakmak için 0 girin.
+forms_whatsapp_messagetype === Mesaj tipi
+forms_whatsapp_messagetypehelp === WhatsApp mesaj türünü seçin.
+forms_whatsapp_typetext === Metin
+forms_whatsapp_typemedia === medya
+forms_whatsapp_typebutton === Buton
+forms_whatsapp_typelist === Liste
+forms_whatsapp_typetemplate === Şablon
+forms_whatsapp_mediafile === Medya dosyası
+forms_whatsapp_mediafilehelp === Medya dosyası, yüklenecek medya dosyası. .jpg, .png, .gif ve .mp4 dosyalarını destekler.
+forms_whatsapp_imagefile === Görüntü dosyası
+forms_whatsapp_imagefilehelp === Özel görüntü dosyası, bu isteğe bağlıdır.
+forms_whatsapp_buttons === Düğmeler
+forms_whatsapp_buttonshelp === Özel düğmeler, ilk düğme gereklidir.
+forms_whatsapp_buttonsplace1 === Buton 1
+forms_whatsapp_buttonsplace2 === Düğme 2 (Opsiyonel)
+forms_whatsapp_buttonsplace3 === Düğme 3 (Opsiyonel)
+forms_whatsapp_listtitle === Liste Başlığı
+forms_whatsapp_listtitlehelp === Liste başlığı bu.
+forms_whatsapp_listplacetitle === Listem
+forms_whatsapp_listmenutitle === Menü Başlığı
+forms_whatsapp_listmenutitlehelp === Bu menü başlığıdır.
+forms_whatsapp_listmenutitleplace === Menü Başlığı
+forms_whatsapp_footermessage === Altbilgi Mesajı
+forms_whatsapp_footermessagehelp === Özel alt bilgi mesajı, bu isteğe bağlıdır.
+forms_whatsapp_footermessageplace === Altbilgi mesajı budur...
+forms_whatsapp_listformat === Liste Formatı
+forms_whatsapp_listformathelp === Bu liste biçimidir, sağlanan json geçerli olmalıdır.
+forms_whatsapp_templateformat === Şablon Formatı
+forms_whatsapp_templateformathelp === Bu şablon formatıdır, sağlanan json geçerli olmalıdır.
+and_settings_line159new === Bu jeton kimseyle paylaşılmamalıdır. Bu, cronjobs, sistem API'si, WhatsApp istekleri ve diğer harici isteklerin güvenliği için kullanılır. Sistem jetonunuzun güvenliğinin ihlal edildiğini düşünüyorsanız, lütfen yeni bir tane oluşturun, yeni bir jeton oluşturduktan sonra cronjobs, sistem API ve diğer ilgili ayarlarınızı yeniden yapılandırmanız gerekecektir. Bu, WhatsApp sistemini de etkileyecek, bağlı tüm hesaplar artık çalışmayacak.
+forms_systemsettings_servicestitle === Hizmetler
+forms_systemsettings_waserver === WhatsApp Sunucu URL'si
+forms_systemsettings_waserverhelp === WhatsApp sunucunuzun URL'si, bunu kendi sunucunuzda barındırmanız gerekir. Lütfen kurulum talimatları için belgeleri okuyun.
+forms_systemsettings_waport === WhatsApp Sunucu Bağlantı Noktası
+forms_systemsettings_waporthelp === WhatsApp sunucunuzun bağlantı noktası, varsayılan bağlantı noktası 7001'dir. Lütfen kurulum talimatları için belgeleri okuyun.
+forms_systemsettings_messagestitle === Mesajlar
+forms_systemsettings_partnercommission === Ortak Komisyonu
+forms_systemsettings_partnercommissionhelp === Gönderilen her mesaj için ortakların kazançlarından kesmek istediğiniz komisyon yüzdesi. Bu sizin paranız olacak ve yönetici panelindeki istatistiklerde görüntülenecektir. Yüzde 1'den az ve 80'den büyük olmamalıdır!
+forms_systemsettings_partnerminimum === Ortak Minimum Ödemesi
+forms_systemsettings_partnerminimumhelp === Para çekme talebinde bulunabilmek için minimum kazanç tutarı. Bu tutar, kazançlarla aynı olan varsayılan sistem para birimini de kullanacaktır.
+forms_editdevice_sendinglimittitle === Gönderme Sınırı
+forms_editdevice_limitstatus === Sınır Durumu
+forms_editdevice_limitstatushelp === Etkinleştirilirse, bu cihaz kullanılarak gönderilebilecek izin verilen mesaj sayısı gün veya ay başına sınırlandırılacaktır.
+forms_editdevice_limitinterv === Sınır Aralığı
+forms_editdevice_limitintervhelp === Limit sayacını yenilemeden önce gecikme türünü seçin.
+forms_editdevice_messagecount === Mesaj Sayısı
+forms_editdevice_messagecounthelp === Limit aralığı boyunca gönderilebilecek mesaj sayısı.
+forms_editdevice_limitintervselect1 === Günlük
+forms_editdevice_limitintervselect2 === Aylık
+forms_editdevice_partnerstatus === İş Ortağı Durumu
+forms_edituser_clockformat === Saat Formatı
+forms_edituser_clockformathelp === Sistemin herhangi bir yerinde saati görüntülerken kullanılacak saat biçimini seçin.
+forms_edituser_clockformatselect1 === 12 saat
+forms_edituser_clockformatselect2 === 24 saat
+forms_edituser_dateformat === Tarih formatı
+forms_edituser_dateformathelp === Sistemin herhangi bir yerinde tarihi görüntülerken kullanılacak tarih biçimini seçin.
+forms_edituser_dateseparator === Tarih Ayırıcı
+forms_edituser_dateseparatorhelp === Sistemin herhangi bir yerinde tarihi görüntülerken kullanılacak tarih ayırıcıyı seçin.
+forms_campagin_formname === Kampanya ismi
+forms_campagin_formhelp === Bu toplu mesajlar için kampanya adı, aktivite günlüğü oluşturulacak, kampanya yöneticisi aracılığıyla gönderimi kolayca durdurabileceksiniz.
+forms_campaign_formplaceholder === Örneğin. Örnek Kampanya
+forms_whatsapp_numbersgroupsname === Numaralar veya Grup Adresi
+forms_whatsapp_numbersgroupshelp === Satır sonu ile ayrılmış birden fazla E.164 numarası ve WhatsApp grubu adresi.
+forms_whatsapp_groupsimportname === WhatsApp Hesabı
+forms_whatsapp_groupsimportnamehelp === Grupların getirileceği whatsapp hesabını seçin.
+forms_whatsapp_groupsimportbutton === Gidip getirmek
+forms_whatsapp_phonegroupsname === Telefon veya Grup Adresi
+forms_whatsapp_phonegroupshelp === E.164 alıcı telefon numarası veya WhatsApp grup adresi.
+pages_administration_commissionstitle === Komisyonlar
+pages_smscampaigns_header === kampanyalar
+pages_smstransactions_header === işlemler
+pages_smstransactions_comtagline === Ortak cihazlar kullanılarak gönderilen tüm SMS'lerin %_8880_ işlem ücreti vardır. Bu, aşağıdaki tabloda zaten düşülmüştür.
+pages_wacampaigns_header === kampanyalar
+pages_wagroups_header === Gruplar
+pages_wagroups_fetchbtn === Grupları Getir
+tables_plugins_noactionsline === Eylem Yok
+plugin_header_selectmethod === ödeme türünü seçin
+title_plugin_paymentpage === Ödeme Sayfası
+payment_title_pending === Sipariş beklemede
+btn_plugin_cancelorderpayment === Ödemeyi İptal Et
+payment_title_orderfailed === Sipariş Başarısız
+payment_page_orderfailed === Sipariş isteğiniz işlenirken bir şeyler ters gitti.
+and_rate_gate_3new === _8880_ Oranlar
+and_rate_gate_idname === Kimlik: _8880_
+table_ratespartners_optionstitle === Seçenekler

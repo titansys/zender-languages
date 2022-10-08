@@ -2405,3 +2405,194 @@ js_calendarall_mondec === Dezember
 response_ussddelete_success === USSD-Anfrage wurde gelöscht!
 response_titanecho_invaltoken === Systemkonfigurationsfehler!
 widgets_addplugin_loader === Neues Plugin im System installieren
+widgets_addwhatsapp_newmodal === Verbinden Sie Ihre WhatsApp, indem Sie auf die Schaltfläche klicken, um den QRCode anzuzeigen, und scannen Sie ihn dann über die Schaltfläche _8880_ in der App. Sie haben nur 15 Sekunden Zeit, um den QRCode zu scannen.
+widgets_addwhatsapp_newmodal2 === _8880_ ist abgelaufen, wenn Ihr Konto verknüpft wurde oder nicht, klicken Sie bitte auf die Schaltfläche unten.
+widgets_addwhatsapp_newmodal3 === Fortsetzen
+widgets_addwhatsapp_newmodal4 === Absagen
+datatable_addedtoclipboard === Zur Zwischenablage hinzugefügt
+datatable_addedtoclipboardkeys === Klicken Sie auf die Schaltfläche Kopieren, um die angezeigten Zeilen zur Zwischenablage hinzuzufügen.
+datatable_addedtoclipboardmulti === Zeilen kopiert:
+datatable_addedtoclipboardsingle === 1 Zeile kopiert
+table_details_schedulednewrepeat === Wiederholen:
+and_edit_dev_line70_1_new === Der Betrag, den Sie pro Nachricht berechnen möchten, wird im Land des Geräts als Währungsbasis verwendet. Float-Werte wie Cent werden ebenfalls unterstützt.
+widget_waquick_requireaccountnew1 === WhatsApp-Konto
+requests_whatsapp_notavail === WhatsApp-Server ist nicht verfügbar!
+requests_whatsapp_unablegenqr === WhatsApp QRCode kann nicht generiert werden!
+requests_charts_commisionstitle === Provisionen
+requests_token_refreshecho === Token für _8880_ wurde aktualisiert!
+requests_remote_smscampaignresumed === SMS-Kampagne wurde fortgesetzt!
+requests_remote_smscampaignpaused === SMS-Kampagne wurde pausiert!
+requests_remote_wacampaignresumed === WhatsApp-Kampagne wurde fortgesetzt!
+requests_remote_wacampaignpaused === WhatsApp-Kampagne wurde pausiert!
+requests_create_payoutwithdrawalamountatleast === Der Auszahlungsbetrag sollte mindestens _8880_ _8881_ betragen!
+requests_sms_intervaltypereachedmax === Für dieses Gerät wurden die _8880_ erlaubten Nachrichten erreicht, bitte versuchen Sie es später erneut!
+requests_sms_encounteredgatewayerror === Es ist ein Gateway-Fehler aufgetreten!
+requests_sms_gatewaycannotsendowndevices === Sie können mit Ihren eigenen Geräten keine Nachrichten mit Credits versenden!
+requests_create_encounteredshortenererror === Es ist ein Shortener-Fehler aufgetreten!
+requests_create_campaignnametooshort === Kampagnenname ist zu kurz!
+requests_sms_intervaltypedaily === Täglich
+requests_sms_intervaltypemonthly === monatlich
+requests_sms_reachedmaximumsentpackage === Sie haben die maximal gesendeten Nachrichten für Ihr aktuelles Paket erreicht!
+response_message_bulkqueuednew === _8880_ Nachrichten wurden zum Senden in die Warteschlange gestellt!
+response_whatsapp_invalidmediafile === Ungültige Mediendatei!
+response_whatsapp_atleastonebutt === Bitte fügen Sie mindestens eine Schaltfläche hinzu!
+response_whatsapp_invalidimagefile === Ungültige Bilddatei!
+response_whatsapp_listtitlereq === Listentitel ist erforderlich!
+response_whatsapp_listmenureq === Titel des Listenmenüs ist erforderlich!
+response_whatsapp_listformatreq === Listenformat ist erforderlich!
+response_whatsapp_listformatinval === Listenformat ist ungültig!
+response_whatsapp_tempformatreq === Vorlagenformat ist erforderlich!
+response_whatsapp_tempformatinval === Vorlagenformat ist ungültig!
+response_whatsapp_failedchatsqueue === Hinzufügen des Chats zur WhatsApp-Warteschlange fehlgeschlagen!
+response_whatsapp_bulkchatssentcount === _8880_ Chats wurden zum Senden in die Warteschlange gestellt!
+response_whatsapp_failedchatsqueuemany === Hinzufügen von Chats zur WhatsApp-Warteschlange fehlgeschlagen!
+response_whatsapp_nochatsqueuedpacklimit === Entschuldigung, es wurden keine Chats in die Warteschlange gestellt. Bitte überprüfen Sie das Sendelimit Ihres Pakets!
+response_whatsapp_successfetchgroups === _8880_ Gruppen erfolgreich abgerufen!
+response_whatsapp_nogroupsfoundfetch === Es wurden keine Gruppen gefunden!
+response_partners_commisionerror === Der Prozentsatz der Partnerprovision darf nicht kleiner als 1 und größer als 80 sein!
+response_delete_smsdeletecampaign === SMS-Kampagne wurde gelöscht!
+response_delete_wacampaigndeleted === WhatsApp-Kampagne wurde gelöscht!
+response_delete_wagroupdeleted === WhatsApp-Gruppe wurde gelöscht!
+table_smscampaign_createdtitle === Erstellt
+table_smscampaign_nametitle === Name
+table_smscampaign_gatewaytitle === Tor
+table_smscampaign_contactstitle === Kontakte
+table_smscampaign_statustitle === Status
+table_smscampaign_optionstitle === Optionen
+table_campaign_completedstatus === Abgeschlossen
+table_smscagmpaign_processingstatus === _8880_ von _8881_ verarbeitet
+table_campaign_pausecampaign === Diese Kampagne pausieren
+table_campaign_resumecampaign === Setzen Sie diese Kampagne fort
+table_smsscheduled_lastsendinfo === Letztes Senden
+table_smstransac_createdtitle === Erstellt
+table_smstransac_sendertitle === Absender
+table_smstransac_devicetitle === Gerät
+table_smstransac_messagetitle === Nachricht
+table_smstransac_earningstitle === Verdienste
+table_smstransac_messageremoved === Nachricht wurde entfernt!
+table_wacampaign_createdtitle === Erstellt
+table_wacampaign_nametitle === Name
+table_wacampaign_accounttitle === Konto
+table_wacampaign_typetitle === Typ
+table_wacampaign_contactstitle === Kontakte
+table_wacampaign_statustitle === Status
+table_wacampaign_optionstitle === Optionen
+table_wacampaign_processingstatus === _8880_ von _8881_ verarbeitet
+table_wascheduled_lastsendinfo === Letztes Senden
+table_campaign_pendingstatus === Ausstehend
+table_wagroups_nametitle === Name
+table_wagroups_accounttitle === Konto
+table_wagroups_addresstitle === Gruppenadresse
+table_wagroups_optionstitle === Optionen
+table_waaccounts_statustitle === Status
+table_waaccounts_statusconnected === In Verbindung gebracht
+table_waaccounts_statusconnecting === Verbinden
+table_waaccounts_statusdisconnecting === Trennen
+table_waaccounts_statusdisconnected === Getrennt
+table_waaccounts_statuserror === Fehler
+table_waaccounts_copyaccountid === Konto-ID kopieren
+table_android_brandtitle === Marke
+table_android_partnertitle === Partner
+table_android_statustitle === Status
+table_android_statusonline === Online
+table_android_statusoffline === Offline
+table_android_copydeviceid === Kopieren Sie die eindeutige Geräte-ID
+table_partnerrates_devicename === Gerätename
+widget_fetchgroups_titlefetch === Gruppen abrufen
+widget_fetchgroups_loaderfetch === Abrufen von Gruppen aus dem Konto
+pages_admin_tokenrefreshbutt === Zeichen
+pages_admin_tokenrefreshbutthelp === Aktualisieren Sie das Socket-Kommunikationstoken. Wenn das System keine Live-Toast-Benachrichtigungen anzeigt oder nicht in Echtzeit aktualisiert, klicken Sie bitte auf diese Schaltfläche.
+pages_admin_cachehelp === Löschen Sie den gesamten Systemcache. Warnung! Dadurch werden auch Caches im Zusammenhang mit der API, Authentifizierung und Zahlung gelöscht. Es wird empfohlen, dies nur beim Upgrade des Systems zu tun.
+pages_admin_themehelp === Ändern Sie die Websitevorlage und das Design.
+pages_admin_systemsettingshelp === Passen Sie wichtige Systemeinstellungen an.
+pages_sms_campaignstab === Kampagnen
+pages_sms_partnertransactions === Transaktionen
+pages_whatsapp_campaignstab === Kampagnen
+pages_whatsapp_groupstab === Gruppen
+forms_repeatdays_title === Tage wiederholen
+forms_repeatdays_tagline === Geben Sie ein, wie viele Tage gewartet werden soll, bis die Nachricht erneut gesendet wird. Geben Sie 365 ein, um jedes Jahr am selben Monat, Tag und zur selben Uhrzeit zu wiederholen. Wenn nicht, folgt es nur der Uhrzeit. Geben Sie 0 ein, um die Wiederholung zu deaktivieren.
+forms_whatsapp_messagetype === Nachrichtentyp
+forms_whatsapp_messagetypehelp === Wählen Sie den WhatsApp-Nachrichtentyp aus.
+forms_whatsapp_typetext === Text
+forms_whatsapp_typemedia === Medien
+forms_whatsapp_typebutton === Taste
+forms_whatsapp_typelist === Aufführen
+forms_whatsapp_typetemplate === Schablone
+forms_whatsapp_mediafile === Mediendatei
+forms_whatsapp_mediafilehelp === Mediendatei, die hochzuladende Mediendatei. Unterstützt .jpg-, .png-, .gif- und .mp4-Dateien.
+forms_whatsapp_imagefile === Bilddatei
+forms_whatsapp_imagefilehelp === Benutzerdefinierte Bilddatei, dies ist optional.
+forms_whatsapp_buttons === Tasten
+forms_whatsapp_buttonshelp === Benutzerdefinierte Schaltflächen, die erste Schaltfläche ist erforderlich.
+forms_whatsapp_buttonsplace1 === Taste 1
+forms_whatsapp_buttonsplace2 === Taste 2 (Optional)
+forms_whatsapp_buttonsplace3 === Taste 3 (Optional)
+forms_whatsapp_listtitle === Listentitel
+forms_whatsapp_listtitlehelp === Dies ist der Listentitel.
+forms_whatsapp_listplacetitle === Meine Liste
+forms_whatsapp_listmenutitle === Menütitel
+forms_whatsapp_listmenutitlehelp === Dies ist der Menütitel.
+forms_whatsapp_listmenutitleplace === Menütitel
+forms_whatsapp_footermessage === Nachricht in der Fußzeile
+forms_whatsapp_footermessagehelp === Benutzerdefinierte Fußzeilennachricht, dies ist optional.
+forms_whatsapp_footermessageplace === Dies ist die Nachricht in der Fußzeile ...
+forms_whatsapp_listformat === Listenformat
+forms_whatsapp_listformathelp === Dies ist das Listenformat, bereitgestelltes json muss gültig sein.
+forms_whatsapp_templateformat === Vorlagenformat
+forms_whatsapp_templateformathelp === Dies ist das Vorlagenformat, das bereitgestellte json muss gültig sein.
+and_settings_line159new === Dieses Token darf nicht an Dritte weitergegeben werden. Dies wird zur Sicherheit von Cronjobs, System-API, WhatsApp-Anfragen und anderen externen Anfragen verwendet. Wenn Sie glauben, dass Ihr System-Token kompromittiert wurde, generieren Sie bitte ein neues. Sie müssen Ihre Cronjobs, System-API und andere zugehörige Einstellungen neu konfigurieren, nachdem Sie ein neues Token generiert haben. Dies wirkt sich auch auf das WhatsApp-System aus, alle verbundenen Konten funktionieren nicht mehr.
+forms_systemsettings_servicestitle === Dienstleistungen
+forms_systemsettings_waserver === WhatsApp-Server-URL
+forms_systemsettings_waserverhelp === Die URL Ihres WhatsApp-Servers müssen Sie auf Ihrem eigenen Server hosten. Bitte lesen Sie die Dokumentation für Anweisungen zur Einrichtung.
+forms_systemsettings_waport === WhatsApp-Server-Port
+forms_systemsettings_waporthelp === Der Port Ihres WhatsApp-Servers, Standardport ist 7001. Bitte lesen Sie die Dokumentation für Anweisungen zur Einrichtung.
+forms_systemsettings_messagestitle === Mitteilungen
+forms_systemsettings_partnercommission === Partnerprovision
+forms_systemsettings_partnercommissionhelp === Prozentsatz der Provision, die Sie für jede gesendete Nachricht von den Einnahmen der Partner abziehen möchten. Dies ist Ihr Geld und wird in den Statistiken im Admin-Panel angezeigt. Prozent darf nicht kleiner als 1 und größer als 80 sein!
+forms_systemsettings_partnerminimum === Partner-Mindestauszahlung
+forms_systemsettings_partnerminimumhelp === Mindesteinkommensbetrag, um eine Auszahlung beantragen zu können. Dieser Betrag verwendet auch die Standardwährung des Systems, die mit den Einnahmen identisch ist.
+forms_editdevice_sendinglimittitle === Sendelimit
+forms_editdevice_limitstatus === Limitstatus
+forms_editdevice_limitstatushelp === Wenn diese Option aktiviert ist, wird die zulässige Anzahl von Nachrichten, die mit diesem Gerät gesendet werden können, pro Tag oder Monat begrenzt.
+forms_editdevice_limitinterv === Intervall begrenzen
+forms_editdevice_limitintervhelp === Wählen Sie den Verzögerungstyp aus, bevor Sie den Grenzwertzähler aktualisieren.
+forms_editdevice_messagecount === Anzahl der Nachrichten
+forms_editdevice_messagecounthelp === Die Anzahl der Nachrichten, die während des Grenzintervalls gesendet werden können.
+forms_editdevice_limitintervselect1 === Täglich
+forms_editdevice_limitintervselect2 === Monatlich
+forms_editdevice_partnerstatus === Partnerstatus
+forms_edituser_clockformat === Uhrzeitformat
+forms_edituser_clockformathelp === Wählen Sie das Uhrzeitformat aus, das verwendet werden soll, wenn die Zeit irgendwo im System angezeigt wird.
+forms_edituser_clockformatselect1 === 12 Stunden
+forms_edituser_clockformatselect2 === 24 Stunden
+forms_edituser_dateformat === Datumsformat
+forms_edituser_dateformathelp === Wählen Sie das Datumsformat aus, das verwendet werden soll, wenn das Datum überall im System angezeigt wird.
+forms_edituser_dateseparator === Datumstrennzeichen
+forms_edituser_dateseparatorhelp === Wählen Sie das Datumstrennzeichen aus, das verwendet werden soll, wenn das Datum irgendwo im System angezeigt wird.
+forms_campagin_formname === Kampagnenname
+forms_campagin_formhelp === Kampagnenname, ein Aktivitätsprotokoll wird für diese Massennachrichten erstellt, Sie können den Versand einfach über den Kampagnenmanager stoppen.
+forms_campaign_formplaceholder === z.B. Beispielkampagne
+forms_whatsapp_numbersgroupsname === Zahlen oder Gruppenadresse
+forms_whatsapp_numbersgroupshelp === Mehrere E.164-Nummern und WhatsApp-Gruppenadressen durch Zeilenumbruch getrennt.
+forms_whatsapp_groupsimportname === WhatsApp-Konto
+forms_whatsapp_groupsimportnamehelp === Wählen Sie das WhatsApp-Konto aus, von dem Gruppen abgerufen werden.
+forms_whatsapp_groupsimportbutton === Bringen
+forms_whatsapp_phonegroupsname === Telefon oder Gruppenadresse
+forms_whatsapp_phonegroupshelp === E.164-Empfängertelefonnummer oder WhatsApp-Gruppenadresse.
+pages_administration_commissionstitle === Provisionen
+pages_smscampaigns_header === Kampagnen
+pages_smstransactions_header === Transaktionen
+pages_smstransactions_comtagline === Für alle SMS, die über Partnergeräte gesendet werden, wird eine Transaktionsgebühr von _8880_% erhoben. Dieser ist in der folgenden Tabelle bereits abgezogen.
+pages_wacampaigns_header === Kampagnen
+pages_wagroups_header === Gruppen
+pages_wagroups_fetchbtn === Gruppen abrufen
+tables_plugins_noactionsline === Keine Aktionen
+plugin_header_selectmethod === Wählen Sie die Zahlungsmethode
+title_plugin_paymentpage === Zahlungsseite
+payment_title_pending === Bestellung anstehend
+btn_plugin_cancelorderpayment === Zahlung stornieren
+payment_title_orderfailed === Bestellung fehlgeschlagen
+payment_page_orderfailed === Bei der Bearbeitung Ihrer Bestellanfrage ist etwas schief gelaufen.
+and_rate_gate_3new === _8880_ Tarife
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Optionen

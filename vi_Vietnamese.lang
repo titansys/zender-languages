@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === bảng quản trị
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Lên kế hoạch
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Thông báo
+and_dashboard_pages_android_line58 === Thiết bị
+and_dashboard_pages_contacts_line40 === Đã hủy đăng ký
+and_dashboard_pages_defailt_line37 === Tỷ lệ cổng vào
+and_dashboard_pages_default_line42 === Docs
+and_dashboard_pages_default_line58 === Tin nhắn
+and_dashboard_pages_default_line60 === 7 ngày qua
+and_dashboard_pages_default_line74 === Sự kiện
+and_dashboard_pages_default_line76 === 7 ngày qua
+and_dashboard_pages_default_line90 === Tiện ích
+and_dashboard_pages_default_line92 === 7 ngày qua
+and_dashboard_pages_default_line109 === Đối tác
+and_dashboard_pages_default_line117 === Thu nhập
+and_dashboard_pages_default_line131 === Thanh toán
+and_dashboard_pages_default_line140 === THĂNG BẰNG
+and_dashboard_pages_default_line148 === Tín dụng
+and_dashboard_pages_default_line162 === Nạp tiền
+and_dashboard_pages_default_line170 === Tỷ lệ phân phối
+and_dash_pg_def_line178 === Thành công
+and_dash_pg_def_line190 === Thất bại
+and_dash_pg_def_line204 === Người gửi
+and_dash_pg_def_line209 === Bạn chưa đăng ký bất kỳ gói cao cấp nào của chúng tôi!
+and_dash_pg_def_line217 === Thiết bị
+and_dash_pg_def_line224 === Đã liên kết
+and_dash_pg_def_line232 === Tài khoản
+and_dash_pg_def_line239 === Đã liên kết
+and_dash_pg_def_line250 === Tải xuống và cài đặt ứng dụng chính thức của chúng tôi để có được trải nghiệm người dùng tốt nhất
+and_dash_pg_doc_line10 === Các tài liệu
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooks
+and_dash_pg_doc_line40 === Hành động
+and_dash_pg_doc_line46 === Thiết bị
+and_dash_pg_doc_line52 === Quan hệ đối tác
+and_dash_pg_for_line29 === Hủy bỏ
+and_dash_pg_log_line14 === Đăng nhập Facebook
+and_dash_pg_log_line17 === Đăng nhập với Google
+and_dash_pg_log_line20 === Đăng nhập bằng VKontakte
+and_dash_pg_log_line54 === Tạo tài khoản
+and_dash_pg_pay_line45 === Chúng tôi đã nhận được yêu cầu đặt hàng của bạn, hệ thống của chúng tôi sẽ tự động gửi email cho bạn và áp dụng các thay đổi cho tài khoản của bạn khi giao dịch thanh toán đã được xác minh.
+and_dash_pg_rates_line10 === Tỷ lệ cổng vào
+and_dash_pg_rates_line39 === Đối tác
+and_dash_pg_reg_line15 === Đăng ký với Facebook
+and_dash_pg_reg_line20 === Đăng ký với Google
+and_dash_pg_reg_line25 === Đăng ký với VKontakte
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Gởi
+and_dash_pg_whats_line34 === Nhận
+and_dash_pg_whats_line40 === Lên kế hoạch
+and_dash_pg_whats_line46 === Tài khoản
+and_dash_api_line17 === Tên khóa.
+and_dash_api_line19 === ví dụ. Đối với máy chủ của tôi
+and_dash_api_line24 === Quyền chính.
+and_dash_auto_line17 === Tên hành động.
+and_dash_auto_line19 === ví dụ. Michael
+and_dash_auto_line24 === Nguồn
+and_dash_auto_line24_1 === Nguồn của sự kiện nhận.
+and_dash_auto_line27 === tin nhắn
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === Trả lời các từ khóa được phân tách bằng dấu phẩy. Các từ khóa này sẽ được kích hoạt phản hồi tự động nếu được phát hiện trong nội dung tin nhắn.
+and_dash_auto_line36 === ví dụ. cảm ơn bạn, được rồi, đăng ký, vâng
+and_dash_auto_line41 === Thông điệp được gửi đến người gửi.
+and_dash_auto_line43 === ví dụ. Tin nhắn trả lời của bạn ở đây, mã ngắn được chấp nhận
+and_dash_auto_line48 === Tập hợp các biến mà bạn có thể sử dụng trong tin nhắn của mình.
+and_dash_con_line24 === Số liên lạc.
+and_dash_con_line31 === Nhóm liên hệ.
+and_dash_con_line17 === Tên Liên lạc.
+and_dash_cre_line28 === Mua, tựa vào, bám vào
+and_dash_gate_line17 === Tên
+and_dash_gate_line17_1 === Đây là tên cổng sẽ được hiển thị cho người dùng của bạn.
+and_dash_gate_line19 === ví dụ. Twilio
+and_dash_gate_line24 === Bộ điều khiển
+and_dash_gate_line24_1 === Chọn tệp bộ điều khiển cổng, tệp này sẽ chứa mã và logic cổng của bạn. Bạn nên kiểm tra tài liệu.
+and_dash_gate_line27 === Bộ điều khiển Boilerplate:
+and_dash_gate_line34 === Gọi lại
+and_dash_gate_line34_1 === Nếu được bật, các tin nhắn sẽ cần được xác minh bằng cách sử dụng tính năng gọi lại của cổng bên thứ 3 để biết trạng thái gửi, nếu không, các tin nhắn sẽ ngay lập tức được đánh dấu là đã gửi khi gửi.
+and_dash_gate_line37 === Cho phép
+and_dash_gate_line38 === Vô hiệu hóa
+and_dash_gate_line44 === ID gọi lại
+and_dash_gate_line44_1 === Nếu gọi lại được bật, bạn phải sao chép ID này và dán vào bộ điều khiển của mình để hệ thống có thể xác định các lệnh gọi lại.
+and_dash_gate_line47 === Sao chép và dán cho ID gọi lại
+and_dash_gate_line54 === Định giá
+and_dash_gate_line54_1 === Bảng giá tùy chỉnh của bạn cho cổng này. Điều này sẽ cho phép bạn tính phí trên giá của bên thứ ba. Ví dụ: nếu twilio tính phí 0,01 cho một quốc gia cụ thể, thì thay vào đó bạn có thể tính phí 0,02, đơn vị tiền tệ dựa trên đơn vị tiền tệ hệ thống của bạn. Vui lòng làm theo đúng định dạng giá cả.
+and_dash_gate_line57 === Định giá JSON mẫu:
+and_dash_gate_line57_1 === Tải xuống
+and_dash_grp_line17 === Tên nhóm.
+and_dash_grp_line19 === ví dụ. Bạn bè
+and_dash_hook_line17 === Tên hành động.
+and_dash_hook_line19 === ví dụ. Hành động thử nghiệm
+and_dash_hook_line24 === Nguồn
+and_dash_hook_line24_1 === Nguồn của sự kiện.
+and_dash_hook_line34 === Chọn sự kiện mà hook này sẽ được gọi.
+and_dash_hook_line44 === Cấu trúc liên kết móc, đây là url sẽ được gọi bởi hệ thống. Chỉ hỗ trợ phương thức GET.
+and_dash_hook_line51 === Tập hợp các biến mà bạn có thể sử dụng trong URL móc của mình.
+and_dash_hook_line27 === tin nhắn
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === Đang gửi
+and_dash_hook_line38 === Khi nhận
+and_dash_lang_line17 === Tên ngôn ngữ.
+and_dash_lang_line19 === ví dụ. Hàn Quốc
+and_dash_lang_line24 === Mã quốc gia.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Nếu được bật, ngôn ngữ sẽ được xác định theo hướng từ phải sang trái.
+and_dash_lang_line38 === Đúng
+and_dash_lang_line39 === Không
+and_dash_lang_line45 === Chuỗi dịch.
+and_dash_mail_line17 === Tiêu đề
+and_dash_mail_line17_1 === Tiêu đề thư.
+and_dash_mail_line19 === ví dụ. Sự thông báo
+and_dash_mail_line24 === Người dùng
+and_dash_mail_line24_1 === Gửi bởi người dùng.
+and_dash_mail_line36 === Vai trò
+and_dash_mail_line36_1 === Gửi theo vai trò.
+and_dash_mail_line48 === Nội dung
+and_dash_mail_line48_1 === Nội dung thư, html được phép.
+and_dash_mail_line50 === Chào thế giới!
+and_dash_not_line17 === Tiêu đề
+and_dash_not_line17_1 === Thông báo tiêu đề.
+and_dash_not_line19 === ví dụ. Sự thông báo
+and_dash_not_line24 === Thông điệp
+and_dash_not_line24_1 === Thông báo tin nhắn.
+and_dash_not_line31 === Màu sắc
+and_dash_not_line31_1 === Thông báo màu sắc.
+and_dash_not_line35 === Thành công
+and_dash_not_line36 === Cảnh báo
+and_dash_not_line37 === Sự nguy hiểm
+and_dash_not_line43 === Hình ảnh
+and_dash_not_line43_1 === Thông báo hình ảnh, đây là tùy chọn.
+and_dash_not_line46 === Không bắt buộc
+and_dash_not_line53 === Người dùng
+and_dash_not_line53_1 === Phát sóng bởi người dùng.
+and_dash_not_line65 === Vai trò
+and_dash_not_line65_1 === Phát sóng theo vai trò.
+and_pack_line17 === Tên gói hàng.
+and_pack_line19 === ví dụ. Gói VIP
+and_pack_line24 === Giá gói, giá này phải tuân theo đơn vị tiền tệ của hệ thống. Giá trị nổi không được phép.
+and_pack_line29 === ví dụ. 25
+and_pack_line34 === Nếu được bật, các tin nhắn và cuộc trò chuyện whatsapp sẽ chứa dấu chân trang khi người nhận nhận được.
+and_pack_line44 === Nếu được bật, gói sẽ bị ẩn khỏi phương thức gói và trang chủ.
+and_pack_line58 === Giới hạn gửi SMS
+and_pack_line58_1 === Số lượng tin nhắn tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line60 === ví dụ. 300
+and_pack_line65 === Giới hạn nhận SMS
+and_pack_line65_1 === Số lượng tin nhắn tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line67 === ví dụ. 150
+and_pack_line72 === Giới hạn USSD
+and_pack_line72_1 === Số lượng ussd tối đa mà người dùng có thể yêu cầu trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line74 === ví dụ. 25
+and_pack_line79 === Giới hạn thông báo
+and_pack_line79_1 === Số lượng thông báo tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line81 === ví dụ. 1300
+and_pack_line86 === Số lượng thiết bị Android tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
+and_pack_line88 === ví dụ. 25
+and_pack_line92 === Cài đặt WhatsApp
+and_pack_line97 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line99 === ví dụ. 300
+and_pack_line104 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_pack_line106 === ví dụ. 150
+and_pack_line111 === Giới hạn tài khoản
+and_pack_line111_1 === Số lượng tài khoản WhatsApp tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
+and_pack_line113 === ví dụ. 10
+and_pack_line117 === Cài đặt Tiện ích
+and_pack_line122 === Số lượng liên hệ tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn.
+and_pack_line124 === ví dụ. 25
+and_pack_line129 === Giới hạn đã lên lịch
+and_pack_line129_1 === Số lượng tin nhắn / cuộc trò chuyện đã lên lịch tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn. Điều này được kết hợp cho cả sms và whatsapp.
+and_pack_line131 === ví dụ. 25
+and_pack_line136 === Số lượng khóa API tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_pack_line138 === ví dụ. 10
+and_pack_line143 === Số lượng Webhook tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_pack_line145 === ví dụ. 5
+and_pack_line150 === Giới hạn hành động
+and_pack_line150_1 === Số lượng Hành động tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_pack_line152 === ví dụ. 5
+and_page_line17 === Tên trang.
+and_page_line24 === Chỉ những vai trò được chọn mới có thể truy cập trang này.
+and_page_line35 === Nếu được bật, sẽ không thể truy cập trang nếu không đăng nhập.
+and_page_line45 === Nội dung trang. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
+and_payout_line17 === Số lượng
+and_payout_line17_1 === Số tiền rút, số nguyên thôi.
+and_payout_line19 === ví dụ. 50
+and_payout_line24 === Các nhà cung cấp
+and_payout_line24_1 === Chọn nhà cung cấp dịch vụ thanh toán bạn muốn sử dụng để nhận tiền.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === Địa chỉ thanh toán
+and_payout_line34_1 === Địa chỉ thanh toán hoặc email, vui lòng kiểm tra cẩn thận để tránh các vấn đề thanh toán.
+and_payout_line36 === ví dụ. Email PayPal của bạn
+and_payout_line43 === Lời yêu cầu
+and_plug_line17 === Tệp plugin
+and_plug_line17_1 === Tệp zip plugin, vui lòng đảm bảo chọn đúng tệp.
+and_push_line17 === Tiêu đề
+and_push_line17_1 === Đẩy tiêu đề.
+and_push_line19 === ví dụ. Sự thông báo
+and_push_line24 === Hình ảnh
+and_push_line24_1 === Đẩy hình thu nhỏ của hình ảnh, đây là tùy chọn.
+and_push_line27 === Không bắt buộc
+and_push_line34 === Thông điệp
+and_push_line34_1 === Đẩy tin nhắn.
+and_push_line41 === Người dùng
+and_push_line41_1 === Phát sóng bởi người dùng.
+and_push_line53 === Vai trò
+and_push_line53_1 === Phát sóng theo vai trò.
+and_role_line17 === Tên vai trò.
+and_role_line19 === ví dụ. Nhà phát triển
+and_role_line24 === Chọn các quyền và tính năng bạn muốn tắt / bật cho vai trò này. Các thay đổi được áp dụng trong thời gian thực, các tab trình duyệt của người dùng được kết nối với vai trò được tải lại tự động.
+and_short_line17 === Tên
+and_short_line17_1 === Tên người rút gọn.
+and_short_line19 === ví dụ. Bitly
+and_short_line24 === Bộ điều khiển
+and_short_line24_1 === Chọn tệp bộ điều khiển bộ rút gọn, tệp này sẽ chứa mã và logic bộ rút ngắn của bạn. Bạn nên kiểm tra tài liệu.
+and_short_line27 === Bộ điều khiển Boilerplate:
+and_sms_line17 === Tên của tin nhắn đã lên lịch.
+and_sms_line19 === ví dụ. Tin nhắn của tôi
+and_sms_line24 === Chọn ngày lên lịch.
+and_sms_line26 === ví dụ. 22/06/2020 12:00 sáng
+and_sms_line31 === Nếu được bật, tin nhắn sẽ được lập lịch mỗi khi ngày đã lên lịch được khớp.
+and_sms_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
+and_sms_line55 === Chọn nhiều nhóm liên hệ
+and_sms_line67 === Shortener
+and_sms_line67_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_sms_line70 === Không rút ngắn liên kết
+and_sms_line79 === Chế độ Gateway
+and_sms_line79_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
+and_sms_line82 === Thiết bị
+and_sms_line83 === Tín dụng
+and_sms_line88 === Khe cắm thẻ sim để sử dụng.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_sms_line110 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
+and_sms_line121 === Cổng SMS
+and_sms_line121_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
+and_sms_line141 === Spintax
+and_sms_line144 === Thí dụ:
+and_sms_line144_1 === Tom là một
+and_sms_line144_2 === con mèo
+and_sms_line147 === Giá trị
+and_sms_line147_1 === tốt
+and_sms_line147_2 === và
+and_sms_line147_3 === xấu
+and_sms_line147_4 === sẽ được sử dụng ngẫu nhiên.
+and_subs_line17 === Tài khoản người dùng.
+and_subs_line28 === Gói đăng ký.
+and_subs_line41 === Thời hạn đăng ký.
+and_subs_line43 === ví dụ. 12
+and_temp_line17 === Tên mẫu.
+and_temp_line24 === Định dạng mẫu.
+and_temp_line31 === Spintax
+and_temp_line31_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_temp_line35 === Thí dụ:
+and_temp_line35_1 === Tom là một
+and_temp_line35_2 === con mèo
+and_temp_line38 === Giá trị
+and_temp_line38_1 === tốt
+and_temp_line38_2 === xấu
+and_temp_line38_3 === sẽ được sử dụng ngẫu nhiên.
+and_temp_line43 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_user_line17 === Tên pháp lý đầy đủ.
+and_user_line19 === ví dụ. Michael Cors
+and_user_line24 === Địa chỉ email hợp lệ.
+and_user_line26 === ví dụ. user@mail.com
+and_user_line31 === Nhập mật khẩu người dùng.
+and_user_line38 === Múi giờ vị trí của người dùng, hãy thay đổi múi giờ này nếu họ ở một quốc gia khác. Múi giờ được sử dụng cho độ chính xác ngày và giờ của các tin nhắn đã gửi và các dữ liệu khác.
+and_user_line49 === Quốc gia
+and_user_line49_1 === Quốc gia của người dùng, điều này được sử dụng cho các khoản thanh toán và định dạng số điện thoại.
+and_user_line60 === Âm thanh thông báo
+and_user_line60_1 === Nếu bị tắt, thông báo sẽ ở chế độ im lặng.
+and_user_line70 === Chọn vai trò người dùng.
+and_user_line81 === Chọn ngôn ngữ người dùng.
+and_user_line92 === Chương trình Đối tác
+and_user_line92_1 === Nếu được bật, người dùng sẽ có thể sử dụng thiết bị của họ như thiết bị toàn cầu, điều này sẽ cho phép họ kiếm tiền khi người dùng khác gửi tin nhắn bằng thiết bị của họ.
+and_ussd_line17 === Mã USSD
+and_ussd_line17_1 === Mã yêu cầu USSD.
+and_ussd_line19 === ví dụ. * 121 #
+and_ussd_line24 === Khe cắm thẻ sim để sử dụng.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng cho yêu cầu ussd.
+and_ussd_line47 === Lời yêu cầu
+and_vouch_line17 === Tên chứng từ.
+and_vouch_line19 === ví dụ. Đặc biệt
+and_vouch_line24 === Số lượng chứng từ bạn muốn tạo. Giá trị tối đa là 1000!
+and_vouch_line26 === ví dụ. 100
+and_vouch_line31 === Thời hạn đăng ký.
+and_vouch_line33 === ví dụ. 12
+and_vouch_line38 === Gói đăng ký.
+and_web_line17 === Tên webhook.
+and_web_line24 === Nhận sự kiện
+and_web_line24_1 === Chọn các sự kiện nhận mà bạn cần, chúng sẽ được gửi đến url móc web của bạn thông qua phương thức POST.
+and_web_line27 === tin nhắn
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === Thông báo
+and_web_line36 === Url webhook của bạn, tất cả dữ liệu trọng tải sẽ được gửi ở đây thông qua phương thức POST.
+and_web_line38 === ví dụ. http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === Tên của cuộc trò chuyện đã lên lịch.
+and_whatssched_line19 === ví dụ. Tin nhắn của tôi
+and_whatssched_line24 === Chọn ngày lên lịch.
+and_whatssched_line26 === ví dụ. 22/06/2020 12:00 sáng
+and_whatssched_line31 === Nếu được bật, cuộc trò chuyện sẽ được lên lịch mỗi khi ngày đã lên lịch khớp với nhau.
+and_whatssched_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
+and_whatssched_line55 === Chọn nhiều nhóm liên hệ
+and_whatssched_line67 === Shortener
+and_whatssched_line67_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_whatssched_line70 === Không rút ngắn liên kết
+and_whatssched_line79 === Tài khoản
+and_whatssched_line79_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
+and_whatsached_line88 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_whatssched_line103 === Spintax
+and_whatssched_line103_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_whatssched_line107 === Thí dụ:
+and_whatssched_line101_1 === Tom là một
+and_whatssched_line107_2 === con mèo
+and_whatssched_line110 === Giá trị
+and_whatssched_line110_1 === tốt
+and_whatssched_line110_2 === và
+and_whatssched_line110_3 === xấu
+and_whatssched_line110_4 === sẽ được sử dụng ngẫu nhiên.
+and_whatssched_line115 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_whatssched_line128 === Nộp
+and_whatsapp_line15 === Kết nối WhatsApp của bạn bằng cách nhấp vào nút để hiển thị Mã QR sau đó quét nó qua
+and_whatsapp_line15_1 === Kết nói với một thiết bị
+and_whatsapp_line15_2 === trong ứng dụng. Bạn chỉ có 60 giây để quét mã QRCode.
+and_whatsapp_line16 === Liên kết tài khoản
+and_add_widget_line17 === Tên tiện ích con.
+and_add_widget_line24 === Biểu tượng tiện ích, chỉ dành cho phương thức. Vui lòng truy cập dòng tuyệt vời để tham khảo biểu tượng.
+and_add_widget_line26 === ví dụ. la la-info-circle
+and_add_widget_line31 === Loại tiện ích con. Các khối là để đặt vào các phần khác nhau của mẫu, các phương thức dành cho nội dung động. Kể từ phiên bản 3, các phương thức sẽ chỉ hoạt động trong trang tổng quan.
+and_add_widget_line34 === Khối
+and_add_widget_line35 === Phương thức
+and_add_widget_line41 === Kích thước widget, chỉ dành cho phương thức.
+and_add_widget_line53 === Vị trí widget, chỉ dành cho phương thức.
+and_add_widget_line64 === Nội dung widget. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
+and_add_widget_line66 === Chào thế giới!
+and_admin_build_line16 === Đăng kí
+and_admin_build_line21 === Tên gói ứng dụng, nó phải là duy nhất và theo một định dạng miền như com.yourdomain.yourapp, chúng tôi khuyên bạn nên theo dõi tên miền của mình để làm cho nó trở nên duy nhất.
+and_admin_build_line23 === ví dụ. com.gateway.sample
+and_admin_build_line28 === Tên ứng dụng, tên này được hiển thị trong ngăn kéo ứng dụng và các phần khác của ứng dụng.
+and_admin_build_line30 === ví dụ. Cổng Zender
+and_admin_build_line35 === Mô tả ứng dụng, mô tả ngắn gọn về ứng dụng của bạn.
+and_admin_build_line42 === Chủ đề màu ứng dụng
+and_admin_build_line42_1 === Chủ đề màu ứng dụng, bạn nên kết hợp chủ đề này với biểu trưng ứng dụng và màu sắc hình ảnh giật gân.
+and_admin_build_line44 === ví dụ. # 000000
+and_admin_build_line49 === Phiên bản APK
+and_admin_build_line_49_1 === Phiên bản APK, nếu bạn đang xây dựng lại ứng dụng của mình, vui lòng cập nhật trường này bằng cách tăng giá trị, nếu giá trị hiện tại là 1, bạn nên tăng nó lên 2 trước khi xây dựng ứng dụng của mình. Điều này là bắt buộc để kích hoạt tính năng cập nhật trong ứng dụng và sẽ buộc người dùng cập nhật.
+and_admin_build_line51 === ví dụ. 1,0
+and_admin_build_line56 === Tạo Email
+and_admin_build_line_56_1 === Email hợp lệ của bạn, hãy đảm bảo thay đổi điều này. Kết quả của việc xây dựng sẽ được gửi đến email này!
+and_admin_build_line58 === ví dụ. myvalidemail@mail.com
+and_admin_build_line62 === Thông tin xác thực
+and_admin_build_line67 === Dịch vụ của Google
+and_admin_build_line67_1 === Tệp json dịch vụ google của bạn, đây là tệp bắt buộc đối với các giao dịch FCM trong ứng dụng cổng.
+and_admin_build_line75 === Thông tin đăng nhập Firebase
+and_admin_build_line75_1 === Tệp json thông tin đăng nhập quản trị viên firebase của bạn, đây là tệp bắt buộc để cho phép hệ thống giao tiếp với ứng dụng.
+and_admin_build_line82 === Tài sản
+and_admin_build_line87 === Biểu trưng hình ảnh ứng dụng, đây là hình ảnh được hiển thị trong tiêu đề ứng dụng. Kích thước được đề xuất là 251x53 in px. Nền tảng chuyển đổi tốt hơn.
+and_admin_build_line95 === Biểu trưng đăng nhập ứng dụng
+and_admin_build_line95_1 === Logo hình ảnh đăng nhập ứng dụng, đây là hình ảnh được hiển thị trong phương thức đăng nhập. Kích thước được đề xuất là 250x100 ở px và phông chữ tối. Nền tảng chuyển đổi tốt hơn.
+and_admin_build_line103 === Biểu tượng hình ảnh ứng dụng, biểu tượng này được hiển thị trong ngăn kéo ứng dụng và hệ thống Android. Kích thước được đề xuất là 1024x1024 ở định dạng px và png.
+and_admin_build_line111 === Hình ảnh màn hình giật gân của ứng dụng, điều này được hiển thị khi người dùng mở ứng dụng. Kích thước được đề xuất là 2732x2732 ở định dạng px và png.
+and_admin_build_line118 === Kết cấu
+and_admin_build_line123 === JavaScript tùy chỉnh
+and_admin_build_line123_1 === Nếu bạn muốn sử dụng mã javascript tùy chỉnh, vui lòng thêm nó vào đây. Điều này được tải động trong ứng dụng.
+and_admin_build_line125 === ví dụ., alert ('Xin chào Thế giới!');
+and_admin_build_line130 === CSS tùy chỉnh
+and_admin_build_line130_1 === Nếu bạn muốn sử dụng mã css tùy chỉnh, vui lòng thêm nó vào đây. Điều này được tải động trong ứng dụng.
+and_admin_build_line137 === Bố cục tùy chỉnh
+and_admin_build_line137_1 === Nếu bạn muốn sử dụng cấu trúc ứng dụng tùy chỉnh, vui lòng sửa đổi nội dung html, nếu bạn không biết mình đang làm gì, vui lòng để giá trị mặc định.
+and_admin_build_line139 === Chào thế giới!
+and_settings_line21 === Tên trang web, tên này được hiển thị ở mọi nơi cần xây dựng thương hiệu.
+and_settings_line23 === ví dụ. Zender
+and_settings_line28 === Mô tả trang web, đây là để tối ưu hóa công cụ tìm kiếm, vì vậy hãy sáng tạo.
+and_settings_line30 === ví dụ. Đây là một dịch vụ cổng sms tuyệt vời
+and_settings_line35 === Mã mua envato của bạn, mã này được yêu cầu để mở khóa một số tính năng độc quyền của script.
+and_settings_line37 === ví dụ. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Khóa phân tích google của bạn, đây là tùy chọn vì hệ thống đã tích hợp sẵn số liệu thống kê khách truy cập.
+and_settings_line44 === ví dụ. UA-179148389-1
+and_settings_line49 === Giao thức trang web của bạn, hãy đảm bảo rằng bạn đã chọn đúng. Nếu trang web của bạn đang sử dụng https, vui lòng chọn nó, nếu không, hãy chọn http.
+and_settings_line59 === Ngôn ngữ hệ thống mặc định, ngôn ngữ này được sử dụng khi người dùng mới truy cập trang web của bạn.
+and_settings_line70 === Nếu bị vô hiệu hóa, đăng ký qua trang đăng ký sẽ không được phép.
+and_settings_line80 === Chế độ đặt lại gói
+and_settings_line80_1 === Khoảng thời gian đặt lại các giới hạn như gửi, nhận, ussd và thông báo. Điều này áp dụng cho cả các tính năng của Android và WhatsApp. Lựa chọn của bạn ở đây cũng phải được áp dụng trong thiết lập cron.
+and_settings_line83 === Hằng ngày
+and_settings_line84 === Hàng tháng
+and_settings_line90 === Mô hình miễn phí
+and_settings_line90_1 === Nếu được bật, gói miễn phí mặc định sẽ tự động được gán cho người dùng sau khi đăng ký.
+and_settings_line100 === Nếu bị vô hiệu hóa, trang chủ sẽ không được sử dụng. Tất cả các lượt truy cập trong thư mục gốc sẽ được chuyển hướng đến trang tổng quan.
+and_settings_line110 === Tiện ích trò chuyện TAWK
+and_settings_line110_1 === Nếu được bật, tiện ích trò chuyện tawk sẽ xuất hiện cho người dùng.
+and_settings_line120 === Liên kết tiện ích trò chuyện tawk của bạn, điều này là bắt buộc nếu bạn muốn sử dụng hỗ trợ trò chuyện tawk.
+and_settings_line127 === API quản trị
+and_settings_line127_1 === Chọn các điểm cuối API quản trị mà bạn muốn bật. Bạn chỉ nên kích hoạt các thiết bị đầu cuối mà bạn cần.
+and_settings_line159 === Mã thông báo này không được chia sẻ cho bất kỳ ai. Điều này được sử dụng để bảo mật cronjobs, API hệ thống và các yêu cầu bên ngoài khác. Nếu bạn cho rằng, mã thông báo hệ thống của bạn đã bị xâm phạm, vui lòng tạo lại một mã mới, bạn sẽ cần định cấu hình lại cronjobs, API hệ thống và các cài đặt liên quan khác sau khi tạo lại mã thông báo mới.
+and_settings_line160 === Tái tạo
+and_settings_line173 === Nếu bạn muốn sử dụng máy chủ thư tích hợp, vui lòng chọn bản địa, nếu không, hãy chọn smtp, sau đó định cấu hình thông tin đăng nhập thư của bạn.
+and_settings_line183 === Giao thức smtp để sử dụng, vui lòng chọn giao thức được hỗ trợ của máy chủ thư từ xa của bạn.
+and_settings_line193 === Email trang web, đây là tên email hiển thị cho người nhận, bạn nên sử dụng noreply@yoursite.com cho mục đích xây dựng thương hiệu.
+and_settings_line195 === ví dụ. noreply@domain.com
+and_settings_line200 === Địa chỉ máy chủ lưu trữ máy chủ smtp từ xa của bạn.
+and_settings_line205 === ví dụ. smtp.gmail.com
+and_settings_line210 === Cổng máy chủ smtp từ xa của bạn.
+and_settings_line215 === ví dụ. 587
+and_settings_line220 === Tên người dùng máy chủ smtp từ xa của bạn.
+and_settings_line225 === ví dụ. username@gmail.com
+and_settings_line230 === Mật khẩu máy chủ smtp từ xa của bạn.
+and_settings_line235 === Mật khẩu tài khoản gmail của bạn
+and_settings_line244 === Email doanh nghiệp paypal của bạn.
+and_settings_line246 === ví dụ. mail@domain.com
+and_settings_line251 === Nếu được bật, tất cả các giao dịch paypal sẽ được chuyển hướng sang chế độ hộp cát.
+and_settings_line261 === Chìa khóa api nhuyễn thể của bạn.
+and_settings_line263 === ví dụ. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Đơn vị tiền tệ hệ thống sử dụng, đơn vị tiền tệ này sẽ được sử dụng làm cơ sở khi chuyển đổi các giao dịch sang USD.
+and_settings_line279 === Chọn nhà cung cấp dịch vụ thanh toán bạn muốn sử dụng.
+and_settings_line293 === Số ký tự tối thiểu cho tin nhắn. Điều này áp dụng cho cả SMS và WhatsApp.
+and_settings_line295 === ví dụ. 5
+and_settings_line300 === Số ký tự tối đa cho tin nhắn. Điều này áp dụng cho cả SMS và WhatsApp. Nhập 0 cho các ký tự vô hạn.
+and_settings_line302 === ví dụ. 300
+and_settings_line307 === Dấu chân trang của thư, điều này được thêm vào thư nếu gói của họ đã bật dấu chân trang.
+and_settings_line309 === ví dụ. Gửi từ Hệ thống Zender
+and_settings_line318 === Số hàng mặc định để hiển thị trong bảng tin nhắn đã gửi. Điều này áp dụng cho cả SMS và WhatsApp.
+and_settings_line320 === ví dụ. 10
+and_settings_line325 === Số hàng mặc định để hiển thị trong bảng tin nhắn đã nhận. Điều này áp dụng cho cả SMS và WhatsApp.
+and_settings_line327 === ví dụ. 10
+and_settings_line336 === Nếu được bật, khách truy cập sẽ có thể đăng nhập bằng tài khoản mạng xã hội của họ.
+and_settings_line346 === Chọn nhà cung cấp mạng xã hội mà bạn muốn sử dụng.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === tài khoản Facebook
+and_settings_line357_1 === ID ứng dụng facebook, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line359 === ví dụ. 738812983731558
+and_settings_line364 === Bí mật Facebook
+and_settings_line364_1 === Bí mật ứng dụng facebook, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line366 === ví dụ. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === ID Google
+and_settings_line371_1 === ID ứng dụng google, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line373 === ví dụ. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Bí mật của Google
+and_settings_line378_1 === Bí mật ứng dụng google, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line380 === ví dụ. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === ID VK
+and_settings_line385_1 === ID ứng dụng vkontakte, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line387 === ví dụ. 7768236
+and_settings_line392 === Bí mật VK
+and_settings_line392_1 === Bí mật ứng dụng vkontakte, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line394 === ví dụ. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Nếu được bật, mật khẩu lại cũng sẽ được hiển thị trong trang đăng nhập. Hãy đảm bảo rằng bạn đã định cấu hình khóa recaptcha và bí mật recaptcha trước khi bật tính năng này, nếu không bạn sẽ không thể đăng nhập!
+and_settings_line413 === Khóa recaptcha, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line415 === ví dụ. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Bí mật recaptcha, vui lòng đọc tài liệu để biết thêm thông tin.
+and_settings_line422 === ví dụ. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Ánh sáng logo
+and_theme_line17_1 === Hình ảnh biểu trưng sáng, điều này được hiển thị trong trang chủ và trang xác thực khi phần tử nền tối. Kích thước được đề xuất là 250x50 in px.
+and_theme_line23 === Logo tối
+and_theme_line223_1 === Hình ảnh biểu trưng tối, điều này được hiển thị trong trang chủ và trang xác thực khi phần tử nền sáng. Kích thước được đề xuất là 250x50 in px.
+and_theme_line29 === Hình ảnh biểu tượng yêu thích trang web, điều này được hiển thị trong tab trình duyệt. Kích thước được đề xuất là 50x50 in px.
+and_theme_line35 === Hình nền
+and_theme_line35_1 === Hình nền trang web, điều này được hiển thị ở khắp mọi nơi. Bạn nên sử dụng hình ảnh có độ phân giải cao.
+and_theme_line41 === Chọn chủ đề màu bạn muốn sử dụng cho trang web.
+and_theme_line46 === Chọn màu tô sáng cho văn bản.
+and_theme_line51 === Spinner màu
+and_theme_line51_1 === Chọn màu bạn muốn sử dụng cho spinner ajax trên cùng.
+and_theme_line58 === JavaScript tùy chỉnh
+and_theme_line58_1 === Nếu bạn muốn sử dụng mã javascript tùy chỉnh, vui lòng thêm nó vào đây. Điều này được tải động trong mọi trang.
+and_theme_line60 === Chào thế giới!
+and_theme_line63 === CSS tùy chỉnh
+and_theme_line63_1 === Nếu bạn muốn thay đổi một số kiểu css, bạn có thể thực hiện tại đây.
+and_apikey_line17 === Tên khóa.
+and_apikey_line19 === ví dụ. Đối với máy chủ của tôi
+and_apikey_line24 === Quyền chính.
+and_edit_auto_line17 === Tên hành động.
+and_edit_auto_line19 === ví dụ. Trả lời tự động
+and_edit_auto_line24 === Nguồn
+and_edit_auto_line24_1 === Nguồn của sự kiện nhận.
+and_edit_auto_line34 === Trả lời các từ khóa được phân tách bằng dấu phẩy. Các từ khóa này sẽ được kích hoạt phản hồi tự động nếu được phát hiện trong nội dung tin nhắn.
+and_edit_auto_line36 === ví dụ. cảm ơn bạn, được rồi, đăng ký, vâng
+and_edit_auto_line41 === Thông điệp được gửi đến người gửi.
+and_edit_auto_line43 === ví dụ. Tin nhắn trả lời của bạn ở đây, mã ngắn được chấp nhận
+and_edit_auto_line48 === Tập hợp các biến mà bạn có thể sử dụng trong tin nhắn của mình.
+and_edit_con_line17 === Tên Liên lạc.
+and_edit_con_line19 === ví dụ. Michael
+and_edit_con_line24 === Số liên lạc.
+and_edit_con_line31 === Nhóm liên hệ.
+and_edit_dev_line16 === Chi tiết thiết bị
+and_edit_dev_line21 === Tên thiết bị.
+and_edit_dev_line23 === ví dụ. Thiết bị của tôi
+and_edit_dev_line28 === Nếu được bật, tin nhắn sẽ được gửi trong khoảng thời gian ngẫu nhiên giữa 2 giá trị. Bạn có thể cấu hình chúng bên dưới.
+and_edit_dev_line38 === Khoảng thời gian tối thiểu tính bằng giây.
+and_edit_dev_line41 === ví dụ. 5
+and_edit_dev_line46 === Khoảng thời gian tối đa tính bằng giây.
+and_edit_dev_line49 === ví dụ. 20
+and_edit_dev_line53 === Thiết lập thông báo
+and_edit_dev_line58 === Các ứng dụng
+and_edit_dev_line58_1 === Nhập tên gói của các ứng dụng bạn muốn nhận thông báo. Phân tách chúng bằng dấu ngắt dòng.
+and_edit_dev_line65 === Cài đặt đối tác
+and_edit_dev_line70 === Tỷ lệ
+and_edit_dev_line70_1 === Số tiền bạn muốn tính cho mỗi tin nhắn, quốc gia của thiết bị sẽ được sử dụng làm cơ sở tiền tệ. Giá trị float của nó được hỗ trợ chẳng hạn như xu.
+and_edit_dev_line73 === ví dụ. 0,50
+and_edit_dev_line78 === Tình trạng toàn cầu
+and_edit_dev_line78_1 === Nếu bị vô hiệu hóa, thiết bị sẽ không khả dụng dưới dạng cổng sms toàn cầu và bạn sẽ không kiếm được tiền. Xin lưu ý rằng các thiết bị toàn cầu không thể nhận tin nhắn vì lý do bảo mật.
+and_edit_dev_line89 === Quốc gia
+and_edit_dev_line89_1 === Quốc gia của thiết bị, nó được sử dụng để xác định số điện thoại và làm đơn vị tiền tệ cơ bản của trường tỷ giá.
+and_edit_dev_line101 === Quyền ưu tiên
+and_edit_dev_line101_1 === Tin nhắn chung sẽ được gửi đầu tiên trước tin nhắn của riêng bạn.
+and_edit_dev_line112 === Khe cắm SIM
+and_edit_dev_line112_1 === Chọn các khe sim bạn muốn sử dụng để gửi, nếu bạn chọn cả hai, tin nhắn sẽ được gửi ngẫu nhiên.
+and_edit_email_line16 === Mẫu email
+and_edit_email_line18 === HTML được phép
+and_edit_gate_line17 === Tên
+and_edit_gate_line17_1 === Đây là tên cổng sẽ được hiển thị cho người dùng của bạn.
+and_edit_gate_line19 === ví dụ. Twilio
+and_edit_gate_line24 === Bộ điều khiển
+and_edit_gate_line24_1 === Chọn tệp bộ điều khiển cổng, tệp này sẽ chứa mã và logic cổng của bạn. Bạn nên kiểm tra tài liệu.
+and_edit_gate_line31 === Gọi lại
+and_edit_gate_line31_1 === Nếu được bật, các tin nhắn sẽ cần được xác minh bằng cách sử dụng tính năng gọi lại của cổng bên thứ 3 để biết trạng thái gửi, nếu không, các tin nhắn sẽ ngay lập tức được đánh dấu là đã gửi khi gửi.
+and_edit_gate_line34 === Cho phép
+and_edit_gate_line35 === Vô hiệu hóa
+and_edit_gate_line41 === ID gọi lại
+and_edit_gate_line41_1 === Nếu gọi lại được bật, bạn phải sao chép ID này và dán vào bộ điều khiển của mình để hệ thống có thể xác định các lệnh gọi lại.
+and_edit_gate_line44 === Sao chép và dán cho ID gọi lại
+and_edit_gate_line51 === Định giá
+and_edit_gate_line51_1 === Bảng giá tùy chỉnh của bạn cho cổng này. Điều này sẽ cho phép bạn tính phí trên giá của bên thứ ba. Ví dụ: nếu twilio tính phí 0,01 cho một quốc gia cụ thể, thì thay vào đó bạn có thể tính phí 0,02, đơn vị tiền tệ dựa trên đơn vị tiền tệ hệ thống của bạn. Vui lòng làm theo đúng định dạng giá cả.
+and_edit_gate_line54 === Định giá JSON mẫu:
+and_edit_gate_line54_1 === Tải xuống
+and_edit_grp_line17 === Tên nhóm.
+and_edit_grp_line19 === ví dụ. Bạn bè
+and_edit_hook_line17 === Tên hành động.
+and_edit_hook_line19 === ví dụ. Hành động thử nghiệm
+and_edit_hook_line24 === Nguồn
+and_edit_hook_line24_1 === Nguồn của sự kiện.
+and_edit_hook_line27 === tin nhắn
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === Chọn sự kiện mà hook này sẽ được gọi.
+and_edit_hook_line37 === Đang gửi
+and_edit_hook_line38 === Khi nhận
+and_edit_hook_line44 === Cấu trúc liên kết móc, đây là url sẽ được gọi bởi hệ thống. Chỉ hỗ trợ phương thức GET.
+and_edit_hook_line51 === Tập hợp các biến mà bạn có thể sử dụng trong URL móc của mình.
+and_edit_lang_line17 === ví dụ. Hàn Quốc
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Đúng
+and_edit_lang_line33 === Không
+and_edit_pack_line17 === Tên gói hàng.
+and_edit_pack_line19 === ví dụ. Gói VIP
+and_edit_pack_line24 === Giá gói, giá này phải tuân theo đơn vị tiền tệ của hệ thống. Giá trị nổi không được phép.
+and_edit_pack_line29 === ví dụ. 25
+and_edit_pack_line34 === Nếu được bật, các tin nhắn và cuộc trò chuyện whatsapp sẽ chứa dấu chân trang khi người nhận nhận được.
+and_edit_pack_line44 === Nếu được bật, gói sẽ bị ẩn khỏi phương thức gói và trang chủ.
+and_edit_pack_line53 === Cài đặt Android
+and_edit_pack_line58 === Giới hạn gửi SMS
+and_edit_pack_line58_1 === Số lượng tin nhắn tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line60 === ví dụ. 300
+and_edit_pack_line65 === Giới hạn nhận SMS
+and_edit_pack_line65_1 === Số lượng tin nhắn tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line67 === ví dụ. 150
+and_edit_pack_line72 === Giới hạn USSD
+and_edit_pack_line72_1 === Số lượng ussd tối đa mà người dùng có thể yêu cầu trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line74 === ví dụ. 25
+and_edit_pack_line79 === Giới hạn thông báo
+and_edit_pack_line79_1 === Số lượng thông báo tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line81 === ví dụ. 1300
+and_edit_pack_line86 === Số lượng thiết bị Android tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
+and_edit_pack_line88 === ví dụ. 25
+and_edit_pack_line92 === Cài đặt WhatsApp
+and_edit_pack_line97 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể gửi trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line99 === ví dụ. 300
+and_edit_pack_line104 === Số lượng cuộc trò chuyện tối đa mà người dùng có thể nhận được trước khi đặt lại. Nhập 0 không giới hạn.
+and_edit_pack_line106 === ví dụ. 150
+and_edit_pack_line111 === Giới hạn tài khoản
+and_edit_pack_line111_1 === Số lượng tài khoản WhatsApp tối đa có thể được liên kết với tài khoản của người dùng. Nhập 0 không giới hạn.
+and_edit_pack_line113 === ví dụ. 10
+and_edit_pack_line117 === Cài đặt Tiện ích
+and_edit_pack_line122 === Số lượng liên hệ tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn.
+and_edit_pack_line124 === ví dụ. 25
+and_edit_pack_line129 === Giới hạn đã lên lịch
+and_edit_pack_line129_1 === Số lượng tin nhắn / cuộc trò chuyện đã lên lịch tối đa mà người dùng có thể lưu. Nhập 0 không giới hạn. Điều này được kết hợp cho cả sms và whatsapp.
+and_edit_pack_line131 === ví dụ. 25
+and_edit_pack_line136 === Số lượng khóa API tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_edit_pack_line138 === ví dụ. 10
+and_edit_pack_line143 === Số lượng Webhook tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_edit_pack_line145 === ví dụ. 5
+and_edit_pack_line150 === Giới hạn hành động
+and_edit_pack_line150_1 === Số lượng Hành động tối đa có thể được tạo. Nhập 0 không giới hạn.
+and_edit_pack_line152 === ví dụ. 5
+and_edit_page_line17 === Tên trang.
+and_edit_page_line24 === Chỉ những vai trò được chọn mới có thể truy cập trang này.
+and_edit_page_line35 === Nếu được bật, sẽ không thể truy cập trang nếu không đăng nhập.
+and_edit_page_line45 === Nội dung trang. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
+and_edit_role_line17 === Tên vai trò.
+and_edit_role_line19 === ví dụ. Nhà phát triển
+and_edit_role_line24 === Chọn các quyền và tính năng bạn muốn tắt / bật cho vai trò này. Các thay đổi được áp dụng trong thời gian thực, các tab trình duyệt của người dùng được kết nối với vai trò được tải lại tự động.
+and_edit_short_line17 === Tên
+and_edit_short_line17_1 === Tên người rút gọn.
+and_edit_short_line19 === ví dụ. Bitly
+and_edit_short_line24 === Bộ điều khiển
+and_edit_short_line24_1 === Chọn tệp bộ điều khiển bộ rút gọn, tệp này sẽ chứa mã và logic bộ rút ngắn của bạn. Bạn nên kiểm tra tài liệu.
+and_edit_sms_line17 === Tên của tin nhắn đã lên lịch.
+and_edit_sms_line19 === ví dụ. Tin nhắn của tôi
+and_edit_sms_line24 === Chọn ngày lên lịch.
+and_edit_sms_line26 === ví dụ. 22/06/2020 12:00 sáng
+and_edit_sms_line31 === Nếu được bật, tin nhắn sẽ được lập lịch mỗi khi ngày đã lên lịch được khớp.
+and_edit_sms_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
+and_edit_sms_line55 === Chọn nhiều nhóm liên hệ
+and_edit_sms_line67 === Chế độ Gateway
+and_edit_sms_line67_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
+and_edit_sms_line70 === Thiết bị
+and_edit_sms_line71 === Tín dụng
+and_edit_sms_line76 === Khe cắm thẻ sim để sử dụng.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
+and_edit_sms_line99 === Cổng SMS
+and_edit_sms_line99_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
+and_edit_sms_line119 === Spintax
+and_edit_sms_line122 === Thí dụ:
+and_edit_sms_line122_1 === Tom là một
+and_edit_sms_line122_2 === con mèo
+and_edit_sms_line125 === Giá trị
+and_edit_sms_line125_1 === tốt
+and_edit_sms_line125_2 === và
+and_edit_sms_line125_3 === xấu
+and_edit_sms_line125_4 === sẽ được sử dụng ngẫu nhiên.
+and_edit_temp_line17 === Tên mẫu.
+and_edit_temp_line24 === Định dạng mẫu.
+and_edit_temp_line31 === Spintax
+and_edit_temp_line31_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_edit_temp_line35 === Thí dụ:
+and_edit_temp_line35_1 === Tom là một
+and_edit_temp_line35_2 === con mèo
+and_edit_temp_line38 === Giá trị
+and_edit_temp_line38_1 === tốt
+and_edit_temp_line38_2 === và
+and_edit_temp_line38_3 === xấu
+and_edit_temp_line38_4 === sẽ được sử dụng ngẫu nhiên.
+and_edit_temp_line43 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_eduse_line17 === Tên pháp lý đầy đủ của bạn, xin lưu ý rằng việc sử dụng tên giả có thể khiến tài khoản của bạn bị tạm ngưng.
+and_eduse_line19 === ví dụ. Michael Cors
+and_eduse_line24 === Địa chỉ email hợp lệ, bỏ qua trường này nếu bạn muốn giữ địa chỉ email hiện tại.
+and_eduse_line26 === ví dụ. user@mail.com
+and_eduse_line31 === Nếu bạn muốn giữ mật khẩu hiện tại, vui lòng bỏ qua trường này, nếu không, hãy nhập mật khẩu mới.
+and_eduse_line38 === Múi giờ vị trí của bạn, hãy thay đổi múi giờ này nếu bạn ở một quốc gia khác. Múi giờ được sử dụng cho độ chính xác của ngày và giờ đối với các tin nhắn đã gửi và các dữ liệu khác của bạn.
+and_eduse_line49 === Quốc gia
+and_eduse_line49_1 === Quốc gia của bạn, điều này được sử dụng cho các khoản thanh toán và định dạng số điện thoại.
+and_eduse_line60 === Âm thanh thông báo
+and_eduse_line60_1 === Nếu bị tắt, thông báo sẽ ở chế độ im lặng.
+and_eduse_line70 === Chọn vai trò người dùng.
+and_eduse_line81 === Chọn ngôn ngữ người dùng.
+and_eduse_line92 === Chương trình Đối tác
+and_eduse_line92_1 === Nếu được bật, người dùng sẽ có thể sử dụng thiết bị của họ như thiết bị toàn cầu, điều này sẽ cho phép họ kiếm tiền khi người dùng khác gửi tin nhắn bằng thiết bị của họ.
+and_edweb_line17 === Tên webhook.
+and_edweb_line24 === Nhận sự kiện
+and_edweb_line24_1 === Chọn các sự kiện nhận mà bạn cần, chúng sẽ được gửi đến url móc web của bạn thông qua phương thức POST.
+and_edweb_line30 === Thông báo
+and_edweb_line36 === Url webhook của bạn, tất cả dữ liệu trọng tải sẽ được gửi ở đây thông qua phương thức POST.
+and_edweb_line38 === ví dụ. https://yourdomain.com/reply.php
+and_edwhat_line17 === Tên của cuộc trò chuyện đã lên lịch.
+and_edwhat_line19 === ví dụ. Tin nhắn của tôi
+and_edwhat_line24 === Chọn ngày lên lịch.
+and_edwhat_line26 === ví dụ. 22/06/2020 12:00 sáng
+and_edwhat_line31 === Nếu được bật, cuộc trò chuyện sẽ được lên lịch mỗi khi ngày đã lên lịch khớp với nhau.
+and_edwhat_line42 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
+and_edwhat_line55 === Chọn nhiều nhóm liên hệ
+and_edwhat_line67 === Tài khoản
+and_edwhat_line67_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
+and_edwhat_line76 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_edwhat_line91 === Spintax
+and_edwhat_line91_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_edwhat_line95 === Thí dụ:
+and_edwhat_line95_1 === Tom là một
+and_edwhat_line95_2 === con mèo
+and_edwhat_line98 === Giá trị
+and_edwhat_line98_1 === tốt
+and_edwhat_line98_2 === và
+and_edwhat_line98_3 === xấu
+and_edwhat_line98_4 === sẽ được sử dụng ngẫu nhiên.
+and_edwhat_line103 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_edwhat_line116 === Nộp
+and_edwid_line17 === Tên tiện ích con.
+and_edwid_line24 === Biểu tượng tiện ích, chỉ dành cho phương thức. Vui lòng truy cập dòng tuyệt vời để tham khảo biểu tượng.
+and_edwid_line31 === Loại tiện ích con. Các khối là để đặt vào các phần khác nhau của mẫu, các phương thức dành cho nội dung động. Kể từ phiên bản 3, các phương thức sẽ chỉ hoạt động trong trang tổng quan.
+and_edwid_line34 === Khối
+and_edwid_line35 === Phương thức
+and_edwid_line41 === Kích thước widget, chỉ dành cho phương thức.
+and_edwid_line53 === Vị trí widget, chỉ dành cho phương thức.
+and_edwid_line64 === Nội dung widget. Tất cả các thẻ html đều được phép, hãy cẩn thận khi thêm các tập lệnh từ các nguồn không xác định!
+and_import_line17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
+and_import_line20 === Tệp mẫu:
+and_import_line20_1 === Tải xuống
+and_package_line36 === Nhận SMS
+and_package_line41 === Gửi WhatsApp
+and_package_line46 === Nhận WhatsApp
+and_package_line51 === USSD
+and_package_line56 === Thông báo
+and_package_line61 === SMS / Trò chuyện đã lên lịch
+and_package_line66 === Liên lạc
+and_package_line71 === Khóa API
+and_package_line76 === Webhooks
+and_package_line81 === Hành động
+and_package_line86 === Thiết bị Android
+and_package_line91 === Tài khoản WhatsApp
+and_redeem_line18 === Đổi mã.
+and_redeem_line20 === ví dụ. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng. Chỉ 1 tin nhắn sẽ được gửi đến một số ngay cả khi bạn đã chọn nhóm nơi tin nhắn đó được thêm vào.
+and_sms_bulk_31 === Chọn nhiều nhóm liên hệ. Chỉ 1 tin nhắn sẽ được gửi đến một số liên lạc ngay cả khi bạn đã chọn nhiều nhóm nơi nó đã được thêm vào.
+and_sms_bulk_43 === Shortener
+and_sms_bulk_43_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_sms_bulk_46 === Không rút ngắn liên kết
+and_sms_bulk_55 === Chế độ Gateway
+and_sms_bulk_55_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
+and_sms_bulk_58 === Thiết bị
+and_sms_bulk_59 === Tín dụng
+and_sms_bulk_64 === Khe cắm thẻ sim để sử dụng.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Nếu được bật, những tin nhắn này sẽ được gửi trước bất kỳ thứ gì khác.
+and_sms_bulk_81 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_sms_bulk_94 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
+and_sms_bulk_105 === Cổng SMS
+and_sms_bulk_105_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng chúng
+and_sms_bulk_126 === Dịch tin nhắn.
+and_sms_bulk_131 === Spintax
+and_sms_bulk_131_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_sms_bulk_135 === Thí dụ:
+and_sms_bulk_143 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_sms_exe17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
+and_sms_exe20 === Tệp mẫu:
+and_sms_exe20_1 === Tải xuống
+and_sms_exe27 === Shortener
+and_sms_exe27_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_sms_exe30 === Không rút ngắn liên kết
+and_sms_exe39 === Chế độ Gateway
+and_sms_exe39_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
+and_sms_exe42 === Thiết bị
+and_sms_exe43 === Tín dụng
+and_sms_exe47 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_sms_exe60 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
+and_sms_exe70 === Cổng SMS
+and_sms_exe70_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
+and_sms_exe92 === Dịch tin nhắn.
+and_sms_exe97 === Spintax
+and_sms_exe97_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_sms_exe109 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_sms_quick17 === Số điện thoại người nhận.
+and_sms_quick24 === Chế độ Gateway
+and_sms_quick24_1 === Chế độ cổng mà bạn muốn sử dụng. Nếu bạn chọn thiết bị, các thiết bị được liên kết của bạn sẽ được hiển thị để gửi, nếu không, các cổng của bên thứ 3 và đối tác sẽ được hiển thị.
+and_sms_quick27 === Thiết bị
+and_sms_quick28 === Tín dụng
+and_sms_quick34 === Shortener
+and_sms_quick34_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_sms_quick37 === Không rút ngắn liên kết
+and_sms_quick46 === Khe cắm thẻ sim để sử dụng.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Nếu được bật, những tin nhắn này sẽ được gửi trước bất kỳ thứ gì khác.
+and_sms_quick66 === Các thiết bị được liên kết của bạn, hãy chọn những gì bạn muốn sử dụng để gửi.
+and_sms_quick77 === Cổng SMS
+and_sms_quick77_1 === Các cổng của bên thứ 3 và đối tác, các khoản tín dụng của bạn sẽ được sử dụng khi bạn gửi tin nhắn bằng các cổng này. Chúng tôi khuyên bạn nên kiểm tra giá cổng trước khi sử dụng.
+and_sms_quick104 === Spintax
+and_sms_quick104_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_sysup17 === Cập nhật tệp
+and_sysup17_1 === Cập nhật tệp zip, vui lòng đảm bảo chọn đúng tệp.
+and_upplug17 === Cập nhật tệp
+and_upplug17_1 === Cập nhật tệp zip, vui lòng đảm bảo chọn đúng tệp.
+and_uset17 === Ảnh đại diện hồ sơ của bạn.
+and_uset24 === Tên pháp lý đầy đủ của bạn, xin lưu ý rằng việc sử dụng tên giả có thể khiến tài khoản của bạn bị tạm ngưng.
+and_uset26 === ví dụ. Michael Shmuck
+and_uset31 === Địa chỉ email hợp lệ của bạn, hãy bỏ qua trường này nếu bạn muốn giữ lại địa chỉ email hiện tại của mình.
+and_uset33 === ví dụ. yourmail@mail.com
+and_uset38 === Múi giờ vị trí của bạn, hãy thay đổi múi giờ này nếu bạn ở một quốc gia khác. Múi giờ được sử dụng cho độ chính xác của ngày và giờ đối với các tin nhắn đã gửi và các dữ liệu khác của bạn.
+and_uset49 === Quốc gia
+and_uset49_1 === Quốc gia của bạn, điều này được sử dụng cho các khoản thanh toán và định dạng số điện thoại.
+and_uset60 === Âm thanh thông báo
+and_uset60_1 === Nếu bị tắt, thông báo sẽ ở chế độ im lặng.
+and_uset70 === Nếu bạn muốn giữ mật khẩu hiện tại của mình, vui lòng bỏ qua trường này, nếu không, hãy nhập mật khẩu mới của bạn.
+and_usub23 === Có hiệu lực cho đến khi
+and_usub28 === Gửi SMS
+and_usub34 === Nhận SMS
+and_usub40 === Gửi WhatsApp
+and_usub46 === Nhận WhatsApp
+and_usub57 === USSD
+and_usub63 === Thông báo
+and_usub69 === SMS / Trò chuyện đã lên lịch
+and_usub98 === Hành động
+and_usub104 === Thiết bị Android
+and_usub110 === Tài khoản WhatsApp
+and_view20 === Toàn cảnh
+and_whatsbulk_18 === Nhiều số E.164 được phân tách bằng dấu ngắt dòng.
+and_whatsbulk_31 === Chọn nhiều nhóm liên hệ. Xin lưu ý rằng nếu một liên hệ có nhiều nhóm, thì tin nhắn có thể được gửi nhiều lần đến nó nếu bạn chọn các nhóm mà nó được đưa vào.
+and_whatsbulk_43 === Shortener
+and_whatsbulk_43_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_whatsbulk_46 === Không rút ngắn liên kết
+and_whatsbulk_55 === Tài khoản
+and_whatsbulk_55_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
+and_whatsbulk_64 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_whatsbulk_79 === Dịch tin nhắn.
+and_whatsbulk_84 === Spintax
+and_whatsbulk_84_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_whatsbulk_96 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_whatex17 === Tệp excel bạn muốn nhập, vui lòng đảm bảo theo định dạng bắt buộc.
+and_whatex20 === Tệp mẫu:
+and_whatex20_1 === Tải xuống
+and_whatex27 === Shortener
+and_whatex27_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_whatex30 === Không rút ngắn liên kết
+and_whatex39 === Tài khoản
+and_whatex39_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
+and_whatex48 === Các mẫu tin nhắn tạo sẵn của bạn.
+and_whatex63 === Dịch tin nhắn.
+and_whatex68 === Spintax
+and_whatex68_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_whatex80 === Tập hợp các biến mà bạn có thể sử dụng trong thư của mình.
+and_whatquick_17 === Số điện thoại người nhận E.164.
+and_whatquick_24 === Shortener
+and_whatquick_24_1 === Nếu được bật, các liên kết trong thư sẽ tự động được rút ngắn bằng cách sử dụng trình rút gọn đã chọn.
+and_whatquick_27 === Không rút ngắn liên kết
+and_whatquick_36 === Tài khoản
+and_whatquick_36_1 === Chọn tài khoản WhatsApp bạn muốn sử dụng.
+and_whatquick_50 === Dịch tin nhắn.
+and_whatquick_55 === Spintax
+and_whatquick_55_1 === Một tính năng cho phép bạn ngẫu nhiên hóa các từ trong tin nhắn của mình để ngăn chặn hiệu quả việc phát hiện gửi thư rác.
+and_admin_api_3 === API quản trị
+and_admin_fileman_3 === Trình chỉnh sửa mẫu
+and_admin_gate_3 === Cổng SMS
+and_admin_gate_8 === Thêm cổng
+and_admin_lang_6 === Sắp xếp lại các ngôn ngữ
+and_admin_mark_3 === Tiếp thị
+and_admin_mark_6 === Xóa các mục đã chọn
+and_admin_mark_12 === Đẩy
+and_admin_mark_17 === Thông báo
+and_admin_mark_22 === Người đưa thư
+and_admin_payout_3 === Yêu cầu thanh toán
+and_admin_short_3 === Người rút ngắn
+and_admin_short_8 === Thêm Shortener
+and_admin_subs_8 === Thêm đăng ký
+and_admin_vouch_6 === Xóa các mục đã chọn
+and_droid_dev_3 === Thiết bị Android
+and_droid_dev_6 === Đọc tài liệu
+and_droid_dev_8 === Docs
+and_droid_dev_11 === Đăng ký trở thành nhà cung cấp cổng đối tác
+and_droid_dev_13 === Quan hệ đối tác
+and_droid_dev_16 === Đăng ký một thiết bị Android mới
+and_droid_not_3 === Thông báo
+and_droid_not_6 === Xóa các mục đã chọn
+and_droid_rev_3 === Đã nhận SMS
+and_droid_rev_6 === Xóa các tin nhắn đã chọn
+and_droid_sched_6 === Xóa các mục đã chọn
+and_droid_sent_3 === Đã gửi SMS
+and_droid_sent_6 === Xóa các mục đã chọn
+and_droid_sent_10 === Xóa tất cả các tin nhắn đang chờ xử lý
+and_droid_sent_14 === Gửi tin nhắn SMS nhanh
+and_droid_sent_16 === Nhanh
+and_droid_sent_19 === Gửi tin nhắn SMS hàng loạt
+and_droid_sent_21 === Số lượng lớn
+and_droid_sent_24 === Gửi tin nhắn SMS hàng loạt qua Excel
+and_droid_ussd_3 === Yêu cầu USSD
+and_droid_ussd_6 === Xóa các mục đã chọn
+and_droid_ussd_10 === Xóa tất cả các yêu cầu đang chờ xử lý
+and_droid_ussd_14 === Yêu cầu USSD mới
+and_droid_ussd_16 === Lời yêu cầu
+and_con_grp_6 === Xóa các mục đã chọn
+and_con_grp_10 === Thêm nhóm liên hệ mới
+and_con_sav_6 === Xóa các mục đã chọn
+and_con_sav_10 === Thêm liên hệ mới
+and_con_sav_15 === Nhập danh bạ từ tệp excel
+and_con_unsub_3 === Đã hủy đăng ký
+and_con_unsub_6 === Xóa các mục đã chọn
+and_doc_act_3 === Hành động
+and_doc_api_3 === Tài liệu API
+and_doc_dev_3 === Thiết bị
+and_doc_partner_3 === Quan hệ đối tác
+and_doc_webhook_3 === Webhooks
+and_rate_gate_3 === Giá
+and_rate_gate_10 === Quốc gia
+and_rate_gate_11 === Tỷ lệ trên mỗi tin nhắn
+and_rate_gate_22 === Các nước khác
+and_rate_partner_3 === Tỷ lệ đối tác
+and_tool_act_3 === Hành động
+and_tool_act_6 === Đọc tài liệu
+and_tool_act_8 === Docs
+and_tool_act_11 === Thêm hành động móc nối mới
+and_tool_act_13 === Cái móc
+and_tool_act_16 === Thêm hành động trả lời tự động mới
+and_tool_act_18 === Tự động trả lời
+and_tool_key_6 === Đọc tài liệu
+and_tool_key_8 === Docs
+and_tool_key_11 === Tạo khóa API mới
+and_tool_webhook_6 === Đọc tài liệu
+and_tool_webhook_8 === Docs
+and_what_accnt_6 === Kết nối tài khoản mới
+and_what_accnt_8 === Thêm tài khoản
+and_what_attach_8 === Xóa các tin nhắn đã chọn
+and_what_rev_3 === Các cuộc trò chuyện đã nhận
+and_what_rev_6 === Xóa các mục đã chọn
+and_what_sched_6 === Xóa các mục đã chọn
+and_what_sched_12 === Lên lịch trò chuyện
+and_what_sent_3 === Đã gửi trò chuyện
+and_what_sent_6 === Xóa các mục đã chọn
+and_what_sent_10 === Gửi trò chuyện nhanh
+and_what_sent_12 === Nhanh
+and_what_sent_15 === Gửi các cuộc trò chuyện hàng loạt
+and_what_sent_17 === Số lượng lớn
+and_what_sent_20 === Gửi các cuộc trò chuyện hàng loạt qua Excel
+and_def_f_blck_6 === Bắt đầu tiếp thị
+and_def_f_blck_7 === Hãy cùng nhau bắt đầu và phát triển kinh doanh, đăng ký ngay bây giờ và trải nghiệm nền tảng tiếp thị chất lượng cao!
+and_def_f_blck_8 === Tham gia với chúng tôi
+and_def_f_blck_35 === Liên lạc
+and_head_blck_21 === Nhà
+and_head_blck_24 === Đặc trưng
+and_head_blck_27 === Định giá
+and_head_blck_30 === Khách hàng
+and_head_blck_39 === bảng điều khiển
+and_head_blck_42 === Đăng xuất
+and_pages_default_8 === Tiếp thị qua SMS và WhatsApp tốt nhất
+and_pages_default_29 === Nhắn tin SMS
+and_pages_default_31 === Sử dụng thiết bị Android của bạn làm cổng SMS, điều này thực sự rẻ hơn so với sử dụng cổng của bên thứ ba.
+and_pages_default_40 === Nhắn tin WhatsApp
+and_pages_default_42 === Sử dụng WhatsApp cho các chiến dịch tiếp thị của bạn, nền tảng của chúng tôi cung cấp các công cụ giúp bạn bắt đầu.
+and_pages_default_51 === Công cụ trực quan
+and_pages_default_53 === Chúng tôi cung cấp các công cụ để giúp bạn thực hiện các nhiệm vụ tiếp thị như trả lời tự động, webhook và hơn thế nữa.
+and_pages_default_62 === Kiếm tiền
+and_pages_default_64 === Trở thành một trong những đối tác của chúng tôi và sử dụng các thiết bị Android của bạn làm cổng và kiếm tiền cho mỗi tin nhắn được gửi đi.
+and_pages_default_73 === Tại sao sử dụng dịch vụ của chúng tôi?
+and_pages_default_74 === Dưới đây là một số lý do tại sao bạn nên bắt đầu sử dụng dịch vụ của chúng tôi
+and_pages_default_84 === Gửi hàng loạt và nhanh chóng
+and_pages_default_86 === Gửi hàng loạt tin nhắn đến các nhóm liên hệ khác nhau một cách dễ dàng và bạn cũng có thể gửi tin nhắn nhanh chóng để thực hiện các giao dịch nhanh chóng. Nền tảng của chúng tôi cũng bao gồm bảng điều khiển trực tiếp, nhận thông báo khi tin nhắn của bạn được gửi hoặc nhận!
+and_pages_default_89 === Mã ngắn
+and_pages_default_89_1 === để soạn tin nhắn của bạn với dữ liệu được xác định trước.
+and_pages_default_90 === Spintax
+and_pages_default_90_1 === để sắp xếp ngẫu nhiên nhóm từ để chống lại vấn đề gửi thư rác.
+and_pages_default_91 === Người phiên dịch
+and_pages_default_91_1 === để nhắm mục tiêu đối tượng dựa trên ngôn ngữ của họ.
+and_pages_default_98 === Các công cụ tự động và thông minh
+and_pages_default_100 === Quản lý doanh nghiệp của bạn trong khi chúng tôi lo công việc bẩn thỉu, nền tảng của chúng tôi rất thông minh và chỉ cần những tin nhắn bạn muốn gửi thì chúng tôi sẽ làm phần còn lại!
+and_pages_default_103 === Lịch trình
+and_pages_default_103_1 === các cuộc trò chuyện sms và whatsapp của bạn vào bất kỳ ngày nào bạn muốn.
+and_pages_default_104 === Webhooks
+and_pages_default_104_1 === để tự động hóa một số tác vụ khi bạn nhận được tin nhắn từ cả sms và whatsapp.
+and_pages_default_105 === Hành động
+and_pages_default_105_1 === để tạo phản hồi tự động và kiểm tra dữ liệu nhanh chóng về các sự kiện.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === để thực hiện các yêu cầu liên quan đến mạng, chẳng hạn như kiểm tra số dư từ nhà điều hành.
+and_pages_default_107 === Thông báo
+and_pages_default_107_1 === từ các thiết bị Android được kết nối cũng có thể được sử dụng cho các tác vụ tự động.
+and_pages_default_137 === Chúng tôi đảm bảo sự thành công cho doanh nghiệp của bạn với các tính năng chiến lược của chúng tôi
+and_pages_default_139 === Nền tảng của chúng tôi được chế tạo tốt để đáp ứng nhu cầu của các doanh nghiệp tiếp thị ngày càng phát triển, chúng tôi muốn đảm bảo rằng mỗi xu bạn đã chi cho dịch vụ của chúng tôi đều xứng đáng và mang lại cho bạn sự hài lòng 100%!
+and_pages_default_145 === Dễ sử dụng và nền tảng linh hoạt
+and_pages_default_148 === Giá cả phải chăng nhưng duy trì chất lượng dịch vụ
+and_pages_default_156 === Các công cụ và bảng điều khiển trực quan
+and_pages_default_159 === Trải nghiệm nhanh và không bị lag khi bạn tiếp thị sản phẩm của mình
+and_pages_default_171 === Giá dịch vụ
+and_pages_default_187 === Gửi SMS
+and_pages_default_194 === Nhận SMS
+and_pages_default_201 === Gửi WhatsApp
+and_pages_default_208 === Nhận WhatsApp
+and_pages_default_215 === USSD
+and_pages_default_222 === Thông báo
+and_pages_default_229 === SMS / Trò chuyện đã lên lịch
+and_pages_default_236 === Liên lạc
+and_pages_default_243 === Khóa API
+and_pages_default_250 === Webhooks
+and_pages_default_257 === Hành động
+and_pages_default_264 === Thiết bị Android
+and_pages_default_271 === Tài khoản WhatsApp
+and_pages_default_287 === Khách hàng của chúng tôi
+and_pages_default_290 === Được hơn 3.000+ khách hàng tin cậy. Bắt đầu tiếp thị sản phẩm của bạn và phát triển doanh nghiệp của bạn với chúng tôi!
+landing_title_default === Thiết bị di động Android dưới dạng SMS Gateway
+landing_nav_login === Đăng nhập
+landing_lead_desc === Sử dụng gói sms không giới hạn của nhà cung cấp mạng của bạn, giải pháp giá rẻ và hiệu quả cho tiếp thị, sms số lượng lớn và các dự án ở quốc gia của bạn. Sử dụng WhatsApp để có phạm vi tiếp cận khán giả lớn hơn nữa, nền tảng của chúng tôi cung cấp các công cụ hoàn chỉnh để giúp bạn bắt đầu.
+landing_footer_ourcomp === Out Company
+landing_footer_about === Về
+landing_footer_tos === Điều khoản dịch vụ
+landing_footer_privacy === Chính sách bảo mật
+landing_footer_links === Liên kết trang web
+landing_footer_login === Đăng nhập
+landing_footer_register === Đăng ký
+landing_footer_copyright === Đã đăng ký Bản quyền
+dashboard_title_default === bảng điều khiển
+dashboard_title_contacts === Liên lạc
+dashboard_title_tools === Công cụ
+dashboard_title_admin === Sự quản lý
+dashboard_nav_default === bảng điều khiển
+dashboard_nav_contacts === Liên lạc
+dashboard_nav_tools === Công cụ
+dashboard_nav_menusubscription === Đăng ký
+dashboard_nav_menusettings === Cài đặt
+dashboard_nav_menulogout === Đăng xuất
+dashboard_btn_addcontact === Thêm liên hệ
+dashboard_btn_adddevice === Thêm thiết bị
+dashboard_btn_addgroup === Thêm nhóm
+dashboard_btn_addtemplate === Thêm mẫu
+dashboard_btn_addkey === Thêm khóa
+dashboard_btn_addhook === Thêm Webhook
+dashboard_btn_build === Xây dựng
+dashboard_btn_buildsettings === Cài đặt
+dashboard_btn_settings === Hệ thống
+dashboard_btn_theme === Chủ đề
+dashboard_btn_adduser === Thêm người dùng
+dashboard_btn_addpackage === Thêm gói
+dashboard_btn_addwidget === Thêm tiện ích con
+dashboard_btn_addlanguage === Thêm ngôn ngữ
+dashboard_footer_about === Về
+dashboard_footer_terms === Điều khoản dịch vụ
+dashboard_footer_privacy === Chính sách bảo mật
+dashboard_footer_copyright === Đã đăng ký Bản quyền
+dashboard_messages_menusent === Gởi
+dashboard_messages_menureceived === Nhận
+dashboard_messages_menutemplates === Mẫu
+dashboard_messages_tabreceivedtitle === Tin nhắn đã nhận
+dashboard_messages_tabtemplatestitle === Mẫu
+dashboard_messages_tablesentrecipient === Người nhận
+dashboard_messages_tablesentmessage === Thông điệp
+dashboard_messages_tablesentcreated === Tạo
+dashboard_messages_tablesentoptions === Tùy chọn
+dashboard_messages_tablereceivedsender === Người gửi
+dashboard_messages_tablereceivedmessage === Thông điệp
+dashboard_messages_tablereceivedreceived === Nhận
+dashboard_messages_tablereceivedoptions === Tùy chọn
+dashboard_messages_tabletemplatesname === Tên mẫu
+dashboard_messages_tabletemplatesformat === Định dạng Mẫu
+dashboard_messages_tabletemplatesoptions === Tùy chọn
+dashboard_contacts_title === Liên lạc
+dashboard_contacts_menusaved === Đã lưu
+dashboard_contacts_menugroups === Các nhóm
+dashboard_contacts_tabsavedtitle === Địa chỉ liên hệ đã lưu
+dashboard_contacts_tabgroupstitle === Nhóm liên hệ
+dashboard_contacts_tablesavedname === Tên Liên lạc
+dashboard_contacts_tablesavednumber === Số liên lạc
+dashboard_contacts_tablesavedoptions === Tùy chọn
+dashboard_contacts_tablegroupsname === Tên nhóm
+dashboard_contacts_tablegroupsoptions === Tùy chọn
+dashboard_devices_tableregisteredbrand === nhà chế tạo
+dashboard_devices_tableregisteredversion === Phiên bản
+dashboard_devices_tableregisteredadded === Đăng ký
+dashboard_devices_tableregisteredoptions === Tùy chọn
+dashboard_tools_title === Công cụ
+dashboard_tools_menukeys === Khóa API
+dashboard_tools_menuhooks === Webhooks
+dashboard_tools_tabkeystitle === Khóa API
+dashboard_tools_tabhookstitle === Webhooks
+dashboard_tools_tablekeysname === Tên
+dashboard_tools_tablekeyspermissions === Quyền
+dashboard_tools_tablekeysoptions === Tùy chọn
+dashboard_tools_tablehooksname === Tên
+dashboard_tools_tablehooksurl === URL webhook
+dashboard_tools_tablehooksoptions === Tùy chọn
+dashboard_admin_title === Quản trị viên
+dashboard_admin_menustats === Số liệu thống kê
+dashboard_admin_menuusers === Người dùng
+dashboard_admin_menupackages === Các gói
+dashboard_admin_menusubscriptions === Đăng ký
+dashboard_admin_menutransactions === Giao dịch
+dashboard_admin_menuwidgets === Vật dụng
+dashboard_admin_menulanguages === Ngôn ngữ
+dashboard_admin_tabdefaultearningstitle === Thu nhập
+dashboard_admin_tabdefaultmessageslast === 30 ngày trước
+dashboard_admin_tabuserstitle === Người dùng
+dashboard_admin_tabpackagestitle === Các gói
+dashboard_admin_tabsubscriptionstitle === Đăng ký
+dashboard_admin_tabtransactionstitle === Giao dịch
+dashboard_admin_tabwidgetstitle === Vật dụng
+dashboard_admin_tablanguagestitle === Ngôn ngữ
+dashboard_admin_tableusersname === Tên
+dashboard_admin_tableusersemail === E-mail
+dashboard_admin_tableusersoptions === Tùy chọn
+dashboard_admin_tablepackagesname === Tên
+dashboard_admin_tablepackagesprice === Giá bán
+dashboard_admin_tablepackagesoptions === Tùy chọn
+dashboard_admin_tablesubscriptionsuser === Người sử dụng
+dashboard_admin_tablesubscriptionspackage === Bưu kiện
+dashboard_admin_tablesubscriptionsprice === Giá bán
+dashboard_admin_tablesubscriptionsexpire === Hạn sử dụng
+dashboard_admin_tablesubscriptionsoptions === Tùy chọn
+dashboard_admin_tabletransactionscustomer === khách hàng
+dashboard_admin_tabletransactionsprovider === Các nhà cung cấp
+dashboard_admin_tablewidgetsname === Tên tiện ích con
+dashboard_admin_tablewidgetstype === Loại hình
+dashboard_admin_tablewidgetssize === Kích thước
+dashboard_admin_tablewidgetsposition === Chức vụ
+dashboard_admin_tablewidgetsoptions === Tùy chọn
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Tên ngôn ngữ
+dashboard_admin_tablelanguagescreated === Tạo
+dashboard_admin_tablelanguagesoptions === Tùy chọn
+table_search_text === Tìm kiếm
+table_search_placeholder === Nhập từ khóa vào đây ...
+response_invalid === Yêu cầu không hợp lệ!
+response_went_wrong === Đã xảy ra lỗi!
+response_session_false === Phiên không tồn tại!
+response_session_true === Phiên đã tồn tại!
+response_invalid_emailpass === Email / mật khẩu không hợp lệ!
+response_loggedin_success === Đã đăng nhập thành công!
+response_loggedout_success === Đăng xuất thành công!
+response_invalid_email === Địa chỉ email không hợp lệ!
+response_retrieval_received === Chúng tôi đã nhận được yêu cầu truy xuất tài khoản, hãy bỏ qua nếu bạn không yêu cầu.
+response_solve_captcha === Hãy giải quyết thử thách chống bot!
+response_register_false === Đăng ký bị vô hiệu hóa!
+response_name_short === Tên quá ngắn!
+response_password_short === Mật khẩu phải lớn hơn 5 ký tự!
+response_password_notmatch === Mật khẩu không khớp!
+response_register_success === Đăng ký thành công!
+response_email_unavailable === Địa chỉ email đã được đăng ký!
+response_upload_applogo === Vui lòng tải lên biểu trưng ứng dụng của bạn!
+response_upload_appsplash === Vui lòng tải lên bản giật gân ứng dụng của bạn!
+response_pcode_empty === Vui lòng nhập mã mua hàng của bạn vào cài đặt hệ thống!
+response_buildserver_false === Không thể kết nối với máy chủ xây dựng!
+response_invalid_number === Số điện thoại di động không hợp lệ!
+response_message_short === Tin nhắn quá ngắn!
+response_message_queued === Tin nhắn đã được thêm vào hàng đợi!
+response_message_bulkqueued === Hàng loạt tin nhắn đã được xếp hàng đợi để gửi!
+response_format_short === Định dạng quá ngắn!
+response_template_added === Mẫu đã được thêm vào!
+response_number_exist === Số liên lạc đã tồn tại!
+response_contact_added === Liên hệ đã được thêm vào!
+response_group_added === Nhóm liên hệ đã được thêm vào!
+response_permission_min === Vui lòng chọn ít nhất 1 quyền!
+response_key_added === Khóa API đã được thêm vào!
+response_invalid_webhookurl === URL Webhook không hợp lệ!
+response_webhook_added === Webhook ahs đã được thêm vào!
+response_user_added === Người dùng đã được thêm!
+response_package_added === Gói đã được thêm vào!
+response_widget_added === Widget đã được thêm vào!
+response_language_added === Ngôn ngữ đã được thêm vào!
+response_avatar_invalid === Hình đại diện không thể được tải lên!
+response_profile_updated === Hồ sơ đã được cập nhật!
+response_package_purchasedtitle === Bạn đã đăng ký gói cao cấp, đây là biên lai của bạn!
+response_package_purchased === Đã đăng ký gói thành công!
+response_template_updated === Mẫu đã được cập nhật!
+response_contact_updated === Liên hệ đã được cập nhật!
+response_group_updated === Nhóm liên hệ đã được cập nhật!
+response_key_updated === Khóa API đã được cập nhật!
+response_webhook_updated === Webhook đã được cập nhật!
+response_user_updated === Người dùng đã được cập nhật!
+response_package_updated === Gói đã được cập nhật!
+response_widget_updated === Widget đã được cập nhật!
+response_language_updated === Ngôn ngữ đã được cập nhật!
+response_builder_packagenameshort === Tên gói quá ngắn!
+response_builder_appnameshort === Tên ứng dụng quá ngắn!
+response_builder_applogofail === Không thể tải lên logo ứng dụng!
+response_builder_appsplashfail === Không thể tải lên ứng dụng giật gân!
+response_builder_settingsupdated === Đã cập nhật cài đặt trình tạo!
+response_theme_updated === Đã cập nhật cài đặt chủ đề!
+response_system_settingsupdated === Đã cập nhật cài đặt hệ thống!
+response_deleted_sent === Tin nhắn đã gửi đã bị xóa!
+response_deleted_received === Tin nhắn nhận được đã bị xóa!
+response_deleted_template === Mẫu đã bị xóa!
+response_deleted_contact === Liên hệ đã bị xóa!
+response_deleted_group === Nhóm liên hệ đã bị xóa!
+response_deleted_device === Thiết bị đã bị xóa!
+response_deleted_key === Khóa API đã bị xóa!
+response_deleted_hook === Webhook đã bị xóa!
+response_deleted_defaultuserfalse === Người dùng mặc định không thể bị xóa!
+response_deleted_user === Người dùng đã bị xóa!
+response_deleted_defaultpackagefalse === Gói mặc định không thể bị xóa!
+response_deleted_package === Gói đã bị xóa!
+response_deleted_subscription === Đăng ký đã bị xóa!
+response_deleted_widget === Widget đã bị xóa!
+response_deleted_defaultlangfalse === Ngôn ngữ mặc định không thể bị xóa!
+response_deleted_language === Ngôn ngữ đã bị xóa!
+response_lang_changed === Ngôn ngữ đã được thay đổi!
+modal_usersettings_title === Cài đặt
+modal_subscription_title === Đăng ký
+modal_packages_title === Các gói
+modal_smsquick_title === SMS nhanh
+modal_smsbulk_title === SMS hàng loạt
+modal_addtemplate_title === Thêm mẫu
+modal_edittemplate_title === Chỉnh sửa Mẫu
+modal_addcontact_title === Thêm liên hệ
+modal_editcontact_title === Chỉnh sửa liên hệ
+modal_addgroup_title === Thêm nhóm
+modal_editgroup_title === Chỉnh sửa nhóm
+modal_adddevice_title === Thêm thiết bị
+modal_addkey_title === Thêm khóa API
+modal_editkey_title === Chỉnh sửa khóa API
+modal_edithook_title === Chỉnh sửa Webhook
+modal_buildersettings_title === Cài đặt trình tạo
+modal_themesettings_title === Cài đặt chủ đề
+modal_systemsettings_title === Cài đặt hệ thống
+modal_adduser_title === Thêm người dùng
+modal_edituser_title === Người dùng biên tập
+modal_addpackage_title === Thêm gói
+modal_editpackage_title === Chỉnh sửa gói
+modal_addwidget_title === Thêm tiện ích con
+modal_editwidget_title === Chỉnh sửa tiện ích con
+modal_addlanguage_title === Thêm ngôn ngữ
+modal_editlanguage_title === Chỉnh sửa ngôn ngữ
+require_email === Địa chỉ email
+require_password === Mật khẩu
+require_name === Họ và tên
+require_cpassword === xác nhận mật khẩu
+require_phone === Số điện thoại
+require_device === Thiết bị
+require_message === Thông điệp
+require_groups === Nhóm liên hệ
+require_sim === Khe cắm sim
+require_priority === Tùy chọn ưu tiên
+require_api === Tùy chọn API
+require_templatename === Tên mẫu
+require_templateformat === Định dạng mẫu
+require_contactname === Tên Liên lạc
+require_group === Nhóm liên hệ
+require_groupname === Tên nhóm
+require_apiname === Tên khóa API
+require_permissions === Quyền
+require_hookname === Tên webhook
+require_hookurl === Url webhook
+require_appname === Tên ứng dụng
+require_appcolor === Màu ứng dụng
+require_packagename === Tên gói hàng
+require_widgetname === Tên tiện ích con
+require_widgetsize === Kích thước tiện ích con
+require_widgetposition === Vị trí tiện ích con
+require_widgettype === Loại tiện ích con
+require_languagename === Tên ngôn ngữ
+require_languageiso === Ngôn ngữ iso
+require_languagestr === Bản dịch ngôn ngữ
+btn_submit === Nộp
+btn_download === Tải xuống
+btn_done === Xong
+btn_purchase === Mua, tựa vào, bám vào
+btn_free === Tự do
+btn_send === Gửi
+btn_save === Tiết kiệm
+btn_packages === Các gói
+btn_retrieve === Lấy lại
+btn_signin === Đăng nhập
+btn_signup === Đăng ký
+form_name === Tên
+form_number === Số điện thoại
+form_group === Nhóm liên hệ
+form_adddevice_one === Thêm thiết bị Android mới vào tài khoản của bạn rất dễ dàng, chúng tôi đảm bảo bạn có thể tiếp tục mà không lãng phí thời gian quý báu của mình, hãy làm theo các bước sau.
+form_adddevice_two === 1. Tải xuống và cài đặt
+form_adddevice_three === Đầu tiên, tải xuống và cài đặt ứng dụng cổng của chúng tôi bằng cách nhấp vào nút này.
+form_adddevice_four === 2. Đăng ký thiết bị
+form_adddevice_five === Bây giờ, hãy mở ứng dụng cổng và nhấp vào nút quét, sau đó quét mã qrcode này.
+form_adddevice_six === 3. Đã xong!
+form_adddevice_seven === Thiết bị đã được thêm vào tài khoản của bạn, bây giờ bạn có thể bắt đầu gửi tin nhắn!
+form_permissions === Quyền
+form_countrycode === Mã quốc gia
+form_translations === Chuỗi dịch
+form_translations_placeholder === Nhập bản dịch ở đây ...
+form_packageprice === Giá bán
+form_packagesend === Gửi giới hạn
+form_packagereceive === Nhận giới hạn
+form_packagedevice === Giới hạn thiết bị
+form_packagekey === Giới hạn chính
+form_packagehook === Giới hạn Webhook
+form_templatename_placeholder === Sự thông báo
+form_templateformat === Định dạng
+form_templateformat_placeholder === Nhập định dạng mẫu của bạn tại đây ...
+form_shortcodes === Mã ngắn
+form_emailaddress === Địa chỉ email
+form_password === Mật khẩu
+form_password_leave === Để trống để giữ mật khẩu hiện tại
+form_language === Ngôn ngữ
+form_webhookname_placeholder === Bot trả lời
+form_webhookurl === URL
+form_widgetname_placeholder === Điều khoản dịch vụ
+form_widgeticon === Biểu tượng
+form_widgettype === Loại hình
+form_widgetsize === Kích thước
+form_widgetsmall === Nhỏ bé
+form_widgetmedium === Vừa phải
+form_widgetlarge === Lớn
+form_widgetxlarge === Cực lớn
+form_widgetposition === Chức vụ
+form_widgetcenter === Trung tâm
+form_widgetleft === Bên trái
+form_widgetright === Đúng
+form_widgetcontent === Nội dung
+form_builderpackagename === Tên gói hàng
+form_builderappname === Tên ứng dụng
+form_builderappdesc === Mô tả ứng dụng
+form_builderappdesc_placeholder === Đây là một ứng dụng tuyệt vời
+form_builderapplogo === Biểu trưng ứng dụng
+form_builderappsplash === App Splashscreen
+form_uploaded === Đã tải lên
+form_notuploaded === Không có
+form_themebg === Màu nền
+form_themetext === Màu nổi bật
+form_settingsite === Địa điểm
+form_settingssitename === Tên trang web
+form_settingssitedesc === Mô tả trang web
+form_settingspcode === Mã mua hàng
+form_settingsprotocol === Giao thức
+form_settingsdeflang === Ngôn ngữ mặc định
+form_settingsreg === Đăng ký
+form_settingsmailing === gửi thư
+form_settingsmailfunc === Chức năng Thư
+form_settingssitemail === Email trang web
+form_settingssmtphost === Máy chủ SMTP
+form_settingssmtpport === Cổng SMTP
+form_settingssmtpusername === Tên người dùng SMTP
+form_settingssmtppassword === Mật khẩu SMTP
+form_settingssmtp_small === Bắt buộc đối với SMTP từ xa
+form_settingspayments === Thanh toán
+form_settingspaypaltest === Chế độ kiểm tra Paypal
+form_settingssecurity === Bảo vệ
+form_settingsrecaptchakey === Khóa trang web Recaptcha
+form_settingsrecaptchasecret === Khóa bí mật Recaptcha
+form_enable === Cho phép
+form_disable === Vô hiệu hóa
+form_native === Tự nhiên
+form_remotesmtp === SMTP từ xa
+form_device === Thiết bị di động
+form_sim === Khe cắm sim
+form_priority === Quyền ưu tiên
+form_yes === Đúng
+form_no === Không
+form_freefor === Miễn phí mãi mãi
+form_monthly === Hàng tháng
+form_groups === Nhóm liên hệ
+form_template === Mẫu
+form_none === Không có
+form_message === Thông điệp
+form_message_placeholder === Nhập tin nhắn của bạn ở đây...
+form_avatar === hình đại diện
+form_changepass === Đổi mật khẩu
+form_package === Bưu kiện
+form_keys === Khóa API
+form_hooks === Webhooks
+form_daily === hằng ngày
+form_forgotpass === Quên mật khẩu
+form_fullname === Họ và tên
+form_cpassword === Xác nhận mật khẩu
+form_haveaccount === Tôi có một tài khoản
+datatable_processing === Chế biến .. Xin vui lòng chờ đợi...
+datatable_length === Hiển thị _MENU_ mục nhập
+datatable_info === Hiển thị _START_ đến _END_ trong số _TOTAL_ mục nhập
+datatable_empty === Hiển thị 0 đến 0 trong số 0 mục nhập
+datatable_filtered === (được lọc từ tổng số _MAX_ mục nhập)
+datatable_loading === Tải vui lòng đợi...
+datatable_zero === Chúng tôi không thể tìm thấy bất kỳ điều gì phù hợp với truy vấn của bạn!
+datatable_null === Không có dữ liệu để hiển thị!
+datatable_first === Ngày thứ nhất
+datatable_prev === Trước
+datatable_next === Tiếp theo
+datatable_last === Cuối
+delete_title === Xóa bỏ?
+delete_tagline === Hành động này không thể được hoàn tác!
+validate_cannotemp === không được để trống!
+alert_attention === Chú ý
+copy_data === Đã sao chép dữ liệu vào khay nhớ tạm!
+date_today === Hôm nay
+date_yesterday === Hôm qua
+date_7days === 7 ngày qua
+date_30days === 30 ngày trước
+date_month === Tháng này
+date_lmonth === Tháng trước
+date_custom === Phạm vi tùy chỉnh
+unknown_action_method === Phương thức hành động không xác định!
+mollie_redirecting_page === Đang chuyển hướng đến trang thanh toán mollie ...
+form_settingsmolliekey === Khóa API Mollie
+btn_confirm === Xác nhận
+btn_cancel === Hủy bỏ
+recaptcha_add_keys === Vui lòng thêm các khóa recaptcha của bạn để kích hoạt tính năng này!
+pay_with_paypal === Thanh toán bằng PayPal
+pay_with_mollie === Thanh toán bằng Mollie
+form_settingsenabledproviders === Nhà cung cấp được Kích hoạt
+form_builderappicon === Biểu tượng ứng dụng
+payment_transact_failed === Giao dịch thanh toán không thành công!
+cookieconsent_message === Chúng tôi đang sử dụng cookie để đảm bảo rằng bạn đang có được trải nghiệm tốt nhất trên trang web của chúng tôi.
+cookieconsent_link === Tìm hiểu thêm
+role_added === Vai trò đã được thêm vào!
+role_updated === Vai trò đã được cập nhật!
+role_deleted === Vai trò đã bị xóa!
+role_default_update === Vai trò mặc định không thể được chỉnh sửa!
+role_default_delete === Vai trò mặc định không thể bị xóa!
+voucher_added === Phiếu thưởng đã được thêm vào!
+form_voucher === Mã chứng từ
+btn_redeem === Chuộc lại
+invalid_voucher_code === Mã phiếu thưởng không hợp lệ!
+voucher_deleted === Phiếu thưởng đã bị xóa!
+form_title_addvoucher === Thêm phiếu thưởng
+form_title_addsubscription === Thêm đăng ký
+form_adduser_role === Vai diễn
+require_pagename === Tên trang
+require_pageroles === Các vai trò được phép
+form_pageroles === Các vai trò được phép
+require_vouchercode === Mã chứng từ
+form_settingscurrency === Tiền tệ
+btn_bulkexcel === Excel
+response_leastprovider === Vui lòng chọn ít nhất 1 nhà cung cấp dịch vụ thanh toán!
+user_subscriptioncontacts === Liên lạc
+response_suspended === Tài khoản của bạn đã bị quản trị viên tạm ngưng!
+response_adminsuspend === Tài khoản mặc định không thể bị tạm ngưng!
+response_successsuspend === Người dùng đã bị đình chỉ!
+response_successunsuspend === Người dùng đã được tạm dừng!
+suspend_user_title === Tạm ngưng người dùng?
+suspend_user_desc === Người dùng này sẽ không thể đăng nhập và sử dụng các dịch vụ
+unsuspend_user_title === Ngừng sử dụng người dùng?
+unsuspend_user_desc === Người dùng này sẽ có thể đăng nhập và sử dụng lại các dịch vụ
+all_languages === Tất cả các ngôn ngữ
+response_invalid_excel === Tệp excel không hợp lệ!
+response_contacts_imported === Danh bạ đã được nhập!
+table_role_name === Tên vai trò
+table_role_permissions === Quyền
+table_voucher_name === Tên
+table_voucher_package === Bưu kiện
+table_page_name === Tên trang
+table_page_require === Yêu cầu đăng nhập
+table_page_roles === Các vai trò được phép
+import_btn === Nhập khẩu
+form_excelfile === Tệp Excel
+form_hook_addtitle === Thêm hành động móc
+form_hook_edittitle === Chỉnh sửa hành động móc
+form_hook_event === Biến cố
+form_hook_link === Cấu trúc liên kết
+form_autoreply_addtitle === Thêm hành động trả lời
+form_autoreply_edittitle === Chỉnh sửa hành động trả lời
+form_autoreply_keywords === Từ khóa
+form_autoreply_message === Trả lời tin nhắn
+require_action_name === Tên hành động
+require_action_event === Loại sự kiện
+require_action_link === Cấu trúc liên kết
+require_action_keywords === Từ khóa
+require_action_message === Trả lời tin nhắn
+response_invalid_linkstructure === Cấu trúc liên kết không hợp lệ!
+response_hook_added === Hành động móc SMS đã được thêm vào!
+response_invalid_keywords === Bạn phải nhập ít nhất 1 từ khóa!
+response_autoreply_added === Hành động trả lời SMS đã được thêm vào!
+response_hook_updated === Hành động móc SMS đã được cập nhật!
+response_autoreply_updated === Hành động trả lời SMS đã được cập nhật!
+response_action_deleted === Hành động SMS đã bị xóa!
+table_action_name === Tên
+form_scheduled_title === Lên lịch SMS
+response_scheduled_deleted === Tin nhắn đã lên lịch đã bị xóa!
+response_no_permission === Bạn không có quyền cho hành động này!
+response_builder_appiconfail === Biểu tượng ứng dụng không thể được tải lên!
+form_require_login === Yêu cầu đăng nhập
+widget_addpage_title === Thêm trang
+widget_editpage_title === Chỉnh sửa trang
+require_subscription_user === Người sử dụng
+require_voucher_name === Tên phiếu thưởng
+require_voucher_package === Bưu kiện
+widget_alllang_title === Tất cả các ngôn ngữ
+widget_smsexcel_title === SMS hàng loạt bằng Excel
+require_scheduled_name === Tên
+require_scheduled_date === Lên lịch ngày
+widget_importcontacts_title === Nhập danh bạ
+require_addrole_name === Tên vai trò
+require_addrole_permissions === Quyền
+widget_editrole_title === Chỉnh sửa vai trò
+response_page_added === Trang đã được thêm vào!
+response_page_updated === Trang đã được cập nhật!
+response_page_deleted === Trang đã bị xóa!
+table_scheduled_name === Tên
+messages_scheduled_title === Lên kế hoạch
+messages_scheduled_schedule === Lên lịch SMS
+form_schedule_numbers === Số điện thoại di động
+form_schedule_schedule === Lịch trình
+form_schedule_repeat === Nói lại
+form_bulksms_numbers === Số điện thoại di động
+dashboard_tools_menuactions === Hành động
+dashboard_admin_menuroles === Vai trò
+dashboard_admin_menuvouchers === Phiếu thưởng
+dashboard_admin_menupages === Các trang
+admin_gateway_title === Cổng vào
+admin_gateway_status === Trạng thái
+admin_gateway_notuploaded === Không được tải lên
+admin_gateway_uploaded === Đã tải lên
+dashboard_roles_title === Vai trò người dùng
+dashboard_roles_addrole === Thêm vai trò
+dashboard_vouchers_title === Phiếu thưởng
+dashboard_vouchers_addrole === Thêm phiếu thưởng
+form_voucher_package === Bưu kiện
+dashboard_pages_title === Các trang
+dashboard_pages_addpage === Thêm trang
+form_theme_favicon === Favicon
+form_package_contactslimit === Giới hạn địa chỉ liên hệ
+response_limitation_send === Bạn đã đạt đến mức gửi tối đa được phép cho ngày hôm nay!
+response_limitation_contact === Bạn đã đạt đến số địa chỉ liên hệ tối đa được phép!
+response_limitation_key === Bạn đã đạt đến số khóa API tối đa được phép!
+response_limitation_webhook === Bạn đã đạt đến số lượng webhook tối đa được phép!
+form_adminsettings_token === Mã thông báo hệ thống
+response_upload_appicon === Vui lòng tải lên biểu tượng ứng dụng của bạn!
+app_status_gateway_running === Gateway đang chạy!
+app_device_registered === Đã liên kết
+app_device_unregistered === Không liên kết
+app_terminal_gateway_ready === Gateway đã sẵn sàng ...
+app_terminal_gateway_register === Thiết bị chưa được liên kết ...
+app_terminal_gateway_hash === Băm
+app_terminal_gateway_registered === Thiết bị đã được liên kết ...
+app_terminal_gateway_device === Liên kết thiết bị không thành công ...
+app_terminal_gateway_connecterror === Lỗi khi kết nối với máy chủ ...
+app_terminal_gateway_started === Gateway đã được khởi động ...
+app_terminal_gateway_stopped === Cổng vào đã bị dừng ...
+app_terminal_gateway_unregistered === Không thể khởi động cổng, thiết bị chưa được liên kết với bất kỳ tài khoản nào ...
+app_terminal_feature_error === Lỗi tính năng SMS
+app_terminal_sms_sent === Đã gửi tin nhắn
+app_terminal_message_failed === Không gửi được tin nhắn
+app_dialog_wait === Vui lòng chờ...
+app_dialog_exit === Cổng thoát
+app_dialog_exit_desc === Tắt và thoát cổng?
+app_camera_qrcode_inside === Đặt mã QRCode của bạn bên trong
+app_ui_status === Trạng thái
+app_ui_exit === Lối ra
+require_voucher_count === Số phiếu không được để trống!
+form_voucher_count === Số phiếu thưởng
+cookieconsent_dismiss === Hiểu rồi!
+title_payment_success === Xác nhận đơn hàng
+title_payment_cancel === Đơn hàng đã bị hủy
+header_payment_success === Xác nhận đơn hàng
+header_payment_cancel === Đơn hàng đã bị hủy
+body_payment_cancel === Bạn đã hủy yêu cầu đặt hàng của mình.
+transaction_payment_success === ID giao dịch:
+back_payment_page === Quay lại Trang tổng quan
+form_settingspaypalemail === Email Doanh nghiệp Paypal
+form_settingsanalytics === Khóa Google Analytics
+form_messagecounterchars === nhân vật
+form_settingspagination === Giới hạn phân trang
+form_settingssentpage === Đã gửi tin nhắn trên mỗi trang
+form_settingsreceivedpage === Tin nhắn đã nhận trên mỗi trang
+form_settingsmessage === Cài đặt tin nhắn
+form_settingsmessagemin === Ký tự tối thiểu
+form_settingsmessagemax === Ký tự tối đa
+form_settingsmessagemark === Dấu chân trang tin nhắn
+form_packagefootermark === Dấu chân trang tin nhắn
+form_settingssmtpsecure === Bảo mật SMTP
+form_durationtitle === Khoảng thời gian
+form_durationpackage === Gói của bạn:
+form_durationpay === Bạn sẽ trả tiền:
+form_durationmonth === Thời hạn tháng
+form_subscriptionmonth === Thời hạn tháng
+authenticate_fblogin === Đăng nhập bằng facebook ...
+authenticate_googlelogin === Đăng nhập bằng google ...
+authenticate_vklogin === Đăng nhập bằng vkontakte ...
+response_minplatforms === Vui lòng chọn ít nhất 1 nền tảng xã hội!
+form_settingssocialtitle === Thiết lập xã hội
+form_settingssocial === Xác thực xã hội
+form_settingssocialplatforms === Nền tảng được kích hoạt
+form_usertimezone === Múi giờ
+form_settingsloginrecaptcha === Đăng nhập Recaptcha
+form_loginor === HOẶC
+form_adddevicescandl === Tải xuống qua Quét QR
+form_status_online === Trực tuyến
+form_status_offline === Ngoại tuyến
+form_smsbulknonumbers === Vui lòng chọn một nhóm liên hệ hoặc nhập số người nhận!
+form_addsubscriptionuser === Người sử dụng
+form_addsubscriptionpackage === Bưu kiện
+table_vouchersduration === Thời hạn tháng
+table_pluginsname === Tên plugin
+table_pluginsoptions === Tùy chọn
+dashboard_admin_menuplugins === bổ sung
+dashboard_admin_pluginstitle === bổ sung
+dashboard_admin_pluginsadd === Thêm plugin
+require_pluginfile === Tệp plugin
+modal_addplugin_title === Thêm plugin
+response_pluginwentwrong === Đã xảy ra sự cố khi tải lên plugin!
+response_plugininstalled === Plugin đã được cài đặt!
+dashboard_title_login === Đăng nhập
+dashboard_title_forgot === Quên mật khẩu
+dashboard_title_register === Đăng ký
+response_limitation_contact2 === Bạn đã đạt đến số lượng địa chỉ liên hệ tối đa trên đăng ký của mình, chỉ _8880_ địa chỉ liên hệ đã được nhập!
+response_contacts_imported2 === _8880_ địa chỉ liên hệ đã được nhập thành công!
+form_systemsettingshomepage === Trang chủ mặc định
+app_dialog_update_desc === Đã có phiên bản phát hành mới cho ứng dụng cổng, cần cập nhật!
+app_dialog_update_download === Tải xuống
+app_gateway_build_text === Gateway Build
+response_gateway_available === Đang tải xuống cổng, vui lòng đợi ...
+response_gateway_unavailable === Gateway không khả dụng, vui lòng liên hệ với quản trị viên của trang web!
+response_gateway_randommax === Khoảng thời gian gửi tối đa không được lớn hơn 300 giây!
+response_device_updated === Thiết bị đã được cập nhật!
+form_editdevice_devicename === Tên thiết bị
+form_editdevice_randomsend === Khoảng thời gian gửi ngẫu nhiên
+form_editdevice_randommin === Gửi khoảng thời gian tối thiểu
+form_editdevice_randommax === Gửi khoảng thời gian tối đa
+form_smsall_globalstatus === Toàn cầu
+form_select_multinone === Không có
+form_package_hiddenselect === Ẩn giấu
+landing_footer_ourcompnew === Công ty của chúng tôi
+form_smsschedule_submit === Lịch trình
+require_devicename === Tên thiết bị
+require_randommin === Khoảng thời gian tối thiểu ngẫu nhiên
+require_randommax === Khoảng thời gian tối đa ngẫu nhiên
+admin_update_installed === Cài đặt
+admin_update_btn === Cập nhật
+response_update_success === Hệ thống đã được cập nhật!
+form_settings_tawkchatlink === Liên kết trò chuyện trực tiếp Tawk
+model_title_editplugin === Chỉnh sửa plugin
+btn_other_paymentmethods === Phương thức thanh toán khác
+dashboard_btn_support === Ủng hộ
+pendingdelete_title === Xóa đang chờ xử lý?
+pendingdelete_desc === Xóa tất cả các tin nhắn đang chờ xử lý? Hành động này không thể được hoàn tác!
+dashboard_messages_tablefullmessage === Thông điệp đầy đủ
+administration_landing_btncache === Bộ nhớ đệm
+administration_landing_payouts === Các khoản thanh toán
+administration_landing_marketing === Tiếp thị
+administration_landing_gateways === Cổng vào
+administration_landing_shorteners === Người rút ngắn
+administration_landing_editor === Trình chỉnh sửa mẫu
+administration_landing_api === API quản trị
+administration_landing_build === Xây dựng
+administration_landing_system === Hệ thống
+requests_charts_smssent === Đã gửi SMS
+requests_charts_smsreceived === Đã nhận tin nhắn SMS
+requests_charts_wasent === WhatsApp đã gửi
+requests_charts_wareceived === WhatsApp đã nhận
+requests_charts_ussd === USSD
+requests_charts_notifications === Thông báo
+requests_charts_credits === Tín dụng
+administration_default_visitors === Khách
+administration_default_countries === Quốc gia
+administration_default_browsers === Các trình duyệt
+administration_default_os === Các hệ điều hành
+administration_default_usages === Tập quán
+administration_default_messages === Tin nhắn
+administration_default_utilities === Tiện ích
+administration_default_subscriptions === Đăng ký
+administration_default_credits === Tín dụng
+tables_users_registered === Đăng ký
+tables_users_details === Thông tin chi tiết
+dashboard_title_android === Android
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === Tỷ lệ cổng vào
+dashboard_title_docs === Tài liệu
+app_status_gateway_touch === Chạm vào đây để mở cổng
+app_dialog_downloading_update === Cập nhật đang tải
+app_dialog_interface_disabled === Giao diện bị vô hiệu hóa, vui lòng cập nhật ứng dụng lên phiên bản mới nhất!
+app_dialog_somethingwent_wrong === Rất tiếc, đã xảy ra lỗi!
+app_intro_level_1 === Cảm ơn bạn đã sử dụng nền tảng của chúng tôi, để tối đa hóa trải nghiệm của bạn và làm quen với ứng dụng, hãy khám phá và chúng tôi sẽ giải thích tất cả các chức năng cần thiết mà bạn cần biết.
+app_intro_level_2 === Bạn sẽ thấy tên thiết bị và trạng thái liên kết tại đây.
+app_intro_level_3 === Để liên kết thiết bị với tài khoản của bạn, hãy sử dụng nút này để đăng nhập hoặc quét mã QRCode của bạn để liên kết.
+app_intro_level_4 === Sử dụng công tắc này để bật hoặc tắt cổng.
+app_intro_level_5 === Bật công tắc này sẽ làm cho ứng dụng cổng lắng nghe các thông báo mới, sau đó có thể được quản lý theo chương trình trong nền tảng. Điều này được tắt theo mặc định.
+app_intro_level_6 === Sử dụng nút này để tắt và thoát khỏi ứng dụng cổng.
+app_intro_level_7 === Đây là thiết bị đầu cuối, các giao dịch tin nhắn và nhật ký hoạt động khác sẽ được hiển thị ở đây.
+app_intro_level_8 === Đây là nút hành động nổi, bạn có thể truy cập một số tùy chọn và các trang bổ sung như <b> Chạy trong nền </b> tại đây.
+app_dialog_tour_complete === Bây giờ bạn sẽ hiểu cách ứng dụng hoạt động, nếu có thêm câu hỏi, vui lòng liên hệ với chúng tôi!
+app_push_right_now === bây giờ
+app_device_detailes_updated === Chi tiết thiết bị đã được cập nhật!
+app_ussd_requests_notsupported === Yêu cầu USSD không được hỗ trợ ...
+app_notifications_listening_now === Đang nghe thông báo mới ...
+app_button_ok === Xác nhận
+app_dialog_update_smoothperm === Để cập nhật trơn tru và hiệu quả, vui lòng cho phép quyền cài đặt từ ứng dụng này.
+app_dialog_logging_in === Đăng nhập...
+app_dialog_invalid_email === Bạn đã nhập một email không hợp lệ!
+app_dialog_invalid_password === Mật khẩu quá ngắn để có hiệu lực!
+app_dialog_notsupported_notinougat === Thông báo hiện không được hỗ trợ cho nougat trở xuống, xin lỗi vì sự bất tiện này.
+app_dialog_notifications_permission === Để truy cập thông báo theo chương trình, ứng dụng yêu cầu một quyền đặc biệt. Vui lòng chọn ứng dụng trong danh sách sau đó cho phép truy cập thông báo.
+app_dialog_gateway_listennoti === Gateway bây giờ sẽ lắng nghe các thông báo mới.
+app_dialog_gateway_notirestart === Gateway sẽ khởi động lại và ngừng lắng nghe các thông báo mới.
+app_dialog_needto_link === Bạn cần liên kết thiết bị với tài khoản của mình trước khi có thể sử dụng tính năng này.
+app_dialog_logoutfrom_device === Đăng xuất khỏi thiết bị cổng này?
+app_document_runbackground === Chạy trong nền
+app_document_input_email === Địa chỉ email
+app_document_input_password === Mật khẩu
+app_document_btn_login === Đăng nhập
+app_document_text_or === hoặc
+app_document_btn_scan === Quét mã QR
+app_document_btn_cancel === Hủy bỏ
+app_intro_next_btn === Tiếp theo
+app_intro_back_btn === Mặt sau
+response_token_generated === Mã thông báo hệ thống đã được tạo lại!
+response_trigger_done === Webhook đã được kích hoạt!
+response_build_gservicesfile === Vui lòng tải lên tệp dịch vụ google của bạn!
+response_build_fcredentialsfile === Vui lòng tải lên tệp thông tin xác thực firebase của bạn!
+response_build_loginlogo === Vui lòng tải lên logo đăng nhập ứng dụng của bạn!
+response_whatsapp_notprem === Tài khoản không được đăng ký với bất kỳ gói cao cấp nào!
+response_whatsapp_maxaccounts === Bạn đã đạt đến số tài khoản WhatsApp tối đa được phép cho gói của mình!
+response_whatsapp_creatingqr === Tạo mã QR của WhatsApp
+response_whatsapp_noconnectserver === Không thể kết nối với máy chủ WhatsApp!
+response_chart_dashsmssent === Đã gửi SMS
+response_chart_dashsmsreceive === Đã nhận tin nhắn SMS
+response_chart_dashwasent === WA Đã gửi
+response_chart_dashwareceive === WA Đã nhận
+response_chart_dashwebhooks === Webhooks
+response_chart_dashactions === Hành động
+response_chart_dashussd === USSD
+response_chart_dashnoti === Thông báo
+response_resend_queued === Tin nhắn đã được xếp hàng để gửi!
+mail_title_payoutapproved === Yêu cầu thanh toán của bạn đã được thanh toán!
+response_payout_confirmed === Thanh toán đã được xác nhận!
+mail_title_payoutrejected === Yêu cầu thanh toán của bạn đã bị từ chối!
+response_payout_rejected === Khoản thanh toán đã bị từ chối!
+response_translate_msgshort === Tin nhắn quá ngắn!
+response_clear_systemcleared === Tệp bộ nhớ đệm hệ thống đã bị xóa!
+response_clear_smscleared === Tin nhắn đang chờ xử lý đã bị xóa!
+response_clear_ussdcleared === Yêu cầu USSD đang chờ xử lý đã được xóa!
+response_reorder_languages === Các ngôn ngữ đã được sắp xếp lại thứ tự!
+response_trash_selectedremoved === Các mục được chọn đã bị xóa!
+response_voucher_redeemed === Phiếu quà tặng đã được đổi!
+response_payout_invalidamount === Số tiền thanh toán không hợp lệ, nó không được chứa giá trị thập phân.
+response_payout_notenoughbal === Không đủ số dư thu nhập để xử lý yêu cầu!
+response_payout_reqreceive === Yêu cầu thanh toán của bạn đã được nhận!
+response_payout_pendingreq === Bạn vẫn có một yêu cầu thanh toán đang chờ xử lý!
+response_system_sysconfigerr === Lỗi cấu hình hệ thống!
+response_message_toolong === Tin nhắn của bạn quá dài!
+response_package_nosubwarn === Bạn không có đăng ký gói!
+response_message_notenoughcredsend === Không đủ tín dụng để gửi tin nhắn này!
+response_message_queuedforsend === Tin nhắn đã được xếp hàng để gửi!
+response_message_sentsuccess === Tin nhắn đã được gửi đi!
+response_message_unablesendmesg === Chúng tôi không thể gửi tin nhắn của bạn!
+response_smsexcel_phonenotfound === Không tìm thấy cột _8880_ trong tệp excel của bạn!
+response_smssched_queued === Tin nhắn đã được lên lịch!
+response_ussd_maximumreq === Đã đạt đến số lượng yêu cầu USSD tối đa!
+response_ussd_queued === Yêu cầu USSD đã được xếp hàng đợi!
+response_whatsapp_reachedmaxchat === Bạn đã đạt đến số lượng cuộc trò chuyện tối đa mà bạn có thể gửi!
+response_whatsapp_chatqueued === Tin nhắn WhatsApp đã được xếp hàng để gửi!
+response_whatsapp_unableconnectserv === Không thể kết nối với máy chủ WhatsApp!
+response_whatsapp_bulkchatsqueued === Các cuộc trò chuyện hàng loạt trên WhatsApp đã được xếp hàng đợi!
+response_whatsapp_excelphonecolnotfound === Không tìm thấy cột _8880_ trong tệp excel của bạn!
+response_whatsapp_chatscheduled === Trò chuyện đã được lên lịch!
+response_importcontacts_phonenotfound === Không tìm thấy cột _8880_ trong tệp excel của bạn!
+response_importcontacts_groupsnotfound === Không tìm thấy cột _8880_ trong tệp excel của bạn!
+response_importcontacts_namenotfound === Không tìm thấy cột _8880_ trong tệp excel của bạn!
+response_package_pricenotlessone === Giá trọn gói không được nhỏ hơn 1!
+response_subscription_addedsuccess === Đăng ký đã được tạo!
+response_push_selectatleastoneuser === Vui lòng chọn ít nhất một người dùng hoặc vai trò!
+response_push_mesgtooshort === Tin nhắn quá ngắn!
+response_push_titletooshort === Tiêu đề quá ngắn!
+response_push_imgfailed === Tải lên tệp hình ảnh không thành công!
+response_push_created === Quảng bá đẩy đã được tạo!
+response_push_nousers === Không tìm thấy người dùng nào để gửi!
+response_notify_titletooshort === Tiêu đề quá ngắn!
+response_notify_mesgtooshort === Tin nhắn quá ngắn!
+response_notify_selectuserrole === Vui lòng chọn ít nhất một người dùng hoặc vai trò!
+response_notify_imgfailed === Tải lên tệp hình ảnh không thành công!
+response_notify_created === Chương trình phát thông báo đã được tạo!
+response_notify_nousers === Không tìm thấy người dùng nào để gửi!
+response_mailer_titletooshort === Tiêu đề quá ngắn!
+response_mailer_contentooshort === Nội dung quá ngắn!
+response_mailer_nouserorrole === Vui lòng chọn ít nhất một người dùng hoặc vai trò!
+response_mailer_sendcounter === _8880_ trong số _8881_ email đang chờ xử lý đã được gửi qua bưu phẩm!
+response_mailer_mailprocessed === Gửi thư hàng loạt đã được xử lý!
+response_mailer_nousersorrole === Không tìm thấy người dùng nào để gửi!
+response_gateway_controllercannotempty === Tệp bộ điều khiển không được để trống!
+response_gateway_invalidcontroller === Tệp bộ điều khiển không hợp lệ!
+response_gateway_addeddcontroller === Cổng vào đã được thêm vào!
+response_shortener_cannotempty === Tệp bộ điều khiển không được để trống!
+response_shortener_invalidcontroller === Tệp bộ điều khiển không hợp lệ!
+response_shortener_addedcontroller === Shortener đã được thêm vào!
+response_plugin_samenameinstalled === Một plugin có cùng tên đã được cài đặt!
+response_smscheduled_editsuccess === Tin nhắn đã lên lịch đã được cập nhật!
+response_chatscheduled_editsuccess === Lịch trò chuyện đã được cập nhật!
+response_editdevice_invalidrate === Giá trị tỷ lệ không hợp lệ, nó phải là một số thực hợp lệ!
+response_editdevice_nametooshort === Tên thiết bị quá ngắn!
+response_editdevice_nametoolong === Tên thiết bị quá dài!
+response_editdevice_invalidmaxinterval === Giá trị khoảng thời gian tối đa không hợp lệ!
+response_gateway_updatedsuccess === Gateway đã được cập nhật!
+response_shortener_editsuccess === Shortener đã được cập nhật!
+response_editplugin_success === Cài đặt plugin đã được cập nhật!
+response_updatepluin_corrupted === Tệp cập nhật plugin bị hỏng!
+response_updateplugin_updated === Plugin đã được cập nhật!
+response_builder_invalidgooglefile === Tệp thông tin xác thực các dịch vụ của google không hợp lệ!
+response_builder_invalidfirebasefile === Tệp thông tin xác thực firebase không hợp lệ!
+response_theme_sitelogofailed === Tải lên biểu trưng trang web không thành công!
+response_theme_sitebgfailed === Tải lên nền trang web không thành công!
+response_theme_sitefavfailed === Tải lên hình ảnh Favicon không thành công!
+response_notification_deletedsuccess === Thông báo đã bị xóa!
+response_whatsapp_sentdeletesuccess === Trò chuyện WhatsApp đã gửi đã bị xóa!
+response_whatsapp_receivedeletesuccess === Trò chuyện WhatsApp nhận được đã bị xóa!
+response_whatsapp_scheduleddeletesuccess === Trò chuyện theo lịch trình WhatsApp đã bị xóa!
+response_whatsapp_accountdeletesuccess === Tài khoản WhatsApp đã bị xóa!
+response_unsibscribe_contactdeletedsuccess === Số chưa đăng ký đã bị xóa!
+response_marketing_logdeletedsuccess === Nhật ký tiếp thị đã bị xóa!
+response_gateway_controllerdeletedsuccess === Gateway đã bị xóa!
+response_shortener_controllerdeletedsuccess === Shortener đã bị xóa!
+table_androidsent_clipcopy === Đã gửi bản sao khay nhớ tạm _8880_
+table_androidsent_excel === Đã gửi Xuất Excel _8880_
+table_androidsent_pdf === Đã gửi Xuất PDF _8880_
+table_androidsent_sms === tin nhắn
+table_androidsend_report === Báo cáo
+table_unknown_data === không xác định
+table_androidsent_statuspending === Chưa giải quyết
+table_androidsent_statusqueued === Đã xếp hàng
+table_androidsent_statussent === Gởi
+table_androidsent_statusfailed === Thất bại
+table_none_data === Không có
+table_yes_data === Đúng
+table_no_data === Không
+table_removed_data === Loại bỏ
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Trạng thái: _8880_, Chế độ: _8881_, Mã: _8882_, Ưu tiên: _8883_, Đã gửi API: _8884_, Khe cắm sim: SIM _8885_, Thiết bị: _8886_, Hệ điều hành: _8887_
+table_androidsent_modenamedevice === Thiết bị
+table_androidsent_modenamecredits === Tín dụng
+table_androidsent_reportline1 === Trạng thái: _8880_
+table_androidsent_reportline2 === Chế độ: _8880_
+table_androidsent_reportline3 === Mã: _8880_
+table_androidsent_reportline4 === Ưu tiên: _8880_
+table_androidsent_reportline5 === API đã gửi: _8880_
+table_androidsent_reportline6 === Khe cắm sim: SIM _8880_
+table_androidsent_reportline7 === Thiết bị: _8880_
+table_androidsent_reportline8 === Hệ điều hành: _8880_
+table_androidsent_exporttwo === Trạng thái: _8880_, Chế độ: _8881_, Cổng: _8882_
+table_androidsent_reportline9 === Trạng thái: _8880_
+table_androidsent_reportline10 === Chế độ: _8880_
+table_androidsent_reportline11 === Cổng vào: _8880_
+table_androidsent_exportthree === Trạng thái: _8880_, Chế độ: _8881_, Mã: _8882_, API đã gửi: _8883_, Khe cắm sim: SIM _8884_, Cổng vào: _8885_
+table_androidsent_reportline12 === Trạng thái: _8880_
+table_androidsent_reportline13 === Chế độ: _8880_
+table_androidsent_reportline14 === Mã: _8880_
+table_androidsent_reportline15 === API đã gửi: _8880_
+table_androidsent_reportline16 === Khe cắm sim: SIM _8880_
+table_androidsent_reportline17 === Cổng vào: _8880_
+table_androidsent_titleresend === Gửi lại tin nhắn này
+table_title_deletethisitem === Xóa mục này
+table_androidreceive_exportcopy === Đã nhận bản sao khay nhớ tạm _8880_
+table_androidreceive_exportexcel === Đã nhận Xuất Excel _8880_
+table_androidreceive_exportpdf === Đã nhận bản xuất PDF _8880_
+table_androidreceive_smstitle === tin nhắn
+table_androidreceive_reporttitle === Báo cáo
+table_androidreceive_exportdata === Khe cắm sim: SIM _8880_, Thiết bị: _8881_, Hệ điều hành: _8882_
+table_androidreceive_reportline1 === Khe cắm sim: SIM _8880_
+table_androidreceive_reportline2 === Thiết bị: _8880_
+table_androidreceive_reportline3 === Hệ điều hành: _8880_
+table_androidreceive_titlereply === Trả lời số
+table_androidscheduled_titleschedule === Lịch trình
+table_androidscheduled_titledetails === Thông tin chi tiết
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Chế độ: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Lặp lại: _8880_
+table_androidscheduled_detailsline4 === Thiết bị: _8880_
+table_androidscheduled_detailsgroupslabel === Các nhóm:
+table_androidscheduled_detailsnumberslabel === Các con số:
+table_androidscheduled_detailsline5 === Chế độ: _8880_
+table_androidscheduled_detailsline6 === Lặp lại: _8880_
+table_androidscheduled_detailsline7 === Cổng vào: _8880_
+table_androidscheduled_detailsline8 === Chế độ: _8880_
+table_androidscheduled_detailsline9 === Lặp lại: _8880_
+table_androidscheduled_detailsline10 === Thiết bị: _8880_
+table_title_editthisitem === Chỉnh sửa mục này
+table_whatsappsent_exportcopy === Đã gửi bản sao khay nhớ tạm
+table_whatsappsent_exportexcel === Đã gửi Excel Export
+table_whatsappsent_exportpdf === Xuất PDF đã gửi
+table_whatsappsent_accounttitle === Tài khoản
+table_whatsappsent_recipienttitle === Người nhận
+table_whatsappsent_msgtitle === Thông điệp
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Trạng thái
+table_ussd_exportcopy === Bản sao USSD Clipboard
+table_ussd_exportexcel === USSD Excel Export
+table_ussd_exportpdf === Xuất PDF USSD
+table_ussd_createdtitle === Tạo
+table_ussd_codetitle === Mã số
+table_ussd_responsetitle === Phản ứng
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Trạng thái
+table_ussd_devicetitle === Thiết bị
+table_ussd_optionstitle === Tùy chọn
+table_ussd_pendingresponsetext === Phản hồi đang chờ xử lý
+table_empty_data === Trống rỗng
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Chưa giải quyết
+table_ussd_queuelabel === Đã xếp hàng
+table_ussd_completelabel === Hoàn thành
+table_ussd_detailsline1 === Thiết bị: _8880_
+table_ussd_detailsline2 === Hệ điều hành: _8880_
+table_notifications_exportcopy === Bản sao khay nhớ tạm thời thông báo
+table_notifications_exportexcel === Thông báo Xuất Excel
+table_notifications_exportpdf === Thông báo Xuất PDF
+table_notifications_createdtitle === Tạo
+table_notifications_packagetitle === Tên gói hàng
+table_notifications_title === Tiêu đề
+table_notification_texttitle === Chữ
+table_notification_devicetitle === Thiết bị
+table_notification_optiontitle === Tùy chọn
+table_notification_devicelabel === Thiết bị:
+table_notification_oslabel === Hệ điều hành:
+table_devices_nametitle === Tên
+table_devices_globaltitle === Toàn cầu
+table_enabled_data === Đã bật
+table_disabled_data === Vô hiệu hóa
+table_notifications_exportone === Thiết bị: _8880_, Hệ điều hành: _8881_
+table_whatsapp_pendinglabel === Chưa giải quyết
+table_whatsapp_queuelabel === Đã xếp hàng
+table_whatsapp_sentlabel === Gởi
+table_whatsapp_failedlabel === Thất bại
+table_whatsappreceive_exportcopy === Đã nhận bản sao khay nhớ tạm
+table_whatsappreceive_exportexcel === Đã nhận Xuất Excel
+table_whatsappreceive_exportpdf === Xuất PDF đã nhận
+table_whatsappreceive_replytitle === Trả lời số
+table_waschedule_scheduletitle === Lịch trình
+table_waschedule_detailstitle === Thông tin chi tiết
+table_waschedule_detailsline1 === Lặp lại: _8880_
+table_waschedule_detailsline2 === Tài khoản:
+table_waschedule_detailsline3 === Các nhóm:
+table_waschedule_detailsline4 === Các con số:
+table_waaccounts_loggedtitle === Đăng nhập
+device_login_usevalidemail === Vui lòng sử dụng một địa chỉ email hợp lệ!
+device_login_accountsuspended === Xin lỗi, tài khoản của bạn bị tạm ngưng!
+device_login_incorrectmailorpass === Bạn đã nhập một email hoặc mật khẩu không chính xác!
+device_login_nosubscription === Bạn không có đăng ký gói!
+device_login_nomoredevice === Bạn không thể đăng ký thêm thiết bị!
+device_scan_qrcodeinvalid === Mã QRCode của bạn không hợp lệ!
+device_scan_nosub === Bạn không có đăng ký gói!
+device_scan_usersuspended === Xin lỗi, tài khoản của bạn bị tạm ngưng!
+device_scan_nomoredevices === Bạn không thể đăng ký thêm thiết bị!
+device_report_smssentsuccess === Tin nhắn _8880_ đã được gửi từ _8881_
+device_report_smssentfailed === Không gửi được tin nhắn _8880_ từ _8881_
+device_received_smsreceived === _8880_ mới đã được nhận từ _8881_
+requests_resend_devicenotexist === Thiết bị không tồn tại!
+device_ussd_responsereceive === Phản hồi USSD đã nhận được từ _8880_
+device_notification_notireceive === Thông báo mới đã được nhận từ _8880_
+payment_success_unknowntx === không xác định
+payment_webhook_molliecreditsadded === Tín dụng đã được thêm vào tài khoản của bạn!
+payment_webhook_paypalcreditsadded === Tín dụng đã được thêm vào tài khoản của bạn!
+payment_webhook_unknowntn === không xác định
+mail_tpl_creditstitle === Chào bạn,
+mail_tpl_creditsdesc === Bạn đã mua các khoản tín dụng, chúng tôi đã ghi có tổng cộng _8880_ vào tài khoản của bạn và bạn có thể sử dụng ngay lập tức.
+mail_tpl_creditstnx === Cảm ơn bạn!
+mail_tpl_poweredby === Được cung cấp bởi _8880_
+forgot_response_recoverysent === Hướng dẫn truy xuất đã được gửi tới _8880_
+forgot_response_recoveryfail === Chúng tôi không thể gửi cho bạn một email!
+cron_package_expired === Đăng ký gói của bạn đã hết hạn!
+cron_package_expiring === Gói đăng ký sẽ hết hạn sau 5 ngày nữa!
+table_waaccounts_waidtitle === ID WhatsApp
+table_waaccounts_wauniquetitle === ID duy nhất
+table_contactssaved_idtitle === TÔI
+table_contactssaved_exportcopy === Bản sao khay nhớ tạm của nhóm _8880_
+table_contactssaved_exportexcel === Groups Excel Export _8880_
+table_contactssaved_exportpdf === Xuất PDF nhóm _8880_
+table_contactssaved_grouptitle === Các nhóm
+table_contactsgroups_gidtitle === Id nhóm
+table_contactsunsub_exportcopy === Bản sao khay nhớ tạm chưa đăng ký _8880_
+table_contactsunsub_exportexcel === Xuất Excel chưa được đăng ký _8880_
+table_contactsunsub_exportpdf === Xuất PDF chưa được đăng ký _8880_
+table_toolskeys_createdtitle === Tạo
+table_toolskeys_copyapisecret === Sao chép bí mật API vào khay nhớ tạm
+table_toolswebhooks_createtitle === Tạo
+table_tootlswebhooks_eventstitle === Sự kiện
+table_toolswebhooks_simulatebtn === Kích hoạt
+table_toolswebhooks_simulatedesc === Mô phỏng yêu cầu webhook
+table_toolswebhooks_copywebhooksecret === Sao chép bí mật webhook vào khay nhớ tạm
+table_toolsactions_createtitle === Tạo
+table_toolsactions_detailstitle === Thông tin chi tiết
+table_toolsactions_typehook === Cái móc
+table_toolsactions_typeautoreply === Tự động trả lời
+table_toolsactions_source === Nguồn: _8880_
+table_toolsactions_sourcesms === tin nhắn
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === Sự kiện: _8880_
+table_toolsactions_eventonsend === Đang gửi
+table_toolsactions_eventonreceive === Khi nhận
+table_toolsactions_link === Liên kết:
+table_toolsactions_keywords === Từ khóa:
+table_toolsactions_message === Thông điệp:
+table_toolsactions_type === Loại: _8880_
+table_toolstemplates_idtitle === TÔI
+table_ratespartners_createdtitle === Tạo
+table_ratespartners_countrytitle === Quốc gia
+table_ratespartners_detailstitle === Chi tiết thiết bị
+table_ratespartners_ratetitle === Tỷ lệ tin nhắn
+table_ratespartners_prioritytitle === Quyền ưu tiên
+table_ratespartners_simtitle === Khe cắm SIM được phép
+table_ratespartners_name === Tên:
+table_ratespartners_owner === Người sở hữu:
+table_ratespartners_localrate === Tỷ lệ địa phương:
+table_ratespartners_convertedrate === Tỷ lệ chuyển đổi:
+table_ratespartners_simdual === SIM 1 và SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Người dùng sao chép khay nhớ tạm _8880_
+table_adminusers_exportexcel === Người dùng Excel Export _8880_
+table_adminusers_exportpdf === Người dùng Xuất PDF _8880_
+table_adminusersexportdata === Vai trò: _8880_, Quốc gia: _8881_, Ngôn ngữ: _8882_, Múi giờ: _8883_, Thu nhập: _8884_, Tín dụng: _8885_, Đăng ký: _8886_, Âm thanh: _8887_, Tạm ngưng: _8888_
+table_adminusers_exportdata1 === Vai trò: _8880_
+table_adminusers_exportdata2 === Quốc gia: _8880_
+table_adminusers_exportdata3 === Ngôn ngữ: _8880_
+table_adminusers_exportdata4 === Múi giờ:
+table_adminusers_exportdata5 === Thu nhập: _8880_
+table_adminusers_exportdata6 === Tín dụng: _8880_
+table_adminusers_exportdata7 === Đăng ký:
+table_adminusers_exportdata8 === Âm thanh: _8880_
+table_adminusers_exportdata9 === Bị tạm ngưng: _8880_
+table_adminusers_unsuspendaccount === Hủy sử dụng tài khoản này
+table_adminusers_suspendaccount === Tạm ngưng tài khoản này
+table_adminroles_idtitle === TÔI
+table_adminpackages_createdtitle === Tạo
+table_adminpackages_detailstitle === Chi tiết gói
+table_adminpackages_freelabel === Tự do
+table_unlimited_data === Vô hạn
+table_adminpackages_labeldetails1 === Ẩn giấu:
+table_adminpackages_labeldetails2 === Dấu chân trang:
+table_adminpackages_labeldetails3 === Giới hạn gửi SMS:
+table_adminpackages_labeldetails4 === Giới hạn nhận SMS:
+table_adminpackages_labeldetails5 === Giới hạn gửi WhatsApp:
+table_adminpackages_labeldetails6 === Giới hạn nhận WhatsApp:
+table_adminpackages_labeldetails7 === Giới hạn tài khoản WhatsApp:
+table_adminpackages_labeldetails8 === Giới hạn USSD:
+table_adminpackages_labeldetails9 === Giới hạn thông báo:
+table_adminpackages_labeldetails10 === Giới hạn thiết bị:
+table_adminpackages_labeldetails11 === Giới hạn liên hệ:
+table_adminpackages_labeldetails12 === Giới hạn khóa API:
+table_adminpackages_labeldetails13 === Giới hạn Webhook:
+table_adminpackages_labeldetails14 === Giới hạn hành động:
+table_adminpackages_labeldetails15 === Giới hạn đã lên lịch:
+table_adminvouchers_exportcopy === Phiếu thưởng Bản sao khay nhớ tạm _8880_
+table_adminvouchers_exportexcel === Phiếu xuất Excel _8880_
+table_adminvouchers_exportpdf === Phiếu xuất PDF _8880_
+table_adminvouchers_createdtitle === Tạo
+table_adminvouchers_codetitle === Đổi mã
+table_adminvouchers_copycode === Sao chép mã phiếu thưởng vào khay nhớ tạm
+table_adminsubscriptions_createdtitle === Tạo
+table_admintransactions_createdtitle === Tạo
+table_admintransactions_itemtitle === Mục
+table_admintransactions_amounttitle === Số lượng
+table_admintransactions_durationtitle === Khoảng thời gian
+table_admintransactions_creditslabel === Tín dụng
+table_admintransactions_monthslabel === _8880_ tháng
+table_adminpayouts_createdtitle === Tạo
+table_adminpayouts_partnertitle === Bạn đồng hành
+table_adminpayouts_amounttitle === Số lượng
+table_adminpayouts_addresstitle === Địa chỉ thanh toán
+table_adminpayouts_optionstitle === Tùy chọn
+table_adminpayouts_approve === Đánh dấu yêu cầu thanh toán là đã thanh toán
+table_adminpayouts_reject === Từ chối yêu cầu thanh toán
+table_adminwidgets_createdtitle === Tạo
+table_adminwidgets_typeblock === Khối
+table_adminwidgets_typemodal === Phương thức
+table_adminwidgets_copywidgethook === Sao chép móc phụ tùng vào khay nhớ tạm
+table_adminpages_createdtitle === Tạo
+table_adminpages_optionstitle === Tùy chọn
+table_adminpages_copypagehook === Sao chép móc trang vào khay nhớ tạm
+table_adminmarketing_createdtitle === Tạo
+table_adminmarketing_typetitle === Loại hình
+table_adminmarketing_titletitle === Tiêu đề
+table_adminmarketing_contenttitle === Nội dung
+table_adminmarketing_recipientstitle === Người nhận
+table_adminmarketing_optionstitle === Tùy chọn
+table_adminmarketing_notifylabel === Thông báo
+table_adminmarketing_mailerlabel === Người đưa thư
+table_adminmarketing_pushlabel === Đẩy
+table_adminmarketing_roleslabel === Vai trò:
+table_adminmarketing_userslabel === Người dùng:
+table_admingateways_createdtitle === Tạo
+table_admingateways_nametitle === Tên
+table_admingateways_pricingtitle === Định giá
+table_admingateways_optionstitle === Tùy chọn
+table_admingateways_invalidjson === Định dạng JSON không hợp lệ!
+table_admingateways_defaultprice === Giá mặc định: _8880_
+table_admingateways_percountryprcie === Định giá cho mỗi quốc gia:
+table_adminshorteners_createdtitle === Tạo
+table_adminshorteners_nametitle === Tên
+table_adminshorteners_optionstitle === Tùy chọn
+table_adminplugins_idtitle === TÔI
+table_adminplugins_versiontitle === Phiên bản đã cài đặt
+table_adminplugins_actionstitle === Hành động
+table_adminplugins_updatedesc === Cập nhật plugin này
+table_adminplugins_editdesc === Chỉnh sửa tùy chọn plugin
+table_adminplugins_removedesc === Gỡ cài đặt plugin này
+whatsapp_sent_sentsuccess === Trò chuyện WhatsApp _8880_ đã được gửi!
+whatsapp_sent_sentfailed === Gửi trò chuyện _8880_ không thành công!
+whatsapp_received_chat === Trò chuyện mới _8880_ đã được nhận!
+widget_systemupdate_title === Cập nhật hệ thống
+widget_systemupdate_loader === Cập nhật hệ thống
+widget_systemupdate_requireupdate === Tệp cập nhật không được để trống!
+requests_systemupdate_faileduploadingfile === Không tải lên được tệp cập nhật!
+widget_usersettings_loader === Đang lưu cài đặt tài khoản
+widget_payment_title === Thanh toán
+widget_payment_creditamountnotless === Số tiền tín dụng không được nhỏ hơn 10!
+widget_payment_creditslabel === Tín dụng
+widget_view_contentremoved === Nội dung đã bị xóa!
+widget_redeem_title === Chuộc lại
+widget_redeem_loader === Xác thực mã phiếu thưởng
+widget_addcredits_title === Thêm tín dụng
+widget_addpayout_title === Yêu cầu thanh toán
+widget_addpayout_loader === Tạo yêu cầu thanh toán
+widget_addpayout_requireamount === Số tiền không được để trống!
+widget_addpayout_requireprovider === Nhà cung cấp thanh toán không được để trống!
+widget_addpayout_requireaddress === Địa chỉ thanh toán không được để trống!
+widget_smsquick_loader === Thêm tin nhắn vào hàng đợi
+widget_smsbulk_loader === Thêm tin nhắn vào hàng đợi
+widget_smsexcel_loader === Thêm tin nhắn từ tệp excel vào hàng đợi
+widget_addsmsscheduled_loader === Lưu tin nhắn đã lên lịch của bạn
+widget_editscheduled_title === Chỉnh sửa lịch biểu
+widget_editscheduled_loader === Lưu tin nhắn đã lên lịch của bạn
+widget_addussd_title === Yêu cầu USSD
+widget_addussd_loader === Thêm yêu cầu ussd vào hàng đợi
+widget_editdevice_title === Chỉnh sửa thiết bị
+widget_editdevice_loader === Đang lưu các thay đổi của thiết bị
+widget_waquick_title === Trò chuyện nhanh
+widget_waquick_loader === Thêm trò chuyện whatsapp vào hàng đợi
+widget_waquick_requireaccount === Tài khoản WhatsApp là bắt buộc!
+widget_wabulk_title === Trò chuyện hàng loạt
+widget_wabulk_loader === Thêm cuộc trò chuyện whatsapp vào hàng đợi
+widget_waexcel_title === Trò chuyện hàng loạt bằng Excel
+widget_waexcel_loader === Thêm cuộc trò chuyện whatsapp vào hàng đợi
+widget_wascheduled_title === Lên lịch trò chuyện
+widget_wascheduled_loader === Thêm cuộc trò chuyện whatsapp vào hàng đợi
+widget_wascheduled_requireaccount === Tài khoản WhatsApp là bắt buộc!
+widget_waeditscheduled_title === Chỉnh sửa lịch biểu
+widget_waeditscheduled_loader === Thêm cuộc trò chuyện whatsapp vào hàng đợi
+widget_waeditscheduled_requireaccount === Tài khoản WhatsApp là bắt buộc!
+widget_waaddaccount_title === Thêm tài khoản
+widget_importcontacts_loaded === Nhập danh bạ từ tệp excel
+widget_addcontact_loader === Tạo mục liên hệ mới
+default_pricecolumns_monthlabel === tháng
+default_pricecolumns_dailylabel === hằng ngày
+default_pricecolumns_monthlylabel === hàng tháng
+default_pricecolumns_unlimitedlabel === Vô hạn
+form_literal_spintaxdesc2 === Các giá trị _8880_ và _8881_ sẽ được sử dụng ngẫu nhiên.
+dashboard_packagesmodal_smssend === Gửi SMS
+default_footerquote_obama === Trở thành không phải là đến một nơi nào đó hoặc đạt được một mục tiêu nhất định. Thay vào đó, tôi coi đó là chuyển động về phía trước, một phương tiện phát triển, một cách để liên tục vươn tới một bản thân tốt đẹp hơn. Cuộc hành trình không kết thúc.
+widgets_editcontact_loader === Đang lưu các thay đổi liên hệ
+widgets_addgroup_loader === Tạo mục nhập nhóm mới
+widgets_editgroup_loader === Đang lưu các thay đổi của nhóm
+widgets_addapikey_loader === Tạo khóa API mới
+widgets_editapikey_loader === Lưu các thay đổi về khóa API
+widgets_addwebhook_title === Thêm Webhook
+widgets_addwebhook_loader === Tạo webhook mới
+widgets_addwebhook_requireevents === Sự kiện không được để trống!
+widgets_editwebhook_loader === Lưu các thay đổi trên webhook
+widgets_addhook_loader === Tạo hành động móc nối mới
+widgets_edithook_loader === Lưu các thay đổi về hành động móc nối
+widgets_addautoreply_loader === Tạo hành động trả lời tự động mới
+widgets_editautoreply_loader === Lưu các thay đổi hành động trả lời tự động
+widgets_addtemplate_loader === Tạo mẫu tin nhắn mới
+widgets_edittemplate_loader === Lưu các thay đổi mẫu
+widgets_adminbuilder_loader === Đang lưu cài đặt trình tạo
+widgets_adminsettings_loader === Đang lưu cài đặt hệ thống
+widgets_admintheme_loader === Đang lưu cài đặt chủ đề
+widgets_adduser_loader === Tạo tài khoản người dùng mới
+widgets_edituser_loader === Lưu các thay đổi tài khoản người dùng
+widgets_addrole_loader === Tạo vai trò người dùng mới
+widgets_addrole_title === Thêm vai trò
+widgets_editrole_loader === Lưu thay đổi vai trò người dùng
+widgets_addpackage_loader === Tạo gói hệ thống mới
+widgets_editpackage_loader === Đang lưu các thay đổi gói
+widgets_addvoucher_loader === Tạo chứng từ mới
+widgets_addsubscription_loader === Tạo đăng ký người dùng mới
+widgets_addwidgets_loader === Tạo widget mới
+widgets_editwidget_loader === Lưu các thay đổi của tiện ích con
+widgets_addpage_loader === Tạo trang mới
+widgets_editpage_loader === Lưu các thay đổi của trang
+widgets_addpush_title === Đẩy mạnh phát sóng
+widgets_addpush_loader === Truyền thông báo đẩy
+widgets_addpush_requiretitle === Tiêu đề không được để trống!
+widgets_addpush_requiremessage === Tin nhắn không được để trống!
+widgets_addnotify_title === Thông báo phát sóng
+widgets_addnotify_loader === Truyền thông báo trực tiếp
+widgets_addnotify_requiretitle === Tiêu đề không được để trống!
+widgets_addnotify_requiremessage === Tin nhắn không được để trống!
+widgets_addmailer_title === Người gửi thư hàng loạt
+widgets_addmailer_loader === Gửi tin nhắn email
+widgets_addmailer_requiretitle === Tiêu đề không được để trống!
+widgets_addlanguage_loader === Thêm ngôn ngữ mới
+widgets_editlanguage_loader === Lưu thay đổi ngôn ngữ
+widgets_addgateway_title === Thêm cổng
+widgets_addgateway_loader === Thêm cổng mới
+widgets_addgateway_requirename === Tên cổng không được để trống!
+widgets_editgateway_title === Chỉnh sửa Gateway
+widgets_editgateway_loader === Lưu thay đổi cổng
+widgets_editgateway_requirename === Tên cổng không được để trống!
+widgets_addshortener_title === Thêm Shortener
+widgets_addshortener_loader === Thêm công cụ rút gọn mới
+widgets_addshortener_requirename === Tên người rút gọn không được để trống!
+widgets_editshortener_title === Chỉnh sửa Shortener
+widgets_editshortener_loader === Đang lưu các thay đổi của trình rút gọn
+widgets_editshortener_requirename === Tên người rút gọn không được để trống!
+widgets_editplugin_loader === Áp dụng các thay đổi plugin cho hệ thống
+widgets_updateplugin_title === Cập nhật plugin
+widgets_updateplugin_loader === Đang cập nhật plugin
+device_backgroundpage_line1 === Chạy trong nền
+device_backgroundpage_line2 === Tại sao Ứng dụng Gateway cần chạy ở chế độ nền?
+device_backgroundpage_line3 === Ứng dụng yêu cầu chạy ở chế độ nền để tiếp tục lắng nghe các tin nhắn mới để gửi và nhận, điều này cũng cần thiết để xử lý các thông báo mới. Nếu bạn không cần thông báo, bạn có thể tắt tính năng này trong cài đặt ứng dụng, việc tắt tính năng này sẽ ngăn hệ thống nhận dữ liệu thông báo từ thiết bị.
+device_backgroundpage_line4 === Nếu bạn có ứng dụng bảo mật của bên thứ ba, chẳng hạn như Avast, Eset và những ứng dụng khác. Vui lòng thêm ứng dụng cổng vào các ngoại lệ của nó.
+device_backgroundpage_line5 === Vui lòng đọc hướng dẫn thích hợp cho thương hiệu điện thoại của bạn trong danh sách sau đây.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Tiết kiệm pin
+device_backgroundpage_line8 === 1. Mở Cài đặt.
+device_backgroundpage_line9 === 2. Chọn "Pin & hiệu suất".
+device_backgroundpage_line10 === 3. Chọn "Chọn ứng dụng".
+device_backgroundpage_line11 === 4. Tìm _8880_ và chọn "Không có hạn chế" trong cài đặt nền.
+device_backgroundpage_line12 === Khóa ứng dụng
+device_backgroundpage_line13 === 1. Nhấn vào nút Menu để vào trang Gần đây.
+device_backgroundpage_line14 === 2. Chọn thẻ _8880_ và khóa nó.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Tiết kiệm pin
+device_backgroundpage_line17 === 1. Mở Cài đặt.
+device_backgroundpage_line18 === 2. Chọn Cài đặt nâng cao.
+device_backgroundpage_line19 === 3. Chọn Trình quản lý pin.
+device_backgroundpage_line20 === 4. Chọn Ứng dụng được bảo vệ.
+device_backgroundpage_line21 === 5. Tìm _8880_ và bật công tắc.
+device_backgroundpage_line22 === Nếu phiên bản EMUI được cập nhật gần đây, bạn không cần thực hiện các thay đổi trong Cài đặt.
+device_backgroundpage_line23 === Khóa ứng dụng
+device_backgroundpage_line24 === 1. Nhấn vào nút Menu, vào trang Gần đây.
+device_backgroundpage_line25 === 2. Kéo xuống _8880_ cho đến khi xuất hiện biểu tượng ổ khóa.
+device_backgroundpage_line26 === SAMSUNG
+device_backgroundpage_line27 === Tiết kiệm pin
+device_backgroundpage_line28 === 1. Nhấn vào Trình quản lý thông minh.
+device_backgroundpage_line29 === 2. Chọn Pin và chạm để vào trang cài đặt.
+device_backgroundpage_line30 === 3. Nhấn vào Ứng dụng không được giám sát, tìm _8880_ và nhấn để truy cập.
+device_backgroundpage_line31 === 4. Nhấn vào Pin và nhấn vào Tối ưu hóa việc sử dụng pin.
+device_backgroundpage_line32 === 5. Chọn Tất cả ứng dụng, tìm _8880_ và tắt công tắc.
+device_backgroundpage_line33 === Khóa ứng dụng
+device_backgroundpage_line34 === 1. Nhấn vào nút Menu và nhập các trang chương trình đã mở gần đây.
+device_backgroundpage_line35 === 2. Nhấn vào biểu tượng Thêm để chọn Khóa ứng dụng.
+device_backgroundpage_line36 === 3. Nhấn vào biểu tượng Khóa của _8880_.
+device_backgroundpage_line37 === 4. Nhấn vào Xong để hoàn tất tác vụ.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Khóa ứng dụng
+device_backgroundpage_line40 === 1. Vuốt lên ở phía bên trái của Màn hình chính để vào "Gần đây".
+device_backgroundpage_line41 === 2. Nhấn và giữ _8880_ cho đến khi biểu tượng ổ khóa xuất hiện.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Tiết kiệm pin
+device_backgroundpage_line44 === 1. Mở Cài đặt và nhấn vào Pin.
+device_backgroundpage_line45 === 2. Nhấn vào Trình tiết kiệm năng lượng.
+device_backgroundpage_line46 === 3. Tìm _8880_ để tắt tính năng Cố định nền và Tối ưu hóa ứng dụng bất thường.
+device_backgroundpage_line47 === Nếu bạn không thể đặt sau khi hoàn thành các bước trên, hãy thử các bước sau:
+device_backgroundpage_line48 === 1. Mở Trình quản lý điện thoại và tìm Nền sạch.
+device_backgroundpage_line49 === 2. Nhấn để thêm ứng dụng.
+device_backgroundpage_line50 === 3. Đánh dấu _8880_ và nhấn OK.
+device_backgroundpage_line51 === Khóa ứng dụng
+device_backgroundpage_line52 === 1. Nhấn vào nút Menu, vào trang Gần đây.
+device_backgroundpage_line53 === 2. Kéo xuống _8880_ cho đến khi xuất hiện biểu tượng ổ khóa.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Tiết kiệm pin
+device_backgroundpage_line56 === 1. Mở Trình quản lý và nhấn Trình quản lý nguồn.
+device_backgroundpage_line57 === 2. Chọn công suất Backstage.
+device_backgroundpage_line58 === 3. Tìm _8880_ và bật công tắc.
+device_backgroundpage_line59 === Khóa ứng dụng
+device_backgroundpage_line60 === 1. Nhấn vào nút Menu, vào trang Gần đây.
+device_backgroundpage_line61 === 2. Kéo xuống _8880_ cho đến khi xuất hiện biểu tượng ổ khóa.
+device_backgroundpage_line62 === Hệ điều hành Smartisan
+device_backgroundpage_line63 === Tiết kiệm pin
+device_backgroundpage_line64 === 1. Mở Trình quản lý điện thoại.
+device_backgroundpage_line65 === 2. Nhấn vào Tối ưu hóa sử dụng pin của ứng dụng.
+device_backgroundpage_line66 === 3. Tìm _8880_ và tắt công tắc.
+device_backgroundpage_line67 === Khóa ứng dụng
+device_backgroundpage_line68 === 1. Nhấn đúp vào nút Menu, vào trang Gần đây.
+device_backgroundpage_line69 === 2. Nhấn và giữ _8880_ cho đến khi biểu tượng đinh ghim xuất hiện.
+device_backgroundpage_line70 === Các thương hiệu khác
+device_backgroundpage_line71 === 1. Khóa ứng dụng _8880_ trong Gần đây.
+device_backgroundpage_line72 === 2. Thêm _8880_ vào các trường hợp ngoại lệ.
+device_backgroundpage_line73 === 3. Nếu bạn đã cài đặt một trình quản lý khởi động khác, hãy xóa _8880_ khỏi danh sách chặn của nó.
+dashboard_adminmarketing_pushbtndesc === Truyền thông báo đẩy tới các thiết bị
+dashboard_adminmarketing_notifybtndesc === Truyền thông báo trình duyệt cho người dùng
+dashboard_adminmarketing_mailerbtndesc === Gửi email hàng loạt cho người dùng
+js_loader_pleasewait === Vui lòng chờ
+js_userstatus_online === Trực tuyến
+js_userstatus_offline === Ngoại tuyến
+js_whatsapp_linksuccess === Tài khoản WhatsApp đã được liên kết thành công!
+js_whatsapp_linkfailed === Liên kết tài khoản WhatsApp không thành công!
+js_whatsapp_linkexist === WhatsApp đã được liên kết với tài khoản của bạn!
+js_whatsapp_loaderprocessing === Xử lý yêu cầu
+js_clearpending_title === Xóa Đang chờ xử lý?
+js_clearpending_desc === Tất cả các mục đang chờ gửi sẽ bị xóa và xóa!
+js_clearpending_processing === Xử lý yêu cầu
+js_authenticate_processing === Xử lý yêu cầu
+js_actiontrigger_title === Mô phỏng Webhook
+js_actiontrigger_typetitle === Loại dữ liệu
+js_actiontrigger_typesms === tin nhắn
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Thông báo
+js_actiontrigger_loader === Mô phỏng webhook
+js_actiontranslator_title === Người phiên dịch
+js_actiontranslator_from === Dịch từ
+js_actiontranslator_to === Dịch sang
+js_actiontranslator_loader === Dịch tin nhắn
+js_actionregen_title === Tạo lại mã thông báo hệ thống?
+js_actionregen_desc === Tạo mã thông báo hệ thống mới là không thể thay đổi được!
+js_actionregen_loader === Tạo mã thông báo
+js_actionclear_title === Xóa bộ nhớ cache?
+js_actionclear_desc === Tất cả dữ liệu bộ nhớ cache của hệ thống sẽ bị xóa!
+js_processing_dataloader === Xử lý yêu cầu
+js_build_title === Tạo APK mới?
+js_build_desc === Hãy đảm bảo rằng bạn đã định cấu hình cài đặt trình tạo của mình đúng cách!
+js_build_btnbuild === Xây dựng
+js_reorder_title === Sắp xếp lại ngôn ngữ?
+js_reorder_desc === Các ngôn ngữ sẽ được sắp xếp lại thứ tự, không thể hoàn tác thao tác này!
+js_deletetrash_title === Xóa mục?
+js_deletetrash_desc === Bạn có muốn xóa các mục đã chọn không?
+js_tablesexport_copy === Bảng tạm
+js_tablesexport_excel === Xuất Excel
+js_tablesexport_pdf === Xuất PDF
+mail_expiredtpl_line1 === Chào bạn,
+mail_expiredtpl_line2 === Bạn nhận được thông báo này vì đăng ký gói cao cấp đang hoạt động của bạn đã hết hạn!
+mail_expiredtpl_line3 === Đăng ký của bạn đã bị xóa. Để đăng ký lại bất kỳ gói cao cấp nào, chỉ cần truy cập trang web của chúng tôi.
+mail_expiredtpl_line4 === Đối với các câu hỏi và vấn đề, xin vui lòng liên hệ với chúng tôi!
+mail_expiredtpl_line5 === Cảm ơn bạn!
+mail_expiringtpl_line1 === Chào bạn,
+mail_expiringtpl_line2 === Đây là một lời nhắc nhở thân thiện, đăng ký gói cao cấp đang hoạt động của bạn sẽ hết hạn sau 5 ngày!
+mail_expiringtpl_line3 === Để tránh gián đoạn dịch vụ, xin đừng quên đăng ký lại bất kỳ gói cao cấp nào. Vui lòng truy cập trang web của chúng tôi để đặt hàng một lần nữa.
+mail_expiringtpl_line4 === Đối với các câu hỏi và vấn đề, xin vui lòng liên hệ với chúng tôi!
+mail_expiringtpl_line5 === Cảm ơn bạn!
+mail_failedtpl_line1 === Chào bạn,
+mail_failedtpl_line2 === Chúng tôi không thể xử lý giao dịch thanh toán của bạn, vui lòng thử lại bằng cách sử dụng một nhà cung cấp hoặc phương thức thanh toán khác.
+mail_failedtpl_line3 === ID thanh toán:
+mail_failedtpl_line4 === Xin lỗi vì sự bất tiện.
+mail_forgottpl_line1 === Chào bạn,
+mail_forgottpl_line2 === Chúng tôi đã nhận được yêu cầu khôi phục tài khoản cho tài khoản của bạn, vui lòng sử dụng mật khẩu tạm thời này để đăng nhập:
+mail_forgottpl_line3 === Đừng quên thay đổi mật khẩu của bạn sau khi đăng nhập!
+mail_forgottpl_line4 === Mật khẩu sẽ hết hạn sau 10 phút, hãy nhanh chóng. Nếu bạn không yêu cầu điều này, vui lòng bỏ qua email này.
+mail_forgottpl_line5 === Cảm ơn bạn! Hy vọng nó hoạt động.
+mail_payoutpaidtpl_line1 === Chào bạn,
+mail_payoutpaidtpl_line2 === Yêu cầu thanh toán của bạn đã được nhóm của chúng tôi gửi đến địa chỉ của bạn và nhà cung cấp thanh toán đã chọn.
+mail_payoutpaidtpl_line3 === Số lượng:
+mail_payoutpaidtpl_line4 === Chi tiêu vui vẻ!
+mail_payoutrejecttpl_line1 === Chào bạn,
+mail_payoutrejecttpl_line2 === Chúng tôi không thể xử lý yêu cầu thanh toán của bạn, có thể có vấn đề với địa chỉ thanh toán của bạn. Vui lòng liên hệ với nhóm của chúng tôi để biết thêm.
+mail_payoutrejecttpl_line3 === Số lượng:
+mail_payoutrejecttpl_line4 === Xin lỗi vì sự bất tiện.
+mail_subscribetpl_line1 === Chào bạn,
+mail_subscribetpl_line2 === Cảm ơn bạn đã đăng ký một trong những gói cao cấp của chúng tôi, sau đây là một số chi tiết nhỏ về giao dịch mua của bạn:
+mail_subscribetpl_line3 === _8880_ Gói
+mail_subscribetpl_line4 === Đăng ký này sẽ hết hạn sau _8880_
+mail_subscribetpl_line5 === Điều này sẽ có hiệu lực ngay lập tức. Đối với các câu hỏi và vấn đề, xin vui lòng liên hệ với chúng tôi!
+mail_subscribetpl_line6 === Cảm ơn bạn!
+requests_build_submitrequest === Xử lý yêu cầu
+requests_reorder_loader === Xử lý yêu cầu
+requests_deleteitem_loader === Xử lý yêu cầu
+requests_packageform_invalidint === Một số trường chứa các số nguyên không hợp lệ!
+widgets_viewbank_title === Chuyển khoản ngân hàng
+modal_paymentbtn_banktransfer === Chuyển khoản ngân hàng
+modal_adminsettings_banktransfer1 === Mẫu chuyển khoản ngân hàng
+modal_adminsettings_banktransfer2 === Nếu bạn đã bật chuyển khoản ngân hàng trong các tùy chọn thanh toán, bạn nên tạo một mẫu cho nó, đây là những gì người dùng sẽ thấy khi họ nhấp vào nút. Bạn có thể thêm các hướng dẫn và địa chỉ ngân hàng tại đây. HTML được chấp nhận.
+modal_adminsettings_banktransfer3 === Tập hợp các biến bạn có thể sử dụng trong mẫu chuyển khoản ngân hàng.
+requests_delete_pluginssuccess === Plugin đã được xóa thành công!
+table_whatsappreceived_chattitle === Trò chuyện
+table_whatsappreceived_accounttitle === Tài khoản
+tabs_whatsappaccounts_titleheader === Tài khoản WhatsApp
+form_editwhatsapp_randominterval === Khoảng thời gian gửi ngẫu nhiên
+form_editwhatsapp_randomintervalhelp === Nếu được bật, các cuộc trò chuyện sẽ được gửi trong khoảng thời gian ngẫu nhiên giữa 2 giá trị. Bạn có thể cấu hình chúng bên dưới.
+form_editwhatsapp_randommin === Gửi khoảng thời gian tối thiểu
+form_editwhatsapp_randomminhelp === Khoảng thời gian gửi tối thiểu tính bằng giây.
+form_editwhatsapp_randommax === Gửi khoảng thời gian tối đa
+form_editwhatsapp_randommaxhelp === Khoảng thời gian gửi tối đa tính bằng giây.
+dashpages_sms_headertitle === tin nhắn
+dashnav_sms_navname === tin nhắn
+widgets_editwhatsapp_title === Chỉnh sửa WhatsApp
+widgets_editwhatsapp_loader === Lưu các thay đổi tài khoản whatsapp
+mail_waunlink_title === Tài khoản WhatsApp của bạn đã được hủy liên kết!
+mail_waunlink_contentline1 === Chào bạn!
+mail_waunlink_contentline2 === Một trong các tài khoản WhatsApp được liên kết của bạn đã bị xóa với ID duy nhất sau:
+mail_waunlink_contentline3 === Tài khoản này không được kết nối với hệ thống của chúng tôi nữa do sự kiện liên quan đến WhatsApp, vui lòng liên kết lại.
+mail_waunlink_contentline4 === Cảm ơn bạn!
+table_contactsunsubscribed_idtitle === TÔI
+table_contactsunsubscribed_phonetitle === Điện thoại
+form_btnall_visitlink === Chuyến thăm
+unsubscribe_header_title === Hủy đăng ký
+unsubscribe_content_title === Đã hủy đăng ký
+unsubscribe_content_desc === Bạn đã hủy đăng ký khỏi danh sách gửi của chúng tôi.
+requests_editwhatsapp_success === Tài khoản WhatsApp đã được cập nhật!
+form_addusertpl_credits === Tín dụng
+form_addusertpl_creditsdesc === Bắt đầu tín dụng cho tài khoản người dùng này.
+form_addusertpl_creditsdesc2 === Sửa đổi các khoản tín dụng của tài khoản người dùng này.
+form_registerconfirm_desc === Địa chỉ email của bạn đã được xác minh thành công. Bạn có thể đăng nhập vào tài khoản của mình bằng nút bên dưới.
+requests_loginnotverified_response === Địa chỉ email tài khoản của bạn chưa được xác minh. Chúng tôi đã gửi một liên kết xác nhận đến địa chỉ này: _8880_
+requests_loginnotverified_response2 === Tài khoản của bạn đã được đăng ký thành công. Trước khi có thể sử dụng, bạn cần xác minh địa chỉ email của mình. Chúng tôi đã gửi một liên kết xác nhận đến địa chỉ này: _8880_
+requests_loginnotverified_responseunable === Chúng tôi không thể gửi email xác nhận!
+requests_loginnotverified_emailtitle === Chào mừng đến với _8880_! Xác nhận địa chỉ email của tài khoản của bạn tại đây.
+requests_loginnotverified_emaildesc1 === Chào bạn!
+requests_loginnotverified_emaildesc2 === Cảm ơn bạn đã tạo tài khoản với chúng tôi, vui lòng xác minh địa chỉ email của bạn bằng cách truy cập liên kết này:
+requests_loginnotverified_emaildesc3 === Cảm ơn bạn!
+form_adminsettings_authredi === Chuyển hướng xác thực
+form_adminsettings_authredidesc === Chọn vị trí chuyển hướng sau khi xác thực thành công.
+form_adminsettings_authredihomepage === Trang chủ
+form_adminsettings_authredidashboard === bảng điều khiển
+form_adminsettings_defaultcoun === Quốc gia mặc định
+form_adminsettings_defaultcoundesc === Quốc gia được chọn mặc định trên biểu mẫu đăng ký của người dùng.
+form_adminsettings_defaulttimezo === Múi giờ mặc định
+form_adminsettings_defaulttimezodesc === Múi giờ được chọn mặc định trên biểu mẫu đăng ký của người dùng.
+form_adminsettings_mailingtrig === Kích hoạt gửi thư
+form_adminsettings_mailingtrigdesc === Chọn trình kích hoạt gửi thư để bật.
+form_adminsettings_adminemail === Email quản trị viên
+form_adminsettings_adminemaildesc === Thư kích hoạt gửi thư cho quản trị viên sẽ được gửi đến địa chỉ email này. Những tin nhắn này chỉ có sẵn bằng tiếng Anh và không thể dịch được.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Khi được kích hoạt, recaptcha sẽ được hiển thị cho các hình thức xác thực như đăng ký, đăng nhập và quên mật khẩu.
+form_editdevice_receiveoptiontitle === Nhận tin nhắn SMS
+form_editdevice_receiveoptiondesc === Nếu bị vô hiệu hóa, các tin nhắn đã nhận từ hộp thư đến android sẽ không được hệ thống lưu. Webhook và các công cụ liên quan khác sẽ không hoạt động đối với thiết bị khi tính năng này bị tắt.
+form_editwhatsapp_receiveoptiontitle === Nhận trò chuyện
+form_editwhatsapp_receiveoptiondesc === Nếu bị vô hiệu hóa, các cuộc trò chuyện đã nhận từ tài khoản whatsapp sẽ không được hệ thống lưu lại. Webhooks và các công cụ liên quan khác sẽ không hoạt động đối với tài khoản WhatsApp khi tính năng này bị tắt.
+js_calendarall_option === Tất cả các
+js_calendarall_apply === Ứng dụng
+js_calendarall_cancel === Hủy bỏ
+js_calendarall_from === Từ
+js_calendarall_to === Đến
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === Tu
+js_calendarall_daywe === chúng tôi
+js_calendarall_dayth === Thứ tự
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === tháng Giêng
+js_calendarall_monfeb === tháng 2
+js_calendarall_monmar === Bước đều
+js_calendarall_monapr === Tháng tư
+js_calendarall_monmay === Có thể
+js_calendarall_monjun === Tháng sáu
+js_calendarall_monjul === Tháng bảy
+js_calendarall_monaug === Tháng tám
+js_calendarall_monsep === Tháng 9
+js_calendarall_monoct === Tháng Mười
+js_calendarall_monnov === Tháng mười một
+js_calendarall_mondec === Tháng 12
+response_ussddelete_success === Yêu cầu USSD đã bị xóa!
+response_titanecho_invaltoken === Lỗi cấu hình hệ thống!
+widgets_addplugin_loader === Cài đặt plugin mới cho hệ thống
+widgets_addwhatsapp_newmodal === Kết nối WhatsApp của bạn bằng cách nhấp vào nút để hiển thị Mã QR, sau đó quét nó qua nút _8880_ trong ứng dụng. Bạn chỉ có 15 giây để quét mã QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ đã hết hạn, nếu tài khoản của bạn đã được liên kết hay chưa, vui lòng nhấp vào nút bên dưới.
+widgets_addwhatsapp_newmodal3 === Tiếp tục
+widgets_addwhatsapp_newmodal4 === Hủy bỏ
+datatable_addedtoclipboard === Đã thêm vào khay nhớ tạm
+datatable_addedtoclipboardkeys === Nhấp vào nút sao chép để thêm các hàng được hiển thị vào khay nhớ tạm.
+datatable_addedtoclipboardmulti === Đã sao chép các hàng:
+datatable_addedtoclipboardsingle === Đã sao chép 1 hàng
+table_details_schedulednewrepeat === Nói lại:
+and_edit_dev_line70_1_new === Số tiền bạn muốn tính cho mỗi tin nhắn, quốc gia của thiết bị sẽ được sử dụng làm cơ sở tiền tệ. Giá trị phao cũng được hỗ trợ chẳng hạn như xu.
+widget_waquick_requireaccountnew1 === Tài khoản WhatsApp
+requests_whatsapp_notavail === Máy chủ WhatsApp không khả dụng!
+requests_whatsapp_unablegenqr === Không thể tạo QRCode WhatsApp!
+requests_charts_commisionstitle === Tiền hoa hồng
+requests_token_refreshecho === Mã thông báo cho _8880_ đã được làm mới!
+requests_remote_smscampaignresumed === Chiến dịch SMS đã được tiếp tục!
+requests_remote_smscampaignpaused === Chiến dịch SMS đã bị tạm dừng!
+requests_remote_wacampaignresumed === Chiến dịch WhatsApp đã được tiếp tục!
+requests_remote_wacampaignpaused === Chiến dịch WhatsApp đã bị tạm dừng!
+requests_create_payoutwithdrawalamountatleast === Số tiền rút ít nhất phải là _8880_ _8881_!
+requests_sms_intervaltypereachedmax === Thiết bị này đã nhận được thông báo cho phép _8880_, vui lòng thử lại sau!
+requests_sms_encounteredgatewayerror === Chúng tôi đã gặp lỗi cổng kết nối!
+requests_sms_gatewaycannotsendowndevices === Bạn không thể gửi tin nhắn có tín dụng bằng thiết bị của chính mình!
+requests_create_encounteredshortenererror === Chúng tôi đã gặp lỗi bộ rút ngắn!
+requests_create_campaignnametooshort === Tên chiến dịch quá ngắn!
+requests_sms_intervaltypedaily === hằng ngày
+requests_sms_intervaltypemonthly === hàng tháng
+requests_sms_reachedmaximumsentpackage === Bạn đã đạt đến số tin nhắn được gửi tối đa cho gói hiện tại của mình!
+response_message_bulkqueuednew === _8880_ tin nhắn đã được xếp hàng đợi để gửi!
+response_whatsapp_invalidmediafile === Tệp phương tiện không hợp lệ!
+response_whatsapp_atleastonebutt === Vui lòng thêm ít nhất một nút!
+response_whatsapp_invalidimagefile === Tệp hình ảnh không hợp lệ!
+response_whatsapp_listtitlereq === Tiêu đề danh sách là bắt buộc!
+response_whatsapp_listmenureq === Tiêu đề menu danh sách là bắt buộc!
+response_whatsapp_listformatreq === Định dạng danh sách là bắt buộc!
+response_whatsapp_listformatinval === Định dạng danh sách không hợp lệ!
+response_whatsapp_tempformatreq === Định dạng mẫu là bắt buộc!
+response_whatsapp_tempformatinval === Định dạng mẫu không hợp lệ!
+response_whatsapp_failedchatsqueue === Không thêm được trò chuyện vào hàng đợi WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ cuộc trò chuyện đã được xếp hàng đợi để gửi!
+response_whatsapp_failedchatsqueuemany === Không thêm được cuộc trò chuyện vào hàng đợi WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === Xin lỗi, không có cuộc trò chuyện nào được xếp hàng đợi. Vui lòng kiểm tra giới hạn gửi của gói hàng của bạn!
+response_whatsapp_successfetchgroups === Đã tìm nạp thành công _8880_ nhóm!
+response_whatsapp_nogroupsfoundfetch === Không có nhóm nào được tìm thấy!
+response_partners_commisionerror === Phần trăm hoa hồng của đối tác không được nhỏ hơn 1 và lớn hơn 80!
+response_delete_smsdeletecampaign === Chiến dịch SMS đã bị xóa!
+response_delete_wacampaigndeleted === Chiến dịch WhatsApp đã bị xóa!
+response_delete_wagroupdeleted === Nhóm WhatsApp đã bị xóa!
+table_smscampaign_createdtitle === Tạo
+table_smscampaign_nametitle === Tên
+table_smscampaign_gatewaytitle === Cổng vào
+table_smscampaign_contactstitle === Liên lạc
+table_smscampaign_statustitle === Trạng thái
+table_smscampaign_optionstitle === Tùy chọn
+table_campaign_completedstatus === Hoàn thành
+table_smscagmpaign_processingstatus === _8880_ trong tổng số _8881_ đã được xử lý
+table_campaign_pausecampaign === Tạm dừng chiến dịch này
+table_campaign_resumecampaign === Tiếp tục chiến dịch này
+table_smsscheduled_lastsendinfo === Gửi lần cuối
+table_smstransac_createdtitle === Tạo
+table_smstransac_sendertitle === Người gửi
+table_smstransac_devicetitle === Thiết bị
+table_smstransac_messagetitle === Thông điệp
+table_smstransac_earningstitle === Thu nhập
+table_smstransac_messageremoved === Tin nhắn đã bị xóa!
+table_wacampaign_createdtitle === Tạo
+table_wacampaign_nametitle === Tên
+table_wacampaign_accounttitle === Tài khoản
+table_wacampaign_typetitle === Loại hình
+table_wacampaign_contactstitle === Liên lạc
+table_wacampaign_statustitle === Trạng thái
+table_wacampaign_optionstitle === Tùy chọn
+table_wacampaign_processingstatus === _8880_ trong tổng số _8881_ đã được xử lý
+table_wascheduled_lastsendinfo === Gửi lần cuối
+table_campaign_pendingstatus === Chưa giải quyết
+table_wagroups_nametitle === Tên
+table_wagroups_accounttitle === Tài khoản
+table_wagroups_addresstitle === Địa chỉ nhóm
+table_wagroups_optionstitle === Tùy chọn
+table_waaccounts_statustitle === Trạng thái
+table_waaccounts_statusconnected === Đã kết nối
+table_waaccounts_statusconnecting === Đang kết nối
+table_waaccounts_statusdisconnecting === Ngắt kết nối
+table_waaccounts_statusdisconnected === Đã ngắt kết nối
+table_waaccounts_statuserror === Lỗi
+table_waaccounts_copyaccountid === Sao chép ID tài khoản
+table_android_brandtitle === Nhãn hiệu
+table_android_partnertitle === Bạn đồng hành
+table_android_statustitle === Trạng thái
+table_android_statusonline === Trực tuyến
+table_android_statusoffline === Ngoại tuyến
+table_android_copydeviceid === Sao chép ID duy nhất của thiết bị
+table_partnerrates_devicename === Tên thiết bị
+widget_fetchgroups_titlefetch === Tìm nạp nhóm
+widget_fetchgroups_loaderfetch === Tìm nạp các nhóm từ tài khoản
+pages_admin_tokenrefreshbutt === Mã thông báo
+pages_admin_tokenrefreshbutthelp === Làm mới mã thông báo ổ cắm. Nếu hệ thống không hiển thị bất kỳ thông báo bánh mì nướng trực tiếp nào hoặc không cập nhật trong thời gian thực, vui lòng nhấp vào nút này.
+pages_admin_cachehelp === Xóa toàn bộ bộ nhớ cache của hệ thống. Cảnh báo! Điều này cũng sẽ xóa bộ nhớ đệm liên quan đến API, xác thực và thanh toán. Khuyến nghị chỉ thực hiện việc này khi nâng cấp hệ thống.
+pages_admin_themehelp === Sửa đổi mẫu và thiết kế trang web.
+pages_admin_systemsettingshelp === Điều chỉnh các cài đặt hệ thống quan trọng.
+pages_sms_campaignstab === Các chiến dịch
+pages_sms_partnertransactions === Giao dịch
+pages_whatsapp_campaignstab === Các chiến dịch
+pages_whatsapp_groupstab === Các nhóm
+forms_repeatdays_title === Ngày lặp lại
+forms_repeatdays_tagline === Nhập bao nhiêu ngày để đợi cho đến khi gửi lại tin nhắn. Nhập 365 để lặp lại hàng năm vào cùng một tháng, ngày và giờ, nếu không sẽ chỉ theo thời gian. Nhập 0 để tắt lặp lại.
+forms_whatsapp_messagetype === Loại tin nhắn
+forms_whatsapp_messagetypehelp === Chọn loại tin nhắn WhatsApp.
+forms_whatsapp_typetext === Chữ
+forms_whatsapp_typemedia === Phương tiện truyền thông
+forms_whatsapp_typebutton === Cái nút
+forms_whatsapp_typelist === Danh sách
+forms_whatsapp_typetemplate === Mẫu
+forms_whatsapp_mediafile === Tệp phương tiện
+forms_whatsapp_mediafilehelp === Tệp phương tiện, tệp phương tiện sẽ được tải lên. Hỗ trợ các tệp .jpg, .png, .gif và .mp4.
+forms_whatsapp_imagefile === Tệp hình ảnh
+forms_whatsapp_imagefilehelp === Tệp hình ảnh tùy chỉnh, đây là tùy chọn.
+forms_whatsapp_buttons === nút
+forms_whatsapp_buttonshelp === Các nút tùy chỉnh, nút đầu tiên là bắt buộc.
+forms_whatsapp_buttonsplace1 === Nút 1
+forms_whatsapp_buttonsplace2 === Nút 2 (Tùy chọn)
+forms_whatsapp_buttonsplace3 === Nút 3 (Tùy chọn)
+forms_whatsapp_listtitle === Danh sách Tiêu đề
+forms_whatsapp_listtitlehelp === Đây là tiêu đề danh sách.
+forms_whatsapp_listplacetitle === Danh sách của tôi
+forms_whatsapp_listmenutitle === Tiêu đề menu
+forms_whatsapp_listmenutitlehelp === Đây là tiêu đề menu.
+forms_whatsapp_listmenutitleplace === Tiêu đề menu
+forms_whatsapp_footermessage === Tin nhắn chân trang
+forms_whatsapp_footermessagehelp === Thông báo chân trang tùy chỉnh, đây là tùy chọn.
+forms_whatsapp_footermessageplace === Đây là thông báo chân trang ...
+forms_whatsapp_listformat === Định dạng danh sách
+forms_whatsapp_listformathelp === Đây là định dạng danh sách, json được cung cấp phải hợp lệ.
+forms_whatsapp_templateformat === Định dạng Mẫu
+forms_whatsapp_templateformathelp === Đây là định dạng mẫu, json được cung cấp phải hợp lệ.
+and_settings_line159new === Mã thông báo này không được chia sẻ cho bất kỳ ai. Điều này được sử dụng để bảo mật cronjobs, API hệ thống, yêu cầu WhatsApp và các yêu cầu bên ngoài khác. Nếu bạn cho rằng, mã thông báo hệ thống của bạn đã bị xâm phạm, vui lòng tạo lại một mã mới, bạn sẽ cần định cấu hình lại cronjobs, API hệ thống và các cài đặt liên quan khác sau khi tạo lại mã thông báo mới. Điều này cũng sẽ ảnh hưởng đến hệ thống WhatsApp, tất cả các tài khoản được kết nối sẽ không hoạt động nữa.
+forms_systemsettings_servicestitle === Dịch vụ
+forms_systemsettings_waserver === URL máy chủ WhatsApp
+forms_systemsettings_waserverhelp === URL của máy chủ WhatsApp của bạn, bạn cần lưu trữ URL này trên máy chủ của riêng bạn. Vui lòng đọc tài liệu để biết hướng dẫn thiết lập.
+forms_systemsettings_waport === Cổng máy chủ WhatsApp
+forms_systemsettings_waporthelp === Cổng của máy chủ WhatsApp của bạn, cổng mặc định là 7001. Vui lòng đọc tài liệu để biết hướng dẫn thiết lập.
+forms_systemsettings_messagestitle === Tin nhắn
+forms_systemsettings_partnercommission === Ủy ban đối tác
+forms_systemsettings_partnercommissionhelp === Phần trăm hoa hồng bạn muốn khấu trừ từ thu nhập của các đối tác cho mỗi tin nhắn được gửi đi. Đây sẽ là tiền của bạn và sẽ được hiển thị trong thống kê trong bảng quản trị. Phần trăm không được nhỏ hơn 1 và lớn hơn 80!
+forms_systemsettings_partnerminimum === Khoản thanh toán tối thiểu của đối tác
+forms_systemsettings_partnerminimumhelp === Số tiền thu nhập tối thiểu để có thể yêu cầu rút tiền. Số tiền này cũng sẽ sử dụng đơn vị tiền tệ hệ thống mặc định giống với thu nhập.
+forms_editdevice_sendinglimittitle === Giới hạn gửi
+forms_editdevice_limitstatus === Trạng thái giới hạn
+forms_editdevice_limitstatushelp === Nếu được bật, số lượng tin nhắn được phép có thể được gửi bằng thiết bị này sẽ bị giới hạn mỗi ngày hoặc tháng.
+forms_editdevice_limitinterv === Giới hạn khoảng thời gian
+forms_editdevice_limitintervhelp === Chọn loại độ trễ trước khi làm mới bộ đếm giới hạn.
+forms_editdevice_messagecount === Số lượng tin nhắn
+forms_editdevice_messagecounthelp === Số lượng tin nhắn có thể được gửi trong khoảng thời gian giới hạn.
+forms_editdevice_limitintervselect1 === Hằng ngày
+forms_editdevice_limitintervselect2 === Hàng tháng
+forms_editdevice_partnerstatus === Trạng thái Đối tác
+forms_edituser_clockformat === Định dạng đồng hồ
+forms_edituser_clockformathelp === Chọn định dạng đồng hồ để sử dụng khi hiển thị thời gian ở bất kỳ đâu trong hệ thống.
+forms_edituser_clockformatselect1 === 12 giờ
+forms_edituser_clockformatselect2 === 24 giờ
+forms_edituser_dateformat === Định dạng ngày tháng
+forms_edituser_dateformathelp === Chọn định dạng ngày để sử dụng khi hiển thị ngày ở bất kỳ đâu trong hệ thống.
+forms_edituser_dateseparator === Dấu phân cách ngày
+forms_edituser_dateseparatorhelp === Chọn dấu phân tách ngày để sử dụng khi hiển thị ngày ở bất kỳ đâu trong hệ thống.
+forms_campagin_formname === Tên chiến dịch
+forms_campagin_formhelp === Tên chiến dịch, nhật ký hoạt động sẽ được tạo cho các tin nhắn hàng loạt này, bạn sẽ có thể dễ dàng dừng việc gửi thông qua trình quản lý chiến dịch.
+forms_campaign_formplaceholder === ví dụ. Chiến dịch mẫu
+forms_whatsapp_numbersgroupsname === Số hoặc Địa chỉ Nhóm
+forms_whatsapp_numbersgroupshelp === Nhiều số E.164 và địa chỉ nhóm WhatsApp được phân tách bằng dấu ngắt dòng.
+forms_whatsapp_groupsimportname === Tài khoản WhatsApp
+forms_whatsapp_groupsimportnamehelp === Chọn tài khoản whatsapp nơi các nhóm sẽ được tìm nạp.
+forms_whatsapp_groupsimportbutton === Tìm về
+forms_whatsapp_phonegroupsname === Địa chỉ điện thoại hoặc nhóm
+forms_whatsapp_phonegroupshelp === E.164 số điện thoại người nhận hoặc địa chỉ nhóm WhatsApp.
+pages_administration_commissionstitle === Tiền hoa hồng
+pages_smscampaigns_header === Các chiến dịch
+pages_smstransactions_header === Giao dịch
+pages_smstransactions_comtagline === Tất cả SMS được gửi bằng thiết bị của đối tác đều có phí giao dịch _8880_%. Điều này đã được khấu trừ trong bảng sau.
+pages_wacampaigns_header === Các chiến dịch
+pages_wagroups_header === Các nhóm
+pages_wagroups_fetchbtn === Tìm nạp nhóm
+tables_plugins_noactionsline === Không có hành động
+plugin_header_selectmethod === Chọn phương thức thanh toán
+title_plugin_paymentpage === Trang thanh toán
+payment_title_pending === Đơn hàng đang chờ xử lý
+btn_plugin_cancelorderpayment === Hủy thanh toán
+payment_title_orderfailed === Đặt hàng không thành công
+payment_page_orderfailed === Đã xảy ra lỗi khi xử lý yêu cầu đặt hàng của bạn.
+and_rate_gate_3new === _8880_ Tỷ lệ
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Tùy chọn

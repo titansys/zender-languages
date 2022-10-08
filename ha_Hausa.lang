@@ -2405,3 +2405,194 @@ js_calendarall_mondec === Disamba
 response_ussddelete_success === An share buƙatar USSD!
 response_titanecho_invaltoken === Kuskuren tsarin tsari!
 widgets_addplugin_loader === Shigar da sabon plugin zuwa tsarin
+widgets_addwhatsapp_newmodal === Haɗa WhatsApp ɗin ku ta danna maɓallin don nuna QRCode sannan ku duba ta maɓallin _8880_ a cikin app. Kuna da daƙiƙa 15 kawai don duba QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ ya ƙare, idan an haɗa asusunku, ko a'a, da fatan za a danna maɓallin da ke ƙasa.
+widgets_addwhatsapp_newmodal3 === Ci gaba
+widgets_addwhatsapp_newmodal4 === Soke
+datatable_addedtoclipboard === Ƙara zuwa allo
+datatable_addedtoclipboardkeys === Danna maɓallin kwafi don ƙara layuka da aka nuna zuwa allo.
+datatable_addedtoclipboardmulti === An kwafi layuka:
+datatable_addedtoclipboardsingle === An kwafi jere 1
+table_details_schedulednewrepeat === Maimaita:
+and_edit_dev_line70_1_new === Adadin da kuke son cajin kowane saƙo, ƙasar na'urar za a yi amfani da ita azaman tushen kuɗi. Hakanan ana goyan bayan ƙimar masu iyo kamar cents.
+widget_waquick_requireaccountnew1 === WhatsApp account
+requests_whatsapp_notavail === Babu uwar garken WhatsApp!
+requests_whatsapp_unablegenqr === An kasa samar da WhatsApp QRCode!
+requests_charts_commisionstitle === Kwamitocin
+requests_token_refreshecho === Alamar _8880_ an sabunta ta!
+requests_remote_smscampaignresumed === An ci gaba da yakin SMS!
+requests_remote_smscampaignpaused === An dakatar da yakin SMS!
+requests_remote_wacampaignresumed === An dawo da yakin neman zaben WhatsApp!
+requests_remote_wacampaignpaused === An dakatar da yakin neman zaben WhatsApp!
+requests_create_payoutwithdrawalamountatleast === Adadin cirewa yakamata ya zama aƙalla _8880_ _8881_!
+requests_sms_intervaltypereachedmax === An isa ga saƙonnin da aka yarda da _8880_ don wannan na'urar, da fatan za a sake gwadawa daga baya!
+requests_sms_encounteredgatewayerror === Mun ci karo da kuskuren ƙofa!
+requests_sms_gatewaycannotsendowndevices === Ba za ku iya aika saƙonni tare da ƙididdiga ta amfani da na'urorin ku ba!
+requests_create_encounteredshortenererror === Mun ci karo da kuskure mai gajarta!
+requests_create_campaignnametooshort === Sunan yaƙin neman zaɓe ya yi guntu!
+requests_sms_intervaltypedaily === kullum
+requests_sms_intervaltypemonthly === kowane wata
+requests_sms_reachedmaximumsentpackage === Kun kai matsakaicin saƙonnin da aka aiko don kunshin ku na yanzu!
+response_message_bulkqueuednew === _8880_ saƙonnin an yi layi don aikawa!
+response_whatsapp_invalidmediafile === Fayil mai jarida mara inganci!
+response_whatsapp_atleastonebutt === Da fatan za a ƙara aƙalla maɓalli ɗaya!
+response_whatsapp_invalidimagefile === Fayil ɗin hoto mara inganci!
+response_whatsapp_listtitlereq === Ana buƙatar taken jeri!
+response_whatsapp_listmenureq === Ana buƙatar taken menu na jeri!
+response_whatsapp_listformatreq === Ana buƙatar tsarin jeri!
+response_whatsapp_listformatinval === Tsarin jeri ba shi da inganci!
+response_whatsapp_tempformatreq === Ana buƙatar tsarin samfuri!
+response_whatsapp_tempformatinval === Tsarin samfuri bashi da inganci!
+response_whatsapp_failedchatsqueue === An kasa ƙara hira zuwa jerin gwanon WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ an yi layi don aikawa!
+response_whatsapp_failedchatsqueuemany === Ba a yi nasarar ƙara taɗi zuwa jerin gwanon WhatsApp ba!
+response_whatsapp_nochatsqueuedpacklimit === Yi haƙuri, ba a yi layi ba. Da fatan za a duba iyakar aikawa na kunshin ku!
+response_whatsapp_successfetchgroups === Anyi nasarar debo _8880_ rukunoni!
+response_whatsapp_nogroupsfoundfetch === Ba a sami ƙungiyoyi ba!
+response_partners_commisionerror === Adadin hukumar abokan hulɗa ba zai iya zama ƙasa da 1 ba kuma sama da 80!
+response_delete_smsdeletecampaign === An goge yakin SMS!
+response_delete_wacampaigndeleted === An share kamfen na WhatsApp!
+response_delete_wagroupdeleted === An share rukunin WhatsApp!
+table_smscampaign_createdtitle === Ƙirƙiri
+table_smscampaign_nametitle === Suna
+table_smscampaign_gatewaytitle === Gateway
+table_smscampaign_contactstitle === Lambobin sadarwa
+table_smscampaign_statustitle === Matsayi
+table_smscampaign_optionstitle === Zabuka
+table_campaign_completedstatus === An kammala
+table_smscagmpaign_processingstatus === _8880_ na _8881_ an sarrafa
+table_campaign_pausecampaign === Dakatar da wannan kamfen
+table_campaign_resumecampaign === Ci gaba da wannan kamfen
+table_smsscheduled_lastsendinfo === Aika Karshe
+table_smstransac_createdtitle === Ƙirƙiri
+table_smstransac_sendertitle === Mai aikawa
+table_smstransac_devicetitle === Na'ura
+table_smstransac_messagetitle === Sako
+table_smstransac_earningstitle === Abubuwan da ake samu
+table_smstransac_messageremoved === An cire sako!
+table_wacampaign_createdtitle === Ƙirƙiri
+table_wacampaign_nametitle === Suna
+table_wacampaign_accounttitle === Asusu
+table_wacampaign_typetitle === Nau'in
+table_wacampaign_contactstitle === Lambobin sadarwa
+table_wacampaign_statustitle === Matsayi
+table_wacampaign_optionstitle === Zabuka
+table_wacampaign_processingstatus === _8880_ na _8881_ an sarrafa
+table_wascheduled_lastsendinfo === Aika Karshe
+table_campaign_pendingstatus === Ana jiran
+table_wagroups_nametitle === Suna
+table_wagroups_accounttitle === Asusu
+table_wagroups_addresstitle === Adireshin rukuni
+table_wagroups_optionstitle === Zabuka
+table_waaccounts_statustitle === Matsayi
+table_waaccounts_statusconnected === An haɗa
+table_waaccounts_statusconnecting === Haɗawa
+table_waaccounts_statusdisconnecting === Cire haɗin gwiwa
+table_waaccounts_statusdisconnected === An cire haɗin
+table_waaccounts_statuserror === Kuskure
+table_waaccounts_copyaccountid === Kwafi ID na Asusu
+table_android_brandtitle === Alamar
+table_android_partnertitle === Abokin tarayya
+table_android_statustitle === Matsayi
+table_android_statusonline === Kan layi
+table_android_statusoffline === Offline
+table_android_copydeviceid === Kwafi ID na Musamman na Na'ura
+table_partnerrates_devicename === Sunan na'ura
+widget_fetchgroups_titlefetch === Dauki Ƙungiyoyi
+widget_fetchgroups_loaderfetch === Dabo ƙungiyoyi daga asusu
+pages_admin_tokenrefreshbutt === Alama
+pages_admin_tokenrefreshbutthelp === Sake sabunta alamar sadarwar soket. Idan tsarin baya nuna duk wani sanarwar toast ɗin kai tsaye ko baya sabuntawa a ainihin lokacin, da fatan za a danna wannan maɓallin.
+pages_admin_cachehelp === Share dukan tsarin cache. Gargadi! Wannan kuma zai share caches masu alaƙa da API, tantancewa da biyan kuɗi. Ana ba da shawarar yin wannan kawai lokacin haɓaka tsarin.
+pages_admin_themehelp === Gyara samfuri da ƙira.
+pages_admin_systemsettingshelp === Daidaita mahimman saitunan tsarin.
+pages_sms_campaignstab === Yakin neman zabe
+pages_sms_partnertransactions === Ma'amaloli
+pages_whatsapp_campaignstab === Yakin neman zabe
+pages_whatsapp_groupstab === Ƙungiyoyi
+forms_repeatdays_title === Maimaita Kwanaki
+forms_repeatdays_tagline === Shigar da kwanaki nawa don jira har sai an maimaita aika saƙo. Shigar da 365 don maimaita kowace shekara a daidai wannan wata, rana da lokaci, idan ba haka ba, zai biyo bayan lokaci kawai. Shigar da 0 don kashe maimaitawa.
+forms_whatsapp_messagetype === Nau'in Saƙo
+forms_whatsapp_messagetypehelp === Zaɓi nau'in saƙon WhatsApp.
+forms_whatsapp_typetext === Rubutu
+forms_whatsapp_typemedia === Mai jarida
+forms_whatsapp_typebutton === Maɓalli
+forms_whatsapp_typelist === Jerin
+forms_whatsapp_typetemplate === Samfura
+forms_whatsapp_mediafile === Fayil Mai jarida
+forms_whatsapp_mediafilehelp === Fayil mai jarida, fayil ɗin mai jarida da za a loda. Yana goyan bayan fayilolin .jpg, .png, .gif da .mp4.
+forms_whatsapp_imagefile === Fayil ɗin Hoto
+forms_whatsapp_imagefilehelp === Fayil ɗin hoto na al'ada, wannan zaɓi ne.
+forms_whatsapp_buttons === Buttons
+forms_whatsapp_buttonshelp === Maɓallin al'ada, ana buƙatar maɓallin farko.
+forms_whatsapp_buttonsplace1 === Maballin 1
+forms_whatsapp_buttonsplace2 === Maɓalli 2 (Na zaɓi)
+forms_whatsapp_buttonsplace3 === Maɓalli 3 (Na zaɓi)
+forms_whatsapp_listtitle === Taken Jerin
+forms_whatsapp_listtitlehelp === Wannan shine taken lissafin.
+forms_whatsapp_listplacetitle === Jerin Nawa
+forms_whatsapp_listmenutitle === Taken Menu
+forms_whatsapp_listmenutitlehelp === Wannan shine taken menu.
+forms_whatsapp_listmenutitleplace === Taken Menu
+forms_whatsapp_footermessage === Saƙon Kafa
+forms_whatsapp_footermessagehelp === Saƙon ƙafa na al'ada, wannan zaɓi ne.
+forms_whatsapp_footermessageplace === Wannan shine saƙon ƙasa...
+forms_whatsapp_listformat === Tsarin Lissafi
+forms_whatsapp_listformathelp === Wannan shine tsarin jeri, json da aka kawo dole ya zama mai inganci.
+forms_whatsapp_templateformat === Tsarin Samfura
+forms_whatsapp_templateformathelp === Wannan shine tsarin samfuri, json da aka kawo dole ne ya kasance mai inganci.
+and_settings_line159new === Kada a raba wannan alamar ga kowa. Ana amfani da wannan don tsaro na cronjobs, API na tsarin, buƙatun WhatsApp da sauran buƙatun waje. Idan kuna tunani, an lalata alamar tsarin ku, da fatan za a sake haifar da wani sabo, kuna buƙatar sake saita cronjobs ɗinku, API ɗin tsarin da sauran saitunan da ke da alaƙa bayan sabunta sabon alama. Wannan kuma zai shafi tsarin WhatsApp, duk asusun da aka haɗa ba zai sake yin aiki ba.
+forms_systemsettings_servicestitle === Ayyuka
+forms_systemsettings_waserver === WhatsApp URL
+forms_systemsettings_waserverhelp === URL na uwar garken WhatsApp ɗin ku, kuna buƙatar ɗaukar wannan akan sabar ku. Da fatan za a karanta takaddun don umarnin saitin.
+forms_systemsettings_waport === WhatsApp Port Port
+forms_systemsettings_waporthelp === Tashar jiragen ruwa na uwar garken WhatsApp ɗinku, tashar tashar tsoho ita ce 7001. Da fatan za a karanta takaddun don umarnin saitin.
+forms_systemsettings_messagestitle === Saƙonni
+forms_systemsettings_partnercommission === Hukumar Abokin Hulda
+forms_systemsettings_partnercommissionhelp === Kashi na hukumar da kake son cirewa daga kuɗin abokan hulɗa na kowane saƙon da aka aika. Wannan zai zama kuɗin ku kuma za a nuna shi a cikin ƙididdiga a cikin kwamitin gudanarwa. Kashi kada ya zama ƙasa da 1 kuma ya fi 80!
+forms_systemsettings_partnerminimum === Abokin Hulɗa mafi ƙarancin biya
+forms_systemsettings_partnerminimumhelp === Mafi ƙarancin abin da aka samu don samun damar neman cirewa. Wannan adadin kuma zai yi amfani da kudin tsarin da ya dace wanda yake daidai da abin da aka samu.
+forms_editdevice_sendinglimittitle === Iyaka na aikawa
+forms_editdevice_limitstatus === Iyakance Matsayi
+forms_editdevice_limitstatushelp === Idan an kunna, adadin saƙonnin da aka yarda da za a iya aikawa ta amfani da wannan na'urar za a iyakance shi kowace rana ko wata.
+forms_editdevice_limitinterv === Iyakance Tazara
+forms_editdevice_limitintervhelp === Zaɓi nau'in jinkiri kafin sabunta ma'aunin iyaka.
+forms_editdevice_messagecount === Yawan Saƙonni
+forms_editdevice_messagecounthelp === Adadin saƙonnin da za a iya aikawa yayin tazarar iyaka.
+forms_editdevice_limitintervselect1 === Kullum
+forms_editdevice_limitintervselect2 === kowane wata
+forms_editdevice_partnerstatus === Matsayin Abokin Hulɗa
+forms_edituser_clockformat === Tsarin agogo
+forms_edituser_clockformathelp === Zaɓi tsarin agogo don amfani lokacin nuna lokaci a ko'ina cikin tsarin.
+forms_edituser_clockformatselect1 === Awanni 12
+forms_edituser_clockformatselect2 === Awanni 24
+forms_edituser_dateformat === Tsarin Kwanan Wata
+forms_edituser_dateformathelp === Zaɓi tsarin kwanan wata don amfani lokacin nuna kwanan wata a ko'ina cikin tsarin.
+forms_edituser_dateseparator === Kwanan Wata
+forms_edituser_dateseparatorhelp === Zaɓi mai raba kwanan wata don amfani yayin nuna kwanan wata a ko'ina cikin tsarin.
+forms_campagin_formname === Sunan Kamfen
+forms_campagin_formhelp === Sunan kamfen, za a ƙirƙiri log ɗin ayyuka don waɗannan manyan saƙonnin, za ku iya dakatar da aikawa cikin sauƙi ta hanyar mai sarrafa kamfen.
+forms_campaign_formplaceholder === misali. Misali Gangamin
+forms_whatsapp_numbersgroupsname === Lambobi ko Adireshin Ƙungiya
+forms_whatsapp_numbersgroupshelp === Lambobin E.164 da yawa da adiresoshin rukunin WhatsApp sun rabu ta hanyar karya layi.
+forms_whatsapp_groupsimportname === WhatsApp Account
+forms_whatsapp_groupsimportnamehelp === Zabi whatsapp account inda za'a debo groups.
+forms_whatsapp_groupsimportbutton === Dauke
+forms_whatsapp_phonegroupsname === Adireshin waya ko rukuni
+forms_whatsapp_phonegroupshelp === E.164 lambar waya mai karɓa ko adireshin ƙungiyar WhatsApp.
+pages_administration_commissionstitle === Kwamitocin
+pages_smscampaigns_header === Yakin neman zabe
+pages_smstransactions_header === Ma'amaloli
+pages_smstransactions_comtagline === Duk SMS da aka aika ta amfani da na'urorin abokan haɗin gwiwa suna da _8880_% kuɗin mu'amala. An riga an cire wannan a cikin tebur mai zuwa.
+pages_wacampaigns_header === Yakin neman zabe
+pages_wagroups_header === Ƙungiyoyi
+pages_wagroups_fetchbtn === Dauki Ƙungiyoyi
+tables_plugins_noactionsline === Babu Ayyuka
+plugin_header_selectmethod === Zaɓi Hanyar Biyan Kuɗi
+title_plugin_paymentpage === Shafin Biya
+payment_title_pending === Oda yana jiran
+btn_plugin_cancelorderpayment === Soke Biya
+payment_title_orderfailed === Oda ya kasa
+payment_page_orderfailed === Wani abu ya yi kuskure yayin sarrafa buƙatar odar ku.
+and_rate_gate_3new === _8880_ Darajar
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Zabuka

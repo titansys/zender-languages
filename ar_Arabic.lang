@@ -2405,3 +2405,194 @@ js_calendarall_mondec === ديسمبر
 response_ussddelete_success === تم حذف طلب USSD!
 response_titanecho_invaltoken === خطأ في تكوين النظام!
 widgets_addplugin_loader === تثبيت البرنامج المساعد الجديد للنظام
+widgets_addwhatsapp_newmodal === قم بتوصيل WhatsApp الخاص بك عن طريق النقر فوق الزر لعرض رمز QRCode ثم مسحه ضوئيًا عبر الزر _8880_ في التطبيق. لديك 15 ثانية فقط لمسح رمز الاستجابة السريعة.
+widgets_addwhatsapp_newmodal2 === _8880_ انتهت صلاحيته ، إذا تم ربط حسابك أم لا ، يرجى النقر فوق الزر أدناه.
+widgets_addwhatsapp_newmodal3 === يكمل
+widgets_addwhatsapp_newmodal4 === يلغي
+datatable_addedtoclipboard === تمت الإضافة إلى الحافظة
+datatable_addedtoclipboardkeys === انقر فوق زر النسخ لإضافة الصفوف المعروضة إلى الحافظة.
+datatable_addedtoclipboardmulti === تم نسخ الصفوف:
+datatable_addedtoclipboardsingle === تم نسخ صف واحد
+table_details_schedulednewrepeat === يكرر:
+and_edit_dev_line70_1_new === المبلغ الذي تريد تحصيله لكل رسالة ، سيتم استخدام بلد الجهاز كقاعدة للعملة. يتم أيضًا دعم القيم العائمة مثل السنتات.
+widget_waquick_requireaccountnew1 === حساب WhatsApp
+requests_whatsapp_notavail === خادم WhatsApp غير متوفر!
+requests_whatsapp_unablegenqr === تعذر إنشاء رمز WhatsApp QRCode!
+requests_charts_commisionstitle === العمولات
+requests_token_refreshecho === تم تحديث رمز _8880_!
+requests_remote_smscampaignresumed === تم استئناف حملة الرسائل القصيرة!
+requests_remote_smscampaignpaused === تم إيقاف حملة الرسائل القصيرة مؤقتًا!
+requests_remote_wacampaignresumed === تم استئناف حملة WhatsApp!
+requests_remote_wacampaignpaused === تم إيقاف حملة WhatsApp مؤقتًا!
+requests_create_payoutwithdrawalamountatleast === يجب أن يكون مبلغ السحب على الأقل _8880_ _8881_!
+requests_sms_intervaltypereachedmax === تم الوصول إلى _8880_ الرسائل المسموح بها لهذا الجهاز ، يرجى المحاولة مرة أخرى لاحقًا!
+requests_sms_encounteredgatewayerror === واجهنا خطأ في البوابة!
+requests_sms_gatewaycannotsendowndevices === لا يمكنك إرسال رسائل بأرصدة باستخدام أجهزتك الخاصة!
+requests_create_encounteredshortenererror === واجهنا خطأ في الاختصار!
+requests_create_campaignnametooshort === اسم الحملة قصير جدا!
+requests_sms_intervaltypedaily === اليومي
+requests_sms_intervaltypemonthly === شهريا
+requests_sms_reachedmaximumsentpackage === لقد وصلت إلى الحد الأقصى من الرسائل المرسلة لحزمتك الحالية!
+response_message_bulkqueuednew === _8880_ رسائل تم وضعها في قائمة الانتظار للإرسال!
+response_whatsapp_invalidmediafile === ملف وسائط غير صالح!
+response_whatsapp_atleastonebutt === الرجاء إضافة زر واحد على الأقل!
+response_whatsapp_invalidimagefile === ملف صورة غير صالح!
+response_whatsapp_listtitlereq === مطلوب عنوان القائمة!
+response_whatsapp_listmenureq === مطلوب عنوان قائمة القائمة!
+response_whatsapp_listformatreq === تنسيق القائمة مطلوب!
+response_whatsapp_listformatinval === تنسيق القائمة غير صالح!
+response_whatsapp_tempformatreq === تنسيق النموذج مطلوب!
+response_whatsapp_tempformatinval === تنسيق القالب غير صالح!
+response_whatsapp_failedchatsqueue === فشل إضافة الدردشة إلى قائمة انتظار WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ تم وضع الدردشات في قائمة الانتظار للإرسال!
+response_whatsapp_failedchatsqueuemany === فشل إضافة الدردشات إلى قائمة انتظار WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === عذرا ، لم يتم وضع الدردشات في قائمة الانتظار. يرجى التحقق من حد إرسال الحزمة الخاصة بك!
+response_whatsapp_successfetchgroups === تم جلب مجموعات _8880_ بنجاح!
+response_whatsapp_nogroupsfoundfetch === لم يتم العثور على مجموعات!
+response_partners_commisionerror === لا يمكن أن تكون نسبة عمولة الشريك أقل من 1 وأكبر من 80!
+response_delete_smsdeletecampaign === تم حذف حملة الرسائل القصيرة!
+response_delete_wacampaigndeleted === تم حذف حملة WhatsApp!
+response_delete_wagroupdeleted === تم حذف مجموعة WhatsApp!
+table_smscampaign_createdtitle === مخلوق
+table_smscampaign_nametitle === اسم
+table_smscampaign_gatewaytitle === بوابة
+table_smscampaign_contactstitle === جهات الاتصال
+table_smscampaign_statustitle === حالة
+table_smscampaign_optionstitle === خيارات
+table_campaign_completedstatus === مكتمل
+table_smscagmpaign_processingstatus === _8880_ من _8881_ تمت معالجتها
+table_campaign_pausecampaign === وقفة هذه الحملة
+table_campaign_resumecampaign === استئناف هذه الحملة
+table_smsscheduled_lastsendinfo === آخر إرسال
+table_smstransac_createdtitle === مخلوق
+table_smstransac_sendertitle === مرسل
+table_smstransac_devicetitle === جهاز
+table_smstransac_messagetitle === رسالة
+table_smstransac_earningstitle === أرباح
+table_smstransac_messageremoved === تم حذف الرسالة!
+table_wacampaign_createdtitle === مخلوق
+table_wacampaign_nametitle === اسم
+table_wacampaign_accounttitle === الحساب
+table_wacampaign_typetitle === يكتب
+table_wacampaign_contactstitle === جهات الاتصال
+table_wacampaign_statustitle === حالة
+table_wacampaign_optionstitle === خيارات
+table_wacampaign_processingstatus === _8880_ من _8881_ تمت معالجتها
+table_wascheduled_lastsendinfo === آخر إرسال
+table_campaign_pendingstatus === قيد الانتظار
+table_wagroups_nametitle === اسم
+table_wagroups_accounttitle === الحساب
+table_wagroups_addresstitle === عنوان المجموعة
+table_wagroups_optionstitle === خيارات
+table_waaccounts_statustitle === حالة
+table_waaccounts_statusconnected === متصل
+table_waaccounts_statusconnecting === توصيل
+table_waaccounts_statusdisconnecting === قطع الاتصال
+table_waaccounts_statusdisconnected === انقطع الاتصال
+table_waaccounts_statuserror === خطأ
+table_waaccounts_copyaccountid === نسخ معرف الحساب
+table_android_brandtitle === ماركة
+table_android_partnertitle === شريك
+table_android_statustitle === حالة
+table_android_statusonline === متصل
+table_android_statusoffline === غير متصل على الانترنت
+table_android_copydeviceid === نسخ المعرف الفريد للجهاز
+table_partnerrates_devicename === اسم الجهاز
+widget_fetchgroups_titlefetch === مجموعات الجلب
+widget_fetchgroups_loaderfetch === جلب المجموعات من الحساب
+pages_admin_tokenrefreshbutt === رمز
+pages_admin_tokenrefreshbutthelp === قم بتحديث رمز اتصال مأخذ التوصيل. إذا كان النظام لا يعرض أي إخطارات نخب مباشرة أو لا يتم تحديثه في الوقت الفعلي ، فالرجاء النقر فوق هذا الزر.
+pages_admin_cachehelp === امسح ذاكرة التخزين المؤقت للنظام بالكامل. تحذير! سيؤدي هذا أيضًا إلى مسح ذاكرات التخزين المؤقت المتعلقة بواجهة برمجة التطبيقات والمصادقة والدفع. من المستحسن القيام بذلك فقط عند ترقية النظام.
+pages_admin_themehelp === تعديل قالب الموقع والتصميم.
+pages_admin_systemsettingshelp === اضبط إعدادات النظام المهمة.
+pages_sms_campaignstab === الحملات
+pages_sms_partnertransactions === المعاملات
+pages_whatsapp_campaignstab === الحملات
+pages_whatsapp_groupstab === مجموعات
+forms_repeatdays_title === كرر الأيام
+forms_repeatdays_tagline === أدخل عدد الأيام المراد انتظارها حتى تكرار إرسال الرسالة. أدخل 365 للتكرار كل عام في نفس الشهر واليوم والوقت ، إذا لم يكن الأمر كذلك ، فسيتبع الوقت فقط. أدخل 0 لتعطيل التكرار.
+forms_whatsapp_messagetype === نوع الرسالة
+forms_whatsapp_messagetypehelp === حدد نوع رسالة WhatsApp.
+forms_whatsapp_typetext === نص
+forms_whatsapp_typemedia === وسائل الإعلام
+forms_whatsapp_typebutton === زر
+forms_whatsapp_typelist === قائمة
+forms_whatsapp_typetemplate === قالب
+forms_whatsapp_mediafile === ملف وسائط
+forms_whatsapp_mediafilehelp === ملف الوسائط ، ملف الوسائط المراد تحميله. يدعم ملفات .jpg و .png و .gif و .mp4.
+forms_whatsapp_imagefile === ملف الصورة
+forms_whatsapp_imagefilehelp === ملف صورة مخصص ، هذا اختياري.
+forms_whatsapp_buttons === أزرار
+forms_whatsapp_buttonshelp === الأزرار المخصصة ، الزر الأول مطلوب.
+forms_whatsapp_buttonsplace1 === زر +1
+forms_whatsapp_buttonsplace2 === الزر 2 (اختياري)
+forms_whatsapp_buttonsplace3 === الزر 3 (اختياري)
+forms_whatsapp_listtitle === عنوان القائمة
+forms_whatsapp_listtitlehelp === هذا هو عنوان القائمة.
+forms_whatsapp_listplacetitle === قائمتي
+forms_whatsapp_listmenutitle === عنوان القائمة
+forms_whatsapp_listmenutitlehelp === هذا هو عنوان القائمة.
+forms_whatsapp_listmenutitleplace === عنوان القائمة
+forms_whatsapp_footermessage === رسالة التذييل
+forms_whatsapp_footermessagehelp === رسالة تذييل مخصصة ، هذا اختياري.
+forms_whatsapp_footermessageplace === هذه هي رسالة التذييل ...
+forms_whatsapp_listformat === تنسيق القائمة
+forms_whatsapp_listformathelp === هذا هو تنسيق القائمة ، ويجب أن يكون json الموفر صالحًا.
+forms_whatsapp_templateformat === تنسيق القالب
+forms_whatsapp_templateformathelp === هذا هو تنسيق القالب ، ويجب أن يكون json المقدم صالحًا.
+and_settings_line159new === يجب عدم مشاركة هذا الرمز المميز مع أي شخص. يستخدم هذا لأمان cronjobs وواجهة برمجة تطبيقات النظام وطلبات WhatsApp والطلبات الخارجية الأخرى. إذا كنت تعتقد أن رمز النظام الخاص بك قد تعرض للاختراق ، فالرجاء إعادة إنشاء رمز جديد ، وسوف تحتاج إلى إعادة تكوين وظائف cronjobs الخاصة بك وواجهة برمجة تطبيقات النظام والإعدادات الأخرى ذات الصلة بعد إعادة إنشاء رمز مميز جديد. سيؤثر هذا أيضًا على نظام WhatsApp ، فلن تعمل جميع الحسابات المتصلة بعد الآن.
+forms_systemsettings_servicestitle === خدمات
+forms_systemsettings_waserver === عنوان URL لخادم WhatsApp
+forms_systemsettings_waserverhelp === عنوان URL لخادم WhatsApp الخاص بك ، تحتاج إلى استضافة هذا على الخادم الخاص بك. يرجى قراءة الوثائق لتعليمات الإعداد.
+forms_systemsettings_waport === منفذ خادم WhatsApp
+forms_systemsettings_waporthelp === منفذ خادم WhatsApp ، المنفذ الافتراضي هو 7001. يرجى قراءة الوثائق للحصول على إرشادات الإعداد.
+forms_systemsettings_messagestitle === رسائل
+forms_systemsettings_partnercommission === عمولة الشريك
+forms_systemsettings_partnercommissionhelp === النسبة المئوية للعمولة التي تريد خصمها من أرباح الشركاء لكل رسالة يتم إرسالها. ستكون هذه أموالك وسيتم عرضها في الإحصائيات في لوحة الإدارة. يجب ألا تقل النسبة المئوية عن 1 وأكبر من 80!
+forms_systemsettings_partnerminimum === الحد الأدنى للدفع للشريك
+forms_systemsettings_partnerminimumhelp === الحد الأدنى لمبلغ الأرباح للتمكن من طلب السحب. سيستخدم هذا المبلغ أيضًا عملة النظام الافتراضية والتي هي نفسها مع الأرباح.
+forms_editdevice_sendinglimittitle === حد الإرسال
+forms_editdevice_limitstatus === حالة الحد
+forms_editdevice_limitstatushelp === في حالة التمكين ، سيكون العدد المسموح به من الرسائل التي يمكن إرسالها باستخدام هذا الجهاز محدودًا يوميًا أو شهريًا.
+forms_editdevice_limitinterv === الفاصل الزمني المحدد
+forms_editdevice_limitintervhelp === حدد نوع التأخير قبل تحديث عداد الحد.
+forms_editdevice_messagecount === عدد الرسائل
+forms_editdevice_messagecounthelp === عدد الرسائل التي يمكن إرسالها خلال فترة الحد.
+forms_editdevice_limitintervselect1 === اليومي
+forms_editdevice_limitintervselect2 === شهريا
+forms_editdevice_partnerstatus === حالة الشريك
+forms_edituser_clockformat === تنسيق الساعة
+forms_edituser_clockformathelp === حدد تنسيق الساعة المراد استخدامه عند عرض الوقت في أي مكان في النظام.
+forms_edituser_clockformatselect1 === 12 ساعة
+forms_edituser_clockformatselect2 === 24 ساعة
+forms_edituser_dateformat === صيغة التاريخ
+forms_edituser_dateformathelp === حدد تنسيق التاريخ المراد استخدامه عند عرض التاريخ في أي مكان في النظام.
+forms_edituser_dateseparator === فاصل التاريخ
+forms_edituser_dateseparatorhelp === حدد فاصل التاريخ لاستخدامه عند عرض التاريخ في أي مكان في النظام.
+forms_campagin_formname === اسم الحملة
+forms_campagin_formhelp === اسم الحملة ، سيتم إنشاء سجل نشاط لهذه الرسائل المجمعة ، وستتمكن بسهولة من إيقاف الإرسال عبر مدير الحملة.
+forms_campaign_formplaceholder === على سبيل المثال حملة عينة
+forms_whatsapp_numbersgroupsname === أرقام أو عنوان المجموعة
+forms_whatsapp_numbersgroupshelp === أرقام E.164 متعددة وعناوين مجموعة WhatsApp مفصولة بفاصل أسطر.
+forms_whatsapp_groupsimportname === حساب WhatsApp
+forms_whatsapp_groupsimportnamehelp === حدد حساب whatsapp حيث سيتم جلب المجموعات.
+forms_whatsapp_groupsimportbutton === أحضر
+forms_whatsapp_phonegroupsname === الهاتف أو عنوان المجموعة
+forms_whatsapp_phonegroupshelp === رقم هاتف المستلم E.164 أو عنوان مجموعة WhatsApp.
+pages_administration_commissionstitle === اللجان
+pages_smscampaigns_header === الحملات
+pages_smstransactions_header === المعاملات
+pages_smstransactions_comtagline === جميع الرسائل القصيرة المرسلة باستخدام الأجهزة الشريكة لها رسوم معاملة _8880_٪. تم خصم هذا بالفعل في الجدول التالي.
+pages_wacampaigns_header === الحملات
+pages_wagroups_header === مجموعات
+pages_wagroups_fetchbtn === مجموعات الجلب
+tables_plugins_noactionsline === لا توجد إجراءات
+plugin_header_selectmethod === اختار طريقة الدفع
+title_plugin_paymentpage === صفحة الدفع
+payment_title_pending === انتظار الطلب
+btn_plugin_cancelorderpayment === الغاء الدفع
+payment_title_orderfailed === فشل الطلب
+payment_page_orderfailed === حدث خطأ ما أثناء معالجة طلبك.
+and_rate_gate_3new === _8880_ الأسعار
+and_rate_gate_idname === الرقم: _8880_
+table_ratespartners_optionstitle === خيارات

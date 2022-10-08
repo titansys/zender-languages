@@ -2405,3 +2405,194 @@ js_calendarall_mondec === Disemba
 response_ussddelete_success === Arịrịọ USSD ehichapụla!
 response_titanecho_invaltoken === Njehie nhazi sistemu!
 widgets_addplugin_loader === Ịwụnye ngwa mgbakwunye ọhụrụ na sistemụ
+widgets_addwhatsapp_newmodal === Jikọọ WhatsApp gị site na ịpị bọtịnụ iji gosipụta QRCode wee lelee ya site na bọtịnụ _8880_ dị na ngwa ahụ. Ị nwere naanị 15 sekọnd iji nyochaa QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ kubiela, ọ bụrụ na ejikọrọ akaụntụ gị, ma ọ bụ na ọ bụghị, biko pịa bọtịnụ dị n'okpuru.
+widgets_addwhatsapp_newmodal3 === Gaa n'ihu
+widgets_addwhatsapp_newmodal4 === Kagbuo
+datatable_addedtoclipboard === Etinyere na klipbọọdụ
+datatable_addedtoclipboardkeys === Pịa bọtịnụ nnomi ka ịgbakwunye ahịrị ndị egosiri na klipbọọdụ.
+datatable_addedtoclipboardmulti === Eṅomiri ahịrị:
+datatable_addedtoclipboardsingle === Eṅomiri ahịrị 1
+table_details_schedulednewrepeat === Tinyegharịa:
+and_edit_dev_line70_1_new === Ọnụ ego ịchọrọ ịkwụ ụgwọ kwa ozi, obodo ngwaọrụ ga-eji dị ka ntọala ego. A na-akwadokwa ụkpụrụ n'elu mmiri dị ka cents.
+widget_waquick_requireaccountnew1 === WhatsApp akaụntụ
+requests_whatsapp_notavail === Ihe nkesa WhatsApp adịghị!
+requests_whatsapp_unablegenqr === Enweghị ike ịmepụta WhatsApp QRCode!
+requests_charts_commisionstitle === Ụlọ ọrụ
+requests_token_refreshecho === Token maka _8880_ ka emelitere!
+requests_remote_smscampaignresumed === A maliteghachila mkpọsa SMS!
+requests_remote_smscampaignpaused === Akwụsịla mkpọsa SMS!
+requests_remote_wacampaignresumed === A maliteghachila mkpọsa WhatsApp!
+requests_remote_wacampaignpaused === Akwụsịla mkpọsa WhatsApp!
+requests_create_payoutwithdrawalamountatleast === Ego mwepu kwesịrị ịbụ opekata mpe _8880_ _8881_!
+requests_sms_intervaltypereachedmax === E nwetala ozi _8880_ ekwenyere maka ngwaọrụ a, biko nwaa ọzọ ma emechaa!
+requests_sms_encounteredgatewayerror === Anyị zutere njehie ọnụ ụzọ ámá!
+requests_sms_gatewaycannotsendowndevices === Ị nweghị ike izipu ozi na kredit site na iji ngwaọrụ nke gị!
+requests_create_encounteredshortenererror === Anyị zutere mperi mperi!
+requests_create_campaignnametooshort === Aha mkpọsa dị mkpụmkpụ!
+requests_sms_intervaltypedaily === kwa ụbọchị
+requests_sms_intervaltypemonthly === kwa ọnwa
+requests_sms_reachedmaximumsentpackage === Ị eruola ozi ezitere kacha maka ngwungwu gị ugbu a!
+response_message_bulkqueuednew === _8880_ ozi etinyela n'ahịrị maka izipu!
+response_whatsapp_invalidmediafile === Faịlụ mgbasa ozi ezighi ezi!
+response_whatsapp_atleastonebutt === Biko tinye opekata mpe otu bọtịnụ!
+response_whatsapp_invalidimagefile === Faịlụ onyonyo ezighi ezi!
+response_whatsapp_listtitlereq === Achọrọ aha ndepụta!
+response_whatsapp_listmenureq === Achọrọ aha menu ndepụta!
+response_whatsapp_listformatreq === Achọrọ usoro ndepụta!
+response_whatsapp_listformatinval === Ụdị ndepụta abaghị uru!
+response_whatsapp_tempformatreq === Achọrọ usoro ihe ndebiri!
+response_whatsapp_tempformatinval === Ọkpụkpọ ndebiri ezighi ezi!
+response_whatsapp_failedchatsqueue === Ịtinye nkata na kwụ n'ahịrị WhatsApp agaghị ekwe omume!
+response_whatsapp_bulkchatssentcount === _8880_ nkata a kwụgoro n'ahịrị maka izipu!
+response_whatsapp_failedchatsqueuemany === Ịtinye nkata na kwụ n'ahịrị WhatsApp agaghị ada!
+response_whatsapp_nochatsqueuedpacklimit === Ndo, ọ nweghị mkparịta ụka kwụ n'ahịrị. Biko lelee oke izipu nke ngwugwu gị!
+response_whatsapp_successfetchgroups === Ewetara otu _8880_ nke ọma!
+response_whatsapp_nogroupsfoundfetch === Ọ dịghị otu ahụrụ!
+response_partners_commisionerror === Pasent kọmishọna ndị mmekọ enweghị ike ịbụ ihe na-erughị 1 ma karịa 80!
+response_delete_smsdeletecampaign === E ehichapụla mkpọsa SMS!
+response_delete_wacampaigndeleted === E ehichapụla mkpọsa WhatsApp!
+response_delete_wagroupdeleted === E ehichapụla otu WhatsApp!
+table_smscampaign_createdtitle === Emepụtara
+table_smscampaign_nametitle === Aha
+table_smscampaign_gatewaytitle === Ọnụ ụzọ ámá
+table_smscampaign_contactstitle === Ndi ana-akpo
+table_smscampaign_statustitle === Ọnọdụ
+table_smscampaign_optionstitle === Nhọrọ
+table_campaign_completedstatus === Emechara
+table_smscagmpaign_processingstatus === _8880_ nke _8881_ ahaziri
+table_campaign_pausecampaign === kwụsịtụ mkpọsa a
+table_campaign_resumecampaign === Malitegharịa mkpọsa a
+table_smsscheduled_lastsendinfo === Nzipu ikpeazụ
+table_smstransac_createdtitle === Emepụtara
+table_smstransac_sendertitle === Onye zitere
+table_smstransac_devicetitle === Ngwaọrụ
+table_smstransac_messagetitle === Ozi
+table_smstransac_earningstitle === Ego enwetara
+table_smstransac_messageremoved === Ewepụla ozi!
+table_wacampaign_createdtitle === Emepụtara
+table_wacampaign_nametitle === Aha
+table_wacampaign_accounttitle === Akaụntụ
+table_wacampaign_typetitle === Ụdị
+table_wacampaign_contactstitle === Ndi ana-akpo
+table_wacampaign_statustitle === Ọnọdụ
+table_wacampaign_optionstitle === Nhọrọ
+table_wacampaign_processingstatus === _8880_ nke _8881_ ahaziri
+table_wascheduled_lastsendinfo === Nzipu ikpeazụ
+table_campaign_pendingstatus === Na-echere
+table_wagroups_nametitle === Aha
+table_wagroups_accounttitle === Akaụntụ
+table_wagroups_addresstitle === Adreesị otu
+table_wagroups_optionstitle === Nhọrọ
+table_waaccounts_statustitle === Ọnọdụ
+table_waaccounts_statusconnected === Ejikọtara
+table_waaccounts_statusconnecting === Na-ejikọta
+table_waaccounts_statusdisconnecting === Ịkwụsị njikọ
+table_waaccounts_statusdisconnected === Akwụsịla
+table_waaccounts_statuserror === Njehie
+table_waaccounts_copyaccountid === Detuo NJ Akaụntụ
+table_android_brandtitle === Ụdị
+table_android_partnertitle === Onye mmekọ
+table_android_statustitle === Ọnọdụ
+table_android_statusonline === Online
+table_android_statusoffline === Na-anọghị n'ịntanetị
+table_android_copydeviceid === Detuo NJ Pụrụ Iche Ngwaọrụ
+table_partnerrates_devicename === Aha ngwaọrụ
+widget_fetchgroups_titlefetch === Nweta Otu
+widget_fetchgroups_loaderfetch === Na-ebuga otu na akaụntụ
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Weghachite akara nkwukọrịta socket. Ọ bụrụ na sistemụ anaghị egosipụta ọkwa ọ bụla toast ndụ ma ọ bụ na-adịghị emelite ozugbo, biko pịa bọtịnụ a.
+pages_admin_cachehelp === Hichapụ cache sistemu niile. Ịdọ aka ná ntị! Nke a ga-ehichapụkwa cache ndị metụtara API, nyocha na ịkwụ ụgwọ. A na-atụ aro ka ịme nke a naanị mgbe ị na-emelite usoro ahụ.
+pages_admin_themehelp === Gbanwee ndebiri saịtị na imewe.
+pages_admin_systemsettingshelp === Gbanwee ntọala sistemụ dị mkpa.
+pages_sms_campaignstab === Mgbasa ozi
+pages_sms_partnertransactions === Azụmahịa
+pages_whatsapp_campaignstab === Mgbasa ozi
+pages_whatsapp_groupstab === Otu dị iche iche
+forms_repeatdays_title === Tinyegharịa ụbọchị
+forms_repeatdays_tagline === Tinye ụbọchị ole ka ị chere ruo mgbe izipu ozi ọzọ. Tinye 365 ka ikwugharị kwa afọ n'otu ọnwa, ụbọchị na oge, ọ bụrụ na ọ bụghị, ọ ga-eso naanị oge ahụ. Tinye 0 iji gbanyụọ ikwugharị.
+forms_whatsapp_messagetype === Ụdị ozi
+forms_whatsapp_messagetypehelp === Họrọ ụdị ozi WhatsApp.
+forms_whatsapp_typetext === Ederede
+forms_whatsapp_typemedia === Mgbasa ozi
+forms_whatsapp_typebutton === Bọtịnụ
+forms_whatsapp_typelist === Ndepụta
+forms_whatsapp_typetemplate === Ụdị
+forms_whatsapp_mediafile === Faịlụ mgbasa ozi
+forms_whatsapp_mediafilehelp === Faịlụ mgbasa ozi, faịlụ mgbasa ozi nke a ga-ebugo. Na-akwado .jpg, .png, .gif na .mp4 faịlụ.
+forms_whatsapp_imagefile === Faịlụ onyonyo
+forms_whatsapp_imagefilehelp === Faịlụ onyonyo omenala, nke a bụ nhọrọ.
+forms_whatsapp_buttons === Bọtịnụ
+forms_whatsapp_buttonshelp === bọtịnụ omenala, a chọrọ bọtịnụ mbụ.
+forms_whatsapp_buttonsplace1 === Bọtịnụ 1
+forms_whatsapp_buttonsplace2 === Bọtịnụ 2 (Nhọrọ)
+forms_whatsapp_buttonsplace3 === Bọtịnụ 3 (Nhọrọ)
+forms_whatsapp_listtitle === Ndepụta aha
+forms_whatsapp_listtitlehelp === Nke a bụ aha ndepụta.
+forms_whatsapp_listplacetitle === Ndepụta m
+forms_whatsapp_listmenutitle === Aha menu
+forms_whatsapp_listmenutitlehelp === Nke a bụ aha menu.
+forms_whatsapp_listmenutitleplace === Aha menu
+forms_whatsapp_footermessage === Ozi n'okpuru
+forms_whatsapp_footermessagehelp === Ozi n'okpuru omenala, nke a bụ nhọrọ.
+forms_whatsapp_footermessageplace === Nke a bụ ozi ala...
+forms_whatsapp_listformat === Usoro Ndepụta
+forms_whatsapp_listformathelp === Nke a bụ usoro ndepụta, json wetara ga-adị irè.
+forms_whatsapp_templateformat === Ụdị Ụdị
+forms_whatsapp_templateformathelp === Nke a bụ usoro ndebiri, json wetara ga-adị irè.
+and_settings_line159new === Agaghị ekekọrịta onye ọ bụla akara ngosi a. A na-eji nke a maka nchekwa cronjobs, API sistemu, arịrịọ WhatsApp na arịrịọ mpụga ndị ọzọ. Ọ bụrụ na ị chere, emebiela akara sistemụ gị, biko megharịa nke ọhụrụ, ị ga-achọ ịhazigharị cronjobs gị, API sistemu na ntọala ndị ọzọ metụtara ya mgbe ịmegharịrị akara ọhụrụ. Nke a ga-emetụtakwa usoro WhatsApp, akaụntụ niile ejikọrọ agaghị arụ ọrụ ọzọ.
+forms_systemsettings_servicestitle === Ọrụ
+forms_systemsettings_waserver === Ihe nkesa WhatsApp URL
+forms_systemsettings_waserverhelp === URL nke ihe nkesa WhatsApp gị, ịkwesịrị ịkwado nke a na sava nke gị. Biko gụọ akwụkwọ maka ntuziaka nhazi.
+forms_systemsettings_waport === WhatsApp Port Port
+forms_systemsettings_waporthelp === Ọdụ ụgbọ mmiri nke ihe nkesa WhatsApp gị, ọdụ ụgbọ mmiri ndabara bụ 7001. Biko gụọ akwụkwọ maka ntuziaka nhazi.
+forms_systemsettings_messagestitle === Ozi
+forms_systemsettings_partnercommission === Ụlọ ọrụ mmekọ
+forms_systemsettings_partnercommissionhelp === Pasent nke ọrụ ịchọrọ iwepụ na ego ndị mmekọ ga-enweta maka ozi ọ bụla ezitere. Nke a ga-abụ ego gị, a ga-egosipụta ya na ọnụ ọgụgụ dị na panel nchịkwa. Pasent agaghị abụ ihe na-erughị 1 na karịa 80!
+forms_systemsettings_partnerminimum === Onye mmekọ kacha nta ugwo
+forms_systemsettings_partnerminimumhelp === Opekempe ego enwetara iji nwee ike ịrịọ maka iwepụ. Ọnụ ego a ga-ejikwa ego usoro ndabara nke bụ otu ihe na-enweta.
+forms_editdevice_sendinglimittitle === Oke izipu
+forms_editdevice_limitstatus === Oke Ọnọdụ
+forms_editdevice_limitstatushelp === Ọ bụrụ na agbanyere ya, ọnụọgụ anabatara nke enwere ike izipu site na iji ngwaọrụ a ga-amachi kwa ụbọchị ma ọ bụ ọnwa.
+forms_editdevice_limitinterv === Mmachi etiti oge
+forms_editdevice_limitintervhelp === Họrọ ụdị igbu oge tupu ị nweta ume counter oke.
+forms_editdevice_messagecount === Ọnụọgụ nke ozi
+forms_editdevice_messagecounthelp === Ọnụọgụ ozi enwere ike izipu n'oge oke oke.
+forms_editdevice_limitintervselect1 === Kwa ụbọchị
+forms_editdevice_limitintervselect2 === Kwa ọnwa
+forms_editdevice_partnerstatus === Ọnọdụ onye mmekọ
+forms_edituser_clockformat === Usoro elekere
+forms_edituser_clockformathelp === Họrọ usoro elekere ị ga-eji mgbe ị na-egosipụta oge ebe ọ bụla na sistemụ.
+forms_edituser_clockformatselect1 === Awa 12
+forms_edituser_clockformatselect2 === Awa 24
+forms_edituser_dateformat === Ụdị ụbọchị
+forms_edituser_dateformathelp === Họrọ usoro ụbọchị ị ga-eji mgbe ị na-egosipụta ụbọchị n'ebe ọ bụla na sistemụ.
+forms_edituser_dateseparator === Nkewa ụbọchị
+forms_edituser_dateseparatorhelp === Họrọ ụbọchị nkewa ị ga-eji mgbe ị na-egosipụta ụbọchị n'ebe ọ bụla na sistemụ.
+forms_campagin_formname === Aha mkpọsa
+forms_campagin_formhelp === Aha mkpọsa, a ga-emepụta ndekọ ọrụ maka ozi ndị a buru ibu, ị ga-enwe ike ịkwụsị izipu ngwa ngwa site na onye njikwa mgbasa ozi.
+forms_campaign_formplaceholder === eg. Mgbasa ozi atụ
+forms_whatsapp_numbersgroupsname === Nọmba ma ọ bụ adreesị otu
+forms_whatsapp_numbersgroupshelp === Ọtụtụ ọnụọgụ E.164 na adreesị otu WhatsApp kewapụrụ site na nkwụsị ahịrị.
+forms_whatsapp_groupsimportname === WhatsApp Akaụntụ
+forms_whatsapp_groupsimportnamehelp === Họrọ akaụntụ whatsapp ebe a ga-ebubata otu.
+forms_whatsapp_groupsimportbutton === Weta
+forms_whatsapp_phonegroupsname === Adreesị ekwentị ma ọ bụ otu
+forms_whatsapp_phonegroupshelp === Nọmba ekwentị nnata E.164 ma ọ bụ adreesị otu WhatsApp.
+pages_administration_commissionstitle === Ụlọ ọrụ
+pages_smscampaigns_header === Mgbasa ozi
+pages_smstransactions_header === Azụmahịa
+pages_smstransactions_comtagline === SMS niile ezitere site na iji ngwaọrụ mmekọ nwere ụgwọ azụmahịa _8880_%. Ewepụlarị nke a na tebụl na-esote.
+pages_wacampaigns_header === Mgbasa ozi
+pages_wagroups_header === Otu dị iche iche
+pages_wagroups_fetchbtn === Nweta Otu
+tables_plugins_noactionsline === Enweghị Omume
+plugin_header_selectmethod === Họrọ Ụzọ ịkwụ ụgwọ
+title_plugin_paymentpage === Ibe ịkwụ ụgwọ
+payment_title_pending === Iwu na-echere
+btn_plugin_cancelorderpayment === Kagbuo ugwo
+payment_title_orderfailed === Iwu agaghị
+payment_page_orderfailed === Ọ nwere ihe na-ezighi ezi mgbe ị na-ahazi arịrịọ gị.
+and_rate_gate_3new === _8880_ Ọnụego
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Nhọrọ

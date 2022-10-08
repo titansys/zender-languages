@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === Android
+and_dashboard_modules_header_line25 === Hva skjer
+and_dashboard_modules_header_line45 === Administrasjonspanel
+and_dashboard_pages_android_line10 === Android
+and_dashboard_pages_android_line40 === Planlagt
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === Varsler
+and_dashboard_pages_android_line58 === Enheter
+and_dashboard_pages_contacts_line40 === Avmeldt
+and_dashboard_pages_defailt_line37 === Gateway-priser
+and_dashboard_pages_default_line42 === Dokumenter
+and_dashboard_pages_default_line58 === Meldinger
+and_dashboard_pages_default_line60 === Siste 7 dager
+and_dashboard_pages_default_line74 === arrangementer
+and_dashboard_pages_default_line76 === Siste 7 dager
+and_dashboard_pages_default_line90 === Verktøy
+and_dashboard_pages_default_line92 === Siste 7 dager
+and_dashboard_pages_default_line109 === Partnere
+and_dashboard_pages_default_line117 === Inntjening
+and_dashboard_pages_default_line131 === Utbetaling
+and_dashboard_pages_default_line140 === Balansere
+and_dashboard_pages_default_line148 === Studiepoeng
+and_dashboard_pages_default_line162 === Fylle opp
+and_dashboard_pages_default_line170 === Leveringsforhold
+and_dash_pg_def_line178 === Suksess
+and_dash_pg_def_line190 === Mislyktes
+and_dash_pg_def_line204 === Avsendere
+and_dash_pg_def_line209 === Du abonnerer ikke på noen av våre premiumpakker!
+and_dash_pg_def_line217 === Enheter
+and_dash_pg_def_line224 === Koblet
+and_dash_pg_def_line232 === Kontoer
+and_dash_pg_def_line239 === Koblet
+and_dash_pg_def_line250 === Last ned og installer vår offisielle app for å få den beste brukeropplevelsen
+and_dash_pg_doc_line10 === Dokumenter
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === Webhooks
+and_dash_pg_doc_line40 === Handlinger
+and_dash_pg_doc_line46 === Enheter
+and_dash_pg_doc_line52 === Samarbeid
+and_dash_pg_for_line29 === Avbryt
+and_dash_pg_log_line14 === Logg inn med Facebook
+and_dash_pg_log_line17 === Logg på med Google
+and_dash_pg_log_line20 === Logg inn med VKontakte
+and_dash_pg_log_line54 === Opprett konto
+and_dash_pg_pay_line45 === Vi har mottatt din bestillingsforespørsel, systemet vårt vil automatisk sende deg en e-post og bruke endringene på kontoen din når betalingstransaksjonen er bekreftet.
+and_dash_pg_rates_line10 === Gateway-priser
+and_dash_pg_rates_line39 === Partnere
+and_dash_pg_reg_line15 === Registrer deg med Facebook
+and_dash_pg_reg_line20 === Registrer deg hos Google
+and_dash_pg_reg_line25 === Registrer deg hos VKontakte
+and_dash_pg_whats_line10 === Hva skjer
+and_dash_pg_whats_line10_1 === Beta
+and_dash_pg_whats_line28 === Sendt
+and_dash_pg_whats_line34 === Mottatt
+and_dash_pg_whats_line40 === Planlagt
+and_dash_pg_whats_line46 === Kontoer
+and_dash_api_line17 === Nøkkelnavn.
+and_dash_api_line19 === f.eks. For Min server
+and_dash_api_line24 === Nøkkeltillatelser.
+and_dash_auto_line17 === Handlingsnavn.
+and_dash_auto_line19 === f.eks. Michael
+and_dash_auto_line24 === Kilde
+and_dash_auto_line24_1 === Kilde for mottakshendelse.
+and_dash_auto_line27 === tekstmelding
+and_dash_auto_line28 === Hva skjer
+and_dash_auto_line34 === Svar søkeord atskilt med komma. Disse nøkkelordene vil utløse autoresponsen hvis de oppdages i meldingsinnholdet.
+and_dash_auto_line36 === f.eks. takk, ok, abonner, ja
+and_dash_auto_line41 === Meldingen som skal sendes til avsenderen.
+and_dash_auto_line43 === f.eks. Svarmeldingen din her, kortkoder godtas
+and_dash_auto_line48 === Sett med variabler som du kan bruke i meldingen.
+and_dash_con_line24 === Kontakt nummer.
+and_dash_con_line31 === Kontaktgruppe.
+and_dash_con_line17 === Kontakt navn.
+and_dash_cre_line28 === Kjøp
+and_dash_gate_line17 === Navn
+and_dash_gate_line17_1 === Dette er gatewaynavnet som vises til brukerne dine.
+and_dash_gate_line19 === f.eks. Twilio
+and_dash_gate_line24 === Kontroller
+and_dash_gate_line24_1 === Velg gateway-kontrollerfilen, denne vil inneholde din gateway-logikk og kode. Det anbefales å sjekke dokumentasjonen.
+and_dash_gate_line27 === Styreplate:
+and_dash_gate_line34 === Ring tilbake
+and_dash_gate_line34_1 === Hvis aktivert, må meldinger verifiseres ved å bruke tilbakeringingsfunksjonen til 3. parts gateway for sendestatus, ellers vil meldinger umiddelbart merkes som sendt ved sending.
+and_dash_gate_line37 === Muliggjøre
+and_dash_gate_line38 === Deaktiver
+and_dash_gate_line44 === Tilbakeringings-ID
+and_dash_gate_line44_1 === Hvis tilbakeringing er aktivert, må du kopiere denne ID-en og lime den inn på kontrolleren slik at systemet kan identifisere tilbakeringingene.
+and_dash_gate_line47 === Kopier og lim inn for tilbakeringings-ID
+and_dash_gate_line54 === Prissetting
+and_dash_gate_line54_1 === Din egendefinerte pristabell for denne gatewayen. Dette vil tillate deg å lade på toppen av tredjepartsprisene. For eksempel, hvis twilio belaster 0,01 for et spesifisert land, kan du belaste 0,02 i stedet, valuta er basert på systemvalutaen din. Vennligst følg prisformatet riktig.
+and_dash_gate_line57 === Eksempel på JSON-priser:
+and_dash_gate_line57_1 === nedlasting
+and_dash_grp_line17 === Gruppenavn.
+and_dash_grp_line19 === f.eks. Venner
+and_dash_hook_line17 === Handlingsnavn.
+and_dash_hook_line19 === f.eks. Testhandling
+and_dash_hook_line24 === Kilde
+and_dash_hook_line24_1 === Kilde til hendelsen.
+and_dash_hook_line34 === Velg hendelsen der denne kroken skal påkalles.
+and_dash_hook_line44 === Hook link struktur, dette er nettadressen som vil bli påkalt av systemet. Bare GET-metoden støttes.
+and_dash_hook_line51 === Sett med variabler som du kan bruke i din hook-URL.
+and_dash_hook_line27 === tekstmelding
+and_dash_hook_line28 === Hva skjer
+and_dash_hook_line37 === På Send
+and_dash_hook_line38 === Ved mottak
+and_dash_lang_line17 === Språknavn.
+and_dash_lang_line19 === f.eks. koreansk
+and_dash_lang_line24 === Landskode.
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === Hvis aktivert, vil språket bli identifisert som høyre til venstre retning.
+and_dash_lang_line38 === Ja
+and_dash_lang_line39 === Nei
+and_dash_lang_line45 === Oversettelsesstrenger.
+and_dash_mail_line17 === Tittel
+and_dash_mail_line17_1 === E-posttittel.
+and_dash_mail_line19 === f.eks. Kunngjøring
+and_dash_mail_line24 === Brukere
+and_dash_mail_line24_1 === Sendes av brukere.
+and_dash_mail_line36 === Roller
+and_dash_mail_line36_1 === Send etter roller.
+and_dash_mail_line48 === Innhold
+and_dash_mail_line48_1 === E-postinnhold, html tillatt.
+and_dash_mail_line50 === Hei Verden!
+and_dash_not_line17 === Tittel
+and_dash_not_line17_1 === Varsle tittel.
+and_dash_not_line19 === f.eks. Kunngjøring
+and_dash_not_line24 === Beskjed
+and_dash_not_line24_1 === Varsle melding.
+and_dash_not_line31 === Farge
+and_dash_not_line31_1 === Varsle farge.
+and_dash_not_line35 === Suksess
+and_dash_not_line36 === Advarsel
+and_dash_not_line37 === Fare
+and_dash_not_line43 === Bilde
+and_dash_not_line43_1 === Varsle bilde, dette er valgfritt.
+and_dash_not_line46 === Valgfri
+and_dash_not_line53 === Brukere
+and_dash_not_line53_1 === Sendes av brukere.
+and_dash_not_line65 === Roller
+and_dash_not_line65_1 === Sendes etter roller.
+and_pack_line17 === Pakkenavn.
+and_pack_line19 === f.eks. VIP-pakke
+and_pack_line24 === Pakkepris, denne skal følge systemvalutaen. Flytende verdier er ikke tillatt.
+and_pack_line29 === f.eks. 25
+and_pack_line34 === Hvis aktivert, vil meldinger og whatsapp-chatter inneholde bunntekstmerke når de mottas av mottakere.
+and_pack_line44 === Hvis aktivert, vil pakken skjules fra pakkens modal og hjemmeside.
+and_pack_line58 === Send grense for SMS
+and_pack_line58_1 === Maksimalt antall meldinger som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line60 === f.eks. 300
+and_pack_line65 === SMS-mottaksgrense
+and_pack_line65_1 === Maksimalt antall meldinger som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line67 === f.eks. 150
+and_pack_line72 === USSD-grense
+and_pack_line72_1 === Maksimalt antall ussd som kan forespørres av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line74 === f.eks. 25
+and_pack_line79 === Varslingsgrense
+and_pack_line79_1 === Maksimalt antall varsler som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line81 === f.eks. 1300
+and_pack_line86 === Maksimalt antall Android-enheter som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
+and_pack_line88 === f.eks. 25
+and_pack_line92 === WhatsApp-innstillinger
+and_pack_line97 === Maksimalt antall chatter som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line99 === f.eks. 300
+and_pack_line104 === Maksimalt antall chatter som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_pack_line106 === f.eks. 150
+and_pack_line111 === Kontogrense
+and_pack_line111_1 === Maksimalt antall WhatsApp-kontoer som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
+and_pack_line113 === f.eks. 10
+and_pack_line117 === Utilitetsinnstillinger
+and_pack_line122 === Maksimalt antall kontakter som kan lagres av brukeren. Skriv inn 0 for ubegrenset.
+and_pack_line124 === f.eks. 25
+and_pack_line129 === Planlagt grense
+and_pack_line129_1 === Maksimalt antall planlagte meldinger/chatter som kan lagres av brukeren. Skriv inn 0 for ubegrenset. Dette er kombinert for både sms og whatsapp.
+and_pack_line131 === f.eks. 25
+and_pack_line136 === Maksimalt antall API-nøkler som kan opprettes. Skriv inn 0 for ubegrenset.
+and_pack_line138 === f.eks. 10
+and_pack_line143 === Maksimalt antall Webhooks som kan opprettes. Skriv inn 0 for ubegrenset.
+and_pack_line145 === f.eks. 5
+and_pack_line150 === Handlingsgrense
+and_pack_line150_1 === Maksimalt antall handlinger som kan opprettes. Skriv inn 0 for ubegrenset.
+and_pack_line152 === f.eks. 5
+and_page_line17 === Sidenavn.
+and_page_line24 === Bare utvalgte roller vil få tilgang til denne siden.
+and_page_line35 === Hvis aktivert, vil siden ikke være tilgjengelig hvis du ikke er logget på.
+and_page_line45 === Sideinnhold. Alle html-tagger tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
+and_payout_line17 === Beløp
+and_payout_line17_1 === Beløp å trekke ut, kun hele tall.
+and_payout_line19 === f.eks. 50
+and_payout_line24 === Forsørger
+and_payout_line24_1 === Velg betalingsleverandøren du vil bruke for å motta pengene.
+and_payout_line27 === Paypal
+and_payout_line28 === Payoneer
+and_payout_line34 === betalingsadresse
+and_payout_line34_1 === Betalingsadresse eller e-post, vennligst sjekk nøye for å forhindre betalingsproblemer.
+and_payout_line36 === f.eks. Din PayPal-e-post
+and_payout_line43 === Be om
+and_plug_line17 === Plugin-fil
+and_plug_line17_1 === Plugin zip-fil, sørg for å velge riktig fil.
+and_push_line17 === Tittel
+and_push_line17_1 === Trykk på tittel.
+and_push_line19 === f.eks. Kunngjøring
+and_push_line24 === Bilde
+and_push_line24_1 === Push miniatyrbilde, dette er valgfritt.
+and_push_line27 === Valgfri
+and_push_line34 === Beskjed
+and_push_line34_1 === Push-melding.
+and_push_line41 === Brukere
+and_push_line41_1 === Sendes av brukere.
+and_push_line53 === Roller
+and_push_line53_1 === Sendes etter roller.
+and_role_line17 === Rollenavn.
+and_role_line19 === f.eks. Utvikler
+and_role_line24 === Velg tillatelser og funksjoner du vil deaktivere/aktivere for denne rollen. Endringer brukes i sanntid, nettleserfaner til tilkoblede brukere med rollen lastes automatisk inn på nytt.
+and_short_line17 === Navn
+and_short_line17_1 === Navn på forkorter.
+and_short_line19 === f.eks. Litt
+and_short_line24 === Kontroller
+and_short_line24_1 === Velg shortener-kontrollerfilen, denne vil inneholde shortener-logikken og koden. Det anbefales å sjekke dokumentasjonen.
+and_short_line27 === Styreplate:
+and_sms_line17 === Navn på planlagt melding.
+and_sms_line19 === f.eks. Mitt budskap
+and_sms_line24 === Velg plandato.
+and_sms_line26 === f.eks. 22.06.2020 kl. 12.00
+and_sms_line31 === Hvis den er aktivert, vil meldingen planlegges hver gang den planlagte datoen matches.
+and_sms_line42 === Flere E.164-numre atskilt med linjeskift.
+and_sms_line55 === Velg flere kontaktgrupper
+and_sms_line67 === Forkorter
+and_sms_line67_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_sms_line70 === Ikke forkort lenker
+and_sms_line79 === Gateway-modus
+and_sms_line79_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
+and_sms_line82 === Enheter
+and_sms_line83 === Studiepoeng
+and_sms_line88 === Sim-kortspor å bruke.
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === Dine forhåndslagde meldingsmaler.
+and_sms_line110 === Dine koblede enheter, velg hva du vil bruke for sending.
+and_sms_line121 === SMS-gateway
+and_sms_line121_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
+and_sms_line141 === Spinntaks
+and_sms_line144 === Eksempel:
+and_sms_line144_1 === Tom er en
+and_sms_line144_2 === katt
+and_sms_line147 === Verdiene
+and_sms_line147_1 === god
+and_sms_line147_2 === og
+and_sms_line147_3 === dårlig
+and_sms_line147_4 === vil bli brukt tilfeldig.
+and_subs_line17 === Brukerkonto.
+and_subs_line28 === Abonnementspakke.
+and_subs_line41 === Abonnementets varighet.
+and_subs_line43 === f.eks. 12
+and_temp_line17 === Malnavn.
+and_temp_line24 === Malformat.
+and_temp_line31 === Spinntaks
+and_temp_line31_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_temp_line35 === Eksempel:
+and_temp_line35_1 === Tom er en
+and_temp_line35_2 === katt
+and_temp_line38 === Verdiene
+and_temp_line38_1 === god
+and_temp_line38_2 === dårlig
+and_temp_line38_3 === vil bli brukt tilfeldig.
+and_temp_line43 === Sett med variabler som du kan bruke i meldingene dine.
+and_user_line17 === Fullt juridisk navn.
+and_user_line19 === f.eks. Michael Cors
+and_user_line24 === Gyldig e-postadresse.
+and_user_line26 === f.eks. bruker@mail.com
+and_user_line31 === Skriv inn brukerpassord.
+and_user_line38 === Tidssone for brukerplassering, endre denne hvis de er i et annet land. Tidssone brukes for dato og klokkeslett for de sendte meldingene og andre data.
+and_user_line49 === Land
+and_user_line49_1 === Brukerland, dette brukes til utbetalinger og formatering av telefonnummer.
+and_user_line60 === Varslingslyder
+and_user_line60_1 === Hvis deaktivert, vil varsler være stille.
+and_user_line70 === Velg brukerrolle.
+and_user_line81 === Velg brukerspråk.
+and_user_line92 === Partnerprogram
+and_user_line92_1 === Hvis aktivert, vil brukeren kunne bruke enhetene sine som globale enheter som vil tillate dem å tjene penger når andre brukere sender meldinger ved hjelp av enhetene deres.
+and_ussd_line17 === USSD-kode
+and_ussd_line17_1 === USSD-forespørselskode.
+and_ussd_line19 === f.eks. *121#
+and_ussd_line24 === Sim-kortspor å bruke.
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === Dine koblede enheter, velg hva du vil bruke for ussd-forespørsel.
+and_ussd_line47 === Be om
+and_vouch_line17 === Kupongnavn.
+and_vouch_line19 === f.eks. Spesiell
+and_vouch_line24 === Antallet kuponger du vil opprette. Maks verdi er 1000!
+and_vouch_line26 === f.eks. 100
+and_vouch_line31 === Abonnementets varighet.
+and_vouch_line33 === f.eks. 12
+and_vouch_line38 === Abonnementspakke.
+and_web_line17 === Webhook navn.
+and_web_line24 === Motta hendelser
+and_web_line24_1 === Velg mottaksbegivenhetene du trenger, de vil bli sendt til web-hook-url-en din via POST-metoden.
+and_web_line27 === tekstmelding
+and_web_line28 === Hva skjer
+and_web_line29 === USSD
+and_web_line30 === Varsler
+and_web_line36 === Din webhook-url, all nyttelastdata vil bli sendt hit via POST-metoden.
+and_web_line38 === f.eks. http://dittdomene.com/hook_listen.php
+and_whatssched_line17 === Navn på planlagt chat.
+and_whatssched_line19 === f.eks. Mitt budskap
+and_whatssched_line24 === Velg plandato.
+and_whatssched_line26 === f.eks. 22.06.2020 kl. 12.00
+and_whatssched_line31 === Hvis den er aktivert, vil chatten planlegges hver gang den planlagte datoen matches.
+and_whatssched_line42 === Flere E.164-numre atskilt med linjeskift.
+and_whatssched_line55 === Velg flere kontaktgrupper
+and_whatssched_line67 === Forkorter
+and_whatssched_line67_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_whatssched_line70 === Ikke forkort lenker
+and_whatssched_line79 === Regnskap
+and_whatssched_line79_1 === Velg WhatsApp-kontoen du vil bruke.
+and_whatsached_line88 === Dine forhåndslagde meldingsmaler.
+and_whatssched_line103 === Spinntaks
+and_whatssched_line103_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_whatssched_line107 === Eksempel:
+and_whatssched_line101_1 === Tom er en
+and_whatssched_line107_2 === katt
+and_whatssched_line110 === Verdiene
+and_whatssched_line110_1 === god
+and_whatssched_line110_2 === og
+and_whatssched_line110_3 === dårlig
+and_whatssched_line110_4 === vil bli brukt tilfeldig.
+and_whatssched_line115 === Sett med variabler som du kan bruke i meldingene dine.
+and_whatssched_line128 === Sende inn
+and_whatsapp_line15 === Koble til WhatsApp ved å klikke på knappen for å vise QR-koden, og skann den deretter via
+and_whatsapp_line15_1 === Koble til en enhet
+and_whatsapp_line15_2 === knappen i appen. Du har bare 60 sekunder på deg til å skanne QR-koden.
+and_whatsapp_line16 === Koble til konto
+and_add_widget_line17 === Widgetnavn.
+and_add_widget_line24 === Widget-ikon, kun for modaler. Vennligst besøk line awesome for ikonreferanse.
+and_add_widget_line26 === f.eks. la la-info-sirkelen
+and_add_widget_line31 === Widget-type. Blokker er for plassering til forskjellige deler av malene, modaler er for dynamisk innhold. Siden v3 vil modaler kun fungere i dashbordet.
+and_add_widget_line34 === Blokkere
+and_add_widget_line35 === Modal
+and_add_widget_line41 === Widget-størrelse, kun for modaler.
+and_add_widget_line53 === Widgetposisjon, kun for modaler.
+and_add_widget_line64 === Widget-innhold. Alle html-tagger er tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
+and_add_widget_line66 === Hei Verden!
+and_admin_build_line16 === applikasjon
+and_admin_build_line21 === App-pakkenavn, det skal være unikt og følge et domene-lignende format som com.yourdomain.yourapp, vi anbefaler å følge domenenavnet ditt for å gjøre det unikt.
+and_admin_build_line23 === f.eks. com.gateway.sample
+and_admin_build_line28 === Appnavn, dette vises i appskuffen og andre deler av appen.
+and_admin_build_line30 === f.eks. Zender Gateway
+and_admin_build_line35 === Appbeskrivelse, en kort beskrivelse av appen din.
+and_admin_build_line42 === App fargetema
+and_admin_build_line42_1 === Appens fargetema, det anbefales å matche dette med applogoen og splash-bildefargene.
+and_admin_build_line44 === f.eks. #000000
+and_admin_build_line49 === APK-versjon
+and_admin_build_line_49_1 === APK-versjon, hvis du bygger om appen din, må du også oppdatere dette feltet ved å øke verdien. Hvis gjeldende verdi er 1, bør du øke den til 2 før du bygger appen. Dette er nødvendig for å utløse oppdateringsfunksjonen i appen og vil tvinge brukeren til å oppdatere.
+and_admin_build_line51 === f.eks. 1.0
+and_admin_build_line56 === Bygg e-post
+and_admin_build_line_56_1 === Din gyldige e-post, sørg for å endre denne. Resultatet av bygget vil bli sendt til denne e-posten!
+and_admin_build_line58 === f.eks. myvalidemail@mail.com
+and_admin_build_line62 === Legitimasjon
+and_admin_build_line67 === Google-tjenester
+and_admin_build_line67_1 === Google Services json-filen din, denne er nødvendig for FCM-transaksjoner i gateway-appen.
+and_admin_build_line75 === Firebase-legitimasjon
+and_admin_build_line75_1 === Firebase-administratorlegitimasjonen json-fil, dette er nødvendig for å la systemet kommunisere med appen.
+and_admin_build_line82 === Eiendeler
+and_admin_build_line87 === Appbildelogo, dette er bildet som vises i appoverskriften. Anbefalte dimensjoner er 251 x 53 px. En transaprent-bakgrunn er bedre.
+and_admin_build_line95 === App-påloggingslogo
+and_admin_build_line95_1 === App-påloggingsbildelogo, dette er bildet som vises i påloggingsmodalen. Anbefalte dimensjoner er 250x100 i px og mørk skrift. En transaprent-bakgrunn er bedre.
+and_admin_build_line103 === Appbildeikon, dette vises i appskuffen og Android-systemet. Anbefalte dimensjoner er 1024 x 1024 i px- og png-format.
+and_admin_build_line111 === App-splashscreen-bilde, dette vises når brukeren åpner appen. Anbefalte dimensjoner er 2732 x 2732 i px- og png-format.
+and_admin_build_line118 === Struktur
+and_admin_build_line123 === Egendefinert JavaScript
+and_admin_build_line123_1 === Hvis du vil bruke en tilpasset JavaScript-kode, vennligst legg den til her. Dette lastes dynamisk i appen.
+and_admin_build_line125 === f.eks., alert('Hei verden!');
+and_admin_build_line130 === Tilpasset CSS
+and_admin_build_line130_1 === Hvis du vil bruke en tilpasset css-kode, legg den til her. Dette lastes dynamisk i appen.
+and_admin_build_line137 === Egendefinert layout
+and_admin_build_line137_1 === Hvis du vil bruke en tilpasset appstruktur, vennligst endre html-innholdet, hvis du ikke vet hva du gjør, vennligst la standardverdien stå.
+and_admin_build_line139 === Hei Verden!
+and_settings_line21 === Nettstednavn, dette vises overalt der merkevarebygging er nødvendig.
+and_settings_line23 === f.eks. Zender
+and_settings_line28 === Områdebeskrivelse, dette er for søkemotoroptimalisering, så vær kreativ.
+and_settings_line30 === f.eks. Dette er en fantastisk sms-gateway-tjeneste
+and_settings_line35 === Din envato-kjøpskode, denne er nødvendig for å låse opp noen av de eksklusive funksjonene til skriptet.
+and_settings_line37 === f.eks. e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === Din google analytics-nøkkel, dette er valgfritt fordi systemet allerede har innebygd besøksstatistikk.
+and_settings_line44 === f.eks. UA-179148389-1
+and_settings_line49 === Nettstedets protokoll, sørg for at du har valgt den riktige. Hvis nettstedet ditt bruker https, vennligst velg det, ellers velger du http.
+and_settings_line59 === Standard systemspråk, dette brukes når en ny bruker besøker nettstedet ditt.
+and_settings_line70 === Hvis deaktivert, vil ikke registreringer via registreringssiden tillates.
+and_settings_line80 === Pakketilbakestillingsmodus
+and_settings_line80_1 === Tilbakestillingsintervallet for grenser som send, motta, ussd og varsler. Dette gjelder både for Android- og WhatsApp-funksjoner. Ditt valg her må også brukes i cron-oppsettet.
+and_settings_line83 === Daglig
+and_settings_line84 === Månedlig
+and_settings_line90 === Gratis modell
+and_settings_line90_1 === Hvis aktivert, blir standard gratispakken automatisk tildelt brukeren etter registrering.
+and_settings_line100 === Hvis den er deaktivert, vil ikke hjemmesiden bli brukt. Alle besøk i rotkatalogen vil bli omdirigert til dashbordet.
+and_settings_line110 === TAWK Chat-widget
+and_settings_line110_1 === Hvis aktivert, vil tawk chat-widget vises for brukerne.
+and_settings_line120 === Din tawk chat-widget-lenke, dette er nødvendig hvis du vil bruke tawk chat-støtte.
+and_settings_line127 === Admin API
+and_settings_line127_1 === Velg admin API-endepunktene du vil aktivere. Det anbefales at du bare aktiverer endepunkter du trenger.
+and_settings_line159 === Dette tokenet må ikke deles med noen. Dette brukes til sikkerhet for cronjobs, system-API og andre eksterne forespørsler. Hvis du tror at systemtokenet ditt ble kompromittert, vennligst generer et nytt. Du må rekonfigurere cronjobs, system-API og andre relaterte innstillinger etter å ha generert et nytt token.
+and_settings_line160 === Regenerer
+and_settings_line173 === Hvis du vil bruke den innebygde e-postserveren, velg native, ellers velg smtp og konfigurer e-postlegitimasjonen din.
+and_settings_line183 === Smtp-protokollen som skal brukes, velg den støttede protokollen til den eksterne e-postserveren.
+and_settings_line193 === Nettstedets e-post, dette er e-postnavnet som vises til mottakerne, det anbefales å bruke noreply@yoursite.com for merkevareformål.
+and_settings_line195 === f.eks. noreply@domain.com
+and_settings_line200 === Den eksterne smtp-serverens vertsadresse.
+and_settings_line205 === f.eks. smtp.gmail.com
+and_settings_line210 === Din eksterne smtp-serverport.
+and_settings_line215 === f.eks. 587
+and_settings_line220 === Ditt eksterne smtp-serverbrukernavn.
+and_settings_line225 === f.eks. brukernavn@gmail.com
+and_settings_line230 === Ditt eksterne smtp-serverpassord.
+and_settings_line235 === Passordet for Gmail-kontoen din
+and_settings_line244 === Din PayPal-bedrifts-e-post.
+and_settings_line246 === f.eks. mail@domene.com
+and_settings_line251 === Hvis aktivert, vil alle PayPal-transaksjoner bli omdirigert til sandkassemodus.
+and_settings_line261 === Mollie API-nøkkelen din.
+and_settings_line263 === f.eks. test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === Systemvalutaen som skal brukes, denne vil bli brukt som basis ved konvertering av transaksjoner til USD.
+and_settings_line279 === Velg betalingsleverandørene du vil bruke.
+and_settings_line293 === Minimum tegn for meldinger. Dette gjelder både SMS og WhatsApp.
+and_settings_line295 === f.eks. 5
+and_settings_line300 === Maksimalt antall tegn for meldinger. Dette gjelder både SMS og WhatsApp. Skriv inn 0 for uendelige tegn.
+and_settings_line302 === f.eks. 300
+and_settings_line307 === Meldingsbunntekstmerke, dette legges til meldinger hvis pakken deres har bunntekstmerke aktivert.
+and_settings_line309 === f.eks. Sendt fra Zender System
+and_settings_line318 === Standard antall rader som skal vises i tabellen for sendte meldinger. Dette gjelder både SMS og WhatsApp.
+and_settings_line320 === f.eks. 10
+and_settings_line325 === Standard antall rader som skal vises i tabellen for mottatte meldinger. Dette gjelder både SMS og WhatsApp.
+and_settings_line327 === f.eks. 10
+and_settings_line336 === Hvis aktivert, vil besøkende kunne logge på ved hjelp av sine sosiale mediekontoer.
+and_settings_line346 === Velg leverandørene av sosiale medier du vil bruke.
+and_settings_line349 === Facebook
+and_settings_line350 === Google
+and_settings_line351 === VKontakte
+and_settings_line357 === Facebook ID
+and_settings_line357_1 === Facebook-appens ID, les dokumentasjonen for mer informasjon.
+and_settings_line359 === f.eks. 738812983731558
+and_settings_line364 === Facebook-hemmelighet
+and_settings_line364_1 === Facebook-appens hemmelighet, les dokumentasjonen for mer informasjon.
+and_settings_line366 === f.eks. 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === Google ID
+and_settings_line371_1 === Google app-ID-en, les dokumentasjonen for mer informasjon.
+and_settings_line373 === f.eks. 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === Google Secret
+and_settings_line378_1 === Google app-hemmeligheten. Les dokumentasjonen for mer informasjon.
+and_settings_line380 === f.eks. O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK ID
+and_settings_line385_1 === vkontakte app-ID, les dokumentasjonen for mer informasjon.
+and_settings_line387 === f.eks. 7768236
+and_settings_line392 === VK Secret
+and_settings_line392_1 === Hemmeligheten til vkontakte-appen, les dokumentasjonen for mer informasjon.
+and_settings_line394 === f.eks. pOScEXENvjuTXPQ6MAjI
+and_settings_line403 === Hvis aktivert, vil recaptcha også vises på påloggingssiden. Sørg for at du har konfigurert recaptcha-nøkkelen og recaptcha-hemmeligheten din før du aktiverer denne funksjonen, ellers vil du ikke kunne logge på!
+and_settings_line413 === Recaptcha-nøkkelen, les dokumentasjonen for mer informasjon.
+and_settings_line415 === f.eks. 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === Recaptcha-hemmeligheten, les dokumentasjonen for mer informasjon.
+and_settings_line422 === f.eks. 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === Logo lys
+and_theme_line17_1 === Lett logobilde, dette vises på hjemmeside og autentiseringssider når bakgrunnselementet er mørkt. Anbefalt størrelse er 250x50 i px.
+and_theme_line23 === Mørk logo
+and_theme_line223_1 === Mørkt logobilde, dette vises på hjemmeside og autentiseringssider når bakgrunnselementet er lyst. Anbefalt størrelse er 250x50 i px.
+and_theme_line29 === Nettstedfaviconbilde, dette vises i nettleserfanen. Anbefalt størrelse er 50x50 i px.
+and_theme_line35 === Bakgrunnsbilde
+and_theme_line35_1 === Sidens bakgrunnsbilde, dette vises overalt. Det anbefales å bruke et bilde med høy oppløsning.
+and_theme_line41 === Velg fargetemaet du vil bruke for nettstedet.
+and_theme_line46 === Velg uthevingsfargen for tekstene.
+and_theme_line51 === Spinner farge
+and_theme_line51_1 === Velg fargen du vil bruke for den øverste ajax-spinneren.
+and_theme_line58 === Egendefinert JavaScript
+and_theme_line58_1 === Hvis du vil bruke en tilpasset JavaScript-kode, vennligst legg den til her. Dette lastes inn dynamisk på hver side.
+and_theme_line60 === Hei Verden!
+and_theme_line63 === Tilpasset CSS
+and_theme_line63_1 === Hvis du vil endre noen css-stiler, kan du gjøre det her.
+and_apikey_line17 === Nøkkelnavn.
+and_apikey_line19 === f.eks. For Min server
+and_apikey_line24 === Nøkkeltillatelser.
+and_edit_auto_line17 === Handlingsnavn.
+and_edit_auto_line19 === f.eks. Autosvar
+and_edit_auto_line24 === Kilde
+and_edit_auto_line24_1 === Kilde for mottakshendelse.
+and_edit_auto_line34 === Svar søkeord atskilt med komma. Disse nøkkelordene vil utløse autoresponsen hvis de oppdages i meldingsinnholdet.
+and_edit_auto_line36 === f.eks. takk, ok, abonner, ja
+and_edit_auto_line41 === Meldingen som skal sendes til avsenderen.
+and_edit_auto_line43 === f.eks. Svarmeldingen din her, kortkoder godtas
+and_edit_auto_line48 === Sett med variabler som du kan bruke i meldingen.
+and_edit_con_line17 === Kontakt navn.
+and_edit_con_line19 === f.eks. Michael
+and_edit_con_line24 === Kontakt nummer.
+and_edit_con_line31 === Kontaktgruppe.
+and_edit_dev_line16 === Enhetsdetaljer
+and_edit_dev_line21 === Enhetsnavn.
+and_edit_dev_line23 === f.eks. Min enhet
+and_edit_dev_line28 === Hvis aktivert, vil meldinger bli sendt i tilfeldige intervaller mellom 2 verdier. Du kan konfigurere dem nedenfor.
+and_edit_dev_line38 === Minimumsintervallet i sekunder.
+and_edit_dev_line41 === f.eks. 5
+and_edit_dev_line46 === Maksimalt intervall i sekunder.
+and_edit_dev_line49 === f.eks. 20
+and_edit_dev_line53 === Varslingsinnstillinger
+and_edit_dev_line58 === applikasjoner
+and_edit_dev_line58_1 === Skriv inn pakkenavnene til appene du vil motta varsler fra. Skill dem med linjeskift.
+and_edit_dev_line65 === Partnerinnstillinger
+and_edit_dev_line70 === Vurdere
+and_edit_dev_line70_1 === Beløpet du vil belaste per melding, enhetsland vil bli brukt som valutabasis. Den flytende verdier støttes som cents.
+and_edit_dev_line73 === f.eks. 0,50
+and_edit_dev_line78 === Global status
+and_edit_dev_line78_1 === Hvis den er deaktivert, vil ikke enheten være tilgjengelig som global sms-gateway, og du vil ikke tjene penger. Vær oppmerksom på at globale enheter ikke kan motta meldinger av sikkerhetsgrunner.
+and_edit_dev_line89 === Land
+and_edit_dev_line89_1 === Landet til enheten, det brukes til å bestemme telefonnumrene og som basisvaluta for prisfeltet.
+and_edit_dev_line101 === Prioritet
+and_edit_dev_line101_1 === Globale meldinger sendes først før dine egne meldinger.
+and_edit_dev_line112 === SIM-spor
+and_edit_dev_line112_1 === Velg sim-sporene du vil bruke for å sende, hvis du velger begge, vil meldinger bli sendt i tilfeldig spor.
+and_edit_email_line16 === E-postmal
+and_edit_email_line18 === HTML tillatt
+and_edit_gate_line17 === Navn
+and_edit_gate_line17_1 === Dette er gatewaynavnet som vises til brukerne dine.
+and_edit_gate_line19 === f.eks. Twilio
+and_edit_gate_line24 === Kontroller
+and_edit_gate_line24_1 === Velg gateway-kontrollerfilen, denne vil inneholde din gateway-logikk og kode. Det anbefales å sjekke dokumentasjonen.
+and_edit_gate_line31 === Ring tilbake
+and_edit_gate_line31_1 === Hvis aktivert, må meldinger verifiseres ved å bruke tilbakeringingsfunksjonen til 3. parts gateway for sendestatus, ellers vil meldinger umiddelbart merkes som sendt ved sending.
+and_edit_gate_line34 === Muliggjøre
+and_edit_gate_line35 === Deaktiver
+and_edit_gate_line41 === Tilbakeringings-ID
+and_edit_gate_line41_1 === Hvis tilbakeringing er aktivert, må du kopiere denne ID-en og lime den inn på kontrolleren slik at systemet kan identifisere tilbakeringingene.
+and_edit_gate_line44 === Kopier og lim inn for tilbakeringings-ID
+and_edit_gate_line51 === Prissetting
+and_edit_gate_line51_1 === Din egendefinerte pristabell for denne gatewayen. Dette vil tillate deg å lade på toppen av tredjepartsprisene. For eksempel, hvis twilio belaster 0,01 for et spesifisert land, kan du belaste 0,02 i stedet, valuta er basert på systemvalutaen din. Vennligst følg prisformatet riktig.
+and_edit_gate_line54 === Eksempel på JSON-priser:
+and_edit_gate_line54_1 === nedlasting
+and_edit_grp_line17 === Gruppenavn.
+and_edit_grp_line19 === f.eks. Venner
+and_edit_hook_line17 === Handlingsnavn.
+and_edit_hook_line19 === f.eks. Testhandling
+and_edit_hook_line24 === Kilde
+and_edit_hook_line24_1 === Kilde til hendelsen.
+and_edit_hook_line27 === tekstmelding
+and_edit_hook_line28 === Hva skjer
+and_edit_hook_line34 === Velg hendelsen der denne kroken skal påkalles.
+and_edit_hook_line37 === På Send
+and_edit_hook_line38 === Ved mottak
+and_edit_hook_line44 === Hook link struktur, dette er nettadressen som vil bli påkalt av systemet. Bare GET-metoden støttes.
+and_edit_hook_line51 === Sett med variabler som du kan bruke i din hook-URL.
+and_edit_lang_line17 === f.eks. koreansk
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === Ja
+and_edit_lang_line33 === Nei
+and_edit_pack_line17 === Pakkenavn.
+and_edit_pack_line19 === f.eks. VIP-pakke
+and_edit_pack_line24 === Pakkepris, denne skal følge systemvalutaen. Flytende verdier er ikke tillatt.
+and_edit_pack_line29 === f.eks. 25
+and_edit_pack_line34 === Hvis aktivert, vil meldinger og whatsapp-chatter inneholde bunntekstmerke når de mottas av mottakere.
+and_edit_pack_line44 === Hvis aktivert, vil pakken skjules fra pakkens modal og hjemmeside.
+and_edit_pack_line53 === Android-innstillinger
+and_edit_pack_line58 === Send grense for SMS
+and_edit_pack_line58_1 === Maksimalt antall meldinger som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line60 === f.eks. 300
+and_edit_pack_line65 === SMS-mottaksgrense
+and_edit_pack_line65_1 === Maksimalt antall meldinger som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line67 === f.eks. 150
+and_edit_pack_line72 === USSD-grense
+and_edit_pack_line72_1 === Maksimalt antall ussd som kan forespørres av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line74 === f.eks. 25
+and_edit_pack_line79 === Varslingsgrense
+and_edit_pack_line79_1 === Maksimalt antall varsler som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line81 === f.eks. 1300
+and_edit_pack_line86 === Maksimalt antall Android-enheter som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
+and_edit_pack_line88 === f.eks. 25
+and_edit_pack_line92 === WhatsApp-innstillinger
+and_edit_pack_line97 === Maksimalt antall chatter som kan sendes av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line99 === f.eks. 300
+and_edit_pack_line104 === Maksimalt antall chatter som kan mottas av brukeren før tilbakestillingen. Skriv inn 0 for ubegrenset.
+and_edit_pack_line106 === f.eks. 150
+and_edit_pack_line111 === Kontogrense
+and_edit_pack_line111_1 === Maksimalt antall WhatsApp-kontoer som kan kobles til brukerens konto. Skriv inn 0 for ubegrenset.
+and_edit_pack_line113 === f.eks. 10
+and_edit_pack_line117 === Utilitetsinnstillinger
+and_edit_pack_line122 === Maksimalt antall kontakter som kan lagres av brukeren. Skriv inn 0 for ubegrenset.
+and_edit_pack_line124 === f.eks. 25
+and_edit_pack_line129 === Planlagt grense
+and_edit_pack_line129_1 === Maksimalt antall planlagte meldinger/chatter som kan lagres av brukeren. Skriv inn 0 for ubegrenset. Dette er kombinert for både sms og whatsapp.
+and_edit_pack_line131 === f.eks. 25
+and_edit_pack_line136 === Maksimalt antall API-nøkler som kan opprettes. Skriv inn 0 for ubegrenset.
+and_edit_pack_line138 === f.eks. 10
+and_edit_pack_line143 === Maksimalt antall Webhooks som kan opprettes. Skriv inn 0 for ubegrenset.
+and_edit_pack_line145 === f.eks. 5
+and_edit_pack_line150 === Handlingsgrense
+and_edit_pack_line150_1 === Maksimalt antall handlinger som kan opprettes. Skriv inn 0 for ubegrenset.
+and_edit_pack_line152 === f.eks. 5
+and_edit_page_line17 === Sidenavn.
+and_edit_page_line24 === Bare utvalgte roller vil få tilgang til denne siden.
+and_edit_page_line35 === Hvis aktivert, vil siden ikke være tilgjengelig hvis du ikke er logget på.
+and_edit_page_line45 === Sideinnhold. Alle html-tagger tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
+and_edit_role_line17 === Rollenavn.
+and_edit_role_line19 === f.eks. Utvikler
+and_edit_role_line24 === Velg tillatelser og funksjoner du vil deaktivere/aktivere for denne rollen. Endringer brukes i sanntid, nettleserfaner til tilkoblede brukere med rollen lastes automatisk inn på nytt.
+and_edit_short_line17 === Navn
+and_edit_short_line17_1 === Navn på forkorter.
+and_edit_short_line19 === f.eks. Litt
+and_edit_short_line24 === Kontroller
+and_edit_short_line24_1 === Velg shortener-kontrollerfilen, denne vil inneholde shortener-logikken og koden. Det anbefales å sjekke dokumentasjonen.
+and_edit_sms_line17 === Navn på planlagt melding.
+and_edit_sms_line19 === f.eks. Mitt budskap
+and_edit_sms_line24 === Velg plandato.
+and_edit_sms_line26 === f.eks. 22.06.2020 kl. 12.00
+and_edit_sms_line31 === Hvis den er aktivert, vil meldingen planlegges hver gang den planlagte datoen matches.
+and_edit_sms_line42 === Flere E.164-numre atskilt med linjeskift.
+and_edit_sms_line55 === Velg flere kontaktgrupper
+and_edit_sms_line67 === Gateway-modus
+and_edit_sms_line67_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
+and_edit_sms_line70 === Enheter
+and_edit_sms_line71 === Studiepoeng
+and_edit_sms_line76 === Sim-kortspor å bruke.
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === Dine koblede enheter, velg hva du vil bruke for sending.
+and_edit_sms_line99 === SMS-gateway
+and_edit_sms_line99_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
+and_edit_sms_line119 === Spinntaks
+and_edit_sms_line122 === Eksempel:
+and_edit_sms_line122_1 === Tom er en
+and_edit_sms_line122_2 === katt
+and_edit_sms_line125 === Verdiene
+and_edit_sms_line125_1 === god
+and_edit_sms_line125_2 === og
+and_edit_sms_line125_3 === dårlig
+and_edit_sms_line125_4 === vil bli brukt tilfeldig.
+and_edit_temp_line17 === Malnavn.
+and_edit_temp_line24 === Malformat.
+and_edit_temp_line31 === Spinntaks
+and_edit_temp_line31_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_edit_temp_line35 === Eksempel:
+and_edit_temp_line35_1 === Tom er en
+and_edit_temp_line35_2 === katt
+and_edit_temp_line38 === Verdiene
+and_edit_temp_line38_1 === god
+and_edit_temp_line38_2 === og
+and_edit_temp_line38_3 === dårlig
+and_edit_temp_line38_4 === vil bli brukt tilfeldig.
+and_edit_temp_line43 === Sett med variabler som du kan bruke i meldingene dine.
+and_eduse_line17 === Det fulle juridiske navnet ditt, vær oppmerksom på at bruk av et falskt navn kan få kontoen din suspendert.
+and_eduse_line19 === f.eks. Michael Cors
+and_eduse_line24 === Gyldig e-postadresse, ignorer dette feltet hvis du vil beholde gjeldende e-postadresse.
+and_eduse_line26 === f.eks. bruker@mail.com
+and_eduse_line31 === Hvis du vil beholde gjeldende passord, vennligst ignorer dette feltet, ellers skriv inn nytt passord.
+and_eduse_line38 === Tidssonen din for plassering, endre denne hvis du er i et annet land. Tidssone brukes for dato og klokkeslett for de sendte meldingene og andre data.
+and_eduse_line49 === Land
+and_eduse_line49_1 === Ditt land, dette brukes til utbetalinger og formatering av telefonnummer.
+and_eduse_line60 === Varslingslyder
+and_eduse_line60_1 === Hvis deaktivert, vil varsler være stille.
+and_eduse_line70 === Velg brukerrolle.
+and_eduse_line81 === Velg brukerspråk.
+and_eduse_line92 === Partnerprogram
+and_eduse_line92_1 === Hvis aktivert, vil brukeren kunne bruke enhetene sine som globale enheter som vil tillate dem å tjene penger når andre brukere sender meldinger ved hjelp av enhetene deres.
+and_edweb_line17 === Webhook navn.
+and_edweb_line24 === Motta hendelser
+and_edweb_line24_1 === Velg mottaksbegivenhetene du trenger, de vil bli sendt til web-hook-url-en din via POST-metoden.
+and_edweb_line30 === Varsler
+and_edweb_line36 === Din webhook-url, all nyttelastdata vil bli sendt hit via POST-metoden.
+and_edweb_line38 === f.eks. https://dittdomene.com/reply.php
+and_edwhat_line17 === Navn på planlagt chat.
+and_edwhat_line19 === f.eks. Mitt budskap
+and_edwhat_line24 === Velg plandato.
+and_edwhat_line26 === f.eks. 22.06.2020 kl. 12.00
+and_edwhat_line31 === Hvis den er aktivert, vil chatten planlegges hver gang den planlagte datoen matches.
+and_edwhat_line42 === Flere E.164-numre atskilt med linjeskift.
+and_edwhat_line55 === Velg flere kontaktgrupper
+and_edwhat_line67 === Regnskap
+and_edwhat_line67_1 === Velg WhatsApp-kontoen du vil bruke.
+and_edwhat_line76 === Dine forhåndslagde meldingsmaler.
+and_edwhat_line91 === Spinntaks
+and_edwhat_line91_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_edwhat_line95 === Eksempel:
+and_edwhat_line95_1 === Tom er en
+and_edwhat_line95_2 === katt
+and_edwhat_line98 === Verdiene
+and_edwhat_line98_1 === god
+and_edwhat_line98_2 === og
+and_edwhat_line98_3 === dårlig
+and_edwhat_line98_4 === vil bli brukt tilfeldig.
+and_edwhat_line103 === Sett med variabler som du kan bruke i meldingene dine.
+and_edwhat_line116 === Sende inn
+and_edwid_line17 === Widgetnavn.
+and_edwid_line24 === Widget-ikon, kun for modaler. Vennligst besøk line awesome for ikonreferanse.
+and_edwid_line31 === Widget-type. Blokker er for plassering til forskjellige deler av malene, modaler er for dynamisk innhold. Siden v3 vil modaler kun fungere i dashbordet.
+and_edwid_line34 === Blokkere
+and_edwid_line35 === Modal
+and_edwid_line41 === Widget-størrelse, kun for modaler.
+and_edwid_line53 === Widgetposisjon, kun for modaler.
+and_edwid_line64 === Widget-innhold. Alle html-tagger er tillatt, vær forsiktig når du legger til skript fra ukjente kilder!
+and_import_line17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
+and_import_line20 === Eksempelfil:
+and_import_line20_1 === nedlasting
+and_package_line36 === SMS motta
+and_package_line41 === WhatsApp Send
+and_package_line46 === WhatsApp Motta
+and_package_line51 === USSD
+and_package_line56 === Varsler
+and_package_line61 === Planlagte SMS/chatter
+and_package_line66 === Kontakter
+and_package_line71 === API-nøkler
+and_package_line76 === Webhooks
+and_package_line81 === Handlinger
+and_package_line86 === Android-enheter
+and_package_line91 === WhatsApp-kontoer
+and_redeem_line18 === Innløse kode.
+and_redeem_line20 === f.eks. 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === Flere E.164-numre atskilt med linjeskift. Kun 1 melding vil bli sendt til et nummer selv om du valgte grupper der den ble lagt til.
+and_sms_bulk_31 === Velg flere kontaktgrupper. Bare 1 melding vil bli sendt til en kontakt selv om du valgte flere grupper der den ble lagt til.
+and_sms_bulk_43 === Forkorter
+and_sms_bulk_43_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_sms_bulk_46 === Ikke forkort lenker
+and_sms_bulk_55 === Gateway-modus
+and_sms_bulk_55_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
+and_sms_bulk_58 === Enheter
+and_sms_bulk_59 === Studiepoeng
+and_sms_bulk_64 === Sim-kortspor å bruke.
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === Hvis aktivert, vil disse meldingene bli sendt før noe annet.
+and_sms_bulk_81 === Dine forhåndslagde meldingsmaler.
+and_sms_bulk_94 === Dine koblede enheter, velg hva du vil bruke for sending.
+and_sms_bulk_105 === SMS-gateway
+and_sms_bulk_105_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem
+and_sms_bulk_126 === Oversett meldingen.
+and_sms_bulk_131 === Spinntaks
+and_sms_bulk_131_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_sms_bulk_135 === Eksempel:
+and_sms_bulk_143 === Sett med variabler som du kan bruke i meldingene dine.
+and_sms_exe17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
+and_sms_exe20 === Eksempelfil:
+and_sms_exe20_1 === nedlasting
+and_sms_exe27 === Forkorter
+and_sms_exe27_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_sms_exe30 === Ikke forkort lenker
+and_sms_exe39 === Gateway-modus
+and_sms_exe39_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
+and_sms_exe42 === Enheter
+and_sms_exe43 === Studiepoeng
+and_sms_exe47 === Dine forhåndslagde meldingsmaler.
+and_sms_exe60 === Dine koblede enheter, velg hva du vil bruke for sending.
+and_sms_exe70 === SMS-gateway
+and_sms_exe70_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
+and_sms_exe92 === Oversett meldingen.
+and_sms_exe97 === Spinntaks
+and_sms_exe97_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_sms_exe109 === Sett med variabler som du kan bruke i meldingene dine.
+and_sms_quick17 === Mottakers telefonnummer.
+and_sms_quick24 === Gateway-modus
+and_sms_quick24_1 === Gateway-modusen du vil bruke. Hvis du velger enheter, vil de tilknyttede enhetene dine vises for sending, ellers vil tredjeparts- og partnergatewayer vises.
+and_sms_quick27 === Enheter
+and_sms_quick28 === Studiepoeng
+and_sms_quick34 === Forkorter
+and_sms_quick34_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_sms_quick37 === Ikke forkort lenker
+and_sms_quick46 === Sim-kortspor å bruke.
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === Hvis aktivert, vil disse meldingene bli sendt før noe annet.
+and_sms_quick66 === Dine koblede enheter, velg hva du vil bruke for sending.
+and_sms_quick77 === SMS-gateway
+and_sms_quick77_1 === Tredjeparts- og partnergatewayer, kredittene dine vil bli brukt når du sender meldinger ved hjelp av disse gatewayene. Vi anbefaler at du sjekker gateway-prisene før du bruker dem.
+and_sms_quick104 === Spinntaks
+and_sms_quick104_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_sysup17 === Oppdater fil
+and_sysup17_1 === Oppdater zip-filen, sørg for å velge riktig fil.
+and_upplug17 === Oppdater fil
+and_upplug17_1 === Oppdater zip-filen, sørg for å velge riktig fil.
+and_uset17 === Ditt profilavatarbilde.
+and_uset24 === Det fulle juridiske navnet ditt, vær oppmerksom på at bruk av et falskt navn kan få kontoen din suspendert.
+and_uset26 === f.eks. Michael Shmuck
+and_uset31 === Din gyldige e-postadresse, ignorer dette feltet hvis du vil beholde din nåværende e-postadresse.
+and_uset33 === f.eks. yourmail@mail.com
+and_uset38 === Tidssonen din for plassering, endre denne hvis du er i et annet land. Tidssone brukes for dato og klokkeslett for de sendte meldingene og andre data.
+and_uset49 === Land
+and_uset49_1 === Ditt land, dette brukes til utbetalinger og formatering av telefonnummer.
+and_uset60 === Varslingslyder
+and_uset60_1 === Hvis deaktivert, vil varsler være stille.
+and_uset70 === Hvis du vil beholde ditt nåværende passord, vennligst ignorer dette feltet, ellers skriv inn ditt nye passord.
+and_usub23 === Gyldig til
+and_usub28 === Send SMS
+and_usub34 === SMS motta
+and_usub40 === WhatsApp Send
+and_usub46 === WhatsApp Motta
+and_usub57 === USSD
+and_usub63 === Varsler
+and_usub69 === Planlagte SMS/chatter
+and_usub98 === Handlinger
+and_usub104 === Android-enheter
+and_usub110 === WhatsApp-kontoer
+and_view20 === Full utsikt
+and_whatsbulk_18 === Flere E.164-numre atskilt med linjeskift.
+and_whatsbulk_31 === Velg flere kontaktgrupper. Vær oppmerksom på at hvis en kontakt har flere grupper, kan meldingen sendes flere ganger til den hvis du velger gruppene der den ble inkludert.
+and_whatsbulk_43 === Forkorter
+and_whatsbulk_43_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_whatsbulk_46 === Ikke forkort lenker
+and_whatsbulk_55 === Regnskap
+and_whatsbulk_55_1 === Velg WhatsApp-kontoen du vil bruke.
+and_whatsbulk_64 === Dine forhåndslagde meldingsmaler.
+and_whatsbulk_79 === Oversett meldingen.
+and_whatsbulk_84 === Spinntaks
+and_whatsbulk_84_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_whatsbulk_96 === Sett med variabler som du kan bruke i meldingene dine.
+and_whatex17 === Excel-filen du vil importere, sørg for å følge det nødvendige formatet.
+and_whatex20 === Eksempelfil:
+and_whatex20_1 === nedlasting
+and_whatex27 === Forkorter
+and_whatex27_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_whatex30 === Ikke forkort lenker
+and_whatex39 === Regnskap
+and_whatex39_1 === Velg WhatsApp-kontoen du vil bruke.
+and_whatex48 === Dine forhåndslagde meldingsmaler.
+and_whatex63 === Oversett meldingen.
+and_whatex68 === Spinntaks
+and_whatex68_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_whatex80 === Sett med variabler som du kan bruke i meldingene dine.
+and_whatquick_17 === E.164 mottakers telefonnummer.
+and_whatquick_24 === Forkorter
+and_whatquick_24_1 === Hvis aktivert, vil koblingene i meldinger automatisk forkortes med den valgte forkorteren.
+and_whatquick_27 === Ikke forkort lenker
+and_whatquick_36 === Regnskap
+and_whatquick_36_1 === Velg WhatsApp-kontoen du vil bruke.
+and_whatquick_50 === Oversett meldingen.
+and_whatquick_55 === Spinntaks
+and_whatquick_55_1 === En funksjon som lar deg randomisere ord i meldingene dine som effektivt forhindrer spamming.
+and_admin_api_3 === Administrasjons-API
+and_admin_fileman_3 === Malredigering
+and_admin_gate_3 === SMS-gatewayer
+and_admin_gate_8 === Legg til gateway
+and_admin_lang_6 === Bestill språk på nytt
+and_admin_mark_3 === Markedsføring
+and_admin_mark_6 === Slett valgte elementer
+and_admin_mark_12 === Trykk
+and_admin_mark_17 === Gi beskjed
+and_admin_mark_22 === Mailer
+and_admin_payout_3 === Utbetalingsforespørsler
+and_admin_short_3 === Shorteners
+and_admin_short_8 === Legg til Shortener
+and_admin_subs_8 === Legg til abonnement
+and_admin_vouch_6 === Slett valgte elementer
+and_droid_dev_3 === Android-enheter
+and_droid_dev_6 === Les dokumentasjon
+and_droid_dev_8 === Dokumenter
+and_droid_dev_11 === Søk om å bli en partnergatewayleverandør
+and_droid_dev_13 === Samarbeid
+and_droid_dev_16 === Registrer en ny Android-enhet
+and_droid_not_3 === Varsler
+and_droid_not_6 === Slett valgte elementer
+and_droid_rev_3 === Mottatt SMS
+and_droid_rev_6 === Slett valgte meldinger
+and_droid_sched_6 === Slett valgte elementer
+and_droid_sent_3 === Sendt SMS
+and_droid_sent_6 === Slett valgte elementer
+and_droid_sent_10 === Fjern alle ventende meldinger
+and_droid_sent_14 === Send rask SMS
+and_droid_sent_16 === Rask
+and_droid_sent_19 === Send masse SMS
+and_droid_sent_21 === Bulk
+and_droid_sent_24 === Send masse SMS via Excel
+and_droid_ussd_3 === USSD-forespørsler
+and_droid_ussd_6 === Slett valgte elementer
+and_droid_ussd_10 === Slett alle ventende forespørsler
+and_droid_ussd_14 === Ny USSD-forespørsel
+and_droid_ussd_16 === Be om
+and_con_grp_6 === Slett valgte elementer
+and_con_grp_10 === Legg til ny kontaktgruppe
+and_con_sav_6 === Slett valgte elementer
+and_con_sav_10 === Legg til ny kontakt
+and_con_sav_15 === Importer kontakter fra excel-fil
+and_con_unsub_3 === Avmeldt
+and_con_unsub_6 === Slett valgte elementer
+and_doc_act_3 === Handlinger
+and_doc_api_3 === API-dokumentasjon
+and_doc_dev_3 === Enheter
+and_doc_partner_3 === Samarbeid
+and_doc_webhook_3 === Webhooks
+and_rate_gate_3 === Priser
+and_rate_gate_10 === Land
+and_rate_gate_11 === Pris per melding
+and_rate_gate_22 === Andre land
+and_rate_partner_3 === Partnerpriser
+and_tool_act_3 === Handlinger
+and_tool_act_6 === Les dokumentasjon
+and_tool_act_8 === Dokumenter
+and_tool_act_11 === Legg til ny krokhandling
+and_tool_act_13 === Krok
+and_tool_act_16 === Legg til ny automatisk svarhandling
+and_tool_act_18 === Automatisk svar
+and_tool_key_6 === Les dokumentasjon
+and_tool_key_8 === Dokumenter
+and_tool_key_11 === Opprett en ny API-nøkkel
+and_tool_webhook_6 === Les dokumentasjon
+and_tool_webhook_8 === Dokumenter
+and_what_accnt_6 === Koble til en ny konto
+and_what_accnt_8 === Legg til konto
+and_what_attach_8 === Slett valgte meldinger
+and_what_rev_3 === Mottatt chatter
+and_what_rev_6 === Slett valgte elementer
+and_what_sched_6 === Slett valgte elementer
+and_what_sched_12 === Planlegg chat
+and_what_sent_3 === Sendte chatter
+and_what_sent_6 === Slett valgte elementer
+and_what_sent_10 === Send Quick Chat
+and_what_sent_12 === Rask
+and_what_sent_15 === Send massechatter
+and_what_sent_17 === Bulk
+and_what_sent_20 === Send massechatter via Excel
+and_def_f_blck_6 === Start markedsføring
+and_def_f_blck_7 === La oss starte og vokse virksomhet sammen, registrer deg nå og opplev en markedsføringsplattform av høy kvalitet!
+and_def_f_blck_8 === Bli med oss
+and_def_f_blck_35 === Ta kontakt
+and_head_blck_21 === Hjem
+and_head_blck_24 === Funksjoner
+and_head_blck_27 === Prissetting
+and_head_blck_30 === Kunder
+and_head_blck_39 === Dashbord
+and_head_blck_42 === Logg ut
+and_pages_default_8 === SMS- og WhatsApp-markedsføring på sitt beste
+and_pages_default_29 === SMS-meldinger
+and_pages_default_31 === Bruk Android-enhetene dine som SMS-gateway, dette er faktisk billigere enn å bruke tredjeparts-gatewayer.
+and_pages_default_40 === WhatsApp-meldinger
+and_pages_default_42 === Bruk WhatsApp til markedsføringskampanjene dine, plattformen vår gir deg verktøyene for å hjelpe deg i gang.
+and_pages_default_51 === Intuitive verktøy
+and_pages_default_53 === Vi tilbyr verktøyene for å hjelpe deg med dine markedsføringsoppgaver som autosvar, webhooks og mer.
+and_pages_default_62 === Tjene penger
+and_pages_default_64 === Bli en av våre partnere og bruk Android-enhetene dine som gateway og tjen penger for hver melding som sendes.
+and_pages_default_73 === Hvorfor bruke tjenesten vår?
+and_pages_default_74 === Her er noen grunner til at du bør begynne å bruke tjenesten vår
+and_pages_default_84 === Rask og massesending
+and_pages_default_86 === Send tonnevis av meldinger til forskjellige kontaktgrupper enkelt, og du kan også sende raske meldinger for raske transaksjoner. Plattformen vår inkluderer også live dashboard, få varsler når meldingene dine sendes eller mottas!
+and_pages_default_89 === Kortkoder
+and_pages_default_89_1 === for å komponere meldingene dine med forhåndsdefinerte data.
+and_pages_default_90 === Spinntaks
+and_pages_default_90_1 === for randomisering av et sett med ord for å bekjempe spamming-problemer.
+and_pages_default_91 === Oversetter
+and_pages_default_91_1 === for å målrette målgruppen basert på deres språk.
+and_pages_default_98 === Automatiserte og smarte verktøy
+and_pages_default_100 === Administrer virksomheten din mens vi tar oss av det skitne arbeidet, plattformen vår er smart og trenger bare meldingene du vil sende, så gjør vi resten!
+and_pages_default_103 === Rute
+and_pages_default_103_1 === sms- og whatsapp-chattene dine på hvilken som helst dato du vil.
+and_pages_default_104 === Webhooks
+and_pages_default_104_1 === for automatisering av enkelte oppgaver når du mottar meldinger fra både sms og whatsapp.
+and_pages_default_105 === Handlinger
+and_pages_default_105_1 === for å lage autorespons og rask datasjekk av hendelser.
+and_pages_default_106 === USSD
+and_pages_default_106_1 === for å gjøre nettverksrelaterte forespørsler som å sjekke saldo fra operatøren.
+and_pages_default_107 === Varsler
+and_pages_default_107_1 === fra de tilkoblede Android-enhetene kan også brukes til automatiserte oppgaver.
+and_pages_default_137 === Vi garanterer bedriftens suksess med våre strategiske funksjoner
+and_pages_default_139 === Plattformen vår er godt utformet for å møte kravene til stadig voksende markedsføringsbedrifter, vi vil sørge for at hver cent du brukte på tjenesten vår er velfortjent og gir deg 100 % tilfredshet!
+and_pages_default_145 === Enkel å bruke og flytende plattform
+and_pages_default_148 === Rimelig, men opprettholder kvalitetsservice
+and_pages_default_156 === Intuitive verktøy og dashbord
+and_pages_default_159 === Rask og forsinkelsesfri opplevelse mens du markedsfører produktene dine
+and_pages_default_171 === Tjenestepriser
+and_pages_default_187 === Send SMS
+and_pages_default_194 === SMS motta
+and_pages_default_201 === WhatsApp Send
+and_pages_default_208 === WhatsApp Motta
+and_pages_default_215 === USSD
+and_pages_default_222 === Varsler
+and_pages_default_229 === Planlagte SMS/chatter
+and_pages_default_236 === Kontakter
+and_pages_default_243 === API-nøkler
+and_pages_default_250 === Webhooks
+and_pages_default_257 === Handlinger
+and_pages_default_264 === Android-enheter
+and_pages_default_271 === WhatsApp-kontoer
+and_pages_default_287 === Våre kunder
+and_pages_default_290 === Stolt på av over 3000+ kunder. Begynn å markedsføre produktene dine og få virksomheten din til å vokse med oss!
+landing_title_default === Android-mobilenheter som SMS-gateway
+landing_nav_login === Logg inn
+landing_lead_desc === Benytt nettverksleverandørens ubegrensede sms-plan, billig og kostnadseffektiv løsning for markedsføring, bulk-sms og prosjekter i ditt land. Bruk WhatsApp for en enda større målgrupperekkevidde, plattformen vår gir deg komplette verktøy for å hjelpe deg i gang.
+landing_footer_ourcomp === Ut selskapet
+landing_footer_about === Om
+landing_footer_tos === Vilkår for bruk
+landing_footer_privacy === Personvernerklæring
+landing_footer_links === Nettstedkoblinger
+landing_footer_login === Logg inn
+landing_footer_register === Melde deg på
+landing_footer_copyright === Alle rettigheter forbeholdt
+dashboard_title_default === Dashbord
+dashboard_title_contacts === Kontakter
+dashboard_title_tools === Verktøy
+dashboard_title_admin === Administrasjon
+dashboard_nav_default === Dashbord
+dashboard_nav_contacts === Kontakter
+dashboard_nav_tools === Verktøy
+dashboard_nav_menusubscription === Abonnement
+dashboard_nav_menusettings === Innstillinger
+dashboard_nav_menulogout === Logg ut
+dashboard_btn_addcontact === Legg til kontakt
+dashboard_btn_adddevice === Legg til enhet
+dashboard_btn_addgroup === Legg til gruppe
+dashboard_btn_addtemplate === Legg til mal
+dashboard_btn_addkey === Legg til nøkkel
+dashboard_btn_addhook === Legg til Webhook
+dashboard_btn_build === Bygge
+dashboard_btn_buildsettings === Innstillinger
+dashboard_btn_settings === System
+dashboard_btn_theme === Tema
+dashboard_btn_adduser === Legg til bruker
+dashboard_btn_addpackage === Legg til pakke
+dashboard_btn_addwidget === Legg til widget
+dashboard_btn_addlanguage === Legg til språk
+dashboard_footer_about === Om
+dashboard_footer_terms === Vilkår for bruk
+dashboard_footer_privacy === Personvernerklæring
+dashboard_footer_copyright === Alle rettigheter forbeholdt
+dashboard_messages_menusent === Sendt
+dashboard_messages_menureceived === Mottatt
+dashboard_messages_menutemplates === Maler
+dashboard_messages_tabreceivedtitle === Mottatte meldinger
+dashboard_messages_tabtemplatestitle === Maler
+dashboard_messages_tablesentrecipient === Mottaker
+dashboard_messages_tablesentmessage === Beskjed
+dashboard_messages_tablesentcreated === Opprettet
+dashboard_messages_tablesentoptions === Alternativer
+dashboard_messages_tablereceivedsender === Avsender
+dashboard_messages_tablereceivedmessage === Beskjed
+dashboard_messages_tablereceivedreceived === Mottatt
+dashboard_messages_tablereceivedoptions === Alternativer
+dashboard_messages_tabletemplatesname === Malnavn
+dashboard_messages_tabletemplatesformat === Malformat
+dashboard_messages_tabletemplatesoptions === Alternativer
+dashboard_contacts_title === Kontakter
+dashboard_contacts_menusaved === Lagret
+dashboard_contacts_menugroups === Grupper
+dashboard_contacts_tabsavedtitle === Lagrede kontakter
+dashboard_contacts_tabgroupstitle === Kontaktgrupper
+dashboard_contacts_tablesavedname === kontakt navn
+dashboard_contacts_tablesavednumber === Kontakt nummer
+dashboard_contacts_tablesavedoptions === Alternativer
+dashboard_contacts_tablegroupsname === Gruppenavn
+dashboard_contacts_tablegroupsoptions === Alternativer
+dashboard_devices_tableregisteredbrand === Produsent
+dashboard_devices_tableregisteredversion === Versjon
+dashboard_devices_tableregisteredadded === Registrert
+dashboard_devices_tableregisteredoptions === Alternativer
+dashboard_tools_title === Verktøy
+dashboard_tools_menukeys === API-nøkler
+dashboard_tools_menuhooks === Webhooks
+dashboard_tools_tabkeystitle === API-nøkler
+dashboard_tools_tabhookstitle === Webhooks
+dashboard_tools_tablekeysname === Navn
+dashboard_tools_tablekeyspermissions === Tillatelser
+dashboard_tools_tablekeysoptions === Alternativer
+dashboard_tools_tablehooksname === Navn
+dashboard_tools_tablehooksurl === Webhook URL
+dashboard_tools_tablehooksoptions === Alternativer
+dashboard_admin_title === Admin
+dashboard_admin_menustats === Statistikk
+dashboard_admin_menuusers === Brukere
+dashboard_admin_menupackages === Pakker
+dashboard_admin_menusubscriptions === Abonnementer
+dashboard_admin_menutransactions === Transaksjoner
+dashboard_admin_menuwidgets === Widgets
+dashboard_admin_menulanguages === Språk
+dashboard_admin_tabdefaultearningstitle === Inntjening
+dashboard_admin_tabdefaultmessageslast === Siste 30 dager
+dashboard_admin_tabuserstitle === Brukere
+dashboard_admin_tabpackagestitle === Pakker
+dashboard_admin_tabsubscriptionstitle === Abonnementer
+dashboard_admin_tabtransactionstitle === Transaksjoner
+dashboard_admin_tabwidgetstitle === Widgets
+dashboard_admin_tablanguagestitle === Språk
+dashboard_admin_tableusersname === Navn
+dashboard_admin_tableusersemail === E-post
+dashboard_admin_tableusersoptions === Alternativer
+dashboard_admin_tablepackagesname === Navn
+dashboard_admin_tablepackagesprice === Pris
+dashboard_admin_tablepackagesoptions === Alternativer
+dashboard_admin_tablesubscriptionsuser === Bruker
+dashboard_admin_tablesubscriptionspackage === Pakke
+dashboard_admin_tablesubscriptionsprice === Pris
+dashboard_admin_tablesubscriptionsexpire === Utløpsdato
+dashboard_admin_tablesubscriptionsoptions === Alternativer
+dashboard_admin_tabletransactionscustomer === Kunde
+dashboard_admin_tabletransactionsprovider === Forsørger
+dashboard_admin_tablewidgetsname === Widgetnavn
+dashboard_admin_tablewidgetstype === Type
+dashboard_admin_tablewidgetssize === Størrelse
+dashboard_admin_tablewidgetsposition === Stilling
+dashboard_admin_tablewidgetsoptions === Alternativer
+dashboard_admin_tablelanguagesiso === ISO
+dashboard_admin_tablelanguagesname === Språknavn
+dashboard_admin_tablelanguagescreated === Opprettet
+dashboard_admin_tablelanguagesoptions === Alternativer
+table_search_text === Søk
+table_search_placeholder === Skriv inn nøkkelord her...
+response_invalid === Ugyldig forespørsel!
+response_went_wrong === Noe gikk galt!
+response_session_false === Sesjon eksisterer ikke!
+response_session_true === Sesjonen eksisterer allerede!
+response_invalid_emailpass === Ugyldig e-post/passord!
+response_loggedin_success === Vellykket pålogget!
+response_loggedout_success === Vellykket logget ut!
+response_invalid_email === Ugyldig epostadresse!
+response_retrieval_received === Vi mottok en forespørsel om kontohenting. Ignorer hvis det ikke ble bedt om av deg.
+response_solve_captcha === Vennligst løs anti-bot-utfordringen!
+response_register_false === Registreringer er deaktivert!
+response_name_short === Navnet er for kort!
+response_password_short === Passordet må være større enn 5 tegn!
+response_password_notmatch === Passord stemmer ikke!
+response_register_success === Registrering fullført!
+response_email_unavailable === E-postadressen var allerede registrert!
+response_upload_applogo === Last opp applogoen din!
+response_upload_appsplash === Last opp appen din!
+response_pcode_empty === Vennligst skriv inn kjøpskoden din i systeminnstillingene!
+response_buildserver_false === Kan ikke koble til byggeserveren!
+response_invalid_number === Ugyldig mobilnummer!
+response_message_short === Meldingen er for kort!
+response_message_queued === Meldingen er lagt til i køen!
+response_message_bulkqueued === Massemeldinger er satt i kø for sending!
+response_format_short === Formatet er for kort!
+response_template_added === Malen er lagt til!
+response_number_exist === Kontaktnummer finnes allerede!
+response_contact_added === Kontakt er lagt til!
+response_group_added === Kontaktgruppe er lagt til!
+response_permission_min === Velg minst én tillatelse!
+response_key_added === API-nøkkel er lagt til!
+response_invalid_webhookurl === Ugyldig webhook-URL!
+response_webhook_added === Webhook er lagt til!
+response_user_added === Bruker er lagt til!
+response_package_added === Pakken er lagt til!
+response_widget_added === Widget er lagt til!
+response_language_added === Språk er lagt til!
+response_avatar_invalid === Avatar kan ikke lastes opp!
+response_profile_updated === Profilen er oppdatert!
+response_package_purchasedtitle === Du har abonnert på en premium-pakke, her er kvitteringen din!
+response_package_purchased === Abonnerte på pakken!
+response_template_updated === Malen har blitt oppdatert!
+response_contact_updated === Kontakten er oppdatert!
+response_group_updated === Kontaktgruppen er oppdatert!
+response_key_updated === API-nøkkel har blitt oppdatert!
+response_webhook_updated === Webhook har blitt oppdatert!
+response_user_updated === Brukeren er oppdatert!
+response_package_updated === Pakken er oppdatert!
+response_widget_updated === Widget har blitt oppdatert!
+response_language_updated === Språket er oppdatert!
+response_builder_packagenameshort === Pakkenavnet er for kort!
+response_builder_appnameshort === Appnavnet er for kort!
+response_builder_applogofail === Applogoen kan ikke lastes opp!
+response_builder_appsplashfail === Appsplash kan ikke lastes opp!
+response_builder_settingsupdated === Builder-innstillinger oppdatert!
+response_theme_updated === Temainnstillinger oppdatert!
+response_system_settingsupdated === Systeminnstillingene er oppdatert!
+response_deleted_sent === Sendt melding er slettet!
+response_deleted_received === Mottatt melding er slettet!
+response_deleted_template === Malen er slettet!
+response_deleted_contact === Kontakten er slettet!
+response_deleted_group === Kontaktgruppen er slettet!
+response_deleted_device === Enheten er slettet!
+response_deleted_key === API-nøkkel er slettet!
+response_deleted_hook === Webhook er slettet!
+response_deleted_defaultuserfalse === Standardbruker kan ikke slettes!
+response_deleted_user === Brukeren er slettet!
+response_deleted_defaultpackagefalse === Standardpakken kan ikke slettes!
+response_deleted_package === Pakken er slettet!
+response_deleted_subscription === Abonnementer er slettet!
+response_deleted_widget === Widget er slettet!
+response_deleted_defaultlangfalse === Standardspråk kan ikke slettes!
+response_deleted_language === Språket er slettet!
+response_lang_changed === Språket er endret!
+modal_usersettings_title === Innstillinger
+modal_subscription_title === Abonnement
+modal_packages_title === Pakker
+modal_smsquick_title === Rask SMS
+modal_smsbulk_title === Bulk SMS
+modal_addtemplate_title === Legg til mal
+modal_edittemplate_title === Rediger mal
+modal_addcontact_title === Legg til kontakt
+modal_editcontact_title === Rediger kontakt
+modal_addgroup_title === Legg til gruppe
+modal_editgroup_title === Rediger gruppe
+modal_adddevice_title === Legg til enhet
+modal_addkey_title === Legg til API-nøkkel
+modal_editkey_title === Rediger API-nøkkel
+modal_edithook_title === Rediger Webhook
+modal_buildersettings_title === Builder-innstillinger
+modal_themesettings_title === Temainnstillinger
+modal_systemsettings_title === Systeminnstillinger
+modal_adduser_title === Legg til bruker
+modal_edituser_title === Rediger bruker
+modal_addpackage_title === Legg til pakke
+modal_editpackage_title === Rediger pakke
+modal_addwidget_title === Legg til widget
+modal_editwidget_title === Rediger widget
+modal_addlanguage_title === Legg til språk
+modal_editlanguage_title === Rediger språk
+require_email === Epostadresse
+require_password === Passord
+require_name === Fullt navn
+require_cpassword === Passord bekreftelse
+require_phone === Telefonnummer
+require_device === Enhet
+require_message === Beskjed
+require_groups === Kontaktgrupper
+require_sim === Sim-spor
+require_priority === Prioritert alternativ
+require_api === API-alternativ
+require_templatename === Malnavn
+require_templateformat === Malformat
+require_contactname === Kontakt navn
+require_group === Kontaktgruppe
+require_groupname === Gruppenavn
+require_apiname === API-nøkkelnavn
+require_permissions === Tillatelser
+require_hookname === Webhook navn
+require_hookurl === Webhook url
+require_appname === Appnavn
+require_appcolor === App farge
+require_packagename === Pakkenavn
+require_widgetname === Widgetnavn
+require_widgetsize === Widget-størrelse
+require_widgetposition === Widget-posisjon
+require_widgettype === Widget-type
+require_languagename === Språknavn
+require_languageiso === Språk iso
+require_languagestr === Språkoversettelser
+btn_submit === Sende inn
+btn_download === nedlasting
+btn_done === Ferdig
+btn_purchase === Kjøp
+btn_free === Gratis
+btn_send === Sende
+btn_save === Lagre
+btn_packages === Pakker
+btn_retrieve === Hente
+btn_signin === Logg inn
+btn_signup === Melde deg på
+form_name === Navn
+form_number === Telefonnummer
+form_group === Kontaktgruppe
+form_adddevice_one === Det er veldig enkelt å legge til en ny Android-enhet på kontoen din, vi sørget for at du kan fortsette uten å kaste bort noe av din dyrebare tid, følg disse trinnene.
+form_adddevice_two === 1. Last ned og installer
+form_adddevice_three === Først last ned og installer gateway-appen vår ved å klikke på denne knappen.
+form_adddevice_four === 2. Registrer enhet
+form_adddevice_five === Åpne nå gateway-appen og klikk på skanneknappen, og skann deretter denne qr-koden.
+form_adddevice_six === 3. Ferdig!
+form_adddevice_seven === Enheten er lagt til kontoen din, du kan nå begynne å sende meldinger!
+form_permissions === Tillatelser
+form_countrycode === Landskode
+form_translations === Oversettelsesstrenger
+form_translations_placeholder === Skriv inn oversettelser her...
+form_packageprice === Pris
+form_packagesend === Send grense
+form_packagereceive === Mottaksgrense
+form_packagedevice === Enhetsgrense
+form_packagekey === Nøkkelgrense
+form_packagehook === Webhook-grense
+form_templatename_placeholder === Kunngjøring
+form_templateformat === Format
+form_templateformat_placeholder === Skriv inn malformatet ditt her...
+form_shortcodes === Kortkoder
+form_emailaddress === Epostadresse
+form_password === Passord
+form_password_leave === La det stå tomt for å beholde gjeldende passord
+form_language === Språk
+form_webhookname_placeholder === Svar Bot
+form_webhookurl === URL
+form_widgetname_placeholder === Vilkår for bruk
+form_widgeticon === Ikon
+form_widgettype === Type
+form_widgetsize === Størrelse
+form_widgetsmall === Liten
+form_widgetmedium === Medium
+form_widgetlarge === Stor
+form_widgetxlarge === Ekstra stor
+form_widgetposition === Stilling
+form_widgetcenter === Senter
+form_widgetleft === Venstre
+form_widgetright === Ikke sant
+form_widgetcontent === Innhold
+form_builderpackagename === Pakkenavn
+form_builderappname === App navn
+form_builderappdesc === Appbeskrivelse
+form_builderappdesc_placeholder === Dette er en fantastisk app
+form_builderapplogo === App-logo
+form_builderappsplash === App Splashscreen
+form_uploaded === Lastet opp
+form_notuploaded === Ingen
+form_themebg === Bakgrunnsfarge
+form_themetext === Uthev farge
+form_settingsite === Nettstedet
+form_settingssitename === Side navn
+form_settingssitedesc === beskrivelse av siden
+form_settingspcode === Kjøpskode
+form_settingsprotocol === Protokoll
+form_settingsdeflang === Standardspråk
+form_settingsreg === Registreringer
+form_settingsmailing === Utsendelse
+form_settingsmailfunc === E-postfunksjon
+form_settingssitemail === Nettstedets e-post
+form_settingssmtphost === SMTP-vert
+form_settingssmtpport === SMTP-port
+form_settingssmtpusername === SMTP-brukernavn
+form_settingssmtppassword === SMTP-passord
+form_settingssmtp_small === Nødvendig for ekstern SMTP
+form_settingspayments === Betalinger
+form_settingspaypaltest === Paypal testmodus
+form_settingssecurity === Sikkerhet
+form_settingsrecaptchakey === Recaptcha nettstednøkkel
+form_settingsrecaptchasecret === Recaptcha hemmelig nøkkel
+form_enable === Muliggjøre
+form_disable === Deaktiver
+form_native === Innfødt
+form_remotesmtp === Ekstern SMTP
+form_device === Mobil enhet
+form_sim === Sim-spor
+form_priority === Prioritet
+form_yes === Ja
+form_no === Nei
+form_freefor === Gratis for alltid
+form_monthly === Månedlig
+form_groups === Kontaktgrupper
+form_template === Mal
+form_none === Ingen
+form_message === Beskjed
+form_message_placeholder === Skriv inn meldingen din her...
+form_avatar === Avatar
+form_changepass === Bytt passord
+form_package === Pakke
+form_keys === API-nøkler
+form_hooks === Webhooks
+form_daily === daglig
+form_forgotpass === Glemt passord
+form_fullname === Fullt navn
+form_cpassword === bekreft passord
+form_haveaccount === Jeg har en konto
+datatable_processing === Behandler, vennligst vent...
+datatable_length === Viser _MENU_ oppføringer
+datatable_info === Viser _START_ til _END_ av _TOTAL_ oppføringer
+datatable_empty === Viser 0 til 0 av 0 oppføringer
+datatable_filtered === (filtrert fra totalt _MAX_ oppføringer)
+datatable_loading === Laster Vennligst vent...
+datatable_zero === Vi finner ikke noe som samsvarer med søket ditt!
+datatable_null === Det er ingen data å vise!
+datatable_first === Først
+datatable_prev === Tidligere
+datatable_next === Neste
+datatable_last === Siste
+delete_title === Vil du slette?
+delete_tagline === Denne handlingen kan ikke angres!
+validate_cannotemp === kan ikke være tom!
+alert_attention === Merk følgende
+copy_data === Data kopiert til utklippstavlen!
+date_today === I dag
+date_yesterday === I går
+date_7days === Siste 7 dager
+date_30days === Siste 30 dager
+date_month === Denne måneden
+date_lmonth === Forrige måned
+date_custom === Egendefinert område
+unknown_action_method === Ukjent handlingsmetode!
+mollie_redirecting_page === Omdirigerer til mollie betalingsside...
+form_settingsmolliekey === Mollie API-nøkkel
+btn_confirm === Bekrefte
+btn_cancel === Avbryt
+recaptcha_add_keys === Vennligst legg til dine recaptcha-nøkler for å aktivere denne funksjonen!
+pay_with_paypal === Betal med Paypal
+pay_with_mollie === Betal med Mollie
+form_settingsenabledproviders === Aktiverte leverandører
+form_builderappicon === App-ikon
+payment_transact_failed === Betalingstransaksjonen mislyktes!
+cookieconsent_message === Vi bruker informasjonskapsler for å sikre at du får den beste opplevelsen på nettstedet vårt.
+cookieconsent_link === Lære mer
+role_added === Rolle er lagt til!
+role_updated === Rollen er oppdatert!
+role_deleted === Rollen er slettet!
+role_default_update === Standardrollen kan ikke redigeres!
+role_default_delete === Standardrolle kan ikke slettes!
+voucher_added === Voucher er lagt til!
+form_voucher === Kupongkode
+btn_redeem === Løs inn
+invalid_voucher_code === Ugyldig kupongkode!
+voucher_deleted === Kupongen er slettet!
+form_title_addvoucher === Legg til kupong
+form_title_addsubscription === Legg til abonnement
+form_adduser_role === Rolle
+require_pagename === Sidenavn
+require_pageroles === Tillatte roller
+form_pageroles === Tillatte roller
+require_vouchercode === Kupongkode
+form_settingscurrency === Valuta
+btn_bulkexcel === utmerke
+response_leastprovider === Velg minst én betalingsleverandør!
+user_subscriptioncontacts === Kontakter
+response_suspended === Kontoen din er suspendert av administratoren!
+response_adminsuspend === Standardkontoen kan ikke suspenderes!
+response_successsuspend === Brukeren er suspendert!
+response_successunsuspend === Brukeren er opphevet suspenderingen!
+suspend_user_title === Suspendere bruker?
+suspend_user_desc === Denne brukeren vil ikke kunne logge på og bruke tjenestene
+unsuspend_user_title === Vil du oppheve suspenderingen av brukeren?
+unsuspend_user_desc === Denne brukeren vil kunne logge på og bruke tjenestene igjen
+all_languages === Alle språk
+response_invalid_excel === Ugyldig excel-fil!
+response_contacts_imported === Kontakter er importert!
+table_role_name === Rollenavn
+table_role_permissions === Tillatelser
+table_voucher_name === Navn
+table_voucher_package === Pakke
+table_page_name === Sidenavn
+table_page_require === Krev innlogging
+table_page_roles === Tillatte roller
+import_btn === Import
+form_excelfile === Excel-fil
+form_hook_addtitle === Legg til Hook Action
+form_hook_edittitle === Rediger Hook Action
+form_hook_event === Begivenhet
+form_hook_link === Link struktur
+form_autoreply_addtitle === Legg til svarhandling
+form_autoreply_edittitle === Rediger svarhandling
+form_autoreply_keywords === Nøkkelord
+form_autoreply_message === Svarmelding
+require_action_name === Handlingsnavn
+require_action_event === Hendelsestype
+require_action_link === Link struktur
+require_action_keywords === Nøkkelord
+require_action_message === Svar melding
+response_invalid_linkstructure === Ugyldig lenkestruktur!
+response_hook_added === SMS-hook-handling er lagt til!
+response_invalid_keywords === Du må skrive inn minst ett nøkkelord!
+response_autoreply_added === SMS-svarhandling er lagt til!
+response_hook_updated === Handling for SMS-krok har blitt oppdatert!
+response_autoreply_updated === SMS-svarhandling er oppdatert!
+response_action_deleted === SMS-handling er slettet!
+table_action_name === Navn
+form_scheduled_title === Planlegg SMS
+response_scheduled_deleted === Planlagt melding er slettet!
+response_no_permission === Du har ikke tillatelse til denne handlingen!
+response_builder_appiconfail === Appikonet kan ikke lastes opp!
+form_require_login === Krev innlogging
+widget_addpage_title === Legg til side
+widget_editpage_title === Rediger side
+require_subscription_user === Bruker
+require_voucher_name === Kupongnavn
+require_voucher_package === Pakke
+widget_alllang_title === Alle språk
+widget_smsexcel_title === Bulk SMS med Excel
+require_scheduled_name === Navn
+require_scheduled_date === Planlegg dato
+widget_importcontacts_title === Importer kontakter
+require_addrole_name === Rollenavn
+require_addrole_permissions === Tillatelser
+widget_editrole_title === Rediger rolle
+response_page_added === Siden er lagt til!
+response_page_updated === Siden er oppdatert!
+response_page_deleted === Siden er slettet!
+table_scheduled_name === Navn
+messages_scheduled_title === Planlagt
+messages_scheduled_schedule === Planlegg SMS
+form_schedule_numbers === Mobilnumre
+form_schedule_schedule === Rute
+form_schedule_repeat === Gjenta
+form_bulksms_numbers === Mobilnumre
+dashboard_tools_menuactions === Handlinger
+dashboard_admin_menuroles === Roller
+dashboard_admin_menuvouchers === Bilag
+dashboard_admin_menupages === Sider
+admin_gateway_title === Inngangsport
+admin_gateway_status === Status
+admin_gateway_notuploaded === Ikke lastet opp
+admin_gateway_uploaded === Lastet opp
+dashboard_roles_title === Brukerroller
+dashboard_roles_addrole === Legg til rolle
+dashboard_vouchers_title === Bilag
+dashboard_vouchers_addrole === Legg til kupong
+form_voucher_package === Pakke
+dashboard_pages_title === Sider
+dashboard_pages_addpage === Legg til side
+form_theme_favicon === Favorittikon
+form_package_contactslimit === Kontaktgrense
+response_limitation_send === Du har nådd maksimalt tillatt sending for i dag!
+response_limitation_contact === Du har nådd det maksimale antallet tillatte kontakter!
+response_limitation_key === Du har nådd maksimalt tillatte API-nøkler!
+response_limitation_webhook === Du har nådd maksimalt tillatte webhooks!
+form_adminsettings_token === System Token
+response_upload_appicon === Last opp appikonet ditt!
+app_status_gateway_running === Gateway kjører!
+app_device_registered === Koblet
+app_device_unregistered === Ikke koblet
+app_terminal_gateway_ready === Gateway er klar...
+app_terminal_gateway_register === Enheten er ikke koblet ennå...
+app_terminal_gateway_hash === Hash
+app_terminal_gateway_registered === Enheten er koblet til...
+app_terminal_gateway_device === Enhetskobling mislyktes...
+app_terminal_gateway_connecterror === Feil under tilkobling til server...
+app_terminal_gateway_started === Gateway er startet...
+app_terminal_gateway_stopped === Gateway har blitt stoppet...
+app_terminal_gateway_unregistered === Kan ikke starte gatewayen, enheten er ikke koblet til noen konto ennå...
+app_terminal_feature_error === SMS-funksjonsfeil
+app_terminal_sms_sent === Melding sendt
+app_terminal_message_failed === Kunne ikke sende melding
+app_dialog_wait === Vennligst vent...
+app_dialog_exit === Avslutt gateway
+app_dialog_exit_desc === Slå av og gå ut av gateway?
+app_camera_qrcode_inside === Plasser QR-koden din inne
+app_ui_status === Status
+app_ui_exit === Exit
+require_voucher_count === Antall kuponger kan ikke være tomt!
+form_voucher_count === Antall kuponger
+cookieconsent_dismiss === Har det!
+title_payment_success === Ordrebekreftelse
+title_payment_cancel === Bestillingen kansellert
+header_payment_success === Ordrebekreftelse
+header_payment_cancel === Bestillingen kansellert
+body_payment_cancel === Du har kansellert bestillingsforespørselen din.
+transaction_payment_success === Transaksjons-ID:
+back_payment_page === Tilbake til Dashboard
+form_settingspaypalemail === Paypal Business e-post
+form_settingsanalytics === Google Analytics-nøkkel
+form_messagecounterchars === tegn
+form_settingspagination === Pagineringsgrenser
+form_settingssentpage === Sendte meldinger per side
+form_settingsreceivedpage === Mottatte meldinger per side
+form_settingsmessage === Meldingsinnstillinger
+form_settingsmessagemin === Minimum tegn
+form_settingsmessagemax === Maksimalt antall tegn
+form_settingsmessagemark === Meldingsbunnmerke
+form_packagefootermark === Meldingsbunnmerke
+form_settingssmtpsecure === SMTP-sikkerhet
+form_durationtitle === Varighet
+form_durationpackage === Din pakke:
+form_durationpay === Du skal betale:
+form_durationmonth === Måneds varighet
+form_subscriptionmonth === Måneds varighet
+authenticate_fblogin === Logger på med facebook...
+authenticate_googlelogin === Logger på med google...
+authenticate_vklogin === Logger på med vkontakte...
+response_minplatforms === Velg minst én sosial plattform!
+form_settingssocialtitle === Sosiale innstillinger
+form_settingssocial === Sosial autentisering
+form_settingssocialplatforms === Aktiverte plattformer
+form_usertimezone === Tidssone
+form_settingsloginrecaptcha === Logg inn Recaptcha
+form_loginor === ELLER
+form_adddevicescandl === Last ned via QR-skanning
+form_status_online === på nett
+form_status_offline === Frakoblet
+form_smsbulknonumbers === Velg en kontaktgruppe eller skriv inn mottakernumrene!
+form_addsubscriptionuser === Bruker
+form_addsubscriptionpackage === Pakke
+table_vouchersduration === Måneds varighet
+table_pluginsname === Pluginnavn
+table_pluginsoptions === Alternativer
+dashboard_admin_menuplugins === Plugins
+dashboard_admin_pluginstitle === Plugins
+dashboard_admin_pluginsadd === Legg til plugin
+require_pluginfile === Plugin-fil
+modal_addplugin_title === Legg til plugin
+response_pluginwentwrong === Noe gikk galt under opplasting av programtillegget!
+response_plugininstalled === Plugin er installert!
+dashboard_title_login === Logg Inn
+dashboard_title_forgot === Glemt passord
+dashboard_title_register === Registrere
+response_limitation_contact2 === Du har nådd maksimalt antall kontakter på abonnementet ditt, kun _8880_ kontakter er importert!
+response_contacts_imported2 === _8880_ kontakter har blitt importert!
+form_systemsettingshomepage === Standard hjemmeside
+app_dialog_update_desc === Det er en ny utgivelsesversjon tilgjengelig for gateway-appen, oppdatering er nødvendig!
+app_dialog_update_download === nedlasting
+app_gateway_build_text === Gateway Bygg
+response_gateway_available === Laster ned gateway, vennligst vent...
+response_gateway_unavailable === Gateway er ikke tilgjengelig, vennligst kontakt sideadministratoren!
+response_gateway_randommax === Maksimalt sendeintervall kan ikke være større enn 300 sekunder!
+response_device_updated === Enheten har blitt oppdatert!
+form_editdevice_devicename === Enhetsnavn
+form_editdevice_randomsend === Tilfeldig sendeintervall
+form_editdevice_randommin === Sendeintervall Min
+form_editdevice_randommax === Sendeintervall Maks
+form_smsall_globalstatus === Global
+form_select_multinone === Ingen
+form_package_hiddenselect === Skjult
+landing_footer_ourcompnew === Vårt selskap
+form_smsschedule_submit === Rute
+require_devicename === Enhetsnavn
+require_randommin === Tilfeldig minimumsintervall
+require_randommax === Tilfeldig maksimumsintervall
+admin_update_installed === Installert
+admin_update_btn === Oppdater
+response_update_success === Systemet har blitt oppdatert!
+form_settings_tawkchatlink === Tawk Direct Chat Link
+model_title_editplugin === Rediger plugin
+btn_other_paymentmethods === Andre betalingsmåter
+dashboard_btn_support === Brukerstøtte
+pendingdelete_title === Vil du slette venter?
+pendingdelete_desc === Vil du slette alle ventende meldinger? Denne handlingen kan ikke angres!
+dashboard_messages_tablefullmessage === Full melding
+administration_landing_btncache === Cache
+administration_landing_payouts === Utbetalinger
+administration_landing_marketing === Markedsføring
+administration_landing_gateways === Porter
+administration_landing_shorteners === Shorteners
+administration_landing_editor === Malredigering
+administration_landing_api === Admin API
+administration_landing_build === Bygge
+administration_landing_system === System
+requests_charts_smssent === SMS sendt
+requests_charts_smsreceived === SMS mottatt
+requests_charts_wasent === WhatsApp sendt
+requests_charts_wareceived === WhatsApp mottatt
+requests_charts_ussd === USSD
+requests_charts_notifications === Varsler
+requests_charts_credits === Studiepoeng
+administration_default_visitors === Besøkende
+administration_default_countries === Land
+administration_default_browsers === Nettlesere
+administration_default_os === Operativsystemer
+administration_default_usages === Bruker
+administration_default_messages === Meldinger
+administration_default_utilities === Verktøy
+administration_default_subscriptions === Abonnementer
+administration_default_credits === Studiepoeng
+tables_users_registered === Registrert
+tables_users_details === Detaljer
+dashboard_title_android === Android
+dashboard_title_whatsapp === Hva skjer
+dashboard_title_gatewayrates === Gateway-priser
+dashboard_title_docs === Dokumentasjoner
+app_status_gateway_touch === Trykk her for å åpne gatewayen
+app_dialog_downloading_update === Laster ned oppdatering
+app_dialog_interface_disabled === Grensesnittet er deaktivert, vennligst oppdater appen til den nyeste versjonen!
+app_dialog_somethingwent_wrong === Oops! Noe gikk galt!
+app_intro_level_1 === Takk for at du bruker plattformen vår, for å maksimere opplevelsen din og gjøre deg kjent med appen, la oss utforske og vi vil forklare alle de essensielle funksjonene du trenger å vite.
+app_intro_level_2 === Du vil se enhetsnavnet og koblingsstatusen her.
+app_intro_level_3 === For å koble enheten til kontoen din, bruk denne knappen for å logge på eller skanne QR-koden din for kobling.
+app_intro_level_4 === Bruk denne bryteren til å slå gatewayen på eller av.
+app_intro_level_5 === Aktivering av denne bryteren vil få gateway-appen til å lytte etter nye varsler som deretter kan administreres programmatisk på plattformen. Dette er deaktivert som standard.
+app_intro_level_6 === Bruk denne knappen til å slå av og avslutte gateway-appen.
+app_intro_level_7 === Dette er terminalen, meldingstransaksjoner og andre aktivitetslogger vil vises her.
+app_intro_level_8 === Dette er den flytende handlingsknappen, du kan få tilgang til noen alternativer og tilleggssider som <b>Kjør i bakgrunnen</b> her.
+app_dialog_tour_complete === Du bør nå forstå hvordan applikasjonen fungerer, for ytterligere spørsmål, vennligst kontakt oss!
+app_push_right_now === nå
+app_device_detailes_updated === Enhetsdetaljer har blitt oppdatert!
+app_ussd_requests_notsupported === USSD-forespørsler støttes ikke...
+app_notifications_listening_now === Lytter etter nye varsler...
+app_button_ok === Bekrefte
+app_dialog_update_smoothperm === For jevne og effektive oppdateringer, vennligst gi installeringstillatelse fra denne appen.
+app_dialog_logging_in === Logger inn...
+app_dialog_invalid_email === Du har skrevet inn en ugyldig e-post!
+app_dialog_invalid_password === Passordet er for kort til å være gyldig!
+app_dialog_notsupported_notinougat === Varsler støttes foreløpig ikke for nougat og under, beklager ulempen.
+app_dialog_notifications_permission === For å få tilgang til varsler programmatisk, krever appen en spesiell tillatelse. Velg appen i listen, og tillat deretter varslingstilgang.
+app_dialog_gateway_listennoti === Gateway vil nå lytte etter nye varsler.
+app_dialog_gateway_notirestart === Gateway vil starte på nytt og slutte å lytte etter nye varsler.
+app_dialog_needto_link === Du må koble enheten til kontoen din før du kan bruke denne funksjonen.
+app_dialog_logoutfrom_device === Logge ut fra denne gateway-enheten?
+app_document_runbackground === Kjør i bakgrunnen
+app_document_input_email === Epostadresse
+app_document_input_password === Passord
+app_document_btn_login === Logg Inn
+app_document_text_or === eller
+app_document_btn_scan === Skann QR kode
+app_document_btn_cancel === Avbryt
+app_intro_next_btn === Neste
+app_intro_back_btn === Tilbake
+response_token_generated === Systemtoken har blitt regenerert!
+response_trigger_done === Webhook har blitt utløst!
+response_build_gservicesfile === Last opp Google Services-filen din!
+response_build_fcredentialsfile === Last opp Firebase-legitimasjonsfilen din!
+response_build_loginlogo === Last opp logoen for appen din pålogging!
+response_whatsapp_notprem === Kontoen abonnerer ikke på noen premium-pakke!
+response_whatsapp_maxaccounts === Du har nådd maksimalt tillatte WhatsApp-kontoer for pakken din!
+response_whatsapp_creatingqr === Opprette WhatsApp QRCode
+response_whatsapp_noconnectserver === Kan ikke koble til WhatsApp-servere!
+response_chart_dashsmssent === SMS sendt
+response_chart_dashsmsreceive === SMS mottatt
+response_chart_dashwasent === WA sendt
+response_chart_dashwareceive === WA mottatt
+response_chart_dashwebhooks === Webhooks
+response_chart_dashactions === Handlinger
+response_chart_dashussd === USSD
+response_chart_dashnoti === Varsler
+response_resend_queued === Meldingen er satt i kø for sending!
+mail_title_payoutapproved === Din utbetalingsforespørsel er betalt!
+response_payout_confirmed === Utbetalingen er bekreftet!
+mail_title_payoutrejected === Din utbetalingsforespørsel er avvist!
+response_payout_rejected === Utbetalingen er avvist!
+response_translate_msgshort === Meldingen er for kort!
+response_clear_systemcleared === Systembufferfilene er tømt!
+response_clear_smscleared === Ventende meldinger er slettet!
+response_clear_ussdcleared === Ventende USSD-forespørsler har blitt fjernet!
+response_reorder_languages === Språk har blitt omorganisert!
+response_trash_selectedremoved === Valgte elementer er slettet!
+response_voucher_redeemed === Kupongen er innløst!
+response_payout_invalidamount === Ugyldig utbetalingsbeløp, det skal ikke inneholde desimalverdier.
+response_payout_notenoughbal === Ikke nok inntektssaldo til å behandle forespørselen!
+response_payout_reqreceive === Din utbetalingsforespørsel er mottatt!
+response_payout_pendingreq === Du har fortsatt en ventende utbetalingsforespørsel!
+response_system_sysconfigerr === Systemkonfigurasjonsfeil!
+response_message_toolong === Meldingen din er for lang!
+response_package_nosubwarn === Du har ikke et pakkeabonnement!
+response_message_notenoughcredsend === Ikke nok kreditter til å sende denne meldingen!
+response_message_queuedforsend === Meldingen er satt i kø for sending!
+response_message_sentsuccess === Melding er sendt!
+response_message_unablesendmesg === Vi kan ikke sende meldingen din!
+response_smsexcel_phonenotfound === Kolonnen _8880_ ble ikke funnet i excel-filen din!
+response_smssched_queued === Meldingen er planlagt!
+response_ussd_maximumreq === Maksimalt antall USSD-forespørsler er nådd!
+response_ussd_queued === USSD-forespørsel er satt i kø!
+response_whatsapp_reachedmaxchat === Du har allerede nådd det maksimale antallet chatter du kan sende!
+response_whatsapp_chatqueued === WhatsApp-melding har stått i kø for sending!
+response_whatsapp_unableconnectserv === Kan ikke koble til WhatsApp-servere!
+response_whatsapp_bulkchatsqueued === WhatsApp-bulkchatter er satt i kø!
+response_whatsapp_excelphonecolnotfound === Kolonnen _8880_ ble ikke funnet i excel-filen din!
+response_whatsapp_chatscheduled === Chat er planlagt!
+response_importcontacts_phonenotfound === Kolonnen _8880_ ble ikke funnet i excel-filen din!
+response_importcontacts_groupsnotfound === Kolonnen _8880_ ble ikke funnet i excel-filen din!
+response_importcontacts_namenotfound === Kolonnen _8880_ ble ikke funnet i excel-filen din!
+response_package_pricenotlessone === Pakkeprisen kan ikke være mindre enn 1!
+response_subscription_addedsuccess === Abonnementet er opprettet!
+response_push_selectatleastoneuser === Velg minst én bruker eller rolle!
+response_push_mesgtooshort === Meldingen er for kort!
+response_push_titletooshort === Tittelen er for kort!
+response_push_imgfailed === Opplasting av bildefil mislyktes!
+response_push_created === Push-sendingen er opprettet!
+response_push_nousers === Finner ingen brukere for sending!
+response_notify_titletooshort === Tittelen er for kort!
+response_notify_mesgtooshort === Meldingen er for kort!
+response_notify_selectuserrole === Velg minst én bruker eller rolle!
+response_notify_imgfailed === Opplasting av bildefil mislyktes!
+response_notify_created === Varsle sendingen er opprettet!
+response_notify_nousers === Finner ingen brukere for sending!
+response_mailer_titletooshort === Tittelen er for kort!
+response_mailer_contentooshort === Innholdet er for kort!
+response_mailer_nouserorrole === Velg minst én bruker eller rolle!
+response_mailer_sendcounter === _8880_ av _8881_ ventende e-poster er sendt med post!
+response_mailer_mailprocessed === Massepost er behandlet!
+response_mailer_nousersorrole === Finner ingen brukere for sending!
+response_gateway_controllercannotempty === Kontrollerfilen kan ikke være tom!
+response_gateway_invalidcontroller === Ugyldig kontrollerfil!
+response_gateway_addeddcontroller === Gateway er lagt til!
+response_shortener_cannotempty === Kontrollerfilen kan ikke være tom!
+response_shortener_invalidcontroller === Ugyldig kontrollerfil!
+response_shortener_addedcontroller === Shortener er lagt til!
+response_plugin_samenameinstalled === En plugin med samme navn var allerede installert!
+response_smscheduled_editsuccess === Planlagt melding har blitt oppdatert!
+response_chatscheduled_editsuccess === Chatplanen er oppdatert!
+response_editdevice_invalidrate === Ugyldig kursverdi, det skal være et gyldig flytnummer!
+response_editdevice_nametooshort === Enhetsnavnet er for kort!
+response_editdevice_nametoolong === Enhetsnavnet er for langt!
+response_editdevice_invalidmaxinterval === Ugyldig maksintervallverdi!
+response_gateway_updatedsuccess === Gateway har blitt oppdatert!
+response_shortener_editsuccess === Shortener har blitt oppdatert!
+response_editplugin_success === Plugin-innstillingene har blitt oppdatert!
+response_updatepluin_corrupted === Plugin-oppdateringsfilen er ødelagt!
+response_updateplugin_updated === Plugin har blitt oppdatert!
+response_builder_invalidgooglefile === Ugyldig google services-legitimasjonsfil!
+response_builder_invalidfirebasefile === Ugyldig firebase-legitimasjonsfil!
+response_theme_sitelogofailed === Opplasting av nettstedslogo mislyktes!
+response_theme_sitebgfailed === Opplasting av nettstedets bakgrunn mislyktes!
+response_theme_sitefavfailed === Opplasting av favorittbilde mislyktes!
+response_notification_deletedsuccess === Meldingen er slettet!
+response_whatsapp_sentdeletesuccess === Sendt WhatsApp-chat er slettet!
+response_whatsapp_receivedeletesuccess === Mottatt WhatsApp-chat er slettet!
+response_whatsapp_scheduleddeletesuccess === WhatsApp planlagt chat har blitt slettet!
+response_whatsapp_accountdeletesuccess === WhatsApp-kontoen er slettet!
+response_unsibscribe_contactdeletedsuccess === Avmeldt nummer er slettet!
+response_marketing_logdeletedsuccess === Markedsføringsloggen er slettet!
+response_gateway_controllerdeletedsuccess === Gateway er slettet!
+response_shortener_controllerdeletedsuccess === Shortener er slettet!
+table_androidsent_clipcopy === Sendt utklippstavlekopi _8880_
+table_androidsent_excel === Sendt Excel-eksport _8880_
+table_androidsent_pdf === Sendt PDF-eksport _8880_
+table_androidsent_sms === tekstmelding
+table_androidsend_report === Rapportere
+table_unknown_data === Ukjent
+table_androidsent_statuspending === Avventer
+table_androidsent_statusqueued === I kø
+table_androidsent_statussent === Sendt
+table_androidsent_statusfailed === Mislyktes
+table_none_data === Ingen
+table_yes_data === Ja
+table_no_data === Nei
+table_removed_data === Fjernet
+table_androidver_kitkat === Android KitKat
+table_androidver_lollipop === Android Lollipop
+table_androidver_marshmallow === Android Marshmallow
+table_androidver_nougat === Android Nougat
+table_androidver_oreo === Android Oreo
+table_androidver_pie === Android Pie
+table_androidver_10 === Android 10
+table_androidver_11 === Android 11
+table_androidver_12 === Android 12
+table_androidsent_exportone === Status: _8880_, Modus: _8881_, Kode: _8882_, Prioritet: _8883_, API sendt: _8884_, Sim-spor: SIM _8885_, Enhet: _8886_, OS: _8887_
+table_androidsent_modenamedevice === Enheter
+table_androidsent_modenamecredits === Studiepoeng
+table_androidsent_reportline1 === Status: _8880_
+table_androidsent_reportline2 === Modus: _8880_
+table_androidsent_reportline3 === Kode: _8880_
+table_androidsent_reportline4 === Prioritet: _8880_
+table_androidsent_reportline5 === API sendt: _8880_
+table_androidsent_reportline6 === Sim-spor: SIM _8880_
+table_androidsent_reportline7 === Enhet: _8880_
+table_androidsent_reportline8 === OS: _8880_
+table_androidsent_exporttwo === Status: _8880_, Modus: _8881_, Gateway: _8882_
+table_androidsent_reportline9 === Status: _8880_
+table_androidsent_reportline10 === Modus: _8880_
+table_androidsent_reportline11 === Gateway: _8880_
+table_androidsent_exportthree === Status: _8880_, Modus: _8881_, Kode: _8882_, API sendt: _8883_, Sim-spor: SIM _8884_, Gateway: _8885_
+table_androidsent_reportline12 === Status: _8880_
+table_androidsent_reportline13 === Modus: _8880_
+table_androidsent_reportline14 === Kode: _8880_
+table_androidsent_reportline15 === API sendt: _8880_
+table_androidsent_reportline16 === Sim-spor: SIM _8880_
+table_androidsent_reportline17 === Gateway: _8880_
+table_androidsent_titleresend === Send denne meldingen på nytt
+table_title_deletethisitem === Slett dette elementet
+table_androidreceive_exportcopy === Mottatt kopi av utklippstavlen _8880_
+table_androidreceive_exportexcel === Mottatt Excel-eksport _8880_
+table_androidreceive_exportpdf === Mottatt PDF-eksport _8880_
+table_androidreceive_smstitle === tekstmelding
+table_androidreceive_reporttitle === Rapportere
+table_androidreceive_exportdata === Sim-spor: SIM _8880_, enhet: _8881_, OS: _8882_
+table_androidreceive_reportline1 === Sim-spor: SIM _8880_
+table_androidreceive_reportline2 === Enhet: _8880_
+table_androidreceive_reportline3 === OS: _8880_
+table_androidreceive_titlereply === Svar på nummer
+table_androidscheduled_titleschedule === Rute
+table_androidscheduled_titledetails === Detaljer
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === Modus: _8880_
+table_androidscheduled_detailsline2 === SIM: _8880_
+table_androidscheduled_detailsline3 === Gjenta: _8880_
+table_androidscheduled_detailsline4 === Enhet: _8880_
+table_androidscheduled_detailsgroupslabel === Grupper:
+table_androidscheduled_detailsnumberslabel === Tall:
+table_androidscheduled_detailsline5 === Modus: _8880_
+table_androidscheduled_detailsline6 === Gjenta: _8880_
+table_androidscheduled_detailsline7 === Gateway: _8880_
+table_androidscheduled_detailsline8 === Modus: _8880_
+table_androidscheduled_detailsline9 === Gjenta: _8880_
+table_androidscheduled_detailsline10 === Enhet: _8880_
+table_title_editthisitem === Rediger dette elementet
+table_whatsappsent_exportcopy === Sendt utklippstavlekopi
+table_whatsappsent_exportexcel === Sendte Excel-eksport
+table_whatsappsent_exportpdf === Sendt PDF-eksport
+table_whatsappsent_accounttitle === Regnskap
+table_whatsappsent_recipienttitle === Mottaker
+table_whatsappsent_msgtitle === Beskjed
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === Status
+table_ussd_exportcopy === USSD utklippstavle kopi
+table_ussd_exportexcel === USSD Excel-eksport
+table_ussd_exportpdf === USSD PDF-eksport
+table_ussd_createdtitle === Opprettet
+table_ussd_codetitle === Kode
+table_ussd_responsetitle === Respons
+table_ussd_simtitle === SIM
+table_ussd_statustitle === Status
+table_ussd_devicetitle === Enhet
+table_ussd_optionstitle === Alternativer
+table_ussd_pendingresponsetext === Venter på svar
+table_empty_data === Tømme
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === Avventer
+table_ussd_queuelabel === I kø
+table_ussd_completelabel === Fullført
+table_ussd_detailsline1 === Enhet: _8880_
+table_ussd_detailsline2 === OS: _8880_
+table_notifications_exportcopy === Varslinger utklippstavle kopi
+table_notifications_exportexcel === Varsler Excel Export
+table_notifications_exportpdf === Varsler PDF-eksport
+table_notifications_createdtitle === Opprettet
+table_notifications_packagetitle === Pakkenavn
+table_notifications_title === Tittel
+table_notification_texttitle === Tekst
+table_notification_devicetitle === Enhet
+table_notification_optiontitle === Alternativer
+table_notification_devicelabel === Enhet:
+table_notification_oslabel === OS:
+table_devices_nametitle === Navn
+table_devices_globaltitle === Global
+table_enabled_data === Aktivert
+table_disabled_data === Funksjonshemmet
+table_notifications_exportone === Enhet: _8880_, OS: _8881_
+table_whatsapp_pendinglabel === Avventer
+table_whatsapp_queuelabel === I kø
+table_whatsapp_sentlabel === Sendt
+table_whatsapp_failedlabel === Mislyktes
+table_whatsappreceive_exportcopy === Mottatt kopi av utklippstavlen
+table_whatsappreceive_exportexcel === Mottatt Excel-eksport
+table_whatsappreceive_exportpdf === Mottatt PDF-eksport
+table_whatsappreceive_replytitle === Svar på nummer
+table_waschedule_scheduletitle === Rute
+table_waschedule_detailstitle === Detaljer
+table_waschedule_detailsline1 === Gjenta: _8880_
+table_waschedule_detailsline2 === Regnskap:
+table_waschedule_detailsline3 === Grupper:
+table_waschedule_detailsline4 === Tall:
+table_waaccounts_loggedtitle === Logget inn
+device_login_usevalidemail === Vennligst bruk en gyldig e-postadresse!
+device_login_accountsuspended === Beklager, kontoen din er suspendert!
+device_login_incorrectmailorpass === Du skrev inn feil e-postadresse eller passord!
+device_login_nosubscription === Du har ikke et pakkeabonnement!
+device_login_nomoredevice === Du kan ikke registrere flere enheter!
+device_scan_qrcodeinvalid === QR-koden din er ugyldig!
+device_scan_nosub === Du har ikke et pakkeabonnement!
+device_scan_usersuspended === Beklager, kontoen din er suspendert!
+device_scan_nomoredevices === Du kan ikke registrere flere enheter!
+device_report_smssentsuccess === Melding _8880_ er sendt fra _8881_
+device_report_smssentfailed === Sending av melding _8880_ mislyktes fra _8881_
+device_received_smsreceived === Ny _8880_ er mottatt fra _8881_
+requests_resend_devicenotexist === Enheten eksisterer ikke!
+device_ussd_responsereceive === USSD-svar mottatt fra _8880_
+device_notification_notireceive === Nytt varsel er mottatt fra _8880_
+payment_success_unknowntx === Ukjent
+payment_webhook_molliecreditsadded === Kreditter er lagt til kontoen din!
+payment_webhook_paypalcreditsadded === Kreditter er lagt til kontoen din!
+payment_webhook_unknowntn === Ukjent
+mail_tpl_creditstitle === Hei der,
+mail_tpl_creditsdesc === Du har kjøpt kreditter, vi har kreditert totalt _8880_ til kontoen din, og du kan bruke den umiddelbart.
+mail_tpl_creditstnx === Takk skal du ha!
+mail_tpl_poweredby === Drevet av _8880_
+forgot_response_recoverysent === Hentingsinstruksjoner er sendt til _8880_
+forgot_response_recoveryfail === Vi kan ikke sende deg en e-post!
+cron_package_expired === Pakkeabonnementet ditt er utløpt!
+cron_package_expiring === Pakkeabonnement utløper om 5 dager!
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === Unik ID
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === Grupper utklippstavle kopi _8880_
+table_contactssaved_exportexcel === Groups Excel Export _8880_
+table_contactssaved_exportpdf === Grupper PDF-eksport _8880_
+table_contactssaved_grouptitle === Grupper
+table_contactsgroups_gidtitle === Gruppe-ID
+table_contactsunsub_exportcopy === Avmeldt utklippstavle kopi _8880_
+table_contactsunsub_exportexcel === Avmeldt Excel-eksport _8880_
+table_contactsunsub_exportpdf === Avmeldt PDF-eksport _8880_
+table_toolskeys_createdtitle === Opprettet
+table_toolskeys_copyapisecret === Kopier API-hemmeligheten til utklippstavlen
+table_toolswebhooks_createtitle === Opprettet
+table_tootlswebhooks_eventstitle === arrangementer
+table_toolswebhooks_simulatebtn === Avtrekker
+table_toolswebhooks_simulatedesc === Simuler webhook-forespørsel
+table_toolswebhooks_copywebhooksecret === Kopier webhook-hemmeligheten til utklippstavlen
+table_toolsactions_createtitle === Opprettet
+table_toolsactions_detailstitle === Detaljer
+table_toolsactions_typehook === Krok
+table_toolsactions_typeautoreply === Automatisk svar
+table_toolsactions_source === Kilde: _8880_
+table_toolsactions_sourcesms === tekstmelding
+table_toolsactions_sourcewa === Hva skjer
+table_toolsactions_event === Hendelse: _8880_
+table_toolsactions_eventonsend === På Send
+table_toolsactions_eventonreceive === Ved mottak
+table_toolsactions_link === Link:
+table_toolsactions_keywords === Nøkkelord:
+table_toolsactions_message === Beskjed:
+table_toolsactions_type === Type: _8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === Opprettet
+table_ratespartners_countrytitle === Land
+table_ratespartners_detailstitle === Enhetsdetaljer
+table_ratespartners_ratetitle === Meldingshastighet
+table_ratespartners_prioritytitle === Prioritet
+table_ratespartners_simtitle === Tillatte SIM-spor
+table_ratespartners_name === Navn:
+table_ratespartners_owner === Eieren:
+table_ratespartners_localrate === Lokal pris:
+table_ratespartners_convertedrate === Konvertert rate:
+table_ratespartners_simdual === SIM 1 og SIM 2
+table_ratespartners_simsingle === SIM _8880_
+table_adminusers_exportcopy === Brukere utklippstavle kopi _8880_
+table_adminusers_exportexcel === Brukere Excel Export _8880_
+table_adminusers_exportpdf === Brukere PDF-eksport _8880_
+table_adminusersexportdata === Rolle: _8880_, land: _8881_, språk: _8882_, tidssone: _8883_, inntekter: _8884_, kreditter: _8885_, abonnement: _8886_, lyder: _8887_, suspendert: _8888_
+table_adminusers_exportdata1 === Rolle: _8880_
+table_adminusers_exportdata2 === Land: _8880_
+table_adminusers_exportdata3 === Språk: _8880_
+table_adminusers_exportdata4 === Tidssone:
+table_adminusers_exportdata5 === Inntekter: _8880_
+table_adminusers_exportdata6 === Kreditt: _8880_
+table_adminusers_exportdata7 === Abonnement:
+table_adminusers_exportdata8 === Lyder: _8880_
+table_adminusers_exportdata9 === Suspendert: _8880_
+table_adminusers_unsuspendaccount === Opphev suspenderingen av denne kontoen
+table_adminusers_suspendaccount === Suspender denne kontoen
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === Opprettet
+table_adminpackages_detailstitle === Pakkedetaljer
+table_adminpackages_freelabel === Gratis
+table_unlimited_data === Ubegrenset
+table_adminpackages_labeldetails1 === Skjult:
+table_adminpackages_labeldetails2 === Bunntekstmerke:
+table_adminpackages_labeldetails3 === Send grense for SMS:
+table_adminpackages_labeldetails4 === SMS-mottaksgrense:
+table_adminpackages_labeldetails5 === WhatsApp Send Limit:
+table_adminpackages_labeldetails6 === WhatsApp-mottaksgrense:
+table_adminpackages_labeldetails7 === WhatsApp-kontogrense:
+table_adminpackages_labeldetails8 === USSD-grense:
+table_adminpackages_labeldetails9 === Varslingsgrense:
+table_adminpackages_labeldetails10 === Enhetsgrense:
+table_adminpackages_labeldetails11 === Kontaktgrense:
+table_adminpackages_labeldetails12 === API-nøkkelgrense:
+table_adminpackages_labeldetails13 === Webhook-grense:
+table_adminpackages_labeldetails14 === Handlingsgrense:
+table_adminpackages_labeldetails15 === Planlagt grense:
+table_adminvouchers_exportcopy === Kuponger utklippstavle kopi _8880_
+table_adminvouchers_exportexcel === Kuponger Excel Export _8880_
+table_adminvouchers_exportpdf === Kuponger PDF-eksport _8880_
+table_adminvouchers_createdtitle === Opprettet
+table_adminvouchers_codetitle === Innløse kode
+table_adminvouchers_copycode === Kopier kupongkoden til utklippstavlen
+table_adminsubscriptions_createdtitle === Opprettet
+table_admintransactions_createdtitle === Opprettet
+table_admintransactions_itemtitle === Punkt
+table_admintransactions_amounttitle === Beløp
+table_admintransactions_durationtitle === Varighet
+table_admintransactions_creditslabel === Studiepoeng
+table_admintransactions_monthslabel === _8880_ måneder
+table_adminpayouts_createdtitle === Opprettet
+table_adminpayouts_partnertitle === Samboer
+table_adminpayouts_amounttitle === Beløp
+table_adminpayouts_addresstitle === betalingsadresse
+table_adminpayouts_optionstitle === Alternativer
+table_adminpayouts_approve === Merk utbetalingsforespørselen som betalt
+table_adminpayouts_reject === Avvis utbetalingsforespørsel
+table_adminwidgets_createdtitle === Opprettet
+table_adminwidgets_typeblock === Blokkere
+table_adminwidgets_typemodal === Modal
+table_adminwidgets_copywidgethook === Kopier widgetkroken til utklippstavlen
+table_adminpages_createdtitle === Opprettet
+table_adminpages_optionstitle === Alternativer
+table_adminpages_copypagehook === Kopier sidekroken til utklippstavlen
+table_adminmarketing_createdtitle === Opprettet
+table_adminmarketing_typetitle === Type
+table_adminmarketing_titletitle === Tittel
+table_adminmarketing_contenttitle === Innhold
+table_adminmarketing_recipientstitle === Mottakere
+table_adminmarketing_optionstitle === Alternativer
+table_adminmarketing_notifylabel === Gi beskjed
+table_adminmarketing_mailerlabel === Mailer
+table_adminmarketing_pushlabel === Trykk
+table_adminmarketing_roleslabel === Roller:
+table_adminmarketing_userslabel === Brukere:
+table_admingateways_createdtitle === Opprettet
+table_admingateways_nametitle === Navn
+table_admingateways_pricingtitle === Prissetting
+table_admingateways_optionstitle === Alternativer
+table_admingateways_invalidjson === Ugyldig JSON-format!
+table_admingateways_defaultprice === Standardpris: _8880_
+table_admingateways_percountryprcie === Pris per land:
+table_adminshorteners_createdtitle === Opprettet
+table_adminshorteners_nametitle === Navn
+table_adminshorteners_optionstitle === Alternativer
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === Installert versjon
+table_adminplugins_actionstitle === Handlinger
+table_adminplugins_updatedesc === Oppdater denne plugin-en
+table_adminplugins_editdesc === Rediger plugin-alternativer
+table_adminplugins_removedesc === Avinstaller denne plugin-en
+whatsapp_sent_sentsuccess === WhatsApp chat _8880_ har blitt sendt!
+whatsapp_sent_sentfailed === Sending av chat _8880_ mislyktes!
+whatsapp_received_chat === Ny chat _8880_ er mottatt!
+widget_systemupdate_title === System oppdatering
+widget_systemupdate_loader === Oppdateringssystem
+widget_systemupdate_requireupdate === Oppdateringsfilen kan ikke være tom!
+requests_systemupdate_faileduploadingfile === Kunne ikke laste opp oppdateringsfilen!
+widget_usersettings_loader === Lagrer kontoinnstillinger
+widget_payment_title === innbetaling
+widget_payment_creditamountnotless === Kredittbeløpet kan ikke være mindre enn 10!
+widget_payment_creditslabel === Studiepoeng
+widget_view_contentremoved === Innholdet er fjernet!
+widget_redeem_title === Løs inn
+widget_redeem_loader === Validerer kupongkode
+widget_addcredits_title === Legg til kreditter
+widget_addpayout_title === Be om utbetaling
+widget_addpayout_loader === Oppretter utbetalingsforespørsel
+widget_addpayout_requireamount === Beløpet kan ikke være tomt!
+widget_addpayout_requireprovider === Betalingsleverandør kan ikke være tom!
+widget_addpayout_requireaddress === Betalingsadressen kan ikke være tom!
+widget_smsquick_loader === Legger til melding i køen
+widget_smsbulk_loader === Legger til meldinger i køen
+widget_smsexcel_loader === Legge til meldinger fra excel-fil til kø
+widget_addsmsscheduled_loader === Lagrer den planlagte meldingen
+widget_editscheduled_title === Rediger tidsplan
+widget_editscheduled_loader === Lagrer den planlagte meldingen
+widget_addussd_title === USSD-forespørsel
+widget_addussd_loader === Legger til ussd-forespørsel i køen
+widget_editdevice_title === Rediger enhet
+widget_editdevice_loader === Lagrer enhetsendringer
+widget_waquick_title === Hurtigprat
+widget_waquick_loader === Legger til whatsapp-chat i køen
+widget_waquick_requireaccount === WhatsApp-konto er nødvendig!
+widget_wabulk_title === Bulk Chat
+widget_wabulk_loader === Legger til whatsapp-chatter i køen
+widget_waexcel_title === Bulk Chat av Excel
+widget_waexcel_loader === Legger til whatsapp-chatter i køen
+widget_wascheduled_title === Planlegg chat
+widget_wascheduled_loader === Legger til whatsapp-chatter i køen
+widget_wascheduled_requireaccount === WhatsApp-konto er nødvendig!
+widget_waeditscheduled_title === Rediger tidsplan
+widget_waeditscheduled_loader === Legger til whatsapp-chatter i køen
+widget_waeditscheduled_requireaccount === WhatsApp-konto er nødvendig!
+widget_waaddaccount_title === Legg til konto
+widget_importcontacts_loaded === Importere kontakter fra excel-fil
+widget_addcontact_loader === Oppretter ny kontaktoppføring
+default_pricecolumns_monthlabel === måned
+default_pricecolumns_dailylabel === daglig
+default_pricecolumns_monthlylabel === månedlig
+default_pricecolumns_unlimitedlabel === Ubegrenset
+form_literal_spintaxdesc2 === Verdiene _8880_ og _8881_ vil bli brukt tilfeldig.
+dashboard_packagesmodal_smssend === Send SMS
+default_footerquote_obama === Å bli handler ikke om å ankomme et sted eller å oppnå et bestemt mål. Jeg ser det i stedet som bevegelse fremover, et middel til å utvikle seg, en måte å nå kontinuerlig mot et bedre selv. Reisen slutter ikke.
+widgets_editcontact_loader === Lagrer kontaktendringer
+widgets_addgroup_loader === Oppretter ny gruppeoppføring
+widgets_editgroup_loader === Lagrer gruppeendringer
+widgets_addapikey_loader === Oppretter ny API-nøkkel
+widgets_editapikey_loader === Lagrer endringer i API-nøkkelen
+widgets_addwebhook_title === Legg til Webhook
+widgets_addwebhook_loader === Oppretter ny webhook
+widgets_addwebhook_requireevents === Arrangementer kan ikke være tomme!
+widgets_editwebhook_loader === Lagrer endringer i webhook
+widgets_addhook_loader === Oppretter ny krokhandling
+widgets_edithook_loader === Lagrer endringer i kroken
+widgets_addautoreply_loader === Oppretter ny autosvar-handling
+widgets_editautoreply_loader === Lagrer handlingsendringer for autosvar
+widgets_addtemplate_loader === Oppretter ny meldingsmal
+widgets_edittemplate_loader === Lagrer malendringer
+widgets_adminbuilder_loader === Lagrer byggmesterinnstillinger
+widgets_adminsettings_loader === Lagrer systeminnstillinger
+widgets_admintheme_loader === Lagrer temainnstillinger
+widgets_adduser_loader === Oppretter ny brukerkonto
+widgets_edituser_loader === Lagrer endringer i brukerkontoen
+widgets_addrole_loader === Oppretter ny brukerrolle
+widgets_addrole_title === Legg til rolle
+widgets_editrole_loader === Lagrer endringer i brukerrollen
+widgets_addpackage_loader === Oppretter ny systempakke
+widgets_editpackage_loader === Lagrer pakkeendringer
+widgets_addvoucher_loader === Oppretting av nye bilag
+widgets_addsubscription_loader === Oppretter nytt brukerabonnement
+widgets_addwidgets_loader === Oppretter ny widget
+widgets_editwidget_loader === Lagrer widgetendringer
+widgets_addpage_loader === Oppretter ny side
+widgets_editpage_loader === Lagrer sideendringer
+widgets_addpush_title === Push Broadcast
+widgets_addpush_loader === Kringkasting push-varsling
+widgets_addpush_requiretitle === Tittel kan ikke være tom!
+widgets_addpush_requiremessage === Meldingen kan ikke være tom!
+widgets_addnotify_title === Varsle kringkasting
+widgets_addnotify_loader === Sender direktevarsling
+widgets_addnotify_requiretitle === Tittel kan ikke være tom!
+widgets_addnotify_requiremessage === Meldingen kan ikke være tom!
+widgets_addmailer_title === Massepost
+widgets_addmailer_loader === Sender e-postmeldinger
+widgets_addmailer_requiretitle === Tittel kan ikke være tom!
+widgets_addlanguage_loader === Legger til nytt språk
+widgets_editlanguage_loader === Lagre språkendringer
+widgets_addgateway_title === Legg til gateway
+widgets_addgateway_loader === Legger til ny gateway
+widgets_addgateway_requirename === Gatewaynavnet kan ikke være tomt!
+widgets_editgateway_title === Rediger gateway
+widgets_editgateway_loader === Lagrer endringer i gatewayen
+widgets_editgateway_requirename === Gatewaynavnet kan ikke være tomt!
+widgets_addshortener_title === Legg til Shortener
+widgets_addshortener_loader === Legger til ny forkorter
+widgets_addshortener_requirename === Navnet på forkorteren kan ikke være tomt!
+widgets_editshortener_title === Rediger Shortener
+widgets_editshortener_loader === Lagrer endringer i forkorter
+widgets_editshortener_requirename === Navnet på forkorteren kan ikke være tomt!
+widgets_editplugin_loader === Bruker plugin-endringer på systemet
+widgets_updateplugin_title === Oppdater plugin
+widgets_updateplugin_loader === Oppdaterer plugin
+device_backgroundpage_line1 === Kjør i bakgrunnen
+device_backgroundpage_line2 === Hvorfor må Gateway-appen kjøre i bakgrunnen?
+device_backgroundpage_line3 === Appen krever å kjøre i bakgrunnen for å fortsette å lytte etter nye meldinger å sende og motta, dette er også nødvendig for å behandle nye varsler. Hvis du ikke trenger varsler, kan du deaktivere dette i appinnstillingene, hvis du deaktiverer det, stopper systemet fra å motta varslingsdata fra enheten.
+device_backgroundpage_line4 === Hvis du har tredjeparts sikkerhetsapp som Avast, Eset og andre. Legg til gateway-appen til unntakene.
+device_backgroundpage_line5 === Vennligst les den riktige veiledningen for ditt telefonmerke i listen nedenfor.
+device_backgroundpage_line6 === Xiaomi MIUI
+device_backgroundpage_line7 === Batterisparing
+device_backgroundpage_line8 === 1. Åpne Innstillinger.
+device_backgroundpage_line9 === 2. Velg "Batteri og ytelse".
+device_backgroundpage_line10 === 3. Velg "Velg apper".
+device_backgroundpage_line11 === 4. Finn _8880_ og velg "Ingen restriksjoner" i bakgrunnsinnstillingene.
+device_backgroundpage_line12 === Lås appen
+device_backgroundpage_line13 === 1. Trykk på Meny-knappen for å gå inn på siden Nylig.
+device_backgroundpage_line14 === 2. Velg _8880_-kort og lås det.
+device_backgroundpage_line15 === Huawei EMUI
+device_backgroundpage_line16 === Batterisparing
+device_backgroundpage_line17 === 1. Åpne Innstillinger.
+device_backgroundpage_line18 === 2. Velg Avanserte innstillinger.
+device_backgroundpage_line19 === 3. Velg Batteribehandling.
+device_backgroundpage_line20 === 4. Velg Beskyttede apper.
+device_backgroundpage_line21 === 5. Finn _8880_ og slå på bryteren.
+device_backgroundpage_line22 === Hvis EMUI-versjonen nylig er oppdatert, er det unødvendig å gjøre endringer i Innstillinger.
+device_backgroundpage_line23 === Lås appen
+device_backgroundpage_line24 === 1. Trykk på Meny-knappen, gå inn på siden Nylige.
+device_backgroundpage_line25 === 2. Trekk ned _8880_ til et låsikon vises.
+device_backgroundpage_line26 === Samsung
+device_backgroundpage_line27 === Batterisparing
+device_backgroundpage_line28 === 1. Trykk på Smart Manager.
+device_backgroundpage_line29 === 2. Velg Batteri og trykk for å gå inn på innstillingssiden.
+device_backgroundpage_line30 === 3. Trykk på Uovervåkede apper, finn _8880_ og trykk for å gå inn.
+device_backgroundpage_line31 === 4. Trykk på Batteri og trykk på Optimaliser batteribruk.
+device_backgroundpage_line32 === 5. Velg Alle apper, finn _8880_ og slå av bryteren.
+device_backgroundpage_line33 === Lås appen
+device_backgroundpage_line34 === 1. Trykk på Meny-knappen og gå inn på de nylig åpnede programsidene.
+device_backgroundpage_line35 === 2. Trykk på Mer-ikonet for å velge Lås apper.
+device_backgroundpage_line36 === 3. Trykk på låseikonet til _8880_.
+device_backgroundpage_line37 === 4. Trykk på Ferdig for å fullføre handlingen.
+device_backgroundpage_line38 === Meizu Flyme
+device_backgroundpage_line39 === Lås appen
+device_backgroundpage_line40 === 1. Sveip opp på venstre side av startskjermbildet for å gå til "Siste".
+device_backgroundpage_line41 === 2. Trykk og hold inne _8880_ til et låsikon vises.
+device_backgroundpage_line42 === Oppo ColorOS
+device_backgroundpage_line43 === Batterisparing
+device_backgroundpage_line44 === 1. Åpne Innstillinger og trykk på Batteri.
+device_backgroundpage_line45 === 2. Trykk på Energisparer.
+device_backgroundpage_line46 === 3. Finn _8880_ for å slå av Bakgrunnsfrysing og unormal appoptimalisering.
+device_backgroundpage_line47 === Hvis du ikke kan stille inn etter at du har fullført trinnene ovenfor, prøv følgende:
+device_backgroundpage_line48 === 1. Åpne Phone Manager og finn Clean Background.
+device_backgroundpage_line49 === 2. Trykk for å legge til app.
+device_backgroundpage_line50 === 3. Merk av for _8880_ og trykk på OK.
+device_backgroundpage_line51 === Lås appen
+device_backgroundpage_line52 === 1. Trykk på Meny-knappen, gå inn på siden Nylige.
+device_backgroundpage_line53 === 2. Trekk ned _8880_ til et låsikon vises.
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === Batterisparing
+device_backgroundpage_line56 === 1. Åpne Behandler og trykk på Strømbehandling.
+device_backgroundpage_line57 === 2. Velg Backstage power.
+device_backgroundpage_line58 === 3. Finn _8880_ og slå på bryteren.
+device_backgroundpage_line59 === Lås appen
+device_backgroundpage_line60 === 1. Trykk på Meny-knappen, gå inn på siden Nylige.
+device_backgroundpage_line61 === 2. Trekk ned _8880_ til et låsikon vises.
+device_backgroundpage_line62 === Smartisan OS
+device_backgroundpage_line63 === Batterisparing
+device_backgroundpage_line64 === 1. Åpne Telefonbehandling.
+device_backgroundpage_line65 === 2. Trykk på App Battery Use Optimization.
+device_backgroundpage_line66 === 3. Finn _8880_ og slå av bryteren.
+device_backgroundpage_line67 === Lås appen
+device_backgroundpage_line68 === 1. Dobbelttrykk på Meny-knappen, gå inn på siden Nylige.
+device_backgroundpage_line69 === 2. Trykk og hold nede _8880_ til et ikon for knappenål vises.
+device_backgroundpage_line70 === Andre merker
+device_backgroundpage_line71 === 1. Lås _8880_-appen i Recents.
+device_backgroundpage_line72 === 2. Legg til _8880_ til unntak.
+device_backgroundpage_line73 === 3. Hvis du har installert en annen oppstartsbehandling, fjern _8880_ fra blokkeringslisten.
+dashboard_adminmarketing_pushbtndesc === Kringkast pushvarsling til enheter
+dashboard_adminmarketing_notifybtndesc === Kringkast nettleservarsling til brukere
+dashboard_adminmarketing_mailerbtndesc === Send massee-post til brukere
+js_loader_pleasewait === Vennligst vent
+js_userstatus_online === på nett
+js_userstatus_offline === Frakoblet
+js_whatsapp_linksuccess === WhatsApp-kontoen har blitt koblet til!
+js_whatsapp_linkfailed === Tilkobling av WhatsApp-konto mislyktes!
+js_whatsapp_linkexist === WhatsApp var allerede knyttet til kontoen din!
+js_whatsapp_loaderprocessing === Behandler forespørsel
+js_clearpending_title === Fjerne venter?
+js_clearpending_desc === Alle elementer som venter på sending vil bli slettet og slettet!
+js_clearpending_processing === Behandler forespørsel
+js_authenticate_processing === Behandler forespørsel
+js_actiontrigger_title === Simuler Webhook
+js_actiontrigger_typetitle === Data-type
+js_actiontrigger_typesms === tekstmelding
+js_actiontrigger_typewa === Hva skjer
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === Melding
+js_actiontrigger_loader === Simulering av webhook
+js_actiontranslator_title === Oversetter
+js_actiontranslator_from === Oversett fra
+js_actiontranslator_to === Oversett til
+js_actiontranslator_loader === Oversetter melding
+js_actionregen_title === Regenerere systemtoken?
+js_actionregen_desc === Å lage et nytt systemtoken er irreversibelt!
+js_actionregen_loader === Genererer token
+js_actionclear_title === Tøm cache?
+js_actionclear_desc === Alle systembufferdata vil bli slettet!
+js_processing_dataloader === Behandler forespørsel
+js_build_title === Bygge ny APK?
+js_build_desc === Sørg for at du har konfigurert byggmesterinnstillingene riktig!
+js_build_btnbuild === Bygge
+js_reorder_title === Vil du endre rekkefølgen på språk?
+js_reorder_desc === Språk vil bli omorganisert, dette kan ikke angres!
+js_deletetrash_title === Vil du slette elementer?
+js_deletetrash_desc === Vil du slette de valgte elementene?
+js_tablesexport_copy === Utklippstavle
+js_tablesexport_excel === Eksporter Excel
+js_tablesexport_pdf === Eksporter PDF
+mail_expiredtpl_line1 === Hei der,
+mail_expiredtpl_line2 === Du mottok denne meldingen fordi ditt aktive premiumpakkeabonnement allerede er utløpt!
+mail_expiredtpl_line3 === Abonnementet ditt er fjernet. For å abonnere på en ny premium-pakke, besøk nettstedet vårt.
+mail_expiredtpl_line4 === For spørsmål og problemer, ikke nøl med å kontakte oss!
+mail_expiredtpl_line5 === Takk skal du ha!
+mail_expiringtpl_line1 === Hei der,
+mail_expiringtpl_line2 === Dette er en vennlig påminnelse om at ditt aktive premiumpakkeabonnement vil utløpe om 5 dager!
+mail_expiringtpl_line3 === For å forhindre tjenesteavbrudd, ikke glem å abonnere på en ny premiumpakke. Besøk siden vår for å bestille på nytt.
+mail_expiringtpl_line4 === For spørsmål og problemer, ikke nøl med å kontakte oss!
+mail_expiringtpl_line5 === Takk skal du ha!
+mail_failedtpl_line1 === Hei der,
+mail_failedtpl_line2 === Vi kan ikke behandle betalingstransaksjonen din. Prøv igjen med en annen leverandør eller betalingsmetode.
+mail_failedtpl_line3 === Betalings-ID:
+mail_failedtpl_line4 === Beklager bryet.
+mail_forgottpl_line1 === Hei der,
+mail_forgottpl_line2 === Vi har mottatt en forespørsel om kontohenting for kontoen din. Bruk dette midlertidige passordet for å logge på:
+mail_forgottpl_line3 === Ikke glem å endre passordet ditt etter pålogging!
+mail_forgottpl_line4 === Passordet vil utløpe etter 10 minutter, vær rask. Hvis du ikke har bedt om dette, kan du ignorere denne e-posten.
+mail_forgottpl_line5 === Takk skal du ha! Håper det fungerer.
+mail_payoutpaidtpl_line1 === Hei der,
+mail_payoutpaidtpl_line2 === Din utbetalingsforespørsel er sendt av teamet vårt til adressen din og den valgte betalingsleverandøren.
+mail_payoutpaidtpl_line3 === Beløp:
+mail_payoutpaidtpl_line4 === Lykke til å bruke!
+mail_payoutrejecttpl_line1 === Hei der,
+mail_payoutrejecttpl_line2 === Vi kan ikke behandle utbetalingsforespørselen din, det kan være et problem med betalingsadressen din. Ta kontakt med teamet vårt for å vite mer.
+mail_payoutrejecttpl_line3 === Beløp:
+mail_payoutrejecttpl_line4 === Beklager bryet.
+mail_subscribetpl_line1 === Hei der,
+mail_subscribetpl_line2 === Takk for at du abonnerer på en av premiumpakkene våre, her er en liten oversikt over kjøpet ditt:
+mail_subscribetpl_line3 === _8880_ Pakke
+mail_subscribetpl_line4 === Dette abonnementet utløper etter _8880_
+mail_subscribetpl_line5 === Dette trer i kraft umiddelbart. For spørsmål og problemer, ikke nøl med å kontakte oss!
+mail_subscribetpl_line6 === Takk skal du ha!
+requests_build_submitrequest === Behandler forespørsel
+requests_reorder_loader === Behandler forespørsel
+requests_deleteitem_loader === Behandler forespørsel
+requests_packageform_invalidint === Noen felt inneholder ugyldige heltall!
+widgets_viewbank_title === Bankoverføring
+modal_paymentbtn_banktransfer === Bankoverføring
+modal_adminsettings_banktransfer1 === Bankoverføringsmal
+modal_adminsettings_banktransfer2 === Hvis du har aktivert bankoverføring i betalingsalternativene, bør du lage en mal for det, det er dette brukerne vil se når de klikker på knappen. Du kan legge til instruksjonene og bankadressen her. HTML akseptert.
+modal_adminsettings_banktransfer3 === Sett med variabel du kan bruke i bankoverføringsmalen.
+requests_delete_pluginssuccess === Plugin har blitt slettet!
+table_whatsappreceived_chattitle === Chat
+table_whatsappreceived_accounttitle === Regnskap
+tabs_whatsappaccounts_titleheader === WhatsApp-kontoer
+form_editwhatsapp_randominterval === Tilfeldig sendeintervall
+form_editwhatsapp_randomintervalhelp === Hvis aktivert, vil chatter bli sendt i tilfeldige intervaller mellom 2 verdier. Du kan konfigurere dem nedenfor.
+form_editwhatsapp_randommin === Sendeintervall Min
+form_editwhatsapp_randomminhelp === Minimum sendeintervall i sekunder.
+form_editwhatsapp_randommax === Sendeintervall Maks
+form_editwhatsapp_randommaxhelp === Maksimalt sendeintervall i sekunder.
+dashpages_sms_headertitle === tekstmelding
+dashnav_sms_navname === tekstmelding
+widgets_editwhatsapp_title === Rediger WhatsApp
+widgets_editwhatsapp_loader === Lagrer endringer i whatsapp-kontoen
+mail_waunlink_title === WhatsApp-kontoen din har blitt koblet fra!
+mail_waunlink_contentline1 === Hei der!
+mail_waunlink_contentline2 === En av dine tilknyttede WhatsApp-kontoer er fjernet med følgende unike ID:
+mail_waunlink_contentline3 === Denne kontoen er ikke koblet til systemet vårt lenger på grunn av WhatsApp-relaterte hendelser, vennligst koble den igjen.
+mail_waunlink_contentline4 === Takk skal du ha!
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === Telefon
+form_btnall_visitlink === Besøk
+unsubscribe_header_title === Avslutte abonnementet
+unsubscribe_content_title === Avmeldt
+unsubscribe_content_desc === Du har meldt deg av vår sendeliste.
+requests_editwhatsapp_success === WhatsApp-kontoen har blitt oppdatert!
+form_addusertpl_credits === Studiepoeng
+form_addusertpl_creditsdesc === Startkreditter for denne brukerkontoen.
+form_addusertpl_creditsdesc2 === Endre kreditt for denne brukerkontoen.
+form_registerconfirm_desc === E-postadressen din har blitt bekreftet. Du kan logge på kontoen din ved å bruke knappen nedenfor.
+requests_loginnotverified_response === Kontoens e-postadresse er ikke bekreftet ennå. Vi har sendt en bekreftelseslenke til denne adressen: _8880_
+requests_loginnotverified_response2 === Kontoen din har blitt registrert. Før du kan bruke den, må du bekrefte e-postadressen din. Vi har sendt en bekreftelseslenke til denne adressen: _8880_
+requests_loginnotverified_responseunable === Vi kan ikke sende e-postbekreftelsen!
+requests_loginnotverified_emailtitle === Velkommen til _8880_! Bekreft e-postadressen til kontoen din her.
+requests_loginnotverified_emaildesc1 === Hei der!
+requests_loginnotverified_emaildesc2 === Takk for at du opprettet kontoen din hos oss. Bekreft e-postadressen din ved å gå til denne lenken:
+requests_loginnotverified_emaildesc3 === Takk skal du ha!
+form_adminsettings_authredi === Auth omdirigering
+form_adminsettings_authredidesc === Velg omdirigeringsstedet etter en vellykket autentisering.
+form_adminsettings_authredihomepage === Hjemmeside
+form_adminsettings_authredidashboard === Dashbord
+form_adminsettings_defaultcoun === Standardland
+form_adminsettings_defaultcoundesc === Standard valgt land på brukerregistreringsskjemaet.
+form_adminsettings_defaulttimezo === Standard tidssone
+form_adminsettings_defaulttimezodesc === Standard valgt tidssone på brukerregistreringsskjema.
+form_adminsettings_mailingtrig === E-postutløsere
+form_adminsettings_mailingtrigdesc === Velg e-postutløsere for å aktivere.
+form_adminsettings_adminemail === Admin e-post
+form_adminsettings_adminemaildesc === E-postutløste meldinger for admin vil bli sendt til denne e-postadressen. Disse meldingene er kun tilgjengelige på engelsk og kan ikke oversettes.
+form_adminsettings_recaptchatitle === Recaptcha
+form_adminsettings_recaptchadesc === Når aktivert, vil recaptcha vises til autentiseringsskjemaer som register, pålogging og glemt passord.
+form_editdevice_receiveoptiontitle === Motta SMS
+form_editdevice_receiveoptiondesc === Hvis den er deaktivert, vil ikke mottatte meldinger fra Android-innboksen bli lagret av systemet. Webhooks og andre relaterte verktøy vil ikke fungere for enheten når dette er deaktivert.
+form_editwhatsapp_receiveoptiontitle === Motta chatter
+form_editwhatsapp_receiveoptiondesc === Hvis deaktivert, vil mottatte chatter fra whatsapp-konto ikke bli lagret av systemet. Webhooks og andre relaterte verktøy vil ikke fungere for WhatsApp-kontoen når denne er deaktivert.
+js_calendarall_option === Alle
+js_calendarall_apply === Søke om
+js_calendarall_cancel === Avbryt
+js_calendarall_from === Fra
+js_calendarall_to === Til
+js_calendarall_week === W
+js_calendarall_daysu === Su
+js_calendarall_daymo === Mo
+js_calendarall_daytu === ti
+js_calendarall_daywe === Vi
+js_calendarall_dayth === Th
+js_calendarall_dayfr === Fr
+js_calendarall_daysa === Sa
+js_calendarall_monjan === januar
+js_calendarall_monfeb === februar
+js_calendarall_monmar === mars
+js_calendarall_monapr === april
+js_calendarall_monmay === Kan
+js_calendarall_monjun === juni
+js_calendarall_monjul === juli
+js_calendarall_monaug === august
+js_calendarall_monsep === september
+js_calendarall_monoct === oktober
+js_calendarall_monnov === november
+js_calendarall_mondec === desember
+response_ussddelete_success === USSD-forespørsel er slettet!
+response_titanecho_invaltoken === Systemkonfigurasjonsfeil!
+widgets_addplugin_loader === Installerer ny plugin til systemet
+widgets_addwhatsapp_newmodal === Koble til WhatsApp ved å klikke på knappen for å vise QR-koden, og skann den deretter via _8880_-knappen i appen. Du har bare 15 sekunder på deg til å skanne QR-koden.
+widgets_addwhatsapp_newmodal2 === _8880_ har utløpt. Hvis kontoen din er koblet til eller ikke, klikk på knappen nedenfor.
+widgets_addwhatsapp_newmodal3 === Fortsette
+widgets_addwhatsapp_newmodal4 === Avbryt
+datatable_addedtoclipboard === Lagt til utklippstavlen
+datatable_addedtoclipboardkeys === Klikk på kopieringsknappen for å legge til de viste radene til utklippstavlen.
+datatable_addedtoclipboardmulti === Rader kopiert:
+datatable_addedtoclipboardsingle === 1 rad kopiert
+table_details_schedulednewrepeat === Gjenta:
+and_edit_dev_line70_1_new === Beløpet du vil belaste per melding, enhetsland vil bli brukt som valutabasis. Flytende verdier støttes også som cents.
+widget_waquick_requireaccountnew1 === WhatsApp-konto
+requests_whatsapp_notavail === WhatsApp-serveren er utilgjengelig!
+requests_whatsapp_unablegenqr === Kan ikke generere WhatsApp QRCode!
+requests_charts_commisionstitle === Provisjoner
+requests_token_refreshecho === Token for _8880_ har blitt oppdatert!
+requests_remote_smscampaignresumed === SMS-kampanjen er gjenopptatt!
+requests_remote_smscampaignpaused === SMS-kampanjen er satt på pause!
+requests_remote_wacampaignresumed === WhatsApp-kampanjen er gjenopptatt!
+requests_remote_wacampaignpaused === WhatsApp-kampanjen er satt på pause!
+requests_create_payoutwithdrawalamountatleast === Uttaksbeløpet bør være minst _8880_ _8881_!
+requests_sms_intervaltypereachedmax === De _8880_ tillatte meldingene er nådd for denne enheten, prøv igjen senere!
+requests_sms_encounteredgatewayerror === Vi oppdaget en gateway-feil!
+requests_sms_gatewaycannotsendowndevices === Du kan ikke sende meldinger med kreditt med dine egne enheter!
+requests_create_encounteredshortenererror === Vi oppdaget en forkorterfeil!
+requests_create_campaignnametooshort === Kampanjenavnet er for kort!
+requests_sms_intervaltypedaily === daglig
+requests_sms_intervaltypemonthly === månedlig
+requests_sms_reachedmaximumsentpackage === Du har nådd maksimalt antall sendte meldinger for din nåværende pakke!
+response_message_bulkqueuednew === _8880_ meldinger er satt i kø for sending!
+response_whatsapp_invalidmediafile === Ugyldig mediefil!
+response_whatsapp_atleastonebutt === Legg til minst én knapp!
+response_whatsapp_invalidimagefile === Ugyldig bildefil!
+response_whatsapp_listtitlereq === Listetittel er påkrevd!
+response_whatsapp_listmenureq === Listemenytittel er påkrevd!
+response_whatsapp_listformatreq === Listeformat er påkrevd!
+response_whatsapp_listformatinval === Listeformatet er ugyldig!
+response_whatsapp_tempformatreq === Malformat kreves!
+response_whatsapp_tempformatinval === Malformatet er ugyldig!
+response_whatsapp_failedchatsqueue === Kunne ikke legge til chat i WhatsApp-køen!
+response_whatsapp_bulkchatssentcount === _8880_ chatter har stått i kø for sending!
+response_whatsapp_failedchatsqueuemany === Kunne ikke legge til chatter i WhatsApp-køen!
+response_whatsapp_nochatsqueuedpacklimit === Beklager, ingen chatter ble satt i kø. Vennligst sjekk sendegrensen for pakken din!
+response_whatsapp_successfetchgroups === Hentet _8880_ grupper!
+response_whatsapp_nogroupsfoundfetch === Ingen grupper ble funnet!
+response_partners_commisionerror === Partnerprovisjonsprosent kan ikke være mindre enn 1 og større enn 80!
+response_delete_smsdeletecampaign === SMS-kampanje er slettet!
+response_delete_wacampaigndeleted === WhatsApp-kampanjen er slettet!
+response_delete_wagroupdeleted === WhatsApp-gruppen er slettet!
+table_smscampaign_createdtitle === Opprettet
+table_smscampaign_nametitle === Navn
+table_smscampaign_gatewaytitle === Inngangsport
+table_smscampaign_contactstitle === Kontakter
+table_smscampaign_statustitle === Status
+table_smscampaign_optionstitle === Alternativer
+table_campaign_completedstatus === Fullført
+table_smscagmpaign_processingstatus === _8880_ av _8881_ behandlet
+table_campaign_pausecampaign === Sett denne kampanjen på pause
+table_campaign_resumecampaign === Gjenoppta denne kampanjen
+table_smsscheduled_lastsendinfo === Siste sending
+table_smstransac_createdtitle === Opprettet
+table_smstransac_sendertitle === Avsender
+table_smstransac_devicetitle === Enhet
+table_smstransac_messagetitle === Beskjed
+table_smstransac_earningstitle === Inntjening
+table_smstransac_messageremoved === Meldingen er fjernet!
+table_wacampaign_createdtitle === Opprettet
+table_wacampaign_nametitle === Navn
+table_wacampaign_accounttitle === Regnskap
+table_wacampaign_typetitle === Type
+table_wacampaign_contactstitle === Kontakter
+table_wacampaign_statustitle === Status
+table_wacampaign_optionstitle === Alternativer
+table_wacampaign_processingstatus === _8880_ av _8881_ behandlet
+table_wascheduled_lastsendinfo === Siste sending
+table_campaign_pendingstatus === Avventer
+table_wagroups_nametitle === Navn
+table_wagroups_accounttitle === Regnskap
+table_wagroups_addresstitle === Gruppeadresse
+table_wagroups_optionstitle === Alternativer
+table_waaccounts_statustitle === Status
+table_waaccounts_statusconnected === Tilkoblet
+table_waaccounts_statusconnecting === Kobler til
+table_waaccounts_statusdisconnecting === Kobler fra
+table_waaccounts_statusdisconnected === Koblet fra
+table_waaccounts_statuserror === Feil
+table_waaccounts_copyaccountid === Kopier konto-ID
+table_android_brandtitle === Merke
+table_android_partnertitle === Samboer
+table_android_statustitle === Status
+table_android_statusonline === på nett
+table_android_statusoffline === Frakoblet
+table_android_copydeviceid === Kopier enhets unike ID
+table_partnerrates_devicename === Enhetsnavn
+widget_fetchgroups_titlefetch === Hent grupper
+widget_fetchgroups_loaderfetch === Henter grupper fra kontoen
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Oppdater socket-kommunikasjonstokenet. Hvis systemet ikke viser noen live toast-varsler eller ikke oppdaterer i sanntid, vennligst klikk på denne knappen.
+pages_admin_cachehelp === Tøm hele systembufferen. Advarsel! Dette vil også tømme cacher relatert til API, autentisering og betaling. Det anbefales kun å gjøre dette ved oppgradering av systemet.
+pages_admin_themehelp === Endre nettstedmal og design.
+pages_admin_systemsettingshelp === Juster viktige systeminnstillinger.
+pages_sms_campaignstab === Kampanjer
+pages_sms_partnertransactions === Transaksjoner
+pages_whatsapp_campaignstab === Kampanjer
+pages_whatsapp_groupstab === Grupper
+forms_repeatdays_title === Gjenta dager
+forms_repeatdays_tagline === Angi hvor mange dager som skal vente til gjentatt sending av melding. Skriv inn 365 for å gjenta hvert år på samme måned, dag og klokkeslett, hvis ikke vil det bare følge klokkeslettet. Skriv inn 0 for å deaktivere gjentakelse.
+forms_whatsapp_messagetype === Meldingstype
+forms_whatsapp_messagetypehelp === Velg meldingstypen WhatsApp.
+forms_whatsapp_typetext === Tekst
+forms_whatsapp_typemedia === Media
+forms_whatsapp_typebutton === Knapp
+forms_whatsapp_typelist === Liste
+forms_whatsapp_typetemplate === Mal
+forms_whatsapp_mediafile === Mediefil
+forms_whatsapp_mediafilehelp === Mediefil, mediefilen som skal lastes opp. Støtter .jpg, .png, .gif og .mp4-filer.
+forms_whatsapp_imagefile === Bildefil
+forms_whatsapp_imagefilehelp === Egendefinert bildefil, dette er valgfritt.
+forms_whatsapp_buttons === Knapper
+forms_whatsapp_buttonshelp === Egendefinerte knapper, den første knappen kreves.
+forms_whatsapp_buttonsplace1 === Knapp 1
+forms_whatsapp_buttonsplace2 === Knapp 2 (valgfritt)
+forms_whatsapp_buttonsplace3 === Knapp 3 (valgfritt)
+forms_whatsapp_listtitle === Listetittel
+forms_whatsapp_listtitlehelp === Dette er listetittelen.
+forms_whatsapp_listplacetitle === Min liste
+forms_whatsapp_listmenutitle === Menytittel
+forms_whatsapp_listmenutitlehelp === Dette er menytittelen.
+forms_whatsapp_listmenutitleplace === Menytittel
+forms_whatsapp_footermessage === Bunntekstmelding
+forms_whatsapp_footermessagehelp === Egendefinert bunntekstmelding, dette er valgfritt.
+forms_whatsapp_footermessageplace === Dette er bunntekstmeldingen...
+forms_whatsapp_listformat === Listeformat
+forms_whatsapp_listformathelp === Dette er listeformatet, oppgitt json må være gyldig.
+forms_whatsapp_templateformat === Malformat
+forms_whatsapp_templateformathelp === Dette er malformatet, oppgitt json må være gyldig.
+and_settings_line159new === Dette tokenet må ikke deles med noen. Dette brukes til sikkerhet for cronjobs, system-API, WhatsApp-forespørsler og andre eksterne forespørsler. Hvis du tror at systemtokenet ditt ble kompromittert, vennligst generer et nytt. Du må rekonfigurere cronjobs, system-API og andre relaterte innstillinger etter å ha generert et nytt token. Dette vil også påvirke WhatsApp-systemet, alle tilkoblede kontoer vil ikke fungere lenger.
+forms_systemsettings_servicestitle === Tjenester
+forms_systemsettings_waserver === WhatsApp Server URL
+forms_systemsettings_waserverhelp === URL-en til WhatsApp-serveren din, du må være vert for denne på din egen server. Vennligst les dokumentasjonen for installasjonsinstruksjoner.
+forms_systemsettings_waport === WhatsApp serverport
+forms_systemsettings_waporthelp === Porten til WhatsApp-serveren din, standardporten er 7001. Les dokumentasjonen for installasjonsinstruksjoner.
+forms_systemsettings_messagestitle === Meldinger
+forms_systemsettings_partnercommission === Partnerkommisjon
+forms_systemsettings_partnercommissionhelp === Prosentandel av provisjon du ønsker å trekke fra inntektene til partnere for hver melding som sendes. Dette vil være pengene dine og vises i statistikken i administrasjonspanelet. Prosentandelen må ikke være mindre enn 1 og større enn 80!
+forms_systemsettings_partnerminimum === Partners minimumsutbetaling
+forms_systemsettings_partnerminimumhelp === Minimumsinntektsbeløp for å kunne be om uttak. Dette beløpet vil også bruke standard systemvaluta som er den samme med inntekter.
+forms_editdevice_sendinglimittitle === Sendegrense
+forms_editdevice_limitstatus === Begrensningsstatus
+forms_editdevice_limitstatushelp === Hvis aktivert, vil det tillatte antallet meldinger som kan sendes med denne enheten være begrenset per dag eller måned.
+forms_editdevice_limitinterv === Begrens intervall
+forms_editdevice_limitintervhelp === Velg type forsinkelse før du oppdaterer grensetelleren.
+forms_editdevice_messagecount === Antall meldinger
+forms_editdevice_messagecounthelp === Antall meldinger som kan sendes i løpet av grenseintervallet.
+forms_editdevice_limitintervselect1 === Daglig
+forms_editdevice_limitintervselect2 === Månedlig
+forms_editdevice_partnerstatus === Partnerstatus
+forms_edituser_clockformat === Klokkeformat
+forms_edituser_clockformathelp === Velg klokkeformatet som skal brukes når du viser tid hvor som helst i systemet.
+forms_edituser_clockformatselect1 === 12 timer
+forms_edituser_clockformatselect2 === 24 timer
+forms_edituser_dateformat === Datoformat
+forms_edituser_dateformathelp === Velg datoformatet som skal brukes når du viser dato hvor som helst i systemet.
+forms_edituser_dateseparator === Datoskiller
+forms_edituser_dateseparatorhelp === Velg datoskilletegn som skal brukes når du viser dato hvor som helst i systemet.
+forms_campagin_formname === Kampanjenavn
+forms_campagin_formhelp === Kampanjenavn, det opprettes en aktivitetslogg for disse massemeldingene, du vil enkelt kunne stoppe sendingen via kampanjeadministratoren.
+forms_campaign_formplaceholder === f.eks. Eksempelkampanje
+forms_whatsapp_numbersgroupsname === Nummer eller gruppeadresse
+forms_whatsapp_numbersgroupshelp === Flere E.164-numre og WhatsApp-gruppeadresser atskilt med linjeskift.
+forms_whatsapp_groupsimportname === WhatsApp-konto
+forms_whatsapp_groupsimportnamehelp === Velg whatsapp-kontoen der grupper skal hentes.
+forms_whatsapp_groupsimportbutton === Hent
+forms_whatsapp_phonegroupsname === Telefon- eller gruppeadresse
+forms_whatsapp_phonegroupshelp === E.164-mottakers telefonnummer eller WhatsApp-gruppeadresse.
+pages_administration_commissionstitle === Provisjoner
+pages_smscampaigns_header === Kampanjer
+pages_smstransactions_header === Transaksjoner
+pages_smstransactions_comtagline === All SMS som sendes med partnerenheter har et transaksjonsgebyr på _8880_%. Dette er allerede trukket fra i tabellen nedenfor.
+pages_wacampaigns_header === Kampanjer
+pages_wagroups_header === Grupper
+pages_wagroups_fetchbtn === Hent grupper
+tables_plugins_noactionsline === Ingen handlinger
+plugin_header_selectmethod === Velg betalingsmåte
+title_plugin_paymentpage === Betalingsside
+payment_title_pending === Bestilling venter
+btn_plugin_cancelorderpayment === Avbryt betaling
+payment_title_orderfailed === Bestillingen mislyktes
+payment_page_orderfailed === Noe gikk galt under behandlingen av bestillingsforespørselen din.
+and_rate_gate_3new === _8880_ Priser
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Alternativer

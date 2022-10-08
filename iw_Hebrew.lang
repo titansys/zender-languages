@@ -2405,3 +2405,194 @@ js_calendarall_mondec === דֵצֶמבֶּר
 response_ussddelete_success === בקשת USSD נמחקה!
 response_titanecho_invaltoken === שגיאת תצורת מערכת!
 widgets_addplugin_loader === התקנת תוסף חדש למערכת
+widgets_addwhatsapp_newmodal === חבר את ה-WhatsApp שלך על ידי לחיצה על הכפתור כדי להציג את QRCode ואז סרוק אותו באמצעות כפתור _8880_ באפליקציה. יש לך רק 15 שניות לסרוק את QRCode.
+widgets_addwhatsapp_newmodal2 === פג תוקפו של _8880_, אם חשבונך קושר או לא, אנא לחץ על הלחצן למטה.
+widgets_addwhatsapp_newmodal3 === לְהַמשִׁיך
+widgets_addwhatsapp_newmodal4 === לְבַטֵל
+datatable_addedtoclipboard === נוסף ללוח
+datatable_addedtoclipboardkeys === לחץ על לחצן ההעתקה כדי להוסיף את השורות המוצגות ללוח.
+datatable_addedtoclipboardmulti === שורות שהועתקו:
+datatable_addedtoclipboardsingle === הועתקה שורה אחת
+table_details_schedulednewrepeat === חזור:
+and_edit_dev_line70_1_new === הסכום שאתה רוצה לגבות לכל הודעה, מדינת מכשיר ישמש כבסיס המטבע. ערכים צפים נתמכים גם כמו סנטים.
+widget_waquick_requireaccountnew1 === חשבון וואטסאפ
+requests_whatsapp_notavail === שרת WhatsApp אינו זמין!
+requests_whatsapp_unablegenqr === לא ניתן ליצור WhatsApp QRCode!
+requests_charts_commisionstitle === עמלות
+requests_token_refreshecho === טוקן עבור _8880_ רענן!
+requests_remote_smscampaignresumed === קמפיין ה-SMS חודש!
+requests_remote_smscampaignpaused === קמפיין SMS הושהה!
+requests_remote_wacampaignresumed === קמפיין וואטסאפ חודש!
+requests_remote_wacampaignpaused === קמפיין WhatsApp הושהה!
+requests_create_payoutwithdrawalamountatleast === סכום המשיכה צריך להיות לפחות _8880_ _8881_!
+requests_sms_intervaltypereachedmax === התקבלו הודעות _8880_ המותרות עבור מכשיר זה, אנא נסה שוב מאוחר יותר!
+requests_sms_encounteredgatewayerror === נתקלנו בשגיאת שער!
+requests_sms_gatewaycannotsendowndevices === אינך יכול לשלוח הודעות עם קרדיט באמצעות המכשירים שלך!
+requests_create_encounteredshortenererror === נתקלנו בשגיאת מקצר!
+requests_create_campaignnametooshort === שם הקמפיין קצר מדי!
+requests_sms_intervaltypedaily === יום יומי
+requests_sms_intervaltypemonthly === יַרחוֹן
+requests_sms_reachedmaximumsentpackage === הגעת למקסימום ההודעות שנשלחו עבור החבילה הנוכחית שלך!
+response_message_bulkqueuednew === _8880_ הודעות הועמדו בתור לשליחה!
+response_whatsapp_invalidmediafile === קובץ מדיה לא חוקי!
+response_whatsapp_atleastonebutt === אנא הוסף כפתור אחד לפחות!
+response_whatsapp_invalidimagefile === קובץ תמונה לא חוקי!
+response_whatsapp_listtitlereq === כותרת רשימה נדרשת!
+response_whatsapp_listmenureq === כותרת תפריט רשימה נדרשת!
+response_whatsapp_listformatreq === נדרש פורמט רשימה!
+response_whatsapp_listformatinval === פורמט הרשימה אינו חוקי!
+response_whatsapp_tempformatreq === נדרש פורמט תבנית!
+response_whatsapp_tempformatinval === פורמט התבנית אינו חוקי!
+response_whatsapp_failedchatsqueue === נכשלה הוספת הצ'אט לתור WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ צ'אטים הועמדו בתור לשליחה!
+response_whatsapp_failedchatsqueuemany === הוספת צ'אטים לתור WhatsApp נכשלה!
+response_whatsapp_nochatsqueuedpacklimit === מצטערים, לא תוארו צ'אטים בתור. אנא בדוק את מגבלת השליחה של החבילה שלך!
+response_whatsapp_successfetchgroups === קבוצות _8880_ הוחזרו בהצלחה!
+response_whatsapp_nogroupsfoundfetch === לא נמצאו קבוצות!
+response_partners_commisionerror === אחוז עמלת השותף לא יכול להיות פחות מ-1 ויותר מ-80!
+response_delete_smsdeletecampaign === קמפיין SMS נמחק!
+response_delete_wacampaigndeleted === קמפיין WhatsApp נמחק!
+response_delete_wagroupdeleted === קבוצת וואטסאפ נמחקה!
+table_smscampaign_createdtitle === נוצר
+table_smscampaign_nametitle === שֵׁם
+table_smscampaign_gatewaytitle === כְּנִיסָה
+table_smscampaign_contactstitle === אנשי קשר
+table_smscampaign_statustitle === סטָטוּס
+table_smscampaign_optionstitle === אפשרויות
+table_campaign_completedstatus === הושלם
+table_smscagmpaign_processingstatus === _8880_ מתוך _8881_ עובד
+table_campaign_pausecampaign === השהה את הקמפיין הזה
+table_campaign_resumecampaign === המשך מסע פרסום זה
+table_smsscheduled_lastsendinfo === שלח אחרון
+table_smstransac_createdtitle === נוצר
+table_smstransac_sendertitle === שׁוֹלֵחַ
+table_smstransac_devicetitle === התקן
+table_smstransac_messagetitle === הוֹדָעָה
+table_smstransac_earningstitle === רווחים
+table_smstransac_messageremoved === ההודעה הוסרה!
+table_wacampaign_createdtitle === נוצר
+table_wacampaign_nametitle === שֵׁם
+table_wacampaign_accounttitle === חֶשְׁבּוֹן
+table_wacampaign_typetitle === סוּג
+table_wacampaign_contactstitle === אנשי קשר
+table_wacampaign_statustitle === סטָטוּס
+table_wacampaign_optionstitle === אפשרויות
+table_wacampaign_processingstatus === _8880_ מתוך _8881_ עובד
+table_wascheduled_lastsendinfo === שלח אחרון
+table_campaign_pendingstatus === ממתין ל
+table_wagroups_nametitle === שֵׁם
+table_wagroups_accounttitle === חֶשְׁבּוֹן
+table_wagroups_addresstitle === כתובת הקבוצה
+table_wagroups_optionstitle === אפשרויות
+table_waaccounts_statustitle === סטָטוּס
+table_waaccounts_statusconnected === מְחוּבָּר
+table_waaccounts_statusconnecting === מְקַשֵׁר
+table_waaccounts_statusdisconnecting === מתנתק
+table_waaccounts_statusdisconnected === מְנוּתָק
+table_waaccounts_statuserror === שְׁגִיאָה
+table_waaccounts_copyaccountid === העתק את מזהה החשבון
+table_android_brandtitle === מותג
+table_android_partnertitle === בת זוג
+table_android_statustitle === סטָטוּס
+table_android_statusonline === באינטרנט
+table_android_statusoffline === לא מקוון
+table_android_copydeviceid === העתק מזהה ייחודי של מכשיר
+table_partnerrates_devicename === שם התקן
+widget_fetchgroups_titlefetch === אחזר קבוצות
+widget_fetchgroups_loaderfetch === שואב קבוצות מהחשבון
+pages_admin_tokenrefreshbutt === אֲסִימוֹן
+pages_admin_tokenrefreshbutthelp === רענן את אסימון התקשורת בשקע. אם המערכת לא מציגה התראות בזמן אמת או לא מתעדכנת בזמן אמת, אנא לחץ על כפתור זה.
+pages_admin_cachehelp === נקה את כל מטמון המערכת. אַזהָרָה! זה גם ינקה מטמונים הקשורים ל-API, אימות ותשלום. מומלץ לעשות זאת רק בעת שדרוג המערכת.
+pages_admin_themehelp === שנה תבנית ועיצוב אתר.
+pages_admin_systemsettingshelp === התאם הגדרות מערכת חשובות.
+pages_sms_campaignstab === מסעות פרסום
+pages_sms_partnertransactions === עסקאות
+pages_whatsapp_campaignstab === מסעות פרסום
+pages_whatsapp_groupstab === קבוצות
+forms_repeatdays_title === ימים חוזרים
+forms_repeatdays_tagline === הזן כמה ימים להמתין עד שליחת הודעה חוזרת. הזן 365 כדי לחזור כל שנה באותו חודש, יום ושעה, אם לא, זה יעקוב רק אחרי השעה. הזן 0 כדי לבטל את החזרה.
+forms_whatsapp_messagetype === סוג הודעה
+forms_whatsapp_messagetypehelp === בחר את סוג הודעת WhatsApp.
+forms_whatsapp_typetext === טֶקסט
+forms_whatsapp_typemedia === כְּלֵי תִקְשׁוֹרֶת
+forms_whatsapp_typebutton === לַחְצָן
+forms_whatsapp_typelist === רשימה
+forms_whatsapp_typetemplate === תבנית
+forms_whatsapp_mediafile === קובץ מדיה
+forms_whatsapp_mediafilehelp === קובץ מדיה, קובץ המדיה שיש להעלות. תומך בקבצי .jpg, .png, .gif ו-.mp4.
+forms_whatsapp_imagefile === קובץ תמונה
+forms_whatsapp_imagefilehelp === קובץ תמונה מותאם אישית, זה אופציונלי.
+forms_whatsapp_buttons === כפתורים
+forms_whatsapp_buttonshelp === כפתורים מותאמים אישית, הכפתור הראשון נדרש.
+forms_whatsapp_buttonsplace1 === כפתור 1
+forms_whatsapp_buttonsplace2 === לחצן 2 (אופציונלי)
+forms_whatsapp_buttonsplace3 === כפתור 3 (אופציונלי)
+forms_whatsapp_listtitle === כותרת הרשימה
+forms_whatsapp_listtitlehelp === זו כותרת הרשימה.
+forms_whatsapp_listplacetitle === הרשימה שלי
+forms_whatsapp_listmenutitle === כותרת התפריט
+forms_whatsapp_listmenutitlehelp === זו כותרת התפריט.
+forms_whatsapp_listmenutitleplace === כותרת התפריט
+forms_whatsapp_footermessage === הודעה תחתונה
+forms_whatsapp_footermessagehelp === הודעת כותרת תחתונה מותאמת אישית, זו אופציונלית.
+forms_whatsapp_footermessageplace === זו ההודעה התחתונה...
+forms_whatsapp_listformat === פורמט רשימה
+forms_whatsapp_listformathelp === זהו פורמט הרשימה, ה-json שסופק חייב להיות חוקי.
+forms_whatsapp_templateformat === פורמט תבנית
+forms_whatsapp_templateformathelp === זהו פורמט התבנית, ה-json שסופק חייב להיות חוקי.
+and_settings_line159new === אסור לשתף את האסימון הזה עם אף אחד. זה משמש לאבטחת cronjobs, מערכת API, בקשות WhatsApp ובקשות חיצוניות אחרות. אם אתה חושב שאסימון המערכת שלך נפרץ, נא ליצור מחדש אחד חדש, תצטרך להגדיר מחדש את ה-cronjobs, ה-API של המערכת והגדרות קשורות אחרות לאחר יצירת אסימון חדש. זה ישפיע גם על מערכת WhatsApp, כל החשבונות המחוברים לא יעבדו יותר.
+forms_systemsettings_servicestitle === שירותים
+forms_systemsettings_waserver === כתובת האתר של שרת WhatsApp
+forms_systemsettings_waserverhelp === כתובת האתר של שרת WhatsApp שלך, אתה צריך לארח את זה בשרת שלך. אנא קרא את התיעוד לקבלת הוראות התקנה.
+forms_systemsettings_waport === יציאת שרת WhatsApp
+forms_systemsettings_waporthelp === היציאה של שרת WhatsApp שלך, יציאת ברירת המחדל היא 7001. אנא קרא את התיעוד לקבלת הוראות הגדרה.
+forms_systemsettings_messagestitle === הודעות
+forms_systemsettings_partnercommission === ועדת שותפים
+forms_systemsettings_partnercommissionhelp === אחוז העמלה שברצונך לנכות מהרווחים של השותפים עבור כל הודעה שנשלחה. זה יהיה הכסף שלך והוא יוצג בסטטיסטיקה בפאנל הניהול. האחוז לא חייב להיות קטן מ-1 ויותר מ-80!
+forms_systemsettings_partnerminimum === תשלום מינימום לשותף
+forms_systemsettings_partnerminimumhelp === סכום רווחים מינימלי לאפשרות לבקש משיכה. סכום זה ישתמש גם במטבע המערכת המוגדר כברירת מחדל, זהה לרווחים.
+forms_editdevice_sendinglimittitle === מגבלת שליחה
+forms_editdevice_limitstatus === סטטוס מגבלה
+forms_editdevice_limitstatushelp === אם מופעל, מספר ההודעות המותר שניתן לשלוח באמצעות מכשיר זה יוגבל ליום או לחודש.
+forms_editdevice_limitinterv === הגבל מרווח
+forms_editdevice_limitintervhelp === בחר את סוג ההשהיה לפני רענון מונה הגבול.
+forms_editdevice_messagecount === מספר הודעות
+forms_editdevice_messagecounthelp === מספר ההודעות שניתן לשלוח במהלך מרווח הגבלה.
+forms_editdevice_limitintervselect1 === יום יומי
+forms_editdevice_limitintervselect2 === יַרחוֹן
+forms_editdevice_partnerstatus === סטטוס שותף
+forms_edituser_clockformat === פורמט שעון
+forms_edituser_clockformathelp === בחר את פורמט השעון לשימוש בעת הצגת זמן בכל מקום במערכת.
+forms_edituser_clockformatselect1 === 12 שעות
+forms_edituser_clockformatselect2 === 24 שעות
+forms_edituser_dateformat === פורמט תאריך
+forms_edituser_dateformathelp === בחר את פורמט התאריך לשימוש בעת הצגת התאריך בכל מקום במערכת.
+forms_edituser_dateseparator === מפריד תאריכים
+forms_edituser_dateseparatorhelp === בחר את מפריד התאריכים לשימוש בעת הצגת התאריך בכל מקום במערכת.
+forms_campagin_formname === שם מסע הפרסום
+forms_campagin_formhelp === שם מסע הפרסום, יומן פעילות ייווצר עבור הודעות בתפזורת אלו, תוכל להפסיק בקלות את השליחה דרך מנהל הקמפיין.
+forms_campaign_formplaceholder === לְמָשָׁל. קמפיין לדוגמה
+forms_whatsapp_numbersgroupsname === מספרים או כתובת קבוצה
+forms_whatsapp_numbersgroupshelp === מספרי E.164 מרובים וכתובות קבוצות WhatsApp מופרדות על ידי מעבר שורה.
+forms_whatsapp_groupsimportname === חשבון וואטסאפ
+forms_whatsapp_groupsimportnamehelp === בחר את חשבון הוואטסאפ שאליו יובאו קבוצות.
+forms_whatsapp_groupsimportbutton === לְהָבִיא
+forms_whatsapp_phonegroupsname === כתובת טלפון או קבוצה
+forms_whatsapp_phonegroupshelp === מספר טלפון של נמען E.164 או כתובת קבוצת WhatsApp.
+pages_administration_commissionstitle === עמלות
+pages_smscampaigns_header === מסעות פרסום
+pages_smstransactions_header === עסקאות
+pages_smstransactions_comtagline === לכל ה-SMS שנשלח באמצעות מכשירי שותף יש _8880_% עמלת עסקה. זה כבר מופחת בטבלה הבאה.
+pages_wacampaigns_header === מסעות פרסום
+pages_wagroups_header === קבוצות
+pages_wagroups_fetchbtn === אחזר קבוצות
+tables_plugins_noactionsline === אין פעולות
+plugin_header_selectmethod === בחר שיטת תשלום
+title_plugin_paymentpage === דף תשלום
+payment_title_pending === הזמנה בהמתנה
+btn_plugin_cancelorderpayment === בטל תשלום
+payment_title_orderfailed === ההזמנה נכשלה
+payment_page_orderfailed === משהו השתבש במהלך עיבוד בקשת ההזמנה שלך.
+and_rate_gate_3new === _8880_ תעריפים
+and_rate_gate_idname === מזהה: _8880_
+table_ratespartners_optionstitle === אפשרויות

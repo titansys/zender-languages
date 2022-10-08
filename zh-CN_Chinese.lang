@@ -1,0 +1,2598 @@
+and_dashboard_modules_header_line20 === 安卓
+and_dashboard_modules_header_line25 === WhatsApp
+and_dashboard_modules_header_line45 === 管理面板
+and_dashboard_pages_android_line10 === 安卓
+and_dashboard_pages_android_line40 === 预定的
+and_dashboard_pages_android_line46 === USSD
+and_dashboard_pages_android_line52 === 通知
+and_dashboard_pages_android_line58 === 设备
+and_dashboard_pages_contacts_line40 === 退订
+and_dashboard_pages_defailt_line37 === 网关费率
+and_dashboard_pages_default_line42 === 文档
+and_dashboard_pages_default_line58 === 留言
+and_dashboard_pages_default_line60 === 过去 7 天
+and_dashboard_pages_default_line74 === 活动
+and_dashboard_pages_default_line76 === 过去 7 天
+and_dashboard_pages_default_line90 === 实用程序
+and_dashboard_pages_default_line92 === 过去 7 天
+and_dashboard_pages_default_line109 === 伙伴
+and_dashboard_pages_default_line117 === 收益
+and_dashboard_pages_default_line131 === 支付
+and_dashboard_pages_default_line140 === 平衡
+and_dashboard_pages_default_line148 === 学分
+and_dashboard_pages_default_line162 === 充值
+and_dashboard_pages_default_line170 === 交货率
+and_dash_pg_def_line178 === 成功
+and_dash_pg_def_line190 === 失败的
+and_dash_pg_def_line204 === 发件人
+and_dash_pg_def_line209 === 您没有订阅我们的任何高级套餐！
+and_dash_pg_def_line217 === 设备
+and_dash_pg_def_line224 === 链接
+and_dash_pg_def_line232 === 账户
+and_dash_pg_def_line239 === 链接
+and_dash_pg_def_line250 === 下载并安装我们的官方应用程序以获得最佳用户体验
+and_dash_pg_doc_line10 === 文件
+and_dash_pg_doc_line28 === API
+and_dash_pg_doc_line34 === 网络挂钩
+and_dash_pg_doc_line40 === 行动
+and_dash_pg_doc_line46 === 设备
+and_dash_pg_doc_line52 === 合伙
+and_dash_pg_for_line29 === 取消
+and_dash_pg_log_line14 === 使用 Facebook 登录
+and_dash_pg_log_line17 === 用谷歌登录
+and_dash_pg_log_line20 === 使用 VKontakte 登录
+and_dash_pg_log_line54 === 创建账户
+and_dash_pg_pay_line45 === 我们已收到您的订单请求，一旦付款交易得到验证，我们的系统将自动向您发送一封电子邮件并将更改应用到您的帐户。
+and_dash_pg_rates_line10 === 网关费率
+and_dash_pg_rates_line39 === 伙伴
+and_dash_pg_reg_line15 === 注册脸书
+and_dash_pg_reg_line20 === 在谷歌注册
+and_dash_pg_reg_line25 === 在 VKontakte 注册
+and_dash_pg_whats_line10 === WhatsApp
+and_dash_pg_whats_line10_1 === 贝塔
+and_dash_pg_whats_line28 === 发送
+and_dash_pg_whats_line34 === 已收到
+and_dash_pg_whats_line40 === 预定的
+and_dash_pg_whats_line46 === 账户
+and_dash_api_line17 === 键名。
+and_dash_api_line19 === 例如。对于我的服务器
+and_dash_api_line24 === 关键权限。
+and_dash_auto_line17 === 动作名称。
+and_dash_auto_line19 === 例如。迈克尔
+and_dash_auto_line24 === 资源
+and_dash_auto_line24_1 === 接收事件的来源。
+and_dash_auto_line27 === 短信
+and_dash_auto_line28 === WhatsApp
+and_dash_auto_line34 === 响应以逗号分隔的关键字。如果在消息内容中检测到这些关键字，将触发自动响应。
+and_dash_auto_line36 === 例如。谢谢，好的，订阅，是的
+and_dash_auto_line41 === 要发送给发件人的消息。
+and_dash_auto_line43 === 例如。您在此处回复消息，接受简码
+and_dash_auto_line48 === 您可以在消息中使用的一组变量。
+and_dash_con_line24 === 联系电话。
+and_dash_con_line31 === 联络组。
+and_dash_con_line17 === 联系人姓名。
+and_dash_cre_line28 === 购买
+and_dash_gate_line17 === 姓名
+and_dash_gate_line17_1 === 这是将向您的用户显示的网关名称。
+and_dash_gate_line19 === 例如。特维利奥
+and_dash_gate_line24 === 控制器
+and_dash_gate_line24_1 === 选择网关控制器文件，这将包含您的网关逻辑和代码。建议检查文档。
+and_dash_gate_line27 === 控制器样板：
+and_dash_gate_line34 === 打回来
+and_dash_gate_line34_1 === 如果启用，则需要使用 3rd 方网关的回调功能来验证消息的发送状态，否则，消息将在发送时立即标记为已发送。
+and_dash_gate_line37 === 使能够
+and_dash_gate_line38 === 禁用
+and_dash_gate_line44 === 回调ID
+and_dash_gate_line44_1 === 如果启用了回调，您必须复制此 ID 并将其粘贴到您的控制器，以便系统可以识别回调。
+and_dash_gate_line47 === 复制并粘贴回调 ID
+and_dash_gate_line54 === 价钱
+and_dash_gate_line54_1 === 此网关的自定义定价表。这将允许您在 3rd 方价格之上收费。例如，如果 twilio 对指定国家/地区收取 0.01，那么您可以改为收取 0.02，货币基于您的系统货币。请正确遵循定价格式。
+and_dash_gate_line57 === 示例 JSON 定价：
+and_dash_gate_line57_1 === 下载
+and_dash_grp_line17 === 团队名字。
+and_dash_grp_line19 === 例如。朋友们
+and_dash_hook_line17 === 动作名称。
+and_dash_hook_line19 === 例如。测试动作
+and_dash_hook_line24 === 资源
+and_dash_hook_line24_1 === 事件来源。
+and_dash_hook_line34 === 选择将调用此挂钩的事件。
+and_dash_hook_line44 === 挂钩链接结构，这是系统将调用的 url。仅支持 GET 方法。
+and_dash_hook_line51 === 您可以在挂钩 URL 中使用的一组变量。
+and_dash_hook_line27 === 短信
+and_dash_hook_line28 === WhatsApp
+and_dash_hook_line37 === 发送时
+and_dash_hook_line38 === 接收时
+and_dash_lang_line17 === 语言名称。
+and_dash_lang_line19 === 例如。韩国人
+and_dash_lang_line24 === 国家代码。
+and_dash_lang_line35 === RTL
+and_dash_lang_line35_1 === 如果启用，语言将被识别为从右到左的方向。
+and_dash_lang_line38 === 是的
+and_dash_lang_line39 === 不
+and_dash_lang_line45 === 翻译字符串。
+and_dash_mail_line17 === 标题
+and_dash_mail_line17_1 === 邮件标题。
+and_dash_mail_line19 === 例如。公告
+and_dash_mail_line24 === 用户
+and_dash_mail_line24_1 === 由用户发送。
+and_dash_mail_line36 === 角色
+and_dash_mail_line36_1 === 按角色发送。
+and_dash_mail_line48 === 内容
+and_dash_mail_line48_1 === 邮件内容，允许使用 html。
+and_dash_mail_line50 === 你好世界！
+and_dash_not_line17 === 标题
+and_dash_not_line17_1 === 通知标题。
+and_dash_not_line19 === 例如。公告
+and_dash_not_line24 === 信息
+and_dash_not_line24_1 === 通知消息。
+and_dash_not_line31 === 颜色
+and_dash_not_line31_1 === 通知颜色。
+and_dash_not_line35 === 成功
+and_dash_not_line36 === 警告
+and_dash_not_line37 === 危险
+and_dash_not_line43 === 图片
+and_dash_not_line43_1 === 通知图片，这是可选的。
+and_dash_not_line46 === 可选的
+and_dash_not_line53 === 用户
+and_dash_not_line53_1 === 由用户广播。
+and_dash_not_line65 === 角色
+and_dash_not_line65_1 === 按角色广播。
+and_pack_line17 === 包裹名字。
+and_pack_line19 === 例如。贵宾套餐
+and_pack_line24 === 套餐价格，这个应该按照系统币种。不允许使用浮点值。
+and_pack_line29 === 例如。 25
+and_pack_line34 === 如果启用，消息和 whatsapp 聊天将在收件人收到时包含页脚标记。
+and_pack_line44 === 如果启用，包将从包模式和主页中隐藏。
+and_pack_line58 === 短信发送限制
+and_pack_line58_1 === 重置前用户可以发送的最大消息数。输入 0 表示无限制。
+and_pack_line60 === 例如。 300
+and_pack_line65 === 短信接收限制
+and_pack_line65_1 === 重置前用户可以接收的最大消息数。输入 0 表示无限制。
+and_pack_line67 === 例如。 150
+and_pack_line72 === USSD 限额
+and_pack_line72_1 === 重置前用户可以请求的最大 ussd 数量。输入 0 表示无限制。
+and_pack_line74 === 例如。 25
+and_pack_line79 === 通知限制
+and_pack_line79_1 === 重置前用户可以接收的最大通知数。输入 0 表示无限制。
+and_pack_line81 === 例如。 1300
+and_pack_line86 === 可以链接到用户帐户的最大 android 设备数。输入 0 表示无限制。
+and_pack_line88 === 例如。 25
+and_pack_line92 === WhatsApp 设置
+and_pack_line97 === 重置前用户可以发送的最大聊天数。输入 0 表示无限制。
+and_pack_line99 === 例如。 300
+and_pack_line104 === 重置前用户可以接收的最大聊天数。输入 0 表示无限制。
+and_pack_line106 === 例如。 150
+and_pack_line111 === 账户限额
+and_pack_line111_1 === 可以链接到用户帐户的 WhatsApp 帐户的最大数量。输入 0 表示无限制。
+and_pack_line113 === 例如。 10
+and_pack_line117 === 实用程序设置
+and_pack_line122 === 用户可以保存的最大联系人数量。输入 0 表示无限制。
+and_pack_line124 === 例如。 25
+and_pack_line129 === 预定限制
+and_pack_line129_1 === 用户可以保存的预定消息/聊天的最大数量。输入 0 表示无限制。这结合了短信和whatsapp。
+and_pack_line131 === 例如。 25
+and_pack_line136 === 可以创建的 API 密钥的最大数量。输入 0 表示无限制。
+and_pack_line138 === 例如。 10
+and_pack_line143 === 可以创建的最大 Webhook 数。输入 0 表示无限制。
+and_pack_line145 === 例如。 5
+and_pack_line150 === 行动限制
+and_pack_line150_1 === 可以创建的最大操作数。输入 0 表示无限制。
+and_pack_line152 === 例如。 5
+and_page_line17 === 页面名称。
+and_page_line24 === 只有选定的角色才能访问此页面。
+and_page_line35 === 如果启用，如果未登录，页面将无法访问。
+and_page_line45 === 页面内容。允许所有 html 标签，添加来自未知来源的脚本时要小心！
+and_payout_line17 === 数量
+and_payout_line17_1 === 提款金额，仅限整数。
+and_payout_line19 === 例如。 50
+and_payout_line24 === 提供者
+and_payout_line24_1 === 选择您要用于收款的支付提供商。
+and_payout_line27 === 贝宝
+and_payout_line28 === 派安盈
+and_payout_line34 === 付款地址
+and_payout_line34_1 === 付款地址或电子邮件，请仔细检查以防止付款问题。
+and_payout_line36 === 例如。您的贝宝电子邮件
+and_payout_line43 === 要求
+and_plug_line17 === 插件文件
+and_plug_line17_1 === 插件 zip 文件，请确保选择正确的文件。
+and_push_line17 === 标题
+and_push_line17_1 === 推送标题。
+and_push_line19 === 例如。公告
+and_push_line24 === 图片
+and_push_line24_1 === 推送图像缩略图，这是可选的。
+and_push_line27 === 可选的
+and_push_line34 === 信息
+and_push_line34_1 === 推送消息。
+and_push_line41 === 用户
+and_push_line41_1 === 由用户广播。
+and_push_line53 === 角色
+and_push_line53_1 === 按角色广播。
+and_role_line17 === 角色名称。
+and_role_line19 === 例如。开发商
+and_role_line24 === 选择您要为此角色禁用/启用的权限和功能。更改会实时应用，具有该角色的已连接用户的浏览器选项卡会自动重新加载。
+and_short_line17 === 姓名
+and_short_line17_1 === 缩写名称。
+and_short_line19 === 例如。比特利
+and_short_line24 === 控制器
+and_short_line24_1 === 选择缩短器控制器文件，这将包含您的缩短器逻辑和代码。建议检查文档。
+and_short_line27 === 控制器样板：
+and_sms_line17 === 预定消息的名称。
+and_sms_line19 === 例如。我的留言
+and_sms_line24 === 选择计划日期。
+and_sms_line26 === 例如。 2020 年 6 月 22 日上午 12:00
+and_sms_line31 === 如果启用，则每次匹配预定日期时都会安排消息。
+and_sms_line42 === 由换行符分隔的多个 E.164 号码。
+and_sms_line55 === 选择多个联系人组
+and_sms_line67 === 起酥油
+and_sms_line67_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_sms_line70 === 不要缩短链接
+and_sms_line79 === 网关模式
+and_sms_line79_1 === 您要使用的网关模式。如果您选择设备，将显示您的链接设备进行发送，否则将显示第 3 方和合作伙伴网关。
+and_sms_line82 === 设备
+and_sms_line83 === 学分
+and_sms_line88 === 要使用的 SIM 卡插槽。
+and_sms_line91 === SIM1
+and_sms_line92 === SIM2
+and_sms_line97 === 您的预制消息模板。
+and_sms_line110 === 您的链接设备，选择您要用于发送的设备。
+and_sms_line121 === 短信网关
+and_sms_line121_1 === 第三方和合作伙伴网关，当您使用这些网关发送消息时，将使用您的积分。我们建议您在使用之前检查网关价格。
+and_sms_line141 === 纺纱税
+and_sms_line144 === 例子：
+and_sms_line144_1 === 汤姆是一个
+and_sms_line144_2 === 猫
+and_sms_line147 === 价值
+and_sms_line147_1 === 好的
+and_sms_line147_2 === 和
+and_sms_line147_3 === 坏的
+and_sms_line147_4 === 将随机使用。
+and_subs_line17 === 用户帐号。
+and_subs_line28 === 订阅包。
+and_subs_line41 === 订阅期限。
+and_subs_line43 === 例如。 12
+and_temp_line17 === 模板名称。
+and_temp_line24 === 模板格式。
+and_temp_line31 === 纺纱税
+and_temp_line31_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_temp_line35 === 例子：
+and_temp_line35_1 === 汤姆是一个
+and_temp_line35_2 === 猫
+and_temp_line38 === 价值
+and_temp_line38_1 === 好的
+and_temp_line38_2 === 坏的
+and_temp_line38_3 === 将随机使用。
+and_temp_line43 === 您可以在消息中使用的一组变量。
+and_user_line17 === 完整的法定名称。
+and_user_line19 === 例如。迈克尔·科尔斯
+and_user_line24 === 合法的邮件地址。
+and_user_line26 === 例如。用户@mail.com
+and_user_line31 === 输入用户密码。
+and_user_line38 === 用户位置时区，如果他们在不同的国家，请更改此设置。时区用于发送消息和其他数据的日期和时间准确性。
+and_user_line49 === 国家
+and_user_line49_1 === 用户国家，用于支付和电话号码格式。
+and_user_line60 === 通知声音
+and_user_line60_1 === 如果禁用，通知将静音。
+and_user_line70 === 选择用户角色。
+and_user_line81 === 选择用户语言。
+and_user_line92 === 合作伙伴计划
+and_user_line92_1 === 如果启用，用户将能够将他们的设备用作全球设备，这将允许他们在其他用户使用他们的设备发送消息时赚钱。
+and_ussd_line17 === USSD 代码
+and_ussd_line17_1 === USSD 请求代码。
+and_ussd_line19 === 例如。 *121#
+and_ussd_line24 === 要使用的 SIM 卡插槽。
+and_ussd_line27 === SIM1
+and_ussd_line28 === SIM2
+and_ussd_line34 === 您的链接设备，选择您要用于 ussd 请求的设备。
+and_ussd_line47 === 要求
+and_vouch_line17 === 凭证名称。
+and_vouch_line19 === 例如。特别的
+and_vouch_line24 === 您要创建的代金券数量。最大值为1000！
+and_vouch_line26 === 例如。 100
+and_vouch_line31 === 订阅期限。
+and_vouch_line33 === 例如。 12
+and_vouch_line38 === 订阅包。
+and_web_line17 === 网络挂钩名称。
+and_web_line24 === 接收事件
+and_web_line24_1 === 选择您需要的接收事件，它们将通过 POST 方法发送到您的 web hook url。
+and_web_line27 === 短信
+and_web_line28 === WhatsApp
+and_web_line29 === USSD
+and_web_line30 === 通知
+and_web_line36 === 您的 webhook url，所有有效负载数据都将通过 POST 方法发送到此处。
+and_web_line38 === 例如。 http://yourdomain.com/hook_listen.php
+and_whatssched_line17 === 预定聊天的名称。
+and_whatssched_line19 === 例如。我的留言
+and_whatssched_line24 === 选择计划日期。
+and_whatssched_line26 === 例如。 2020 年 6 月 22 日上午 12:00
+and_whatssched_line31 === 如果启用，则每次匹配预定日期时都会安排聊天。
+and_whatssched_line42 === 由换行符分隔的多个 E.164 号码。
+and_whatssched_line55 === 选择多个联系人组
+and_whatssched_line67 === 起酥油
+and_whatssched_line67_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_whatssched_line70 === 不要缩短链接
+and_whatssched_line79 === 帐户
+and_whatssched_line79_1 === 选择您要使用的 WhatsApp 帐户。
+and_whatsached_line88 === 您的预制消息模板。
+and_whatssched_line103 === 纺纱税
+and_whatssched_line103_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_whatssched_line107 === 例子：
+and_whatssched_line101_1 === 汤姆是一个
+and_whatssched_line107_2 === 猫
+and_whatssched_line110 === 价值
+and_whatssched_line110_1 === 好的
+and_whatssched_line110_2 === 和
+and_whatssched_line110_3 === 坏的
+and_whatssched_line110_4 === 将随机使用。
+and_whatssched_line115 === 您可以在消息中使用的一组变量。
+and_whatssched_line128 === 提交
+and_whatsapp_line15 === 通过单击按钮连接您的 WhatsApp 以显示二维码，然后通过扫描它
+and_whatsapp_line15_1 === 链接设备
+and_whatsapp_line15_2 === 应用程序中的按钮。您只有 60 秒的时间扫描 QRCode。
+and_whatsapp_line16 === 关联帐号
+and_add_widget_line17 === 小部件名称。
+and_add_widget_line24 === 小部件图标，仅用于模式。请访问 line awesome 以获取图标参考。
+and_add_widget_line26 === 例如。啦啦资讯圈
+and_add_widget_line31 === 小部件类型。块用于放置模板的不同部分，模态用于动态内容。从 v3 开始，模态框只能在仪表板中使用。
+and_add_widget_line34 === 堵塞
+and_add_widget_line35 === 模态
+and_add_widget_line41 === 小部件大小，仅适用于模态。
+and_add_widget_line53 === 小部件位置，仅用于模式。
+and_add_widget_line64 === 小部件内容。允许所有 html 标签，添加来自未知来源的脚本时要小心！
+and_add_widget_line66 === 你好世界！
+and_admin_build_line16 === 应用
+and_admin_build_line21 === 应用程序包名称，它应该是唯一的，并且遵循类似com.yourdomain.yourapp的格式，我们建议使用您的域名以使其唯一。
+and_admin_build_line23 === 例如。 com.gateway.sample
+and_admin_build_line28 === 应用程序名称，显示在应用程序抽屉和应用程序的其他部分。
+and_admin_build_line30 === 例如。 Zender 网关
+and_admin_build_line35 === 应用描述，对您的应用的简短描述。
+and_admin_build_line42 === 应用颜色主题
+and_admin_build_line42_1 === 应用程序颜色主题，建议与您的应用程序徽标和启动图像颜色相匹配。
+and_admin_build_line44 === 例如。 #000000
+and_admin_build_line49 === APK版本
+and_admin_build_line_49_1 === APK 版本，如果您正在重新构建您的应用程序，请同时更新此字段，增加值，如果当前值为 1，您应该在构建应用程序之前将其增加为 2。这是触发应用程序中的更新功能所必需的，并将强制用户进行更新。
+and_admin_build_line51 === 例如。 1.0
+and_admin_build_line56 === 建立电子邮件
+and_admin_build_line_56_1 === 您的有效电子邮件，请务必更改。构建的结果将发送到此电子邮件！
+and_admin_build_line58 === 例如。 myvalidemail@mail.com
+and_admin_build_line62 === 证书
+and_admin_build_line67 === 谷歌服务
+and_admin_build_line67_1 === 您的 google 服务 json 文件，这是网关应用程序中的 FCM 交易所必需的。
+and_admin_build_line75 === Firebase 凭据
+and_admin_build_line75_1 === 您的 firebase 管理员凭据 json 文件，这是允许系统与应用程序通信所必需的。
+and_admin_build_line82 === 资产
+and_admin_build_line87 === 应用图像标志，这是应用标题中显示的图像。推荐尺寸为 251x53 像素。透明的背景更好。
+and_admin_build_line95 === 应用登录标志
+and_admin_build_line95_1 === 应用程序登录图像标志，这是登录模式中显示的图像。推荐尺寸为 250x100 像素和深色字体。透明的背景更好。
+and_admin_build_line103 === 应用图片图标，显示在应用抽屉和安卓系统中。推荐尺寸为 1024x1024 像素和 png 格式。
+and_admin_build_line111 === 应用程序启动画面图像，当用户打开应用程序时显示。推荐尺寸为 2732x2732 像素和 png 格式。
+and_admin_build_line118 === 结构
+and_admin_build_line123 === 自定义 JavaScript
+and_admin_build_line123_1 === 如果您想使用自定义 javascript 代码，请在此处添加。这是在应用程序中动态加载的。
+and_admin_build_line125 === 例如，alert('Hello World!');
+and_admin_build_line130 === 自定义 CSS
+and_admin_build_line130_1 === 如果您想使用自定义 css 代码，请在此处添加。这是在应用程序中动态加载的。
+and_admin_build_line137 === 自定义布局
+and_admin_build_line137_1 === 如果你想使用自定义的app结构，请修改html内容，如果你不知道你在做什么，请保留默认值。
+and_admin_build_line139 === 你好世界！
+and_settings_line21 === 站点名称，在需要品牌化的任何地方都会显示。
+and_settings_line23 === 例如。曾德
+and_settings_line28 === 网站描述，这是用于搜索引擎优化的，所以要有创意。
+and_settings_line30 === 例如。这是一个很棒的短信网关服务
+and_settings_line35 === 您的 envato 购买代码，这是解锁脚本的一些专有功能所必需的。
+and_settings_line37 === 例如。 e339eed64aa02808b5955f9e3a08de858b6ebfd4
+and_settings_line42 === 您的谷歌分析键，这是可选的，因为系统已经内置了访问者统计信息。
+and_settings_line44 === 例如。 UA-179148389-1
+and_settings_line49 === 您的站点协议，请确保您选择了正确的协议。如果您的网站使用的是 https，请选择它，否则，请选择 http。
+and_settings_line59 === 默认系统语言，在新用户访问您的站点时使用。
+and_settings_line70 === 如果禁用，将不允许通过注册页面进行注册。
+and_settings_line80 === 包装重置模式
+and_settings_line80_1 === 发送、接收、ussd 和通知等限制的重置间隔。这适用于 Android 和 WhatsApp 功能。您在此处的选择也必须应用于 cron 设置。
+and_settings_line83 === 日常的
+and_settings_line84 === 月刊
+and_settings_line90 === 免费模型
+and_settings_line90_1 === 如果启用，默认的免费包会在注册后自动分配给用户。
+and_settings_line100 === 如果禁用，则不会使用主页。根目录中的所有访问都将重定向到仪表板。
+and_settings_line110 === TAWK 聊天小部件
+and_settings_line110_1 === 如果启用，tawk 聊天小部件将向用户显示。
+and_settings_line120 === 您的 tawk 聊天小部件链接，如果您想使用 tawk 聊天支持，这是必需的。
+and_settings_line127 === 管理 API
+and_settings_line127_1 === 选择要启用的管理 API 端点。建议您仅启用您需要的端点。
+and_settings_line159 === 此令牌不得与任何人共享。这用于 cronjobs、系统 API 和其他外部请求的安全性。如果您认为您的系统令牌已被泄露，请重新生成一个新令牌，您需要在重新生成一个新令牌后重新配置您的 cronjobs、系统 API 和其他相关设置。
+and_settings_line160 === 再生
+and_settings_line173 === 如果您想使用内置邮件服务器，请选择 native，否则，选择 smtp 然后配置您的邮件凭据。
+and_settings_line183 === 要使用的 smtp 协议，请选择您的远程邮件服务器支持的协议。
+and_settings_line193 === 站点电子邮件，这是显示给收件人的电子邮件名称，建议使用 noreply@yoursite.com 进行品牌宣传。
+and_settings_line195 === 例如。 noreply@domain.com
+and_settings_line200 === 您的远程 smtp 服务器主机地址。
+and_settings_line205 === 例如。 smtp.gmail.com
+and_settings_line210 === 您的远程 smtp 服务器端口。
+and_settings_line215 === 例如。 587
+and_settings_line220 === 您的远程 smtp 服务器用户名。
+and_settings_line225 === 例如。用户名@gmail.com
+and_settings_line230 === 您的远程 smtp 服务器密码。
+and_settings_line235 === 您的 gmail 帐户密码
+and_settings_line244 === 您的贝宝业务电子邮件。
+and_settings_line246 === 例如。 mail@domain.com
+and_settings_line251 === 如果启用，所有贝宝交易将被重定向到沙盒模式。
+and_settings_line261 === 你的 mollie api 密钥。
+and_settings_line263 === 例如。 test_4vzuJVhRCFSyNyuc6gwvJpQ474Vngp
+and_settings_line268 === 要使用的系统货币，这将用作将交易转换为美元时的基础。
+and_settings_line279 === 选择您要使用的支付提供商。
+and_settings_line293 === 消息的最少字符数。这适用于 SMS 和 WhatsApp。
+and_settings_line295 === 例如。 5
+and_settings_line300 === 消息的最大字符数。这适用于 SMS 和 WhatsApp。输入 0 表示无限字符。
+and_settings_line302 === 例如。 300
+and_settings_line307 === 消息页脚标记，如果邮件的包启用了页脚标记，则将其附加到消息中。
+and_settings_line309 === 例如。从 Zender 系统发送
+and_settings_line318 === 在已发送消息表中显示的默认行数。这适用于 SMS 和 WhatsApp。
+and_settings_line320 === 例如。 10
+and_settings_line325 === 在收到的消息表中显示的默认行数。这适用于 SMS 和 WhatsApp。
+and_settings_line327 === 例如。 10
+and_settings_line336 === 如果启用，访问者将能够使用他们的社交媒体帐户登录。
+and_settings_line346 === 选择您要使用的社交媒体提供商。
+and_settings_line349 === Facebook
+and_settings_line350 === 谷歌
+and_settings_line351 === VKontakte
+and_settings_line357 === 脸书ID
+and_settings_line357_1 === facebook 应用程序 ID，请阅读文档以获取更多信息。
+and_settings_line359 === 例如。 738812983731558
+and_settings_line364 === 脸书秘密
+and_settings_line364_1 === facebook 应用程序的秘密，请阅读文档以获取更多信息。
+and_settings_line366 === 例如。 1d89cf7248be9f9fb70cdef2a2ebe6a9
+and_settings_line371 === 谷歌身份证
+and_settings_line371_1 === 谷歌应用 ID，请阅读文档以获取更多信息。
+and_settings_line373 === 例如。 155708709809-mo917dbn4o5rklodg8a4ai087sr23gab.apps.googleusercontent.com
+and_settings_line378 === 谷歌秘密
+and_settings_line378_1 === 谷歌应用程序的秘密，请阅读文档以获取更多信息。
+and_settings_line380 === 例如。 O0CFK-bJQsEOrpRyrC1IlsIL
+and_settings_line385 === VK ID
+and_settings_line385_1 === vkontakte 应用程序 ID，请阅读文档以获取更多信息。
+and_settings_line387 === 例如。 7768236
+and_settings_line392 === VK 秘密
+and_settings_line392_1 === vkontakte 应用程序的秘密，请阅读文档以获取更多信息。
+and_settings_line394 === 例如。 POScEXENvjuTXPQ6MAjI
+and_settings_line403 === 如果启用，recaptcha 也将显示在登录页面中。在启用此功能之前，请确保您已配置您的 recaptcha 密钥和 recaptcha 密码，否则您将无法登录！
+and_settings_line413 === recaptcha 密钥，请阅读文档以获取更多信息。
+and_settings_line415 === 例如。 6LdUnjsUAAAAAIZl-oWXpQmJPvzLG9geMsKxHdwE
+and_settings_line420 === recaptcha 秘密，请阅读文档以获取更多信息。
+and_settings_line422 === 例如。 6LdUnjsUAAAAAL0_mWF1-BzlSL1r5O_IT_Jr_vMD
+and_theme_line17 === 标志灯
+and_theme_line17_1 === 浅色标志图像，当背景元素较暗时，这会显示在主页和身份验证页面中。推荐尺寸为 250x50 像素。
+and_theme_line23 === 徽标深色
+and_theme_line223_1 === 深色徽标图像，当背景元素为浅色时，会在主页和身份验证页面中显示。推荐尺寸为 250x50 像素。
+and_theme_line29 === 站点图标图像，显示在浏览器选项卡中。推荐尺寸为 50x50 像素。
+and_theme_line35 === 背景图片
+and_theme_line35_1 === 网站背景图片，随处可见。建议使用高分辨率图像。
+and_theme_line41 === 选择要用于站点的颜色主题。
+and_theme_line46 === 选择文本的突出显示颜色。
+and_theme_line51 === 微调器颜色
+and_theme_line51_1 === 选择要用于顶部 ajax 微调器的颜色。
+and_theme_line58 === 自定义 JavaScript
+and_theme_line58_1 === 如果您想使用自定义 javascript 代码，请在此处添加。这是在每个页面中动态加载的。
+and_theme_line60 === 你好世界！
+and_theme_line63 === 自定义 CSS
+and_theme_line63_1 === 如果你想改变一些 css 样式，你可以在这里做。
+and_apikey_line17 === 键名。
+and_apikey_line19 === 例如。对于我的服务器
+and_apikey_line24 === 关键权限。
+and_edit_auto_line17 === 动作名称。
+and_edit_auto_line19 === 例如。自动回复
+and_edit_auto_line24 === 资源
+and_edit_auto_line24_1 === 接收事件的来源。
+and_edit_auto_line34 === 响应以逗号分隔的关键字。如果在消息内容中检测到这些关键字，将触发自动响应。
+and_edit_auto_line36 === 例如。谢谢，好的，订阅，是的
+and_edit_auto_line41 === 要发送给发件人的消息。
+and_edit_auto_line43 === 例如。您在此处回复消息，接受简码
+and_edit_auto_line48 === 您可以在消息中使用的一组变量。
+and_edit_con_line17 === 联系人姓名。
+and_edit_con_line19 === 例如。迈克尔
+and_edit_con_line24 === 联系电话。
+and_edit_con_line31 === 联络组。
+and_edit_dev_line16 === 设备详情
+and_edit_dev_line21 === 设备名称。
+and_edit_dev_line23 === 例如。我的设备
+and_edit_dev_line28 === 如果启用，消息将以 2 个值之间的随机间隔发送。您可以在下面配置它们。
+and_edit_dev_line38 === 以秒为单位的最小间隔。
+and_edit_dev_line41 === 例如。 5
+and_edit_dev_line46 === 以秒为单位的最大间隔。
+and_edit_dev_line49 === 例如。 20
+and_edit_dev_line53 === 通知设置
+and_edit_dev_line58 === 应用
+and_edit_dev_line58_1 === 输入要从中获取通知的应用程序的包名称。用换行符分隔它们。
+and_edit_dev_line65 === 合作伙伴设置
+and_edit_dev_line70 === 速度
+and_edit_dev_line70_1 === 您希望对每条消息收取的金额、设备国家/地区将用作货币基础。它支持浮点值，例如美分。
+and_edit_dev_line73 === 例如。 0.50
+and_edit_dev_line78 === 全球地位
+and_edit_dev_line78_1 === 如果禁用，该设备将无法用作全球短信网关，您将无法赚钱。请注意，出于安全原因，全球设备无法接收消息。
+and_edit_dev_line89 === 国家
+and_edit_dev_line89_1 === 设备所在国家/地区，用于确定电话号码并作为费率字段的基础货币。
+and_edit_dev_line101 === 优先
+and_edit_dev_line101_1 === 全局消息将在您自己的消息之前先发送。
+and_edit_dev_line112 === SIM 插槽
+and_edit_dev_line112_1 === 选择您要用于发送的 SIM 卡槽，如果您同时选择两者，则消息将在随机槽中发送。
+and_edit_email_line16 === 电子邮件模板
+and_edit_email_line18 === 允许 HTML
+and_edit_gate_line17 === 姓名
+and_edit_gate_line17_1 === 这是将向您的用户显示的网关名称。
+and_edit_gate_line19 === 例如。特维利奥
+and_edit_gate_line24 === 控制器
+and_edit_gate_line24_1 === 选择网关控制器文件，这将包含您的网关逻辑和代码。建议检查文档。
+and_edit_gate_line31 === 打回来
+and_edit_gate_line31_1 === 如果启用，则需要使用 3rd 方网关的回调功能来验证消息的发送状态，否则，消息将在发送时立即标记为已发送。
+and_edit_gate_line34 === 使能够
+and_edit_gate_line35 === 禁用
+and_edit_gate_line41 === 回调ID
+and_edit_gate_line41_1 === 如果启用了回调，您必须复制此 ID 并将其粘贴到您的控制器，以便系统可以识别回调。
+and_edit_gate_line44 === 复制并粘贴回调 ID
+and_edit_gate_line51 === 价钱
+and_edit_gate_line51_1 === 此网关的自定义定价表。这将允许您在 3rd 方价格之上收费。例如，如果 twilio 对指定国家/地区收取 0.01，那么您可以改为收取 0.02，货币基于您的系统货币。请正确遵循定价格式。
+and_edit_gate_line54 === 示例 JSON 定价：
+and_edit_gate_line54_1 === 下载
+and_edit_grp_line17 === 团队名字。
+and_edit_grp_line19 === 例如。朋友们
+and_edit_hook_line17 === 动作名称。
+and_edit_hook_line19 === 例如。测试动作
+and_edit_hook_line24 === 资源
+and_edit_hook_line24_1 === 事件来源。
+and_edit_hook_line27 === 短信
+and_edit_hook_line28 === WhatsApp
+and_edit_hook_line34 === 选择将调用此挂钩的事件。
+and_edit_hook_line37 === 发送时
+and_edit_hook_line38 === 接收时
+and_edit_hook_line44 === 挂钩链接结构，这是系统将调用的 url。仅支持 GET 方法。
+and_edit_hook_line51 === 您可以在挂钩 URL 中使用的一组变量。
+and_edit_lang_line17 === 例如。韩国人
+and_edit_lang_line30 === RTL
+and_edit_lang_line32 === 是的
+and_edit_lang_line33 === 不
+and_edit_pack_line17 === 包裹名字。
+and_edit_pack_line19 === 例如。贵宾套餐
+and_edit_pack_line24 === 套餐价格，这个应该按照系统币种。不允许使用浮点值。
+and_edit_pack_line29 === 例如。 25
+and_edit_pack_line34 === 如果启用，消息和 whatsapp 聊天将在收件人收到时包含页脚标记。
+and_edit_pack_line44 === 如果启用，包将从包模式和主页中隐藏。
+and_edit_pack_line53 === 安卓设置
+and_edit_pack_line58 === 短信发送限制
+and_edit_pack_line58_1 === 重置前用户可以发送的最大消息数。输入 0 表示无限制。
+and_edit_pack_line60 === 例如。 300
+and_edit_pack_line65 === 短信接收限制
+and_edit_pack_line65_1 === 重置前用户可以接收的最大消息数。输入 0 表示无限制。
+and_edit_pack_line67 === 例如。 150
+and_edit_pack_line72 === USSD 限额
+and_edit_pack_line72_1 === 重置前用户可以请求的最大 ussd 数量。输入 0 表示无限制。
+and_edit_pack_line74 === 例如。 25
+and_edit_pack_line79 === 通知限制
+and_edit_pack_line79_1 === 重置前用户可以接收的最大通知数。输入 0 表示无限制。
+and_edit_pack_line81 === 例如。 1300
+and_edit_pack_line86 === 可以链接到用户帐户的最大 android 设备数。输入 0 表示无限制。
+and_edit_pack_line88 === 例如。 25
+and_edit_pack_line92 === WhatsApp 设置
+and_edit_pack_line97 === 重置前用户可以发送的最大聊天数。输入 0 表示无限制。
+and_edit_pack_line99 === 例如。 300
+and_edit_pack_line104 === 重置前用户可以接收的最大聊天数。输入 0 表示无限制。
+and_edit_pack_line106 === 例如。 150
+and_edit_pack_line111 === 账户限额
+and_edit_pack_line111_1 === 可以链接到用户帐户的 WhatsApp 帐户的最大数量。输入 0 表示无限制。
+and_edit_pack_line113 === 例如。 10
+and_edit_pack_line117 === 实用程序设置
+and_edit_pack_line122 === 用户可以保存的最大联系人数量。输入 0 表示无限制。
+and_edit_pack_line124 === 例如。 25
+and_edit_pack_line129 === 预定限制
+and_edit_pack_line129_1 === 用户可以保存的预定消息/聊天的最大数量。输入 0 表示无限制。这结合了短信和whatsapp。
+and_edit_pack_line131 === 例如。 25
+and_edit_pack_line136 === 可以创建的 API 密钥的最大数量。输入 0 表示无限制。
+and_edit_pack_line138 === 例如。 10
+and_edit_pack_line143 === 可以创建的最大 Webhook 数。输入 0 表示无限制。
+and_edit_pack_line145 === 例如。 5
+and_edit_pack_line150 === 行动限制
+and_edit_pack_line150_1 === 可以创建的最大操作数。输入 0 表示无限制。
+and_edit_pack_line152 === 例如。 5
+and_edit_page_line17 === 页面名称。
+and_edit_page_line24 === 只有选定的角色才能访问此页面。
+and_edit_page_line35 === 如果启用，如果未登录，页面将无法访问。
+and_edit_page_line45 === 页面内容。允许所有 html 标签，添加来自未知来源的脚本时要小心！
+and_edit_role_line17 === 角色名称。
+and_edit_role_line19 === 例如。开发商
+and_edit_role_line24 === 选择您要为此角色禁用/启用的权限和功能。更改会实时应用，具有该角色的已连接用户的浏览器选项卡会自动重新加载。
+and_edit_short_line17 === 姓名
+and_edit_short_line17_1 === 缩写名称。
+and_edit_short_line19 === 例如。比特利
+and_edit_short_line24 === 控制器
+and_edit_short_line24_1 === 选择缩短器控制器文件，这将包含您的缩短器逻辑和代码。建议检查文档。
+and_edit_sms_line17 === 预定消息的名称。
+and_edit_sms_line19 === 例如。我的留言
+and_edit_sms_line24 === 选择计划日期。
+and_edit_sms_line26 === 例如。 2020 年 6 月 22 日上午 12:00
+and_edit_sms_line31 === 如果启用，则每次匹配预定日期时都会安排消息。
+and_edit_sms_line42 === 由换行符分隔的多个 E.164 号码。
+and_edit_sms_line55 === 选择多个联系人组
+and_edit_sms_line67 === 网关模式
+and_edit_sms_line67_1 === 您要使用的网关模式。如果您选择设备，将显示您的链接设备进行发送，否则将显示第 3 方和合作伙伴网关。
+and_edit_sms_line70 === 设备
+and_edit_sms_line71 === 学分
+and_edit_sms_line76 === 要使用的 SIM 卡插槽。
+and_edit_sms_line79 === SIM1
+and_edit_sms_line80 === SIM2
+and_edit_sms_line88 === 您的链接设备，选择您要用于发送的设备。
+and_edit_sms_line99 === 短信网关
+and_edit_sms_line99_1 === 第三方和合作伙伴网关，当您使用这些网关发送消息时，将使用您的积分。我们建议您在使用之前检查网关价格。
+and_edit_sms_line119 === 纺纱税
+and_edit_sms_line122 === 例子：
+and_edit_sms_line122_1 === 汤姆是一个
+and_edit_sms_line122_2 === 猫
+and_edit_sms_line125 === 价值
+and_edit_sms_line125_1 === 好的
+and_edit_sms_line125_2 === 和
+and_edit_sms_line125_3 === 坏的
+and_edit_sms_line125_4 === 将随机使用。
+and_edit_temp_line17 === 模板名称。
+and_edit_temp_line24 === 模板格式。
+and_edit_temp_line31 === 纺纱税
+and_edit_temp_line31_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_edit_temp_line35 === 例子：
+and_edit_temp_line35_1 === 汤姆是一个
+and_edit_temp_line35_2 === 猫
+and_edit_temp_line38 === 价值
+and_edit_temp_line38_1 === 好的
+and_edit_temp_line38_2 === 和
+and_edit_temp_line38_3 === 坏的
+and_edit_temp_line38_4 === 将随机使用。
+and_edit_temp_line43 === 您可以在消息中使用的一组变量。
+and_eduse_line17 === 您的法定全名，请注意，使用假名可能会导致您的帐户被暂停。
+and_eduse_line19 === 例如。迈克尔·科尔斯
+and_eduse_line24 === 有效的电子邮件地址，如果您想保留当前的电子邮件地址，请忽略此字段。
+and_eduse_line26 === 例如。用户@mail.com
+and_eduse_line31 === 如果您想保留当前密码，请忽略此字段，否则请输入新密码。
+and_eduse_line38 === 您所在的时区，如果您在其他国家/地区，请更改此设置。时区用于确保您发送的消息和其他数据的日期和时间准确性。
+and_eduse_line49 === 国家
+and_eduse_line49_1 === 您所在的国家/地区，这用于付款和电话号码格式。
+and_eduse_line60 === 通知声音
+and_eduse_line60_1 === 如果禁用，通知将静音。
+and_eduse_line70 === 选择用户角色。
+and_eduse_line81 === 选择用户语言。
+and_eduse_line92 === 合作伙伴计划
+and_eduse_line92_1 === 如果启用，用户将能够将他们的设备用作全球设备，这将允许他们在其他用户使用他们的设备发送消息时赚钱。
+and_edweb_line17 === 网络挂钩名称。
+and_edweb_line24 === 接收事件
+and_edweb_line24_1 === 选择您需要的接收事件，它们将通过 POST 方法发送到您的 web hook url。
+and_edweb_line30 === 通知
+and_edweb_line36 === 您的 webhook url，所有有效负载数据都将通过 POST 方法发送到此处。
+and_edweb_line38 === 例如。 https://yourdomain.com/reply.php
+and_edwhat_line17 === 预定聊天的名称。
+and_edwhat_line19 === 例如。我的留言
+and_edwhat_line24 === 选择计划日期。
+and_edwhat_line26 === 例如。 2020 年 6 月 22 日上午 12:00
+and_edwhat_line31 === 如果启用，则每次匹配预定日期时都会安排聊天。
+and_edwhat_line42 === 由换行符分隔的多个 E.164 号码。
+and_edwhat_line55 === 选择多个联系人组
+and_edwhat_line67 === 帐户
+and_edwhat_line67_1 === 选择您要使用的 WhatsApp 帐户。
+and_edwhat_line76 === 您的预制消息模板。
+and_edwhat_line91 === 纺纱税
+and_edwhat_line91_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_edwhat_line95 === 例子：
+and_edwhat_line95_1 === 汤姆是一个
+and_edwhat_line95_2 === 猫
+and_edwhat_line98 === 价值
+and_edwhat_line98_1 === 好的
+and_edwhat_line98_2 === 和
+and_edwhat_line98_3 === 坏的
+and_edwhat_line98_4 === 将随机使用。
+and_edwhat_line103 === 您可以在消息中使用的一组变量。
+and_edwhat_line116 === 提交
+and_edwid_line17 === 小部件名称。
+and_edwid_line24 === 小部件图标，仅用于模式。请访问 line awesome 以获取图标参考。
+and_edwid_line31 === 小部件类型。块用于放置模板的不同部分，模态用于动态内容。从 v3 开始，模态框只能在仪表板中使用。
+and_edwid_line34 === 堵塞
+and_edwid_line35 === 模态
+and_edwid_line41 === 小部件大小，仅适用于模态。
+and_edwid_line53 === 小部件位置，仅用于模式。
+and_edwid_line64 === 小部件内容。允许所有 html 标签，添加来自未知来源的脚本时要小心！
+and_import_line17 === 您要导入的excel文件，请确保遵循所需的格式。
+and_import_line20 === 示例文件：
+and_import_line20_1 === 下载
+and_package_line36 === 短信接收
+and_package_line41 === WhatsApp 发送
+and_package_line46 === WhatsApp 接收
+and_package_line51 === USSD
+and_package_line56 === 通知
+and_package_line61 === 预定的短信/聊天
+and_package_line66 === 联系人
+and_package_line71 === API 密钥
+and_package_line76 === 网络挂钩
+and_package_line81 === 行动
+and_package_line86 === 安卓设备
+and_package_line91 === WhatsApp 帐户
+and_redeem_line18 === 兑换代码。
+and_redeem_line20 === 例如。 2f5b4727c7c8596779b21d7644e2ebb8
+and_sms_bulk_18 === 由换行符分隔的多个 E.164 号码。即使您选择了添加消息的组，也只会将 1 条消息发送到一个号码。
+and_sms_bulk_31 === 选择多个联系人组。即使您选择了多个添加消息的组，也只会向联系人发送 1 条消息。
+and_sms_bulk_43 === 起酥油
+and_sms_bulk_43_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_sms_bulk_46 === 不要缩短链接
+and_sms_bulk_55 === 网关模式
+and_sms_bulk_55_1 === 您要使用的网关模式。如果您选择设备，将显示您的链接设备进行发送，否则将显示第 3 方和合作伙伴网关。
+and_sms_bulk_58 === 设备
+and_sms_bulk_59 === 学分
+and_sms_bulk_64 === 要使用的 SIM 卡插槽。
+and_sms_bulk_67 === SIM1
+and_sms_bulk_68 === SIM2
+and_sms_bulk_72 === 如果启用，这些消息将在其他任何内容之前发送。
+and_sms_bulk_81 === 您的预制消息模板。
+and_sms_bulk_94 === 您的链接设备，选择您要用于发送的设备。
+and_sms_bulk_105 === 短信网关
+and_sms_bulk_105_1 === 第三方和合作伙伴网关，当您使用这些网关发送消息时，将使用您的积分。我们建议您在使用之前检查网关价格
+and_sms_bulk_126 === 翻译消息。
+and_sms_bulk_131 === 纺纱税
+and_sms_bulk_131_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_sms_bulk_135 === 例子：
+and_sms_bulk_143 === 您可以在消息中使用的一组变量。
+and_sms_exe17 === 您要导入的excel文件，请确保遵循所需的格式。
+and_sms_exe20 === 示例文件：
+and_sms_exe20_1 === 下载
+and_sms_exe27 === 起酥油
+and_sms_exe27_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_sms_exe30 === 不要缩短链接
+and_sms_exe39 === 网关模式
+and_sms_exe39_1 === 您要使用的网关模式。如果您选择设备，将显示您的链接设备进行发送，否则将显示第 3 方和合作伙伴网关。
+and_sms_exe42 === 设备
+and_sms_exe43 === 学分
+and_sms_exe47 === 您的预制消息模板。
+and_sms_exe60 === 您的链接设备，选择您要用于发送的设备。
+and_sms_exe70 === 短信网关
+and_sms_exe70_1 === 第三方和合作伙伴网关，当您使用这些网关发送消息时，将使用您的积分。我们建议您在使用之前检查网关价格。
+and_sms_exe92 === 翻译消息。
+and_sms_exe97 === 纺纱税
+and_sms_exe97_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_sms_exe109 === 您可以在消息中使用的一组变量。
+and_sms_quick17 === 收件人电话号码。
+and_sms_quick24 === 网关模式
+and_sms_quick24_1 === 您要使用的网关模式。如果您选择设备，将显示您的链接设备进行发送，否则将显示第 3 方和合作伙伴网关。
+and_sms_quick27 === 设备
+and_sms_quick28 === 学分
+and_sms_quick34 === 起酥油
+and_sms_quick34_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_sms_quick37 === 不要缩短链接
+and_sms_quick46 === 要使用的 SIM 卡插槽。
+and_sms_quick49 === SIM1
+and_sms_quick50 === SIM2
+and_sms_quick56 === 如果启用，这些消息将在其他任何内容之前发送。
+and_sms_quick66 === 您的链接设备，选择您要用于发送的设备。
+and_sms_quick77 === 短信网关
+and_sms_quick77_1 === 第三方和合作伙伴网关，当您使用这些网关发送消息时，将使用您的积分。我们建议您在使用之前检查网关价格。
+and_sms_quick104 === 纺纱税
+and_sms_quick104_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_sysup17 === 更新文件
+and_sysup17_1 === 更新 zip 文件，请确保选择正确的文件。
+and_upplug17 === 更新文件
+and_upplug17_1 === 更新 zip 文件，请确保选择正确的文件。
+and_uset17 === 您的个人资料头像。
+and_uset24 === 您的法定全名，请注意，使用假名可能会导致您的帐户被暂停。
+and_uset26 === 例如。迈克尔·施穆克
+and_uset31 === 您的有效电子邮件地址，如果您想保留当前的电子邮件地址，请忽略此字段。
+and_uset33 === 例如。 yourmail@mail.com
+and_uset38 === 您所在的时区，如果您在其他国家/地区，请更改此设置。时区用于确保您发送的消息和其他数据的日期和时间准确性。
+and_uset49 === 国家
+and_uset49_1 === 您所在的国家/地区，这用于付款和电话号码格式。
+and_uset60 === 通知声音
+and_uset60_1 === 如果禁用，通知将静音。
+and_uset70 === 如果您想保留当前密码，请忽略此字段，否则请输入您的新密码。
+and_usub23 === 有效期至
+and_usub28 === 短信发送
+and_usub34 === 短信接收
+and_usub40 === WhatsApp 发送
+and_usub46 === WhatsApp 接收
+and_usub57 === USSD
+and_usub63 === 通知
+and_usub69 === 预定的短信/聊天
+and_usub98 === 行动
+and_usub104 === 安卓设备
+and_usub110 === WhatsApp 帐户
+and_view20 === 全视图
+and_whatsbulk_18 === 由换行符分隔的多个 E.164 号码。
+and_whatsbulk_31 === 选择多个联系人组。请注意，如果一个联系人有多个组，如果您选择包含该消息的组，则该消息可能会多次发送给它。
+and_whatsbulk_43 === 起酥油
+and_whatsbulk_43_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_whatsbulk_46 === 不要缩短链接
+and_whatsbulk_55 === 帐户
+and_whatsbulk_55_1 === 选择您要使用的 WhatsApp 帐户。
+and_whatsbulk_64 === 您的预制消息模板。
+and_whatsbulk_79 === 翻译消息。
+and_whatsbulk_84 === 纺纱税
+and_whatsbulk_84_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_whatsbulk_96 === 您可以在消息中使用的一组变量。
+and_whatex17 === 您要导入的excel文件，请确保遵循所需的格式。
+and_whatex20 === 示例文件：
+and_whatex20_1 === 下载
+and_whatex27 === 起酥油
+and_whatex27_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_whatex30 === 不要缩短链接
+and_whatex39 === 帐户
+and_whatex39_1 === 选择您要使用的 WhatsApp 帐户。
+and_whatex48 === 您的预制消息模板。
+and_whatex63 === 翻译消息。
+and_whatex68 === 纺纱税
+and_whatex68_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_whatex80 === 您可以在消息中使用的一组变量。
+and_whatquick_17 === E.164 收件人电话号码。
+and_whatquick_24 === 起酥油
+and_whatquick_24_1 === 如果启用，消息中的链接将使用选定的缩短器自动缩短。
+and_whatquick_27 === 不要缩短链接
+and_whatquick_36 === 帐户
+and_whatquick_36_1 === 选择您要使用的 WhatsApp 帐户。
+and_whatquick_50 === 翻译消息。
+and_whatquick_55 === 纺纱税
+and_whatquick_55_1 === 该功能允许您随机化消息中的单词，从而有效地防止垃圾邮件检测。
+and_admin_api_3 === 管理 API
+and_admin_fileman_3 === 模板编辑器
+and_admin_gate_3 === 短信网关
+and_admin_gate_8 === 添加网关
+and_admin_lang_6 === 重新排序语言
+and_admin_mark_3 === 营销
+and_admin_mark_6 === 删除所选项目
+and_admin_mark_12 === 推
+and_admin_mark_17 === 通知
+and_admin_mark_22 === 梅勒
+and_admin_payout_3 === 付款请求
+and_admin_short_3 === 起酥油
+and_admin_short_8 === 添加缩短剂
+and_admin_subs_8 === 添加订阅
+and_admin_vouch_6 === 删除所选项目
+and_droid_dev_3 === 安卓设备
+and_droid_dev_6 === 阅读文档
+and_droid_dev_8 === 文档
+and_droid_dev_11 === 申请成为合作伙伴网关提供商
+and_droid_dev_13 === 合伙
+and_droid_dev_16 === 注册一个新的安卓设备
+and_droid_not_3 === 通知
+and_droid_not_6 === 删除所选项目
+and_droid_rev_3 === 收到短信
+and_droid_rev_6 === 删除选定的消息
+and_droid_sched_6 === 删除所选项目
+and_droid_sent_3 === 发送短信
+and_droid_sent_6 === 删除所选项目
+and_droid_sent_10 === 清除所有待处理消息
+and_droid_sent_14 === 发送快速短信
+and_droid_sent_16 === 快的
+and_droid_sent_19 === 发送群发短信
+and_droid_sent_21 === 块
+and_droid_sent_24 === 通过 Excel 发送群发短信
+and_droid_ussd_3 === USSD 请求
+and_droid_ussd_6 === 删除所选项目
+and_droid_ussd_10 === 删除所有待处理的请求
+and_droid_ussd_14 === 新 USSD 请求
+and_droid_ussd_16 === 要求
+and_con_grp_6 === 删除所选项目
+and_con_grp_10 === 添加新的联系人组
+and_con_sav_6 === 删除所选项目
+and_con_sav_10 === 添加新联系人
+and_con_sav_15 === 从excel文件导入联系人
+and_con_unsub_3 === 退订
+and_con_unsub_6 === 删除所选项目
+and_doc_act_3 === 行动
+and_doc_api_3 === API 文档
+and_doc_dev_3 === 设备
+and_doc_partner_3 === 合伙
+and_doc_webhook_3 === 网络挂钩
+and_rate_gate_3 === 费率
+and_rate_gate_10 === 国家
+and_rate_gate_11 === 每条消息速率
+and_rate_gate_22 === 其他国家
+and_rate_partner_3 === 合作伙伴价格
+and_tool_act_3 === 行动
+and_tool_act_6 === 阅读文档
+and_tool_act_8 === 文档
+and_tool_act_11 === 添加新的钩子动作
+and_tool_act_13 === 钩
+and_tool_act_16 === 添加新的自动回复操作
+and_tool_act_18 === 自动回复
+and_tool_key_6 === 阅读文档
+and_tool_key_8 === 文档
+and_tool_key_11 === 创建新的 API 密钥
+and_tool_webhook_6 === 阅读文档
+and_tool_webhook_8 === 文档
+and_what_accnt_6 === 连接一个新帐户
+and_what_accnt_8 === 新增帐户
+and_what_attach_8 === 删除选定的消息
+and_what_rev_3 === 收到的聊天记录
+and_what_rev_6 === 删除所选项目
+and_what_sched_6 === 删除所选项目
+and_what_sched_12 === 安排聊天
+and_what_sent_3 === 发送聊天
+and_what_sent_6 === 删除所选项目
+and_what_sent_10 === 发送快速聊天
+and_what_sent_12 === 快的
+and_what_sent_15 === 发送群聊
+and_what_sent_17 === 块
+and_what_sent_20 === 通过 Excel 发送群聊
+and_def_f_blck_6 === 开始营销
+and_def_f_blck_7 === 让我们一起创业，一起成长，现在就注册，体验优质的营销平台！
+and_def_f_blck_8 === 加入我们
+and_def_f_blck_35 === 保持联系
+and_head_blck_21 === 家
+and_head_blck_24 === 特征
+and_head_blck_27 === 价钱
+and_head_blck_30 === 客户
+and_head_blck_39 === 仪表板
+and_head_blck_42 === 登出
+and_pages_default_8 === 最好的 SMS 和 WhatsApp 营销
+and_pages_default_29 === 短信
+and_pages_default_31 === 使用你的安卓设备作为短信网关，这比使用第三方网关便宜。
+and_pages_default_40 === WhatsApp 消息
+and_pages_default_42 === 使用 WhatsApp 进行营销活动，我们的平台提供了帮助您入门的工具。
+and_pages_default_51 === 直观的工具
+and_pages_default_53 === 我们提供工具来帮助您完成营销任务，例如自动回复、网络挂钩等。
+and_pages_default_62 === 赚钱
+and_pages_default_64 === 成为我们的合作伙伴之一，将您的安卓设备用作网关，并为发送的每条消息赚钱。
+and_pages_default_73 === 为什么使用我们的服务？
+and_pages_default_74 === 以下是您应该开始使用我们服务的一些原因
+and_pages_default_84 === 快速批量发送
+and_pages_default_86 === 轻松向不同的联系人组发送大量消息，您还可以发送快速消息以进行快速交易。我们的平台还包括实时仪表板，在您发送或接收消息时收到通知！
+and_pages_default_89 === 简码
+and_pages_default_89_1 === 用于使用预定义数据编写消息。
+and_pages_default_90 === 纺纱税
+and_pages_default_90_1 === 用于随机化一组单词以解决垃圾邮件问题。
+and_pages_default_91 === 译者
+and_pages_default_91_1 === 用于根据他们的语言定位受众。
+and_pages_default_98 === 自动化和智能工具
+and_pages_default_100 === 在我们处理脏活的同时管理您的业务，我们的平台很智能，只需要您想要发送的消息，剩下的交给我们！
+and_pages_default_103 === 日程
+and_pages_default_103_1 === 您的短信和whatsapp 在您想要的任何日期聊天。
+and_pages_default_104 === 网络挂钩
+and_pages_default_104_1 === 当您收到来自短信和whatsapp 的消息时自动执行某些任务。
+and_pages_default_105 === 行动
+and_pages_default_105_1 === 用于创建事件的自动响应和快速数据检查。
+and_pages_default_106 === USSD
+and_pages_default_106_1 === 用于执行网络相关请求，例如检查运营商的余额。
+and_pages_default_107 === 通知
+and_pages_default_107_1 === 来自连接的 android 设备也可用于自动化任务。
+and_pages_default_137 === 我们以我们的战略特色保证您的业务成功
+and_pages_default_139 === 我们的平台经过精心设计，可以满足不断增长的营销业务的需求，我们希望确保您花在我们服务上的每一分钱都是应得的，并让您 100% 满意！
+and_pages_default_145 === 易于使用和流畅的平台
+and_pages_default_148 === 价格实惠但保持优质服务
+and_pages_default_156 === 直观的工具和仪表板
+and_pages_default_159 === 营销产品时快速且无延迟的体验
+and_pages_default_171 === 服务定价
+and_pages_default_187 === 短信发送
+and_pages_default_194 === 短信接收
+and_pages_default_201 === WhatsApp 发送
+and_pages_default_208 === WhatsApp 接收
+and_pages_default_215 === USSD
+and_pages_default_222 === 通知
+and_pages_default_229 === 预定的短信/聊天
+and_pages_default_236 === 联系人
+and_pages_default_243 === API 密钥
+and_pages_default_250 === 网络挂钩
+and_pages_default_257 === 行动
+and_pages_default_264 === 安卓设备
+and_pages_default_271 === WhatsApp 帐户
+and_pages_default_287 === 我们的顾客
+and_pages_default_290 === 受到超过 3,000 多名客户的信赖。开始营销您的产品并与我们一起发展您的业务！
+landing_title_default === Android 移动设备作为 SMS 网关
+landing_nav_login === 登入
+landing_lead_desc === 利用您的网络提供商的无限短信计划、廉价且经济高效的营销、批量短信和您所在国家/地区的项目的解决方案。使用 WhatsApp 来扩大受众范围，我们的平台提供了完整的工具来帮助您入门。
+landing_footer_ourcomp === 出公司
+landing_footer_about === 关于
+landing_footer_tos === 服务条款
+landing_footer_privacy === 隐私政策
+landing_footer_links === 网站链接
+landing_footer_login === 登入
+landing_footer_register === 注册
+landing_footer_copyright === 版权所有
+dashboard_title_default === 仪表板
+dashboard_title_contacts === 联系人
+dashboard_title_tools === 工具
+dashboard_title_admin === 行政
+dashboard_nav_default === 仪表板
+dashboard_nav_contacts === 联系人
+dashboard_nav_tools === 工具
+dashboard_nav_menusubscription === 订阅
+dashboard_nav_menusettings === 设置
+dashboard_nav_menulogout === 登出
+dashboard_btn_addcontact === 增加联系人
+dashboard_btn_adddevice === 添加设备
+dashboard_btn_addgroup === 添加组
+dashboard_btn_addtemplate === 添加模板
+dashboard_btn_addkey === 添加密钥
+dashboard_btn_addhook === 添加网络钩子
+dashboard_btn_build === 建造
+dashboard_btn_buildsettings === 设置
+dashboard_btn_settings === 系统
+dashboard_btn_theme === 主题
+dashboard_btn_adduser === 添加用户
+dashboard_btn_addpackage === 添加包
+dashboard_btn_addwidget === 添加小部件
+dashboard_btn_addlanguage === 添加语言
+dashboard_footer_about === 关于
+dashboard_footer_terms === 服务条款
+dashboard_footer_privacy === 隐私政策
+dashboard_footer_copyright === 版权所有
+dashboard_messages_menusent === 发送
+dashboard_messages_menureceived === 已收到
+dashboard_messages_menutemplates === 模板
+dashboard_messages_tabreceivedtitle === 收到的消息
+dashboard_messages_tabtemplatestitle === 模板
+dashboard_messages_tablesentrecipient === 接受者
+dashboard_messages_tablesentmessage === 信息
+dashboard_messages_tablesentcreated === 已创建
+dashboard_messages_tablesentoptions === 选项
+dashboard_messages_tablereceivedsender === 发件人
+dashboard_messages_tablereceivedmessage === 信息
+dashboard_messages_tablereceivedreceived === 已收到
+dashboard_messages_tablereceivedoptions === 选项
+dashboard_messages_tabletemplatesname === 模板名称
+dashboard_messages_tabletemplatesformat === 模板格式
+dashboard_messages_tabletemplatesoptions === 选项
+dashboard_contacts_title === 联系人
+dashboard_contacts_menusaved === 已保存
+dashboard_contacts_menugroups === 团体
+dashboard_contacts_tabsavedtitle === 已保存的联系人
+dashboard_contacts_tabgroupstitle === 联络小组
+dashboard_contacts_tablesavedname === 联系人姓名
+dashboard_contacts_tablesavednumber === 联系电话
+dashboard_contacts_tablesavedoptions === 选项
+dashboard_contacts_tablegroupsname === 团队名字
+dashboard_contacts_tablegroupsoptions === 选项
+dashboard_devices_tableregisteredbrand === 制造商
+dashboard_devices_tableregisteredversion === 版本
+dashboard_devices_tableregisteredadded === 挂号的
+dashboard_devices_tableregisteredoptions === 选项
+dashboard_tools_title === 工具
+dashboard_tools_menukeys === API 密钥
+dashboard_tools_menuhooks === 网络挂钩
+dashboard_tools_tabkeystitle === API 密钥
+dashboard_tools_tabhookstitle === 网络挂钩
+dashboard_tools_tablekeysname === 姓名
+dashboard_tools_tablekeyspermissions === 权限
+dashboard_tools_tablekeysoptions === 选项
+dashboard_tools_tablehooksname === 姓名
+dashboard_tools_tablehooksurl === 网络挂钩网址
+dashboard_tools_tablehooksoptions === 选项
+dashboard_admin_title === 行政
+dashboard_admin_menustats === 统计数据
+dashboard_admin_menuusers === 用户
+dashboard_admin_menupackages === 套餐
+dashboard_admin_menusubscriptions === 订阅
+dashboard_admin_menutransactions === 交易
+dashboard_admin_menuwidgets === 小部件
+dashboard_admin_menulanguages === 语言
+dashboard_admin_tabdefaultearningstitle === 收益
+dashboard_admin_tabdefaultmessageslast === 过去 30 天
+dashboard_admin_tabuserstitle === 用户
+dashboard_admin_tabpackagestitle === 套餐
+dashboard_admin_tabsubscriptionstitle === 订阅
+dashboard_admin_tabtransactionstitle === 交易
+dashboard_admin_tabwidgetstitle === 小部件
+dashboard_admin_tablanguagestitle === 语言
+dashboard_admin_tableusersname === 姓名
+dashboard_admin_tableusersemail === 电子邮件
+dashboard_admin_tableusersoptions === 选项
+dashboard_admin_tablepackagesname === 姓名
+dashboard_admin_tablepackagesprice === 价格
+dashboard_admin_tablepackagesoptions === 选项
+dashboard_admin_tablesubscriptionsuser === 用户
+dashboard_admin_tablesubscriptionspackage === 包裹
+dashboard_admin_tablesubscriptionsprice === 价格
+dashboard_admin_tablesubscriptionsexpire === 到期日期
+dashboard_admin_tablesubscriptionsoptions === 选项
+dashboard_admin_tabletransactionscustomer === 顾客
+dashboard_admin_tabletransactionsprovider === 提供者
+dashboard_admin_tablewidgetsname === 小部件名称
+dashboard_admin_tablewidgetstype === 类型
+dashboard_admin_tablewidgetssize === 尺寸
+dashboard_admin_tablewidgetsposition === 位置
+dashboard_admin_tablewidgetsoptions === 选项
+dashboard_admin_tablelanguagesiso === 国际标准化组织
+dashboard_admin_tablelanguagesname === 语言名称
+dashboard_admin_tablelanguagescreated === 已创建
+dashboard_admin_tablelanguagesoptions === 选项
+table_search_text === 搜索
+table_search_placeholder === 在此处输入关键字...
+response_invalid === 无效的请求！
+response_went_wrong === 出问题了！
+response_session_false === 会话不存在！
+response_session_true === 会话已经存在！
+response_invalid_emailpass === 无效的电子邮件/密码！
+response_loggedin_success === 成功登录！
+response_loggedout_success === 成功登出！
+response_invalid_email === 无效的邮件地址！
+response_retrieval_received === 我们收到了一个帐户检索请求，如果您没有请求，请忽略。
+response_solve_captcha === 请解决反机器人挑战！
+response_register_false === 注册被禁用！
+response_name_short === 名字太短！
+response_password_short === 密码必须大于 5 个字符！
+response_password_notmatch === 密码不匹配！
+response_register_success === 注册成功！
+response_email_unavailable === 电子邮件地址已经注册！
+response_upload_applogo === 请上传您的应用标志！
+response_upload_appsplash === 请上传您的应用程序启动画面！
+response_pcode_empty === 请在系统设置中输入您的购买代码！
+response_buildserver_false === 无法连接构建服务器！
+response_invalid_number === 手机号码无效！
+response_message_short === 留言太短了！
+response_message_queued === 消息已加入队列！
+response_message_bulkqueued === 批量消息已排队等待发送！
+response_format_short === 格式太短了！
+response_template_added === 模板已添加！
+response_number_exist === 联系电话已经存在！
+response_contact_added === 已添加联系方式！
+response_group_added === 联系人组已添加！
+response_permission_min === 请至少选择 1 个权限！
+response_key_added === 已添加 API 密钥！
+response_invalid_webhookurl === 无效的 Webhook URL！
+response_webhook_added === 添加了 Webhook 啊！
+response_user_added === 用户已添加！
+response_package_added === 包已添加！
+response_widget_added === 小部件已添加！
+response_language_added === 语言已添加！
+response_avatar_invalid === 头像不能上传！
+response_profile_updated === 个人资料已更新！
+response_package_purchasedtitle === 您已订阅高级套餐，这是您的收据！
+response_package_purchased === 已成功订阅套餐！
+response_template_updated === 模板已更新！
+response_contact_updated === 联系方式已更新！
+response_group_updated === 联络组已更新！
+response_key_updated === API 密钥已更新！
+response_webhook_updated === 网络挂钩已更新！
+response_user_updated === 用户已更新！
+response_package_updated === 包已更新！
+response_widget_updated === 小部件已更新！
+response_language_updated === 语言已更新！
+response_builder_packagenameshort === 包名太短！
+response_builder_appnameshort === 应用名称太短！
+response_builder_applogofail === 应用标志无法上传！
+response_builder_appsplashfail === 应用启动画面无法上传！
+response_builder_settingsupdated === 生成器设置已更新！
+response_theme_updated === 主题设置更新！
+response_system_settingsupdated === 系统设置更新！
+response_deleted_sent === 发送的消息已被删除！
+response_deleted_received === 收到的消息已被删除！
+response_deleted_template === 模板已被删除！
+response_deleted_contact === 联系人已被删除！
+response_deleted_group === 联系人组已被删除！
+response_deleted_device === 设备已被删除！
+response_deleted_key === API 密钥已被删除！
+response_deleted_hook === 网络钩子已被删除！
+response_deleted_defaultuserfalse === 默认用户不能删除！
+response_deleted_user === 用户已被删除！
+response_deleted_defaultpackagefalse === 默认包不能删除！
+response_deleted_package === 包已被删除！
+response_deleted_subscription === 订阅已被删除！
+response_deleted_widget === 小工具已被删除！
+response_deleted_defaultlangfalse === 默认语言无法删除！
+response_deleted_language === 语言已被删除！
+response_lang_changed === 语言变了！
+modal_usersettings_title === 设置
+modal_subscription_title === 订阅
+modal_packages_title === 套餐
+modal_smsquick_title === 快速短信
+modal_smsbulk_title === 群发短信
+modal_addtemplate_title === 添加模板
+modal_edittemplate_title === 编辑模板
+modal_addcontact_title === 增加联系人
+modal_editcontact_title === 更改联系资料
+modal_addgroup_title === 添加组
+modal_editgroup_title === 编辑组
+modal_adddevice_title === 添加设备
+modal_addkey_title === 添加 API 密钥
+modal_editkey_title === 编辑 API 密钥
+modal_edithook_title === 编辑网络钩子
+modal_buildersettings_title === 生成器设置
+modal_themesettings_title === 主题设置
+modal_systemsettings_title === 系统设置
+modal_adduser_title === 添加用户
+modal_edituser_title === 编辑用户
+modal_addpackage_title === 添加包
+modal_editpackage_title === 编辑包
+modal_addwidget_title === 添加小部件
+modal_editwidget_title === 编辑小部件
+modal_addlanguage_title === 添加语言
+modal_editlanguage_title === 编辑语言
+require_email === 电子邮件地址
+require_password === 密码
+require_name === 全名
+require_cpassword === 确认密码
+require_phone === 电话号码
+require_device === 设备
+require_message === 信息
+require_groups === 联络组
+require_sim === 模拟插槽
+require_priority === 优先选项
+require_api === API 选项
+require_templatename === 模板名称
+require_templateformat === 模板格式
+require_contactname === 联系人姓名
+require_group === 联络组
+require_groupname === 团队名字
+require_apiname === API 密钥名称
+require_permissions === 权限
+require_hookname === 网络钩子名称
+require_hookurl === 网络挂钩网址
+require_appname === 应用名称
+require_appcolor === 应用颜色
+require_packagename === 包裹名字
+require_widgetname === 小部件名称
+require_widgetsize === 小部件大小
+require_widgetposition === 小部件位置
+require_widgettype === 小部件类型
+require_languagename === 语言名称
+require_languageiso === 语言iso
+require_languagestr === 语言翻译
+btn_submit === 提交
+btn_download === 下载
+btn_done === 完毕
+btn_purchase === 购买
+btn_free === 自由的
+btn_send === 发送
+btn_save === 节省
+btn_packages === 套餐
+btn_retrieve === 取回
+btn_signin === 登入
+btn_signup === 注册
+form_name === 姓名
+form_number === 电话号码
+form_group === 联络组
+form_adddevice_one === 将新的 Android 设备添加到您的帐户非常容易，我们确保您可以继续操作而不会浪费您的宝贵时间，请按照以下步骤操作。
+form_adddevice_two === 1. 下载安装
+form_adddevice_three === 首先，单击此按钮下载并安装我们的网关应用程序。
+form_adddevice_four === 2.注册设备
+form_adddevice_five === 现在打开网关应用程序并单击扫描按钮，然后扫描此二维码。
+form_adddevice_six === 3. 完成！
+form_adddevice_seven === 该设备已添加到您的帐户，您现在可以开始发送消息了！
+form_permissions === 权限
+form_countrycode === 国家代码
+form_translations === 翻译字符串
+form_translations_placeholder === 在此处输入翻译...
+form_packageprice === 价格
+form_packagesend === 发送限制
+form_packagereceive === 接收限制
+form_packagedevice === 设备限制
+form_packagekey === 键限制
+form_packagehook === Webhook 限制
+form_templatename_placeholder === 公告
+form_templateformat === 格式
+form_templateformat_placeholder === 在此处输入您的模板格式...
+form_shortcodes === 简码
+form_emailaddress === 电子邮件地址
+form_password === 密码
+form_password_leave === 留空以保留当前密码
+form_language === 语言
+form_webhookname_placeholder === 回复机器人
+form_webhookurl === 网址
+form_widgetname_placeholder === 服务条款
+form_widgeticon === 图标
+form_widgettype === 类型
+form_widgetsize === 尺寸
+form_widgetsmall === 小的
+form_widgetmedium === 中等的
+form_widgetlarge === 大的
+form_widgetxlarge === 特大号
+form_widgetposition === 位置
+form_widgetcenter === 中心
+form_widgetleft === 剩下
+form_widgetright === 正确的
+form_widgetcontent === 内容
+form_builderpackagename === 包裹名字
+form_builderappname === 应用名称
+form_builderappdesc === 应用说明
+form_builderappdesc_placeholder === 这是一个很棒的应用程序
+form_builderapplogo === 应用程序徽标
+form_builderappsplash === 应用启动画面
+form_uploaded === 已上传
+form_notuploaded === 没有任何
+form_themebg === 背景颜色
+form_themetext === 高亮颜色
+form_settingsite === 地点
+form_settingssitename === 站点名称
+form_settingssitedesc === 网站说明
+form_settingspcode === 购买代码
+form_settingsprotocol === 协议
+form_settingsdeflang === 默认语言
+form_settingsreg === 注册
+form_settingsmailing === 邮寄
+form_settingsmailfunc === 邮件功能
+form_settingssitemail === 网站电子邮件
+form_settingssmtphost === SMTP 主机
+form_settingssmtpport === SMTP 端口
+form_settingssmtpusername === SMTP 用户名
+form_settingssmtppassword === SMTP 密码
+form_settingssmtp_small === 远程 SMTP 需要
+form_settingspayments === 付款
+form_settingspaypaltest === 贝宝测试模式
+form_settingssecurity === 安全
+form_settingsrecaptchakey === Recaptcha 站点密钥
+form_settingsrecaptchasecret === Recaptcha 密钥
+form_enable === 使能够
+form_disable === 禁用
+form_native === 本国的
+form_remotesmtp === 远程 SMTP
+form_device === 移动设备
+form_sim === 模拟插槽
+form_priority === 优先
+form_yes === 是的
+form_no === 不
+form_freefor === 永远免费
+form_monthly === 月刊
+form_groups === 联络小组
+form_template === 模板
+form_none === 没有任何
+form_message === 信息
+form_message_placeholder === 在此处输入您的信息...
+form_avatar === 阿凡达
+form_changepass === 更改密码
+form_package === 包裹
+form_keys === API 密钥
+form_hooks === 网络挂钩
+form_daily === 日常的
+form_forgotpass === 忘记密码
+form_fullname === 全名
+form_cpassword === 确认密码
+form_haveaccount === 我有一个帐户
+datatable_processing === 处理中，请稍候...
+datatable_length === 显示 _MENU_ 个条目
+datatable_info === 显示 _START_ 到 _END_ 个条目，共 _TOTAL_ 个条目
+datatable_empty === 显示 0 到 0 个条目，共 0 个条目
+datatable_filtered === （从 _MAX_ 个总条目中过滤）
+datatable_loading === 加载请稍候...
+datatable_zero === 我们找不到与您的查询匹配的任何内容！
+datatable_null === 没有可显示的数据！
+datatable_first === 第一的
+datatable_prev === 以前的
+datatable_next === 下一个
+datatable_last === 最后的
+delete_title === 删除？
+delete_tagline === 此操作无法撤消！
+validate_cannotemp === 不能为空！
+alert_attention === 注意力
+copy_data === 数据复制到剪贴板！
+date_today === 今天
+date_yesterday === 昨天
+date_7days === 过去 7 天
+date_30days === 过去 30 天
+date_month === 这个月
+date_lmonth === 上个月
+date_custom === 自定义范围
+unknown_action_method === 动作方法不明！
+mollie_redirecting_page === 正在重定向到 mollie 支付页面...
+form_settingsmolliekey === 莫莉 API 密钥
+btn_confirm === 确认
+btn_cancel === 取消
+recaptcha_add_keys === 请添加您的验证码以启用此功能！
+pay_with_paypal === 使用贝宝付款
+pay_with_mollie === 与莫莉一起付款
+form_settingsenabledproviders === 启用的提供者
+form_builderappicon === 应用程序图标
+payment_transact_failed === 支付交易失败！
+cookieconsent_message === 我们使用 cookie 来确保您在我们的网站上获得最佳体验。
+cookieconsent_link === 学到更多
+role_added === 角色已添加！
+role_updated === 角色已更新！
+role_deleted === 角色已被删除！
+role_default_update === 默认角色无法编辑！
+role_default_delete === 默认角色不能删除！
+voucher_added === 优惠券已添加！
+form_voucher === 优惠券代码
+btn_redeem === 赎回
+invalid_voucher_code === 优惠券代码无效！
+voucher_deleted === 优惠券已被删除！
+form_title_addvoucher === 添加凭证
+form_title_addsubscription === 添加订阅
+form_adduser_role === 角色
+require_pagename === 页面名称
+require_pageroles === 允许的角色
+form_pageroles === 允许的角色
+require_vouchercode === 优惠券代码
+form_settingscurrency === 货币
+btn_bulkexcel === Excel
+response_leastprovider === 请至少选择 1 个支付提供商！
+user_subscriptioncontacts === 联系人
+response_suspended === 您的帐号已被管理员暂停！
+response_adminsuspend === 默认帐户不能被暂停！
+response_successsuspend === 用户已被暂停！
+response_successunsuspend === 用户已解除暂停！
+suspend_user_title === 暂停用户？
+suspend_user_desc === 此用户将无法登录和使用服务
+unsuspend_user_title === 取消暂停用户？
+unsuspend_user_desc === 该用户将能够再次登录并使用服务
+all_languages === 所有语言
+response_invalid_excel === 无效的excel文件！
+response_contacts_imported === 联系人已导入！
+table_role_name === 角色名称
+table_role_permissions === 权限
+table_voucher_name === 姓名
+table_voucher_package === 包裹
+table_page_name === 页面名称
+table_page_require === 需要登录
+table_page_roles === 允许的角色
+import_btn === 进口
+form_excelfile === Excel文件
+form_hook_addtitle === 添加挂钩动作
+form_hook_edittitle === 编辑挂钩动作
+form_hook_event === 事件
+form_hook_link === 链接结构
+form_autoreply_addtitle === 添加回复操作
+form_autoreply_edittitle === 编辑回复操作
+form_autoreply_keywords === 关键词
+form_autoreply_message === 回复消息
+require_action_name === 动作名称
+require_action_event === 事件类型
+require_action_link === 链接结构
+require_action_keywords === 关键词
+require_action_message === 回复消息
+response_invalid_linkstructure === 链接结构无效！
+response_hook_added === 新增短信挂钩动作！
+response_invalid_keywords === 您必须输入至少 1 个关键字！
+response_autoreply_added === 新增短信回复动作！
+response_hook_updated === 短信挂钩动作已更新！
+response_autoreply_updated === 短信回复动作已更新！
+response_action_deleted === 短信动作已被删除！
+table_action_name === 姓名
+form_scheduled_title === 安排短信
+response_scheduled_deleted === 预定的消息已被删除！
+response_no_permission === 您无权执行此操作！
+response_builder_appiconfail === 应用图标无法上传！
+form_require_login === 需要登录
+widget_addpage_title === 添加页面
+widget_editpage_title === 编辑页面
+require_subscription_user === 用户
+require_voucher_name === 凭证名称
+require_voucher_package === 包裹
+widget_alllang_title === 所有语言
+widget_smsexcel_title === 通过 Excel 批量发送短信
+require_scheduled_name === 姓名
+require_scheduled_date === 安排日期
+widget_importcontacts_title === 导入联系人
+require_addrole_name === 角色名称
+require_addrole_permissions === 权限
+widget_editrole_title === 编辑角色
+response_page_added === 页面已添加！
+response_page_updated === 页面已更新！
+response_page_deleted === 页面已被删除！
+table_scheduled_name === 姓名
+messages_scheduled_title === 预定的
+messages_scheduled_schedule === 安排短信
+form_schedule_numbers === 手机号码
+form_schedule_schedule === 日程
+form_schedule_repeat === 重复
+form_bulksms_numbers === 手机号码
+dashboard_tools_menuactions === 行动
+dashboard_admin_menuroles === 角色
+dashboard_admin_menuvouchers === 代金券
+dashboard_admin_menupages === 页面
+admin_gateway_title === 网关
+admin_gateway_status === 地位
+admin_gateway_notuploaded === 未上传
+admin_gateway_uploaded === 已上传
+dashboard_roles_title === 用户角色
+dashboard_roles_addrole === 添加角色
+dashboard_vouchers_title === 代金券
+dashboard_vouchers_addrole === 添加凭证
+form_voucher_package === 包裹
+dashboard_pages_title === 页面
+dashboard_pages_addpage === 添加页面
+form_theme_favicon === 网站图标
+form_package_contactslimit === 联系人限制
+response_limitation_send === 您已达到今天允许发送的最大值！
+response_limitation_contact === 您已达到允许的最大联系人数！
+response_limitation_key === 您已达到允许的最大 API 密钥！
+response_limitation_webhook === 您已达到允许的最大 webhook！
+form_adminsettings_token === 系统令牌
+response_upload_appicon === 请上传您的应用图标！
+app_status_gateway_running === 网关正在运行！
+app_device_registered === 链接
+app_device_unregistered === 未链接
+app_terminal_gateway_ready === 网关准备好了...
+app_terminal_gateway_register === 设备尚未关联...
+app_terminal_gateway_hash === 哈希
+app_terminal_gateway_registered === 设备已关联...
+app_terminal_gateway_device === 设备关联失败...
+app_terminal_gateway_connecterror === 连接服务器时出错...
+app_terminal_gateway_started === 网关已经启动...
+app_terminal_gateway_stopped === 网关已停止...
+app_terminal_gateway_unregistered === 无法启动网关，设备尚未与任何帐户关联...
+app_terminal_feature_error === 短信功能错误
+app_terminal_sms_sent === 已发送消息
+app_terminal_message_failed === 发送消息失败
+app_dialog_wait === 请稍等...
+app_dialog_exit === 退出网关
+app_dialog_exit_desc === 关闭并退出网关？
+app_camera_qrcode_inside === 把你的二维码放在里面
+app_ui_status === 地位
+app_ui_exit === 出口
+require_voucher_count === 优惠券数量不能为空！
+form_voucher_count === 凭证计数
+cookieconsent_dismiss === 知道了！
+title_payment_success === 订单确认
+title_payment_cancel === 订单取消
+header_payment_success === 订单确认
+header_payment_cancel === 订单取消
+body_payment_cancel === 您已取消订单请求。
+transaction_payment_success === 交易编号：
+back_payment_page === 返回仪表板
+form_settingspaypalemail === 贝宝企业邮箱
+form_settingsanalytics === 谷歌分析键
+form_messagecounterchars === 人物
+form_settingspagination === 分页限制
+form_settingssentpage === 每页发送的消息
+form_settingsreceivedpage === 每页收到的消息
+form_settingsmessage === 消息设置
+form_settingsmessagemin === 最少字符
+form_settingsmessagemax === 最大字符数
+form_settingsmessagemark === 消息脚注
+form_packagefootermark === 消息脚注
+form_settingssmtpsecure === SMTP 安全
+form_durationtitle === 期间
+form_durationpackage === 您的包裹：
+form_durationpay === 你会付出代价的：
+form_durationmonth === 月持续时间
+form_subscriptionmonth === 月持续时间
+authenticate_fblogin === 用脸书登录...
+authenticate_googlelogin === 用谷歌登录...
+authenticate_vklogin === 使用 vkontakte 登录...
+response_minplatforms === 请至少选择 1 个社交平台！
+form_settingssocialtitle === 社交环境
+form_settingssocial === 社会认证
+form_settingssocialplatforms === 启用的平台
+form_usertimezone === 时区
+form_settingsloginrecaptcha === 登录验证码
+form_loginor === 或者
+form_adddevicescandl === 通过二维码扫描下载
+form_status_online === 在线的
+form_status_offline === 离线
+form_smsbulknonumbers === 请选择联系人组或输入收件人号码！
+form_addsubscriptionuser === 用户
+form_addsubscriptionpackage === 包裹
+table_vouchersduration === 月持续时间
+table_pluginsname === 插件名称
+table_pluginsoptions === 选项
+dashboard_admin_menuplugins === 插件
+dashboard_admin_pluginstitle === 插件
+dashboard_admin_pluginsadd === 添加插件
+require_pluginfile === 插件文件
+modal_addplugin_title === 添加插件
+response_pluginwentwrong === 上传插件时出现问题！
+response_plugininstalled === 插件已安装！
+dashboard_title_login === 登录
+dashboard_title_forgot === 忘记密码
+dashboard_title_register === 登记
+response_limitation_contact2 === 您已达到订阅的最大联系人数量，仅导入了 _8880_ 个联系人！
+response_contacts_imported2 === _8880_联系人已导入成功！
+form_systemsettingshomepage === 默认主页
+app_dialog_update_desc === 网关应用程序有一个新的发布版本，需要更新！
+app_dialog_update_download === 下载
+app_gateway_build_text === 网关构建
+response_gateway_available === 正在下载网关，请稍候...
+response_gateway_unavailable === 网关不可用，请联系网站管理员！
+response_gateway_randommax === 最大发送间隔不能大于 300 秒！
+response_device_updated === 设备已更新！
+form_editdevice_devicename === 设备名称
+form_editdevice_randomsend === 随机发送间隔
+form_editdevice_randommin === 发送间隔最小值
+form_editdevice_randommax === 发送间隔最大值
+form_smsall_globalstatus === 全球的
+form_select_multinone === 没有任何
+form_package_hiddenselect === 隐
+landing_footer_ourcompnew === 我们公司
+form_smsschedule_submit === 日程
+require_devicename === 设备名称
+require_randommin === 随机最小间隔
+require_randommax === 随机最大间隔
+admin_update_installed === 已安装
+admin_update_btn === 更新
+response_update_success === 系统已更新！
+form_settings_tawkchatlink === Tawk 直接聊天链接
+model_title_editplugin === 编辑插件
+btn_other_paymentmethods === 其他付款方式
+dashboard_btn_support === 支持
+pendingdelete_title === 删除待处理？
+pendingdelete_desc === 删除所有待处理的消息？此操作无法撤消！
+dashboard_messages_tablefullmessage === 全文
+administration_landing_btncache === 缓存
+administration_landing_payouts === 支出
+administration_landing_marketing === 营销
+administration_landing_gateways === 网关
+administration_landing_shorteners === 起酥油
+administration_landing_editor === 模板编辑器
+administration_landing_api === 管理 API
+administration_landing_build === 建造
+administration_landing_system === 系统
+requests_charts_smssent === 已发送短信
+requests_charts_smsreceived === 收到短信
+requests_charts_wasent === WhatsApp 已发送
+requests_charts_wareceived === WhatsApp收到
+requests_charts_ussd === USSD
+requests_charts_notifications === 通知
+requests_charts_credits === 学分
+administration_default_visitors === 访客
+administration_default_countries === 国家
+administration_default_browsers === 浏览器
+administration_default_os === 操作系统
+administration_default_usages === 用法
+administration_default_messages === 留言
+administration_default_utilities === 实用程序
+administration_default_subscriptions === 订阅
+administration_default_credits === 学分
+tables_users_registered === 挂号的
+tables_users_details === 细节
+dashboard_title_android === 安卓
+dashboard_title_whatsapp === WhatsApp
+dashboard_title_gatewayrates === 网关费率
+dashboard_title_docs === 文件资料
+app_status_gateway_touch === 点这里打开网关
+app_dialog_downloading_update === 下载更新
+app_dialog_interface_disabled === 界面已禁用，请将应用更新到最新版本！
+app_dialog_somethingwent_wrong === 哎呀！出事了！
+app_intro_level_1 === 感谢您使用我们的平台，以最大限度地提高您的体验并熟悉该应用程序，让我们探索一下，我们将解释您需要了解的所有基本功能。
+app_intro_level_2 === 您将在此处看到设备名称和链接状态。
+app_intro_level_3 === 要将设备链接到您的帐户，请使用此按钮登录或扫描您的二维码进行链接。
+app_intro_level_4 === 使用此开关打开或关闭网关。
+app_intro_level_5 === 启用此开关将使网关应用程序侦听新通知，然后可以在平台中以编程方式管理这些通知。默认情况下禁用此功能。
+app_intro_level_6 === 使用此按钮关闭并退出网关应用程序。
+app_intro_level_7 === 这是终端，消息事务和其他活动日志将显示在这里。
+app_intro_level_8 === 这是浮动操作按钮，您可以在此处访问一些选项和其他页面，例如 <b>在后台运行</b>。
+app_dialog_tour_complete === 您现在应该了解该应用程序的工作原理，如有其他问题，请联系我们！
+app_push_right_now === 现在
+app_device_detailes_updated === 设备详细信息已更新！
+app_ussd_requests_notsupported === 不支持 USSD 请求...
+app_notifications_listening_now === 正在收听新通知...
+app_button_ok === 确认
+app_dialog_update_smoothperm === 为了顺利和高效的更新，请允许此应用程序的安装权限。
+app_dialog_logging_in === 在登录...
+app_dialog_invalid_email === 您输入了无效的电子邮件！
+app_dialog_invalid_password === 密码太短，无效！
+app_dialog_notsupported_notinougat === 牛轧糖及以下产品目前不支持通知，给您带来的不便敬请谅解。
+app_dialog_notifications_permission === 要以编程方式访问通知，该应用程序需要特殊权限。请在列表中选择应用程序，然后允许通知访问。
+app_dialog_gateway_listennoti === 网关现在将侦听新通知。
+app_dialog_gateway_notirestart === 网关将重新启动并停止侦听新通知。
+app_dialog_needto_link === 您需要先将设备链接到您的帐户，然后才能使用此功能。
+app_dialog_logoutfrom_device === 从此网关设备注销？
+app_document_runbackground === 在后台运行
+app_document_input_email === 电子邮件地址
+app_document_input_password === 密码
+app_document_btn_login === 登录
+app_document_text_or === 或者
+app_document_btn_scan === 扫描二维码
+app_document_btn_cancel === 取消
+app_intro_next_btn === 下一个
+app_intro_back_btn === 后退
+response_token_generated === 系统令牌已重新生成！
+response_trigger_done === Webhook 已触发！
+response_build_gservicesfile === 请上传您的谷歌服务文件！
+response_build_fcredentialsfile === 请上传您的 Firebase 凭据文件！
+response_build_loginlogo === 请上传您的应用登录标志！
+response_whatsapp_notprem === 帐户未订阅任何高级套餐！
+response_whatsapp_maxaccounts === 您的包裹已达到允许的 WhatsApp 帐户数量上限！
+response_whatsapp_creatingqr === 创建 WhatsApp 二维码
+response_whatsapp_noconnectserver === 无法连接到 WhatsApp 服务器！
+response_chart_dashsmssent === 已发送短信
+response_chart_dashsmsreceive === 收到短信
+response_chart_dashwasent === 西澳发送
+response_chart_dashwareceive === 西澳收到
+response_chart_dashwebhooks === 网络挂钩
+response_chart_dashactions === 行动
+response_chart_dashussd === USSD
+response_chart_dashnoti === 通知
+response_resend_queued === 消息已排队等待发送！
+mail_title_payoutapproved === 您的付款请求已付款！
+response_payout_confirmed === 已确认付款！
+mail_title_payoutrejected === 您的付款请求已被拒绝！
+response_payout_rejected === 付款被拒绝！
+response_translate_msgshort === 留言太短了！
+response_clear_systemcleared === 系统缓存文件已被清除！
+response_clear_smscleared === 待处理的消息已被清除！
+response_clear_ussdcleared === 待处理的 USSD 请求已被清除！
+response_reorder_languages === 语言已重新排序！
+response_trash_selectedremoved === 所选项目已被删除！
+response_voucher_redeemed === 优惠券已兑换！
+response_payout_invalidamount === 支付金额无效，不应包含十进制值。
+response_payout_notenoughbal === 收入余额不足，无法处理请求！
+response_payout_reqreceive === 您的付款请求已收到！
+response_payout_pendingreq === 您仍有待处理的付款请求！
+response_system_sysconfigerr === 系统配置错误！
+response_message_toolong === 您的留言太长了！
+response_package_nosubwarn === 您没有套餐订阅！
+response_message_notenoughcredsend === 积分不足，无法发送此消息！
+response_message_queuedforsend === 消息已排队等待发送！
+response_message_sentsuccess === 信息已发送！
+response_message_unablesendmesg === 我们无法发送您的消息！
+response_smsexcel_phonenotfound === 在您的 Excel 文件中找不到 _8880_ 列！
+response_smssched_queued === 留言已预定！
+response_ussd_maximumreq === 已达到最大 USSD 请求数！
+response_ussd_queued === USSD 请求已排队！
+response_whatsapp_reachedmaxchat === 您已经达到了可以发送的最大聊天数！
+response_whatsapp_chatqueued === WhatsApp 消息已排队等待发送！
+response_whatsapp_unableconnectserv === 无法连接到 WhatsApp 服务器！
+response_whatsapp_bulkchatsqueued === WhatsApp 群聊已排队！
+response_whatsapp_excelphonecolnotfound === 在您的 Excel 文件中找不到 _8880_ 列！
+response_whatsapp_chatscheduled === 聊天已安排！
+response_importcontacts_phonenotfound === 在您的 Excel 文件中找不到 _8880_ 列！
+response_importcontacts_groupsnotfound === 在您的 Excel 文件中找不到 _8880_ 列！
+response_importcontacts_namenotfound === 在您的 Excel 文件中找不到 _8880_ 列！
+response_package_pricenotlessone === 套餐价格不能低于1！
+response_subscription_addedsuccess === 订阅已创建！
+response_push_selectatleastoneuser === 请至少选择一个用户或角色！
+response_push_mesgtooshort === 留言太短了！
+response_push_titletooshort === 标题太短了！
+response_push_imgfailed === 上传图片文件失败！
+response_push_created === 推送广播已创建！
+response_push_nousers === 未找到要发送的用户！
+response_notify_titletooshort === 标题太短了！
+response_notify_mesgtooshort === 留言太短了！
+response_notify_selectuserrole === 请至少选择一个用户或角色！
+response_notify_imgfailed === 上传图片文件失败！
+response_notify_created === 通知广播已创建！
+response_notify_nousers === 未找到要发送的用户！
+response_mailer_titletooshort === 标题太短了！
+response_mailer_contentooshort === 内容太短了！
+response_mailer_nouserorrole === 请至少选择一个用户或角色！
+response_mailer_sendcounter === _8880_ 封待处理电子邮件中的 _8881_ 封已由邮寄者发送！
+response_mailer_mailprocessed === 群发已处理！
+response_mailer_nousersorrole === 未找到要发送的用户！
+response_gateway_controllercannotempty === 控制器文件不能为空！
+response_gateway_invalidcontroller === 控制器文件无效！
+response_gateway_addeddcontroller === 网关已添加！
+response_shortener_cannotempty === 控制器文件不能为空！
+response_shortener_invalidcontroller === 控制器文件无效！
+response_shortener_addedcontroller === 添加了缩短器！
+response_plugin_samenameinstalled === 已安装同名插件！
+response_smscheduled_editsuccess === 预定消息已更新！
+response_chatscheduled_editsuccess === 聊天时间表已更新！
+response_editdevice_invalidrate === 无效的速率值，它应该是一个有效的浮点数！
+response_editdevice_nametooshort === 设备名称太短！
+response_editdevice_nametoolong === 设备名称太长！
+response_editdevice_invalidmaxinterval === 最大间隔值无效！
+response_gateway_updatedsuccess === 网关已更新！
+response_shortener_editsuccess === 缩短器已更新！
+response_editplugin_success === 插件设置已更新！
+response_updatepluin_corrupted === 插件更新文件已损坏！
+response_updateplugin_updated === 插件已更新！
+response_builder_invalidgooglefile === 谷歌服务凭证文件无效！
+response_builder_invalidfirebasefile === Firebase 凭据文件无效！
+response_theme_sitelogofailed === 网站标志上传失败！
+response_theme_sitebgfailed === 网站后台上传失败！
+response_theme_sitefavfailed === Favicon 图片上传失败！
+response_notification_deletedsuccess === 通知已被删除！
+response_whatsapp_sentdeletesuccess === 发送的 WhatsApp 聊天已被删除！
+response_whatsapp_receivedeletesuccess === 收到的WhatsApp聊天已被删除！
+response_whatsapp_scheduleddeletesuccess === WhatsApp预定聊天已被删除！
+response_whatsapp_accountdeletesuccess === WhatsApp帐户已被删除！
+response_unsibscribe_contactdeletedsuccess === 取消订阅的号码已被删除！
+response_marketing_logdeletedsuccess === 营销日志已被删除！
+response_gateway_controllerdeletedsuccess === 网关已被删除！
+response_shortener_controllerdeletedsuccess === 缩短器已被删除！
+table_androidsent_clipcopy === 已发送剪贴板副本_8880_
+table_androidsent_excel === 已发送 Excel 导出_8880_
+table_androidsent_pdf === 已发送 PDF 导出_8880_
+table_androidsent_sms === 短信
+table_androidsend_report === 报告
+table_unknown_data === 未知
+table_androidsent_statuspending === 待办的
+table_androidsent_statusqueued === 排队
+table_androidsent_statussent === 发送
+table_androidsent_statusfailed === 失败的
+table_none_data === 没有任何
+table_yes_data === 是的
+table_no_data === 不
+table_removed_data === 已移除
+table_androidver_kitkat === 安卓奇巧
+table_androidver_lollipop === 安卓棒棒糖
+table_androidver_marshmallow === 安卓棉花糖
+table_androidver_nougat === 安卓牛轧糖
+table_androidver_oreo === 安卓奥利奥
+table_androidver_pie === 安卓派
+table_androidver_10 === 安卓 10
+table_androidver_11 === 安卓 11
+table_androidver_12 === 安卓 12
+table_androidsent_exportone === 状态：_8880_，模式：_8881_，代码：_8882_，优先级：_8883_，API 发送：_8884_，SIM 插槽：SIM _8885_，设备：_8886_，操作系统：_8887_
+table_androidsent_modenamedevice === 设备
+table_androidsent_modenamecredits === 学分
+table_androidsent_reportline1 === 状态：_8880_
+table_androidsent_reportline2 === 模式：_8880_
+table_androidsent_reportline3 === 代码：_8880_
+table_androidsent_reportline4 === 优先级：_8880_
+table_androidsent_reportline5 === API 发送：_8880_
+table_androidsent_reportline6 === 模拟插槽：SIM _8880_
+table_androidsent_reportline7 === 设备：_8880_
+table_androidsent_reportline8 === 操作系统：_8880_
+table_androidsent_exporttwo === 状态：_8880_，模式：_8881_，网关：_8882_
+table_androidsent_reportline9 === 状态：_8880_
+table_androidsent_reportline10 === 模式：_8880_
+table_androidsent_reportline11 === 网关：_8880_
+table_androidsent_exportthree === 状态：_8880_，模式：_8881_，代码：_8882_，API 发送：_8883_，SIM 插槽：SIM _8884_，网关：_8885_
+table_androidsent_reportline12 === 状态：_8880_
+table_androidsent_reportline13 === 模式：_8880_
+table_androidsent_reportline14 === 代码：_8880_
+table_androidsent_reportline15 === API 发送：_8880_
+table_androidsent_reportline16 === 模拟插槽：SIM _8880_
+table_androidsent_reportline17 === 网关：_8880_
+table_androidsent_titleresend === 重新发送此消息
+table_title_deletethisitem === 删除此项
+table_androidreceive_exportcopy === 收到剪贴板副本_8880_
+table_androidreceive_exportexcel === 收到 Excel 导出_8880_
+table_androidreceive_exportpdf === 收到PDF导出_8880_
+table_androidreceive_smstitle === 短信
+table_androidreceive_reporttitle === 报告
+table_androidreceive_exportdata === 模拟插槽：SIM _8880_，设备：_8881_，操作系统：_8882_
+table_androidreceive_reportline1 === 模拟插槽：SIM _8880_
+table_androidreceive_reportline2 === 设备：_8880_
+table_androidreceive_reportline3 === 操作系统：_8880_
+table_androidreceive_titlereply === 回复号码
+table_androidscheduled_titleschedule === 日程
+table_androidscheduled_titledetails === 细节
+table_androidscheduled_sim1 === SIM 1
+table_androidscheduled_sim2 === SIM 2
+table_androidscheduled_detailsline1 === 模式：_8880_
+table_androidscheduled_detailsline2 === SIM：_8880_
+table_androidscheduled_detailsline3 === 重复：_8880_
+table_androidscheduled_detailsline4 === 设备：_8880_
+table_androidscheduled_detailsgroupslabel === 团体：
+table_androidscheduled_detailsnumberslabel === 数字：
+table_androidscheduled_detailsline5 === 模式：_8880_
+table_androidscheduled_detailsline6 === 重复：_8880_
+table_androidscheduled_detailsline7 === 网关：_8880_
+table_androidscheduled_detailsline8 === 模式：_8880_
+table_androidscheduled_detailsline9 === 重复：_8880_
+table_androidscheduled_detailsline10 === 设备：_8880_
+table_title_editthisitem === 编辑此项目
+table_whatsappsent_exportcopy === 发送剪贴板副本
+table_whatsappsent_exportexcel === 已发送 Excel 导出
+table_whatsappsent_exportpdf === 已发送 PDF 导出
+table_whatsappsent_accounttitle === 帐户
+table_whatsappsent_recipienttitle === 接受者
+table_whatsappsent_msgtitle === 信息
+table_whatsappsent_apititle === API
+table_whatsappsent_statustitle === 地位
+table_ussd_exportcopy === USSD剪贴板副本
+table_ussd_exportexcel === USSD Excel 导出
+table_ussd_exportpdf === USSD PDF 导出
+table_ussd_createdtitle === 已创建
+table_ussd_codetitle === 代码
+table_ussd_responsetitle === 回复
+table_ussd_simtitle === SIM卡
+table_ussd_statustitle === 地位
+table_ussd_devicetitle === 设备
+table_ussd_optionstitle === 选项
+table_ussd_pendingresponsetext === 待响应
+table_empty_data === 空的
+table_ussd_sim1 === SIM 1
+table_ussd_sim2 === SIM 2
+table_ussd_pendinglabel === 待办的
+table_ussd_queuelabel === 排队
+table_ussd_completelabel === 完全的
+table_ussd_detailsline1 === 设备：_8880_
+table_ussd_detailsline2 === 操作系统：_8880_
+table_notifications_exportcopy === 通知剪贴板副本
+table_notifications_exportexcel === 通知 Excel 导出
+table_notifications_exportpdf === 通知 PDF 导出
+table_notifications_createdtitle === 已创建
+table_notifications_packagetitle === 包裹名字
+table_notifications_title === 标题
+table_notification_texttitle === 文本
+table_notification_devicetitle === 设备
+table_notification_optiontitle === 选项
+table_notification_devicelabel === 设备：
+table_notification_oslabel === 操作系统：
+table_devices_nametitle === 姓名
+table_devices_globaltitle === 全球的
+table_enabled_data === 启用
+table_disabled_data === 已禁用
+table_notifications_exportone === 设备：_8880_，操作系统：_8881_
+table_whatsapp_pendinglabel === 待办的
+table_whatsapp_queuelabel === 排队
+table_whatsapp_sentlabel === 发送
+table_whatsapp_failedlabel === 失败的
+table_whatsappreceive_exportcopy === 收到剪贴板副本
+table_whatsappreceive_exportexcel === 收到 Excel 导出
+table_whatsappreceive_exportpdf === 收到的 PDF 导出
+table_whatsappreceive_replytitle === 回复号码
+table_waschedule_scheduletitle === 日程
+table_waschedule_detailstitle === 细节
+table_waschedule_detailsline1 === 重复：_8880_
+table_waschedule_detailsline2 === 帐户：
+table_waschedule_detailsline3 === 团体：
+table_waschedule_detailsline4 === 数字：
+table_waaccounts_loggedtitle === 登录
+device_login_usevalidemail === 请使用有效的电子邮件地址！
+device_login_accountsuspended === 抱歉，您的帐户已被暂停！
+device_login_incorrectmailorpass === 您输入了错误的电子邮件或密码！
+device_login_nosubscription === 您没有套餐订阅！
+device_login_nomoredevice === 您无法注册更多设备！
+device_scan_qrcodeinvalid === 您的二维码无效！
+device_scan_nosub === 您没有套餐订阅！
+device_scan_usersuspended === 抱歉，您的帐户已被暂停！
+device_scan_nomoredevices === 您无法注册更多设备！
+device_report_smssentsuccess === 消息_8880_已从_8881_发送
+device_report_smssentfailed === 从 _8881_ 发送消息 _8880_ 失败
+device_received_smsreceived === 从_8881_收到新的_8880_
+requests_resend_devicenotexist === 设备不存在！
+device_ussd_responsereceive === 收到来自 _8880_ 的 USSD 响应
+device_notification_notireceive === 已收到来自_8880_的新通知
+payment_success_unknowntx === 未知
+payment_webhook_molliecreditsadded === 积分已添加到您的帐户！
+payment_webhook_paypalcreditsadded === 积分已添加到您的帐户！
+payment_webhook_unknowntn === 未知
+mail_tpl_creditstitle === 你好呀，
+mail_tpl_creditsdesc === 您已购买积分，我们已将_8880_存入您的账户，您可以立即使用。
+mail_tpl_creditstnx === 谢谢！
+mail_tpl_poweredby === 由_8880_提供支持
+forgot_response_recoverysent === 检索指令已发送至_8880_
+forgot_response_recoveryfail === 我们无法向您发送电子邮件！
+cron_package_expired === 您的套餐订阅已过期！
+cron_package_expiring === 5 天内到期的套餐订阅！
+table_waaccounts_waidtitle === WhatsApp ID
+table_waaccounts_wauniquetitle === 唯一身份
+table_contactssaved_idtitle === ID
+table_contactssaved_exportcopy === 组剪贴板复制_8880_
+table_contactssaved_exportexcel === 组 Excel 导出_8880_
+table_contactssaved_exportpdf === 群组 PDF 导出_8880_
+table_contactssaved_grouptitle === 团体
+table_contactsgroups_gidtitle === 组 ID
+table_contactsunsub_exportcopy === 取消订阅剪贴板副本_8880_
+table_contactsunsub_exportexcel === 取消订阅 Excel 导出 _8880_
+table_contactsunsub_exportpdf === 取消订阅 PDF 导出 _8880_
+table_toolskeys_createdtitle === 已创建
+table_toolskeys_copyapisecret === 将 API 机密复制到剪贴板
+table_toolswebhooks_createtitle === 已创建
+table_tootlswebhooks_eventstitle === 活动
+table_toolswebhooks_simulatebtn === 扳机
+table_toolswebhooks_simulatedesc === 模拟 webhook 请求
+table_toolswebhooks_copywebhooksecret === 将 webhook 机密复制到剪贴板
+table_toolsactions_createtitle === 已创建
+table_toolsactions_detailstitle === 细节
+table_toolsactions_typehook === 钩
+table_toolsactions_typeautoreply === 自动回复
+table_toolsactions_source === 来源：_8880_
+table_toolsactions_sourcesms === 短信
+table_toolsactions_sourcewa === WhatsApp
+table_toolsactions_event === 事件：_8880_
+table_toolsactions_eventonsend === 发送时
+table_toolsactions_eventonreceive === 接收时
+table_toolsactions_link === 关联：
+table_toolsactions_keywords === 关键词：
+table_toolsactions_message === 信息：
+table_toolsactions_type === 类型：_8880_
+table_toolstemplates_idtitle === ID
+table_ratespartners_createdtitle === 已创建
+table_ratespartners_countrytitle === 国家
+table_ratespartners_detailstitle === 设备详情
+table_ratespartners_ratetitle === 消息率
+table_ratespartners_prioritytitle === 优先
+table_ratespartners_simtitle === 允许的 SIM 插槽
+table_ratespartners_name === 姓名：
+table_ratespartners_owner === 所有者：
+table_ratespartners_localrate === 当地价格：
+table_ratespartners_convertedrate === 转换率：
+table_ratespartners_simdual === SIM 1 和 SIM 2
+table_ratespartners_simsingle === SIM卡_8880_
+table_adminusers_exportcopy === 用户剪贴板复制_8880_
+table_adminusers_exportexcel === 用户 Excel 导出_8880_
+table_adminusers_exportpdf === 用户PDF导出_8880_
+table_adminusersexportdata === 角色：_8880_，国家：_8881_，语言：_8882_，时区：_8883_，收入：_8884_，学分：_8885_，订阅：_8886_，声音：_8887_，暂停：_8888_
+table_adminusers_exportdata1 === 角色：_8880_
+table_adminusers_exportdata2 === 国家：_8880_
+table_adminusers_exportdata3 === 语言：_8880_
+table_adminusers_exportdata4 === 时区：
+table_adminusers_exportdata5 === 收益：_8880_
+table_adminusers_exportdata6 === 学分：_8880_
+table_adminusers_exportdata7 === 订阅：
+table_adminusers_exportdata8 === 声音：_8880_
+table_adminusers_exportdata9 === 暂停：_8880_
+table_adminusers_unsuspendaccount === 取消暂停此帐户
+table_adminusers_suspendaccount === 暂停此帐户
+table_adminroles_idtitle === ID
+table_adminpackages_createdtitle === 已创建
+table_adminpackages_detailstitle === 套餐详情
+table_adminpackages_freelabel === 自由的
+table_unlimited_data === 无限
+table_adminpackages_labeldetails1 === 隐：
+table_adminpackages_labeldetails2 === 页脚标记：
+table_adminpackages_labeldetails3 === 短信发送限制：
+table_adminpackages_labeldetails4 === 短信接收限制：
+table_adminpackages_labeldetails5 === WhatsApp 发送限制：
+table_adminpackages_labeldetails6 === WhatsApp 接收限制：
+table_adminpackages_labeldetails7 === WhatsApp 帐户限制：
+table_adminpackages_labeldetails8 === USSD 限制：
+table_adminpackages_labeldetails9 === 通知限制：
+table_adminpackages_labeldetails10 === 设备限制：
+table_adminpackages_labeldetails11 === 接触限制：
+table_adminpackages_labeldetails12 === API 密钥限制：
+table_adminpackages_labeldetails13 === 网络钩子限制：
+table_adminpackages_labeldetails14 === 行动限制：
+table_adminpackages_labeldetails15 === 预定限制：
+table_adminvouchers_exportcopy === 凭证剪贴板副本_8880_
+table_adminvouchers_exportexcel === 凭证 Excel 导出_8880_
+table_adminvouchers_exportpdf === 凭证PDF导出_8880_
+table_adminvouchers_createdtitle === 已创建
+table_adminvouchers_codetitle === 兑换代码
+table_adminvouchers_copycode === 将优惠券代码复制到剪贴板
+table_adminsubscriptions_createdtitle === 已创建
+table_admintransactions_createdtitle === 已创建
+table_admintransactions_itemtitle === 物品
+table_admintransactions_amounttitle === 数量
+table_admintransactions_durationtitle === 期间
+table_admintransactions_creditslabel === 学分
+table_admintransactions_monthslabel === _8880_月
+table_adminpayouts_createdtitle === 已创建
+table_adminpayouts_partnertitle === 伙伴
+table_adminpayouts_amounttitle === 数量
+table_adminpayouts_addresstitle === 付款地址
+table_adminpayouts_optionstitle === 选项
+table_adminpayouts_approve === 将付款请求标记为已付款
+table_adminpayouts_reject === 拒绝付款请求
+table_adminwidgets_createdtitle === 已创建
+table_adminwidgets_typeblock === 堵塞
+table_adminwidgets_typemodal === 模态
+table_adminwidgets_copywidgethook === 将小部件挂钩复制到剪贴板
+table_adminpages_createdtitle === 已创建
+table_adminpages_optionstitle === 选项
+table_adminpages_copypagehook === 将页面挂钩复制到剪贴板
+table_adminmarketing_createdtitle === 已创建
+table_adminmarketing_typetitle === 类型
+table_adminmarketing_titletitle === 标题
+table_adminmarketing_contenttitle === 内容
+table_adminmarketing_recipientstitle === 收件人
+table_adminmarketing_optionstitle === 选项
+table_adminmarketing_notifylabel === 通知
+table_adminmarketing_mailerlabel === 梅勒
+table_adminmarketing_pushlabel === 推
+table_adminmarketing_roleslabel === 角色：
+table_adminmarketing_userslabel === 用户：
+table_admingateways_createdtitle === 已创建
+table_admingateways_nametitle === 姓名
+table_admingateways_pricingtitle === 价钱
+table_admingateways_optionstitle === 选项
+table_admingateways_invalidjson === JSON 格式无效！
+table_admingateways_defaultprice === 默认价格：_8880_
+table_admingateways_percountryprcie === 每个国家的定价：
+table_adminshorteners_createdtitle === 已创建
+table_adminshorteners_nametitle === 姓名
+table_adminshorteners_optionstitle === 选项
+table_adminplugins_idtitle === ID
+table_adminplugins_versiontitle === 安装版本
+table_adminplugins_actionstitle === 行动
+table_adminplugins_updatedesc === 更新这个插件
+table_adminplugins_editdesc === 编辑插件选项
+table_adminplugins_removedesc === 卸载这个插件
+whatsapp_sent_sentsuccess === WhatsApp聊天_8880_已发送！
+whatsapp_sent_sentfailed === 发送聊天_8880_失败！
+whatsapp_received_chat === 新聊天_8880_已收到！
+widget_systemupdate_title === 系统更新
+widget_systemupdate_loader === 更新系统
+widget_systemupdate_requireupdate === 更新文件不能为空！
+requests_systemupdate_faileduploadingfile === 上传更新文件失败！
+widget_usersettings_loader === 保存帐户设置
+widget_payment_title === 支付
+widget_payment_creditamountnotless === 信用额度不能低于10！
+widget_payment_creditslabel === 学分
+widget_view_contentremoved === 内容已被删除！
+widget_redeem_title === 赎回
+widget_redeem_loader === 验证优惠券代码
+widget_addcredits_title === 添加学分
+widget_addpayout_title === 请求支付
+widget_addpayout_loader === 创建付款请求
+widget_addpayout_requireamount === 金额不能为空！
+widget_addpayout_requireprovider === 支付提供商不能为空！
+widget_addpayout_requireaddress === 付款地址不能为空！
+widget_smsquick_loader === 将消息添加到队列
+widget_smsbulk_loader === 将消息添加到队列
+widget_smsexcel_loader === 将消息从 excel 文件添加到队列
+widget_addsmsscheduled_loader === 保存您的预定消息
+widget_editscheduled_title === 编辑时间表
+widget_editscheduled_loader === 保存您的预定消息
+widget_addussd_title === USSD 请求
+widget_addussd_loader === 将ussd请求添加到队列
+widget_editdevice_title === 编辑设备
+widget_editdevice_loader === 保存设备更改
+widget_waquick_title === 快速聊天
+widget_waquick_loader === 将whatsapp聊天添加到队列
+widget_waquick_requireaccount === WhatsApp帐户是必需的！
+widget_wabulk_title === 群聊
+widget_wabulk_loader === 将whatsapp聊天添加到队列
+widget_waexcel_title === 通过 Excel 批量聊天
+widget_waexcel_loader === 将whatsapp聊天添加到队列
+widget_wascheduled_title === 安排聊天
+widget_wascheduled_loader === 将whatsapp聊天添加到队列
+widget_wascheduled_requireaccount === WhatsApp帐户是必需的！
+widget_waeditscheduled_title === 编辑时间表
+widget_waeditscheduled_loader === 将whatsapp聊天添加到队列
+widget_waeditscheduled_requireaccount === WhatsApp帐户是必需的！
+widget_waaddaccount_title === 新增帐户
+widget_importcontacts_loaded === 从excel文件导入联系人
+widget_addcontact_loader === 创建新的联系人条目
+default_pricecolumns_monthlabel === 月
+default_pricecolumns_dailylabel === 日常的
+default_pricecolumns_monthlylabel === 每月
+default_pricecolumns_unlimitedlabel === 无限
+form_literal_spintaxdesc2 === _8880_ 和 _8881_ 值将随机使用。
+dashboard_packagesmodal_smssend === 短信发送
+default_footerquote_obama === 成为不是到达某个地方或实现某个目标。相反，我将其视为向前的运动，一种进化的方式，一种不断走向更好的自我的方式。旅程没有结束。
+widgets_editcontact_loader === 保存联系人更改
+widgets_addgroup_loader === 创建新组条目
+widgets_editgroup_loader === 保存组更改
+widgets_addapikey_loader === 创建新的 API 密钥
+widgets_editapikey_loader === 保存 API 密钥更改
+widgets_addwebhook_title === 添加网络钩子
+widgets_addwebhook_loader === 创建新的 webhook
+widgets_addwebhook_requireevents === 活动不能为空！
+widgets_editwebhook_loader === 保存 webhook 更改
+widgets_addhook_loader === 创建新的钩子动作
+widgets_edithook_loader === 保存挂钩操作更改
+widgets_addautoreply_loader === 创建新的自动回复操作
+widgets_editautoreply_loader === 保存自动回复操作更改
+widgets_addtemplate_loader === 创建新的消息模板
+widgets_edittemplate_loader === 保存模板更改
+widgets_adminbuilder_loader === 保存构建器设置
+widgets_adminsettings_loader === 保存系统设置
+widgets_admintheme_loader === 保存主题设置
+widgets_adduser_loader === 创建新用户帐户
+widgets_edituser_loader === 保存用户帐户更改
+widgets_addrole_loader === 创建新用户角色
+widgets_addrole_title === 添加角色
+widgets_editrole_loader === 保存用户角色更改
+widgets_addpackage_loader === 创建新的系统包
+widgets_editpackage_loader === 保存包更改
+widgets_addvoucher_loader === 创建新的优惠券
+widgets_addsubscription_loader === 创建新用户订阅
+widgets_addwidgets_loader === 创建新的小部件
+widgets_editwidget_loader === 保存小部件更改
+widgets_addpage_loader === 创建新页面
+widgets_editpage_loader === 保存页面更改
+widgets_addpush_title === 推送广播
+widgets_addpush_loader === 广播推送通知
+widgets_addpush_requiretitle === 标题不能为空！
+widgets_addpush_requiremessage === 留言不能为空！
+widgets_addnotify_title === 通知广播
+widgets_addnotify_loader === 直播通知
+widgets_addnotify_requiretitle === 标题不能为空！
+widgets_addnotify_requiremessage === 留言不能为空！
+widgets_addmailer_title === 群发邮件
+widgets_addmailer_loader === 发送电子邮件
+widgets_addmailer_requiretitle === 标题不能为空！
+widgets_addlanguage_loader === 添加新语言
+widgets_editlanguage_loader === 保存语言更改
+widgets_addgateway_title === 添加网关
+widgets_addgateway_loader === 添加新网关
+widgets_addgateway_requirename === 网关名称不能为空！
+widgets_editgateway_title === 编辑网关
+widgets_editgateway_loader === 保存网关更改
+widgets_editgateway_requirename === 网关名称不能为空！
+widgets_addshortener_title === 添加缩短剂
+widgets_addshortener_loader === 添加新的缩短器
+widgets_addshortener_requirename === 缩写名称不能为空！
+widgets_editshortener_title === 编辑缩短器
+widgets_editshortener_loader === 保存缩短器更改
+widgets_editshortener_requirename === 缩写名称不能为空！
+widgets_editplugin_loader === 将插件更改应用于系统
+widgets_updateplugin_title === 更新插件
+widgets_updateplugin_loader === 更新插件
+device_backgroundpage_line1 === 在后台运行
+device_backgroundpage_line2 === 为什么Gateway App需要在后台运行？
+device_backgroundpage_line3 === 该应用程序需要在后台运行以继续侦听要发送和接收的新消息，这也是处理新通知所必需的。如果您不需要通知，您可以在应用设置中禁用它，禁用它将阻止系统从设备接收通知数据。
+device_backgroundpage_line4 === 如果您有第三方安全应用程序，例如 Avast、Eset 等。请将网关应用程序添加到其例外中。
+device_backgroundpage_line5 === 请阅读以下列表中适用于您手机品牌的指南。
+device_backgroundpage_line6 === 小米 MIUI
+device_backgroundpage_line7 === 省电
+device_backgroundpage_line8 === 1. 打开设置。
+device_backgroundpage_line9 === 2. 选择“电池和性能”。
+device_backgroundpage_line10 === 3. 选择“选择应用程序”。
+device_backgroundpage_line11 === 4.找到_8880_，在后台设置中选择“无限制”。
+device_backgroundpage_line12 === 锁定应用程序
+device_backgroundpage_line13 === 1. 点击菜单按钮进入最近的页面。
+device_backgroundpage_line14 === 2. 选择_8880_卡并锁定。
+device_backgroundpage_line15 === 华为EMUI
+device_backgroundpage_line16 === 省电
+device_backgroundpage_line17 === 1. 打开设置。
+device_backgroundpage_line18 === 2. 选择高级设置。
+device_backgroundpage_line19 === 3. 选择电池管理器。
+device_backgroundpage_line20 === 4. 选择受保护的应用程序。
+device_backgroundpage_line21 === 5.找到_8880_，打开开关。
+device_backgroundpage_line22 === 如果最近更新了 EMUI 版本，则无需在设置中进行更改。
+device_backgroundpage_line23 === 锁定应用程序
+device_backgroundpage_line24 === 1. 点击菜单按钮，进入最近的页面。
+device_backgroundpage_line25 === 2. 下拉_8880_，直到出现一个锁定图标。
+device_backgroundpage_line26 === 三星
+device_backgroundpage_line27 === 省电
+device_backgroundpage_line28 === 1. 点击智能管理器。
+device_backgroundpage_line29 === 2. 选择电池，点击进入设置页面。
+device_backgroundpage_line30 === 3. 点击未监控的应用，找到_8880_，点击进入。
+device_backgroundpage_line31 === 4. 点击电池，然后点击优化电池使用。
+device_backgroundpage_line32 === 5.选择所有应用，找到_8880_并关闭开关。
+device_backgroundpage_line33 === 锁定应用程序
+device_backgroundpage_line34 === 1. 点击菜单按钮，进入最近打开的程序页面。
+device_backgroundpage_line35 === 2. 点击更多图标以选择锁定应用程序。
+device_backgroundpage_line36 === 3. 点击_8880_的锁定图标。
+device_backgroundpage_line37 === 4. 点击完成以完成操作。
+device_backgroundpage_line38 === 魅族 Flyme
+device_backgroundpage_line39 === 锁定应用程序
+device_backgroundpage_line40 === 1. 在主屏幕左侧向上滑动，进入“最近”。
+device_backgroundpage_line41 === 2. 按住_8880_，直到出现锁定图标。
+device_backgroundpage_line42 === OPPO ColorOS
+device_backgroundpage_line43 === 省电
+device_backgroundpage_line44 === 1. 打开设置并点击电池。
+device_backgroundpage_line45 === 2. 点击节能器。
+device_backgroundpage_line46 === 3.找到_8880_关闭后台冻结和异常应用优化。
+device_backgroundpage_line47 === 如果完成以上步骤后仍无法设置，请尝试以下操作：
+device_backgroundpage_line48 === 1.打开手机管家，找到干净的背景。
+device_backgroundpage_line49 === 2. 点击添加应用。
+device_backgroundpage_line50 === 3. 勾选_8880_并点击确定。
+device_backgroundpage_line51 === 锁定应用程序
+device_backgroundpage_line52 === 1. 点击菜单按钮，进入最近的页面。
+device_backgroundpage_line53 === 2. 下拉_8880_，直到出现一个锁定图标。
+device_backgroundpage_line54 === Vivo FuntouchOS
+device_backgroundpage_line55 === 省电
+device_backgroundpage_line56 === 1. 打开管理器并点击电源管理器。
+device_backgroundpage_line57 === 2. 选择后台电源。
+device_backgroundpage_line58 === 3.找到_8880_，打开开关。
+device_backgroundpage_line59 === 锁定应用程序
+device_backgroundpage_line60 === 1. 点击菜单按钮，进入最近的页面。
+device_backgroundpage_line61 === 2. 下拉_8880_，直到出现一个锁定图标。
+device_backgroundpage_line62 === 锤子操作系统
+device_backgroundpage_line63 === 省电
+device_backgroundpage_line64 === 1. 打开手机管家。
+device_backgroundpage_line65 === 2. 点击应用电池使用优化。
+device_backgroundpage_line66 === 3.找到_8880_并关闭开关。
+device_backgroundpage_line67 === 锁定应用程序
+device_backgroundpage_line68 === 1. 双击菜单按钮，进入最近访问页面。
+device_backgroundpage_line69 === 2. 按住_8880_ 直到出现图钉图标。
+device_backgroundpage_line70 === 其他品牌
+device_backgroundpage_line71 === 1. 锁定最近使用的_8880_应用。
+device_backgroundpage_line72 === 2. 将_8880_添加到异常中。
+device_backgroundpage_line73 === 3. 如果您安装了另一个启动管理器，请将_8880_ 从其阻止列表中删除。
+dashboard_adminmarketing_pushbtndesc === 向设备广播推送通知
+dashboard_adminmarketing_notifybtndesc === 向用户广播浏览器通知
+dashboard_adminmarketing_mailerbtndesc === 向用户发送批量电子邮件
+js_loader_pleasewait === 请稍等
+js_userstatus_online === 在线的
+js_userstatus_offline === 离线
+js_whatsapp_linksuccess === WhatsApp帐户已成功关联！
+js_whatsapp_linkfailed === WhatsApp 帐号关联失败！
+js_whatsapp_linkexist === WhatsApp 已与您的帐户关联！
+js_whatsapp_loaderprocessing === 处理请求
+js_clearpending_title === 清除待处理？
+js_clearpending_desc === 所有等待发送的项目将被清除并删除！
+js_clearpending_processing === 处理请求
+js_authenticate_processing === 处理请求
+js_actiontrigger_title === 模拟 Webhook
+js_actiontrigger_typetitle === 数据类型
+js_actiontrigger_typesms === 短信
+js_actiontrigger_typewa === WhatsApp
+js_actiontrigger_typeussd === USSD
+js_actiontrigger_typenoti === 通知
+js_actiontrigger_loader === 模拟 webhook
+js_actiontranslator_title === 译者
+js_actiontranslator_from === 翻译自
+js_actiontranslator_to === 翻译成
+js_actiontranslator_loader === 翻译消息
+js_actionregen_title === 重新生成系统令牌？
+js_actionregen_desc === 创建新的系统令牌是不可逆转的！
+js_actionregen_loader === 生成令牌
+js_actionclear_title === 清除缓存？
+js_actionclear_desc === 所有系统缓存数据将被清除！
+js_processing_dataloader === 处理请求
+js_build_title === 构建新的 APK？
+js_build_desc === 请确保您已正确配置您的构建器设置！
+js_build_btnbuild === 建造
+js_reorder_title === 重新排序语言？
+js_reorder_desc === 语言将被重新排序，这无法撤消！
+js_deletetrash_title === 删除项目？
+js_deletetrash_desc === 是否要删除选定的项目？
+js_tablesexport_copy === 剪贴板
+js_tablesexport_excel === 导出 Excel
+js_tablesexport_pdf === 导出 PDF
+mail_expiredtpl_line1 === 你好呀，
+mail_expiredtpl_line2 === 您收到此消息是因为您的有效高级套餐订阅已过期！
+mail_expiredtpl_line3 === 您的订阅已被删除。要再次订阅任何高级套餐，只需访问我们的网站。
+mail_expiredtpl_line4 === 如有疑问和问题，请随时与我们联系！
+mail_expiredtpl_line5 === 谢谢！
+mail_expiringtpl_line1 === 你好呀，
+mail_expiringtpl_line2 === 这是一个友好的提醒，您的有效高级套餐订阅将在 5 天后到期！
+mail_expiringtpl_line3 === 为防止服务中断，请不要忘记再次订阅任何高级套餐。请访问我们的网站再次订购。
+mail_expiringtpl_line4 === 如有疑问和问题，请随时与我们联系！
+mail_expiringtpl_line5 === 谢谢！
+mail_failedtpl_line1 === 你好呀，
+mail_failedtpl_line2 === 我们无法处理您的付款交易，请使用其他提供商或付款方式重试。
+mail_failedtpl_line3 === 付款编号：
+mail_failedtpl_line4 === 带来不便敬请谅解。
+mail_forgottpl_line1 === 你好呀，
+mail_forgottpl_line2 === 我们已收到您的帐户取回请求，请使用此临时密码登录：
+mail_forgottpl_line3 === 登录后不要忘记更改密码！
+mail_forgottpl_line4 === 密码将在 10 分钟后过期，请抓紧时间。如果您没有提出此要求，请忽略此电子邮件。
+mail_forgottpl_line5 === 谢谢！希望它有效。
+mail_payoutpaidtpl_line1 === 你好呀，
+mail_payoutpaidtpl_line2 === 我们的团队已将您的付款请求发送到您的地址和选定的付款提供商。
+mail_payoutpaidtpl_line3 === 数量：
+mail_payoutpaidtpl_line4 === 快乐消费！
+mail_payoutrejecttpl_line1 === 你好呀，
+mail_payoutrejecttpl_line2 === 我们无法处理您的付款请求，您的付款地址可能有问题。请联系我们的团队以了解更多信息。
+mail_payoutrejecttpl_line3 === 数量：
+mail_payoutrejecttpl_line4 === 带来不便敬请谅解。
+mail_subscribetpl_line1 === 你好呀，
+mail_subscribetpl_line2 === 感谢您订阅我们的高级套餐之一，以下是您购买的一些小问题：
+mail_subscribetpl_line3 === _8880_包
+mail_subscribetpl_line4 === 此订阅将在_8880_之后到期
+mail_subscribetpl_line5 === 这将立即生效。如有疑问和问题，请随时与我们联系！
+mail_subscribetpl_line6 === 谢谢！
+requests_build_submitrequest === 处理请求
+requests_reorder_loader === 处理请求
+requests_deleteitem_loader === 处理请求
+requests_packageform_invalidint === 某些字段包含无效整数！
+widgets_viewbank_title === 银行转帐
+modal_paymentbtn_banktransfer === 银行转帐
+modal_adminsettings_banktransfer1 === 银行转账模板
+modal_adminsettings_banktransfer2 === 如果您在付款选项中启用了银行转帐，则应为其创建一个模板，这是用户单击按钮时将看到的内容。您可以在此处添加说明和银行地址。接受 HTML。
+modal_adminsettings_banktransfer3 === 您可以在银行转账模板中使用的一组变量。
+requests_delete_pluginssuccess === 插件已成功删除！
+table_whatsappreceived_chattitle === 聊天
+table_whatsappreceived_accounttitle === 帐户
+tabs_whatsappaccounts_titleheader === WhatsApp 帐户
+form_editwhatsapp_randominterval === 随机发送间隔
+form_editwhatsapp_randomintervalhelp === 如果启用，聊天将以 2 个值之间的随机间隔发送。您可以在下面配置它们。
+form_editwhatsapp_randommin === 发送间隔最小值
+form_editwhatsapp_randomminhelp === 以秒为单位的最小发送间隔。
+form_editwhatsapp_randommax === 发送间隔最大值
+form_editwhatsapp_randommaxhelp === 以秒为单位的最大发送间隔。
+dashpages_sms_headertitle === 短信
+dashnav_sms_navname === 短信
+widgets_editwhatsapp_title === 编辑 WhatsApp
+widgets_editwhatsapp_loader === 保存whatsapp帐户更改
+mail_waunlink_title === 您的 WhatsApp 帐户已取消关联！
+mail_waunlink_contentline1 === 你好呀！
+mail_waunlink_contentline2 === 您的其中一个关联的 WhatsApp 帐户已被删除，其唯一 ID 如下：
+mail_waunlink_contentline3 === 由于 WhatsApp 相关事件，此帐户不再与我们的系统关联，请重新关联。
+mail_waunlink_contentline4 === 谢谢！
+table_contactsunsubscribed_idtitle === ID
+table_contactsunsubscribed_phonetitle === 电话
+form_btnall_visitlink === 访问
+unsubscribe_header_title === 退订
+unsubscribe_content_title === 退订
+unsubscribe_content_desc === 您已取消订阅我们的发送列表。
+requests_editwhatsapp_success === WhatsApp 帐户已更新！
+form_addusertpl_credits === 学分
+form_addusertpl_creditsdesc === 此用户帐户的起始积分。
+form_addusertpl_creditsdesc2 === 修改此用户帐户的信用。
+form_registerconfirm_desc === 您的电子邮件地址已成功验证。您可以使用下面的按钮登录您的帐户。
+requests_loginnotverified_response === 您的帐户电子邮件地址尚未验证。我们已向此地址发送确认链接：_8880_
+requests_loginnotverified_response2 === 您的帐户已成功注册。在使用它之前，您需要验证您的电子邮件地址。我们已向此地址发送确认链接：_8880_
+requests_loginnotverified_responseunable === 我们无法发送电子邮件确认！
+requests_loginnotverified_emailtitle === 欢迎来到_8880_！在此处确认您帐户的电子邮件地址。
+requests_loginnotverified_emaildesc1 === 你好呀！
+requests_loginnotverified_emaildesc2 === 感谢您在我们这里创建帐户，请通过访问此链接验证您的电子邮件地址：
+requests_loginnotverified_emaildesc3 === 谢谢！
+form_adminsettings_authredi === 授权重定向
+form_adminsettings_authredidesc === 成功验证后选择重定向位置。
+form_adminsettings_authredihomepage === 主页
+form_adminsettings_authredidashboard === 仪表板
+form_adminsettings_defaultcoun === 默认国家
+form_adminsettings_defaultcoundesc === 用户注册表单上默认选择的国家。
+form_adminsettings_defaulttimezo === 默认时区
+form_adminsettings_defaulttimezodesc === 用户注册表单上默认选择的时区。
+form_adminsettings_mailingtrig === 邮件触发器
+form_adminsettings_mailingtrigdesc === 选择要启用的邮件触发器。
+form_adminsettings_adminemail === 管理员电子邮件
+form_adminsettings_adminemaildesc === 管理员的邮件触发消息将发送到此电子邮件地址。这些消息仅提供英文版本，无法翻译。
+form_adminsettings_recaptchatitle === 验证码
+form_adminsettings_recaptchadesc === 启用后，recaptcha 将显示在注册、登录和忘记密码等身份验证表单中。
+form_editdevice_receiveoptiontitle === 接收短信
+form_editdevice_receiveoptiondesc === 如果禁用，从安卓收件箱收到的消息将不会被系统保存。禁用此功能后，Webhooks 和其他相关工具将不适用于该设备。
+form_editwhatsapp_receiveoptiontitle === 接收聊天
+form_editwhatsapp_receiveoptiondesc === 如果禁用，系统不会保存从 whatsapp 帐户收到的聊天记录。禁用此功能后，Webhooks 和其他相关工具将不适用于 WhatsApp 帐户。
+js_calendarall_option === 全部
+js_calendarall_apply === 申请
+js_calendarall_cancel === 取消
+js_calendarall_from === 从
+js_calendarall_to === 至
+js_calendarall_week === W
+js_calendarall_daysu === 苏
+js_calendarall_daymo === 莫
+js_calendarall_daytu === 涂
+js_calendarall_daywe === 我们
+js_calendarall_dayth === 钍
+js_calendarall_dayfr === 神父
+js_calendarall_daysa === 萨
+js_calendarall_monjan === 一月
+js_calendarall_monfeb === 二月
+js_calendarall_monmar === 行进
+js_calendarall_monapr === 四月
+js_calendarall_monmay === 可能
+js_calendarall_monjun === 六月
+js_calendarall_monjul === 七月
+js_calendarall_monaug === 八月
+js_calendarall_monsep === 九月
+js_calendarall_monoct === 十月
+js_calendarall_monnov === 十一月
+js_calendarall_mondec === 十二月
+response_ussddelete_success === USSD 请求已被删除！
+response_titanecho_invaltoken === 系统配置错误！
+widgets_addplugin_loader === 将新插件安装到系统
+widgets_addwhatsapp_newmodal === 通过单击按钮连接您的 WhatsApp 以显示二维码，然后通过应用程序中的 _8880_ 按钮扫描它。您只有 15 秒的时间扫描 QRCode。
+widgets_addwhatsapp_newmodal2 === _8880_已过期，如果您的帐号已绑定或未绑定，请点击下方按钮。
+widgets_addwhatsapp_newmodal3 === 继续
+widgets_addwhatsapp_newmodal4 === 取消
+datatable_addedtoclipboard === 添加到剪贴板
+datatable_addedtoclipboardkeys === 单击复制按钮将显示的行添加到剪贴板。
+datatable_addedtoclipboardmulti === 复制的行：
+datatable_addedtoclipboardsingle === 已复制 1 行
+table_details_schedulednewrepeat === 重复：
+and_edit_dev_line70_1_new === 您希望对每条消息收取的金额、设备国家/地区将用作货币基础。还支持浮点值，例如美分。
+widget_waquick_requireaccountnew1 === WhatsApp 帐户
+requests_whatsapp_notavail === WhatsApp 服务器不可用！
+requests_whatsapp_unablegenqr === 无法生成 WhatsApp 二维码！
+requests_charts_commisionstitle === 佣金
+requests_token_refreshecho === _8880_ 的令牌已刷新！
+requests_remote_smscampaignresumed === 短信活动已恢复！
+requests_remote_smscampaignpaused === 短信活动已暂停！
+requests_remote_wacampaignresumed === WhatsApp 活动已恢复！
+requests_remote_wacampaignpaused === WhatsApp 活动已暂停！
+requests_create_payoutwithdrawalamountatleast === 提款金额至少应为_8880_ _8881_！
+requests_sms_intervaltypereachedmax === 此设备已达到 _8880_ 条允许的消息，请稍后再试！
+requests_sms_encounteredgatewayerror === 我们遇到了网关错误！
+requests_sms_gatewaycannotsendowndevices === 您不能使用自己的设备发送带有积分的消息！
+requests_create_encounteredshortenererror === 我们遇到了一个缩短错误！
+requests_create_campaignnametooshort === 广告系列名称太短！
+requests_sms_intervaltypedaily === 日常的
+requests_sms_intervaltypemonthly === 每月
+requests_sms_reachedmaximumsentpackage === 您已达到当前包裹的最大发送消息数！
+response_message_bulkqueuednew === _8880_ 消息已排队等待发送！
+response_whatsapp_invalidmediafile === 无效的媒体文件！
+response_whatsapp_atleastonebutt === 请至少添加一个按钮！
+response_whatsapp_invalidimagefile === 图片文件无效！
+response_whatsapp_listtitlereq === 列表标题为必填项！
+response_whatsapp_listmenureq === 列表菜单标题是必需的！
+response_whatsapp_listformatreq === 列表格式是必需的！
+response_whatsapp_listformatinval === 列表格式无效！
+response_whatsapp_tempformatreq === 模板格式是必需的！
+response_whatsapp_tempformatinval === 模板格式无效！
+response_whatsapp_failedchatsqueue === 将聊天添加到 WhatsApp 队列失败！
+response_whatsapp_bulkchatssentcount === _8880_聊天已排队等待发送！
+response_whatsapp_failedchatsqueuemany === 将聊天添加到 WhatsApp 队列失败！
+response_whatsapp_nochatsqueuedpacklimit === 抱歉，没有聊天排队。请检查您的包裹的发送限制！
+response_whatsapp_successfetchgroups === 成功获取_8880_组！
+response_whatsapp_nogroupsfoundfetch === 未找到任何组！
+response_partners_commisionerror === 合作伙伴佣金百分比不能小于1且大于80！
+response_delete_smsdeletecampaign === 短信活动已被删除！
+response_delete_wacampaigndeleted === WhatsApp 活动已被删除！
+response_delete_wagroupdeleted === WhatsApp群组已被删除！
+table_smscampaign_createdtitle === 已创建
+table_smscampaign_nametitle === 姓名
+table_smscampaign_gatewaytitle === 网关
+table_smscampaign_contactstitle === 联系人
+table_smscampaign_statustitle === 地位
+table_smscampaign_optionstitle === 选项
+table_campaign_completedstatus === 完全的
+table_smscagmpaign_processingstatus === _8880_ 个，共 _8881_ 个已处理
+table_campaign_pausecampaign === 暂停此广告系列
+table_campaign_resumecampaign === 恢复此活动
+table_smsscheduled_lastsendinfo === 最后发送
+table_smstransac_createdtitle === 已创建
+table_smstransac_sendertitle === 发件人
+table_smstransac_devicetitle === 设备
+table_smstransac_messagetitle === 信息
+table_smstransac_earningstitle === 收益
+table_smstransac_messageremoved === 留言已被删除！
+table_wacampaign_createdtitle === 已创建
+table_wacampaign_nametitle === 姓名
+table_wacampaign_accounttitle === 帐户
+table_wacampaign_typetitle === 类型
+table_wacampaign_contactstitle === 联系人
+table_wacampaign_statustitle === 地位
+table_wacampaign_optionstitle === 选项
+table_wacampaign_processingstatus === _8880_ 个，共 _8881_ 个已处理
+table_wascheduled_lastsendinfo === 最后发送
+table_campaign_pendingstatus === 待办的
+table_wagroups_nametitle === 姓名
+table_wagroups_accounttitle === 帐户
+table_wagroups_addresstitle === 集团地址
+table_wagroups_optionstitle === 选项
+table_waaccounts_statustitle === 地位
+table_waaccounts_statusconnected === 连接的
+table_waaccounts_statusconnecting === 连接
+table_waaccounts_statusdisconnecting === 断开连接
+table_waaccounts_statusdisconnected === 断开连接
+table_waaccounts_statuserror === 错误
+table_waaccounts_copyaccountid === 复制帐户 ID
+table_android_brandtitle === 牌
+table_android_partnertitle === 伙伴
+table_android_statustitle === 地位
+table_android_statusonline === 在线的
+table_android_statusoffline === 离线
+table_android_copydeviceid === 复制设备唯一 ID
+table_partnerrates_devicename === 设备名称
+widget_fetchgroups_titlefetch === 获取组
+widget_fetchgroups_loaderfetch === 从帐户中获取组
+pages_admin_tokenrefreshbutt === 令牌
+pages_admin_tokenrefreshbutthelp === 刷新套接字通信令牌。如果系统未显示任何实时 toast 通知或未实时更新，请单击此按钮。
+pages_admin_cachehelp === 清除整个系统缓存。警告！这也将清除与 API、身份验证和支付相关的缓存。建议仅在升级系统时执行此操作。
+pages_admin_themehelp === 修改网站模板和设计。
+pages_admin_systemsettingshelp === 调整重要的系统设置。
+pages_sms_campaignstab === 活动
+pages_sms_partnertransactions === 交易
+pages_whatsapp_campaignstab === 活动
+pages_whatsapp_groupstab === 团体
+forms_repeatdays_title === 重复天数
+forms_repeatdays_tagline === 输入等待重复发送消息的天数。输入 365 每年在同一月、日、时间重复，如果没有，它只会跟随时间。输入 0 以禁用重复。
+forms_whatsapp_messagetype === 消息类型
+forms_whatsapp_messagetypehelp === 选择 WhatsApp 消息类型。
+forms_whatsapp_typetext === 文本
+forms_whatsapp_typemedia === 媒体
+forms_whatsapp_typebutton === 按钮
+forms_whatsapp_typelist === 列表
+forms_whatsapp_typetemplate === 模板
+forms_whatsapp_mediafile === 媒体文件
+forms_whatsapp_mediafilehelp === 媒体文件，要上传的媒体文件。支持 .jpg、.png、.gif 和 .mp4 文件。
+forms_whatsapp_imagefile === 图像文件
+forms_whatsapp_imagefilehelp === 自定义图像文件，这是可选的。
+forms_whatsapp_buttons === 纽扣
+forms_whatsapp_buttonshelp === 自定义按钮，第一个按钮是必需的。
+forms_whatsapp_buttonsplace1 === 按钮 1
+forms_whatsapp_buttonsplace2 === 按钮 2（可选）
+forms_whatsapp_buttonsplace3 === 按钮 3（可选）
+forms_whatsapp_listtitle === 列表标题
+forms_whatsapp_listtitlehelp === 这是列表标题。
+forms_whatsapp_listplacetitle === 我的列表
+forms_whatsapp_listmenutitle === 菜单标题
+forms_whatsapp_listmenutitlehelp === 这是菜单标题。
+forms_whatsapp_listmenutitleplace === 菜单标题
+forms_whatsapp_footermessage === 页脚消息
+forms_whatsapp_footermessagehelp === 自定义页脚消息，这是可选的。
+forms_whatsapp_footermessageplace === 这是页脚消息...
+forms_whatsapp_listformat === 列表格式
+forms_whatsapp_listformathelp === 这是列表格式，提供的 json 必须有效。
+forms_whatsapp_templateformat === 模板格式
+forms_whatsapp_templateformathelp === 这是模板格式，提供的 json 必须有效。
+and_settings_line159new === 此令牌不得与任何人共享。这用于 cronjobs、系统 API、WhatsApp 请求和其他外部请求的安全性。如果您认为您的系统令牌已被泄露，请重新生成一个新令牌，您需要在重新生成一个新令牌后重新配置您的 cronjobs、系统 API 和其他相关设置。这也将影响 WhatsApp 系统，所有连接的帐户将不再工作。
+forms_systemsettings_servicestitle === 服务
+forms_systemsettings_waserver === WhatsApp 服务器网址
+forms_systemsettings_waserverhelp === 您的 WhatsApp 服务器的 URL，您需要将其托管在您自己的服务器上。请阅读文档以获取设置说明。
+forms_systemsettings_waport === WhatsApp 服务器端口
+forms_systemsettings_waporthelp === 您的 WhatsApp 服务器的端口，默认端口为 7001。请阅读文档以获取设置说明。
+forms_systemsettings_messagestitle === 留言
+forms_systemsettings_partnercommission === 合作伙伴佣金
+forms_systemsettings_partnercommissionhelp === 对于发送的每条消息，您希望从合作伙伴的收入中扣除的佣金百分比。这将是您的钱，并将显示在管理面板的统计信息中。百分比不得小于 1 且大于 80！
+forms_systemsettings_partnerminimum === 合作伙伴最低支出
+forms_systemsettings_partnerminimumhelp === 能够申请提款的最低收入金额。此金额还将使用与收入相同的默认系统货币。
+forms_editdevice_sendinglimittitle === 发送限制
+forms_editdevice_limitstatus === 限制状态
+forms_editdevice_limitstatushelp === 如果启用，每天或每月可以使用此设备发送的消息数量将受到限制。
+forms_editdevice_limitinterv === 限制间隔
+forms_editdevice_limitintervhelp === 在刷新限制计数器之前选择延迟类型。
+forms_editdevice_messagecount === 消息数
+forms_editdevice_messagecounthelp === 在限制时间间隔内可以发送的消息数。
+forms_editdevice_limitintervselect1 === 日常的
+forms_editdevice_limitintervselect2 === 月刊
+forms_editdevice_partnerstatus === 合作伙伴状态
+forms_edituser_clockformat === 时钟格式
+forms_edituser_clockformathelp === 选择在系统中任何位置显示时间时要使用的时钟格式。
+forms_edituser_clockformatselect1 === 12小时
+forms_edituser_clockformatselect2 === 24小时
+forms_edituser_dateformat === 日期格式
+forms_edituser_dateformathelp === 选择在系统中的任何位置显示日期时要使用的日期格式。
+forms_edituser_dateseparator === 日期分隔符
+forms_edituser_dateseparatorhelp === 选择在系统中的任何位置显示日期时要使用的日期分隔符。
+forms_campagin_formname === 活动名称
+forms_campagin_formhelp === 活动名称，将为这些批量消息创建活动日志，您将能够通过活动管理器轻松停止发送。
+forms_campaign_formplaceholder === 例如。示例活动
+forms_whatsapp_numbersgroupsname === 号码或组地址
+forms_whatsapp_numbersgroupshelp === 多个 E.164 号码和 WhatsApp 组地址由换行符分隔。
+forms_whatsapp_groupsimportname === WhatsApp 帐户
+forms_whatsapp_groupsimportnamehelp === 选择将提取组的 whatsapp 帐户。
+forms_whatsapp_groupsimportbutton === 拿来
+forms_whatsapp_phonegroupsname === 电话或群组地址
+forms_whatsapp_phonegroupshelp === E.164 收件人电话号码或 WhatsApp 群组地址。
+pages_administration_commissionstitle === 佣金
+pages_smscampaigns_header === 活动
+pages_smstransactions_header === 交易
+pages_smstransactions_comtagline === 使用合作伙伴设备发送的所有 SMS 都会收取 _8880_% 的交易费。这已在下表中扣除。
+pages_wacampaigns_header === 活动
+pages_wagroups_header === 团体
+pages_wagroups_fetchbtn === 获取组
+tables_plugins_noactionsline === 无操作
+plugin_header_selectmethod === 选择付款方式
+title_plugin_paymentpage === 支付页面
+payment_title_pending === 订单待处理
+btn_plugin_cancelorderpayment === 取消付款
+payment_title_orderfailed === 订单失败
+payment_page_orderfailed === 处理您的订单请求时出现问题。
+and_rate_gate_3new === _8880_ 费率
+and_rate_gate_idname === 编号：_8880_
+table_ratespartners_optionstitle === 选项

@@ -2405,3 +2405,194 @@ js_calendarall_mondec === Desember
 response_ussddelete_success === Permintaan USSD telah dihapus!
 response_titanecho_invaltoken === Kesalahan konfigurasi sistem!
 widgets_addplugin_loader === Memasang plugin baru ke sistem
+widgets_addwhatsapp_newmodal === Hubungkan WhatsApp Anda dengan mengklik tombol untuk menampilkan QRCode lalu pindai melalui tombol _8880_ di aplikasi. Anda hanya memiliki waktu 15 detik untuk memindai QRCode.
+widgets_addwhatsapp_newmodal2 === _8880_ telah kedaluwarsa, jika akun Anda telah ditautkan, atau belum, silakan klik tombol di bawah ini.
+widgets_addwhatsapp_newmodal3 === Melanjutkan
+widgets_addwhatsapp_newmodal4 === Membatalkan
+datatable_addedtoclipboard === Ditambahkan ke papan klip
+datatable_addedtoclipboardkeys === Klik tombol salin untuk menambahkan baris yang ditampilkan ke papan klip.
+datatable_addedtoclipboardmulti === Baris disalin:
+datatable_addedtoclipboardsingle === 1 baris disalin
+table_details_schedulednewrepeat === Ulang:
+and_edit_dev_line70_1_new === Jumlah yang ingin Anda kenakan per pesan, negara perangkat akan digunakan sebagai basis mata uang. Nilai float juga didukung seperti sen.
+widget_waquick_requireaccountnew1 === akun whatsapp
+requests_whatsapp_notavail === Server WhatsApp tidak tersedia!
+requests_whatsapp_unablegenqr === Tidak dapat membuat QRCode WhatsApp!
+requests_charts_commisionstitle === Komisi
+requests_token_refreshecho === Token untuk _8880_ telah diperbarui!
+requests_remote_smscampaignresumed === Kampanye SMS telah dilanjutkan!
+requests_remote_smscampaignpaused === Kampanye SMS telah dijeda!
+requests_remote_wacampaignresumed === Kampanye WhatsApp telah dilanjutkan!
+requests_remote_wacampaignpaused === Kampanye WhatsApp telah dijeda!
+requests_create_payoutwithdrawalamountatleast === Jumlah penarikan setidaknya harus _8880_ _8881_!
+requests_sms_intervaltypereachedmax === _8880_ pesan yang diizinkan telah tercapai untuk perangkat ini, silakan coba lagi nanti!
+requests_sms_encounteredgatewayerror === Kami mengalami kesalahan gerbang!
+requests_sms_gatewaycannotsendowndevices === Anda tidak dapat mengirim pesan dengan kredit menggunakan perangkat Anda sendiri!
+requests_create_encounteredshortenererror === Kami mengalami kesalahan pemendek!
+requests_create_campaignnametooshort === Nama kampanye terlalu pendek!
+requests_sms_intervaltypedaily === harian
+requests_sms_intervaltypemonthly === bulanan
+requests_sms_reachedmaximumsentpackage === Anda telah mencapai pesan terkirim maksimum untuk paket Anda saat ini!
+response_message_bulkqueuednew === _8880_ pesan telah diantrekan untuk dikirim!
+response_whatsapp_invalidmediafile === Berkas Media Tidak Valid!
+response_whatsapp_atleastonebutt === Harap tambahkan setidaknya satu tombol!
+response_whatsapp_invalidimagefile === File gambar tidak valid!
+response_whatsapp_listtitlereq === Judul daftar wajib diisi!
+response_whatsapp_listmenureq === Judul menu daftar wajib diisi!
+response_whatsapp_listformatreq === Format daftar wajib diisi!
+response_whatsapp_listformatinval === Format daftar tidak valid!
+response_whatsapp_tempformatreq === Format template wajib diisi!
+response_whatsapp_tempformatinval === Format kerangka tidak valid!
+response_whatsapp_failedchatsqueue === Gagal menambahkan obrolan ke antrean WhatsApp!
+response_whatsapp_bulkchatssentcount === _8880_ obrolan telah diantrekan untuk dikirim!
+response_whatsapp_failedchatsqueuemany === Gagal menambahkan obrolan ke antrean WhatsApp!
+response_whatsapp_nochatsqueuedpacklimit === Maaf, tidak ada obrolan yang diantrekan. Silakan periksa batas pengiriman paket Anda!
+response_whatsapp_successfetchgroups === Berhasil mengambil _8880_ grup!
+response_whatsapp_nogroupsfoundfetch === Tidak ada grup yang ditemukan!
+response_partners_commisionerror === Persentase komisi mitra tidak boleh kurang dari 1 dan lebih besar dari 80!
+response_delete_smsdeletecampaign === Kampanye SMS telah dihapus!
+response_delete_wacampaigndeleted === Kampanye WhatsApp telah dihapus!
+response_delete_wagroupdeleted === Grup WhatsApp telah dihapus!
+table_smscampaign_createdtitle === Dibuat
+table_smscampaign_nametitle === Nama
+table_smscampaign_gatewaytitle === Gerbang
+table_smscampaign_contactstitle === Kontak
+table_smscampaign_statustitle === Status
+table_smscampaign_optionstitle === Pilihan
+table_campaign_completedstatus === Lengkap
+table_smscagmpaign_processingstatus === _8880_ dari _8881_ diproses
+table_campaign_pausecampaign === Jeda kampanye ini
+table_campaign_resumecampaign === Lanjutkan kampanye ini
+table_smsscheduled_lastsendinfo === Kiriman Terakhir
+table_smstransac_createdtitle === Dibuat
+table_smstransac_sendertitle === Pengirim
+table_smstransac_devicetitle === Perangkat
+table_smstransac_messagetitle === Pesan
+table_smstransac_earningstitle === Pendapatan
+table_smstransac_messageremoved === Pesan telah dihapus!
+table_wacampaign_createdtitle === Dibuat
+table_wacampaign_nametitle === Nama
+table_wacampaign_accounttitle === Akun
+table_wacampaign_typetitle === Jenis
+table_wacampaign_contactstitle === Kontak
+table_wacampaign_statustitle === Status
+table_wacampaign_optionstitle === Pilihan
+table_wacampaign_processingstatus === _8880_ dari _8881_ diproses
+table_wascheduled_lastsendinfo === Kiriman Terakhir
+table_campaign_pendingstatus === Tertunda
+table_wagroups_nametitle === Nama
+table_wagroups_accounttitle === Akun
+table_wagroups_addresstitle === Alamat Grup
+table_wagroups_optionstitle === Pilihan
+table_waaccounts_statustitle === Status
+table_waaccounts_statusconnected === Terhubung
+table_waaccounts_statusconnecting === Menghubungkan
+table_waaccounts_statusdisconnecting === Memutuskan hubungan
+table_waaccounts_statusdisconnected === Terputus
+table_waaccounts_statuserror === Kesalahan
+table_waaccounts_copyaccountid === Salin ID Akun
+table_android_brandtitle === Merek
+table_android_partnertitle === Mitra
+table_android_statustitle === Status
+table_android_statusonline === On line
+table_android_statusoffline === Offline
+table_android_copydeviceid === Salin ID Unik Perangkat
+table_partnerrates_devicename === Nama perangkat
+widget_fetchgroups_titlefetch === Ambil Grup
+widget_fetchgroups_loaderfetch === Mengambil grup dari akun
+pages_admin_tokenrefreshbutt === Token
+pages_admin_tokenrefreshbutthelp === Segarkan token komunikasi soket. Jika sistem tidak menampilkan pemberitahuan roti panggang langsung atau tidak memperbarui secara realtime, silakan klik tombol ini.
+pages_admin_cachehelp === Hapus seluruh cache sistem. Peringatan! Ini juga akan menghapus cache yang terkait dengan API, autentikasi, dan pembayaran. Disarankan untuk hanya melakukan ini saat memutakhirkan sistem.
+pages_admin_themehelp === Ubah templat dan desain situs.
+pages_admin_systemsettingshelp === Sesuaikan pengaturan sistem yang penting.
+pages_sms_campaignstab === Kampanye
+pages_sms_partnertransactions === Transaksi
+pages_whatsapp_campaignstab === Kampanye
+pages_whatsapp_groupstab === Grup
+forms_repeatdays_title === Ulangi Hari
+forms_repeatdays_tagline === Masukkan berapa hari untuk menunggu sampai pengiriman pesan berulang. Masukkan 365 untuk mengulang setiap tahun pada bulan, hari dan waktu yang sama, jika tidak maka hanya akan mengikuti waktu. Masukkan 0 untuk menonaktifkan pengulangan.
+forms_whatsapp_messagetype === Jenis Pesan
+forms_whatsapp_messagetypehelp === Pilih jenis pesan WhatsApp.
+forms_whatsapp_typetext === Teks
+forms_whatsapp_typemedia === Media
+forms_whatsapp_typebutton === Tombol
+forms_whatsapp_typelist === Daftar
+forms_whatsapp_typetemplate === Templat
+forms_whatsapp_mediafile === Berkas Media
+forms_whatsapp_mediafilehelp === File media, file media yang akan diunggah. Mendukung file .jpg, .png, .gif dan .mp4.
+forms_whatsapp_imagefile === File Gambar
+forms_whatsapp_imagefilehelp === File gambar khusus, ini opsional.
+forms_whatsapp_buttons === Tombol
+forms_whatsapp_buttonshelp === Tombol khusus, tombol pertama diperlukan.
+forms_whatsapp_buttonsplace1 === Tombol 1
+forms_whatsapp_buttonsplace2 === Tombol 2 (Opsional)
+forms_whatsapp_buttonsplace3 === Tombol 3 (Opsional)
+forms_whatsapp_listtitle === Daftar Judul
+forms_whatsapp_listtitlehelp === Ini adalah judul daftar.
+forms_whatsapp_listplacetitle === Daftarku
+forms_whatsapp_listmenutitle === Judul Menu
+forms_whatsapp_listmenutitlehelp === Ini adalah judul menunya.
+forms_whatsapp_listmenutitleplace === Judul Menu
+forms_whatsapp_footermessage === Pesan Catatan Kaki
+forms_whatsapp_footermessagehelp === Pesan footer khusus, ini opsional.
+forms_whatsapp_footermessageplace === Ini footer pesannya...
+forms_whatsapp_listformat === Format Daftar
+forms_whatsapp_listformathelp === Ini adalah format daftar, json yang disediakan harus valid.
+forms_whatsapp_templateformat === Format Templat
+forms_whatsapp_templateformathelp === Ini adalah format template, json yang disediakan harus valid.
+and_settings_line159new === Token ini tidak boleh dibagikan kepada siapa pun. Ini digunakan untuk keamanan cronjobs, API sistem, permintaan WhatsApp, dan permintaan eksternal lainnya. Jika menurut Anda, token sistem Anda telah disusupi, harap buat ulang token baru, Anda perlu mengonfigurasi ulang cronjobs, API sistem, dan pengaturan terkait lainnya setelah membuat ulang token baru. Ini juga akan mempengaruhi sistem WhatsApp, semua akun yang terhubung tidak akan berfungsi lagi.
+forms_systemsettings_servicestitle === Jasa
+forms_systemsettings_waserver === URL Server WhatsApp
+forms_systemsettings_waserverhelp === URL server WhatsApp Anda, Anda harus meng-host ini di server Anda sendiri. Silakan baca dokumentasi untuk petunjuk penyiapan.
+forms_systemsettings_waport === Port Server WhatsApp
+forms_systemsettings_waporthelp === Port server WhatsApp Anda, port default adalah 7001. Harap baca dokumentasi untuk petunjuk pengaturan.
+forms_systemsettings_messagestitle === Pesan
+forms_systemsettings_partnercommission === Komisi Mitra
+forms_systemsettings_partnercommissionhelp === Persentase komisi yang ingin Anda potong dari penghasilan mitra untuk setiap pesan yang dikirim. Ini akan menjadi uang Anda dan akan ditampilkan dalam statistik di panel admin. Persentase tidak boleh kurang dari 1 dan lebih besar dari 80!
+forms_systemsettings_partnerminimum === Pembayaran Minimum Mitra
+forms_systemsettings_partnerminimumhelp === Jumlah penghasilan minimum untuk dapat meminta penarikan. Jumlah ini juga akan menggunakan mata uang sistem default yang sama dengan penghasilan.
+forms_editdevice_sendinglimittitle === Batas Pengiriman
+forms_editdevice_limitstatus === Batasi Status
+forms_editdevice_limitstatushelp === Jika diaktifkan, jumlah pesan yang diizinkan yang dapat dikirim menggunakan perangkat ini akan dibatasi per hari atau bulan.
+forms_editdevice_limitinterv === Batasi Interval
+forms_editdevice_limitintervhelp === Pilih jenis penundaan sebelum menyegarkan penghitung batas.
+forms_editdevice_messagecount === Jumlah Pesan
+forms_editdevice_messagecounthelp === Jumlah pesan yang dapat dikirim selama interval batas.
+forms_editdevice_limitintervselect1 === Harian
+forms_editdevice_limitintervselect2 === Bulanan
+forms_editdevice_partnerstatus === Status Mitra
+forms_edituser_clockformat === Format Jam
+forms_edituser_clockformathelp === Pilih format jam yang akan digunakan saat menampilkan waktu di mana saja dalam sistem.
+forms_edituser_clockformatselect1 === 12 jam
+forms_edituser_clockformatselect2 === 24 jam
+forms_edituser_dateformat === Format tanggal
+forms_edituser_dateformathelp === Pilih format tanggal yang akan digunakan saat menampilkan tanggal di mana saja dalam sistem.
+forms_edituser_dateseparator === Pemisah Tanggal
+forms_edituser_dateseparatorhelp === Pilih pemisah tanggal yang akan digunakan saat menampilkan tanggal di mana saja dalam sistem.
+forms_campagin_formname === Nama Kampanye
+forms_campagin_formhelp === Nama kampanye, log aktivitas akan dibuat untuk pesan massal ini, Anda akan dapat dengan mudah menghentikan pengiriman melalui manajer kampanye.
+forms_campaign_formplaceholder === misalnya. Contoh Kampanye
+forms_whatsapp_numbersgroupsname === Nomor atau Alamat Grup
+forms_whatsapp_numbersgroupshelp === Beberapa nomor E.164 dan alamat grup WhatsApp dipisahkan oleh jeda baris.
+forms_whatsapp_groupsimportname === Akun WhatsApp
+forms_whatsapp_groupsimportnamehelp === Pilih akun whatsapp tempat grup akan diambil.
+forms_whatsapp_groupsimportbutton === Mengambil
+forms_whatsapp_phonegroupsname === Telepon atau Alamat Grup
+forms_whatsapp_phonegroupshelp === E.164 nomor telepon penerima atau alamat grup WhatsApp.
+pages_administration_commissionstitle === Komisi
+pages_smscampaigns_header === Kampanye
+pages_smstransactions_header === Transaksi
+pages_smstransactions_comtagline === Semua SMS yang dikirim menggunakan perangkat mitra dikenakan biaya transaksi sebesar _8880_%. Ini sudah dikurangi dalam tabel berikut.
+pages_wacampaigns_header === Kampanye
+pages_wagroups_header === Grup
+pages_wagroups_fetchbtn === Ambil Grup
+tables_plugins_noactionsline === Tidak Ada Tindakan
+plugin_header_selectmethod === Pilih metode pembayaran
+title_plugin_paymentpage === Halaman Pembayaran
+payment_title_pending === Pesanan Tertunda
+btn_plugin_cancelorderpayment === Batalkan Pembayaran
+payment_title_orderfailed === Pesanan Gagal
+payment_page_orderfailed === Terjadi masalah saat memproses permintaan pesanan Anda.
+and_rate_gate_3new === _8880_ Tarif
+and_rate_gate_idname === ID: _8880_
+table_ratespartners_optionstitle === Pilihan

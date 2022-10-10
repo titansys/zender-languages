@@ -2596,3 +2596,7 @@ payment_page_orderfailed === 处理您的订单请求时出现问题。
 and_rate_gate_3new === _8880_ 费率
 and_rate_gate_idname === 编号：_8880_
 table_ratespartners_optionstitle === 选项
+app_fetching_messages === 获取消息
+app_fetching_ussd === 获取 USSD
+app_campaign_resumed === 为活动发送简历：
+app_campaign_paused === 广告系列的发送已暂停：

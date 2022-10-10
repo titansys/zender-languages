@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Une erreur s'est produite lors du traitement de vot
 and_rate_gate_3new === _8880_ Tarifs
 and_rate_gate_idname === ID : _8880_
 table_ratespartners_optionstitle === Choix
+app_fetching_messages === Récupération des messages
+app_fetching_ussd === Récupération de l'USSD
+app_campaign_resumed === Envoi repris pour la campagne :
+app_campaign_paused === Envoi suspendu pour la campagne :

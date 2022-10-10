@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Что-то пошло не так при обра�
 and_rate_gate_3new === _8880_ Тарифы
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Опции
+app_fetching_messages === Получение сообщений
+app_fetching_ussd === Получение USSD
+app_campaign_resumed === Возобновлена ​​отправка по кампании:
+app_campaign_paused === Отправка приостановлена ​​для кампании:

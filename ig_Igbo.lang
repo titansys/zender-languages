@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Ọ nwere ihe na-ezighi ezi mgbe ị na-ahazi arị
 and_rate_gate_3new === _8880_ Ọnụego
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Nhọrọ
+app_fetching_messages === Na-ebute ozi
+app_fetching_ussd === Nweta USSD
+app_campaign_resumed === A maliteghachiri izipu maka mkpọsa:
+app_campaign_paused === Akwụsịla izipu maka mkpọsa:

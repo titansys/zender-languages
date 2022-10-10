@@ -2596,3 +2596,7 @@ payment_page_orderfailed === เกิดข้อผิดพลาดขณะ
 and_rate_gate_3new === _888_ อัตรา
 and_rate_gate_idname === ไอดี: _8880_
 table_ratespartners_optionstitle === ตัวเลือก
+app_fetching_messages === กำลังดึงข้อความ
+app_fetching_ussd === กำลังเรียก USSD
+app_campaign_resumed === ส่งประวัติย่อสำหรับแคมเปญ:
+app_campaign_paused === การส่งหยุดชั่วคราวสำหรับแคมเปญ:

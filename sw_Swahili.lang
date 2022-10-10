@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Hitilafu fulani imetokea wakati wa kuchakata ombi l
 and_rate_gate_3new === _8880_ Viwango
 and_rate_gate_idname === Kitambulisho: _8880_
 table_ratespartners_optionstitle === Chaguo
+app_fetching_messages === Inaleta Ujumbe
+app_fetching_ussd === Inaleta USSD
+app_campaign_resumed === Utumaji umeanza tena kwa kampeni:
+app_campaign_paused === Utumaji umesitishwa kwa kampeni:

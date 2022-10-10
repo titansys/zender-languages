@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Något gick fel när din beställningsförfrågan b
 and_rate_gate_3new === _8880_ Priser
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === alternativ
+app_fetching_messages === Hämtar meddelanden
+app_fetching_ussd === Hämtar USSD
+app_campaign_resumed === Sändningen återupptogs för kampanj:
+app_campaign_paused === Skickar pausad för kampanj:

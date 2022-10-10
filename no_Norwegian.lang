@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Noe gikk galt under behandlingen av bestillingsfore
 and_rate_gate_3new === _8880_ Priser
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Alternativer
+app_fetching_messages === Henter meldinger
+app_fetching_ussd === Henter USSD
+app_campaign_resumed === Sending gjenopptatt for kampanje:
+app_campaign_paused === Sending midlertidig stoppet for kampanje:

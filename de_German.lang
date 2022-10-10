@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Bei der Bearbeitung Ihrer Bestellanfrage ist etwas 
 and_rate_gate_3new === _8880_ Tarife
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Optionen
+app_fetching_messages === Abrufen von Nachrichten
+app_fetching_ussd === USSD abrufen
+app_campaign_resumed === Versand für Kampagne wieder aufgenommen:
+app_campaign_paused === Senden für Kampagne pausiert:

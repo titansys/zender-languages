@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Sipariş isteğiniz işlenirken bir şeyler ters gi
 and_rate_gate_3new === _8880_ Oranlar
 and_rate_gate_idname === Kimlik: _8880_
 table_ratespartners_optionstitle === Seçenekler
+app_fetching_messages === Mesajlar Alınıyor
+app_fetching_ussd === USSD getiriliyor
+app_campaign_resumed === Kampanya için gönderme devam ettirildi:
+app_campaign_paused === Kampanya için gönderme duraklatıldı:

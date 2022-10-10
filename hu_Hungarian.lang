@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Hiba történt a rendelési kérelem feldolgozása 
 and_rate_gate_3new === _8880_ Árak
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Lehetőségek
+app_fetching_messages === Üzenetek lekérése
+app_fetching_ussd === USSD letöltése
+app_campaign_resumed === Küldés folytatása kampányhoz:
+app_campaign_paused === A küldés szüneteltetve a kampányhoz:

@@ -2596,3 +2596,7 @@ payment_page_orderfailed === حدث خطأ ما أثناء معالجة طلبك
 and_rate_gate_3new === _8880_ الأسعار
 and_rate_gate_idname === الرقم: _8880_
 table_ratespartners_optionstitle === خيارات
+app_fetching_messages === إحضار الرسائل
+app_fetching_ussd === إحضار USSD
+app_campaign_resumed === تم استئناف الإرسال للحملة:
+app_campaign_paused === تم إيقاف الإرسال مؤقتًا للحملة:

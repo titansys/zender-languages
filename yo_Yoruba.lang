@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Nkankan ti ko tọ lakoko ṣiṣe ibere ibere rẹ
 and_rate_gate_3new === _8880_ Awọn oṣuwọn
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Awọn aṣayan
+app_fetching_messages === Gbigba Awọn ifiranṣẹ
+app_fetching_ussd === Gbigba USSD
+app_campaign_resumed === Fifiranṣẹ tun bẹrẹ fun ipolongo:
+app_campaign_paused === Fifiranṣẹ duro fun ipolongo:

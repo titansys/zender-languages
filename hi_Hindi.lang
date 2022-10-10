@@ -2596,3 +2596,7 @@ payment_page_orderfailed === आपके आदेश अनुरोध को
 and_rate_gate_3new === _8880_ दरें
 and_rate_gate_idname === आईडी: _8880_
 table_ratespartners_optionstitle === विकल्प
+app_fetching_messages === संदेश ला रहा है
+app_fetching_ussd === यूएसएसडी ला रहा है
+app_campaign_resumed === अभियान के लिए भेजना फिर से शुरू:
+app_campaign_paused === अभियान के लिए भेजा जाना रोका गया:

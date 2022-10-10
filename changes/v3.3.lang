@@ -189,3 +189,7 @@ payment_page_orderfailed === Something went wrong while processing your order re
 and_rate_gate_3new === _8880_ Rates
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Options
+app_fetching_messages === Fetching Messages
+app_fetching_ussd === Fetching USSD
+app_campaign_resumed === Sending resumed for campaign:
+app_campaign_paused === Sending paused for campaign:

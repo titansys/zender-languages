@@ -2596,3 +2596,7 @@ payment_page_orderfailed === 주문 요청을 처리하는 동안 문제가 발�
 and_rate_gate_3new === _8880_ 요금
 and_rate_gate_idname === 아이디: _8880_
 table_ratespartners_optionstitle === 옵션
+app_fetching_messages === 메시지 가져오기
+app_fetching_ussd === USSD 가져오기
+app_campaign_resumed === 캠페인에 대한 전송 재개:
+app_campaign_paused === 캠페인을 위해 전송이 일시중지됨:

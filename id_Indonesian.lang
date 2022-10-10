@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Terjadi masalah saat memproses permintaan pesanan A
 and_rate_gate_3new === _8880_ Tarif
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Pilihan
+app_fetching_messages === Mengambil Pesan
+app_fetching_ussd === Mengambil USSD
+app_campaign_resumed === Pengiriman dilanjutkan untuk kampanye:
+app_campaign_paused === Pengiriman dijeda untuk kampanye:

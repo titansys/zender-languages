@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Algo deu errado ao processar sua solicitação de p
 and_rate_gate_3new === _8880_ Taxas
 and_rate_gate_idname === Código: _8880_
 table_ratespartners_optionstitle === Opções
+app_fetching_messages === Buscando mensagens
+app_fetching_ussd === Buscando USSD
+app_campaign_resumed === Envio de currículo para campanha:
+app_campaign_paused === Envio pausado para campanha:

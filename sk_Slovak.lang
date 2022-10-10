@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Pri spracovávaní vašej objednávky sa vyskytla c
 and_rate_gate_3new === _8880_ sadzby
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === možnosti
+app_fetching_messages === Načítavanie správ
+app_fetching_ussd === Načítava sa USSD
+app_campaign_resumed === Odosielanie pre kampaň bolo obnovené:
+app_campaign_paused === Odosielanie pozastavené pre kampaň:

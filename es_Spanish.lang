@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Algo salió mal al procesar su solicitud de pedido.
 and_rate_gate_3new === _8880_ Tarifas
 and_rate_gate_idname === Identificación: _8880_
 table_ratespartners_optionstitle === Opciones
+app_fetching_messages === Obtener mensajes
+app_fetching_ussd === Obteniendo USSD
+app_campaign_resumed === Envío reanudado para campaña:
+app_campaign_paused === Enviando en pausa para la campaña:

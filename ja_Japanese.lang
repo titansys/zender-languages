@@ -2596,3 +2596,7 @@ payment_page_orderfailed === 注文リクエストの処理中に問題が発生
 and_rate_gate_3new === _8880_ 料金
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === オプション
+app_fetching_messages === メッセージの取得
+app_fetching_ussd === USSDを取得しています
+app_campaign_resumed === キャンペーンの送信が再開されました:
+app_campaign_paused === キャンペーンの送信を一時停止:

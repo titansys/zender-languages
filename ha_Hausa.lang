@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Wani abu ya yi kuskure yayin sarrafa buƙatar odar 
 and_rate_gate_3new === _8880_ Darajar
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Zabuka
+app_fetching_messages === Dauke Saƙonni
+app_fetching_ussd === Farashin USSD
+app_campaign_resumed === An ci gaba da aikawa don yaƙin neman zaɓe:
+app_campaign_paused === An dakatar da aikawa don yakin neman zabe:

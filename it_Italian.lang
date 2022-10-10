@@ -2596,3 +2596,7 @@ payment_page_orderfailed === Qualcosa è andato storto durante l'elaborazione de
 and_rate_gate_3new === _8880_ Tariffe
 and_rate_gate_idname === ID: _8880_
 table_ratespartners_optionstitle === Opzioni
+app_fetching_messages === Recupero dei messaggi
+app_fetching_ussd === Recupero dell'USDD
+app_campaign_resumed === Invio ripreso per la campagna:
+app_campaign_paused === Invio sospeso per la campagna:

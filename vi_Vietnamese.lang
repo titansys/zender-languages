@@ -2600,3 +2600,8 @@ app_fetching_messages === Tìm nạp tin nhắn
 app_fetching_ussd === Tìm nạp USSD
 app_campaign_resumed === Tiếp tục gửi cho chiến dịch:
 app_campaign_paused === Việc gửi bị tạm dừng cho chiến dịch:
+js_response_titanechorefreshdesc === Làm mới mã thông báo cho giao tiếp socket thời gian thực?
+form_wa_templatetype_knownissue === Vấn đề được biết
+form_wa_templatetype_knownissuedesc === Loại tin nhắn WhatsApp này không hiển thị chính xác trên iOS. Ứng dụng WhatsApp iOS sẽ hiển thị một thông báo trống.
+app_response_devicealreadylinked === Thiết bị này đã được liên kết với một tài khoản khác!
+app_response_devicealreadylinkedunable === Chúng tôi không thể hoàn thành yêu cầu của bạn. Thiết bị này đã được liên kết với một tài khoản khác!

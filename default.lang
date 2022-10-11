@@ -2600,3 +2600,8 @@ app_fetching_messages === Fetching Messages
 app_fetching_ussd === Fetching USSD
 app_campaign_resumed === Sending resumed for campaign:
 app_campaign_paused === Sending paused for campaign:
+js_response_titanechorefreshdesc === Refresh token for the real-time socket communication?
+form_wa_templatetype_knownissue === Known Issue
+form_wa_templatetype_knownissuedesc === This type of WhatsApp message is not displaying properly on iOS. The WhatsApp iOS app will display a blank message.
+app_response_devicealreadylinked === This device was already linked to another account!
+app_response_devicealreadylinkedunable === We are unable to complete your request. This device was already linked to another account!

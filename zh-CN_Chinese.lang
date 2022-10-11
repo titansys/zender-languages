@@ -2600,3 +2600,8 @@ app_fetching_messages === 获取消息
 app_fetching_ussd === 获取 USSD
 app_campaign_resumed === 为活动发送简历：
 app_campaign_paused === 广告系列的发送已暂停：
+js_response_titanechorefreshdesc === 刷新令牌以进行实时套接字通信？
+form_wa_templatetype_knownissue === 已知问题
+form_wa_templatetype_knownissuedesc === 此类 WhatsApp 消息无法在 iOS 上正确显示。 WhatsApp iOS 应用程序将显示一条空白消息。
+app_response_devicealreadylinked === 此设备已与另一个帐户关联！
+app_response_devicealreadylinkedunable === 我们无法完成您的请求。此设备已与另一个帐户关联！

@@ -2600,3 +2600,8 @@ app_fetching_messages === Получение сообщений
 app_fetching_ussd === Получение USSD
 app_campaign_resumed === Возобновлена ​​отправка по кампании:
 app_campaign_paused === Отправка приостановлена ​​для кампании:
+js_response_titanechorefreshdesc === Обновить токен для связи через сокет в реальном времени?
+form_wa_templatetype_knownissue === Известная проблема
+form_wa_templatetype_knownissuedesc === Этот тип сообщения WhatsApp не отображается должным образом на iOS. Приложение WhatsApp iOS отобразит пустое сообщение.
+app_response_devicealreadylinked === Это устройство уже было привязано к другому аккаунту!
+app_response_devicealreadylinkedunable === Мы не можем выполнить ваш запрос. Это устройство уже было привязано к другому аккаунту!

@@ -2600,3 +2600,8 @@ app_fetching_messages === Buscando mensagens
 app_fetching_ussd === Buscando USSD
 app_campaign_resumed === Envio de currículo para campanha:
 app_campaign_paused === Envio pausado para campanha:
+js_response_titanechorefreshdesc === Atualizar token para comunicação de soquete em tempo real?
+form_wa_templatetype_knownissue === Problema conhecido
+form_wa_templatetype_knownissuedesc === Este tipo de mensagem do WhatsApp não está sendo exibida corretamente no iOS. O aplicativo WhatsApp para iOS exibirá uma mensagem em branco.
+app_response_devicealreadylinked === Este dispositivo já estava vinculado a outra conta!
+app_response_devicealreadylinkedunable === Não foi possível concluir sua solicitação. Este dispositivo já estava vinculado a outra conta!

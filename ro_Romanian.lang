@@ -2600,3 +2600,8 @@ app_fetching_messages === Preluarea mesajelor
 app_fetching_ussd === Preluare USSD
 app_campaign_resumed === Trimiterea a fost reluată pentru campanie:
 app_campaign_paused === Trimitere întreruptă pentru campanie:
+js_response_titanechorefreshdesc === Refresh token pentru comunicarea în timp real cu socket?
+form_wa_templatetype_knownissue === Problema cunoscuta
+form_wa_templatetype_knownissuedesc === Acest tip de mesaj WhatsApp nu se afișează corect pe iOS. Aplicația WhatsApp iOS va afișa un mesaj gol.
+app_response_devicealreadylinked === Acest dispozitiv a fost deja conectat la alt cont!
+app_response_devicealreadylinkedunable === Nu putem finaliza solicitarea dvs. Acest dispozitiv a fost deja conectat la alt cont!

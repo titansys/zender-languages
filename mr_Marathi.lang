@@ -2600,3 +2600,8 @@ app_fetching_messages === संदेश आणत आहे
 app_fetching_ussd === USSD आणत आहे
 app_campaign_resumed === मोहिमेसाठी पाठवणे पुन्हा सुरू झाले:
 app_campaign_paused === मोहिमेसाठी पाठवणे थांबवले:
+js_response_titanechorefreshdesc === रिअल-टाइम सॉकेट कम्युनिकेशनसाठी टोकन रिफ्रेश करायचे?
+form_wa_templatetype_knownissue === ज्ञात समस्या
+form_wa_templatetype_knownissuedesc === आयओएसवर या प्रकारचा व्हॉट्सअॅप मेसेज योग्य प्रकारे प्रदर्शित होत नाही. WhatsApp iOS अॅप एक रिक्त संदेश प्रदर्शित करेल.
+app_response_devicealreadylinked === हे डिव्हाइस आधीपासूनच दुसर्‍या खात्याशी लिंक केले आहे!
+app_response_devicealreadylinkedunable === आम्ही तुमची विनंती पूर्ण करण्यात अक्षम आहोत. हे डिव्हाइस आधीपासूनच दुसर्‍या खात्याशी लिंक केले आहे!

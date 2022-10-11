@@ -2600,3 +2600,8 @@ app_fetching_messages === Mengambil Pesan
 app_fetching_ussd === Mengambil USSD
 app_campaign_resumed === Pengiriman dilanjutkan untuk kampanye:
 app_campaign_paused === Pengiriman dijeda untuk kampanye:
+js_response_titanechorefreshdesc === Segarkan token untuk komunikasi soket waktu nyata?
+form_wa_templatetype_knownissue === Masalah yang Diketahui
+form_wa_templatetype_knownissuedesc === Jenis pesan WhatsApp ini tidak ditampilkan dengan benar di iOS. Aplikasi WhatsApp iOS akan menampilkan pesan kosong.
+app_response_devicealreadylinked === Perangkat ini sudah ditautkan ke akun lain!
+app_response_devicealreadylinkedunable === Kami tidak dapat menyelesaikan permintaan Anda. Perangkat ini sudah ditautkan ke akun lain!

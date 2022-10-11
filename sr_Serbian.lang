@@ -2600,3 +2600,8 @@ app_fetching_messages === Преузимање порука
 app_fetching_ussd === Преузимање УССД-а
 app_campaign_resumed === Слање је настављено за кампању:
 app_campaign_paused === Слање је паузирано за кампању:
+js_response_titanechorefreshdesc === Освежити токен за комуникацију утичнице у реалном времену?
+form_wa_templatetype_knownissue === Познати проблем
+form_wa_templatetype_knownissuedesc === Ова врста ВхатсАпп поруке се не приказује исправно на иОС-у. Апликација ВхатсАпп иОС ће приказати празну поруку.
+app_response_devicealreadylinked === Овај уређај је већ био повезан са другим налогом!
+app_response_devicealreadylinkedunable === Нисмо у могућности да испунимо ваш захтев. Овај уређај је већ био повезан са другим налогом!

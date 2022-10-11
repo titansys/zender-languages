@@ -2600,3 +2600,8 @@ app_fetching_messages === إحضار الرسائل
 app_fetching_ussd === إحضار USSD
 app_campaign_resumed === تم استئناف الإرسال للحملة:
 app_campaign_paused === تم إيقاف الإرسال مؤقتًا للحملة:
+js_response_titanechorefreshdesc === هل تريد تحديث الرمز المميز لاتصالات مأخذ التوصيل في الوقت الفعلي؟
+form_wa_templatetype_knownissue === مشكلة معروفة
+form_wa_templatetype_knownissuedesc === لا يتم عرض هذا النوع من رسائل WhatsApp بشكل صحيح على نظام iOS. سيعرض تطبيق WhatsApp iOS رسالة فارغة.
+app_response_devicealreadylinked === تم بالفعل ربط هذا الجهاز بحساب آخر!
+app_response_devicealreadylinkedunable === نحن غير قادرين على استكمال طلبك. تم بالفعل ربط هذا الجهاز بحساب آخر!

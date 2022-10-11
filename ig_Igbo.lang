@@ -2600,3 +2600,8 @@ app_fetching_messages === Na-ebute ozi
 app_fetching_ussd === Nweta USSD
 app_campaign_resumed === A maliteghachiri izipu maka mkpọsa:
 app_campaign_paused === Akwụsịla izipu maka mkpọsa:
+js_response_titanechorefreshdesc === Nweta ume ọhụrụ maka nzikọrịta ozi sọket ozugbo?
+form_wa_templatetype_knownissue === Okwu Amaara
+form_wa_templatetype_knownissuedesc === Nke a na ụdị WhatsApp ozi na-adịghị na-egosipụta nke ọma na iOS. Ngwa WhatsApp iOS ga-egosipụta ozi efu.
+app_response_devicealreadylinked === Ejikọtala ngwaọrụ a na akaụntụ ọzọ!
+app_response_devicealreadylinkedunable === Anyị enweghị ike imezu arịrịọ gị. Ejikọtala ngwaọrụ a na akaụntụ ọzọ!

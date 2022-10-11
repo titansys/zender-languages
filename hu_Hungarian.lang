@@ -2600,3 +2600,8 @@ app_fetching_messages === Üzenetek lekérése
 app_fetching_ussd === USSD letöltése
 app_campaign_resumed === Küldés folytatása kampányhoz:
 app_campaign_paused === A küldés szüneteltetve a kampányhoz:
+js_response_titanechorefreshdesc === Frissíti a tokent a valós idejű socket kommunikációhoz?
+form_wa_templatetype_knownissue === Ismert probléma
+form_wa_templatetype_knownissuedesc === Az ilyen típusú WhatsApp üzenetek nem jelennek meg megfelelően az iOS rendszeren. A WhatsApp iOS alkalmazás üres üzenetet jelenít meg.
+app_response_devicealreadylinked === Ez az eszköz már össze volt kapcsolva egy másik fiókkal!
+app_response_devicealreadylinkedunable === Nem tudjuk teljesíteni kérését. Ez az eszköz már össze volt kapcsolva egy másik fiókkal!

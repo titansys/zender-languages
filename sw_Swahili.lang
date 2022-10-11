@@ -2600,3 +2600,8 @@ app_fetching_messages === Inaleta Ujumbe
 app_fetching_ussd === Inaleta USSD
 app_campaign_resumed === Utumaji umeanza tena kwa kampeni:
 app_campaign_paused === Utumaji umesitishwa kwa kampeni:
+js_response_titanechorefreshdesc === Onyesha upya tokeni kwa mawasiliano ya tundu ya wakati halisi?
+form_wa_templatetype_knownissue === Suala Linalojulikana
+form_wa_templatetype_knownissuedesc === Aina hii ya ujumbe wa WhatsApp hauonyeshwi ipasavyo kwenye iOS. Programu ya WhatsApp iOS itaonyesha ujumbe tupu.
+app_response_devicealreadylinked === Kifaa hiki kilikuwa tayari kimeunganishwa na akaunti nyingine!
+app_response_devicealreadylinkedunable === Hatujaweza kukamilisha ombi lako. Kifaa hiki kilikuwa tayari kimeunganishwa na akaunti nyingine!

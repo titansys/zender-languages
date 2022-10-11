@@ -2600,3 +2600,8 @@ app_fetching_messages === Hämtar meddelanden
 app_fetching_ussd === Hämtar USSD
 app_campaign_resumed === Sändningen återupptogs för kampanj:
 app_campaign_paused === Skickar pausad för kampanj:
+js_response_titanechorefreshdesc === Uppdatera token för socketkommunikation i realtid?
+form_wa_templatetype_knownissue === Känt problem
+form_wa_templatetype_knownissuedesc === Den här typen av WhatsApp-meddelanden visas inte korrekt på iOS. WhatsApp iOS-appen kommer att visa ett tomt meddelande.
+app_response_devicealreadylinked === Den här enheten var redan länkad till ett annat konto!
+app_response_devicealreadylinkedunable === Vi kan inte slutföra din begäran. Den här enheten var redan länkad till ett annat konto!

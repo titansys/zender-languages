@@ -2600,3 +2600,8 @@ app_fetching_messages === Gbigba Awọn ifiranṣẹ
 app_fetching_ussd === Gbigba USSD
 app_campaign_resumed === Fifiranṣẹ tun bẹrẹ fun ipolongo:
 app_campaign_paused === Fifiranṣẹ duro fun ipolongo:
+js_response_titanechorefreshdesc === Sọ àmi fun ibaraẹnisọrọ iho-akoko gidi?
+form_wa_templatetype_knownissue === Oro ti a mọ
+form_wa_templatetype_knownissuedesc === Iru ifiranṣẹ WhatsApp yii ko han daradara lori iOS. Ohun elo WhatsApp iOS yoo ṣafihan ifiranṣẹ ofo kan.
+app_response_devicealreadylinked === Ẹrọ yii ti ni asopọ tẹlẹ si akọọlẹ miiran!
+app_response_devicealreadylinkedunable === A ko le pari ibeere rẹ. Ẹrọ yii ti ni asopọ tẹlẹ si akọọlẹ miiran!

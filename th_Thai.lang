@@ -2600,3 +2600,8 @@ app_fetching_messages === กำลังดึงข้อความ
 app_fetching_ussd === กำลังเรียก USSD
 app_campaign_resumed === ส่งประวัติย่อสำหรับแคมเปญ:
 app_campaign_paused === การส่งหยุดชั่วคราวสำหรับแคมเปญ:
+js_response_titanechorefreshdesc === รีเฟรชโทเค็นสำหรับการสื่อสารซ็อกเก็ตแบบเรียลไทม์หรือไม่
+form_wa_templatetype_knownissue === ปัญหาที่ทราบ
+form_wa_templatetype_knownissuedesc === ข้อความ WhatsApp ประเภทนี้แสดงไม่ถูกต้องบน iOS แอพ WhatsApp iOS จะแสดงข้อความเปล่า
+app_response_devicealreadylinked === อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นแล้ว!
+app_response_devicealreadylinkedunable === เราไม่สามารถดำเนินการตามคำขอของคุณได้ อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นแล้ว!

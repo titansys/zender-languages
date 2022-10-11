@@ -2600,3 +2600,8 @@ app_fetching_messages === מביא הודעות
 app_fetching_ussd === מביא USSD
 app_campaign_resumed === השליחה התחדשה עבור מסע הפרסום:
 app_campaign_paused === שליחה מושהית עבור מסע פרסום:
+js_response_titanechorefreshdesc === לרענן אסימון לתקשורת השקע בזמן אמת?
+form_wa_templatetype_knownissue === בעיה ידועה
+form_wa_templatetype_knownissuedesc === סוג זה של הודעת WhatsApp אינו מוצג כראוי ב-iOS. אפליקציית WhatsApp iOS תציג הודעה ריקה.
+app_response_devicealreadylinked === המכשיר הזה כבר היה מקושר לחשבון אחר!
+app_response_devicealreadylinkedunable === אין באפשרותנו להשלים את בקשתך. המכשיר הזה כבר היה מקושר לחשבון אחר!

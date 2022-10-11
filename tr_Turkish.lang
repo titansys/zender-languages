@@ -2600,3 +2600,8 @@ app_fetching_messages === Mesajlar Alınıyor
 app_fetching_ussd === USSD getiriliyor
 app_campaign_resumed === Kampanya için gönderme devam ettirildi:
 app_campaign_paused === Kampanya için gönderme duraklatıldı:
+js_response_titanechorefreshdesc === Gerçek zamanlı soket iletişimi için jeton yenilensin mi?
+form_wa_templatetype_knownissue === Bilinen Sorun
+form_wa_templatetype_knownissuedesc === Bu tür WhatsApp mesajı iOS'ta düzgün görüntülenmiyor. WhatsApp iOS uygulaması boş bir mesaj görüntüler.
+app_response_devicealreadylinked === Bu cihaz zaten başka bir hesaba bağlıydı!
+app_response_devicealreadylinkedunable === İsteğinizi tamamlayamıyoruz. Bu cihaz zaten başka bir hesaba bağlıydı!

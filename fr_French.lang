@@ -2600,3 +2600,8 @@ app_fetching_messages === Récupération des messages
 app_fetching_ussd === Récupération de l'USSD
 app_campaign_resumed === Envoi repris pour la campagne :
 app_campaign_paused === Envoi suspendu pour la campagne :
+js_response_titanechorefreshdesc === Actualiser le jeton pour la communication socket en temps réel ?
+form_wa_templatetype_knownissue === Problème connu
+form_wa_templatetype_knownissuedesc === Ce type de message WhatsApp ne s'affiche pas correctement sur iOS. L'application WhatsApp iOS affichera un message vide.
+app_response_devicealreadylinked === Cet appareil était déjà lié à un autre compte !
+app_response_devicealreadylinkedunable === Nous ne sommes pas en mesure de répondre à votre demande. Cet appareil était déjà lié à un autre compte !

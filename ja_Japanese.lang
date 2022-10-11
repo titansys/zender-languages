@@ -2600,3 +2600,8 @@ app_fetching_messages === メッセージの取得
 app_fetching_ussd === USSDを取得しています
 app_campaign_resumed === キャンペーンの送信が再開されました:
 app_campaign_paused === キャンペーンの送信を一時停止:
+js_response_titanechorefreshdesc === リアルタイムソケット通信のリフレッシュトークン？
+form_wa_templatetype_knownissue === 既知の問題
+form_wa_templatetype_knownissuedesc === このタイプの WhatsApp メッセージは、iOS では正しく表示されません。 WhatsApp iOS アプリには空白のメッセージが表示されます。
+app_response_devicealreadylinked === このデバイスはすでに別のアカウントにリンクされています!
+app_response_devicealreadylinkedunable === リクエストを完了できません。このデバイスはすでに別のアカウントにリンクされています!

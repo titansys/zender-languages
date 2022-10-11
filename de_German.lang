@@ -2600,3 +2600,8 @@ app_fetching_messages === Abrufen von Nachrichten
 app_fetching_ussd === USSD abrufen
 app_campaign_resumed === Versand für Kampagne wieder aufgenommen:
 app_campaign_paused === Senden für Kampagne pausiert:
+js_response_titanechorefreshdesc === Refresh-Token für die Echtzeit-Socket-Kommunikation?
+form_wa_templatetype_knownissue === Bekanntes Problem
+form_wa_templatetype_knownissuedesc === Diese Art von WhatsApp-Nachricht wird unter iOS nicht richtig angezeigt. Die WhatsApp iOS-App zeigt eine leere Nachricht an.
+app_response_devicealreadylinked === Dieses Gerät war bereits mit einem anderen Konto verknüpft!
+app_response_devicealreadylinkedunable === Wir können Ihre Anfrage nicht abschließen. Dieses Gerät war bereits mit einem anderen Konto verknüpft!

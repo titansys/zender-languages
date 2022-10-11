@@ -2600,3 +2600,8 @@ app_fetching_messages === 메시지 가져오기
 app_fetching_ussd === USSD 가져오기
 app_campaign_resumed === 캠페인에 대한 전송 재개:
 app_campaign_paused === 캠페인을 위해 전송이 일시중지됨:
+js_response_titanechorefreshdesc === 실시간 소켓 통신을 위한 토큰 새로 고침?
+form_wa_templatetype_knownissue === 알려진 문제
+form_wa_templatetype_knownissuedesc === 이 유형의 WhatsApp 메시지는 iOS에서 제대로 표시되지 않습니다. WhatsApp iOS 앱에 빈 메시지가 표시됩니다.
+app_response_devicealreadylinked === 이 기기는 이미 다른 계정에 연결되어 있습니다!
+app_response_devicealreadylinkedunable === 귀하의 요청을 완료할 수 없습니다. 이 기기는 이미 다른 계정에 연결되어 있습니다!

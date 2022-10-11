@@ -2600,3 +2600,8 @@ app_fetching_messages === Dauke Saƙonni
 app_fetching_ussd === Farashin USSD
 app_campaign_resumed === An ci gaba da aikawa don yaƙin neman zaɓe:
 app_campaign_paused === An dakatar da aikawa don yakin neman zabe:
+js_response_titanechorefreshdesc === Sake sabunta alamar don sadarwar soket na ainihi?
+form_wa_templatetype_knownissue === Batun Sani
+form_wa_templatetype_knownissuedesc === Irin wannan saƙon WhatsApp baya nunawa da kyau akan iOS. The WhatsApp iOS app zai nuna wani m saƙo.
+app_response_devicealreadylinked === An riga an haɗa wannan na'urar zuwa wani asusu!
+app_response_devicealreadylinkedunable === Ba mu iya kammala buƙatarku ba. An riga an haɗa wannan na'urar zuwa wani asusu!

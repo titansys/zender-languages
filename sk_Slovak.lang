@@ -2600,3 +2600,8 @@ app_fetching_messages === Načítavanie správ
 app_fetching_ussd === Načítava sa USSD
 app_campaign_resumed === Odosielanie pre kampaň bolo obnovené:
 app_campaign_paused === Odosielanie pozastavené pre kampaň:
+js_response_titanechorefreshdesc === Obnoviť token pre komunikáciu soketu v reálnom čase?
+form_wa_templatetype_knownissue === Známy problém
+form_wa_templatetype_knownissuedesc === Tento typ správy WhatsApp sa v systéme iOS nezobrazuje správne. Aplikácia WhatsApp pre iOS zobrazí prázdnu správu.
+app_response_devicealreadylinked === Toto zariadenie už bolo prepojené s iným účtom!
+app_response_devicealreadylinkedunable === Nemôžeme dokončiť vašu požiadavku. Toto zariadenie už bolo prepojené s iným účtom!

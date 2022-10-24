@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Problema conosciuto
 form_wa_templatetype_knownissuedesc === Questo tipo di messaggio WhatsApp non viene visualizzato correttamente su iOS. L'app WhatsApp per iOS visualizzerà un messaggio vuoto.
 app_response_devicealreadylinked === Questo dispositivo era già collegato a un altro account!
 app_response_devicealreadylinkedunable === Non siamo in grado di completare la tua richiesta. Questo dispositivo era già collegato a un altro account!
+requests_response_subschedmaxreached === Hai raggiunto il numero massimo consentito di SMS e chat WhatsApp programmati per il tuo pacchetto!
+requests_response_subactionsmaxreached === Hai raggiunto il numero massimo consentito di azioni SMS e WhatsApp per il tuo pacchetto!
+response_hook_added2 === L'azione Hook è stata aggiunta!
+response_webhook_added2 === Webhook è stato aggiunto!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Non configurato
+template_administration_wablockonline === in linea
+template_administration_wablockoffline === disconnesso
+template_administration_wablockstatus === Stato:
+app_intro_level_8new === Questo è il pulsante di azione mobile, puoi accedere ad alcune opzioni e pagine aggiuntive come Esegui in background qui.
+app_intro_done_btn === Fatto
+form_spintaxsample_main === Tom è un gatto _8880_
+form_spintaxsample_bad === cattivo
+form_spintaxsample_good === Buona
+forms_whatsapp_typedoc === Documento
+forms_whatsapp_docfile === Documento d'archivio
+forms_whatsapp_docfilehelp === File documento, il file del documento da caricare. Supporta file .pdf, .xls, .xlsx, .doc e .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Riprendere la campagna?
+campaign_popup_titlestop === Mettere in pausa la campagna?
+campaign_popup_descsmsresume === I messaggi in sospeso verranno inviati!
+campaign_popup_descsmsstop === I messaggi in sospeso non verranno inviati finché non riprenderai!
+campaign_popup_descwaresume === Le chat in sospeso verranno inviate!
+campaign_popup_descwastop === Le chat in sospeso non verranno inviate fino al ripristino!
+tabs_smspage_queuebtn === Coda
+tabs_wapage_queuebtn === Coda
+tabs_smspage_queuetitle === Coda SMS
+tabs_wapage_queuetitle === Coda WhatsApp
+tables_wabtn_downloadattach === Scarica allegato
+app_response_devicealreadylinkednew === Questo dispositivo era già collegato a un altro account con e-mail: _8880_
+app_response_devicealreadylinkedunablenew === Non siamo in grado di completare la tua richiesta. Questo dispositivo era già collegato a un altro account con e-mail: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Numero di cellulare
+plugin_mpg_payumoneymobilerequired === Il numero di cellulare è richiesto per PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ è ora connesso!
+whatsapp_accountlink_linkadevicebtn === Collega un dispositivo

@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Problema conhecido
 form_wa_templatetype_knownissuedesc === Este tipo de mensagem do WhatsApp não está sendo exibida corretamente no iOS. O aplicativo WhatsApp para iOS exibirá uma mensagem em branco.
 app_response_devicealreadylinked === Este dispositivo já estava vinculado a outra conta!
 app_response_devicealreadylinkedunable === Não foi possível concluir sua solicitação. Este dispositivo já estava vinculado a outra conta!
+requests_response_subschedmaxreached === Você atingiu o número máximo permitido de conversas por SMS e WhatsApp agendadas para o seu pacote!
+requests_response_subactionsmaxreached === Você atingiu o número máximo permitido de ações de SMS e ações do WhatsApp para o seu pacote!
+response_hook_added2 === Ação de gancho foi adicionada!
+response_webhook_added2 === O webhook foi adicionado!
+template_administration_wablocktitle === Whatsapp
+template_administration_wablocknotconfig === Não configurado
+template_administration_wablockonline === Conectados
+template_administration_wablockoffline === desligada
+template_administration_wablockstatus === Status:
+app_intro_level_8new === Este é o botão de ação flutuante, você pode acessar algumas opções e páginas adicionais, como Executar em segundo plano aqui.
+app_intro_done_btn === Feito
+form_spintaxsample_main === Tom é um gato _8880_
+form_spintaxsample_bad === mau
+form_spintaxsample_good === Boa
+forms_whatsapp_typedoc === Documento
+forms_whatsapp_docfile === Arquivo de documento
+forms_whatsapp_docfilehelp === Arquivo de documento, o arquivo de documento a ser carregado. Suporta arquivos .pdf, .xls, .xlsx, .doc e .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Retomar campanha?
+campaign_popup_titlestop === Pausar campanha?
+campaign_popup_descsmsresume === As mensagens pendentes serão enviadas!
+campaign_popup_descsmsstop === As mensagens pendentes não serão enviadas até que você retome!
+campaign_popup_descwaresume === Os chats pendentes serão enviados!
+campaign_popup_descwastop === Os chats pendentes não serão enviados até que você retome!
+tabs_smspage_queuebtn === Fila
+tabs_wapage_queuebtn === Fila
+tabs_smspage_queuetitle === Fila de SMS
+tabs_wapage_queuetitle === Fila do WhatsApp
+tables_wabtn_downloadattach === Baixar anexo
+app_response_devicealreadylinkednew === Este dispositivo já estava vinculado a outra conta com e-mail: _8880_
+app_response_devicealreadylinkedunablenew === Não foi possível concluir sua solicitação. Este dispositivo já estava vinculado a outra conta com e-mail: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Número de celular
+plugin_mpg_payumoneymobilerequired === Número de celular é necessário para PayUMoney!
+whatsapp_accountlink_notifymessage === O WhatsApp _8880_ agora está conectado!
+whatsapp_accountlink_linkadevicebtn === Vincular um dispositivo

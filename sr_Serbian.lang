@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Познати проблем
 form_wa_templatetype_knownissuedesc === Ова врста ВхатсАпп поруке се не приказује исправно на иОС-у. Апликација ВхатсАпп иОС ће приказати празну поруку.
 app_response_devicealreadylinked === Овај уређај је већ био повезан са другим налогом!
 app_response_devicealreadylinkedunable === Нисмо у могућности да испунимо ваш захтев. Овај уређај је већ био повезан са другим налогом!
+requests_response_subschedmaxreached === Достигли сте максимални дозвољени број заказаних СМС и ВхатсАпп ћаскања за ваш пакет!
+requests_response_subactionsmaxreached === Достигли сте максимални дозвољени број СМС акција и ВхатсАпп акција за ваш пакет!
+response_hook_added2 === Акција куке је додата!
+response_webhook_added2 === Вебхоок је додат!
+template_administration_wablocktitle === ВхатсАпп
+template_administration_wablocknotconfig === Није конфигурисано
+template_administration_wablockonline === Онлине
+template_administration_wablockoffline === Одсутан
+template_administration_wablockstatus === Статус:
+app_intro_level_8new === Ово је плутајуће дугме за акцију, овде можете приступити неким опцијама и додатним страницама као што је Покрени у позадини.
+app_intro_done_btn === Готово
+form_spintaxsample_main === Том је мачка _8880_
+form_spintaxsample_bad === лоше
+form_spintaxsample_good === Добро
+forms_whatsapp_typedoc === Документ
+forms_whatsapp_docfile === Доцумент Филе
+forms_whatsapp_docfilehelp === Датотека документа, датотека документа која треба да се отпреми. Подржава датотеке .пдф, .клс, .клск, .доц и .доцк.
+table_androidver_13 === Андроид 13
+campaign_popup_titleresume === Наставити кампању?
+campaign_popup_titlestop === Паузирати кампању?
+campaign_popup_descsmsresume === Поруке на чекању ће бити послате!
+campaign_popup_descsmsstop === Поруке на чекању неће бити послате док не наставите!
+campaign_popup_descwaresume === Ћаскања на чекању ће бити послата!
+campaign_popup_descwastop === Ћаскања на чекању неће бити послата док не наставите!
+tabs_smspage_queuebtn === Куеуе
+tabs_wapage_queuebtn === Куеуе
+tabs_smspage_queuetitle === СМС Куеуе
+tabs_wapage_queuetitle === ВхатсАпп ред
+tables_wabtn_downloadattach === Преузмите прилог
+app_response_devicealreadylinkednew === Овај уређај је већ био повезан са другим налогом са имејлом: _8880_
+app_response_devicealreadylinkedunablenew === Нисмо у могућности да испунимо ваш захтев. Овај уређај је већ био повезан са другим налогом са имејлом: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Мобилни број
+plugin_mpg_payumoneymobilerequired === Број мобилног телефона је неопходан за ПаиУМонеи!
+whatsapp_accountlink_notifymessage === ВхатсАпп _8880_ је сада повезан!
+whatsapp_accountlink_linkadevicebtn === Повежите уређај

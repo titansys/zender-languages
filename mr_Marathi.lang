@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === ज्ञात समस्या
 form_wa_templatetype_knownissuedesc === आयओएसवर या प्रकारचा व्हॉट्सअॅप मेसेज योग्य प्रकारे प्रदर्शित होत नाही. WhatsApp iOS अॅप एक रिक्त संदेश प्रदर्शित करेल.
 app_response_devicealreadylinked === हे डिव्हाइस आधीपासूनच दुसर्‍या खात्याशी लिंक केले आहे!
 app_response_devicealreadylinkedunable === आम्ही तुमची विनंती पूर्ण करण्यात अक्षम आहोत. हे डिव्हाइस आधीपासूनच दुसर्‍या खात्याशी लिंक केले आहे!
+requests_response_subschedmaxreached === तुम्ही तुमच्या पॅकेजसाठी अनुसूचित SMS आणि WhatsApp चॅट्सची कमाल अनुमत संख्या गाठली आहे!
+requests_response_subactionsmaxreached === तुम्ही तुमच्या पॅकेजसाठी SMS क्रिया आणि WhatsApp क्रियांची कमाल अनुमत संख्या गाठली आहे!
+response_hook_added2 === हुक क्रिया जोडली गेली आहे!
+response_webhook_added2 === वेबहुक जोडले गेले आहे!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === कॉन्फिगर केलेले नाही
+template_administration_wablockonline === ऑनलाइन
+template_administration_wablockoffline === ऑफलाइन
+template_administration_wablockstatus === स्थिती:
+app_intro_level_8new === हे फ्लोटिंग अॅक्शन बटण आहे, तुम्ही येथे काही पर्याय आणि अतिरिक्त पृष्ठे जसे की रन इन बॅकग्राउंडमध्ये प्रवेश करू शकता.
+app_intro_done_btn === झाले
+form_spintaxsample_main === टॉम एक _8880_ मांजर आहे
+form_spintaxsample_bad === वाईट
+form_spintaxsample_good === चांगले
+forms_whatsapp_typedoc === दस्तऐवज
+forms_whatsapp_docfile === दस्तऐवज फाइल
+forms_whatsapp_docfilehelp === दस्तऐवज फाइल, दस्तऐवज फाइल अपलोड करायची आहे. .pdf, .xls, .xlsx, .doc आणि .docx फाइल्सना समर्थन देते.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === मोहीम पुन्हा सुरू करायची?
+campaign_popup_titlestop === मोहीम थांबवायची?
+campaign_popup_descsmsresume === प्रलंबित संदेश पाठवले जातील!
+campaign_popup_descsmsstop === तुम्ही पुन्हा सुरू करेपर्यंत प्रलंबित संदेश पाठवले जाणार नाहीत!
+campaign_popup_descwaresume === प्रलंबित गप्पा पाठवल्या जातील!
+campaign_popup_descwastop === तुम्ही पुन्हा सुरू करेपर्यंत प्रलंबित गप्पा पाठवल्या जाणार नाहीत!
+tabs_smspage_queuebtn === रांग
+tabs_wapage_queuebtn === रांग
+tabs_smspage_queuetitle === एसएमएस रांग
+tabs_wapage_queuetitle === WhatsApp रांग
+tables_wabtn_downloadattach === संलग्नक डाउनलोड करा
+app_response_devicealreadylinkednew === हे डिव्‍हाइस आधीच ईमेलसह दुसर्‍या खात्याशी लिंक केले आहे: _8880_
+app_response_devicealreadylinkedunablenew === आम्ही तुमची विनंती पूर्ण करण्यात अक्षम आहोत. हे डिव्‍हाइस आधीच ईमेलसह दुसर्‍या खात्याशी लिंक केले आहे: _8880_
+plugin_mpg_popuppayumoneymobilenumber === मोबाईल नंबर
+plugin_mpg_payumoneymobilerequired === PayUMoney साठी मोबाईल नंबर आवश्यक आहे!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ आता कनेक्ट झाले आहे!
+whatsapp_accountlink_linkadevicebtn === डिव्हाइस लिंक करा

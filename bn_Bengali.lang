@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === পরিচিত সমস্যা
 form_wa_templatetype_knownissuedesc === এই ধরনের হোয়াটসঅ্যাপ মেসেজ আইওএস-এ সঠিকভাবে প্রদর্শিত হচ্ছে না। WhatsApp iOS অ্যাপ একটি ফাঁকা বার্তা প্রদর্শন করবে।
 app_response_devicealreadylinked === এই ডিভাইসটি ইতিমধ্যেই অন্য অ্যাকাউন্টের সাথে লিঙ্ক করা ছিল!
 app_response_devicealreadylinkedunable === আমরা আপনার অনুরোধ সম্পূর্ণ করতে অক্ষম. এই ডিভাইসটি ইতিমধ্যেই অন্য অ্যাকাউন্টের সাথে লিঙ্ক করা ছিল!
+requests_response_subschedmaxreached === আপনি আপনার প্যাকেজের জন্য নির্ধারিত SMS এবং WhatsApp চ্যাটের সর্বাধিক অনুমোদিত সংখ্যায় পৌঁছেছেন!
+requests_response_subactionsmaxreached === আপনি আপনার প্যাকেজের জন্য এসএমএস অ্যাকশন এবং হোয়াটসঅ্যাপ অ্যাকশনের সর্বাধিক অনুমোদিত সংখ্যায় পৌঁছেছেন!
+response_hook_added2 === হুক অ্যাকশন যোগ করা হয়েছে!
+response_webhook_added2 === ওয়েবহুক যোগ করা হয়েছে!
+template_administration_wablocktitle === হোয়াটসঅ্যাপ
+template_administration_wablocknotconfig === কনফিগার করা না
+template_administration_wablockonline === অনলাইন
+template_administration_wablockoffline === অফলাইন
+template_administration_wablockstatus === অবস্থা:
+app_intro_level_8new === এটি হল ফ্লোটিং অ্যাকশন বোতাম, আপনি এখানে কিছু বিকল্প এবং অতিরিক্ত পৃষ্ঠাগুলি অ্যাক্সেস করতে পারেন যেমন ব্যাকগ্রাউন্ডে রান করুন।
+app_intro_done_btn === সম্পন্ন
+form_spintaxsample_main === টম একটি _8880_ বিড়াল
+form_spintaxsample_bad === খারাপ
+form_spintaxsample_good === ভাল
+forms_whatsapp_typedoc === দলিল
+forms_whatsapp_docfile === ডকুমেন্ট ফাইল
+forms_whatsapp_docfilehelp === ডকুমেন্ট ফাইল, ডকুমেন্ট ফাইল আপলোড করতে হবে। .pdf, .xls, .xlsx, .doc এবং .docx ফাইল সমর্থন করে।
+table_androidver_13 === অ্যান্ড্রয়েড 13
+campaign_popup_titleresume === ক্যাম্পেইন আবার শুরু করবেন?
+campaign_popup_titlestop === প্রচার বিরতি?
+campaign_popup_descsmsresume === মুলতুবি বার্তা পাঠানো হবে!
+campaign_popup_descsmsstop === আপনি পুনরায় শুরু না হওয়া পর্যন্ত মুলতুবি বার্তা পাঠানো হবে না!
+campaign_popup_descwaresume === মুলতুবি চ্যাট পাঠানো হবে!
+campaign_popup_descwastop === আপনি পুনরায় শুরু না হওয়া পর্যন্ত মুলতুবি চ্যাট পাঠানো হবে না!
+tabs_smspage_queuebtn === কিউ
+tabs_wapage_queuebtn === কিউ
+tabs_smspage_queuetitle === এসএমএস সারি
+tabs_wapage_queuetitle === হোয়াটসঅ্যাপ সারি
+tables_wabtn_downloadattach === সংযুক্তি ডাউনলোড করুন
+app_response_devicealreadylinkednew === এই ডিভাইসটি ইতিমধ্যেই ইমেলের সাথে অন্য অ্যাকাউন্টের সাথে লিঙ্ক করা হয়েছে: _8880_
+app_response_devicealreadylinkedunablenew === আমরা আপনার অনুরোধ সম্পূর্ণ করতে অক্ষম. এই ডিভাইসটি ইতিমধ্যেই ইমেলের সাথে অন্য অ্যাকাউন্টের সাথে লিঙ্ক করা হয়েছে: _8880_
+plugin_mpg_popuppayumoneymobilenumber === মোবাইল নম্বর
+plugin_mpg_payumoneymobilerequired === PayUMoney এর জন্য মোবাইল নম্বর প্রয়োজন!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ এখন সংযুক্ত!
+whatsapp_accountlink_linkadevicebtn === একটি ডিভাইস লিঙ্ক করুন

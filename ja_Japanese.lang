@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === 既知の問題
 form_wa_templatetype_knownissuedesc === このタイプの WhatsApp メッセージは、iOS では正しく表示されません。 WhatsApp iOS アプリには空白のメッセージが表示されます。
 app_response_devicealreadylinked === このデバイスはすでに別のアカウントにリンクされています!
 app_response_devicealreadylinkedunable === リクエストを完了できません。このデバイスはすでに別のアカウントにリンクされています!
+requests_response_subschedmaxreached === パッケージでスケジュールされた SMS および WhatsApp チャットの最大許容数に達しました!
+requests_response_subactionsmaxreached === パッケージで許可されている SMS アクションと WhatsApp アクションの最大数に達しました!
+response_hook_added2 === フックアクションが追加！
+response_webhook_added2 === Webhookが追加されました！
+template_administration_wablocktitle === ワッツアップ
+template_administration_wablocknotconfig === 未構成
+template_administration_wablockonline === オンライン
+template_administration_wablockoffline === オフライン
+template_administration_wablockstatus === 状態：
+app_intro_level_8new === これはフローティング アクション ボタンです。いくつかのオプションや、[バックグラウンドで実行] などの追加ページにアクセスできます。
+app_intro_done_btn === 終わり
+form_spintaxsample_main === トムは_8880_猫です
+form_spintaxsample_bad === 悪い
+form_spintaxsample_good === 良い
+forms_whatsapp_typedoc === 書類
+forms_whatsapp_docfile === ドキュメントファイル
+forms_whatsapp_docfilehelp === ドキュメント ファイル、アップロードするドキュメント ファイル。 .pdf、.xls、.xlsx、.doc、および .docx ファイルをサポートします。
+table_androidver_13 === 人造人間13号
+campaign_popup_titleresume === キャンペーンを再開しますか？
+campaign_popup_titlestop === キャンペーンを一時停止しますか？
+campaign_popup_descsmsresume === 保留中のメッセージが送信されます!
+campaign_popup_descsmsstop === 保留中のメッセージは、再開するまで送信されません!
+campaign_popup_descwaresume === 保留中のチャットが送信されます!
+campaign_popup_descwastop === 保留中のチャットは、再開するまで送信されません!
+tabs_smspage_queuebtn === 列
+tabs_wapage_queuebtn === 列
+tabs_smspage_queuetitle === SMS キュー
+tabs_wapage_queuetitle === WhatsApp キュー
+tables_wabtn_downloadattach === 添付ファイルをダウンロード
+app_response_devicealreadylinkednew === このデバイスは、既に別のアカウントにメールでリンクされています: _8880_
+app_response_devicealreadylinkedunablenew === リクエストを完了できません。このデバイスは、既に別のアカウントにメールでリンクされています: _8880_
+plugin_mpg_popuppayumoneymobilenumber === 携帯電話番号
+plugin_mpg_payumoneymobilerequired === PayUMoneyには携帯電話番号が必要です！
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ が接続されました!
+whatsapp_accountlink_linkadevicebtn === デバイスをリンクする

@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Bilinen Sorun
 form_wa_templatetype_knownissuedesc === Bu tür WhatsApp mesajı iOS'ta düzgün görüntülenmiyor. WhatsApp iOS uygulaması boş bir mesaj görüntüler.
 app_response_devicealreadylinked === Bu cihaz zaten başka bir hesaba bağlıydı!
 app_response_devicealreadylinkedunable === İsteğinizi tamamlayamıyoruz. Bu cihaz zaten başka bir hesaba bağlıydı!
+requests_response_subschedmaxreached === Paketiniz için izin verilen maksimum programlanmış SMS ve WhatsApp sohbet sayısına ulaştınız!
+requests_response_subactionsmaxreached === Paketiniz için izin verilen maksimum SMS işlemi ve WhatsApp işlemi sayısına ulaştınız!
+response_hook_added2 === Kanca eylemi eklendi!
+response_webhook_added2 === Web kancası eklendi!
+template_administration_wablocktitle === Naber
+template_administration_wablocknotconfig === Ayarlanmamış
+template_administration_wablockonline === Çevrimiçi
+template_administration_wablockoffline === Çevrimdışı
+template_administration_wablockstatus === Durum:
+app_intro_level_8new === Bu kayan eylem düğmesidir, bazı seçeneklere ve Arka Planda Çalıştır gibi ek sayfalara buradan erişebilirsiniz.
+app_intro_done_btn === Tamamlandı
+form_spintaxsample_main === Tom bir _8880_ kedidir
+form_spintaxsample_bad === kötü
+form_spintaxsample_good === iyi
+forms_whatsapp_typedoc === Belge
+forms_whatsapp_docfile === Belge Dosyası
+forms_whatsapp_docfilehelp === Belge dosyası, yüklenecek belge dosyası. .pdf, .xls, .xlsx, .doc ve .docx dosyalarını destekler.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Kampanyaya Devam Edilsin mi?
+campaign_popup_titlestop === Kampanya Duraklatılsın mı?
+campaign_popup_descsmsresume === Bekleyen mesajlar gönderilecek!
+campaign_popup_descsmsstop === Siz devam edene kadar bekleyen mesajlar gönderilmeyecek!
+campaign_popup_descwaresume === Bekleyen sohbetler gönderilecek!
+campaign_popup_descwastop === Siz devam edene kadar bekleyen sohbetler gönderilmeyecek!
+tabs_smspage_queuebtn === Sıra
+tabs_wapage_queuebtn === Sıra
+tabs_smspage_queuetitle === SMS Sırası
+tabs_wapage_queuetitle === WhatsApp Sırası
+tables_wabtn_downloadattach === Eki İndir
+app_response_devicealreadylinkednew === Bu cihaz zaten e-posta adresi olan başka bir hesaba bağlandı: _8880_
+app_response_devicealreadylinkedunablenew === İsteğinizi tamamlayamıyoruz. Bu cihaz zaten e-posta adresi olan başka bir hesaba bağlandı: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Cep numarası
+plugin_mpg_payumoneymobilerequired === PayUMoney için cep telefonu numarası gereklidir!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ artık bağlandı!
+whatsapp_accountlink_linkadevicebtn === Bir cihazı bağla

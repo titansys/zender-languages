@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Okwu Amaara
 form_wa_templatetype_knownissuedesc === Nke a na ụdị WhatsApp ozi na-adịghị na-egosipụta nke ọma na iOS. Ngwa WhatsApp iOS ga-egosipụta ozi efu.
 app_response_devicealreadylinked === Ejikọtala ngwaọrụ a na akaụntụ ọzọ!
 app_response_devicealreadylinkedunable === Anyị enweghị ike imezu arịrịọ gị. Ejikọtala ngwaọrụ a na akaụntụ ọzọ!
+requests_response_subschedmaxreached === Ị erutela ọnụọgụ SMS akwadoro na nkata WhatsApp maka ngwugwu gị!
+requests_response_subactionsmaxreached === Eruola ọnụọgụ SMS kacha anabata yana omume WhatsApp maka ngwugwu gị!
+response_hook_added2 === E tinyela ihe nko!
+response_webhook_added2 === agbakwunyere Webhook!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Ahazibeghị
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Na-anọghị n'ịntanetị
+template_administration_wablockstatus === Ọnọdụ:
+app_intro_level_8new === Nke a bụ bọtịnụ ihe na-ese n'elu mmiri, ị nwere ike ịnweta nhọrọ ụfọdụ yana ibe ndị ọzọ dị ka Gbaa n'azụ ebe a.
+app_intro_done_btn === Emechaala
+form_spintaxsample_main === Tom bụ nwamba _8880_
+form_spintaxsample_bad === ọjọọ
+form_spintaxsample_good === nke ọma
+forms_whatsapp_typedoc === Akwụkwọ
+forms_whatsapp_docfile === Faịlụ akwụkwọ
+forms_whatsapp_docfilehelp === Faịlụ akwụkwọ, faịlụ akwụkwọ a ga-ebugo. Na-akwado faịlụ .pdf, .xls, .xlsx, .doc, na .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === maliteghachi mkpọsa?
+campaign_popup_titlestop === Kwụsị mkpọsa?
+campaign_popup_descsmsresume === A ga-eziga ozi na-echere!
+campaign_popup_descsmsstop === Agaghị ezipu ozi na-echere ruo mgbe ịmaliteghachi!
+campaign_popup_descwaresume === A ga-eziga nkata na-echere!
+campaign_popup_descwastop === Agaghị eziga nkata na-echere ruo mgbe ị maliteghachiri!
+tabs_smspage_queuebtn === kwụ n'ahịrị
+tabs_wapage_queuebtn === kwụ n'ahịrị
+tabs_smspage_queuetitle === SMS kwụ n'ahịrị
+tabs_wapage_queuetitle === WhatsApp Queque
+tables_wabtn_downloadattach === Budata Mgbakwunye
+app_response_devicealreadylinkednew === Ejikọla ngwaọrụ a na akaụntụ ọzọ nwere email: _8880_
+app_response_devicealreadylinkedunablenew === Anyị enweghị ike imezu arịrịọ gị. Ejikọla ngwaọrụ a na akaụntụ ọzọ nwere email: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Nọmba ekwentị mkpanaka
+plugin_mpg_payumoneymobilerequired === Achọrọ nọmba ekwentị maka PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ ejikọrọ ugbu a!
+whatsapp_accountlink_linkadevicebtn === Jikọọ ngwaọrụ

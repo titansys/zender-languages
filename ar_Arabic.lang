@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === مشكلة معروفة
 form_wa_templatetype_knownissuedesc === لا يتم عرض هذا النوع من رسائل WhatsApp بشكل صحيح على نظام iOS. سيعرض تطبيق WhatsApp iOS رسالة فارغة.
 app_response_devicealreadylinked === تم بالفعل ربط هذا الجهاز بحساب آخر!
 app_response_devicealreadylinkedunable === نحن غير قادرين على استكمال طلبك. تم بالفعل ربط هذا الجهاز بحساب آخر!
+requests_response_subschedmaxreached === لقد وصلت إلى الحد الأقصى المسموح به من رسائل SMS ومحادثات WhatsApp لحزمتك!
+requests_response_subactionsmaxreached === لقد وصلت إلى الحد الأقصى المسموح به من إجراءات الرسائل القصيرة وإجراءات WhatsApp لحزمتك!
+response_hook_added2 === تمت إضافة إجراء ربط!
+response_webhook_added2 === تمت إضافة Webhook!
+template_administration_wablocktitle === ال WhatsApp
+template_administration_wablocknotconfig === غير مهيأ
+template_administration_wablockonline === متصل
+template_administration_wablockoffline === غير متصل على الانترنت
+template_administration_wablockstatus === حالة:
+app_intro_level_8new === هذا هو زر الإجراء العائم ، يمكنك الوصول إلى بعض الخيارات والصفحات الإضافية مثل التشغيل في الخلفية هنا.
+app_intro_done_btn === فعله
+form_spintaxsample_main === توم هو قطة _8880_
+form_spintaxsample_bad === سيئ
+form_spintaxsample_good === جيد
+forms_whatsapp_typedoc === وثيقة
+forms_whatsapp_docfile === ملف المستند
+forms_whatsapp_docfilehelp === ملف المستند ، ملف المستند المراد تحميله. يدعم ملفات .pdf ، .xls ، .xlsx ، .doc ، و .docx.
+table_androidver_13 === أندرويد 13
+campaign_popup_titleresume === استئناف الحملة؟
+campaign_popup_titlestop === حملة توقف؟
+campaign_popup_descsmsresume === سيتم إرسال الرسائل المعلقة!
+campaign_popup_descsmsstop === لن يتم إرسال الرسائل المعلقة حتى تستأنف!
+campaign_popup_descwaresume === سيتم إرسال الدردشات المعلقة!
+campaign_popup_descwastop === لن يتم إرسال الدردشات المعلقة حتى تستأنف!
+tabs_smspage_queuebtn === طابور
+tabs_wapage_queuebtn === طابور
+tabs_smspage_queuetitle === قائمة انتظار الرسائل القصيرة
+tabs_wapage_queuetitle === قائمة انتظار WhatsApp
+tables_wabtn_downloadattach === تنزيل المرفقات
+app_response_devicealreadylinkednew === تم ربط هذا الجهاز بالفعل بحساب آخر بالبريد الإلكتروني: _8880_
+app_response_devicealreadylinkedunablenew === نحن غير قادرين على استكمال طلبك. تم ربط هذا الجهاز بالفعل بحساب آخر بالبريد الإلكتروني: _8880_
+plugin_mpg_popuppayumoneymobilenumber === رقم الهاتف المحمول
+plugin_mpg_payumoneymobilerequired === رقم الهاتف المحمول مطلوب من أجل PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ متصل الآن!
+whatsapp_accountlink_linkadevicebtn === اربط الجهاز

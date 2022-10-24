@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === 알려진 문제
 form_wa_templatetype_knownissuedesc === 이 유형의 WhatsApp 메시지는 iOS에서 제대로 표시되지 않습니다. WhatsApp iOS 앱에 빈 메시지가 표시됩니다.
 app_response_devicealreadylinked === 이 기기는 이미 다른 계정에 연결되어 있습니다!
 app_response_devicealreadylinkedunable === 귀하의 요청을 완료할 수 없습니다. 이 기기는 이미 다른 계정에 연결되어 있습니다!
+requests_response_subschedmaxreached === 패키지에 대해 예약된 SMS 및 WhatsApp 채팅의 최대 허용 수에 도달했습니다!
+requests_response_subactionsmaxreached === 패키지에 허용되는 최대 SMS 작업 및 WhatsApp 작업 수에 도달했습니다!
+response_hook_added2 === 후크 액션이 추가되었습니다!
+response_webhook_added2 === 웹훅이 추가되었습니다!
+template_administration_wablocktitle === 왓츠앱
+template_administration_wablocknotconfig === 구성되지 않음
+template_administration_wablockonline === 온라인
+template_administration_wablockoffline === 오프라인
+template_administration_wablockstatus === 상태:
+app_intro_level_8new === 이것은 부동 작업 버튼이며 여기에서 백그라운드에서 실행과 같은 일부 옵션 및 추가 페이지에 액세스할 수 있습니다.
+app_intro_done_btn === 완료
+form_spintaxsample_main === 톰은 _8880_ 고양이입니다
+form_spintaxsample_bad === 나쁜
+form_spintaxsample_good === 좋은
+forms_whatsapp_typedoc === 문서
+forms_whatsapp_docfile === 문서 파일
+forms_whatsapp_docfilehelp === 문서 파일, 업로드할 문서 파일입니다. .pdf, .xls, .xlsx, .doc 및 .docx 파일을 지원합니다.
+table_androidver_13 === 안드로이드 13
+campaign_popup_titleresume === 캠페인을 재개하시겠습니까?
+campaign_popup_titlestop === 캠페인을 일시 중지하시겠습니까?
+campaign_popup_descsmsresume === 대기 중인 메시지가 전송됩니다!
+campaign_popup_descsmsstop === 보류 중인 메시지는 재개할 때까지 전송되지 않습니다!
+campaign_popup_descwaresume === 대기 중인 채팅이 전송됩니다!
+campaign_popup_descwastop === 보류 중인 채팅은 재개할 때까지 전송되지 않습니다!
+tabs_smspage_queuebtn === 대기줄
+tabs_wapage_queuebtn === 대기줄
+tabs_smspage_queuetitle === SMS 대기열
+tabs_wapage_queuetitle === WhatsApp 대기열
+tables_wabtn_downloadattach === 첨부파일 다운로드
+app_response_devicealreadylinkednew === 이 기기는 이미 다른 이메일 계정에 연결되어 있습니다: _8880_
+app_response_devicealreadylinkedunablenew === 귀하의 요청을 완료할 수 없습니다. 이 기기는 이미 다른 이메일 계정에 연결되어 있습니다: _8880_
+plugin_mpg_popuppayumoneymobilenumber === 휴대폰 번호
+plugin_mpg_payumoneymobilerequired === PayUMoney는 휴대폰 번호가 필요합니다!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_이(가) 연결되었습니다!
+whatsapp_accountlink_linkadevicebtn === 장치 연결

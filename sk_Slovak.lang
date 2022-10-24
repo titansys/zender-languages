@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Známy problém
 form_wa_templatetype_knownissuedesc === Tento typ správy WhatsApp sa v systéme iOS nezobrazuje správne. Aplikácia WhatsApp pre iOS zobrazí prázdnu správu.
 app_response_devicealreadylinked === Toto zariadenie už bolo prepojené s iným účtom!
 app_response_devicealreadylinkedunable === Nemôžeme dokončiť vašu požiadavku. Toto zariadenie už bolo prepojené s iným účtom!
+requests_response_subschedmaxreached === Dosiahli ste maximálny povolený počet naplánovaných SMS a chatov WhatsApp pre váš balík!
+requests_response_subactionsmaxreached === Dosiahli ste maximálny povolený počet SMS akcií a akcií WhatsApp pre váš balík!
+response_hook_added2 === Háková akcia bola pridaná!
+response_webhook_added2 === Webhook bol pridaný!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Nie je nakonfigurované
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Postavenie:
+app_intro_level_8new === Toto je plávajúce tlačidlo akcie, tu máte prístup k niektorým možnostiam a ďalším stránkam, ako napríklad Spustiť na pozadí.
+app_intro_done_btn === hotový
+form_spintaxsample_main === Tom je mačka _8880_
+form_spintaxsample_bad === zlý
+form_spintaxsample_good === dobre
+forms_whatsapp_typedoc === Dokument
+forms_whatsapp_docfile === Súbor dokumentu
+forms_whatsapp_docfilehelp === Súbor dokumentu, súbor dokumentu, ktorý sa má nahrať. Podporuje súbory .pdf, .xls, .xlsx, .doc a .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Obnoviť kampaň?
+campaign_popup_titlestop === Pozastaviť kampaň?
+campaign_popup_descsmsresume === Čakajúce správy budú odoslané!
+campaign_popup_descsmsstop === Čakajúce správy sa neodošlú, kým ich neobnovíte!
+campaign_popup_descwaresume === Čakajúce rozhovory budú odoslané!
+campaign_popup_descwastop === Čakajúce rozhovory sa neodošlú, kým ich neobnovíte!
+tabs_smspage_queuebtn === Fronta
+tabs_wapage_queuebtn === Fronta
+tabs_smspage_queuetitle === Front SMS
+tabs_wapage_queuetitle === WhatsApp fronta
+tables_wabtn_downloadattach === Stiahnite si prílohu
+app_response_devicealreadylinkednew === Toto zariadenie už bolo prepojené s iným účtom s e-mailom: _8880_
+app_response_devicealreadylinkedunablenew === Nemôžeme dokončiť vašu požiadavku. Toto zariadenie už bolo prepojené s iným účtom s e-mailom: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Telefónne číslo
+plugin_mpg_payumoneymobilerequired === Pre PayUMoney je potrebné mobilné číslo!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ je teraz pripojený!
+whatsapp_accountlink_linkadevicebtn === Prepojte zariadenie

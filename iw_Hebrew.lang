@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === בעיה ידועה
 form_wa_templatetype_knownissuedesc === סוג זה של הודעת WhatsApp אינו מוצג כראוי ב-iOS. אפליקציית WhatsApp iOS תציג הודעה ריקה.
 app_response_devicealreadylinked === המכשיר הזה כבר היה מקושר לחשבון אחר!
 app_response_devicealreadylinkedunable === אין באפשרותנו להשלים את בקשתך. המכשיר הזה כבר היה מקושר לחשבון אחר!
+requests_response_subschedmaxreached === הגעת למספר המקסימלי המותר של שיחות SMS וצ'אט וואטסאפ עבור החבילה שלך!
+requests_response_subactionsmaxreached === הגעת למספר המרבי המותר של פעולות SMS ופעולות WhatsApp עבור החבילה שלך!
+response_hook_added2 === נוספה פעולת הוק!
+response_webhook_added2 === Webhook נוסף!
+template_administration_wablocktitle === וואטסאפ
+template_administration_wablocknotconfig === לא מוגדר
+template_administration_wablockonline === באינטרנט
+template_administration_wablockoffline === לא מקוון
+template_administration_wablockstatus === סטָטוּס:
+app_intro_level_8new === זהו כפתור הפעולה הצף, אתה יכול לגשת לכמה אפשרויות ודפים נוספים כמו הפעל ברקע כאן.
+app_intro_done_btn === בוצע
+form_spintaxsample_main === טום הוא חתול _8880_
+form_spintaxsample_bad === רַע
+form_spintaxsample_good === טוֹב
+forms_whatsapp_typedoc === מסמך
+forms_whatsapp_docfile === קובץ מסמך
+forms_whatsapp_docfilehelp === קובץ מסמך, קובץ המסמך שיש להעלות. תומך בקבצי .pdf, .xls, .xlsx, .doc ו-.docx.
+table_androidver_13 === אנדרואיד 13
+campaign_popup_titleresume === להמשיך את הקמפיין?
+campaign_popup_titlestop === להשהות את הקמפיין?
+campaign_popup_descsmsresume === הודעות ממתינות יישלחו!
+campaign_popup_descsmsstop === הודעות ממתינות לא יישלחו עד שתמשיך!
+campaign_popup_descwaresume === צ'אטים ממתינים יישלחו!
+campaign_popup_descwastop === צ'אטים ממתינים לא יישלחו עד שתמשיך!
+tabs_smspage_queuebtn === תוֹר
+tabs_wapage_queuebtn === תוֹר
+tabs_smspage_queuetitle === תור SMS
+tabs_wapage_queuetitle === תור וואטסאפ
+tables_wabtn_downloadattach === הורד את הקובץ המצורף
+app_response_devicealreadylinkednew === המכשיר הזה כבר היה מקושר לחשבון אחר עם דוא"ל: _8880_
+app_response_devicealreadylinkedunablenew === אין באפשרותנו להשלים את בקשתך. המכשיר הזה כבר היה מקושר לחשבון אחר עם דוא"ל: _8880_
+plugin_mpg_popuppayumoneymobilenumber === מספר טלפון נייד
+plugin_mpg_payumoneymobilerequired === נדרש מספר נייד עבור PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ מחובר עכשיו!
+whatsapp_accountlink_linkadevicebtn === קשר מכשיר

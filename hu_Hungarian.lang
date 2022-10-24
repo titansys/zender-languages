@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Ismert probléma
 form_wa_templatetype_knownissuedesc === Az ilyen típusú WhatsApp üzenetek nem jelennek meg megfelelően az iOS rendszeren. A WhatsApp iOS alkalmazás üres üzenetet jelenít meg.
 app_response_devicealreadylinked === Ez az eszköz már össze volt kapcsolva egy másik fiókkal!
 app_response_devicealreadylinkedunable === Nem tudjuk teljesíteni kérését. Ez az eszköz már össze volt kapcsolva egy másik fiókkal!
+requests_response_subschedmaxreached === Elérte a csomaghoz tartozó ütemezett SMS- és WhatsApp-csevegések maximális számát!
+requests_response_subactionsmaxreached === Elérte a csomagban engedélyezett SMS-műveletek és WhatsApp-műveletek maximális számát!
+response_hook_added2 === Hook akció hozzáadva!
+response_webhook_added2 === Webhook hozzáadva!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Nincs beállítva
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Állapot:
+app_intro_level_8new === Ez a lebegő műveletgomb, itt érhet el néhány opciót és további oldalakat, például a Futtatás a háttérben.
+app_intro_done_btn === Kész
+form_spintaxsample_main === Tom egy _8880_ macska
+form_spintaxsample_bad === rossz
+form_spintaxsample_good === jó
+forms_whatsapp_typedoc === Dokumentum
+forms_whatsapp_docfile === Dokumentumfájl
+forms_whatsapp_docfilehelp === Dokumentumfájl, a feltöltendő dokumentumfájl. Támogatja a .pdf, .xls, .xlsx, .doc és .docx fájlokat.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Folytatja a kampányt?
+campaign_popup_titlestop === Szünetelteti a kampányt?
+campaign_popup_descsmsresume === A függőben lévő üzenetek elküldésre kerülnek!
+campaign_popup_descsmsstop === A függőben lévő üzeneteket nem küldjük el, amíg nem folytatja!
+campaign_popup_descwaresume === A függőben lévő chateket elküldjük!
+campaign_popup_descwastop === A függőben lévő csevegéseket a rendszer nem küldi el, amíg nem folytatja!
+tabs_smspage_queuebtn === Sor
+tabs_wapage_queuebtn === Sor
+tabs_smspage_queuetitle === SMS-sor
+tabs_wapage_queuetitle === WhatsApp várólista
+tables_wabtn_downloadattach === Melléklet letöltése
+app_response_devicealreadylinkednew === Ez az eszköz már össze volt kapcsolva egy másik fiókkal a következő e-mail-címmel: _8880_
+app_response_devicealreadylinkedunablenew === Nem tudjuk teljesíteni kérését. Ez az eszköz már össze volt kapcsolva egy másik fiókkal a következő e-mail-címmel: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Mobil szám
+plugin_mpg_payumoneymobilerequired === A PayUMoney használatához mobilszám szükséges!
+whatsapp_accountlink_notifymessage === A WhatsApp _8880_ csatlakoztatva van!
+whatsapp_accountlink_linkadevicebtn === Kapcsoljon össze egy eszközt

@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Известная проблема
 form_wa_templatetype_knownissuedesc === Этот тип сообщения WhatsApp не отображается должным образом на iOS. Приложение WhatsApp iOS отобразит пустое сообщение.
 app_response_devicealreadylinked === Это устройство уже было привязано к другому аккаунту!
 app_response_devicealreadylinkedunable === Мы не можем выполнить ваш запрос. Это устройство уже было привязано к другому аккаунту!
+requests_response_subschedmaxreached === Вы достигли максимально допустимого количества запланированных SMS и чатов WhatsApp для вашего пакета!
+requests_response_subactionsmaxreached === Вы достигли максимально допустимого количества действий SMS и действий WhatsApp для вашего пакета!
+response_hook_added2 === Добавлено действие крючка!
+response_webhook_added2 === Добавлен вебхук!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Не настроено
+template_administration_wablockonline === онлайн
+template_administration_wablockoffline === Не в сети
+template_administration_wablockstatus === Статус:
+app_intro_level_8new === Это плавающая кнопка действия, здесь вы можете получить доступ к некоторым параметрам и дополнительным страницам, таким как «Запуск в фоновом режиме».
+app_intro_done_btn === Сделанный
+form_spintaxsample_main === Том - кот _8880_
+form_spintaxsample_bad === Плохо
+form_spintaxsample_good === хороший
+forms_whatsapp_typedoc === Документ
+forms_whatsapp_docfile === Файл документа
+forms_whatsapp_docfilehelp === Файл документа, файл документа для загрузки. Поддерживает файлы .pdf, .xls, .xlsx, .doc и .docx.
+table_androidver_13 === Андроид 13
+campaign_popup_titleresume === Возобновить кампанию?
+campaign_popup_titlestop === Приостановить кампанию?
+campaign_popup_descsmsresume === Отложенные сообщения будут отправлены!
+campaign_popup_descsmsstop === Отложенные сообщения не будут отправлены, пока вы не возобновите работу!
+campaign_popup_descwaresume === Незаконченные чаты будут отправлены!
+campaign_popup_descwastop === Незавершенные чаты не будут отправлены, пока вы не возобновите их!
+tabs_smspage_queuebtn === Очередь
+tabs_wapage_queuebtn === Очередь
+tabs_smspage_queuetitle === Очередь СМС
+tabs_wapage_queuetitle === Очередь WhatsApp
+tables_wabtn_downloadattach === Скачать вложение
+app_response_devicealreadylinkednew === Это устройство уже было связано с другим аккаунтом с электронной почтой: _8880_.
+app_response_devicealreadylinkedunablenew === Мы не можем выполнить ваш запрос. Это устройство уже было связано с другим аккаунтом с электронной почтой: _8880_.
+plugin_mpg_popuppayumoneymobilenumber === Номер мобильного
+plugin_mpg_payumoneymobilerequired === Мобильный номер необходим для PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ теперь подключен!
+whatsapp_accountlink_linkadevicebtn === Привязать устройство

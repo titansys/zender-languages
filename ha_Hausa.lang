@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Batun Sani
 form_wa_templatetype_knownissuedesc === Irin wannan saƙon WhatsApp baya nunawa da kyau akan iOS. The WhatsApp iOS app zai nuna wani m saƙo.
 app_response_devicealreadylinked === An riga an haɗa wannan na'urar zuwa wani asusu!
 app_response_devicealreadylinkedunable === Ba mu iya kammala buƙatarku ba. An riga an haɗa wannan na'urar zuwa wani asusu!
+requests_response_subschedmaxreached === Kun kai iyakar adadin da aka ba da izini na SMS da tattaunawa ta WhatsApp don kunshin ku!
+requests_response_subactionsmaxreached === Kun kai matsakaicin adadin da aka yarda da ayyukan SMS da ayyukan WhatsApp don kunshin ku!
+response_hook_added2 === An ƙara aikin ƙugiya!
+response_webhook_added2 === An ƙara Webhook!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Ba a daidaita shi ba
+template_administration_wablockonline === Kan layi
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Matsayi:
+app_intro_level_8new === Wannan shine maɓallin aiki mai iyo, zaku iya samun dama ga wasu zaɓuɓɓuka da ƙarin shafuka kamar Gudu a Baya a nan.
+app_intro_done_btn === Anyi
+form_spintaxsample_main === Tom shine cat _8880_
+form_spintaxsample_bad === mara kyau
+form_spintaxsample_good === mai kyau
+forms_whatsapp_typedoc === Takardu
+forms_whatsapp_docfile === Fayil na Takardu
+forms_whatsapp_docfilehelp === Fayil ɗin daftarin aiki, fayil ɗin takaddar da za a loda. Yana goyan bayan fayilolin .pdf, .xls, .xlsx, .doc, da .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Ci gaba da Kamfen?
+campaign_popup_titlestop === Dakatar da Kamfen?
+campaign_popup_descsmsresume === Za a aika saƙonnin da ke jiran!
+campaign_popup_descsmsstop === Ba za a aika saƙonnin da ake jira ba har sai kun ci gaba!
+campaign_popup_descwaresume === Za a aika taɗi masu jiran gado!
+campaign_popup_descwastop === Ba za a aika taɗi masu jiran aiki ba har sai kun ci gaba!
+tabs_smspage_queuebtn === layi
+tabs_wapage_queuebtn === layi
+tabs_smspage_queuetitle === Kiran SMS
+tabs_wapage_queuetitle === WhatsApp Queue
+tables_wabtn_downloadattach === Zazzage abin da aka makala
+app_response_devicealreadylinkednew === An riga an haɗa wannan na'urar zuwa wani asusu mai imel: _8880_
+app_response_devicealreadylinkedunablenew === Ba mu iya kammala buƙatarku ba. An riga an haɗa wannan na'urar zuwa wani asusu mai imel: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Lambar salula
+plugin_mpg_payumoneymobilerequired === Ana buƙatar lambar wayar hannu don PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ yanzu an haɗa!
+whatsapp_accountlink_linkadevicebtn === Haɗa na'ura

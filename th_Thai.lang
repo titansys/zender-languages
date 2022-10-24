@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === ปัญหาที่ทราบ
 form_wa_templatetype_knownissuedesc === ข้อความ WhatsApp ประเภทนี้แสดงไม่ถูกต้องบน iOS แอพ WhatsApp iOS จะแสดงข้อความเปล่า
 app_response_devicealreadylinked === อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นแล้ว!
 app_response_devicealreadylinkedunable === เราไม่สามารถดำเนินการตามคำขอของคุณได้ อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นแล้ว!
+requests_response_subschedmaxreached === คุณมีจำนวนการแชททาง SMS และ WhatsApp ตามกำหนดการสูงสุดที่อนุญาตสำหรับแพ็คเกจของคุณแล้ว!
+requests_response_subactionsmaxreached === คุณมีการดำเนินการทาง SMS และ WhatsApp ถึงจำนวนสูงสุดที่อนุญาตสำหรับแพ็คเกจของคุณแล้ว!
+response_hook_added2 === เพิ่มแอคชั่นฮุคแล้ว!
+response_webhook_added2 === เพิ่มเว็บฮุคแล้ว!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === ไม่ได้กำหนดค่า
+template_administration_wablockonline === ออนไลน์
+template_administration_wablockoffline === ออฟไลน์
+template_administration_wablockstatus === สถานะ:
+app_intro_level_8new === นี่คือปุ่มการทำงานแบบลอย คุณสามารถเข้าถึงบางตัวเลือกและหน้าเพิ่มเติม เช่น เรียกใช้ในพื้นหลังได้ที่นี่
+app_intro_done_btn === เสร็จแล้ว
+form_spintaxsample_main === ทอมเป็น _8880_ แมว
+form_spintaxsample_bad === แย่
+form_spintaxsample_good === ดี
+forms_whatsapp_typedoc === เอกสาร
+forms_whatsapp_docfile === ไฟล์เอกสาร
+forms_whatsapp_docfilehelp === ไฟล์เอกสาร ไฟล์เอกสารที่จะอัพโหลด รองรับไฟล์ .pdf, .xls, .xlsx, .doc และ .docx
+table_androidver_13 === Android 13
+campaign_popup_titleresume === แคมเปญต่อ?
+campaign_popup_titlestop === หยุดแคมเปญชั่วคราว?
+campaign_popup_descsmsresume === ข้อความที่รอดำเนินการจะถูกส่ง!
+campaign_popup_descsmsstop === ข้อความที่รอดำเนินการจะไม่ถูกส่งจนกว่าคุณจะดำเนินการต่อ!
+campaign_popup_descwaresume === แชทที่รอดำเนินการจะถูกส่งไป!
+campaign_popup_descwastop === แชทที่รอดำเนินการจะไม่ถูกส่งจนกว่าคุณจะกลับมาทำงานต่อ!
+tabs_smspage_queuebtn === คิว
+tabs_wapage_queuebtn === คิว
+tabs_smspage_queuetitle === คิว SMS
+tabs_wapage_queuetitle === คิว WhatsApp
+tables_wabtn_downloadattach === ดาวน์โหลดไฟล์แนบ
+app_response_devicealreadylinkednew === อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นด้วยอีเมลแล้ว: _8880_
+app_response_devicealreadylinkedunablenew === เราไม่สามารถดำเนินการตามคำขอของคุณได้ อุปกรณ์นี้เชื่อมโยงกับบัญชีอื่นด้วยอีเมลแล้ว: _8880_
+plugin_mpg_popuppayumoneymobilenumber === เบอร์มือถือ
+plugin_mpg_payumoneymobilerequired === ต้องใช้หมายเลขโทรศัพท์มือถือสำหรับ PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ เชื่อมต่อแล้ว!
+whatsapp_accountlink_linkadevicebtn === เชื่อมโยงอุปกรณ์

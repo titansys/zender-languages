@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Problema cunoscuta
 form_wa_templatetype_knownissuedesc === Acest tip de mesaj WhatsApp nu se afișează corect pe iOS. Aplicația WhatsApp iOS va afișa un mesaj gol.
 app_response_devicealreadylinked === Acest dispozitiv a fost deja conectat la alt cont!
 app_response_devicealreadylinkedunable === Nu putem finaliza solicitarea dvs. Acest dispozitiv a fost deja conectat la alt cont!
+requests_response_subschedmaxreached === Ați atins numărul maxim permis de chat-uri SMS și WhatsApp programate pentru pachetul dvs.!
+requests_response_subactionsmaxreached === Ați atins numărul maxim permis de acțiuni SMS și acțiuni WhatsApp pentru pachetul dvs.!
+response_hook_added2 === Acțiunea de cârlig a fost adăugată!
+response_webhook_added2 === Webhook a fost adăugat!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Neconfigurat
+template_administration_wablockonline === Pe net
+template_administration_wablockoffline === Deconectat
+template_administration_wablockstatus === Stare:
+app_intro_level_8new === Acesta este butonul de acțiune plutitor, puteți accesa câteva opțiuni și pagini suplimentare, cum ar fi Run in Background aici.
+app_intro_done_btn === Terminat
+form_spintaxsample_main === Tom este o pisică _8880_
+form_spintaxsample_bad === rău
+form_spintaxsample_good === bun
+forms_whatsapp_typedoc === Document
+forms_whatsapp_docfile === Fișier document
+forms_whatsapp_docfilehelp === Fișier document, fișierul document care urmează să fie încărcat. Acceptă fișiere .pdf, .xls, .xlsx, .doc și .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Reluați campania?
+campaign_popup_titlestop === Întrerupeți campania?
+campaign_popup_descsmsresume === Mesajele în așteptare vor fi trimise!
+campaign_popup_descsmsstop === Mesajele în așteptare nu vor fi trimise până nu reluați!
+campaign_popup_descwaresume === Chaturile în așteptare vor fi trimise!
+campaign_popup_descwastop === Chaturile în așteptare nu vor fi trimise până când nu reluați!
+tabs_smspage_queuebtn === Coadă
+tabs_wapage_queuebtn === Coadă
+tabs_smspage_queuetitle === Coada de SMS-uri
+tabs_wapage_queuetitle === Coada WhatsApp
+tables_wabtn_downloadattach === Descărcați atașamentul
+app_response_devicealreadylinkednew === Acest dispozitiv a fost deja conectat la un alt cont cu e-mail: _8880_
+app_response_devicealreadylinkedunablenew === Nu putem finaliza solicitarea dvs. Acest dispozitiv a fost deja conectat la un alt cont cu e-mail: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Numar de mobil
+plugin_mpg_payumoneymobilerequired === Numărul de mobil este necesar pentru PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ este acum conectat!
+whatsapp_accountlink_linkadevicebtn === Conectați un dispozitiv

@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Masalah yang Diketahui
 form_wa_templatetype_knownissuedesc === Jenis pesan WhatsApp ini tidak ditampilkan dengan benar di iOS. Aplikasi WhatsApp iOS akan menampilkan pesan kosong.
 app_response_devicealreadylinked === Perangkat ini sudah ditautkan ke akun lain!
 app_response_devicealreadylinkedunable === Kami tidak dapat menyelesaikan permintaan Anda. Perangkat ini sudah ditautkan ke akun lain!
+requests_response_subschedmaxreached === Anda telah mencapai jumlah maksimum percakapan SMS dan WhatsApp terjadwal yang diizinkan untuk paket Anda!
+requests_response_subactionsmaxreached === Anda telah mencapai jumlah maksimum tindakan SMS dan tindakan WhatsApp yang diizinkan untuk paket Anda!
+response_hook_added2 === Tindakan kait telah ditambahkan!
+response_webhook_added2 === Webhook telah ditambahkan!
+template_administration_wablocktitle === Ada apa
+template_administration_wablocknotconfig === Tidak Dikonfigurasi
+template_administration_wablockonline === On line
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Status:
+app_intro_level_8new === Ini adalah tombol aksi mengambang, Anda dapat mengakses beberapa opsi dan halaman tambahan seperti Jalankan di Latar Belakang di sini.
+app_intro_done_btn === Selesai
+form_spintaxsample_main === Tom adalah _8880_ kucing
+form_spintaxsample_bad === buruk
+form_spintaxsample_good === bagus
+forms_whatsapp_typedoc === Dokumen
+forms_whatsapp_docfile === File Dokumen
+forms_whatsapp_docfilehelp === File dokumen, file dokumen yang akan diunggah. Mendukung file .pdf, .xls, .xlsx, .doc, dan .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Lanjutkan Kampanye?
+campaign_popup_titlestop === Jeda Kampanye?
+campaign_popup_descsmsresume === Pesan yang tertunda akan dikirim!
+campaign_popup_descsmsstop === Pesan tertunda tidak akan dikirim sampai Anda melanjutkan!
+campaign_popup_descwaresume === Obrolan tertunda akan dikirim!
+campaign_popup_descwastop === Obrolan tertunda tidak akan dikirim sampai Anda melanjutkan!
+tabs_smspage_queuebtn === Antre
+tabs_wapage_queuebtn === Antre
+tabs_smspage_queuetitle === Antrian SMS
+tabs_wapage_queuetitle === Antrian WhatsApp
+tables_wabtn_downloadattach === Unduh Lampiran
+app_response_devicealreadylinkednew === Perangkat ini sudah ditautkan ke akun lain dengan email: _8880_
+app_response_devicealreadylinkedunablenew === Kami tidak dapat menyelesaikan permintaan Anda. Perangkat ini sudah ditautkan ke akun lain dengan email: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Nomor handphone
+plugin_mpg_payumoneymobilerequired === Nomor ponsel diperlukan untuk PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ sekarang terhubung!
+whatsapp_accountlink_linkadevicebtn === Tautkan perangkat

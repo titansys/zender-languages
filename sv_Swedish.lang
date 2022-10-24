@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Känt problem
 form_wa_templatetype_knownissuedesc === Den här typen av WhatsApp-meddelanden visas inte korrekt på iOS. WhatsApp iOS-appen kommer att visa ett tomt meddelande.
 app_response_devicealreadylinked === Den här enheten var redan länkad till ett annat konto!
 app_response_devicealreadylinkedunable === Vi kan inte slutföra din begäran. Den här enheten var redan länkad till ett annat konto!
+requests_response_subschedmaxreached === Du har nått det högsta tillåtna antalet schemalagda SMS- och WhatsApp-chattar för ditt paket!
+requests_response_subactionsmaxreached === Du har nått det högsta tillåtna antalet SMS-åtgärder och WhatsApp-åtgärder för ditt paket!
+response_hook_added2 === Hook action har lagts till!
+response_webhook_added2 === Webhook har lagts till!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Inte konfigurerad
+template_administration_wablockonline === Uppkopplad
+template_administration_wablockoffline === Off-line
+template_administration_wablockstatus === Status:
+app_intro_level_8new === Detta är den flytande åtgärdsknappen, du kan komma åt några alternativ och ytterligare sidor som Kör i bakgrunden här.
+app_intro_done_btn === Gjort
+form_spintaxsample_main === Tom är en _8880_ katt
+form_spintaxsample_bad === dålig
+form_spintaxsample_good === Bra
+forms_whatsapp_typedoc === Dokumentera
+forms_whatsapp_docfile === Dokumentfil
+forms_whatsapp_docfilehelp === Dokumentfil, dokumentfilen som ska laddas upp. Stöder .pdf-, .xls-, .xlsx-, .doc- och .docx-filer.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Återuppta kampanj?
+campaign_popup_titlestop === Pausa kampanj?
+campaign_popup_descsmsresume === Väntande meddelanden kommer att skickas!
+campaign_popup_descsmsstop === Väntande meddelanden kommer inte att skickas förrän du återupptar!
+campaign_popup_descwaresume === Väntande chattar kommer att skickas!
+campaign_popup_descwastop === Väntande chattar kommer inte att skickas förrän du återupptar!
+tabs_smspage_queuebtn === Kö
+tabs_wapage_queuebtn === Kö
+tabs_smspage_queuetitle === SMS-kö
+tabs_wapage_queuetitle === WhatsApp-kö
+tables_wabtn_downloadattach === Ladda ner bilaga
+app_response_devicealreadylinkednew === Den här enheten var redan länkad till ett annat konto med e-post: _8880_
+app_response_devicealreadylinkedunablenew === Vi kan inte slutföra din begäran. Den här enheten var redan länkad till ett annat konto med e-post: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Mobilnummer
+plugin_mpg_payumoneymobilerequired === Mobilnummer krävs för PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ är nu ansluten!
+whatsapp_accountlink_linkadevicebtn === Länka en enhet

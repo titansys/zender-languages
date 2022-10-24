@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Known Issue
 form_wa_templatetype_knownissuedesc === This type of WhatsApp message is not displaying properly on iOS. The WhatsApp iOS app will display a blank message.
 app_response_devicealreadylinked === This device was already linked to another account!
 app_response_devicealreadylinkedunable === We are unable to complete your request. This device was already linked to another account!
+requests_response_subschedmaxreached === You have reached the maximum allowed number of scheduled SMS and WhatsApp chats for your package!
+requests_response_subactionsmaxreached === You have reached the maximum allowed number of SMS actions and WhatsApp actions for your package!
+response_hook_added2 === Hook action has been added!
+response_webhook_added2 === Webhook has been added!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Not Configured
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Offline
+template_administration_wablockstatus === Status:
+app_intro_level_8new === This is the floating action button, you can access some options and additional pages such as Run in Background here.
+app_intro_done_btn === Done
+form_spintaxsample_main === Tom is a _8880_ cat
+form_spintaxsample_bad === bad
+form_spintaxsample_good === good
+forms_whatsapp_typedoc === Document
+forms_whatsapp_docfile === Document File
+forms_whatsapp_docfilehelp === Document file, the document file to be uploaded. Supports .pdf, .xls, .xlsx, .doc, and .docx files.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Resume Campaign?
+campaign_popup_titlestop === Pause Campaign?
+campaign_popup_descsmsresume === Pending messages will be sent!
+campaign_popup_descsmsstop === Pending messages will not be sent until you resume!
+campaign_popup_descwaresume === Pending chats will be sent!
+campaign_popup_descwastop === Pending chats will not be sent until you resume!
+tabs_smspage_queuebtn === Queue
+tabs_wapage_queuebtn === Queue
+tabs_smspage_queuetitle === SMS Queue
+tabs_wapage_queuetitle === WhatsApp Queue
+tables_wabtn_downloadattach === Download Attachment
+app_response_devicealreadylinkednew === This device was already linked to another account with email: _8880_
+app_response_devicealreadylinkedunablenew === We are unable to complete your request. This device was already linked to another account with email: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Mobile Number
+plugin_mpg_payumoneymobilerequired === Mobile number is required for PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ is now connected!
+whatsapp_accountlink_linkadevicebtn === Link a device

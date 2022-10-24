@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Suala Linalojulikana
 form_wa_templatetype_knownissuedesc === Aina hii ya ujumbe wa WhatsApp hauonyeshwi ipasavyo kwenye iOS. Programu ya WhatsApp iOS itaonyesha ujumbe tupu.
 app_response_devicealreadylinked === Kifaa hiki kilikuwa tayari kimeunganishwa na akaunti nyingine!
 app_response_devicealreadylinkedunable === Hatujaweza kukamilisha ombi lako. Kifaa hiki kilikuwa tayari kimeunganishwa na akaunti nyingine!
+requests_response_subschedmaxreached === Umefikia idadi ya juu zaidi inayoruhusiwa ya mazungumzo ya SMS na WhatsApp kwa kifurushi chako!
+requests_response_subactionsmaxreached === Umefikia idadi ya juu zaidi inayoruhusiwa ya vitendo vya SMS na vitendo vya WhatsApp kwa kifurushi chako!
+response_hook_added2 === Kitendo cha ndoano kimeongezwa!
+response_webhook_added2 === Webhook imeongezwa!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Haijasanidiwa
+template_administration_wablockonline === Mtandaoni
+template_administration_wablockoffline === Nje ya mtandao
+template_administration_wablockstatus === Hali:
+app_intro_level_8new === Hiki ni kitufe cha kitendo kinachoelea, unaweza kufikia baadhi ya chaguo na kurasa za ziada kama vile Endesha kwa Mandharinyuma hapa.
+app_intro_done_btn === Imekamilika
+form_spintaxsample_main === Tom ni paka _8880_
+form_spintaxsample_bad === mbaya
+form_spintaxsample_good === nzuri
+forms_whatsapp_typedoc === Hati
+forms_whatsapp_docfile === Faili ya Hati
+forms_whatsapp_docfilehelp === Faili ya hati, faili ya hati ya kupakiwa. Inaauni faili za .pdf, .xls, .xlsx, .doc na .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Ungependa Kuendelea na Kampeni?
+campaign_popup_titlestop === Ungependa kusitisha Kampeni?
+campaign_popup_descsmsresume === Ujumbe ambao haujashughulikiwa utatumwa!
+campaign_popup_descsmsstop === Ujumbe unaosubiri hautatumwa hadi urejee!
+campaign_popup_descwaresume === Gumzo zinazosubiri zitatumwa!
+campaign_popup_descwastop === Gumzo zinazosubiri hazitatumwa hadi urejee!
+tabs_smspage_queuebtn === Foleni
+tabs_wapage_queuebtn === Foleni
+tabs_smspage_queuetitle === Foleni ya SMS
+tabs_wapage_queuetitle === Foleni ya WhatsApp
+tables_wabtn_downloadattach === Pakua Kiambatisho
+app_response_devicealreadylinkednew === Kifaa hiki tayari kilikuwa kimeunganishwa kwa akaunti nyingine kwa barua pepe: _8880_
+app_response_devicealreadylinkedunablenew === Hatujaweza kukamilisha ombi lako. Kifaa hiki tayari kilikuwa kimeunganishwa kwa akaunti nyingine kwa barua pepe: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Namba ya simu ya mkononi
+plugin_mpg_payumoneymobilerequired === Nambari ya simu inahitajika kwa PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ sasa imeunganishwa!
+whatsapp_accountlink_linkadevicebtn === Unganisha kifaa

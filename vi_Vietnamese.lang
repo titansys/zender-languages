@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Vấn đề được biết
 form_wa_templatetype_knownissuedesc === Loại tin nhắn WhatsApp này không hiển thị chính xác trên iOS. Ứng dụng WhatsApp iOS sẽ hiển thị một thông báo trống.
 app_response_devicealreadylinked === Thiết bị này đã được liên kết với một tài khoản khác!
 app_response_devicealreadylinkedunable === Chúng tôi không thể hoàn thành yêu cầu của bạn. Thiết bị này đã được liên kết với một tài khoản khác!
+requests_response_subschedmaxreached === Bạn đã đạt đến số lượng cuộc trò chuyện SMS và WhatsApp được lập lịch tối đa cho gói của mình!
+requests_response_subactionsmaxreached === Bạn đã đạt đến số lượng hành động SMS và hành động WhatsApp tối đa được phép cho gói của mình!
+response_hook_added2 === Hành động móc đã được thêm vào!
+response_webhook_added2 === Webhook đã được thêm vào!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Không được định cấu hình
+template_administration_wablockonline === Trực tuyến
+template_administration_wablockoffline === Ngoại tuyến
+template_administration_wablockstatus === Trạng thái:
+app_intro_level_8new === Đây là nút hành động nổi, bạn có thể truy cập một số tùy chọn và trang bổ sung như Run in Background tại đây.
+app_intro_done_btn === Xong
+form_spintaxsample_main === Tom là một con mèo _8880_
+form_spintaxsample_bad === xấu
+form_spintaxsample_good === tốt
+forms_whatsapp_typedoc === Tài liệu
+forms_whatsapp_docfile === File tài liệu
+forms_whatsapp_docfilehelp === Tệp tài liệu, tệp tài liệu sẽ được tải lên. Hỗ trợ các tệp .pdf, .xls, .xlsx, .doc và .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Tiếp tục chiến dịch?
+campaign_popup_titlestop === Tạm dừng Chiến dịch?
+campaign_popup_descsmsresume === Tin nhắn đang chờ xử lý sẽ được gửi!
+campaign_popup_descsmsstop === Tin nhắn đang chờ xử lý sẽ không được gửi cho đến khi bạn tiếp tục!
+campaign_popup_descwaresume === Các cuộc trò chuyện đang chờ xử lý sẽ được gửi!
+campaign_popup_descwastop === Các cuộc trò chuyện đang chờ xử lý sẽ không được gửi cho đến khi bạn tiếp tục!
+tabs_smspage_queuebtn === Xếp hàng
+tabs_wapage_queuebtn === Xếp hàng
+tabs_smspage_queuetitle === Hàng đợi SMS
+tabs_wapage_queuetitle === Hàng đợi WhatsApp
+tables_wabtn_downloadattach === Tải xuống Tệp đính kèm
+app_response_devicealreadylinkednew === Thiết bị này đã được liên kết với một tài khoản khác bằng email: _8880_
+app_response_devicealreadylinkedunablenew === Chúng tôi không thể hoàn thành yêu cầu của bạn. Thiết bị này đã được liên kết với một tài khoản khác bằng email: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Số điện thoại
+plugin_mpg_payumoneymobilerequired === Số điện thoại di động là bắt buộc đối với PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ hiện đã được kết nối!
+whatsapp_accountlink_linkadevicebtn === Kết nói với một thiết bị

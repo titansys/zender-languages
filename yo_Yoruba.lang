@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Oro ti a mọ
 form_wa_templatetype_knownissuedesc === Iru ifiranṣẹ WhatsApp yii ko han daradara lori iOS. Ohun elo WhatsApp iOS yoo ṣafihan ifiranṣẹ ofo kan.
 app_response_devicealreadylinked === Ẹrọ yii ti ni asopọ tẹlẹ si akọọlẹ miiran!
 app_response_devicealreadylinkedunable === A ko le pari ibeere rẹ. Ẹrọ yii ti ni asopọ tẹlẹ si akọọlẹ miiran!
+requests_response_subschedmaxreached === O ti de nọmba ti o gba laaye ti o pọju ti SMS iṣeto ati awọn iwiregbe WhatsApp fun package rẹ!
+requests_response_subactionsmaxreached === O ti de nọmba ti o gba laaye ti o pọju ti awọn iṣe SMS ati awọn iṣe WhatsApp fun package rẹ!
+response_hook_added2 === Kio igbese ti a ti fi kun!
+response_webhook_added2 === Webhook ti ni afikun!
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === Ko tunto
+template_administration_wablockonline === Online
+template_administration_wablockoffline === Aisinipo
+template_administration_wablockstatus === Ipo:
+app_intro_level_8new === Eyi ni bọtini igbese lilefoofo, o le wọle si diẹ ninu awọn aṣayan ati awọn oju-iwe afikun bii Ṣiṣe ni abẹlẹ nibi.
+app_intro_done_btn === Ti ṣe
+form_spintaxsample_main === Tom jẹ ologbo _8880_
+form_spintaxsample_bad === buburu
+form_spintaxsample_good === dara
+forms_whatsapp_typedoc === Iwe aṣẹ
+forms_whatsapp_docfile === Faili iwe
+forms_whatsapp_docfilehelp === Faili iwe, faili iwe-ipamọ lati gbejade. Ṣe atilẹyin .pdf, .xls, .xlsx, .doc, ati awọn faili .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Pada Ipolongo?
+campaign_popup_titlestop === Ìpolongo ìdádúró bí?
+campaign_popup_descsmsresume === Awọn ifiranṣẹ ti o wa ni isunmọ yoo firanṣẹ!
+campaign_popup_descsmsstop === Awọn ifiranṣẹ isunmọ kii yoo firanṣẹ titi ti o ba tun bẹrẹ!
+campaign_popup_descwaresume === Awọn iwiregbe isunmọtosi yoo firanṣẹ!
+campaign_popup_descwastop === Awọn ibaraẹnisọrọ ti o wa ni isunmọ kii yoo firanṣẹ titi ti o ba tun bẹrẹ!
+tabs_smspage_queuebtn === isinyi
+tabs_wapage_queuebtn === isinyi
+tabs_smspage_queuetitle === SMS isinyi
+tabs_wapage_queuetitle === WhatsApp isinyi
+tables_wabtn_downloadattach === Download Asomọ
+app_response_devicealreadylinkednew === Ẹrọ yii ti ni asopọ si akọọlẹ miiran pẹlu imeeli: _8880_
+app_response_devicealreadylinkedunablenew === A ko le pari ibeere rẹ. Ẹrọ yii ti ni asopọ si akọọlẹ miiran pẹlu imeeli: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Nomba ti a le gbe rin
+plugin_mpg_payumoneymobilerequired === Nọmba alagbeka ni a nilo fun PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ ti sopọ mọ bayi!
+whatsapp_accountlink_linkadevicebtn === Darapọ mọ ẹrọ kan

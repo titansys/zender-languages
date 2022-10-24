@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Kjent problem
 form_wa_templatetype_knownissuedesc === Denne typen WhatsApp-meldinger vises ikke riktig på iOS. WhatsApp iOS-appen vil vise en tom melding.
 app_response_devicealreadylinked === Denne enheten var allerede koblet til en annen konto!
 app_response_devicealreadylinkedunable === Vi kan ikke fullføre forespørselen din. Denne enheten var allerede koblet til en annen konto!
+requests_response_subschedmaxreached === Du har nådd det maksimalt tillatte antallet planlagte SMS- og WhatsApp-chatter for pakken din!
+requests_response_subactionsmaxreached === Du har nådd det maksimalt tillatte antallet SMS-handlinger og WhatsApp-handlinger for pakken din!
+response_hook_added2 === Hook action er lagt til!
+response_webhook_added2 === Webhook er lagt til!
+template_administration_wablocktitle === Hva skjer
+template_administration_wablocknotconfig === Ikke konfigurert
+template_administration_wablockonline === på nett
+template_administration_wablockoffline === Frakoblet
+template_administration_wablockstatus === Status:
+app_intro_level_8new === Dette er den flytende handlingsknappen, du kan få tilgang til noen alternativer og tilleggssider som Kjør i bakgrunnen her.
+app_intro_done_btn === Ferdig
+form_spintaxsample_main === Tom er en _8880_ katt
+form_spintaxsample_bad === dårlig
+form_spintaxsample_good === god
+forms_whatsapp_typedoc === Dokument
+forms_whatsapp_docfile === Dokumentfil
+forms_whatsapp_docfilehelp === Dokumentfil, dokumentfilen som skal lastes opp. Støtter .pdf-, .xls-, .xlsx-, .doc- og .docx-filer.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Gjenoppta kampanjen?
+campaign_popup_titlestop === Vil du sette kampanjen på pause?
+campaign_popup_descsmsresume === Ventende meldinger vil bli sendt!
+campaign_popup_descsmsstop === Ventende meldinger vil ikke bli sendt før du fortsetter!
+campaign_popup_descwaresume === Ventende chatter vil bli sendt!
+campaign_popup_descwastop === Ventende chatter vil ikke bli sendt før du gjenopptar!
+tabs_smspage_queuebtn === Kø
+tabs_wapage_queuebtn === Kø
+tabs_smspage_queuetitle === SMS-kø
+tabs_wapage_queuetitle === WhatsApp-kø
+tables_wabtn_downloadattach === Last ned vedlegg
+app_response_devicealreadylinkednew === Denne enheten var allerede koblet til en annen konto med e-post: _8880_
+app_response_devicealreadylinkedunablenew === Vi kan ikke fullføre forespørselen din. Denne enheten var allerede koblet til en annen konto med e-post: _8880_
+plugin_mpg_popuppayumoneymobilenumber === Mobilnummer
+plugin_mpg_payumoneymobilerequired === Mobilnummer kreves for PayUMoney!
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ er nå koblet til!
+whatsapp_accountlink_linkadevicebtn === Koble til en enhet

@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === Problème connu
 form_wa_templatetype_knownissuedesc === Ce type de message WhatsApp ne s'affiche pas correctement sur iOS. L'application WhatsApp iOS affichera un message vide.
 app_response_devicealreadylinked === Cet appareil était déjà lié à un autre compte !
 app_response_devicealreadylinkedunable === Nous ne sommes pas en mesure de répondre à votre demande. Cet appareil était déjà lié à un autre compte !
+requests_response_subschedmaxreached === Vous avez atteint le nombre maximum autorisé de SMS et de chats WhatsApp programmés pour votre forfait !
+requests_response_subactionsmaxreached === Vous avez atteint le nombre maximum autorisé d'actions SMS et d'actions WhatsApp pour votre forfait !
+response_hook_added2 === L'action de crochet a été ajoutée !
+response_webhook_added2 === Webhook a été ajouté !
+template_administration_wablocktitle === Whatsapp
+template_administration_wablocknotconfig === Pas configuré
+template_administration_wablockonline === En ligne
+template_administration_wablockoffline === Hors ligne
+template_administration_wablockstatus === Statut:
+app_intro_level_8new === Il s'agit du bouton d'action flottant, vous pouvez accéder à certaines options et pages supplémentaires telles que Exécuter en arrière-plan ici.
+app_intro_done_btn === Fait
+form_spintaxsample_main === Tom est un chat _8880_
+form_spintaxsample_bad === mal
+form_spintaxsample_good === bien
+forms_whatsapp_typedoc === Document
+forms_whatsapp_docfile === Fichier de documents
+forms_whatsapp_docfilehelp === Fichier de document, le fichier de document à télécharger. Prend en charge les fichiers .pdf, .xls, .xlsx, .doc et .docx.
+table_androidver_13 === Android 13
+campaign_popup_titleresume === Reprendre la campagne ?
+campaign_popup_titlestop === Suspendre la campagne ?
+campaign_popup_descsmsresume === Les messages en attente seront envoyés !
+campaign_popup_descsmsstop === Les messages en attente ne seront pas envoyés tant que vous ne reprendrez pas !
+campaign_popup_descwaresume === Les discussions en attente seront envoyées !
+campaign_popup_descwastop === Les discussions en attente ne seront pas envoyées tant que vous n'aurez pas repris !
+tabs_smspage_queuebtn === File d'attente
+tabs_wapage_queuebtn === File d'attente
+tabs_smspage_queuetitle === File d'attente SMS
+tabs_wapage_queuetitle === File d'attente WhatsApp
+tables_wabtn_downloadattach === Télécharger la pièce jointe
+app_response_devicealreadylinkednew === Cet appareil était déjà lié à un autre compte avec l'e-mail : _8880_
+app_response_devicealreadylinkedunablenew === Nous ne sommes pas en mesure de répondre à votre demande. Cet appareil était déjà lié à un autre compte avec l'e-mail : _8880_
+plugin_mpg_popuppayumoneymobilenumber === Numéro de portable
+plugin_mpg_payumoneymobilerequired === Le numéro de téléphone portable est requis pour PayUMoney !
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ est désormais connecté !
+whatsapp_accountlink_linkadevicebtn === Associer un appareil

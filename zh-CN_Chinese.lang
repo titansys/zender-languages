@@ -2605,3 +2605,38 @@ form_wa_templatetype_knownissue === 已知问题
 form_wa_templatetype_knownissuedesc === 此类 WhatsApp 消息无法在 iOS 上正确显示。 WhatsApp iOS 应用程序将显示一条空白消息。
 app_response_devicealreadylinked === 此设备已与另一个帐户关联！
 app_response_devicealreadylinkedunable === 我们无法完成您的请求。此设备已与另一个帐户关联！
+requests_response_subschedmaxreached === 您的包裹已达到预定 SMS 和 WhatsApp 聊天的最大允许数量！
+requests_response_subactionsmaxreached === 您的包裹已达到允许的 SMS 操作和 WhatsApp 操作的最大数量！
+response_hook_added2 === 添加了钩子动作！
+response_webhook_added2 === 已添加 Webhook！
+template_administration_wablocktitle === WhatsApp
+template_administration_wablocknotconfig === 未配置
+template_administration_wablockonline === 在线的
+template_administration_wablockoffline === 离线
+template_administration_wablockstatus === 地位：
+app_intro_level_8new === 这是浮动操作按钮，您可以在此处访问一些选项和其他页面，例如在后台运行。
+app_intro_done_btn === 完毕
+form_spintaxsample_main === 汤姆是_8880_猫
+form_spintaxsample_bad === 坏的
+form_spintaxsample_good === 好的
+forms_whatsapp_typedoc === 文档
+forms_whatsapp_docfile === 文件文件
+forms_whatsapp_docfilehelp === 文档文件，要上传的文档文件。支持 .pdf、.xls、.xlsx、.doc 和 .docx 文件。
+table_androidver_13 === 安卓 13
+campaign_popup_titleresume === 恢复活动？
+campaign_popup_titlestop === 暂停广告系列？
+campaign_popup_descsmsresume === 待处理的消息将被发送！
+campaign_popup_descsmsstop === 在您恢复之前，不会发送待处理的消息！
+campaign_popup_descwaresume === 待处理的聊天将被发送！
+campaign_popup_descwastop === 在您恢复之前，不会发送待处理的聊天！
+tabs_smspage_queuebtn === 队列
+tabs_wapage_queuebtn === 队列
+tabs_smspage_queuetitle === 短信队列
+tabs_wapage_queuetitle === WhatsApp 队列
+tables_wabtn_downloadattach === 下载附件
+app_response_devicealreadylinkednew === 此设备已通过电子邮件链接到另一个帐户：_8880_
+app_response_devicealreadylinkedunablenew === 我们无法完成您的请求。此设备已通过电子邮件链接到另一个帐户：_8880_
+plugin_mpg_popuppayumoneymobilenumber === 手机号码
+plugin_mpg_payumoneymobilerequired === PayUMoney需要手机号码！
+whatsapp_accountlink_notifymessage === WhatsApp _8880_ 现已连接！
+whatsapp_accountlink_linkadevicebtn === 链接设备

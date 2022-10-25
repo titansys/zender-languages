@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === Mobil szám
 plugin_mpg_payumoneymobilerequired === A PayUMoney használatához mobilszám szükséges!
 whatsapp_accountlink_notifymessage === A WhatsApp _8880_ csatlakoztatva van!
 whatsapp_accountlink_linkadevicebtn === Kapcsoljon össze egy eszközt
+response_whatsapp_invaldocumenfile === Érvénytelen dokumentumfájl!

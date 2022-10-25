@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === Cep numarası
 plugin_mpg_payumoneymobilerequired === PayUMoney için cep telefonu numarası gereklidir!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ artık bağlandı!
 whatsapp_accountlink_linkadevicebtn === Bir cihazı bağla
+response_whatsapp_invaldocumenfile === Geçersiz Belge Dosyası!

@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === Numero di cellulare
 plugin_mpg_payumoneymobilerequired === Il numero di cellulare è richiesto per PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ è ora connesso!
 whatsapp_accountlink_linkadevicebtn === Collega un dispositivo
+response_whatsapp_invaldocumenfile === File documento non valido!

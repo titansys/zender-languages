@@ -33,3 +33,4 @@ plugin_mpg_popuppayumoneymobilenumber === Mobile Number
 plugin_mpg_payumoneymobilerequired === Mobile number is required for PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ is now connected!
 whatsapp_accountlink_linkadevicebtn === Link a device
+response_whatsapp_invaldocumenfile === Invalid Document File!

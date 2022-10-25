@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === 携帯電話番号
 plugin_mpg_payumoneymobilerequired === PayUMoneyには携帯電話番号が必要です！
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ が接続されました!
 whatsapp_accountlink_linkadevicebtn === デバイスをリンクする
+response_whatsapp_invaldocumenfile === ドキュメント ファイルが無効です。

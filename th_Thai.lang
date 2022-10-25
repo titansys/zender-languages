@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === เบอร์มือถือ
 plugin_mpg_payumoneymobilerequired === ต้องใช้หมายเลขโทรศัพท์มือถือสำหรับ PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ เชื่อมต่อแล้ว!
 whatsapp_accountlink_linkadevicebtn === เชื่อมโยงอุปกรณ์
+response_whatsapp_invaldocumenfile === ไฟล์เอกสารไม่ถูกต้อง!

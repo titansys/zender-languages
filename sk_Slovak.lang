@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === Telefónne číslo
 plugin_mpg_payumoneymobilerequired === Pre PayUMoney je potrebné mobilné číslo!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ je teraz pripojený!
 whatsapp_accountlink_linkadevicebtn === Prepojte zariadenie
+response_whatsapp_invaldocumenfile === Neplatný súbor dokumentu!

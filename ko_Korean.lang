@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === 휴대폰 번호
 plugin_mpg_payumoneymobilerequired === PayUMoney는 휴대폰 번호가 필요합니다!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_이(가) 연결되었습니다!
 whatsapp_accountlink_linkadevicebtn === 장치 연결
+response_whatsapp_invaldocumenfile === 잘못된 문서 파일입니다!

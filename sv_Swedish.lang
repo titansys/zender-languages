@@ -2640,3 +2640,4 @@ plugin_mpg_popuppayumoneymobilenumber === Mobilnummer
 plugin_mpg_payumoneymobilerequired === Mobilnummer krävs för PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ är nu ansluten!
 whatsapp_accountlink_linkadevicebtn === Länka en enhet
+response_whatsapp_invaldocumenfile === Ogiltig dokumentfil!

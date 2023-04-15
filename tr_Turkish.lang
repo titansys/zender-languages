@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === PayUMoney için cep telefonu numarası ge
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ artık bağlandı!
 whatsapp_accountlink_linkadevicebtn === Bir cihazı bağla
 response_whatsapp_invaldocumenfile === Geçersiz Belge Dosyası!
+app_gateway_started_msg === Ağ geçidi başlatıldı. Optimum performans için lütfen uygulamayı açık ve belleği kilitli tutun.
+app_gateway_ussd_accessibility === USSD isteklerini göndermek için, uygulama için Erişilebilirlik İznini etkinleştirmelisiniz.
+table_btn_refresh === Yenile

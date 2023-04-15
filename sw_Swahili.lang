@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === Nambari ya simu inahitajika kwa PayUMoney
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ sasa imeunganishwa!
 whatsapp_accountlink_linkadevicebtn === Unganisha kifaa
 response_whatsapp_invaldocumenfile === Faili ya Hati Batili!
+app_gateway_started_msg === Gateway imeanzishwa. Tafadhali weka programu wazi na kumbukumbu imefungwa kwa utendakazi bora.
+app_gateway_ussd_accessibility === Ili kutuma maombi ya USSD, ni lazima uwashe Ruhusa ya Ufikivu kwa programu.
+table_btn_refresh === Onyesha upya

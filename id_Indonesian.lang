@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === Nomor ponsel diperlukan untuk PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ sekarang terhubung!
 whatsapp_accountlink_linkadevicebtn === Tautkan perangkat
 response_whatsapp_invaldocumenfile === Berkas Dokumen Tidak Valid!
+app_gateway_started_msg === Gerbang telah dimulai. Harap biarkan aplikasi tetap terbuka dan memori terkunci untuk kinerja yang optimal.
+app_gateway_ussd_accessibility === Untuk mengirim permintaan USSD, Anda harus mengaktifkan Izin Aksesibilitas untuk aplikasi tersebut.
+table_btn_refresh === Menyegarkan

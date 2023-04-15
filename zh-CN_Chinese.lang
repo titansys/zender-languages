@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === PayUMoney需要手机号码！
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ 现已连接！
 whatsapp_accountlink_linkadevicebtn === 链接设备
 response_whatsapp_invaldocumenfile === 无效的文档文件！
+app_gateway_started_msg === 网关已启动。请保持应用程序打开并锁定内存以获得最佳性能。
+app_gateway_ussd_accessibility === 要发送 USSD 请求，您必须为该应用启用辅助功能权限。
+table_btn_refresh === 刷新

@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === A PayUMoney használatához mobilszám sz
 whatsapp_accountlink_notifymessage === A WhatsApp _8880_ csatlakoztatva van!
 whatsapp_accountlink_linkadevicebtn === Kapcsoljon össze egy eszközt
 response_whatsapp_invaldocumenfile === Érvénytelen dokumentumfájl!
+app_gateway_started_msg === Az átjáró elindult. Az optimális teljesítmény érdekében tartsa nyitva az alkalmazást és zárolja a memóriát.
+app_gateway_ussd_accessibility === USSD-kérések küldéséhez engedélyeznie kell az alkalmazáshoz a kisegítő lehetőségeket.
+table_btn_refresh === Frissítés

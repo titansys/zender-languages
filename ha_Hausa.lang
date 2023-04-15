@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === Ana buƙatar lambar wayar hannu don PayUM
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ yanzu an haɗa!
 whatsapp_accountlink_linkadevicebtn === Haɗa na'ura
 response_whatsapp_invaldocumenfile === Fayil ɗin Takardu mara inganci!
+app_gateway_started_msg === An fara ƙofa. Da fatan za a ci gaba da buɗe app ɗin kuma a kulle ƙwaƙwalwar ajiya don kyakkyawan aiki.
+app_gateway_ussd_accessibility === Don aika buƙatun USSD, dole ne ku kunna Izinin Samun dama ga ƙa'idar.
+table_btn_refresh === Sake sabuntawa

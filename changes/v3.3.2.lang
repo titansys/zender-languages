@@ -1,0 +1,3 @@
+app_gateway_started_msg === Gateway has been started. Please keep the app open and memory locked for optimal performance.
+app_gateway_ussd_accessibility === To send USSD requests, you must enable Accessibility Permission for the app.
+table_btn_refresh === Refresh

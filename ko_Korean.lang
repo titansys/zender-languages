@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === PayUMoney는 휴대폰 번호가 필요�
 whatsapp_accountlink_notifymessage === WhatsApp _8880_이(가) 연결되었습니다!
 whatsapp_accountlink_linkadevicebtn === 장치 연결
 response_whatsapp_invaldocumenfile === 잘못된 문서 파일입니다!
+app_gateway_started_msg === 게이트웨이가 시작되었습니다. 최적의 성능을 위해 앱을 열어두고 메모리를 잠가두십시오.
+app_gateway_ussd_accessibility === USSD 요청을 보내려면 앱에 대한 접근성 권한을 활성화해야 합니다.
+table_btn_refresh === 새로 고치다

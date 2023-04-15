@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === Número de celular é necessário para Pa
 whatsapp_accountlink_notifymessage === O WhatsApp _8880_ agora está conectado!
 whatsapp_accountlink_linkadevicebtn === Vincular um dispositivo
 response_whatsapp_invaldocumenfile === Arquivo de documento inválido!
+app_gateway_started_msg === O gateway foi iniciado. Por favor, mantenha o aplicativo aberto e a memória bloqueada para desempenho ideal.
+app_gateway_ussd_accessibility === Para enviar solicitações USSD, você deve habilitar a permissão de acessibilidade para o aplicativo.
+table_btn_refresh === Atualizar

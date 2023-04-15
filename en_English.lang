@@ -2641,3 +2641,6 @@ plugin_mpg_payumoneymobilerequired === Mobile number is required for PayUMoney!
 whatsapp_accountlink_notifymessage === WhatsApp _8880_ is now connected!
 whatsapp_accountlink_linkadevicebtn === Link a device
 response_whatsapp_invaldocumenfile === Invalid Document File!
+app_gateway_started_msg === Gateway has been started. Please keep the app open and memory locked for optimal performance.
+app_gateway_ussd_accessibility === To send USSD requests, you must enable Accessibility Permission for the app.
+table_btn_refresh === Refresh

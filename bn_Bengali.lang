@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === অবৈধ নথি ফাইল!
 app_gateway_started_msg === গেটওয়ে চালু করা হয়েছে। অনুগ্রহ করে অ্যাপটি খোলা রাখুন এবং সর্বোত্তম কর্মক্ষমতার জন্য মেমরি লক করে রাখুন।
 app_gateway_ussd_accessibility === USSD অনুরোধ পাঠাতে, আপনাকে অ্যাপের জন্য অ্যাক্সেসিবিলিটি অনুমতি সক্ষম করতে হবে।
 table_btn_refresh === রিফ্রেশ
+table_whatsappaccount_relinktitle === হোয়াটসঅ্যাপ অ্যাকাউন্ট পুনরায় লিঙ্ক করুন
+table_whatsappaccount_relinkpopuptitle === অ্যাকাউন্ট পুনরায় লিঙ্ক করুন

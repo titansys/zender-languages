@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Fichier de document invalide !
 app_gateway_started_msg === La passerelle a été démarrée. Veuillez garder l'application ouverte et la mémoire verrouillée pour des performances optimales.
 app_gateway_ussd_accessibility === Pour envoyer des demandes USSD, vous devez activer l'autorisation d'accessibilité pour l'application.
 table_btn_refresh === Rafraîchir
+table_whatsappaccount_relinktitle === Relier le compte WhatsApp
+table_whatsappaccount_relinkpopuptitle === Relier le compte

@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Faili ya Hati Batili!
 app_gateway_started_msg === Gateway imeanzishwa. Tafadhali weka programu wazi na kumbukumbu imefungwa kwa utendakazi bora.
 app_gateway_ussd_accessibility === Ili kutuma maombi ya USSD, ni lazima uwashe Ruhusa ya Ufikivu kwa programu.
 table_btn_refresh === Onyesha upya
+table_whatsappaccount_relinktitle === Unganisha tena Akaunti ya WhatsApp
+table_whatsappaccount_relinkpopuptitle === Unganisha tena Akaunti

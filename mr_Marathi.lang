@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === अवैध दस्तऐवज फा
 app_gateway_started_msg === प्रवेशद्वार सुरू करण्यात आले आहे. इष्टतम कार्यप्रदर्शनासाठी कृपया अॅप उघडे ठेवा आणि मेमरी लॉक करा.
 app_gateway_ussd_accessibility === USSD विनंत्या पाठवण्यासाठी, तुम्ही अॅपसाठी प्रवेशयोग्यता परवानगी सक्षम करणे आवश्यक आहे.
 table_btn_refresh === रिफ्रेश करा
+table_whatsappaccount_relinktitle === WhatsApp खाते पुन्हा लिंक करा
+table_whatsappaccount_relinkpopuptitle === खाते पुन्हा लिंक करा

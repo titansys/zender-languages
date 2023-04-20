@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === קובץ מסמך לא חוקי!
 app_gateway_started_msg === השער הופעל. אנא השאר את האפליקציה פתוחה והזיכרון נעול לביצועים מיטביים.
 app_gateway_ussd_accessibility === כדי לשלוח בקשות USSD, עליך להפעיל את הרשאת נגישות עבור האפליקציה.
 table_btn_refresh === לְרַעֲנֵן
+table_whatsappaccount_relinktitle === קשר מחדש את חשבון WhatsApp
+table_whatsappaccount_relinkpopuptitle === קשר מחדש את החשבון

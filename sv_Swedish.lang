@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Ogiltig dokumentfil!
 app_gateway_started_msg === Gateway har startats. Håll appen öppen och minnet låst för optimal prestanda.
 app_gateway_ussd_accessibility === För att skicka USSD-förfrågningar måste du aktivera tillgänglighetsbehörighet för appen.
 table_btn_refresh === Uppdatera
+table_whatsappaccount_relinktitle === Länka WhatsApp-kontot igen
+table_whatsappaccount_relinkpopuptitle === Länka om kontot

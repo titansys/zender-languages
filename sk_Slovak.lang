@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Neplatný súbor dokumentu!
 app_gateway_started_msg === Brána bola spustená. Pre optimálny výkon nechajte aplikáciu otvorenú a pamäť uzamknutú.
 app_gateway_ussd_accessibility === Ak chcete odosielať požiadavky USSD, musíte pre aplikáciu povoliť povolenie na zjednodušenie ovládania.
 table_btn_refresh === Obnoviť
+table_whatsappaccount_relinktitle === Znova prepojte účet WhatsApp
+table_whatsappaccount_relinkpopuptitle === Znova prepojiť účet

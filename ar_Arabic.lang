@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === ملف مستند غير صالح!
 app_gateway_started_msg === تم بدء تشغيل البوابة. يرجى إبقاء التطبيق مفتوحًا والذاكرة مقفلة لتحقيق الأداء الأمثل.
 app_gateway_ussd_accessibility === لإرسال طلبات USSD ، يجب عليك تمكين إذن الوصول للتطبيق.
 table_btn_refresh === ينعش
+table_whatsappaccount_relinktitle === أعد ربط حساب WhatsApp
+table_whatsappaccount_relinkpopuptitle === إعادة ربط الحساب

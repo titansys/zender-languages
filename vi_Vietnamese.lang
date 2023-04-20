@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Tệp tài liệu không hợp lệ!
 app_gateway_started_msg === Cổng đã được bắt đầu. Hãy luôn mở ứng dụng và khóa bộ nhớ để có hiệu suất tối ưu.
 app_gateway_ussd_accessibility === Để gửi yêu cầu USSD, bạn phải bật Quyền truy cập cho ứng dụng.
 table_btn_refresh === Làm cho khỏe lại
+table_whatsappaccount_relinktitle === Liên kết lại tài khoản WhatsApp
+table_whatsappaccount_relinkpopuptitle === Liên kết lại tài khoản

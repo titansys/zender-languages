@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Ungültige Dokumentdatei!
 app_gateway_started_msg === Gateway wurde gestartet. Bitte lassen Sie die App geöffnet und den Speicher gesperrt, um eine optimale Leistung zu erzielen.
 app_gateway_ussd_accessibility === Um USSD-Anfragen zu senden, müssen Sie die Zugriffsberechtigung für die App aktivieren.
 table_btn_refresh === Aktualisierung
+table_whatsappaccount_relinktitle === WhatsApp-Konto erneut verknüpfen
+table_whatsappaccount_relinkpopuptitle === Konto erneut verknüpfen

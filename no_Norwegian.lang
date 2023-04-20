@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Ugyldig dokumentfil!
 app_gateway_started_msg === Gateway er startet. Hold appen åpen og minnet låst for optimal ytelse.
 app_gateway_ussd_accessibility === For å sende USSD-forespørsler må du aktivere tilgjengelighetstillatelse for appen.
 table_btn_refresh === Forfriske
+table_whatsappaccount_relinktitle === Koble WhatsApp-kontoen på nytt
+table_whatsappaccount_relinkpopuptitle === Koble kontoen på nytt

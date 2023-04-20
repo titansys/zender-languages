@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Fișier document nevalid!
 app_gateway_started_msg === Gateway-ul a fost pornit. Vă rugăm să păstrați aplicația deschisă și memoria blocată pentru performanțe optime.
 app_gateway_ussd_accessibility === Pentru a trimite solicitări USSD, trebuie să activați Permisiunea de accesibilitate pentru aplicație.
 table_btn_refresh === Reîmprospăta
+table_whatsappaccount_relinktitle === Reconectați contul WhatsApp
+table_whatsappaccount_relinkpopuptitle === Reconectați contul

@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Faili Iwe ti ko tọ!
 app_gateway_started_msg === Ẹnu-ọna ti bẹrẹ. Jọwọ jẹ ki ohun elo naa ṣii ati titiipa iranti fun iṣẹ ṣiṣe to dara julọ.
 app_gateway_ussd_accessibility === Lati fi awọn ibeere USSD ranṣẹ, o gbọdọ mu Gbigbanilaaye Wiwọle ṣiṣẹ fun ohun elo naa.
 table_btn_refresh === Tuntun
+table_whatsappaccount_relinktitle === Relink WhatsApp Account
+table_whatsappaccount_relinkpopuptitle === Relink Account

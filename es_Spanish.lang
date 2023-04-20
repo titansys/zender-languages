@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === ¡Archivo de documento no válido!
 app_gateway_started_msg === Se ha iniciado la puerta de enlace. Mantenga la aplicación abierta y la memoria bloqueada para un rendimiento óptimo.
 app_gateway_ussd_accessibility === Para enviar solicitudes de USSD, debe habilitar el permiso de accesibilidad para la aplicación.
 table_btn_refresh === Actualizar
+table_whatsappaccount_relinktitle === Vuelva a vincular la cuenta de WhatsApp
+table_whatsappaccount_relinkpopuptitle === Volver a vincular cuenta

@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Faịlụ akwụkwọ ezighi ezi!
 app_gateway_started_msg === ebidola ụzọ ámá. Biko dowe ngwa ghe oghe ma kpochiekwa ebe nchekwa maka ịrụ ọrụ kacha mma.
 app_gateway_ussd_accessibility === Iji zipu arịrịọ USSD, ị ga-emerịrị ikikere nnweta maka ngwa ahụ.
 table_btn_refresh === Weghachite ume
+table_whatsappaccount_relinktitle === Tinyegharịa akaụntụ WhatsApp
+table_whatsappaccount_relinkpopuptitle === Akaụntụ Relink

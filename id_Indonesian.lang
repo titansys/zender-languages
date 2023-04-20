@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Berkas Dokumen Tidak Valid!
 app_gateway_started_msg === Gerbang telah dimulai. Harap biarkan aplikasi tetap terbuka dan memori terkunci untuk kinerja yang optimal.
 app_gateway_ussd_accessibility === Untuk mengirim permintaan USSD, Anda harus mengaktifkan Izin Aksesibilitas untuk aplikasi tersebut.
 table_btn_refresh === Menyegarkan
+table_whatsappaccount_relinktitle === Tautkan ulang Akun WhatsApp
+table_whatsappaccount_relinkpopuptitle === Tautkan Ulang Akun

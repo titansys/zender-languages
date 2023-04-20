@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === File documento non valido!
 app_gateway_started_msg === Il gateway è stato avviato. Tieni l'app aperta e la memoria bloccata per prestazioni ottimali.
 app_gateway_ussd_accessibility === Per inviare richieste USSD, devi abilitare l'autorizzazione di accessibilità per l'app.
 table_btn_refresh === ricaricare
+table_whatsappaccount_relinktitle === Ricollega l'account WhatsApp
+table_whatsappaccount_relinkpopuptitle === Ricollega account

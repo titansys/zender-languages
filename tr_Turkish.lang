@@ -2644,3 +2644,5 @@ response_whatsapp_invaldocumenfile === Geçersiz Belge Dosyası!
 app_gateway_started_msg === Ağ geçidi başlatıldı. Optimum performans için lütfen uygulamayı açık ve belleği kilitli tutun.
 app_gateway_ussd_accessibility === USSD isteklerini göndermek için, uygulama için Erişilebilirlik İznini etkinleştirmelisiniz.
 table_btn_refresh === Yenile
+table_whatsappaccount_relinktitle === WhatsApp Hesabını Yeniden Bağla
+table_whatsappaccount_relinkpopuptitle === Hesabı Yeniden Bağla

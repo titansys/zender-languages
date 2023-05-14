@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === यूएसएसडी अनुरोध �
 table_btn_refresh === ताज़ा करना
 table_whatsappaccount_relinktitle === व्हाट्सएप अकाउंट को रिलिंक करें
 table_whatsappaccount_relinkpopuptitle === खाता पुनः लिंक करें
+table_wacampaigns_status_running === दौड़ना
+table_wacampaigns_status_paused === रोके गए
+table_wareceived_attachmentnomsg === कोई संदेश नहीं है
+form_waquicksend_prioritylabel === प्राथमिकता
+form_waquicksend_priorityhelp === अगर सक्षम है, तो संदेश तुरंत भेजा जाएगा। यह विकल्प केवल त्वरित चैट के लिए उपलब्ध है।
+requests_waquicksend_prioritysuccess === व्हाट्सएप चैट भेज दी गई है!
+requests_waquicksend_priorityfail === व्हाट्सएप चैट भेजने में विफल!

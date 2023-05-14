@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === USSD リクエストを送信するには、�
 table_btn_refresh === リフレッシュ
 table_whatsappaccount_relinktitle === WhatsAppアカウントを再リンク
 table_whatsappaccount_relinkpopuptitle === アカウントの再リンク
+table_wacampaigns_status_running === ランニング
+table_wacampaigns_status_paused === 一時停止中
+table_wareceived_attachmentnomsg === メッセージはありません
+form_waquicksend_prioritylabel === 優先順位
+form_waquicksend_priorityhelp === 有効にすると、メッセージはすぐに送信されます。このオプションはクイック チャットでのみ使用できます。
+requests_waquicksend_prioritysuccess === WhatsApp チャットが送信されました。
+requests_waquicksend_priorityfail === WhatsApp チャットの送信に失敗しました。

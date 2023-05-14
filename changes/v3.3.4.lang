@@ -1,0 +1,7 @@
+table_wacampaigns_status_running === Running
+table_wacampaigns_status_paused === Paused
+table_wareceived_attachmentnomsg === There's no message
+form_waquicksend_prioritylabel === Priority
+form_waquicksend_priorityhelp === If enabled, the message will be sent immediately. This option is only available for quick chat.
+requests_waquicksend_prioritysuccess === WhatsApp chat has been sent!
+requests_waquicksend_priorityfail === Failed sending WhatsApp chat!

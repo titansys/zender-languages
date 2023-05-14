@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Pentru a trimite solicitări USSD, trebuie s�
 table_btn_refresh === Reîmprospăta
 table_whatsappaccount_relinktitle === Reconectați contul WhatsApp
 table_whatsappaccount_relinkpopuptitle === Reconectați contul
+table_wacampaigns_status_running === Alergare
+table_wacampaigns_status_paused === Întrerupt
+table_wareceived_attachmentnomsg === Nu există niciun mesaj
+form_waquicksend_prioritylabel === Prioritate
+form_waquicksend_priorityhelp === Dacă este activat, mesajul va fi trimis imediat. Această opțiune este disponibilă numai pentru chat rapid.
+requests_waquicksend_prioritysuccess === Chat WhatsApp a fost trimis!
+requests_waquicksend_priorityfail === Trimiterea chat-ului WhatsApp eșuată!

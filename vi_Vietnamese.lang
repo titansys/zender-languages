@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Để gửi yêu cầu USSD, bạn phải b�
 table_btn_refresh === Làm cho khỏe lại
 table_whatsappaccount_relinktitle === Liên kết lại tài khoản WhatsApp
 table_whatsappaccount_relinkpopuptitle === Liên kết lại tài khoản
+table_wacampaigns_status_running === Đang chạy
+table_wacampaigns_status_paused === Đã tạm dừng
+table_wareceived_attachmentnomsg === không có tin nhắn
+form_waquicksend_prioritylabel === Sự ưu tiên
+form_waquicksend_priorityhelp === Nếu được kích hoạt, tin nhắn sẽ được gửi đi ngay lập tức. Tùy chọn này chỉ khả dụng cho trò chuyện nhanh.
+requests_waquicksend_prioritysuccess === Trò chuyện WhatsApp đã được gửi!
+requests_waquicksend_priorityfail === Không thể gửi trò chuyện WhatsApp!

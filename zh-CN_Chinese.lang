@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === 要发送 USSD 请求，您必须为该应用
 table_btn_refresh === 刷新
 table_whatsappaccount_relinktitle === 重新关联 WhatsApp 帐户
 table_whatsappaccount_relinkpopuptitle === 重新链接帐户
+table_wacampaigns_status_running === 跑步
+table_wacampaigns_status_paused === 暂停
+table_wareceived_attachmentnomsg === 没有消息
+form_waquicksend_prioritylabel === 优先事项
+form_waquicksend_priorityhelp === 如果启用，消息将立即发送。此选项仅适用于快速聊天。
+requests_waquicksend_prioritysuccess === WhatsApp 聊天已发送！
+requests_waquicksend_priorityfail === 发送 WhatsApp 聊天失败！

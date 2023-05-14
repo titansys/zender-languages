@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Ili kutuma maombi ya USSD, ni lazima uwashe R
 table_btn_refresh === Onyesha upya
 table_whatsappaccount_relinktitle === Unganisha tena Akaunti ya WhatsApp
 table_whatsappaccount_relinkpopuptitle === Unganisha tena Akaunti
+table_wacampaigns_status_running === Kimbia
+table_wacampaigns_status_paused === Imesitishwa
+table_wareceived_attachmentnomsg === Hakuna ujumbe
+form_waquicksend_prioritylabel === Kipaumbele
+form_waquicksend_priorityhelp === Ikiwashwa, ujumbe utatumwa mara moja. Chaguo hili linapatikana kwa gumzo la haraka pekee.
+requests_waquicksend_prioritysuccess === Gumzo la WhatsApp limetumwa!
+requests_waquicksend_priorityfail === Imeshindwa kutuma gumzo la WhatsApp!

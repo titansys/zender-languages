@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Да бисте послали УССД за�
 table_btn_refresh === Освјежи
 table_whatsappaccount_relinktitle === Поново повежите ВхатсАпп налог
 table_whatsappaccount_relinkpopuptitle === Поново повежите налог
+table_wacampaigns_status_running === Трчање
+table_wacampaigns_status_paused === Паузирано
+table_wareceived_attachmentnomsg === Нема поруке
+form_waquicksend_prioritylabel === Приоритет
+form_waquicksend_priorityhelp === Ако је омогућено, порука ће бити послата одмах. Ова опција је доступна само за брзо ћаскање.
+requests_waquicksend_prioritysuccess === ВхатсАпп ћаскање је послато!
+requests_waquicksend_priorityfail === Слање ВхатсАпп ћаскања није успело!

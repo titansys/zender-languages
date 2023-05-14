@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === لإرسال طلبات USSD ، يجب علي
 table_btn_refresh === ينعش
 table_whatsappaccount_relinktitle === أعد ربط حساب WhatsApp
 table_whatsappaccount_relinkpopuptitle === إعادة ربط الحساب
+table_wacampaigns_status_running === جري
+table_wacampaigns_status_paused === متوقف مؤقتًا
+table_wareceived_attachmentnomsg === لا توجد رسالة
+form_waquicksend_prioritylabel === أولوية
+form_waquicksend_priorityhelp === في حالة التمكين ، سيتم إرسال الرسالة على الفور. هذا الخيار متاح فقط للدردشة السريعة.
+requests_waquicksend_prioritysuccess === تم إرسال دردشة WhatsApp!
+requests_waquicksend_priorityfail === فشل إرسال دردشة WhatsApp!

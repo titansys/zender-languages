@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Untuk mengirim permintaan USSD, Anda harus me
 table_btn_refresh === Menyegarkan
 table_whatsappaccount_relinktitle === Tautkan ulang Akun WhatsApp
 table_whatsappaccount_relinkpopuptitle === Tautkan Ulang Akun
+table_wacampaigns_status_running === Berlari
+table_wacampaigns_status_paused === Dijeda
+table_wareceived_attachmentnomsg === Tidak ada pesan
+form_waquicksend_prioritylabel === Prioritas
+form_waquicksend_priorityhelp === Jika diaktifkan, pesan akan segera dikirim. Opsi ini hanya tersedia untuk obrolan cepat.
+requests_waquicksend_prioritysuccess === Obrolan WhatsApp telah dikirim!
+requests_waquicksend_priorityfail === Gagal mengirim obrolan WhatsApp!

@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Don aika buƙatun USSD, dole ne ku kunna Izin
 table_btn_refresh === Sake sabuntawa
 table_whatsappaccount_relinktitle === Relink WhatsApp Account
 table_whatsappaccount_relinkpopuptitle === Relink Account
+table_wacampaigns_status_running === Gudu
+table_wacampaigns_status_paused === An dakata
+table_wareceived_attachmentnomsg === Babu sako
+form_waquicksend_prioritylabel === fifiko
+form_waquicksend_priorityhelp === Idan an kunna, za a aika saƙon nan take. Wannan zaɓi yana samuwa kawai don hira mai sauri.
+requests_waquicksend_prioritysuccess === WhatsApp chat an aika!
+requests_waquicksend_priorityfail === An kasa aika hira ta WhatsApp!

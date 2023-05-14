@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === USSD isteklerini göndermek için, uygulama i
 table_btn_refresh === Yenile
 table_whatsappaccount_relinktitle === WhatsApp Hesabını Yeniden Bağla
 table_whatsappaccount_relinkpopuptitle === Hesabı Yeniden Bağla
+table_wacampaigns_status_running === Koşma
+table_wacampaigns_status_paused === duraklatıldı
+table_wareceived_attachmentnomsg === mesaj yok
+form_waquicksend_prioritylabel === Öncelik
+form_waquicksend_priorityhelp === Etkinleştirilirse, mesaj hemen gönderilir. Bu seçenek yalnızca hızlı sohbet için kullanılabilir.
+requests_waquicksend_prioritysuccess === WhatsApp sohbeti gönderildi!
+requests_waquicksend_priorityfail === WhatsApp sohbeti gönderilemedi!

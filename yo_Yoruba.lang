@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Lati fi awọn ibeere USSD ranṣẹ, o gbọ
 table_btn_refresh === Tuntun
 table_whatsappaccount_relinktitle === Relink WhatsApp Account
 table_whatsappaccount_relinkpopuptitle === Relink Account
+table_wacampaigns_status_running === Nṣiṣẹ
+table_wacampaigns_status_paused === Daduro
+table_wareceived_attachmentnomsg === Ko si ifiranṣẹ
+form_waquicksend_prioritylabel === Ni ayo
+form_waquicksend_priorityhelp === Ti o ba ṣiṣẹ, ifiranṣẹ naa yoo firanṣẹ lẹsẹkẹsẹ. Aṣayan yii wa fun iwiregbe iyara nikan.
+requests_waquicksend_prioritysuccess === WhatsApp iwiregbe ti a ti rán!
+requests_waquicksend_priorityfail === Ikuna fifiranṣẹ iwiregbe WhatsApp!

@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === För att skicka USSD-förfrågningar måste d
 table_btn_refresh === Uppdatera
 table_whatsappaccount_relinktitle === Länka WhatsApp-kontot igen
 table_whatsappaccount_relinkpopuptitle === Länka om kontot
+table_wacampaigns_status_running === Löpning
+table_wacampaigns_status_paused === Pausad
+table_wareceived_attachmentnomsg === Det finns inget meddelande
+form_waquicksend_prioritylabel === Prioritet
+form_waquicksend_priorityhelp === Om det är aktiverat kommer meddelandet att skickas omedelbart. Det här alternativet är endast tillgängligt för snabbchatt.
+requests_waquicksend_prioritysuccess === WhatsApp-chatt har skickats!
+requests_waquicksend_priorityfail === Det gick inte att skicka WhatsApp-chatt!

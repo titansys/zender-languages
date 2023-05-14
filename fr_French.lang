@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Pour envoyer des demandes USSD, vous devez ac
 table_btn_refresh === Rafraîchir
 table_whatsappaccount_relinktitle === Relier le compte WhatsApp
 table_whatsappaccount_relinkpopuptitle === Relier le compte
+table_wacampaigns_status_running === En cours
+table_wacampaigns_status_paused === En pause
+table_wareceived_attachmentnomsg === Il n'y a pas de message
+form_waquicksend_prioritylabel === Priorité
+form_waquicksend_priorityhelp === Si activé, le message sera envoyé immédiatement. Cette option n'est disponible que pour le chat rapide.
+requests_waquicksend_prioritysuccess === Le chat WhatsApp a été envoyé !
+requests_waquicksend_priorityfail === Échec de l'envoi du chat WhatsApp !

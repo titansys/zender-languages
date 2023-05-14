@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === For å sende USSD-forespørsler må du aktive
 table_btn_refresh === Forfriske
 table_whatsappaccount_relinktitle === Koble WhatsApp-kontoen på nytt
 table_whatsappaccount_relinkpopuptitle === Koble kontoen på nytt
+table_wacampaigns_status_running === Løping
+table_wacampaigns_status_paused === Pause
+table_wareceived_attachmentnomsg === Det er ingen melding
+form_waquicksend_prioritylabel === Prioritet
+form_waquicksend_priorityhelp === Hvis aktivert, vil meldingen bli sendt umiddelbart. Dette alternativet er kun tilgjengelig for rask chat.
+requests_waquicksend_prioritysuccess === WhatsApp chat er sendt!
+requests_waquicksend_priorityfail === Kunne ikke sende WhatsApp-chat!

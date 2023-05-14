@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === To send USSD requests, you must enable Access
 table_btn_refresh === Refresh
 table_whatsappaccount_relinktitle === Relink WhatsApp Account
 table_whatsappaccount_relinkpopuptitle === Relink Account
+table_wacampaigns_status_running === Running
+table_wacampaigns_status_paused === Paused
+table_wareceived_attachmentnomsg === There's no message
+form_waquicksend_prioritylabel === Priority
+form_waquicksend_priorityhelp === If enabled, the message will be sent immediately. This option is only available for quick chat.
+requests_waquicksend_prioritysuccess === WhatsApp chat has been sent!
+requests_waquicksend_priorityfail === Failed sending WhatsApp chat!

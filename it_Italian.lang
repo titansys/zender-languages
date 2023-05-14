@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Per inviare richieste USSD, devi abilitare l'
 table_btn_refresh === ricaricare
 table_whatsappaccount_relinktitle === Ricollega l'account WhatsApp
 table_whatsappaccount_relinkpopuptitle === Ricollega account
+table_wacampaigns_status_running === Corsa
+table_wacampaigns_status_paused === In pausa
+table_wareceived_attachmentnomsg === Non c'è nessun messaggio
+form_waquicksend_prioritylabel === Priorità
+form_waquicksend_priorityhelp === Se abilitato, il messaggio verrà inviato immediatamente. Questa opzione è disponibile solo per la chat veloce.
+requests_waquicksend_prioritysuccess === La chat di WhatsApp è stata inviata!
+requests_waquicksend_priorityfail === Impossibile inviare la chat di WhatsApp!

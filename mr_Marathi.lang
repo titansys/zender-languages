@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === USSD विनंत्या पाठवण
 table_btn_refresh === रिफ्रेश करा
 table_whatsappaccount_relinktitle === WhatsApp खाते पुन्हा लिंक करा
 table_whatsappaccount_relinkpopuptitle === खाते पुन्हा लिंक करा
+table_wacampaigns_status_running === धावत आहे
+table_wacampaigns_status_paused === विराम दिला
+table_wareceived_attachmentnomsg === कोणताही संदेश नाही
+form_waquicksend_prioritylabel === प्राधान्य
+form_waquicksend_priorityhelp === सक्षम असल्यास, संदेश त्वरित पाठविला जाईल. हा पर्याय फक्त द्रुत चॅटसाठी उपलब्ध आहे.
+requests_waquicksend_prioritysuccess === WhatsApp चॅट पाठवले आहे!
+requests_waquicksend_priorityfail === WhatsApp चॅट पाठवण्यात अयशस्वी!

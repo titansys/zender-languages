@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Um USSD-Anfragen zu senden, müssen Sie die Z
 table_btn_refresh === Aktualisierung
 table_whatsappaccount_relinktitle === WhatsApp-Konto erneut verknüpfen
 table_whatsappaccount_relinkpopuptitle === Konto erneut verknüpfen
+table_wacampaigns_status_running === Betrieb
+table_wacampaigns_status_paused === Angehalten
+table_wareceived_attachmentnomsg === Es gibt keine Nachricht
+form_waquicksend_prioritylabel === Priorität
+form_waquicksend_priorityhelp === Wenn aktiviert, wird die Nachricht sofort gesendet. Diese Option ist nur für den Schnellchat verfügbar.
+requests_waquicksend_prioritysuccess === WhatsApp-Chat wurde gesendet!
+requests_waquicksend_priorityfail === WhatsApp-Chat konnte nicht gesendet werden!

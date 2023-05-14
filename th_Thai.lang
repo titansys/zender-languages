@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === หากต้องการส่งคำ
 table_btn_refresh === รีเฟรช
 table_whatsappaccount_relinktitle === เชื่อมโยงบัญชี WhatsApp อีกครั้ง
 table_whatsappaccount_relinkpopuptitle === เชื่อมโยงบัญชีใหม่
+table_wacampaigns_status_running === วิ่ง
+table_wacampaigns_status_paused === หยุดชั่วคราว
+table_wareceived_attachmentnomsg === ไม่มีข้อความ
+form_waquicksend_prioritylabel === ลำดับความสำคัญ
+form_waquicksend_priorityhelp === หากเปิดใช้งานข้อความจะถูกส่งทันที ตัวเลือกนี้ใช้ได้สำหรับการแชทด่วนเท่านั้น
+requests_waquicksend_prioritysuccess === ส่งแชท WhatsApp แล้ว!
+requests_waquicksend_priorityfail === ส่งแชท WhatsApp ล้มเหลว!

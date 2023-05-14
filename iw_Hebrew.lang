@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === כדי לשלוח בקשות USSD, עליך �
 table_btn_refresh === לְרַעֲנֵן
 table_whatsappaccount_relinktitle === קשר מחדש את חשבון WhatsApp
 table_whatsappaccount_relinkpopuptitle === קשר מחדש את החשבון
+table_wacampaigns_status_running === רץ
+table_wacampaigns_status_paused === מושהה
+table_wareceived_attachmentnomsg === אין הודעה
+form_waquicksend_prioritylabel === עדיפות
+form_waquicksend_priorityhelp === אם מופעל, ההודעה תישלח מיד. אפשרות זו זמינה רק לצ'אט מהיר.
+requests_waquicksend_prioritysuccess === צ'אט וואטסאפ נשלח!
+requests_waquicksend_priorityfail === שליחת צ'אט WhatsApp נכשלה!

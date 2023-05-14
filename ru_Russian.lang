@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Чтобы отправлять USSD-запр
 table_btn_refresh === Обновить
 table_whatsappaccount_relinktitle === Повторно привязать аккаунт WhatsApp
 table_whatsappaccount_relinkpopuptitle === Повторно связать аккаунт
+table_wacampaigns_status_running === Бег
+table_wacampaigns_status_paused === Приостановлено
+table_wareceived_attachmentnomsg === Нет сообщения
+form_waquicksend_prioritylabel === приоритет
+form_waquicksend_priorityhelp === Если включено, сообщение будет отправлено немедленно. Эта опция доступна только для быстрого чата.
+requests_waquicksend_prioritysuccess === Чат WhatsApp отправлен!
+requests_waquicksend_priorityfail === Не удалось отправить чат WhatsApp!

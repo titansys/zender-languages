@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Ak chcete odosielať požiadavky USSD, musít
 table_btn_refresh === Obnoviť
 table_whatsappaccount_relinktitle === Znova prepojte účet WhatsApp
 table_whatsappaccount_relinkpopuptitle === Znova prepojiť účet
+table_wacampaigns_status_running === Beh
+table_wacampaigns_status_paused === Pozastavené
+table_wareceived_attachmentnomsg === Nie je tam žiadna správa
+form_waquicksend_prioritylabel === Priorita
+form_waquicksend_priorityhelp === Ak je aktivovaná, správa sa odošle okamžite. Táto možnosť je dostupná len pre rýchly rozhovor.
+requests_waquicksend_prioritysuccess === WhatsApp chat bol odoslaný!
+requests_waquicksend_priorityfail === Odoslanie chatu WhatsApp zlyhalo!

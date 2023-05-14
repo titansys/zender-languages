@@ -2646,3 +2646,10 @@ app_gateway_ussd_accessibility === Iji zipu arịrịọ USSD, ị ga-emerịr�
 table_btn_refresh === Weghachite ume
 table_whatsappaccount_relinktitle === Tinyegharịa akaụntụ WhatsApp
 table_whatsappaccount_relinkpopuptitle === Akaụntụ Relink
+table_wacampaigns_status_running === Na-agba ọsọ
+table_wacampaigns_status_paused === Akwụsịla
+table_wareceived_attachmentnomsg === Enweghị ozi
+form_waquicksend_prioritylabel === Ibu ụzọ
+form_waquicksend_priorityhelp === Ọ bụrụ na agbanyere ya, a ga-eziga ozi ozugbo. Nhọrọ a dị naanị maka nkata ngwa ngwa.
+requests_waquicksend_prioritysuccess === Ezipula nkata WhatsApp!
+requests_waquicksend_priorityfail === Izipu nkata WhatsApp agaghị eme!

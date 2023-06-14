@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Priority
 form_waquicksend_priorityhelp === If enabled, the message will be sent immediately. This option is only available for quick chat.
 requests_waquicksend_prioritysuccess === WhatsApp chat has been sent!
 requests_waquicksend_priorityfail === Failed sending WhatsApp chat!
+general_deprecated_msg === Deprecated
+response_gateway_randommax_new === Maximum send interval cannot be greater than 5000 seconds!
+response_unable_to_process_msg === Sorry, we are unable to process your message.

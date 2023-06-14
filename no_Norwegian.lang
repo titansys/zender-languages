@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Prioritet
 form_waquicksend_priorityhelp === Hvis aktivert, vil meldingen bli sendt umiddelbart. Dette alternativet er kun tilgjengelig for rask chat.
 requests_waquicksend_prioritysuccess === WhatsApp chat er sendt!
 requests_waquicksend_priorityfail === Kunne ikke sende WhatsApp-chat!
+general_deprecated_msg === Avviklet
+response_gateway_randommax_new === Maksimalt sendeintervall kan ikke være større enn 5000 sekunder!
+response_unable_to_process_msg === Beklager, vi kan ikke behandle meldingen din.

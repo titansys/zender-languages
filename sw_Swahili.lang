@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Kipaumbele
 form_waquicksend_priorityhelp === Ikiwashwa, ujumbe utatumwa mara moja. Chaguo hili linapatikana kwa gumzo la haraka pekee.
 requests_waquicksend_prioritysuccess === Gumzo la WhatsApp limetumwa!
 requests_waquicksend_priorityfail === Imeshindwa kutuma gumzo la WhatsApp!
+general_deprecated_msg === Imeacha kutumika
+response_gateway_randommax_new === Muda wa juu zaidi wa kutuma hauwezi kuwa zaidi ya sekunde 5000!
+response_unable_to_process_msg === Samahani, hatuwezi kuchakata ujumbe wako.

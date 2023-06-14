@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Kiemelten fontos
 form_waquicksend_priorityhelp === Ha engedélyezve van, az üzenet azonnal elküldésre kerül. Ez a lehetőség csak gyors csevegés esetén érhető el.
 requests_waquicksend_prioritysuccess === WhatsApp chat elküldve!
 requests_waquicksend_priorityfail === Nem sikerült elküldeni a WhatsApp-csevegést!
+general_deprecated_msg === Elavult
+response_gateway_randommax_new === A maximális küldési intervallum nem lehet több 5000 másodpercnél!
+response_unable_to_process_msg === Sajnáljuk, nem tudjuk feldolgozni üzenetét.

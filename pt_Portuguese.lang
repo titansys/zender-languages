@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Prioridade
 form_waquicksend_priorityhelp === Se ativado, a mensagem será enviada imediatamente. Esta opção está disponível apenas para bate-papo rápido.
 requests_waquicksend_prioritysuccess === A conversa do WhatsApp foi enviada!
 requests_waquicksend_priorityfail === Falha ao enviar o bate-papo do WhatsApp!
+general_deprecated_msg === Descontinuada
+response_gateway_randommax_new === O intervalo máximo de envio não pode ser superior a 5000 segundos!
+response_unable_to_process_msg === Desculpe, não podemos processar sua mensagem.

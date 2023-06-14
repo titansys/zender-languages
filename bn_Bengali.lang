@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === অগ্রাধিকার
 form_waquicksend_priorityhelp === সক্ষম হলে, বার্তাটি অবিলম্বে পাঠানো হবে৷ এই বিকল্পটি শুধুমাত্র দ্রুত চ্যাটের জন্য উপলব্ধ।
 requests_waquicksend_prioritysuccess === হোয়াটসঅ্যাপ চ্যাট পাঠানো হয়েছে!
 requests_waquicksend_priorityfail === হোয়াটসঅ্যাপ চ্যাট পাঠাতে ব্যর্থ!
+general_deprecated_msg === অবচয়
+response_gateway_randommax_new === সর্বাধিক প্রেরণ ব্যবধান 5000 সেকেন্ডের বেশি হতে পারে না!
+response_unable_to_process_msg === দুঃখিত, আমরা আপনার বার্তা প্রক্রিয়া করতে অক্ষম.

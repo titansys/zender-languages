@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Prioritate
 form_waquicksend_priorityhelp === Dacă este activat, mesajul va fi trimis imediat. Această opțiune este disponibilă numai pentru chat rapid.
 requests_waquicksend_prioritysuccess === Chat WhatsApp a fost trimis!
 requests_waquicksend_priorityfail === Trimiterea chat-ului WhatsApp eșuată!
+general_deprecated_msg === Depreciat
+response_gateway_randommax_new === Intervalul maxim de trimitere nu poate fi mai mare de 5000 de secunde!
+response_unable_to_process_msg === Ne pare rău, nu putem procesa mesajul dvs.

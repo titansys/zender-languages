@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === fifiko
 form_waquicksend_priorityhelp === Idan an kunna, za a aika saƙon nan take. Wannan zaɓi yana samuwa kawai don hira mai sauri.
 requests_waquicksend_prioritysuccess === WhatsApp chat an aika!
 requests_waquicksend_priorityfail === An kasa aika hira ta WhatsApp!
+general_deprecated_msg === Ya ƙare
+response_gateway_randommax_new === Matsakaicin tazarar aika ba zai iya zama sama da daƙiƙa 5000 ba!
+response_unable_to_process_msg === Yi haƙuri, ba za mu iya aiwatar da saƙonku ba.

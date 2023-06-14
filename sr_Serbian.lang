@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Приоритет
 form_waquicksend_priorityhelp === Ако је омогућено, порука ће бити послата одмах. Ова опција је доступна само за брзо ћаскање.
 requests_waquicksend_prioritysuccess === ВхатсАпп ћаскање је послато!
 requests_waquicksend_priorityfail === Слање ВхатсАпп ћаскања није успело!
+general_deprecated_msg === Застарела
+response_gateway_randommax_new === Максимални интервал слања не може бити већи од 5000 секунди!
+response_unable_to_process_msg === Жао нам је, нисмо у могућности да обрадимо вашу поруку.

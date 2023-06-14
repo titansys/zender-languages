@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Sự ưu tiên
 form_waquicksend_priorityhelp === Nếu được kích hoạt, tin nhắn sẽ được gửi đi ngay lập tức. Tùy chọn này chỉ khả dụng cho trò chuyện nhanh.
 requests_waquicksend_prioritysuccess === Trò chuyện WhatsApp đã được gửi!
 requests_waquicksend_priorityfail === Không thể gửi trò chuyện WhatsApp!
+general_deprecated_msg === không dùng nữa
+response_gateway_randommax_new === Khoảng thời gian gửi tối đa không thể lớn hơn 5000 giây!
+response_unable_to_process_msg === Xin lỗi, chúng tôi không thể xử lý tin nhắn của bạn.

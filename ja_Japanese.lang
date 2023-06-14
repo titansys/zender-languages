@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === 優先順位
 form_waquicksend_priorityhelp === 有効にすると、メッセージはすぐに送信されます。このオプションはクイック チャットでのみ使用できます。
 requests_waquicksend_prioritysuccess === WhatsApp チャットが送信されました。
 requests_waquicksend_priorityfail === WhatsApp チャットの送信に失敗しました。
+general_deprecated_msg === 廃止されました
+response_gateway_randommax_new === 最大送信間隔は 5000 秒を超えることはできません。
+response_unable_to_process_msg === 申し訳ございませんが、メッセージを処理できません。

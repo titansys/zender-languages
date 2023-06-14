@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === 우선 사항
 form_waquicksend_priorityhelp === 활성화되면 메시지가 즉시 전송됩니다. 이 옵션은 빠른 채팅에만 사용할 수 있습니다.
 requests_waquicksend_prioritysuccess === WhatsApp 채팅이 전송되었습니다!
 requests_waquicksend_priorityfail === WhatsApp 채팅을 보내지 못했습니다!
+general_deprecated_msg === 더 이상 사용되지 않음
+response_gateway_randommax_new === 최대 전송 간격은 5000초를 초과할 수 없습니다!
+response_unable_to_process_msg === 죄송합니다. 메시지를 처리할 수 없습니다.

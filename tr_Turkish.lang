@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Öncelik
 form_waquicksend_priorityhelp === Etkinleştirilirse, mesaj hemen gönderilir. Bu seçenek yalnızca hızlı sohbet için kullanılabilir.
 requests_waquicksend_prioritysuccess === WhatsApp sohbeti gönderildi!
 requests_waquicksend_priorityfail === WhatsApp sohbeti gönderilemedi!
+general_deprecated_msg === Kullanımdan kaldırıldı
+response_gateway_randommax_new === Maksimum gönderme aralığı 5000 saniyeden fazla olamaz!
+response_unable_to_process_msg === Üzgünüz, mesajınızı işleme alamıyoruz.

@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === أولوية
 form_waquicksend_priorityhelp === في حالة التمكين ، سيتم إرسال الرسالة على الفور. هذا الخيار متاح فقط للدردشة السريعة.
 requests_waquicksend_prioritysuccess === تم إرسال دردشة WhatsApp!
 requests_waquicksend_priorityfail === فشل إرسال دردشة WhatsApp!
+general_deprecated_msg === إهمال
+response_gateway_randommax_new === لا يمكن أن يكون الحد الأقصى لفاصل الإرسال أكبر من 5000 ثانية!
+response_unable_to_process_msg === عذرا ، نحن غير قادرين على معالجة رسالتك.

@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Ibu ụzọ
 form_waquicksend_priorityhelp === Ọ bụrụ na agbanyere ya, a ga-eziga ozi ozugbo. Nhọrọ a dị naanị maka nkata ngwa ngwa.
 requests_waquicksend_prioritysuccess === Ezipula nkata WhatsApp!
 requests_waquicksend_priorityfail === Izipu nkata WhatsApp agaghị eme!
+general_deprecated_msg === Akwụsịla
+response_gateway_randommax_new === Ogologo oge izipu kachasị enweghị ike karịa 5000 sekọnd!
+response_unable_to_process_msg === Ndo, anyị enweghị ike hazie ozi gị.

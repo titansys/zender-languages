@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Ni ayo
 form_waquicksend_priorityhelp === Ti o ba ṣiṣẹ, ifiranṣẹ naa yoo firanṣẹ lẹsẹkẹsẹ. Aṣayan yii wa fun iwiregbe iyara nikan.
 requests_waquicksend_prioritysuccess === WhatsApp iwiregbe ti a ti rán!
 requests_waquicksend_priorityfail === Ikuna fifiranṣẹ iwiregbe WhatsApp!
+general_deprecated_msg === Idinku
+response_gateway_randommax_new === Aarin fifiranṣẹ ti o pọju ko le tobi ju awọn aaya 5000 lọ!
+response_unable_to_process_msg === Ma binu, a ko le ṣe ilana ifiranṣẹ rẹ.

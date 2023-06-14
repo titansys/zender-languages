@@ -2653,3 +2653,6 @@ form_waquicksend_prioritylabel === Priorita
 form_waquicksend_priorityhelp === Ak je aktivovaná, správa sa odošle okamžite. Táto možnosť je dostupná len pre rýchly rozhovor.
 requests_waquicksend_prioritysuccess === WhatsApp chat bol odoslaný!
 requests_waquicksend_priorityfail === Odoslanie chatu WhatsApp zlyhalo!
+general_deprecated_msg === Zastarané
+response_gateway_randommax_new === Maximálny interval odosielania nemôže byť väčší ako 5000 sekúnd!
+response_unable_to_process_msg === Ľutujeme, vašu správu nemôžeme spracovať.

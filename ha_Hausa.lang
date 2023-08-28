@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === An kasa aika hira ta WhatsApp!
 general_deprecated_msg === Ya ƙare
 response_gateway_randommax_new === Matsakaicin tazarar aika ba zai iya zama sama da daƙiƙa 5000 ba!
 response_unable_to_process_msg === Yi haƙuri, ba za mu iya aiwatar da saƙonku ba.
+wa_bulk_selec_acc_unconnected === Ba a haɗa asusun WhatsApp da aka zaɓa!
+wa_accnts_copy_unique_id_btn === Kwafi ID na Musamman
+wa_groups_btn_copy_group_addr === Kwafi Adireshin Ƙungiya
+wa_message_type_placeholder_audio === Babu don saƙonnin odiyo!
+js_wa_form_audiotype_entermsg === Shigar da sakon ku a nan...
+js_wa_form_audionotavail_disinput === Babu don saƙonnin odiyo!
+response_select_newdoc_file_38 === Da fatan za a loda wani fayil ɗin takarda!
+response_select_newmed_file_38 === Da fatan za a loda wani fayil ɗin mai jarida!
+form_autoreply_modal_widget_matchtype === Nau'in Daidaitawa
+form_autoreply_modal_widget_matchtype_desc === Nau'in daidaitawa don amfani don gano kalmomin shiga.
+form_autoreply_modal_widget_matchtype_sel1 === Daidai (Case Insensitive)
+form_autoreply_modal_widget_matchtype_sel2 === Daidai (Case Sensitive)
+form_autoreply_modal_widget_matchtype_sel3 === Ya Kunshi Mahimman kalmomi
+form_autoreply_modal_widget_matchtype_sel4 === Magana akai-akai
+form_autoreply_modal_widget_devicedesc_38 === Zaɓi na'urar da kake son amfani da ita don tayar da amsa.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Zaɓi ramin sim ɗin da kake son amfani da shi don tayar da amsa.
+form_autoreply_modal_widget_waaccount_38_desc === Zaɓi asusun WhatsApp da kake son amfani da shi don jawo amsa.
+form_autoreply_modal_widget_priority_38 === fifiko
+form_autoreply_modal_widget_priority_38_desc === Idan an kunna, za a aika saƙon kai tsaye ta uwar garken WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Tasiri
+form_autoreply_modal_widget_trigger_38_desc === Zaɓuɓɓuka ko saitin kalmomin da aka raba ta waƙafi don amfani da su don haifar da amsa ta atomatik.
+table_toolsautoreply_account38 === Asusu: _8880_
+table_toolsautoreply_device38 === Na'ura: _8880_
+forms_whatsapp_mediafilehelp38 === Fayil mai jarida, fayil ɗin mai jarida da za a loda. Yana goyan bayan fayilolin .jpg, .png, .gif, .mp4, .mp3 da .ogg.

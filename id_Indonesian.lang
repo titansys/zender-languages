@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Gagal mengirim obrolan WhatsApp!
 general_deprecated_msg === Tidak digunakan lagi
 response_gateway_randommax_new === Interval pengiriman maksimum tidak boleh lebih dari 5000 detik!
 response_unable_to_process_msg === Maaf, kami tidak dapat memproses pesan Anda.
+wa_bulk_selec_acc_unconnected === Akun WhatsApp yang dipilih tidak terhubung!
+wa_accnts_copy_unique_id_btn === Salin ID Unik
+wa_groups_btn_copy_group_addr === Salin Alamat Grup
+wa_message_type_placeholder_audio === Tidak tersedia untuk pesan audio!
+js_wa_form_audiotype_entermsg === Masukkan pesan Anda di sini...
+js_wa_form_audionotavail_disinput === Tidak tersedia untuk pesan audio!
+response_select_newdoc_file_38 === Silakan unggah file dokumen lain!
+response_select_newmed_file_38 === Silakan unggah file media lain!
+form_autoreply_modal_widget_matchtype === Jenis Pencocokan
+form_autoreply_modal_widget_matchtype_desc === Jenis pencocokan yang digunakan untuk mendeteksi kata kunci.
+form_autoreply_modal_widget_matchtype_sel1 === Tepat (Tidak Peka Huruf Besar-kecil)
+form_autoreply_modal_widget_matchtype_sel2 === Tepat (Peka Huruf Besar-kecil)
+form_autoreply_modal_widget_matchtype_sel3 === Berisi Kata Kunci
+form_autoreply_modal_widget_matchtype_sel4 === Ekspresi Reguler
+form_autoreply_modal_widget_devicedesc_38 === Pilih perangkat yang ingin Anda gunakan untuk memicu balasan.
+form_autoreply_modal_widget_simslot_38 === Slot Sim
+form_autoreply_modal_widget_simslot_38_desc === Pilih slot sim yang ingin Anda gunakan untuk memicu balasan.
+form_autoreply_modal_widget_waaccount_38_desc === Pilih akun WhatsApp yang ingin Anda gunakan untuk memicu balasan.
+form_autoreply_modal_widget_priority_38 === Prioritas
+form_autoreply_modal_widget_priority_38_desc === Jika diaktifkan, pesan akan dikirim langsung oleh server WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Pemicu
+form_autoreply_modal_widget_trigger_38_desc === String atau kumpulan kata kunci yang dipisahkan dengan koma digunakan untuk memicu balasan otomatis.
+table_toolsautoreply_account38 === Akun: _8880_
+table_toolsautoreply_device38 === Perangkat: _8880_
+forms_whatsapp_mediafilehelp38 === File media, file media yang akan diupload. Mendukung file .jpg, .png, .gif, .mp4, .mp3 dan .ogg.

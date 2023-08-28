@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === WhatsApp チャットの送信に失敗し
 general_deprecated_msg === 廃止されました
 response_gateway_randommax_new === 最大送信間隔は 5000 秒を超えることはできません。
 response_unable_to_process_msg === 申し訳ございませんが、メッセージを処理できません。
+wa_bulk_selec_acc_unconnected === 選択した WhatsApp アカウントが接続されていません。
+wa_accnts_copy_unique_id_btn === 固有のIDをコピーする
+wa_groups_btn_copy_group_addr === グループアドレスをコピーする
+wa_message_type_placeholder_audio === 音声メッセージには使用できません。
+js_wa_form_audiotype_entermsg === ここにメッセージを入力してください...
+js_wa_form_audionotavail_disinput === 音声メッセージには使用できません。
+response_select_newdoc_file_38 === 別のドキュメント ファイルをアップロードしてください。
+response_select_newmed_file_38 === 別のメディア ファイルをアップロードしてください。
+form_autoreply_modal_widget_matchtype === マッチタイプ
+form_autoreply_modal_widget_matchtype_desc === キーワードの検出に使用する一致タイプ。
+form_autoreply_modal_widget_matchtype_sel1 === 正確 (大文字と小文字を区別しない)
+form_autoreply_modal_widget_matchtype_sel2 === 正確 (大文字と小文字を区別)
+form_autoreply_modal_widget_matchtype_sel3 === キーワードが含まれています
+form_autoreply_modal_widget_matchtype_sel4 === 正規表現
+form_autoreply_modal_widget_devicedesc_38 === 応答のトリガーに使用するデバイスを選択します。
+form_autoreply_modal_widget_simslot_38 === シムスロット
+form_autoreply_modal_widget_simslot_38_desc === 応答のトリガーに使用する SIM スロットを選択します。
+form_autoreply_modal_widget_waaccount_38_desc === 返信をトリガーするために使用する WhatsApp アカウントを選択します。
+form_autoreply_modal_widget_priority_38 === 優先度
+form_autoreply_modal_widget_priority_38_desc === 有効にすると、メッセージは WhatsApp サーバーから直接送信されます。
+form_autoreply_modal_widget_trigger_38 === 引き金
+form_autoreply_modal_widget_trigger_38_desc === 自動応答をトリガーするために使用する文字列またはカンマで区切られたキーワードのセット。
+table_toolsautoreply_account38 === アカウント: _8880_
+table_toolsautoreply_device38 === デバイス: _8880_
+forms_whatsapp_mediafilehelp38 === メディア ファイル、アップロードするメディア ファイル。 .jpg、.png、.gif、.mp4、.mp3、.ogg ファイルをサポートします。

@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Imeshindwa kutuma gumzo la WhatsApp!
 general_deprecated_msg === Imeacha kutumika
 response_gateway_randommax_new === Muda wa juu zaidi wa kutuma hauwezi kuwa zaidi ya sekunde 5000!
 response_unable_to_process_msg === Samahani, hatuwezi kuchakata ujumbe wako.
+wa_bulk_selec_acc_unconnected === Akaunti ulizochagua za WhatsApp hazijaunganishwa!
+wa_accnts_copy_unique_id_btn === Nakili Kitambulisho cha Kipekee
+wa_groups_btn_copy_group_addr === Nakili Anwani ya Kikundi
+wa_message_type_placeholder_audio === Haipatikani kwa ujumbe wa sauti!
+js_wa_form_audiotype_entermsg === Weka ujumbe wako hapa...
+js_wa_form_audionotavail_disinput === Haipatikani kwa ujumbe wa sauti!
+response_select_newdoc_file_38 === Tafadhali pakia faili nyingine ya hati!
+response_select_newmed_file_38 === Tafadhali pakia faili nyingine ya midia!
+form_autoreply_modal_widget_matchtype === Aina ya Ulinganifu
+form_autoreply_modal_widget_matchtype_desc === Aina inayolingana ya kutumia kwa ajili ya kutambua manenomsingi.
+form_autoreply_modal_widget_matchtype_sel1 === Hasa (Haijalishi)
+form_autoreply_modal_widget_matchtype_sel2 === Hasa (Nyeti kwa Kesi)
+form_autoreply_modal_widget_matchtype_sel3 === Ina Maneno Muhimu
+form_autoreply_modal_widget_matchtype_sel4 === Usemi wa Mara kwa Mara
+form_autoreply_modal_widget_devicedesc_38 === Chagua kifaa unachotaka kutumia kuanzisha jibu.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Chagua nafasi ya sim unayotaka kutumia kuanzisha jibu.
+form_autoreply_modal_widget_waaccount_38_desc === Chagua akaunti ya WhatsApp unayotaka kutumia kuanzisha jibu.
+form_autoreply_modal_widget_priority_38 === Kipaumbele
+form_autoreply_modal_widget_priority_38_desc === Ikiwashwa, ujumbe utatumwa moja kwa moja na seva ya WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Anzisha
+form_autoreply_modal_widget_trigger_38_desc === Mifuatano au seti ya manenomsingi yaliyotenganishwa na koma ili kutumia kuanzisha jibu otomatiki.
+table_toolsautoreply_account38 === Akaunti: _8880_
+table_toolsautoreply_device38 === Kifaa: _8880_
+forms_whatsapp_mediafilehelp38 === Faili ya midia, faili ya midia ya kupakiwa. Inaauni faili za .jpg, .png, .gif, .mp4, .mp3 na .ogg.

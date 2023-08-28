@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === WhatsApp-Chat konnte nicht gesendet werden
 general_deprecated_msg === Veraltet
 response_gateway_randommax_new === Das maximale Sendeintervall darf nicht größer als 5000 Sekunden sein!
 response_unable_to_process_msg === Leider können wir Ihre Nachricht nicht bearbeiten.
+wa_bulk_selec_acc_unconnected === Ausgewählte WhatsApp-Konten sind nicht verbunden!
+wa_accnts_copy_unique_id_btn === Eindeutige ID kopieren
+wa_groups_btn_copy_group_addr === Gruppenadresse kopieren
+wa_message_type_placeholder_audio === Nicht verfügbar für Audionachrichten!
+js_wa_form_audiotype_entermsg === Geben Sie hier Ihre Nachricht ein...
+js_wa_form_audionotavail_disinput === Nicht verfügbar für Audionachrichten!
+response_select_newdoc_file_38 === Bitte laden Sie eine weitere Dokumentdatei hoch!
+response_select_newmed_file_38 === Bitte laden Sie eine weitere Mediendatei hoch!
+form_autoreply_modal_widget_matchtype === Übereinstimmungstyp
+form_autoreply_modal_widget_matchtype_desc === Der Übereinstimmungstyp, der für die Erkennungsschlüsselwörter verwendet werden soll.
+form_autoreply_modal_widget_matchtype_sel1 === Exakt (Groß- und Kleinschreibung wird ignoriert)
+form_autoreply_modal_widget_matchtype_sel2 === Genau (Groß-/Kleinschreibung beachten)
+form_autoreply_modal_widget_matchtype_sel3 === Enthält die Schlüsselwörter
+form_autoreply_modal_widget_matchtype_sel4 === Regulären Ausdruck
+form_autoreply_modal_widget_devicedesc_38 === Wählen Sie das Gerät aus, das Sie zum Auslösen der Antwort verwenden möchten.
+form_autoreply_modal_widget_simslot_38 === Sim-Slot
+form_autoreply_modal_widget_simslot_38_desc === Wählen Sie den SIM-Slot aus, den Sie zum Auslösen der Antwort verwenden möchten.
+form_autoreply_modal_widget_waaccount_38_desc === Wählen Sie das WhatsApp-Konto aus, das Sie zum Auslösen der Antwort verwenden möchten.
+form_autoreply_modal_widget_priority_38 === Priorität
+form_autoreply_modal_widget_priority_38_desc === Wenn aktiviert, wird die Nachricht direkt vom WhatsApp-Server gesendet.
+form_autoreply_modal_widget_trigger_38 === Auslösen
+form_autoreply_modal_widget_trigger_38_desc === Die durch Kommas getrennten Zeichenfolgen oder Schlüsselwörter, die zum Auslösen der automatischen Antwort verwendet werden sollen.
+table_toolsautoreply_account38 === Konto: _8880_
+table_toolsautoreply_device38 === Gerät: _8880_
+forms_whatsapp_mediafilehelp38 === Mediendatei, die hochzuladende Mediendatei. Unterstützt .jpg-, .png-, .gif-, .mp4-, .mp3- und .ogg-Dateien.

@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === فشل إرسال دردشة WhatsApp!
 general_deprecated_msg === إهمال
 response_gateway_randommax_new === لا يمكن أن يكون الحد الأقصى لفاصل الإرسال أكبر من 5000 ثانية!
 response_unable_to_process_msg === عذرا ، نحن غير قادرين على معالجة رسالتك.
+wa_bulk_selec_acc_unconnected === حسابات WhatsApp المحددة غير متصلة!
+wa_accnts_copy_unique_id_btn === انسخ المعرف الفريد
+wa_groups_btn_copy_group_addr === انسخ عنوان المجموعة
+wa_message_type_placeholder_audio === غير متاح للرسائل الصوتية!
+js_wa_form_audiotype_entermsg === أدخل رسالتك هنا...
+js_wa_form_audionotavail_disinput === غير متاح للرسائل الصوتية!
+response_select_newdoc_file_38 === يرجى تحميل ملف مستند آخر!
+response_select_newmed_file_38 === يرجى تحميل ملف وسائط آخر!
+form_autoreply_modal_widget_matchtype === نوع مباراة
+form_autoreply_modal_widget_matchtype_desc === نوع المطابقة المطلوب استخدامه للكشف عن الكلمات الرئيسية.
+form_autoreply_modal_widget_matchtype_sel1 === تام (حساس لحالة الأحرف)
+form_autoreply_modal_widget_matchtype_sel2 === تام (حساس لحالة الأحرف)
+form_autoreply_modal_widget_matchtype_sel3 === يحتوي على الكلمات الرئيسية
+form_autoreply_modal_widget_matchtype_sel4 === تعبير عادي
+form_autoreply_modal_widget_devicedesc_38 === حدد الجهاز الذي تريد استخدامه لبدء الرد.
+form_autoreply_modal_widget_simslot_38 === فتحة سيم
+form_autoreply_modal_widget_simslot_38_desc === حدد فتحة بطاقة sim التي تريد استخدامها لبدء الرد.
+form_autoreply_modal_widget_waaccount_38_desc === حدد حساب WhatsApp الذي تريد استخدامه لبدء الرد.
+form_autoreply_modal_widget_priority_38 === أولوية
+form_autoreply_modal_widget_priority_38_desc === إذا تم تمكينه، فسيتم إرسال الرسالة مباشرة من خلال خادم WhatsApp.
+form_autoreply_modal_widget_trigger_38 === مشغل
+form_autoreply_modal_widget_trigger_38_desc === السلاسل أو مجموعة الكلمات الرئيسية المفصولة بفاصلة لاستخدامها في تشغيل الرد التلقائي.
+table_toolsautoreply_account38 === الحساب : _8880_
+table_toolsautoreply_device38 === الجهاز : _8880_
+forms_whatsapp_mediafilehelp38 === ملف الوسائط، ملف الوسائط المراد تحميله. يدعم ملفات .jpg و.png و.gif و.mp4 و.mp3 و.ogg.

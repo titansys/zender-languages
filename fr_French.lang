@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Échec de l'envoi du chat WhatsApp !
 general_deprecated_msg === Obsolète
 response_gateway_randommax_new === L'intervalle d'envoi maximum ne peut pas être supérieur à 5000 secondes !
 response_unable_to_process_msg === Désolé, nous ne pouvons pas traiter votre message.
+wa_bulk_selec_acc_unconnected === Les comptes WhatsApp sélectionnés ne sont pas connectés !
+wa_accnts_copy_unique_id_btn === Copier l'identifiant unique
+wa_groups_btn_copy_group_addr === Copier l'adresse du groupe
+wa_message_type_placeholder_audio === Non disponible pour les messages audio !
+js_wa_form_audiotype_entermsg === Entrez votre message ici...
+js_wa_form_audionotavail_disinput === Non disponible pour les messages audio !
+response_select_newdoc_file_38 === Veuillez télécharger un autre fichier de document !
+response_select_newmed_file_38 === Veuillez télécharger un autre fichier multimédia !
+form_autoreply_modal_widget_matchtype === Type de match
+form_autoreply_modal_widget_matchtype_desc === Le type de correspondance à utiliser pour les mots-clés de détection.
+form_autoreply_modal_widget_matchtype_sel1 === Exact (insensible à la casse)
+form_autoreply_modal_widget_matchtype_sel2 === Exact (sensible à la casse)
+form_autoreply_modal_widget_matchtype_sel3 === Contient les mots-clés
+form_autoreply_modal_widget_matchtype_sel4 === Expression régulière
+form_autoreply_modal_widget_devicedesc_38 === Sélectionnez l'appareil que vous souhaitez utiliser pour déclencher la réponse.
+form_autoreply_modal_widget_simslot_38 === Emplacement SIM
+form_autoreply_modal_widget_simslot_38_desc === Sélectionnez l'emplacement SIM que vous souhaitez utiliser pour déclencher la réponse.
+form_autoreply_modal_widget_waaccount_38_desc === Sélectionnez le compte WhatsApp que vous souhaitez utiliser pour déclencher la réponse.
+form_autoreply_modal_widget_priority_38 === Priorité
+form_autoreply_modal_widget_priority_38_desc === S'il est activé, le message sera envoyé directement par le serveur WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Déclenchement
+form_autoreply_modal_widget_trigger_38_desc === Les chaînes ou l'ensemble de mots-clés séparés par une virgule à utiliser pour déclencher la réponse automatique.
+table_toolsautoreply_account38 === Compte : _8880_
+table_toolsautoreply_device38 === Appareil : _8880_
+forms_whatsapp_mediafilehelp38 === Fichier multimédia, le fichier multimédia à télécharger. Prend en charge les fichiers .jpg, .png, .gif, .mp4, .mp3 et .ogg.

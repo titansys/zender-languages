@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === שליחת צ'אט WhatsApp נכשלה!
 general_deprecated_msg === הוצא משימוש
 response_gateway_randommax_new === מרווח השליחה המרבי לא יכול להיות גדול מ-5000 שניות!
 response_unable_to_process_msg === מצטערים, איננו יכולים לעבד את הודעתך.
+wa_bulk_selec_acc_unconnected === חשבונות WhatsApp נבחרים אינם מחוברים!
+wa_accnts_copy_unique_id_btn === העתק מזהה ייחודי
+wa_groups_btn_copy_group_addr === העתק את כתובת הקבוצה
+wa_message_type_placeholder_audio === לא זמין עבור הודעות שמע!
+js_wa_form_audiotype_entermsg === הכנס את הודעתך כאן...
+js_wa_form_audionotavail_disinput === לא זמין עבור הודעות שמע!
+response_select_newdoc_file_38 === אנא העלה קובץ מסמך נוסף!
+response_select_newmed_file_38 === נא להעלות קובץ מדיה אחר!
+form_autoreply_modal_widget_matchtype === סוג התאמה
+form_autoreply_modal_widget_matchtype_desc === סוג ההתאמה לשימוש עבור מילות המפתח המאתרות.
+form_autoreply_modal_widget_matchtype_sel1 === מדויק (לא רגיש לאותיות גדולות)
+form_autoreply_modal_widget_matchtype_sel2 === מדויק (תלוי רישיות)
+form_autoreply_modal_widget_matchtype_sel3 === מכיל את מילות המפתח
+form_autoreply_modal_widget_matchtype_sel4 === הבעה רגילה
+form_autoreply_modal_widget_devicedesc_38 === בחר את המכשיר שבו ברצונך להשתמש כדי להפעיל את התשובה.
+form_autoreply_modal_widget_simslot_38 === חריץ סים
+form_autoreply_modal_widget_simslot_38_desc === בחר את חריץ ה-SIM שבו ברצונך להשתמש כדי להפעיל את התשובה.
+form_autoreply_modal_widget_waaccount_38_desc === בחר בחשבון WhatsApp שבו ברצונך להשתמש כדי להפעיל את התשובה.
+form_autoreply_modal_widget_priority_38 === עדיפות
+form_autoreply_modal_widget_priority_38_desc === אם מופעל, ההודעה תישלח ישירות על ידי שרת WhatsApp.
+form_autoreply_modal_widget_trigger_38 === הדק
+form_autoreply_modal_widget_trigger_38_desc === המחרוזות או קבוצת מילות המפתח מופרדות בפסיק לשימוש להפעלת המענה האוטומטי.
+table_toolsautoreply_account38 === חשבון: _8880_
+table_toolsautoreply_device38 === מכשיר: _8880_
+forms_whatsapp_mediafilehelp38 === קובץ מדיה, קובץ המדיה שיש להעלות. תומך בקבצי .jpg, .png, .gif, .mp4, .mp3 ו- .ogg.

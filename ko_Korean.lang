@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === WhatsApp 채팅을 보내지 못했습니�
 general_deprecated_msg === 더 이상 사용되지 않음
 response_gateway_randommax_new === 최대 전송 간격은 5000초를 초과할 수 없습니다!
 response_unable_to_process_msg === 죄송합니다. 메시지를 처리할 수 없습니다.
+wa_bulk_selec_acc_unconnected === 선택한 WhatsApp 계정이 연결되지 않았습니다!
+wa_accnts_copy_unique_id_btn === 고유 ID 복사
+wa_groups_btn_copy_group_addr === 그룹 주소 복사
+wa_message_type_placeholder_audio === 오디오 메시지에는 사용할 수 없습니다!
+js_wa_form_audiotype_entermsg === 여기에 메시지를 입력하세요...
+js_wa_form_audionotavail_disinput === 오디오 메시지에는 사용할 수 없습니다!
+response_select_newdoc_file_38 === 다른 문서 파일을 업로드해주세요!
+response_select_newmed_file_38 === 다른 미디어 파일을 업로드해주세요!
+form_autoreply_modal_widget_matchtype === 일치 유형
+form_autoreply_modal_widget_matchtype_desc === 키워드 감지에 사용할 일치 유형입니다.
+form_autoreply_modal_widget_matchtype_sel1 === 정확함(대소문자 구분 안함)
+form_autoreply_modal_widget_matchtype_sel2 === 정확함(대소문자 구분)
+form_autoreply_modal_widget_matchtype_sel3 === 키워드를 포함합니다
+form_autoreply_modal_widget_matchtype_sel4 === 정규식
+form_autoreply_modal_widget_devicedesc_38 === 응답을 트리거하는 데 사용할 장치를 선택하십시오.
+form_autoreply_modal_widget_simslot_38 === 심 슬롯
+form_autoreply_modal_widget_simslot_38_desc === 응답 트리거에 사용할 SIM 슬롯을 선택하세요.
+form_autoreply_modal_widget_waaccount_38_desc === 답장을 보내는 데 사용할 WhatsApp 계정을 선택하세요.
+form_autoreply_modal_widget_priority_38 === 우선 사항
+form_autoreply_modal_widget_priority_38_desc === 활성화하면 메시지가 WhatsApp 서버에서 직접 전송됩니다.
+form_autoreply_modal_widget_trigger_38 === 방아쇠
+form_autoreply_modal_widget_trigger_38_desc === 자동 회신을 실행하는 데 사용하기 위해 쉼표로 구분된 문자열 또는 키워드 집합입니다.
+table_toolsautoreply_account38 === 계정: _8880_
+table_toolsautoreply_device38 === 장치: _8880_
+forms_whatsapp_mediafilehelp38 === 미디어 파일, 업로드할 미디어 파일입니다. .jpg, .png, .gif, .mp4, .mp3 및 .ogg 파일을 지원합니다.

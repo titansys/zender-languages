@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Impossibile inviare la chat di WhatsApp!
 general_deprecated_msg === Deprecato
 response_gateway_randommax_new === L'intervallo massimo di invio non può essere superiore a 5000 secondi!
 response_unable_to_process_msg === Siamo spiacenti, non siamo in grado di elaborare il tuo messaggio.
+wa_bulk_selec_acc_unconnected === Gli account WhatsApp selezionati non sono collegati!
+wa_accnts_copy_unique_id_btn === Copia ID univoco
+wa_groups_btn_copy_group_addr === Copia indirizzo gruppo
+wa_message_type_placeholder_audio === Non disponibile per i messaggi audio!
+js_wa_form_audiotype_entermsg === Inserisci qui il tuo messaggio...
+js_wa_form_audionotavail_disinput === Non disponibile per i messaggi audio!
+response_select_newdoc_file_38 === Per favore carica un altro file di documento!
+response_select_newmed_file_38 === Per favore carica un altro file multimediale!
+form_autoreply_modal_widget_matchtype === Tipo di corrispondenza
+form_autoreply_modal_widget_matchtype_desc === Il tipo di corrispondenza da utilizzare per il rilevamento delle parole chiave.
+form_autoreply_modal_widget_matchtype_sel1 === Esatto (senza distinzione tra maiuscole e minuscole)
+form_autoreply_modal_widget_matchtype_sel2 === Esatto (con distinzione tra maiuscole e minuscole)
+form_autoreply_modal_widget_matchtype_sel3 === Contiene le parole chiave
+form_autoreply_modal_widget_matchtype_sel4 === Espressione regolare
+form_autoreply_modal_widget_devicedesc_38 === Seleziona il dispositivo che desideri utilizzare per attivare la risposta.
+form_autoreply_modal_widget_simslot_38 === Slot per SIM
+form_autoreply_modal_widget_simslot_38_desc === Seleziona lo slot SIM che desideri utilizzare per attivare la risposta.
+form_autoreply_modal_widget_waaccount_38_desc === Seleziona l'account WhatsApp che desideri utilizzare per attivare la risposta.
+form_autoreply_modal_widget_priority_38 === Priorità
+form_autoreply_modal_widget_priority_38_desc === Se abilitato, il messaggio verrà inviato direttamente dal server WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Grilletto
+form_autoreply_modal_widget_trigger_38_desc === Le stringhe o l'insieme di parole chiave separate da virgola da utilizzare per attivare la risposta automatica.
+table_toolsautoreply_account38 === Conto: _8880_
+table_toolsautoreply_device38 === Dispositivo: _8880_
+forms_whatsapp_mediafilehelp38 === File multimediale, il file multimediale da caricare. Supporta file .jpg, .png, .gif, .mp4, .mp3 e .ogg.

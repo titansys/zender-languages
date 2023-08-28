@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === WhatsApp sohbeti gönderilemedi!
 general_deprecated_msg === Kullanımdan kaldırıldı
 response_gateway_randommax_new === Maksimum gönderme aralığı 5000 saniyeden fazla olamaz!
 response_unable_to_process_msg === Üzgünüz, mesajınızı işleme alamıyoruz.
+wa_bulk_selec_acc_unconnected === Seçilen WhatsApp hesapları bağlı değil!
+wa_accnts_copy_unique_id_btn === Benzersiz Kimliği Kopyala
+wa_groups_btn_copy_group_addr === Grup Adresini Kopyala
+wa_message_type_placeholder_audio === Sesli mesajlarda kullanılamaz!
+js_wa_form_audiotype_entermsg === Mesajınızı buraya girin...
+js_wa_form_audionotavail_disinput === Sesli mesajlarda kullanılamaz!
+response_select_newdoc_file_38 === Lütfen başka bir belge dosyası yükleyin!
+response_select_newmed_file_38 === Lütfen başka bir medya dosyası yükleyin!
+form_autoreply_modal_widget_matchtype === Eşleşme türü
+form_autoreply_modal_widget_matchtype_desc === Anahtar kelimeleri tespit etmek için kullanılacak eşleme türü.
+form_autoreply_modal_widget_matchtype_sel1 === Tam (Büyük/Küçük Harfe Duyarsız)
+form_autoreply_modal_widget_matchtype_sel2 === Tam (Büyük/Küçük Harfe Duyarlı)
+form_autoreply_modal_widget_matchtype_sel3 === Anahtar Kelimeleri İçerir
+form_autoreply_modal_widget_matchtype_sel4 === Düzenli ifade
+form_autoreply_modal_widget_devicedesc_38 === Yanıtı tetiklemek için kullanmak istediğiniz cihazı seçin.
+form_autoreply_modal_widget_simslot_38 === Sim Yuvası
+form_autoreply_modal_widget_simslot_38_desc === Yanıtı tetiklemek için kullanmak istediğiniz SIM yuvasını seçin.
+form_autoreply_modal_widget_waaccount_38_desc === Yanıtı tetiklemek için kullanmak istediğiniz WhatsApp hesabını seçin.
+form_autoreply_modal_widget_priority_38 === Öncelik
+form_autoreply_modal_widget_priority_38_desc === Etkinleştirilirse mesaj doğrudan WhatsApp sunucusu tarafından gönderilecektir.
+form_autoreply_modal_widget_trigger_38 === Tetiklemek
+form_autoreply_modal_widget_trigger_38_desc === Otomatik yanıtı tetiklemek için kullanılacak virgülle ayrılmış dizeler veya anahtar kelime kümesi.
+table_toolsautoreply_account38 === Hesap: _8880_
+table_toolsautoreply_device38 === Cihaz: _8880_
+forms_whatsapp_mediafilehelp38 === Medya dosyası, yüklenecek medya dosyası. .jpg, .png, .gif, .mp4, .mp3 ve .ogg dosyalarını destekler.

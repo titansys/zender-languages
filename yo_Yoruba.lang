@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Ikuna fifiranṣẹ iwiregbe WhatsApp!
 general_deprecated_msg === Idinku
 response_gateway_randommax_new === Aarin fifiranṣẹ ti o pọju ko le tobi ju awọn aaya 5000 lọ!
 response_unable_to_process_msg === Ma binu, a ko le ṣe ilana ifiranṣẹ rẹ.
+wa_bulk_selec_acc_unconnected === Awọn akọọlẹ WhatsApp ti a yan ko ni asopọ!
+wa_accnts_copy_unique_id_btn === Daakọ ID ID
+wa_groups_btn_copy_group_addr === Daakọ Adirẹsi Ẹgbẹ
+wa_message_type_placeholder_audio === Ko wa fun awọn ifiranṣẹ ohun!
+js_wa_form_audiotype_entermsg === Tẹ ifiranṣẹ rẹ sii nibi...
+js_wa_form_audionotavail_disinput === Ko wa fun awọn ifiranṣẹ ohun!
+response_select_newdoc_file_38 === Jọwọ gbejade faili iwe-ipamọ miiran!
+response_select_newmed_file_38 === Jọwọ gbejade faili media miiran!
+form_autoreply_modal_widget_matchtype === Baramu Iru
+form_autoreply_modal_widget_matchtype_desc === Iru ibaramu lati lo fun wiwa awọn koko-ọrọ.
+form_autoreply_modal_widget_matchtype_sel1 === Gangan (Irú Ainilara)
+form_autoreply_modal_widget_matchtype_sel2 === Gangan (Irú Ẹri)
+form_autoreply_modal_widget_matchtype_sel3 === Ni Awọn Koko-ọrọ ninu
+form_autoreply_modal_widget_matchtype_sel4 === Ikosile deede
+form_autoreply_modal_widget_devicedesc_38 === Yan ẹrọ ti o fẹ lo fun titan esi naa.
+form_autoreply_modal_widget_simslot_38 === Iho Sim
+form_autoreply_modal_widget_simslot_38_desc === Yan awọn SIM Iho ti o fẹ lati lo fun a okunfa idahun.
+form_autoreply_modal_widget_waaccount_38_desc === Yan akọọlẹ WhatsApp ti o fẹ lo fun ti nfa idahun naa.
+form_autoreply_modal_widget_priority_38 === Ni ayo
+form_autoreply_modal_widget_priority_38_desc === Ti o ba ṣiṣẹ, ifiranṣẹ naa yoo firanṣẹ taara nipasẹ olupin WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Nfa
+form_autoreply_modal_widget_trigger_38_desc === Awọn gbolohun ọrọ tabi ṣeto awọn ọrọ-ọrọ ti a yapa nipasẹ komama lati lo fun ti nfa idahun aifọwọyi.
+table_toolsautoreply_account38 === Akọọlẹ: _8880_
+table_toolsautoreply_device38 === Ẹrọ: _8880_
+forms_whatsapp_mediafilehelp38 === Faili Media, faili media lati gbejade. Ṣe atilẹyin .jpg, .png, .gif, .mp4, .mp3 ati awọn faili .ogg.

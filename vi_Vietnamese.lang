@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Không thể gửi trò chuyện WhatsApp!
 general_deprecated_msg === không dùng nữa
 response_gateway_randommax_new === Khoảng thời gian gửi tối đa không thể lớn hơn 5000 giây!
 response_unable_to_process_msg === Xin lỗi, chúng tôi không thể xử lý tin nhắn của bạn.
+wa_bulk_selec_acc_unconnected === Tài khoản WhatsApp đã chọn không được kết nối!
+wa_accnts_copy_unique_id_btn === Sao chép ID duy nhất
+wa_groups_btn_copy_group_addr === Sao chép địa chỉ nhóm
+wa_message_type_placeholder_audio === Không có sẵn cho tin nhắn âm thanh!
+js_wa_form_audiotype_entermsg === Nhập tin nhắn của bạn ở đây...
+js_wa_form_audionotavail_disinput === Không có sẵn cho tin nhắn âm thanh!
+response_select_newdoc_file_38 === Vui lòng tải lên một tập tin tài liệu khác!
+response_select_newmed_file_38 === Vui lòng tải lên một tập tin phương tiện khác!
+form_autoreply_modal_widget_matchtype === Loại so khớp
+form_autoreply_modal_widget_matchtype_desc === Loại đối sánh để sử dụng cho các từ khóa phát hiện.
+form_autoreply_modal_widget_matchtype_sel1 === Chính xác (Không phân biệt chữ hoa chữ thường)
+form_autoreply_modal_widget_matchtype_sel2 === Chính xác (Phân biệt chữ hoa chữ thường)
+form_autoreply_modal_widget_matchtype_sel3 === Chứa các từ khóa
+form_autoreply_modal_widget_matchtype_sel4 === Biểu hiện thông thường
+form_autoreply_modal_widget_devicedesc_38 === Chọn thiết bị bạn muốn sử dụng để kích hoạt trả lời.
+form_autoreply_modal_widget_simslot_38 === Khe cắm sim
+form_autoreply_modal_widget_simslot_38_desc === Chọn khe cắm sim bạn muốn sử dụng để kích hoạt trả lời.
+form_autoreply_modal_widget_waaccount_38_desc === Chọn tài khoản WhatsApp bạn muốn sử dụng để kích hoạt phản hồi.
+form_autoreply_modal_widget_priority_38 === Sự ưu tiên
+form_autoreply_modal_widget_priority_38_desc === Nếu được bật, tin nhắn sẽ được gửi trực tiếp bởi máy chủ WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Cò súng
+form_autoreply_modal_widget_trigger_38_desc === Các chuỗi hoặc tập hợp từ khóa được phân tách bằng dấu phẩy để sử dụng cho việc kích hoạt tính năng tự động trả lời.
+table_toolsautoreply_account38 === Tài khoản: _8880_
+table_toolsautoreply_device38 === Thiết bị: _8880_
+forms_whatsapp_mediafilehelp38 === Tệp phương tiện, tệp phương tiện sẽ được tải lên. Hỗ trợ các tệp .jpg, .png, .gif, .mp4, .mp3 và .ogg.

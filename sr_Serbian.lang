@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Слање ВхатсАпп ћаскања
 general_deprecated_msg === Застарела
 response_gateway_randommax_new === Максимални интервал слања не може бити већи од 5000 секунди!
 response_unable_to_process_msg === Жао нам је, нисмо у могућности да обрадимо вашу поруку.
+wa_bulk_selec_acc_unconnected === Одабрани ВхатсАпп налози нису повезани!
+wa_accnts_copy_unique_id_btn === Копирај јединствени ИД
+wa_groups_btn_copy_group_addr === Копирај адресу групе
+wa_message_type_placeholder_audio === Није доступно за аудио поруке!
+js_wa_form_audiotype_entermsg === Унесите своју поруку овде...
+js_wa_form_audionotavail_disinput === Није доступно за аудио поруке!
+response_select_newdoc_file_38 === Отпремите још једну датотеку документа!
+response_select_newmed_file_38 === Отпремите другу медијску датотеку!
+form_autoreply_modal_widget_matchtype === Тип подударања
+form_autoreply_modal_widget_matchtype_desc === Тип подударања који се користи за откривање кључних речи.
+form_autoreply_modal_widget_matchtype_sel1 === Тачно (не разликује велика и мала слова)
+form_autoreply_modal_widget_matchtype_sel2 === Тачно (разликује велика и мала слова)
+form_autoreply_modal_widget_matchtype_sel3 === Садржи кључне речи
+form_autoreply_modal_widget_matchtype_sel4 === Регуларни израз
+form_autoreply_modal_widget_devicedesc_38 === Изаберите уређај који желите да користите за покретање одговора.
+form_autoreply_modal_widget_simslot_38 === Сим Слот
+form_autoreply_modal_widget_simslot_38_desc === Изаберите слот за СИМ који желите да користите за покретање одговора.
+form_autoreply_modal_widget_waaccount_38_desc === Изаберите ВхатсАпп налог који желите да користите за покретање одговора.
+form_autoreply_modal_widget_priority_38 === Приоритет
+form_autoreply_modal_widget_priority_38_desc === Ако је омогућено, порука ће бити послата директно са ВхатсАпп сервера.
+form_autoreply_modal_widget_trigger_38 === Окидач
+form_autoreply_modal_widget_trigger_38_desc === Стрингови или скуп кључних речи раздвојених зарезом за коришћење за покретање аутоматског одговора.
+table_toolsautoreply_account38 === Налог: _8880_
+table_toolsautoreply_device38 === Уређај: _8880_
+forms_whatsapp_mediafilehelp38 === Медијска датотека, медијска датотека за отпремање. Подржава .јпг, .пнг, .гиф, .мп4, .мп3 и .огг датотеке.

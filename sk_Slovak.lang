@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Odoslanie chatu WhatsApp zlyhalo!
 general_deprecated_msg === Zastarané
 response_gateway_randommax_new === Maximálny interval odosielania nemôže byť väčší ako 5000 sekúnd!
 response_unable_to_process_msg === Ľutujeme, vašu správu nemôžeme spracovať.
+wa_bulk_selec_acc_unconnected === Vybrané účty WhatsApp nie sú prepojené!
+wa_accnts_copy_unique_id_btn === Kopírovať jedinečné ID
+wa_groups_btn_copy_group_addr === Kopírovať adresu skupiny
+wa_message_type_placeholder_audio === Nie je k dispozícii pre zvukové správy!
+js_wa_form_audiotype_entermsg === Tu zadajte svoju správu...
+js_wa_form_audionotavail_disinput === Nie je k dispozícii pre zvukové správy!
+response_select_newdoc_file_38 === Nahrajte iný súbor dokumentu!
+response_select_newmed_file_38 === Nahrajte iný mediálny súbor!
+form_autoreply_modal_widget_matchtype === Typ zhody
+form_autoreply_modal_widget_matchtype_desc === Typ zhody, ktorý sa má použiť na zisťovanie kľúčových slov.
+form_autoreply_modal_widget_matchtype_sel1 === Presné (nerozlišujú sa malé a veľké písmená)
+form_autoreply_modal_widget_matchtype_sel2 === Presné (rozlišujú sa malé a veľké písmená)
+form_autoreply_modal_widget_matchtype_sel3 === Obsahuje kľúčové slová
+form_autoreply_modal_widget_matchtype_sel4 === Regulárny výraz
+form_autoreply_modal_widget_devicedesc_38 === Vyberte zariadenie, ktoré chcete použiť na spustenie odpovede.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Vyberte slot sim, ktorý chcete použiť na spustenie odpovede.
+form_autoreply_modal_widget_waaccount_38_desc === Vyberte účet WhatsApp, ktorý chcete použiť na spustenie odpovede.
+form_autoreply_modal_widget_priority_38 === Priorita
+form_autoreply_modal_widget_priority_38_desc === Ak je povolená, správa bude odoslaná priamo serverom WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Spúšťač
+form_autoreply_modal_widget_trigger_38_desc === Reťazce alebo množina kľúčových slov oddelených čiarkou, ktoré sa majú použiť na spustenie automatickej odpovede.
+table_toolsautoreply_account38 === Účet: _8880_
+table_toolsautoreply_device38 === Zariadenie: _8880_
+forms_whatsapp_mediafilehelp38 === Mediálny súbor, mediálny súbor, ktorý sa má nahrať. Podporuje súbory .jpg, .png, .gif, .mp4, .mp3 a .ogg.

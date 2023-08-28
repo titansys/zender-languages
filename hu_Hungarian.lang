@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Nem sikerült elküldeni a WhatsApp-cseveg
 general_deprecated_msg === Elavult
 response_gateway_randommax_new === A maximális küldési intervallum nem lehet több 5000 másodpercnél!
 response_unable_to_process_msg === Sajnáljuk, nem tudjuk feldolgozni üzenetét.
+wa_bulk_selec_acc_unconnected === A kiválasztott WhatsApp-fiókok nincsenek összekapcsolva!
+wa_accnts_copy_unique_id_btn === Egyedi azonosító másolása
+wa_groups_btn_copy_group_addr === Csoportcím másolása
+wa_message_type_placeholder_audio === Hangüzenetekhez nem használható!
+js_wa_form_audiotype_entermsg === Írja be üzenetét ide...
+js_wa_form_audionotavail_disinput === Hangüzenetekhez nem használható!
+response_select_newdoc_file_38 === Kérjük, töltsön fel másik dokumentumfájlt!
+response_select_newmed_file_38 === Kérjük, töltsön fel másik médiafájlt!
+form_autoreply_modal_widget_matchtype === Egyezés típusa
+form_autoreply_modal_widget_matchtype_desc === A kulcsszavak észleléséhez használandó egyezési típus.
+form_autoreply_modal_widget_matchtype_sel1 === Pontos (kis- és nagybetűk megkülönböztetése)
+form_autoreply_modal_widget_matchtype_sel2 === Pontos (kis- és nagybetűk megkülönböztetése)
+form_autoreply_modal_widget_matchtype_sel3 === Tartalmazza a kulcsszavakat
+form_autoreply_modal_widget_matchtype_sel4 === Reguláris kifejezés
+form_autoreply_modal_widget_devicedesc_38 === Válassza ki a válasz indításához használni kívánt eszközt.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Válassza ki a válasz indításához használni kívánt SIM-kártyahelyet.
+form_autoreply_modal_widget_waaccount_38_desc === Válassza ki a válasz indításához használni kívánt WhatsApp-fiókot.
+form_autoreply_modal_widget_priority_38 === Kiemelten fontos
+form_autoreply_modal_widget_priority_38_desc === Ha engedélyezve van, az üzenetet közvetlenül a WhatsApp szerver küldi el.
+form_autoreply_modal_widget_trigger_38 === Kioldó
+form_autoreply_modal_widget_trigger_38_desc === Az automatikus válasz indításához használt karakterláncok vagy kulcsszavak vesszővel elválasztva.
+table_toolsautoreply_account38 === Számla: _8880_
+table_toolsautoreply_device38 === Eszköz: _8880_
+forms_whatsapp_mediafilehelp38 === Médiafájl, a feltöltendő médiafájl. Támogatja a .jpg, .png, .gif, .mp4, .mp3 és .ogg fájlokat.

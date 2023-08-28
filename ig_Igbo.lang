@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Izipu nkata WhatsApp agaghị eme!
 general_deprecated_msg === Akwụsịla
 response_gateway_randommax_new === Ogologo oge izipu kachasị enweghị ike karịa 5000 sekọnd!
 response_unable_to_process_msg === Ndo, anyị enweghị ike hazie ozi gị.
+wa_bulk_selec_acc_unconnected === Ejikọtaghị akaụntụ WhatsApp ahọpụtara!
+wa_accnts_copy_unique_id_btn === Detuo NJ Pụrụ Iche
+wa_groups_btn_copy_group_addr === Detuo adreesị otu
+wa_message_type_placeholder_audio === Ọ dịghị maka ozi ọdịyo!
+js_wa_form_audiotype_entermsg === Tinye ozi gị ebe a...
+js_wa_form_audionotavail_disinput === Ọ dịghị maka ozi ọdịyo!
+response_select_newdoc_file_38 === Biko bulite faịlụ akwụkwọ ọzọ!
+response_select_newmed_file_38 === Biko bulite faịlụ mgbasa ozi ọzọ!
+form_autoreply_modal_widget_matchtype === Ụdị egwuregwu
+form_autoreply_modal_widget_matchtype_desc === Ụdị dakọtara a ga-eji maka ịchọpụta mkpụrụokwu.
+form_autoreply_modal_widget_matchtype_sel1 === Kpọmkwem (Akụkọ enweghị mmetụta)
+form_autoreply_modal_widget_matchtype_sel2 === Kpọmkwem (Nke nwere mmetụta)
+form_autoreply_modal_widget_matchtype_sel3 === Nwere Keywords
+form_autoreply_modal_widget_matchtype_sel4 === Nkwupụta oge niile
+form_autoreply_modal_widget_devicedesc_38 === Họrọ ngwaọrụ ịchọrọ iji maka ịkpalite azịza ya.
+form_autoreply_modal_widget_simslot_38 === oghere Sim
+form_autoreply_modal_widget_simslot_38_desc === Họrọ oghere sim ịchọrọ iji maka ịkpalite nzaghachi ahụ.
+form_autoreply_modal_widget_waaccount_38_desc === Họrọ akaụntụ WhatsApp ịchọrọ iji maka ịkpalite azịza.
+form_autoreply_modal_widget_priority_38 === Ibu ụzọ
+form_autoreply_modal_widget_priority_38_desc === Ọ bụrụ na agbanyere ya, a ga-eziga ozi ahụ ozugbo site na sava WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Mkpali
+form_autoreply_modal_widget_trigger_38_desc === Eririokwu ma ọ bụ setịpụ mkpụrụokwu kewapụrụ site na rikoma ka ejiri maka ịkpalite nzaghachi akpaaka.
+table_toolsautoreply_account38 === Akaụntụ: _8880_
+table_toolsautoreply_device38 === Ngwaọrụ: _8880_
+forms_whatsapp_mediafilehelp38 === Faịlụ mgbasa ozi, faịlụ mgbasa ozi nke a ga-ebugo. Na-akwado .jpg, .png, .gif, .mp4, .mp3 na .ogg faịlụ.

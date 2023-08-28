@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Det gick inte att skicka WhatsApp-chatt!
 general_deprecated_msg === Utfasad
 response_gateway_randommax_new === Maximalt sändningsintervall får inte vara större än 5000 sekunder!
 response_unable_to_process_msg === Tyvärr, vi kan inte behandla ditt meddelande.
+wa_bulk_selec_acc_unconnected === Valda WhatsApp-konton är inte anslutna!
+wa_accnts_copy_unique_id_btn === Kopiera unikt ID
+wa_groups_btn_copy_group_addr === Kopiera gruppadress
+wa_message_type_placeholder_audio === Ej tillgängligt för ljudmeddelanden!
+js_wa_form_audiotype_entermsg === Skriv ditt meddelande här...
+js_wa_form_audionotavail_disinput === Ej tillgängligt för ljudmeddelanden!
+response_select_newdoc_file_38 === Ladda upp en annan dokumentfil!
+response_select_newmed_file_38 === Ladda upp en annan mediafil!
+form_autoreply_modal_widget_matchtype === Matchningstyp
+form_autoreply_modal_widget_matchtype_desc === Den matchningstyp som ska användas för att upptäcka sökord.
+form_autoreply_modal_widget_matchtype_sel1 === Exakt (okänslig för skiftlägen)
+form_autoreply_modal_widget_matchtype_sel2 === Exakt (skiftlägeskänslig)
+form_autoreply_modal_widget_matchtype_sel3 === Innehåller nyckelorden
+form_autoreply_modal_widget_matchtype_sel4 === Vanligt uttryck
+form_autoreply_modal_widget_devicedesc_38 === Välj den enhet du vill använda för att utlösa svaret.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Välj den simplats du vill använda för att utlösa svaret.
+form_autoreply_modal_widget_waaccount_38_desc === Välj det WhatsApp-konto du vill använda för att utlösa svaret.
+form_autoreply_modal_widget_priority_38 === Prioritet
+form_autoreply_modal_widget_priority_38_desc === Om det är aktiverat kommer meddelandet att skickas direkt av WhatsApp-servern.
+form_autoreply_modal_widget_trigger_38 === Utlösare
+form_autoreply_modal_widget_trigger_38_desc === Strängarna eller uppsättningen nyckelord separerade med kommatecken som ska användas för att utlösa det automatiska svaret.
+table_toolsautoreply_account38 === Konto: _8880_
+table_toolsautoreply_device38 === Enhet: _8880_
+forms_whatsapp_mediafilehelp38 === Mediafil, mediafilen som ska laddas upp. Stöder .jpg, .png, .gif, .mp4, .mp3 och .ogg-filer.

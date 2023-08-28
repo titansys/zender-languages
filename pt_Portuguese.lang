@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Falha ao enviar o bate-papo do WhatsApp!
 general_deprecated_msg === Descontinuada
 response_gateway_randommax_new === O intervalo máximo de envio não pode ser superior a 5000 segundos!
 response_unable_to_process_msg === Desculpe, não podemos processar sua mensagem.
+wa_bulk_selec_acc_unconnected === As contas selecionadas do WhatsApp não estão conectadas!
+wa_accnts_copy_unique_id_btn === Copiar ID exclusivo
+wa_groups_btn_copy_group_addr === Copiar endereço do grupo
+wa_message_type_placeholder_audio === Não disponível para mensagens de áudio!
+js_wa_form_audiotype_entermsg === Digite sua mensagem aqui...
+js_wa_form_audionotavail_disinput === Não disponível para mensagens de áudio!
+response_select_newdoc_file_38 === Por favor carregue outro arquivo de documento!
+response_select_newmed_file_38 === Por favor carregue outro arquivo de mídia!
+form_autoreply_modal_widget_matchtype === Tipo de partida
+form_autoreply_modal_widget_matchtype_desc === O tipo de correspondência a ser usado para as palavras-chave de detecção.
+form_autoreply_modal_widget_matchtype_sel1 === Exato (sem distinção entre maiúsculas e minúsculas)
+form_autoreply_modal_widget_matchtype_sel2 === Exato (diferencia maiúsculas de minúsculas)
+form_autoreply_modal_widget_matchtype_sel3 === Contém as palavras-chave
+form_autoreply_modal_widget_matchtype_sel4 === Expressão regular
+form_autoreply_modal_widget_devicedesc_38 === Selecione o dispositivo que deseja usar para acionar a resposta.
+form_autoreply_modal_widget_simslot_38 === Slot Sim
+form_autoreply_modal_widget_simslot_38_desc === Selecione o slot SIM que deseja usar para acionar a resposta.
+form_autoreply_modal_widget_waaccount_38_desc === Selecione a conta do WhatsApp que deseja usar para acionar a resposta.
+form_autoreply_modal_widget_priority_38 === Prioridade
+form_autoreply_modal_widget_priority_38_desc === Se habilitado, a mensagem será enviada diretamente pelo servidor do WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Acionar
+form_autoreply_modal_widget_trigger_38_desc === As strings ou conjunto de palavras-chave separadas por vírgula a serem usadas para acionar a resposta automática.
+table_toolsautoreply_account38 === Conta: _8880_
+table_toolsautoreply_device38 === Dispositivo: _8880_
+forms_whatsapp_mediafilehelp38 === Arquivo de mídia, o arquivo de mídia a ser carregado. Suporta arquivos .jpg, .png, .gif, .mp4, .mp3 e .ogg.

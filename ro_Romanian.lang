@@ -2656,3 +2656,28 @@ requests_waquicksend_priorityfail === Trimiterea chat-ului WhatsApp eșuată!
 general_deprecated_msg === Depreciat
 response_gateway_randommax_new === Intervalul maxim de trimitere nu poate fi mai mare de 5000 de secunde!
 response_unable_to_process_msg === Ne pare rău, nu putem procesa mesajul dvs.
+wa_bulk_selec_acc_unconnected === Conturile WhatsApp selectate nu sunt conectate!
+wa_accnts_copy_unique_id_btn === Copiați ID unic
+wa_groups_btn_copy_group_addr === Copiați adresa grupului
+wa_message_type_placeholder_audio === Nu este disponibil pentru mesaje audio!
+js_wa_form_audiotype_entermsg === Introdu mesajul tau aici...
+js_wa_form_audionotavail_disinput === Nu este disponibil pentru mesaje audio!
+response_select_newdoc_file_38 === Vă rugăm să încărcați un alt fișier document!
+response_select_newmed_file_38 === Vă rugăm să încărcați un alt fișier media!
+form_autoreply_modal_widget_matchtype === Tip de potrivire
+form_autoreply_modal_widget_matchtype_desc === Tipul de potrivire de utilizat pentru detectarea cuvintelor cheie.
+form_autoreply_modal_widget_matchtype_sel1 === Exact (indiferent majuscule/minuscule)
+form_autoreply_modal_widget_matchtype_sel2 === Exact (sensibil la majuscule și minuscule)
+form_autoreply_modal_widget_matchtype_sel3 === Conține Cuvintele Cheie
+form_autoreply_modal_widget_matchtype_sel4 === Expresie uzuala
+form_autoreply_modal_widget_devicedesc_38 === Selectați dispozitivul pe care doriți să îl utilizați pentru a declanșa răspunsul.
+form_autoreply_modal_widget_simslot_38 === Slot Sim
+form_autoreply_modal_widget_simslot_38_desc === Selectați slotul SIM pe care doriți să îl utilizați pentru a declanșa răspunsul.
+form_autoreply_modal_widget_waaccount_38_desc === Selectați contul WhatsApp pe care doriți să îl utilizați pentru a declanșa răspunsul.
+form_autoreply_modal_widget_priority_38 === Prioritate
+form_autoreply_modal_widget_priority_38_desc === Dacă este activat, mesajul va fi trimis direct de serverul WhatsApp.
+form_autoreply_modal_widget_trigger_38 === Trigger
+form_autoreply_modal_widget_trigger_38_desc === Șirurile sau setul de cuvinte cheie separate prin virgulă de utilizat pentru declanșarea răspunsului automat.
+table_toolsautoreply_account38 === Cont: _8880_
+table_toolsautoreply_device38 === Dispozitiv: _8880_
+forms_whatsapp_mediafilehelp38 === Fișier media, fișierul media care trebuie încărcat. Suportă fișiere .jpg, .png, .gif, .mp4, .mp3 și .ogg.

@@ -1,0 +1,25 @@
+wa_bulk_selec_acc_unconnected === Selected WhatsApp accounts are not connected!
+wa_accnts_copy_unique_id_btn === Copy Unique ID
+wa_groups_btn_copy_group_addr === Copy Group Address
+wa_message_type_placeholder_audio === Not available for audio messages!
+js_wa_form_audiotype_entermsg === Enter your message here...
+js_wa_form_audionotavail_disinput === Not available for audio messages!
+response_select_newdoc_file_38 === Please upload another document file!
+response_select_newmed_file_38 === Please upload another media file!
+form_autoreply_modal_widget_matchtype === Match Type
+form_autoreply_modal_widget_matchtype_desc === The matching type to use for the detecting keywords.
+form_autoreply_modal_widget_matchtype_sel1 === Exact (Case Insensitive)
+form_autoreply_modal_widget_matchtype_sel2 === Exact (Case Sensitive)
+form_autoreply_modal_widget_matchtype_sel3 === Contains The Keywords
+form_autoreply_modal_widget_matchtype_sel4 === Regular Expression
+form_autoreply_modal_widget_devicedesc_38 === Select the device you want to use for trigerring the reply.
+form_autoreply_modal_widget_simslot_38 === Sim Slot
+form_autoreply_modal_widget_simslot_38_desc === Select the sim slot you want to use for trigerring the reply.
+form_autoreply_modal_widget_waaccount_38_desc === Select the WhatsApp account you want to use for triggering the reply.
+form_autoreply_modal_widget_priority_38 === Priority
+form_autoreply_modal_widget_priority_38_desc === If enabled, the message will be sent directly by the WhatsApp server.
+form_autoreply_modal_widget_trigger_38 === Trigger
+form_autoreply_modal_widget_trigger_38_desc === The strings or set of keywords separated by comma to use for triggering the autoreply.
+table_toolsautoreply_account38 === Account: _8880_
+table_toolsautoreply_device38 === Device: _8880_
+forms_whatsapp_mediafilehelp38 === Media file, the media file to be uploaded. Supports .jpg, .png, .gif, .mp4, .mp3 and .ogg files.
